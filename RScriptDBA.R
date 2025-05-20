@@ -1,0 +1,118 @@
+library(DiffBind)
+setwd('~/Stage')
+
+# create dataframe with 5 columns and 22 rows
+## create variables
+SampleID <- c('TIR1_20_1', 'TIR1_20_2', 'TIR1_20_3', 'TIR1_20_4', 'TIR1_22_1', 
+              'TIR1_22_2', 'Smarca4_20_1', 'Smarca4_20_2', 'Smarca4_20_3', 'Smarca4_20_4', 'ARID1A_22_1', 'ARID1A_22_2', 'BRD7_22_1', 'BRD7_22_2', 'BRD9_22_1', 'BRD9_22_2', 'DPF2_22_1', 'DPF2_22_2', 'PDRM1_22_1', 'PDRM1_22_2', 'SMARCB1_22_1', 'SMARCB1_22_2')
+Annee <- c('2020', '2020', '2020', '2020', '2022', '2022', '2020', '2020', 
+           '2020', '2020', '2022', '2022', '2022', '2022', '2022', '2022', '2022', '2022', '2022', '2022', '2022', '2022')
+Condition <- c('control', 'control', 'control', 'control', 'control', 
+               'control', 'Smarca4', 'Smarca4', 'Smarca4', 'Smarca4', 'ARID1A', 'ARID1A', 'BRD7', 'BRD7', 'BRD9', 'BRD9', 'DPF2', 'DPF2', 'PBRM1', 'PBRM1', 'SMARCB1', 'SMARCB1')
+Replicate <- c('1', '2', '3', '4', '1', '2', '1', '2', '3', '4', '1', '2', 
+               '1', '2', '1', '2', '1', '2', '1', '2', '1', '2')
+
+## create dataframe
+table_dba_baf_complexes <- data.frame(SampleID, Annee, 
+                                      Condition, Replicate)
+
+print(table_dba_baf_complexes)
+
+save.image('EnvironmentDiffBindDBA.RData')
+
+
+# ## Import narrowPeak files
+# tir1_20_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep1_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# tir1_20_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep2_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# tir1_2O_3_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep3_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# tir1_20_4_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep4_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# tir1_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1-2-3-4-INPUT_rep1_C002GF8_.narrowPeak",sep='\t')
+# tir1_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1-2-3-4-INPUT_rep2_C002GF7_.narrowPeak",sep='\t')
+# smarca4_20_1_np  <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep1_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# smarca4_20_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep2_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# smarca4_20_3_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep3_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# smarca4_20_4_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep4_g2-3-4_INPUT_2020.narrowPeak",sep='\t')
+# arid1a_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_ARID1A-2-3-4-INPUT_rep1_C002GEX_.narrowPeak",sep='\t')
+# arid1a_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_ARID1A-2-3-4-INPUT_rep2_C002GEY_.narrowPeak",sep='\t')
+# brd7_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD7-2-3-4-INPUT_rep1_C002GF3_.narrowPeak",sep='\t')
+# brd7_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD7-2-3-4-INPUT_rep2_C002GF4_.narrowPeak",sep='\t')
+# brd9_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD9-2-3-4-INPUT_rep1_C002GF5_.narrowPeak",sep='\t')
+# brd9_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD9-2-3-4-INPUT_rep2_C002GF6_.narrowPeak",sep='\t')
+# dpf2_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_DPF2-2-3-4-INPUT_rep1_C002GEZ_.narrowPeak",sep='\t')
+# dpf2_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_DPF2-2-3-4-INPUT_rep2_C002GF0_.narrowPeak",sep='\t')
+# pbrm1_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_PBRM1-2-3-4-INPUT_rep1_C002GF1_.narrowPeak",sep='\t')
+# pbrm1_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_PBRM1-2-3-4-INPUT_rep2_C002GF2_.narrowPeak",sep='\t')
+# smarcb1_22_1_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCB1-2-3-4-INPUT_rep1_C002GF9_.narrowPeak",sep='\t')
+# smarcb1_22_2_np <- read.csv("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCB1-2-3-4-INPUT_rep2_C002GFA_.narrowPeak",sep='\t')
+
+
+# ## Put Narrowpeak files in a variable
+# Input <- c(tir1_20_1_np, tir1_20_2_np, tir1_2O_3_np, tir1_20_4_np, 
+#            tir1_22_1_np, tir1_22_2_np, smarca4_20_1_np, smarca4_20_2_np, smarca4_20_3_np, smarca4_20_4_np, arid1a_22_1_np, arid1a_22_2_np, brd7_22_1_np, brd7_22_2_np, brd9_22_1_np, brd9_22_2_np, dpf2_22_1_np, dpf2_22_2_np, pbrm1_22_1_np, pbrm1_22_2_np, smarcb1_22_1_np, smarcb1_22_2_np)
+
+## Import narrowPeak files
+Peak <- c(file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep1_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep2_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep3_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1_rep4_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1-2-3-4-INPUT_rep1_C002GF8_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_TIR1-2-3-4-INPUT_rep2_C002GF7_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep1_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep2_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep3_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCA4_rep4_g2-3-4_INPUT_2020.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_ARID1A-2-3-4-INPUT_rep1_C002GEX_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_ARID1A-2-3-4-INPUT_rep2_C002GEY_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD7-2-3-4-INPUT_rep1_C002GF3_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD7-2-3-4-INPUT_rep2_C002GF4_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD9-2-3-4-INPUT_rep1_C002GF5_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_BRD9-2-3-4-INPUT_rep2_C002GF6_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_DPF2-2-3-4-INPUT_rep1_C002GEZ_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_DPF2-2-3-4-INPUT_rep2_C002GF0_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_PBRM1-2-3-4-INPUT_rep1_C002GF1_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_PBRM1-2-3-4-INPUT_rep2_C002GF2_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCB1-2-3-4-INPUT_rep1_C002GF9_.narrowPeak"), file.path("~/Stage/data_stage/chr18_peak_input2-4/chr18_SMARCB1-2-3-4-INPUT_rep2_C002GFA_.narrowPeak"))
+
+## Add Input in the table
+table_dba_baf_complexes <- data.frame(SampleID, Annee, 
+                                      Condition, Replicate, Peak)
+
+print(table_dba_baf_complexes)
+
+
+#: Import bam files
+tir1_20_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/chr18_TIR1_rep1_g2-3-4_INPUT_2020.bam.bai")
+tir1_20_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/chr18_TIR1_rep2_g2-3-4_INPUT_2020.bam.bai")
+tir1_20_3_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/chr18_TIR1_rep3_g2-3-4_INPUT_2020.bam.bai")
+tir1_20_4_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_TIR1_rep4_g2-3-4_INPUT_2020.bam.bai")
+tir1_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_TIR1-2-3-4-INPUT_rep1_C002GF8_.bam.bai")
+tir1_22_2_bzm <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_TIR1-2-3-4-INPUT_rep2_C002GF7_.bam.bai")
+smarca4_20_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_SMARCA4_rep1_g2-3-4_INPUT_2020.bam.bai")
+smarca4_20_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_SMARCA4_rep2_g2-3-4_INPUT_2020.bam.bai")
+smarca4_20_3_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_SMARCA4_rep3_g2-3-4_INPUT_2020.bam.bai")
+smarca4_20_4_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_SMARCA4_rep4_g2-3-4_INPUT_2020.bam.bai")
+arid1a_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_ARID1A-2-3-4-INPUT_rep1_C002GEX_.bam.bai")
+arid1a_22_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_ARID1A-2-3-4-INPUT_rep2_C002GEY_.bam.bai")
+brd7_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_BRD7-2-3-4-INPUT_rep1_C002GF3_.bam.bai")
+brd7_22_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_BRD7-2-3-4-INPUT_rep2_C002GF4_.bam.bai")
+brd9_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_BRD9-2-3-4-INPUT_rep1_C002GF5_.bam.bai")
+brd9_22_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_BRD9-2-3-4-INPUT_rep2_C002GF6_.bam.bai")
+dpf2_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_DPF2-2-3-4-INPUT_rep1_C002GEZ_.bam.bai")
+dpf2_22_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_DPF2-2-3-4-INPUT_rep2_C002GF0_.bam.bai")
+pbrm1_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_PBRM1-2-3-4-INPUT_rep1_C002GF1_.bam.bai")
+pbrm1_22_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_PBRM1-2-3-4-INPUT_rep2_C002GF2_.bam.bai")
+smarcb1_22_1_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_SMARCB1-2-3-4-INPUT_rep1_C002GF9_.bam.bai")
+smarcb1_22_2_bam <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_SMARCB1-2-3-4-INPUT_rep2_C002GFA_.bam.bai")
+
+## Put bam files in a variable
+bamReads <- c(tir1_20_1_bam, tir1_20_2_bam, tir1_2O_3_bam, tir1_20_4_bam, 
+           tir1_22_1_bam, tir1_22_2_bam, smarca4_20_1_bam, smarca4_20_2_bam, smarca4_20_3_bam, smarca4_20_4_bam, arid1a_22_1_bam, arid1a_22_2_bam, brd7_22_1_bam, brd7_22_2_bam, brd9_22_1_bam, brd9_22_2_bam, dpf2_22_1_bam, dpf2_22_2_bam, pbrm1_22_1_bam, pbrm1_22_2_bam, smarcb1_22_1_bam, smarcb1_22_2_bam)
+
+## Add bamReads in the table
+table_dba_baf_complexes <- data.frame(SampleID, Annee, 
+                                      Condition, Replicate, bamReads, Input)
+
+print(table_dba_baf_complexes)
+
+## Import BamControl files
+tir1_20_1_bam_ctl <- BamFile("/home/mathis.leclaire/Stage/data_stage/reads/
+                         chr18_merge6_TIR1-2-3-4-INPUT.bam.bai")
