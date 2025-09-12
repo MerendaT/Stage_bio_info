@@ -263,14 +263,13 @@ results <- glmQLFTest(fit)
 
 # TODO
 
-- calculer frip
-
+- calculer frip pour les samples
+- expliquer un peu plus les params deeptools pour le coverage et les résultats obtenus
+- calcul des correlations : bien expliquer ce que fait l'outil et ce qu'il compare
 articles : diffBind + medips
+- est ce qu'il est interressant de faire des violin plots pour comparer la taille des fragments dans les libs ?
+- comment comparer la reproductibilité des données ?
 
-rapport sans compter les images.
-- 3 pages pour le contexte bio
-- Intro générale 1 page quesion bio (shéma)
-- 3 pages pour l'expérimentation.
 
 
 
