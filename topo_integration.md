@@ -268,7 +268,7 @@ results <- glmQLFTest(fit)
 - calcul des correlations : bien expliquer ce que fait l'outil et ce qu'il compare
 articles : diffBind + medips
 - est ce qu'il est interressant de faire des violin plots pour comparer la taille des fragments dans les libs ?
-- comment comparer la reproductibilité des données ?
+- comment comparer la reproductibilité entre les samples ?
 
 
 
