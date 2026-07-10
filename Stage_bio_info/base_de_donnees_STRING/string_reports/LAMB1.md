@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : LAMB1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LAMB1
+Identifiant STRING officiel : `9606.ENSP00000222399`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NID2 | **CD44** | 0.48 |
+| NID2 | **LAMC2** | 0.513 |
+| NID2 | **LAMA3** | 0.692 |
+| NID2 | **LAMC3** | 0.762 |
+| NID2 | **LAMA2** | 0.843 |
+| NID2 | **LAMA5** | 0.849 |
+| NID2 | **LAMA1** | 0.879 |
+| NID2 | **LAMA4** | 0.896 |
+| NID2 | **NID1** | 0.916 |
+| NID2 | **LAMB1** | 0.928 |
+| NID2 | **LAMC1** | 0.984 |
+| LAMB1 | **ITGA1** | 0.856 |
+| LAMB1 | **ITGB5** | 0.866 |
+| LAMB1 | **NID1** | 0.892 |
+| LAMB1 | **LAMC2** | 0.892 |
+| LAMB1 | **CD44** | 0.923 |
+| LAMB1 | **LAMA3** | 0.95 |
+| LAMB1 | **LAMA2** | 0.965 |
+| LAMB1 | **LAMC3** | 0.968 |
+| LAMB1 | **ITGB1** | 0.974 |
+| LAMB1 | **ITGA6** | 0.977 |
+| LAMB1 | **LAMA1** | 0.983 |
+| LAMB1 | **LAMA4** | 0.992 |
+| LAMB1 | **LAMA5** | 0.998 |
+| LAMB1 | **LAMC1** | 0.999 |
+| LAMA4 | **LAMA1** | 0.655 |
+| LAMA4 | **LAMA3** | 0.658 |
+| LAMA4 | **LAMA2** | 0.768 |
+| LAMA4 | **LAMA5** | 0.78 |
+| LAMA4 | **NID1** | 0.797 |
+| LAMA4 | **ITGA1** | 0.809 |
+| LAMA4 | **ITGB5** | 0.845 |
+| LAMA4 | **CD44** | 0.925 |
+| LAMA4 | **ITGA6** | 0.926 |
+| LAMA4 | **ITGB1** | 0.935 |
+| LAMA4 | **LAMC3** | 0.95 |
+| LAMA4 | **LAMC1** | 0.98 |
+| LAMA4 | **LAMC2** | 0.993 |
+| LAMA5 | **LAMA3** | 0.743 |
+| LAMA5 | **LAMC3** | 0.746 |
+| LAMA5 | **LAMA2** | 0.754 |
+| LAMA5 | **ITGA1** | 0.828 |
+| LAMA5 | **ITGB5** | 0.843 |
+| LAMA5 | **NID1** | 0.849 |
+| LAMA5 | **CD44** | 0.92 |
+| LAMA5 | **LAMC2** | 0.923 |
+| LAMA5 | **LAMA1** | 0.951 |
+| LAMA5 | **ITGB1** | 0.983 |
+| LAMA5 | **ITGA6** | 0.995 |
+| LAMA5 | **LAMC1** | 0.999 |
+| LAMC1 | **LAMC3** | 0.439 |
+| LAMC1 | **LAMC2** | 0.477 |
+| LAMC1 | **ITGA1** | 0.796 |
+| LAMC1 | **ITGB5** | 0.814 |
+| LAMC1 | **CD44** | 0.922 |
+| LAMC1 | **LAMA3** | 0.931 |
+| LAMC1 | **LAMA1** | 0.944 |
+| LAMC1 | **ITGA6** | 0.979 |
+| LAMC1 | **LAMA2** | 0.981 |
+| LAMC1 | **ITGB1** | 0.982 |
+| LAMC1 | **NID1** | 0.997 |
+| LAMC2 | **LAMC3** | 0.46 |
+| LAMC2 | **NID1** | 0.501 |
+| LAMC2 | **LAMA1** | 0.609 |
+| LAMC2 | **ITGA1** | 0.718 |
+| LAMC2 | **ITGB5** | 0.736 |
+| LAMC2 | **ITGB1** | 0.774 |
+| LAMC2 | **LAMA2** | 0.878 |
+| LAMC2 | **ITGA6** | 0.898 |
+| LAMC2 | **CD44** | 0.958 |
+| LAMC2 | **LAMA3** | 0.998 |
+| NID1 | **ITGA6** | 0.405 |
+| NID1 | **LAMA3** | 0.813 |
+| NID1 | **LAMA1** | 0.837 |
+| NID1 | **LAMC3** | 0.865 |
+| NID1 | **LAMA2** | 0.908 |
+| NID1 | **CD44** | 0.991 |
+| ITGA1 | **CD44** | 0.563 |
+| ITGA1 | **LAMC3** | 0.732 |
+| ITGA1 | **LAMA3** | 0.746 |
+| ITGA1 | **ITGA6** | 0.836 |
+| ITGA1 | **LAMA2** | 0.849 |
+| ITGA1 | **LAMA1** | 0.862 |
+| ITGA1 | **ITGB5** | 0.976 |
+| ITGA1 | **ITGB1** | 0.999 |
+| ITGB5 | **CD44** | 0.513 |
+| ITGB5 | **LAMC3** | 0.7 |
+| ITGB5 | **LAMA2** | 0.757 |
+| ITGB5 | **LAMA3** | 0.824 |
+| ITGB5 | **LAMA1** | 0.829 |
+| ITGB5 | **ITGA6** | 0.907 |
+| ITGB5 | **ITGB1** | 0.96 |
+| LAMA3 | **LAMA2** | 0.694 |
+| LAMA3 | **LAMA1** | 0.702 |
+| LAMA3 | **ITGB1** | 0.773 |
+| LAMA3 | **LAMC3** | 0.837 |
+| LAMA3 | **ITGA6** | 0.93 |
+| LAMA3 | **CD44** | 0.938 |
+| LAMC3 | **LAMA1** | 0.554 |
+| LAMC3 | **ITGB1** | 0.72 |
+| LAMC3 | **ITGA6** | 0.755 |
+| LAMC3 | **CD44** | 0.905 |
+| LAMC3 | **LAMA2** | 0.939 |
+| LAMA1 | **ITGA6** | 0.863 |
+| LAMA1 | **ITGB1** | 0.879 |
+| LAMA1 | **LAMA2** | 0.921 |
+| LAMA1 | **CD44** | 0.947 |
+| ITGB1 | **LAMA2** | 0.771 |
+| ITGB1 | **CD44** | 0.957 |
+| ITGB1 | **ITGA6** | 0.999 |
+| ITGA6 | **CD44** | 0.743 |
+| ITGA6 | **LAMA2** | 0.861 |
+| CD44 | **LAMA2** | 0.945 |
+

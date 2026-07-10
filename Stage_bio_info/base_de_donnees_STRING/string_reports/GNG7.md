@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : GNG7
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : GNG7
+Identifiant STRING officiel : `9606.ENSP00000371594`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GNB3 | **GNB4** | 0.726 |
+| GNB3 | **GNB5** | 0.732 |
+| GNB3 | **GNB2** | 0.739 |
+| GNB3 | **GNAL** | 0.822 |
+| GNB3 | **GNAI1** | 0.857 |
+| GNB3 | **GNAI3** | 0.89 |
+| GNB3 | **GNB1** | 0.9 |
+| GNB3 | **CXCR4** | 0.916 |
+| GNB3 | **MTNR1B** | 0.924 |
+| GNB3 | **HTR7** | 0.932 |
+| GNB3 | **GNAI2** | 0.947 |
+| GNB3 | **APLNR** | 0.952 |
+| GNB3 | **GNAS** | 0.982 |
+| GNB3 | **GNG13** | 0.999 |
+| GNB3 | **GNG7** | 0.999 |
+| GNB4 | **GNB5** | 0.724 |
+| GNB4 | **GNB2** | 0.732 |
+| GNB4 | **GNB1** | 0.791 |
+| GNB4 | **GNAL** | 0.864 |
+| GNB4 | **CXCR4** | 0.922 |
+| GNB4 | **HTR7** | 0.932 |
+| GNB4 | **MTNR1B** | 0.938 |
+| GNB4 | **APLNR** | 0.958 |
+| GNB4 | **GNAI2** | 0.977 |
+| GNB4 | **GNAI3** | 0.989 |
+| GNB4 | **GNAI1** | 0.99 |
+| GNB4 | **GNAS** | 0.992 |
+| GNB4 | **GNG13** | 0.999 |
+| GNB4 | **GNG7** | 0.999 |
+| GNG13 | **GNB2** | 0.743 |
+| GNG13 | **GNAI2** | 0.762 |
+| GNG13 | **GNAI3** | 0.788 |
+| GNG13 | **GNAI1** | 0.822 |
+| GNG13 | **GNB5** | 0.881 |
+| GNG13 | **CXCR4** | 0.908 |
+| GNG13 | **MTNR1B** | 0.908 |
+| GNG13 | **APLNR** | 0.911 |
+| GNG13 | **HTR7** | 0.914 |
+| GNG13 | **GNG7** | 0.946 |
+| GNG13 | **GNAS** | 0.971 |
+| GNG13 | **GNAL** | 0.98 |
+| GNG13 | **GNB1** | 0.999 |
+| MTNR1B | **GNAI3** | 0.753 |
+| MTNR1B | **GNAI2** | 0.793 |
+| MTNR1B | **GNG7** | 0.909 |
+| MTNR1B | **GNB5** | 0.921 |
+| MTNR1B | **GNB2** | 0.938 |
+| MTNR1B | **GNAI1** | 0.975 |
+| MTNR1B | **GNB1** | 0.984 |
+| GNB5 | **GNB2** | 0.73 |
+| GNB5 | **GNB1** | 0.842 |
+| GNB5 | **GNAL** | 0.852 |
+| GNB5 | **GNAI3** | 0.855 |
+| GNB5 | **GNAI1** | 0.908 |
+| GNB5 | **GNAI2** | 0.911 |
+| GNB5 | **CXCR4** | 0.923 |
+| GNB5 | **HTR7** | 0.926 |
+| GNB5 | **APLNR** | 0.943 |
+| GNB5 | **GNAS** | 0.959 |
+| GNB5 | **GNG7** | 0.999 |
+| GNB2 | **GNAL** | 0.874 |
+| GNB2 | **CXCR4** | 0.917 |
+| GNB2 | **HTR7** | 0.926 |
+| GNB2 | **GNB1** | 0.939 |
+| GNB2 | **APLNR** | 0.949 |
+| GNB2 | **GNAI1** | 0.979 |
+| GNB2 | **GNAI2** | 0.982 |
+| GNB2 | **GNAI3** | 0.983 |
+| GNB2 | **GNAS** | 0.986 |
+| GNB2 | **GNG7** | 0.999 |
+| GNAI2 | **GNAS** | 0.626 |
+| GNAI2 | **GNAL** | 0.746 |
+| GNAI2 | **APLNR** | 0.836 |
+| GNAI2 | **CXCR4** | 0.923 |
+| GNAI2 | **GNG7** | 0.947 |
+| GNAI2 | **GNAI1** | 0.975 |
+| GNAI2 | **GNAI3** | 0.992 |
+| GNAI2 | **GNB1** | 0.999 |
+| GNAL | **GNAI1** | 0.748 |
+| GNAL | **GNAI3** | 0.761 |
+| GNAL | **HTR7** | 0.766 |
+| GNAL | **GNG7** | 0.959 |
+| GNAL | **GNAS** | 0.975 |
+| GNAL | **GNB1** | 0.978 |
+| HTR7 | **GNG7** | 0.912 |
+| HTR7 | **GNB1** | 0.992 |
+| HTR7 | **GNAS** | 0.995 |
+| GNAI3 | **GNAS** | 0.623 |
+| GNAI3 | **APLNR** | 0.859 |
+| GNAI3 | **CXCR4** | 0.915 |
+| GNAI3 | **GNG7** | 0.952 |
+| GNAI3 | **GNAI1** | 0.984 |
+| GNAI3 | **GNB1** | 0.999 |
+| GNAS | **APLNR** | 0.484 |
+| GNAS | **GNAI1** | 0.728 |
+| GNAS | **GNG7** | 0.964 |
+| GNAS | **GNB1** | 0.999 |
+| GNB1 | **CXCR4** | 0.919 |
+| GNB1 | **APLNR** | 0.958 |
+| GNB1 | **GNAI1** | 0.999 |
+| GNB1 | **GNG7** | 0.999 |
+| GNG7 | **CXCR4** | 0.913 |
+| GNG7 | **APLNR** | 0.915 |
+| GNG7 | **GNAI1** | 0.973 |
+| CXCR4 | **GNAI1** | 0.944 |
+| APLNR | **GNAI1** | 0.866 |
+

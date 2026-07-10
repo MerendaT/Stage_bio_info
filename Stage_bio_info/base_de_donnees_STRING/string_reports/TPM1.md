@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TPM1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TPM1
+Identifiant STRING officiel : `9606.ENSP00000351022`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VCL | **MYH6** | 0.45 |
+| VCL | **TNNI3** | 0.49 |
+| VCL | **MYBPC3** | 0.505 |
+| VCL | **ACTC1** | 0.681 |
+| VCL | **TPM3** | 0.688 |
+| VCL | **TPM2** | 0.708 |
+| VCL | **TPM4** | 0.711 |
+| VCL | **ACTA1** | 0.942 |
+| VCL | **TPM1** | 0.957 |
+| TNNC1 | **ACTC1** | 0.567 |
+| TNNC1 | **TPM4** | 0.584 |
+| TNNC1 | **MYBPC3** | 0.659 |
+| TNNC1 | **TPM2** | 0.674 |
+| TNNC1 | **MYL1** | 0.741 |
+| TNNC1 | **MYH6** | 0.752 |
+| TNNC1 | **MYH7** | 0.78 |
+| TNNC1 | **MYL3** | 0.804 |
+| TNNC1 | **ACTA1** | 0.964 |
+| TNNC1 | **TPM3** | 0.968 |
+| TNNC1 | **TPM1** | 0.981 |
+| TNNC1 | **TNNT1** | 0.99 |
+| TNNC1 | **TNNT2** | 0.999 |
+| TNNC1 | **TNNI3** | 0.999 |
+| ACTC1 | **TNNT1** | 0.467 |
+| ACTC1 | **MYL1** | 0.788 |
+| ACTC1 | **TPM4** | 0.948 |
+| ACTC1 | **TPM2** | 0.954 |
+| ACTC1 | **ACTA1** | 0.966 |
+| ACTC1 | **MYH6** | 0.989 |
+| ACTC1 | **MYL3** | 0.991 |
+| ACTC1 | **TNNI3** | 0.994 |
+| ACTC1 | **MYBPC3** | 0.995 |
+| ACTC1 | **TPM3** | 0.996 |
+| ACTC1 | **TPM1** | 0.999 |
+| ACTC1 | **MYH7** | 0.999 |
+| ACTC1 | **TNNT2** | 0.999 |
+| MYL1 | **MYBPC3** | 0.758 |
+| MYL1 | **MYL3** | 0.838 |
+| MYL1 | **TPM4** | 0.856 |
+| MYL1 | **TNNT2** | 0.917 |
+| MYL1 | **TPM2** | 0.928 |
+| MYL1 | **TPM3** | 0.933 |
+| MYL1 | **TNNI3** | 0.939 |
+| MYL1 | **TPM1** | 0.943 |
+| MYL1 | **TNNT1** | 0.949 |
+| MYL1 | **MYH6** | 0.957 |
+| MYL1 | **ACTA1** | 0.964 |
+| MYL1 | **MYH7** | 0.998 |
+| TNNI3 | **ACTA1** | 0.945 |
+| TNNI3 | **TPM4** | 0.946 |
+| TNNI3 | **MYH6** | 0.947 |
+| TNNI3 | **MYH7** | 0.948 |
+| TNNI3 | **TPM2** | 0.953 |
+| TNNI3 | **MYL3** | 0.96 |
+| TNNI3 | **MYBPC3** | 0.975 |
+| TNNI3 | **TPM3** | 0.994 |
+| TNNI3 | **TNNT1** | 0.998 |
+| TNNI3 | **TNNT2** | 0.999 |
+| TNNI3 | **TPM1** | 0.999 |
+| MYH7 | **TPM4** | 0.508 |
+| MYH7 | **TPM3** | 0.785 |
+| MYH7 | **TPM2** | 0.842 |
+| MYH7 | **TNNT1** | 0.898 |
+| MYH7 | **ACTA1** | 0.945 |
+| MYH7 | **TNNT2** | 0.97 |
+| MYH7 | **TPM1** | 0.993 |
+| MYH7 | **MYH6** | 0.997 |
+| MYH7 | **MYBPC3** | 0.998 |
+| MYH7 | **MYL3** | 0.999 |
+| TPM1 | **MYBPC3** | 0.932 |
+| TPM1 | **MYL3** | 0.949 |
+| TPM1 | **MYH6** | 0.949 |
+| TPM1 | **ACTA1** | 0.976 |
+| TPM1 | **TPM4** | 0.982 |
+| TPM1 | **TNNT1** | 0.99 |
+| TPM1 | **TPM2** | 0.993 |
+| TPM1 | **TPM3** | 0.998 |
+| TPM1 | **TNNT2** | 0.999 |
+| ACTA1 | **MYBPC3** | 0.607 |
+| ACTA1 | **MYL3** | 0.663 |
+| ACTA1 | **MYH6** | 0.747 |
+| ACTA1 | **TNNT1** | 0.851 |
+| ACTA1 | **TPM2** | 0.939 |
+| ACTA1 | **TNNT2** | 0.966 |
+| ACTA1 | **TPM3** | 0.986 |
+| MYH6 | **TPM4** | 0.716 |
+| MYH6 | **TPM3** | 0.744 |
+| MYH6 | **TNNT1** | 0.801 |
+| MYH6 | **TPM2** | 0.881 |
+| MYH6 | **TNNT2** | 0.963 |
+| MYH6 | **MYBPC3** | 0.989 |
+| MYH6 | **MYL3** | 0.994 |
+| MYBPC3 | **TNNT1** | 0.65 |
+| MYBPC3 | **MYL3** | 0.967 |
+| MYBPC3 | **TNNT2** | 0.974 |
+| TNNT1 | **TPM4** | 0.79 |
+| TNNT1 | **MYL3** | 0.834 |
+| TNNT1 | **TNNT2** | 0.946 |
+| TNNT1 | **TPM3** | 0.958 |
+| TNNT1 | **TPM2** | 0.976 |
+| TPM4 | **MYL3** | 0.66 |
+| TPM4 | **TPM3** | 0.946 |
+| TPM4 | **TNNT2** | 0.959 |
+| TPM4 | **TPM2** | 0.986 |
+| TPM2 | **MYL3** | 0.794 |
+| TPM2 | **TPM3** | 0.949 |
+| TPM2 | **TNNT2** | 0.966 |
+| TPM3 | **MYL3** | 0.832 |
+| TPM3 | **TNNT2** | 0.996 |
+| MYL3 | **TNNT2** | 0.953 |
+

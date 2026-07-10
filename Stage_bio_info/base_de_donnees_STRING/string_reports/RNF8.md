@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RNF8
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RNF8
+Identifiant STRING officiel : `9606.ENSP00000362578`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BARD1 | **UBE2V2** | 0.663 |
+| BARD1 | **HERC2** | 0.706 |
+| BARD1 | **UBE2N** | 0.803 |
+| BARD1 | **RNF168** | 0.821 |
+| BARD1 | **H2AX** | 0.867 |
+| BARD1 | **TP53BP1** | 0.868 |
+| BARD1 | **H2AC20** | 0.869 |
+| BARD1 | **RNF8** | 0.908 |
+| BARD1 | **ATM** | 0.946 |
+| BARD1 | **RPS27A** | 0.953 |
+| BARD1 | **MDC1** | 0.954 |
+| BARD1 | **NBN** | 0.998 |
+| BARD1 | **UIMC1** | 0.999 |
+| BARD1 | **BRCA1** | 0.999 |
+| HERC2 | **NBN** | 0.511 |
+| HERC2 | **UBE2V2** | 0.521 |
+| HERC2 | **RPS27A** | 0.538 |
+| HERC2 | **ATM** | 0.557 |
+| HERC2 | **TP53BP1** | 0.586 |
+| HERC2 | **H2AX** | 0.59 |
+| HERC2 | **UIMC1** | 0.62 |
+| HERC2 | **MDC1** | 0.696 |
+| HERC2 | **RNF168** | 0.723 |
+| HERC2 | **UBE2N** | 0.802 |
+| HERC2 | **BRCA1** | 0.849 |
+| HERC2 | **RNF8** | 0.952 |
+| NBN | **UBE2V2** | 0.534 |
+| NBN | **RPS27A** | 0.548 |
+| NBN | **H2AC20** | 0.586 |
+| NBN | **UBE2N** | 0.702 |
+| NBN | **UIMC1** | 0.768 |
+| NBN | **RNF168** | 0.787 |
+| NBN | **RNF8** | 0.916 |
+| NBN | **TP53BP1** | 0.923 |
+| NBN | **H2AX** | 0.98 |
+| NBN | **BRCA1** | 0.993 |
+| NBN | **MDC1** | 0.994 |
+| NBN | **ATM** | 0.999 |
+| RPS27A | **ATM** | 0.567 |
+| RPS27A | **MDC1** | 0.665 |
+| RPS27A | **BRCA1** | 0.725 |
+| RPS27A | **H2AC20** | 0.754 |
+| RPS27A | **RNF8** | 0.917 |
+| RPS27A | **TP53BP1** | 0.962 |
+| RPS27A | **H2AX** | 0.967 |
+| RPS27A | **UIMC1** | 0.97 |
+| RPS27A | **RNF168** | 0.975 |
+| RPS27A | **UBE2V2** | 0.997 |
+| RPS27A | **UBE2N** | 0.999 |
+| ATM | **CHD4** | 0.606 |
+| ATM | **UBE2V2** | 0.608 |
+| ATM | **UIMC1** | 0.797 |
+| ATM | **H2AC20** | 0.801 |
+| ATM | **UBE2N** | 0.839 |
+| ATM | **RNF168** | 0.906 |
+| ATM | **RNF8** | 0.926 |
+| ATM | **H2AX** | 0.998 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **MDC1** | 0.999 |
+| ATM | **TP53BP1** | 0.999 |
+| UBE2N | **H2AC20** | 0.552 |
+| UBE2N | **H2AX** | 0.758 |
+| UBE2N | **UIMC1** | 0.842 |
+| UBE2N | **TP53BP1** | 0.894 |
+| UBE2N | **MDC1** | 0.931 |
+| UBE2N | **BRCA1** | 0.955 |
+| UBE2N | **RNF8** | 0.999 |
+| UBE2N | **RNF168** | 0.999 |
+| UBE2N | **UBE2V2** | 0.999 |
+| RNF168 | **CHD4** | 0.553 |
+| RNF168 | **UBE2V2** | 0.833 |
+| RNF168 | **UIMC1** | 0.944 |
+| RNF168 | **H2AX** | 0.978 |
+| RNF168 | **BRCA1** | 0.982 |
+| RNF168 | **H2AC20** | 0.983 |
+| RNF168 | **TP53BP1** | 0.997 |
+| RNF168 | **MDC1** | 0.997 |
+| RNF168 | **RNF8** | 0.997 |
+| H2AC20 | **H2AX** | 0.648 |
+| H2AC20 | **MDC1** | 0.759 |
+| H2AC20 | **CHD4** | 0.805 |
+| H2AC20 | **RNF8** | 0.928 |
+| H2AC20 | **BRCA1** | 0.955 |
+| H2AC20 | **UIMC1** | 0.966 |
+| H2AC20 | **TP53BP1** | 0.993 |
+| RNF8 | **CHD4** | 0.934 |
+| RNF8 | **UBE2V2** | 0.943 |
+| RNF8 | **BRCA1** | 0.97 |
+| RNF8 | **UIMC1** | 0.973 |
+| RNF8 | **H2AX** | 0.985 |
+| RNF8 | **TP53BP1** | 0.996 |
+| RNF8 | **MDC1** | 0.999 |
+| MDC1 | **CHD4** | 0.608 |
+| MDC1 | **UBE2V2** | 0.676 |
+| MDC1 | **UIMC1** | 0.997 |
+| MDC1 | **H2AX** | 0.999 |
+| MDC1 | **BRCA1** | 0.999 |
+| MDC1 | **TP53BP1** | 0.999 |
+| TP53BP1 | **CHD4** | 0.551 |
+| TP53BP1 | **UBE2V2** | 0.743 |
+| TP53BP1 | **UIMC1** | 0.985 |
+| TP53BP1 | **H2AX** | 0.999 |
+| TP53BP1 | **BRCA1** | 0.999 |
+| BRCA1 | **CHD4** | 0.467 |
+| BRCA1 | **UBE2V2** | 0.653 |
+| BRCA1 | **H2AX** | 0.999 |
+| BRCA1 | **UIMC1** | 0.999 |
+| UIMC1 | **UBE2V2** | 0.669 |
+| UIMC1 | **H2AX** | 0.973 |
+| UBE2V2 | **H2AX** | 0.605 |
+| H2AX | **CHD4** | 0.764 |
+

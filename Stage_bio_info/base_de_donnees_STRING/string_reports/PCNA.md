@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PCNA
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PCNA
+Identifiant STRING officiel : `9606.ENSP00000368458`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RFC2 | **POLK** | 0.574 |
+| RFC2 | **POLI** | 0.579 |
+| RFC2 | **POLH** | 0.617 |
+| RFC2 | **POLD3** | 0.778 |
+| RFC2 | **RAD18** | 0.779 |
+| RFC2 | **POLD1** | 0.807 |
+| RFC2 | **LIG1** | 0.808 |
+| RFC2 | **MSH6** | 0.901 |
+| RFC2 | **FEN1** | 0.939 |
+| RFC2 | **RFC5** | 0.999 |
+| RFC2 | **RFC1** | 0.999 |
+| RFC2 | **RFC4** | 0.999 |
+| RFC2 | **PCNA** | 0.999 |
+| RFC2 | **RFC3** | 0.999 |
+| MSH6 | **POLI** | 0.416 |
+| MSH6 | **RAD18** | 0.466 |
+| MSH6 | **POLD3** | 0.467 |
+| MSH6 | **POLK** | 0.496 |
+| MSH6 | **POLH** | 0.6 |
+| MSH6 | **RFC5** | 0.66 |
+| MSH6 | **RFC3** | 0.683 |
+| MSH6 | **RFC1** | 0.783 |
+| MSH6 | **LIG1** | 0.81 |
+| MSH6 | **RFC4** | 0.928 |
+| MSH6 | **FEN1** | 0.95 |
+| MSH6 | **POLD1** | 0.995 |
+| MSH6 | **PCNA** | 0.998 |
+| POLK | **RFC3** | 0.573 |
+| POLK | **RFC1** | 0.573 |
+| POLK | **POLD3** | 0.573 |
+| POLK | **LIG1** | 0.58 |
+| POLK | **RFC5** | 0.582 |
+| POLK | **RFC4** | 0.583 |
+| POLK | **RAD18** | 0.749 |
+| POLK | **POLI** | 0.769 |
+| POLK | **POLH** | 0.798 |
+| POLK | **POLD1** | 0.823 |
+| POLK | **PCNA** | 0.998 |
+| LIG1 | **RAD18** | 0.489 |
+| LIG1 | **POLI** | 0.653 |
+| LIG1 | **POLH** | 0.756 |
+| LIG1 | **RFC3** | 0.825 |
+| LIG1 | **RFC5** | 0.83 |
+| LIG1 | **RFC1** | 0.856 |
+| LIG1 | **POLD3** | 0.857 |
+| LIG1 | **RFC4** | 0.959 |
+| LIG1 | **POLD1** | 0.973 |
+| LIG1 | **FEN1** | 0.999 |
+| LIG1 | **PCNA** | 0.999 |
+| POLD3 | **CDKN1A** | 0.456 |
+| POLD3 | **RFC1** | 0.657 |
+| POLD3 | **POLH** | 0.694 |
+| POLD3 | **RAD18** | 0.783 |
+| POLD3 | **RFC3** | 0.789 |
+| POLD3 | **RFC4** | 0.8 |
+| POLD3 | **RFC5** | 0.818 |
+| POLD3 | **FEN1** | 0.983 |
+| POLD3 | **PCNA** | 0.998 |
+| POLD3 | **POLD1** | 0.999 |
+| RAD18 | **POLI** | 0.523 |
+| RAD18 | **RFC1** | 0.64 |
+| RAD18 | **RFC4** | 0.721 |
+| RAD18 | **RFC5** | 0.728 |
+| RAD18 | **FEN1** | 0.73 |
+| RAD18 | **RFC3** | 0.761 |
+| RAD18 | **POLD1** | 0.835 |
+| RAD18 | **POLH** | 0.97 |
+| RAD18 | **PCNA** | 0.998 |
+| FEN1 | **POLH** | 0.448 |
+| FEN1 | **POLI** | 0.507 |
+| FEN1 | **CDKN1A** | 0.594 |
+| FEN1 | **RFC1** | 0.843 |
+| FEN1 | **RFC5** | 0.868 |
+| FEN1 | **RFC3** | 0.947 |
+| FEN1 | **RFC4** | 0.96 |
+| FEN1 | **POLD1** | 0.997 |
+| FEN1 | **PCNA** | 0.999 |
+| POLH | **RFC5** | 0.578 |
+| POLH | **RFC1** | 0.584 |
+| POLH | **RFC3** | 0.584 |
+| POLH | **RFC4** | 0.6 |
+| POLH | **POLD1** | 0.816 |
+| POLH | **POLI** | 0.844 |
+| POLH | **PCNA** | 0.999 |
+| PCNA | **POLI** | 0.998 |
+| PCNA | **POLD1** | 0.999 |
+| PCNA | **CDKN1A** | 0.999 |
+| PCNA | **RFC3** | 0.999 |
+| PCNA | **RFC4** | 0.999 |
+| PCNA | **RFC5** | 0.999 |
+| PCNA | **RFC1** | 0.999 |
+| RFC3 | **POLI** | 0.58 |
+| RFC3 | **POLD1** | 0.844 |
+| RFC3 | **RFC4** | 0.999 |
+| RFC3 | **RFC5** | 0.999 |
+| RFC3 | **RFC1** | 0.999 |
+| RFC1 | **POLI** | 0.577 |
+| RFC1 | **POLD1** | 0.76 |
+| RFC1 | **RFC5** | 0.999 |
+| RFC1 | **RFC4** | 0.999 |
+| RFC4 | **POLI** | 0.599 |
+| RFC4 | **POLD1** | 0.916 |
+| RFC4 | **RFC5** | 0.999 |
+| RFC5 | **POLI** | 0.577 |
+| RFC5 | **POLD1** | 0.828 |
+| POLI | **POLD1** | 0.655 |
+

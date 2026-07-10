@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : IGF2BP3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IGF2BP3
+Identifiant STRING officiel : `9606.ENSP00000258729`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| YTHDC2 | **IGF2** | 0.449 |
+| YTHDC2 | **ELAVL1** | 0.544 |
+| YTHDC2 | **YTHDC1** | 0.657 |
+| YTHDC2 | **YTHDF2** | 0.674 |
+| YTHDC2 | **YTHDF3** | 0.689 |
+| YTHDC2 | **IGF2BP3** | 0.836 |
+| YTHDC2 | **YTHDF1** | 0.84 |
+| YTHDC2 | **IGF2BP2** | 0.853 |
+| YTHDC2 | **IGF2BP1** | 0.859 |
+| YTHDC2 | **RBMX** | 0.887 |
+| YTHDC2 | **HNRNPA2B1** | 0.889 |
+| YTHDC2 | **VIRMA** | 0.912 |
+| YTHDC2 | **METTL14** | 0.931 |
+| YTHDC2 | **METTL3** | 0.946 |
+| IGF2BP3 | **VIRMA** | 0.818 |
+| IGF2BP3 | **METTL14** | 0.829 |
+| IGF2BP3 | **RBMX** | 0.832 |
+| IGF2BP3 | **METTL3** | 0.838 |
+| IGF2BP3 | **YTHDF2** | 0.845 |
+| IGF2BP3 | **YTHDC1** | 0.849 |
+| IGF2BP3 | **YTHDF3** | 0.85 |
+| IGF2BP3 | **IGF2BP2** | 0.851 |
+| IGF2BP3 | **ELAVL1** | 0.903 |
+| IGF2BP3 | **YTHDF1** | 0.906 |
+| IGF2BP3 | **HMGA2** | 0.909 |
+| IGF2BP3 | **HNRNPA2B1** | 0.925 |
+| IGF2BP3 | **IGF2BP1** | 0.984 |
+| IGF2BP3 | **IGF2** | 0.989 |
+| IGF2BP1 | **METTL14** | 0.786 |
+| IGF2BP1 | **RBMX** | 0.796 |
+| IGF2BP1 | **IGF2BP2** | 0.829 |
+| IGF2BP1 | **HMGA2** | 0.84 |
+| IGF2BP1 | **METTL3** | 0.844 |
+| IGF2BP1 | **VIRMA** | 0.848 |
+| IGF2BP1 | **YTHDF3** | 0.87 |
+| IGF2BP1 | **YTHDF2** | 0.872 |
+| IGF2BP1 | **YTHDC1** | 0.906 |
+| IGF2BP1 | **HNRNPA2B1** | 0.938 |
+| IGF2BP1 | **YTHDF1** | 0.945 |
+| IGF2BP1 | **ELAVL1** | 0.978 |
+| IGF2BP1 | **IGF2** | 0.992 |
+| VIRMA | **IGF2** | 0.447 |
+| VIRMA | **ELAVL1** | 0.608 |
+| VIRMA | **RBMX** | 0.794 |
+| VIRMA | **HNRNPA2B1** | 0.854 |
+| VIRMA | **IGF2BP2** | 0.865 |
+| VIRMA | **YTHDF2** | 0.893 |
+| VIRMA | **YTHDF1** | 0.898 |
+| VIRMA | **YTHDC1** | 0.911 |
+| VIRMA | **YTHDF3** | 0.949 |
+| VIRMA | **METTL3** | 0.999 |
+| VIRMA | **METTL14** | 0.999 |
+| METTL3 | **IGF2** | 0.491 |
+| METTL3 | **ELAVL1** | 0.624 |
+| METTL3 | **RBMX** | 0.832 |
+| METTL3 | **IGF2BP2** | 0.855 |
+| METTL3 | **HNRNPA2B1** | 0.879 |
+| METTL3 | **YTHDF1** | 0.951 |
+| METTL3 | **YTHDF2** | 0.952 |
+| METTL3 | **YTHDC1** | 0.953 |
+| METTL3 | **YTHDF3** | 0.989 |
+| METTL3 | **METTL14** | 0.999 |
+| HNRNPA2B1 | **IGF2** | 0.431 |
+| HNRNPA2B1 | **METTL14** | 0.835 |
+| HNRNPA2B1 | **YTHDF3** | 0.869 |
+| HNRNPA2B1 | **YTHDF2** | 0.871 |
+| HNRNPA2B1 | **IGF2BP2** | 0.884 |
+| HNRNPA2B1 | **YTHDF1** | 0.925 |
+| HNRNPA2B1 | **ELAVL1** | 0.934 |
+| HNRNPA2B1 | **YTHDC1** | 0.935 |
+| HNRNPA2B1 | **RBMX** | 0.96 |
+| YTHDF1 | **IGF2** | 0.507 |
+| YTHDF1 | **ELAVL1** | 0.6 |
+| YTHDF1 | **YTHDF2** | 0.693 |
+| YTHDF1 | **IGF2BP2** | 0.88 |
+| YTHDF1 | **RBMX** | 0.881 |
+| YTHDF1 | **YTHDC1** | 0.919 |
+| YTHDF1 | **YTHDF3** | 0.959 |
+| YTHDF1 | **METTL14** | 0.963 |
+| RBMX | **IGF2BP2** | 0.757 |
+| RBMX | **METTL14** | 0.809 |
+| RBMX | **ELAVL1** | 0.857 |
+| RBMX | **YTHDF3** | 0.864 |
+| RBMX | **YTHDF2** | 0.868 |
+| RBMX | **YTHDC1** | 0.953 |
+| METTL14 | **IGF2** | 0.449 |
+| METTL14 | **ELAVL1** | 0.607 |
+| METTL14 | **IGF2BP2** | 0.831 |
+| METTL14 | **YTHDF3** | 0.936 |
+| METTL14 | **YTHDC1** | 0.953 |
+| METTL14 | **YTHDF2** | 0.958 |
+| ELAVL1 | **YTHDF2** | 0.732 |
+| ELAVL1 | **YTHDF3** | 0.745 |
+| ELAVL1 | **YTHDC1** | 0.749 |
+| ELAVL1 | **IGF2BP2** | 0.752 |
+| IGF2 | **YTHDF3** | 0.447 |
+| IGF2 | **YTHDF2** | 0.479 |
+| IGF2 | **HMGA2** | 0.518 |
+| IGF2 | **YTHDC1** | 0.542 |
+| IGF2 | **IGF2BP2** | 0.994 |
+| IGF2BP2 | **YTHDF2** | 0.868 |
+| IGF2BP2 | **YTHDF3** | 0.868 |
+| IGF2BP2 | **YTHDC1** | 0.877 |
+| IGF2BP2 | **HMGA2** | 0.996 |
+| YTHDF2 | **YTHDC1** | 0.694 |
+| YTHDF2 | **YTHDF3** | 0.98 |
+| YTHDC1 | **YTHDF3** | 0.76 |
+

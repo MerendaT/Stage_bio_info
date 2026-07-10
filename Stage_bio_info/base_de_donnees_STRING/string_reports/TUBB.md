@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TUBB
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TUBB
+Identifiant STRING officiel : `9606.ENSP00000339001`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TUBA4A | **TUBA3E** | 0.41 |
+| TUBA4A | **TUBA8** | 0.477 |
+| TUBA4A | **TUBAL3** | 0.548 |
+| TUBA4A | **CCT8** | 0.67 |
+| TUBA4A | **TUBA1B** | 0.676 |
+| TUBA4A | **CCT2** | 0.685 |
+| TUBA4A | **CCT7** | 0.69 |
+| TUBA4A | **CCT3** | 0.71 |
+| TUBA4A | **TCP1** | 0.761 |
+| TUBA4A | **TUBA1C** | 0.778 |
+| TUBA4A | **TUBA3D** | 0.888 |
+| TUBA4A | **TUBA1A** | 0.947 |
+| TUBA4A | **TUBB4B** | 0.991 |
+| TUBA4A | **TUBB** | 0.994 |
+| CCT7 | **TUBA8** | 0.599 |
+| CCT7 | **TUBA3D** | 0.6 |
+| CCT7 | **TUBA3E** | 0.649 |
+| CCT7 | **TUBA1C** | 0.722 |
+| CCT7 | **TUBB4B** | 0.739 |
+| CCT7 | **TUBA1B** | 0.841 |
+| CCT7 | **TUBA1A** | 0.854 |
+| CCT7 | **TUBAL3** | 0.863 |
+| CCT7 | **TUBB** | 0.946 |
+| CCT7 | **CCT3** | 0.999 |
+| CCT7 | **TCP1** | 0.999 |
+| CCT7 | **CCT8** | 0.999 |
+| CCT7 | **CCT2** | 0.999 |
+| CCT8 | **TUBA3E** | 0.581 |
+| CCT8 | **TUBA3D** | 0.581 |
+| CCT8 | **TUBAL3** | 0.592 |
+| CCT8 | **TUBA8** | 0.636 |
+| CCT8 | **TUBA1C** | 0.678 |
+| CCT8 | **TUBB4B** | 0.717 |
+| CCT8 | **TUBA1B** | 0.719 |
+| CCT8 | **TUBA1A** | 0.734 |
+| CCT8 | **TUBB** | 0.946 |
+| CCT8 | **TCP1** | 0.999 |
+| CCT8 | **CCT3** | 0.999 |
+| CCT8 | **CCT2** | 0.999 |
+| CCT3 | **TUBA8** | 0.621 |
+| CCT3 | **TUBA3E** | 0.658 |
+| CCT3 | **TUBA3D** | 0.681 |
+| CCT3 | **TUBA1C** | 0.721 |
+| CCT3 | **TUBA1A** | 0.772 |
+| CCT3 | **TUBB4B** | 0.777 |
+| CCT3 | **TUBA1B** | 0.869 |
+| CCT3 | **TUBAL3** | 0.874 |
+| CCT3 | **TUBB** | 0.944 |
+| CCT3 | **CCT2** | 0.999 |
+| CCT3 | **TCP1** | 0.999 |
+| CCT2 | **TUBA8** | 0.599 |
+| CCT2 | **TUBA3D** | 0.602 |
+| CCT2 | **TUBA3E** | 0.659 |
+| CCT2 | **TUBB4B** | 0.757 |
+| CCT2 | **TUBAL3** | 0.829 |
+| CCT2 | **TUBA1A** | 0.837 |
+| CCT2 | **TUBA1C** | 0.864 |
+| CCT2 | **TUBA1B** | 0.87 |
+| CCT2 | **TUBB** | 0.973 |
+| CCT2 | **TCP1** | 0.999 |
+| TCP1 | **TUBA8** | 0.698 |
+| TCP1 | **TUBA3E** | 0.698 |
+| TCP1 | **TUBA3D** | 0.709 |
+| TCP1 | **TUBA1C** | 0.766 |
+| TCP1 | **TUBB4B** | 0.784 |
+| TCP1 | **TUBAL3** | 0.795 |
+| TCP1 | **TUBA1A** | 0.806 |
+| TCP1 | **TUBA1B** | 0.856 |
+| TCP1 | **TUBB** | 0.968 |
+| TUBA3E | **TUBA1C** | 0.405 |
+| TUBA3E | **TUBA1B** | 0.405 |
+| TUBA3E | **TUBA1A** | 0.406 |
+| TUBA3E | **TUBAL3** | 0.408 |
+| TUBA3E | **TUBA8** | 0.427 |
+| TUBA3E | **TUBA3D** | 0.433 |
+| TUBA3E | **TUBB4B** | 0.962 |
+| TUBA3E | **TUBB** | 0.978 |
+| TUBA3D | **TUBAL3** | 0.407 |
+| TUBA3D | **TUBA8** | 0.427 |
+| TUBA3D | **TUBA1B** | 0.431 |
+| TUBA3D | **TUBA1C** | 0.528 |
+| TUBA3D | **TUBA1A** | 0.614 |
+| TUBA3D | **TUBB4B** | 0.971 |
+| TUBA3D | **TUBB** | 0.978 |
+| TUBA8 | **TUBA1B** | 0.427 |
+| TUBA8 | **TUBA1C** | 0.428 |
+| TUBA8 | **TUBAL3** | 0.43 |
+| TUBA8 | **TUBA1A** | 0.433 |
+| TUBA8 | **TUBB4B** | 0.962 |
+| TUBA8 | **TUBB** | 0.978 |
+| TUBA1B | **TUBAL3** | 0.428 |
+| TUBA1B | **TUBA1A** | 0.966 |
+| TUBA1B | **TUBA1C** | 0.984 |
+| TUBA1B | **MTOR** | 0.994 |
+| TUBA1B | **TUBB4B** | 0.996 |
+| TUBA1B | **TUBB** | 0.999 |
+| TUBB | **TUBAL3** | 0.979 |
+| TUBB | **TUBB4B** | 0.986 |
+| TUBB | **TUBA1C** | 0.994 |
+| TUBB | **MTOR** | 0.995 |
+| TUBB | **TUBA1A** | 0.996 |
+| TUBB4B | **TUBAL3** | 0.964 |
+| TUBB4B | **TUBA1C** | 0.99 |
+| TUBB4B | **TUBA1A** | 0.999 |
+| TUBAL3 | **TUBA1C** | 0.433 |
+| TUBAL3 | **TUBA1A** | 0.489 |
+| TUBA1A | **TUBA1C** | 0.691 |
+

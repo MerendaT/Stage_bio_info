@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TJP3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TJP3
+Identifiant STRING officiel : `9606.ENSP00000465419`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CGN | **CLDN4** | 0.523 |
+| CGN | **CLDN3** | 0.569 |
+| CGN | **CLDN5** | 0.575 |
+| CGN | **CLDN2** | 0.58 |
+| CGN | **CLDN8** | 0.651 |
+| CGN | **CLDN7** | 0.653 |
+| CGN | **PATJ** | 0.721 |
+| CGN | **CLDN1** | 0.749 |
+| CGN | **AFDN** | 0.978 |
+| CGN | **MARVELD2** | 0.989 |
+| CGN | **F11R** | 0.992 |
+| CGN | **OCLN** | 0.995 |
+| CGN | **TJP3** | 0.997 |
+| CGN | **TJP1** | 0.999 |
+| CGN | **TJP2** | 0.999 |
+| CLDN1 | **AFDN** | 0.425 |
+| CLDN1 | **CLDN7** | 0.699 |
+| CLDN1 | **CLDN8** | 0.796 |
+| CLDN1 | **CLDN2** | 0.843 |
+| CLDN1 | **CLDN3** | 0.85 |
+| CLDN1 | **CLDN5** | 0.872 |
+| CLDN1 | **MARVELD2** | 0.889 |
+| CLDN1 | **CLDN4** | 0.944 |
+| CLDN1 | **PATJ** | 0.964 |
+| CLDN1 | **F11R** | 0.991 |
+| CLDN1 | **TJP3** | 0.996 |
+| CLDN1 | **TJP1** | 0.999 |
+| CLDN1 | **OCLN** | 0.999 |
+| CLDN1 | **TJP2** | 0.999 |
+| MARVELD2 | **CLDN8** | 0.489 |
+| MARVELD2 | **PATJ** | 0.684 |
+| MARVELD2 | **CLDN5** | 0.774 |
+| MARVELD2 | **CLDN2** | 0.793 |
+| MARVELD2 | **CLDN4** | 0.795 |
+| MARVELD2 | **AFDN** | 0.82 |
+| MARVELD2 | **CLDN3** | 0.908 |
+| MARVELD2 | **F11R** | 0.931 |
+| MARVELD2 | **CLDN7** | 0.964 |
+| MARVELD2 | **OCLN** | 0.992 |
+| MARVELD2 | **TJP3** | 0.995 |
+| MARVELD2 | **TJP2** | 0.997 |
+| MARVELD2 | **TJP1** | 0.999 |
+| CLDN2 | **F11R** | 0.664 |
+| CLDN2 | **CLDN4** | 0.69 |
+| CLDN2 | **CLDN8** | 0.697 |
+| CLDN2 | **CLDN3** | 0.8 |
+| CLDN2 | **CLDN5** | 0.806 |
+| CLDN2 | **CLDN7** | 0.839 |
+| CLDN2 | **TJP2** | 0.908 |
+| CLDN2 | **TJP3** | 0.957 |
+| CLDN2 | **OCLN** | 0.985 |
+| CLDN2 | **TJP1** | 0.992 |
+| OCLN | **PATJ** | 0.851 |
+| OCLN | **CLDN8** | 0.969 |
+| OCLN | **AFDN** | 0.973 |
+| OCLN | **CLDN4** | 0.996 |
+| OCLN | **TJP3** | 0.998 |
+| OCLN | **F11R** | 0.998 |
+| OCLN | **CLDN3** | 0.998 |
+| OCLN | **CLDN5** | 0.999 |
+| OCLN | **TJP2** | 0.999 |
+| OCLN | **TJP1** | 0.999 |
+| OCLN | **CLDN7** | 0.999 |
+| TJP1 | **PATJ** | 0.857 |
+| TJP1 | **TJP3** | 0.988 |
+| TJP1 | **CLDN8** | 0.993 |
+| TJP1 | **CLDN3** | 0.994 |
+| TJP1 | **CLDN4** | 0.998 |
+| TJP1 | **AFDN** | 0.999 |
+| TJP1 | **CLDN5** | 0.999 |
+| TJP1 | **TJP2** | 0.999 |
+| TJP1 | **CLDN7** | 0.999 |
+| TJP1 | **F11R** | 0.999 |
+| CLDN7 | **AFDN** | 0.426 |
+| CLDN7 | **CLDN8** | 0.803 |
+| CLDN7 | **CLDN3** | 0.864 |
+| CLDN7 | **CLDN5** | 0.878 |
+| CLDN7 | **PATJ** | 0.902 |
+| CLDN7 | **CLDN4** | 0.953 |
+| CLDN7 | **F11R** | 0.982 |
+| CLDN7 | **TJP3** | 0.99 |
+| CLDN7 | **TJP2** | 0.995 |
+| AFDN | **CLDN5** | 0.566 |
+| AFDN | **TJP3** | 0.941 |
+| AFDN | **F11R** | 0.997 |
+| AFDN | **TJP2** | 0.999 |
+| F11R | **CLDN8** | 0.654 |
+| F11R | **PATJ** | 0.686 |
+| F11R | **CLDN3** | 0.706 |
+| F11R | **TJP3** | 0.922 |
+| F11R | **CLDN4** | 0.924 |
+| F11R | **CLDN5** | 0.956 |
+| F11R | **TJP2** | 0.996 |
+| CLDN3 | **CLDN8** | 0.721 |
+| CLDN3 | **TJP2** | 0.847 |
+| CLDN3 | **CLDN4** | 0.859 |
+| CLDN3 | **CLDN5** | 0.958 |
+| CLDN3 | **TJP3** | 0.988 |
+| CLDN8 | **PATJ** | 0.513 |
+| CLDN8 | **CLDN5** | 0.682 |
+| CLDN8 | **CLDN4** | 0.908 |
+| CLDN8 | **TJP2** | 0.911 |
+| CLDN8 | **TJP3** | 0.97 |
+| CLDN5 | **CLDN4** | 0.787 |
+| CLDN5 | **TJP3** | 0.945 |
+| CLDN5 | **TJP2** | 0.989 |
+| CLDN4 | **TJP2** | 0.899 |
+| CLDN4 | **TJP3** | 0.932 |
+| TJP2 | **PATJ** | 0.721 |
+| TJP2 | **TJP3** | 0.988 |
+| TJP3 | **PATJ** | 0.996 |
+

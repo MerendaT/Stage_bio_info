@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SNRNP200
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SNRNP200
+Identifiant STRING officiel : `9606.ENSP00000317123`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SF3A1 | **YJU2** | 0.711 |
+| SF3A1 | **DHX38** | 0.82 |
+| SF3A1 | **SNRNP40** | 0.94 |
+| SF3A1 | **LSM8** | 0.991 |
+| SF3A1 | **LSM7** | 0.993 |
+| SF3A1 | **BUD13** | 0.995 |
+| SF3A1 | **SNRPD3** | 0.995 |
+| SF3A1 | **SNRPF** | 0.997 |
+| SF3A1 | **PRPF19** | 0.997 |
+| SF3A1 | **PHF5A** | 0.998 |
+| SF3A1 | **SNRNP200** | 0.999 |
+| SF3A1 | **PRPF6** | 0.999 |
+| SF3A1 | **MFAP1** | 0.999 |
+| SF3A1 | **SF3A2** | 0.999 |
+| SF3A1 | **SNRPA1** | 0.999 |
+| SNRPD3 | **YJU2** | 0.924 |
+| SNRPD3 | **DHX38** | 0.926 |
+| SNRPD3 | **BUD13** | 0.988 |
+| SNRPD3 | **SNRNP40** | 0.993 |
+| SNRPD3 | **PHF5A** | 0.995 |
+| SNRPD3 | **MFAP1** | 0.997 |
+| SNRPD3 | **LSM7** | 0.999 |
+| SNRPD3 | **SF3A2** | 0.999 |
+| SNRPD3 | **SNRPA1** | 0.999 |
+| SNRPD3 | **LSM8** | 0.999 |
+| SNRPD3 | **PRPF19** | 0.999 |
+| SNRPD3 | **SNRNP200** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **PRPF6** | 0.999 |
+| PHF5A | **DHX38** | 0.405 |
+| PHF5A | **SNRNP40** | 0.857 |
+| PHF5A | **PRPF19** | 0.975 |
+| PHF5A | **MFAP1** | 0.985 |
+| PHF5A | **PRPF6** | 0.991 |
+| PHF5A | **LSM7** | 0.993 |
+| PHF5A | **BUD13** | 0.996 |
+| PHF5A | **LSM8** | 0.997 |
+| PHF5A | **SNRPA1** | 0.998 |
+| PHF5A | **SNRPF** | 0.998 |
+| PHF5A | **SF3A2** | 0.999 |
+| PHF5A | **SNRNP200** | 0.999 |
+| SF3A2 | **YJU2** | 0.727 |
+| SF3A2 | **DHX38** | 0.751 |
+| SF3A2 | **SNRNP40** | 0.897 |
+| SF3A2 | **MFAP1** | 0.991 |
+| SF3A2 | **LSM7** | 0.991 |
+| SF3A2 | **LSM8** | 0.993 |
+| SF3A2 | **PRPF19** | 0.997 |
+| SF3A2 | **SNRPF** | 0.998 |
+| SF3A2 | **BUD13** | 0.998 |
+| SF3A2 | **SNRNP200** | 0.999 |
+| SF3A2 | **PRPF6** | 0.999 |
+| SF3A2 | **SNRPA1** | 0.999 |
+| PRPF19 | **LSM8** | 0.553 |
+| PRPF19 | **MFAP1** | 0.587 |
+| PRPF19 | **PRPF6** | 0.872 |
+| PRPF19 | **BUD13** | 0.994 |
+| PRPF19 | **DHX38** | 0.996 |
+| PRPF19 | **YJU2** | 0.999 |
+| PRPF19 | **SNRPF** | 0.999 |
+| PRPF19 | **SNRNP200** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **SNRNP40** | 0.999 |
+| LSM8 | **SNRNP40** | 0.939 |
+| LSM8 | **BUD13** | 0.956 |
+| LSM8 | **MFAP1** | 0.982 |
+| LSM8 | **SNRPA1** | 0.997 |
+| LSM8 | **LSM7** | 0.999 |
+| LSM8 | **PRPF6** | 0.999 |
+| LSM8 | **SNRNP200** | 0.999 |
+| LSM8 | **SNRPF** | 0.999 |
+| LSM7 | **SNRNP40** | 0.926 |
+| LSM7 | **BUD13** | 0.967 |
+| LSM7 | **MFAP1** | 0.983 |
+| LSM7 | **SNRPA1** | 0.997 |
+| LSM7 | **PRPF6** | 0.998 |
+| LSM7 | **SNRNP200** | 0.999 |
+| LSM7 | **SNRPF** | 0.999 |
+| SNRPA1 | **YJU2** | 0.989 |
+| SNRPA1 | **DHX38** | 0.993 |
+| SNRPA1 | **BUD13** | 0.997 |
+| SNRPA1 | **SNRNP40** | 0.997 |
+| SNRPA1 | **PRPF6** | 0.998 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **SNRNP200** | 0.999 |
+| SNRPA1 | **MFAP1** | 0.999 |
+| BUD13 | **YJU2** | 0.722 |
+| BUD13 | **SNRNP40** | 0.81 |
+| BUD13 | **DHX38** | 0.845 |
+| BUD13 | **PRPF6** | 0.956 |
+| BUD13 | **SNRPF** | 0.989 |
+| BUD13 | **SNRNP200** | 0.999 |
+| BUD13 | **MFAP1** | 0.999 |
+| YJU2 | **MFAP1** | 0.52 |
+| YJU2 | **SNRNP40** | 0.822 |
+| YJU2 | **SNRPF** | 0.922 |
+| YJU2 | **DHX38** | 0.998 |
+| YJU2 | **SNRNP200** | 0.999 |
+| SNRNP40 | **DHX38** | 0.892 |
+| SNRNP40 | **MFAP1** | 0.992 |
+| SNRNP40 | **SNRPF** | 0.998 |
+| SNRNP40 | **PRPF6** | 0.999 |
+| SNRNP40 | **SNRNP200** | 0.999 |
+| PRPF6 | **DHX38** | 0.761 |
+| PRPF6 | **SNRNP200** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **MFAP1** | 0.999 |
+| SNRPF | **DHX38** | 0.903 |
+| SNRPF | **MFAP1** | 0.991 |
+| SNRPF | **SNRNP200** | 0.999 |
+| MFAP1 | **DHX38** | 0.813 |
+| MFAP1 | **SNRNP200** | 0.999 |
+| DHX38 | **SNRNP200** | 0.999 |
+

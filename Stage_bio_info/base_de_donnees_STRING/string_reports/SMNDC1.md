@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SMNDC1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SMNDC1
+Identifiant STRING officiel : `9606.ENSP00000358616`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PHF5A | **U2SURP** | 0.851 |
+| PHF5A | **PUF60** | 0.858 |
+| PHF5A | **RBM17** | 0.879 |
+| PHF5A | **SMNDC1** | 0.881 |
+| PHF5A | **CHERP** | 0.909 |
+| PHF5A | **DHX15** | 0.915 |
+| PHF5A | **PRPF6** | 0.991 |
+| PHF5A | **PRPF3** | 0.992 |
+| PHF5A | **DDX46** | 0.994 |
+| PHF5A | **SNRPB** | 0.995 |
+| PHF5A | **SNRPA1** | 0.998 |
+| PHF5A | **SF3B1** | 0.999 |
+| PHF5A | **SF3A3** | 0.999 |
+| PHF5A | **SF3A2** | 0.999 |
+| PHF5A | **SNRPB2** | 0.999 |
+| SF3A2 | **SMNDC1** | 0.912 |
+| SF3A2 | **PUF60** | 0.942 |
+| SF3A2 | **RBM17** | 0.955 |
+| SF3A2 | **CHERP** | 0.96 |
+| SF3A2 | **U2SURP** | 0.963 |
+| SF3A2 | **DHX15** | 0.969 |
+| SF3A2 | **PRPF3** | 0.998 |
+| SF3A2 | **DDX46** | 0.999 |
+| SF3A2 | **SNRPB** | 0.999 |
+| SF3A2 | **PRPF6** | 0.999 |
+| SF3A2 | **SNRPB2** | 0.999 |
+| SF3A2 | **SNRPA1** | 0.999 |
+| SF3A2 | **SF3A3** | 0.999 |
+| SF3A2 | **SF3B1** | 0.999 |
+| SNRPB2 | **CHERP** | 0.848 |
+| SNRPB2 | **SMNDC1** | 0.861 |
+| SNRPB2 | **PUF60** | 0.87 |
+| SNRPB2 | **U2SURP** | 0.884 |
+| SNRPB2 | **RBM17** | 0.944 |
+| SNRPB2 | **DDX46** | 0.985 |
+| SNRPB2 | **PRPF3** | 0.991 |
+| SNRPB2 | **DHX15** | 0.993 |
+| SNRPB2 | **PRPF6** | 0.998 |
+| SNRPB2 | **SF3B1** | 0.998 |
+| SNRPB2 | **SNRPB** | 0.999 |
+| SNRPB2 | **SF3A3** | 0.999 |
+| SNRPB2 | **SNRPA1** | 0.999 |
+| SNRPA1 | **CHERP** | 0.881 |
+| SNRPA1 | **PUF60** | 0.897 |
+| SNRPA1 | **SMNDC1** | 0.907 |
+| SNRPA1 | **U2SURP** | 0.934 |
+| SNRPA1 | **RBM17** | 0.972 |
+| SNRPA1 | **DDX46** | 0.995 |
+| SNRPA1 | **PRPF6** | 0.998 |
+| SNRPA1 | **PRPF3** | 0.998 |
+| SNRPA1 | **DHX15** | 0.999 |
+| SNRPA1 | **SNRPB** | 0.999 |
+| SNRPA1 | **SF3B1** | 0.999 |
+| SNRPA1 | **SF3A3** | 0.999 |
+| PRPF6 | **RBM17** | 0.409 |
+| PRPF6 | **DHX15** | 0.464 |
+| PRPF6 | **U2SURP** | 0.529 |
+| PRPF6 | **DDX46** | 0.72 |
+| PRPF6 | **SMNDC1** | 0.968 |
+| PRPF6 | **SNRPB** | 0.998 |
+| PRPF6 | **PRPF3** | 0.999 |
+| PRPF6 | **SF3B1** | 0.999 |
+| PRPF6 | **SF3A3** | 0.999 |
+| PRPF3 | **DHX15** | 0.552 |
+| PRPF3 | **DDX46** | 0.655 |
+| PRPF3 | **SMNDC1** | 0.832 |
+| PRPF3 | **SNRPB** | 0.997 |
+| PRPF3 | **SF3A3** | 0.997 |
+| PRPF3 | **SF3B1** | 0.998 |
+| SF3B1 | **CHERP** | 0.71 |
+| SF3B1 | **SMNDC1** | 0.813 |
+| SF3B1 | **U2SURP** | 0.908 |
+| SF3B1 | **PUF60** | 0.962 |
+| SF3B1 | **DHX15** | 0.987 |
+| SF3B1 | **RBM17** | 0.997 |
+| SF3B1 | **SNRPB** | 0.997 |
+| SF3B1 | **SF3A3** | 0.999 |
+| SF3B1 | **DDX46** | 0.999 |
+| DHX15 | **SMNDC1** | 0.847 |
+| DHX15 | **PUF60** | 0.868 |
+| DHX15 | **U2SURP** | 0.95 |
+| DHX15 | **DDX46** | 0.962 |
+| DHX15 | **CHERP** | 0.968 |
+| DHX15 | **SF3A3** | 0.969 |
+| DHX15 | **SNRPB** | 0.983 |
+| DHX15 | **RBM17** | 0.999 |
+| SMNDC1 | **SF3A3** | 0.788 |
+| SMNDC1 | **SNRPB** | 0.792 |
+| SMNDC1 | **CHERP** | 0.821 |
+| SMNDC1 | **U2SURP** | 0.845 |
+| SMNDC1 | **PUF60** | 0.862 |
+| SMNDC1 | **RBM17** | 0.874 |
+| SMNDC1 | **DDX46** | 0.896 |
+| SF3A3 | **PUF60** | 0.763 |
+| SF3A3 | **CHERP** | 0.827 |
+| SF3A3 | **U2SURP** | 0.865 |
+| SF3A3 | **RBM17** | 0.965 |
+| SF3A3 | **SNRPB** | 0.999 |
+| SF3A3 | **DDX46** | 0.999 |
+| RBM17 | **SNRPB** | 0.725 |
+| RBM17 | **PUF60** | 0.874 |
+| RBM17 | **DDX46** | 0.909 |
+| RBM17 | **CHERP** | 0.992 |
+| RBM17 | **U2SURP** | 0.995 |
+| SNRPB | **CHERP** | 0.625 |
+| SNRPB | **U2SURP** | 0.679 |
+| SNRPB | **PUF60** | 0.711 |
+| SNRPB | **DDX46** | 0.964 |
+| DDX46 | **CHERP** | 0.859 |
+| DDX46 | **PUF60** | 0.884 |
+| DDX46 | **U2SURP** | 0.918 |
+| U2SURP | **PUF60** | 0.886 |
+| U2SURP | **CHERP** | 0.995 |
+| PUF60 | **CHERP** | 0.881 |
+

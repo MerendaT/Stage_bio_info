@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CD2BP2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CD2BP2
+Identifiant STRING officiel : `9606.ENSP00000304903`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNRNP40 | **SNRPN** | 0.902 |
+| SNRNP40 | **CD2BP2** | 0.972 |
+| SNRNP40 | **AAR2** | 0.974 |
+| SNRNP40 | **SART1** | 0.983 |
+| SNRNP40 | **TXNL4A** | 0.995 |
+| SNRNP40 | **SNRPD1** | 0.996 |
+| SNRNP40 | **DDX23** | 0.997 |
+| SNRNP40 | **SNRPD2** | 0.998 |
+| SNRNP40 | **SNRPB** | 0.998 |
+| SNRNP40 | **SNRPF** | 0.998 |
+| SNRNP40 | **EFTUD2** | 0.999 |
+| SNRNP40 | **PRPF8** | 0.999 |
+| SNRNP40 | **PRPF6** | 0.999 |
+| SNRNP40 | **SNRNP200** | 0.999 |
+| PRPF6 | **AAR2** | 0.955 |
+| PRPF6 | **SNRPN** | 0.992 |
+| PRPF6 | **CD2BP2** | 0.994 |
+| PRPF6 | **SNRPB** | 0.998 |
+| PRPF6 | **SNRNP200** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **SART1** | 0.999 |
+| PRPF6 | **PRPF8** | 0.999 |
+| PRPF6 | **EFTUD2** | 0.999 |
+| PRPF6 | **DDX23** | 0.999 |
+| PRPF6 | **TXNL4A** | 0.999 |
+| PRPF6 | **SNRPD2** | 0.999 |
+| PRPF6 | **SNRPD1** | 0.999 |
+| SNRPF | **AAR2** | 0.779 |
+| SNRPF | **CD2BP2** | 0.914 |
+| SNRPF | **DDX23** | 0.997 |
+| SNRPF | **TXNL4A** | 0.998 |
+| SNRPF | **SNRPB** | 0.999 |
+| SNRPF | **SART1** | 0.999 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **SNRPN** | 0.999 |
+| SNRPF | **EFTUD2** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SNRPD1** | 0.999 |
+| SNRPF | **PRPF8** | 0.999 |
+| TXNL4A | **AAR2** | 0.797 |
+| TXNL4A | **SNRPN** | 0.964 |
+| TXNL4A | **SNRPD1** | 0.991 |
+| TXNL4A | **SNRPD2** | 0.992 |
+| TXNL4A | **CD2BP2** | 0.997 |
+| TXNL4A | **SNRPB** | 0.997 |
+| TXNL4A | **SART1** | 0.998 |
+| TXNL4A | **EFTUD2** | 0.999 |
+| TXNL4A | **DDX23** | 0.999 |
+| TXNL4A | **PRPF8** | 0.999 |
+| TXNL4A | **SNRNP200** | 0.999 |
+| SNRPD1 | **AAR2** | 0.794 |
+| SNRPD1 | **CD2BP2** | 0.92 |
+| SNRPD1 | **DDX23** | 0.998 |
+| SNRPD1 | **SNRPB** | 0.999 |
+| SNRPD1 | **SART1** | 0.999 |
+| SNRPD1 | **SNRNP200** | 0.999 |
+| SNRPD1 | **SNRPN** | 0.999 |
+| SNRPD1 | **EFTUD2** | 0.999 |
+| SNRPD1 | **SNRPD2** | 0.999 |
+| SNRPD1 | **PRPF8** | 0.999 |
+| CD2BP2 | **SART1** | 0.909 |
+| CD2BP2 | **SNRPD2** | 0.917 |
+| CD2BP2 | **SNRPN** | 0.941 |
+| CD2BP2 | **EFTUD2** | 0.959 |
+| CD2BP2 | **AAR2** | 0.967 |
+| CD2BP2 | **SNRPB** | 0.982 |
+| CD2BP2 | **PRPF8** | 0.982 |
+| CD2BP2 | **CD2** | 0.992 |
+| CD2BP2 | **DDX23** | 0.996 |
+| CD2BP2 | **SNRNP200** | 0.998 |
+| SART1 | **AAR2** | 0.525 |
+| SART1 | **SNRPN** | 0.986 |
+| SART1 | **DDX23** | 0.996 |
+| SART1 | **SNRPB** | 0.996 |
+| SART1 | **SNRPD2** | 0.999 |
+| SART1 | **EFTUD2** | 0.999 |
+| SART1 | **PRPF8** | 0.999 |
+| SART1 | **SNRNP200** | 0.999 |
+| DDX23 | **SNRPN** | 0.93 |
+| DDX23 | **AAR2** | 0.98 |
+| DDX23 | **SNRPB** | 0.994 |
+| DDX23 | **PRPF8** | 0.999 |
+| DDX23 | **SNRPD2** | 0.999 |
+| DDX23 | **EFTUD2** | 0.999 |
+| DDX23 | **SNRNP200** | 0.999 |
+| SNRNP200 | **SNRPN** | 0.993 |
+| SNRNP200 | **AAR2** | 0.996 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **SNRPD2** | 0.999 |
+| SNRNP200 | **SNRPB** | 0.999 |
+| SNRPD2 | **AAR2** | 0.758 |
+| SNRPD2 | **SNRPN** | 0.999 |
+| SNRPD2 | **SNRPB** | 0.999 |
+| SNRPD2 | **PRPF8** | 0.999 |
+| SNRPD2 | **EFTUD2** | 0.999 |
+| AAR2 | **SNRPN** | 0.826 |
+| AAR2 | **SNRPB** | 0.852 |
+| AAR2 | **EFTUD2** | 0.994 |
+| AAR2 | **PRPF8** | 0.999 |
+| EFTUD2 | **SNRPN** | 0.993 |
+| EFTUD2 | **SNRPB** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| SNRPB | **SNRPN** | 0.978 |
+| SNRPB | **PRPF8** | 0.999 |
+| PRPF8 | **SNRPN** | 0.994 |
+

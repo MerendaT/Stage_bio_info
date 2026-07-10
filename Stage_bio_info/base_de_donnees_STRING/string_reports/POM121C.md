@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : POM121C
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : POM121C
+Identifiant STRING officiel : `9606.ENSP00000481575`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NUP107 | **RAE1** | 0.869 |
+| NUP107 | **POM121** | 0.89 |
+| NUP107 | **POM121C** | 0.933 |
+| NUP107 | **KPNB1** | 0.934 |
+| NUP107 | **NUP54** | 0.998 |
+| NUP107 | **RANBP2** | 0.998 |
+| NUP107 | **NUP214** | 0.999 |
+| NUP107 | **SEH1L** | 0.999 |
+| NUP107 | **NUP155** | 0.999 |
+| NUP107 | **NUP205** | 0.999 |
+| NUP107 | **NUP93** | 0.999 |
+| NUP107 | **NUP85** | 0.999 |
+| NUP107 | **SEC13** | 0.999 |
+| NUP107 | **NUP153** | 0.999 |
+| NUP155 | **KPNB1** | 0.827 |
+| NUP155 | **POM121C** | 0.906 |
+| NUP155 | **RAE1** | 0.934 |
+| NUP155 | **POM121** | 0.948 |
+| NUP155 | **SEC13** | 0.996 |
+| NUP155 | **NUP153** | 0.996 |
+| NUP155 | **NUP214** | 0.998 |
+| NUP155 | **NUP85** | 0.998 |
+| NUP155 | **NUP54** | 0.999 |
+| NUP155 | **SEH1L** | 0.999 |
+| NUP155 | **NUP205** | 0.999 |
+| NUP155 | **RANBP2** | 0.999 |
+| NUP155 | **NUP93** | 0.999 |
+| NUP85 | **POM121C** | 0.876 |
+| NUP85 | **KPNB1** | 0.907 |
+| NUP85 | **POM121** | 0.917 |
+| NUP85 | **RAE1** | 0.959 |
+| NUP85 | **RANBP2** | 0.992 |
+| NUP85 | **NUP153** | 0.993 |
+| NUP85 | **NUP54** | 0.996 |
+| NUP85 | **NUP205** | 0.998 |
+| NUP85 | **SEH1L** | 0.999 |
+| NUP85 | **NUP214** | 0.999 |
+| NUP85 | **SEC13** | 0.999 |
+| NUP85 | **NUP93** | 0.999 |
+| NUP54 | **POM121C** | 0.87 |
+| NUP54 | **POM121** | 0.903 |
+| NUP54 | **KPNB1** | 0.912 |
+| NUP54 | **RAE1** | 0.916 |
+| NUP54 | **NUP153** | 0.983 |
+| NUP54 | **SEC13** | 0.984 |
+| NUP54 | **SEH1L** | 0.988 |
+| NUP54 | **NUP214** | 0.995 |
+| NUP54 | **RANBP2** | 0.999 |
+| NUP54 | **NUP93** | 0.999 |
+| NUP54 | **NUP205** | 0.999 |
+| RANBP2 | **RAE1** | 0.92 |
+| RANBP2 | **POM121C** | 0.944 |
+| RANBP2 | **POM121** | 0.948 |
+| RANBP2 | **SEC13** | 0.981 |
+| RANBP2 | **SEH1L** | 0.993 |
+| RANBP2 | **KPNB1** | 0.993 |
+| RANBP2 | **NUP205** | 0.994 |
+| RANBP2 | **NUP153** | 0.996 |
+| RANBP2 | **NUP93** | 0.998 |
+| RANBP2 | **NUP214** | 0.999 |
+| NUP205 | **KPNB1** | 0.865 |
+| NUP205 | **RAE1** | 0.919 |
+| NUP205 | **POM121** | 0.924 |
+| NUP205 | **POM121C** | 0.935 |
+| NUP205 | **NUP153** | 0.995 |
+| NUP205 | **SEC13** | 0.995 |
+| NUP205 | **NUP214** | 0.998 |
+| NUP205 | **NUP93** | 0.999 |
+| NUP205 | **SEH1L** | 0.999 |
+| KPNB1 | **SEC13** | 0.661 |
+| KPNB1 | **SEH1L** | 0.74 |
+| KPNB1 | **POM121** | 0.832 |
+| KPNB1 | **RAE1** | 0.88 |
+| KPNB1 | **NUP214** | 0.911 |
+| KPNB1 | **POM121C** | 0.921 |
+| KPNB1 | **NUP93** | 0.926 |
+| KPNB1 | **NUP153** | 0.996 |
+| NUP93 | **POM121C** | 0.931 |
+| NUP93 | **RAE1** | 0.937 |
+| NUP93 | **POM121** | 0.952 |
+| NUP93 | **NUP153** | 0.996 |
+| NUP93 | **SEC13** | 0.997 |
+| NUP93 | **SEH1L** | 0.999 |
+| NUP93 | **NUP214** | 0.999 |
+| NUP214 | **POM121** | 0.892 |
+| NUP214 | **POM121C** | 0.895 |
+| NUP214 | **RAE1** | 0.992 |
+| NUP214 | **NUP153** | 0.993 |
+| NUP214 | **SEC13** | 0.995 |
+| NUP214 | **SEH1L** | 0.998 |
+| SEC13 | **RAE1** | 0.826 |
+| SEC13 | **POM121C** | 0.874 |
+| SEC13 | **POM121** | 0.897 |
+| SEC13 | **NUP153** | 0.945 |
+| SEC13 | **SEH1L** | 0.999 |
+| POM121 | **NUP153** | 0.833 |
+| POM121 | **RAE1** | 0.849 |
+| POM121 | **SEH1L** | 0.849 |
+| POM121 | **POM121L2** | 0.904 |
+| POM121 | **POM121C** | 0.931 |
+| RAE1 | **POM121C** | 0.85 |
+| RAE1 | **SEH1L** | 0.964 |
+| RAE1 | **NUP153** | 0.975 |
+| SEH1L | **POM121C** | 0.899 |
+| SEH1L | **NUP153** | 0.981 |
+| POM121L2 | **POM121C** | 0.9 |
+| NUP153 | **POM121C** | 0.838 |
+

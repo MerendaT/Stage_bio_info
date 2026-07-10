@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : KIF20A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KIF20A
+Identifiant STRING officiel : `9606.ENSP00000378356`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KIF11 | **INCENP** | 0.913 |
+| KIF11 | **PLK1** | 0.919 |
+| KIF11 | **KIF14** | 0.93 |
+| KIF11 | **KIF4A** | 0.952 |
+| KIF11 | **BIRC5** | 0.957 |
+| KIF11 | **AURKB** | 0.964 |
+| KIF11 | **CDCA8** | 0.964 |
+| KIF11 | **TOP2A** | 0.975 |
+| KIF11 | **CCNA2** | 0.978 |
+| KIF11 | **RACGAP1** | 0.978 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **CDC20** | 0.987 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **BUB1B** | 0.994 |
+| BUB1B | **KIF14** | 0.878 |
+| BUB1B | **INCENP** | 0.912 |
+| BUB1B | **RACGAP1** | 0.919 |
+| BUB1B | **KIF4A** | 0.968 |
+| BUB1B | **ASPM** | 0.974 |
+| BUB1B | **KIF20A** | 0.977 |
+| BUB1B | **TOP2A** | 0.98 |
+| BUB1B | **BIRC5** | 0.987 |
+| BUB1B | **CCNA2** | 0.994 |
+| BUB1B | **CDCA8** | 0.994 |
+| BUB1B | **PLK1** | 0.999 |
+| BUB1B | **AURKB** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| PLK1 | **KIF14** | 0.611 |
+| PLK1 | **ASPM** | 0.704 |
+| PLK1 | **KIF4A** | 0.821 |
+| PLK1 | **TOP2A** | 0.931 |
+| PLK1 | **AURKB** | 0.939 |
+| PLK1 | **CCNA2** | 0.958 |
+| PLK1 | **RACGAP1** | 0.961 |
+| PLK1 | **CDCA8** | 0.974 |
+| PLK1 | **INCENP** | 0.978 |
+| PLK1 | **BIRC5** | 0.98 |
+| PLK1 | **KIF20A** | 0.99 |
+| PLK1 | **CDC20** | 0.999 |
+| BIRC5 | **KIF14** | 0.741 |
+| BIRC5 | **RACGAP1** | 0.827 |
+| BIRC5 | **ASPM** | 0.879 |
+| BIRC5 | **KIF4A** | 0.925 |
+| BIRC5 | **CCNA2** | 0.956 |
+| BIRC5 | **KIF20A** | 0.973 |
+| BIRC5 | **TOP2A** | 0.976 |
+| BIRC5 | **CDC20** | 0.995 |
+| BIRC5 | **AURKB** | 0.999 |
+| BIRC5 | **INCENP** | 0.999 |
+| BIRC5 | **CDCA8** | 0.999 |
+| RAB6A | **KIF20A** | 0.997 |
+| AURKB | **KIF14** | 0.832 |
+| AURKB | **ASPM** | 0.89 |
+| AURKB | **KIF4A** | 0.942 |
+| AURKB | **RACGAP1** | 0.966 |
+| AURKB | **TOP2A** | 0.97 |
+| AURKB | **KIF20A** | 0.99 |
+| AURKB | **CCNA2** | 0.991 |
+| AURKB | **CDC20** | 0.998 |
+| AURKB | **INCENP** | 0.999 |
+| AURKB | **CDCA8** | 0.999 |
+| KIF14 | **CDC20** | 0.674 |
+| KIF14 | **INCENP** | 0.695 |
+| KIF14 | **CDCA8** | 0.83 |
+| KIF14 | **CCNA2** | 0.85 |
+| KIF14 | **RACGAP1** | 0.868 |
+| KIF14 | **KIF4A** | 0.921 |
+| KIF14 | **TOP2A** | 0.927 |
+| KIF14 | **ASPM** | 0.963 |
+| KIF14 | **KIF20A** | 0.973 |
+| ASPM | **INCENP** | 0.59 |
+| ASPM | **RACGAP1** | 0.795 |
+| ASPM | **CCNA2** | 0.944 |
+| ASPM | **CDCA8** | 0.95 |
+| ASPM | **KIF4A** | 0.952 |
+| ASPM | **CDC20** | 0.972 |
+| ASPM | **KIF20A** | 0.975 |
+| ASPM | **TOP2A** | 0.996 |
+| CDC20 | **RACGAP1** | 0.853 |
+| CDC20 | **KIF4A** | 0.941 |
+| CDC20 | **INCENP** | 0.964 |
+| CDC20 | **TOP2A** | 0.98 |
+| CDC20 | **KIF20A** | 0.981 |
+| CDC20 | **CDCA8** | 0.992 |
+| CDC20 | **CCNA2** | 0.999 |
+| CDCA8 | **TOP2A** | 0.92 |
+| CDCA8 | **KIF4A** | 0.932 |
+| CDCA8 | **RACGAP1** | 0.934 |
+| CDCA8 | **CCNA2** | 0.952 |
+| CDCA8 | **KIF20A** | 0.98 |
+| CDCA8 | **INCENP** | 0.999 |
+| KIF4A | **INCENP** | 0.748 |
+| KIF4A | **CCNA2** | 0.895 |
+| KIF4A | **RACGAP1** | 0.907 |
+| KIF4A | **TOP2A** | 0.915 |
+| KIF4A | **KIF20A** | 0.992 |
+| INCENP | **TOP2A** | 0.486 |
+| INCENP | **CCNA2** | 0.628 |
+| INCENP | **RACGAP1** | 0.92 |
+| INCENP | **KIF20A** | 0.995 |
+| KIF20A | **CCNA2** | 0.974 |
+| KIF20A | **TOP2A** | 0.974 |
+| KIF20A | **RACGAP1** | 0.997 |
+| RACGAP1 | **CCNA2** | 0.856 |
+| RACGAP1 | **TOP2A** | 0.882 |
+| TOP2A | **CCNA2** | 0.982 |
+

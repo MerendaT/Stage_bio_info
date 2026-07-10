@@ -4,210 +4,267 @@
     @author: meren
 """
 
-import os
 import requests
 import json
 from pathlib import Path
 import time
+import pandas as pd # Bibliotheque indispensable pour manipuler le fichier Excel
 
+# -----------------------------------------------------------------------------
 # 1. CONFIGURATION DES CHEMINS DE SORTIE
+# -----------------------------------------------------------------------------
 
-# Dossier et fichiers ou seront sauvegardes les résultats
-out_txt = Path(r"C:\Users\meren\Desktop\stage_info\string_results.md")
-json_dir = Path(r"C:\Users\meren\Desktop\stage_info\string_json_output")
+# Definition du chemin d'acces au dossier qui va contenir tous les fichiers Markdown (.md)
+out_dir = Path("/home/tmerenda/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/string_reports")
+# La methode mkdir cree le dossier s'il n'existe pas encore. parents=True permet de creer les dossiers intermediaires si necessaire.
+out_dir.mkdir(exist_ok=True, parents=True)
 
-# Cree le dossier pour les JSON s'il n'existe pas
-json_dir.mkdir(exist_ok=True, parents=True)
+# Definition du chemin absolu menant a ton fichier d'entree au format Excel (.xlsx)
+EXCEL_FILE = Path("/home/tmerenda/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/donnees_ms_uniprot.xlsx")
 
-# Cree le dossier parent du fichier texte s'il n'existe pas
-out_txt.parent.mkdir(exist_ok=True, parents=True)
+# Specification de la colonne precise que Pandas doit lire a l'intérieur de la feuille Excel
+UNIPROT_COLUMN = "PG,Genes"
 
-# ENTREES UTILISATEUR
-# Demande le nom de la proteine à chercher
-prot_name = input("Nom de la protéine : ").strip()
+# Initialisation d'un dictionnaire vide destine a stocker la liste des partenaires d'interactions 
+# pour chaque proteine identifiee. Format attendu : { "Nom_Proteine": ["Partenaire1", "Partenaire2", ...] }
+dictionnaire_enrichissement = {}
 
-# Bloque le script si l'utilisateur ne tape rien
-if not prot_name:
-    raise ValueError("Le nom de la protéine ne peut pas être vide.")
+# -----------------------------------------------------------------------------
+# 2. ENTRÉES UTILISATEUR
+# -----------------------------------------------------------------------------
 
-# Demande le code de l'espece, avec l'humain (9606) par défaut
+# Demande a l'utilisateur de saisir le numéro d'identification de la taxonomie (TaxID)
 tax_input = input("TaxID de l'organisme, par défaut : 9606 (Humain) : ").strip()
+
+# Si l'utilisateur valide directement en appuyant sur Entree, on applique le TaxID de l'humain (9606)
 if tax_input == "":
     tax_id = 9606
 else:
+    # Utilisation d'un bloc try/except pour capter les erreurs si l'utilisateur saisit du texte au lieu d'un nombre
     try:
         tax_id = int(tax_input)
     except ValueError:
         print(" ID invalide. Utilisation du TaxID par défaut : 9606")
         tax_id = 9606
 
+# -----------------------------------------------------------------------------
 # 3. IDENTIFICATION DE L'ORGANISME VIA UNIPROT
+# -----------------------------------------------------------------------------
 
 print(f"\nRecherche du nom de l'organisme pour le TaxID {tax_id}")
-try: 
-    # Interroge l'API UniProt pour avoir le nom scientifique de l'espece
-    res_org = requests.get(f"https://rest.uniprot.org/taxonomy/{tax_id}", timeout=10)
+try:
+    # On interroge l'API officielle d'UniProt pour recuperer le nom scientifique associe au TaxID
+    res_org = requests.get(f"https://rest.uniprot.org/taxonomy/{tax_id}", timeout=60)
+    
+    # Si le serveur répond positivement (code statut 200)
     if res_org.status_code == 200:
-        # Extrait le nom scientifique du JSON reçu
+        # On extrait le nom scientifique depuis le format JSON, sinon on applique une valeur par défaut
         org_name = res_org.json().get("scientificName", f"ID {tax_id}")
     else:
         org_name = f"ID {tax_id}"
 except Exception:
-    # Solution de secours si la connexion internet échoue
+    # En cas d'erreur de reseau ou d'absence de réponse, on bascule sur l'ID brut pour eviter le crash
     org_name = f"ID {tax_id}"
 print(f"Organisme retenu : {org_name}\n")
 
-# 4. REQUETE ET EXTRACTION DEPUIS L'API STRING
+# -----------------------------------------------------------------------------
+# 4. LECTURE DU FICHIER EXCEL VIA PANDAS
+# -----------------------------------------------------------------------------
 
-# URL de l'API STRING pour recuperer les annotations fonctionnelles
-url_string = "https://string-db.org/api/json/functional_terms"
-fields = [
-        "category", # c'est la categorie à laquelle appartient la proteine
-        "term", # c'est l'identifiant unique en format str
-        "description", # recupere la derscription de la prot STRING en format str
-        "stringIds", # recupere l'id STRING en format str
-        "proteinCount", # recupere le nombre de proteines dans la categorie
-        "preferredNames", # recupere le nom preferentiel de la proteine STRING
-    ] # liste des champs que l'on souhaite recuperer depuis STRING
-
-# Parametres a envoyer a l'API STRING
-api_params = {
-    "term_text": prot_name,
-    "species": tax_id,
-    "fields": ",".join(fields),
-    "format": "json",
-    "size": "1"
-}
-
-# Liste pour stocker les lignes de resultats formatees
-results = []
-raw_json = None
-
-print(f" Connexion à STRING-DB pour : {prot_name}")
+print(f"Lecture du fichier Excel : {EXCEL_FILE}")
 try:
-    # Envoi de la requete GET à STRING
-    response = requests.get(url_string, params=api_params, timeout=10)
-    if response.status_code == 200:
-        # Recupere le contenu JSON si la requete a reussi
-        raw_json = response.json()
-    else:
-        print(f" Erreur STRING {response.status_code} pour {prot_name}")
-except requests.exceptions.RequestException as error:
-    print(f" Erreur réseau lors de l'appel à STRING : {error}")
+    # skiprows=1 permet d'ignorer la première ligne du fichier Excel
+    df = pd.read_excel(EXCEL_FILE, skiprows=1)
+    
+    # Processus de traitement de la colonne cible :
+    # 1. dropna() supprime toutes les cellules vides
+    # 2. astype(str) convertit l'ensemble des donnees en chaines de texte
+    # 3. unique() elimine les doublons de lignes dans le fichier
+    # 4. tolist() transforme la colonne Pandas en une liste Python standard manipulable par une boucle
+    liste_proteines = df[UNIPROT_COLUMN].dropna().astype(str).unique().tolist()
+except Exception as e:
+    print(f" Erreur lors de la lecture du fichier Excel : {e}")
+    exit(1)
 
-# Sauvegarde du fichier JSON brut s'il contient des donnees
-if raw_json:
-    # Nettoie le nom de la proteine pour eviter les caractères interdits dans les fichiers
-    safe_name = "".join([c if c.isalnum() else "_" for c in prot_name])
-    with open(json_dir / f"{safe_name}_string.json", "w", encoding="utf-8") as f_json:
-        # Ecrit le JSON de manière lisible (indentation de 2 espaces)
-        json.dump(raw_json, f_json, indent=2, ensure_ascii=False)
+# Definition des points d'acces (endpoints) de l'API STRING-DB
+# url_map permet d'obtenir un identifiant STRING valide a partir d'un nom de gene ou d'un ID UniProt
+url_map = "https://string-db.org/api/json/get_string_ids"
+# url_network permet de recuperer les proteines partenaires en interaction fonctionnelle
+url_network = "https://string-db.org/api/json/network"
 
-one_block = []
-all_block=[]
-# Traitement des donnees extraites du JSON
-if raw_json:
-    filtre_input = input("Entrez le filtre pour les categories, par defaut(None) : ").strip() # appliquez le filtre pour un gene precis
-    if filtre_input == "":
-        filtre = None
-    else:
-        filtre = filtre_input
+print(f"\nDébut du traitement de {len(liste_proteines)} protéines uniques...\n")
+
+# -----------------------------------------------------------------------------
+# 5. BOUCLE PRINCIPALE (TRAITEMENT LIGNE PAR LIGNE)
+# -----------------------------------------------------------------------------
+
+# On parcourt chaque ligne brute extraite de notre liste
+for row in liste_proteines:
+    brut = row.strip()
     
-    filtre_hypotetic = input("Voulez-vous filtrer les annotations hypothétiques ? (yes/no, par défaut : non) : ").strip().lower() # appliquer le filtre pour afficher ou non les donnees
-    if filtre_hypotetic =="":
-        filtre_h = "no"
+    # Securite pour eliminer les valeurs vides, les erreurs "nan" ou l'en-tête de la colonne repete
+    if not brut or brut == "nan" or brut == "PG,Genes":
+        continue
+
+    # NETTOYAGE CHIRURGICAL DE L'IDENTIFIANT
+    # Les fichiers de spectrometrie de masse regroupent souvent plusieurs proteines sur une ligne
+    # Si la cellule contient des points-virgules ou des virgules, on ne conserve que la première proteine listee
+    if ";" in brut:
+        brut = brut.split(";")[0].strip()
+    if "," in brut:
+        brut = brut.split(",")[0].strip()
+        
+    # Si l'identifiant est au format d'accession complet UniProt (ex: sp|P04637|P53_HUMAN),
+    # on decoupe la chaine au niveau des barres verticales '|' pour extraire uniquement l'ID central 
+    if "|" in brut:
+        parts = brut.split("|")
+        prot_name = parts[1].strip() if len(parts) >= 2 else brut
     else:
-        filtre_h = filtre_hypotetic
+        # Si la chaine est deja propre, on l'assigne directement
+        prot_name = brut
+
+    print(f" Connexion à STRING-DB pour : {prot_name}")
     
-    filtre_unknow = input("Voulez-vous filtrer les annotations inconnues ? (yes/no, par défaut : non) : ").strip().lower() # appliquer le filtre pour afficher ou non les donnees
-    if filtre_unknow =="":
-        filtre_u = "no"
-    else:
-        filtre_u = filtre_unknow   
+    # Reinitialisation systematique des listes de resultats a CHAQUE début de cycle 
+    # pour eviter que les donnees de la proteine precedente ne débordent sur la suivante
+    results = []
+    liste_preferred_valides = []
     
-    # Parcourt chaque annotation renvoyee par STRING
-    for item in raw_json:
-        category = item.get("category", "")
-        term_id = item.get("term", "")
-        desc = item.get("description", "")
-        string_ids = item.get("stringIds", [])
-        protein_count = item.get("proteinCount", 0)
-        preferredNames = item.get("preferredNames", [])
+    # --- ÉTAPE 1 : MAPPING (TRADUCTION DU NOM EN IDENTIFIANT STRING) ---
+    # L'API STRING-DB requiert un dictionnaire de parametres specifiques pour faire correspondre le nom
+    param_map = {
+        "identifiers": prot_name, # Notre identifiant nettoye
+        "species": tax_id, # Restreint la recherche au TaxID sélectionne
+        "limit": 1 # On ne demande que le premier resultat le plus pertinent
+    }
+    
+    string_id_valide = None
+    try:
+        # Appel de l'API avec un delai de rigueur de 10 secondes maximum (timeout)
+        res_map = requests.get(url_map, params=param_map, timeout=60)
         
-        # Initialise la variable de texte pour cette annotation
-        term = ""
-        loc_go = ""
-        mot = ""
-        
-        loc_go = f"{desc}" # recupere la description de la proteine STRING
-        
-        if filtre == None and filtre_h == "no" and filtre_u == "no": # si aucun filtre n'est fourni
-            term = term_id # on prend toutes les categories
+        # Si le serveur de STRING repond positivement
+        if res_map.status_code == 200:
+            donnees = res_map.json()
             
-            # Cree un bloc de texte propre pour cette annotation specifique
-            block = (
-                f"### Category: {category}\n"
-                f"### Gene ID: {prot_name}\n"
-                f"### Complex/Term ID: {term}\n"
-                f"### Putative GO annotation: {loc_go}\n"
-                f"### Protein Count: {protein_count}\n"
-                "\n"+"| STRING IDs           | Preferred Names \n"
-                )
-            for i,recur_id in enumerate(string_ids):
-                
-                split = recur_id.split(".",1)
-                string_split = split[1]
-                organisme_id = split[0]
-                block += (f"| {organisme_id}         | {string_split} | {preferredNames[i]} \n")
-            all_block.append(block) # Ajoute ce bloc a notre liste de resultats
-            
-        # Filtre les categories selon l'input de l'utilisateur
+            # L'API get_string_ids renvoie obligatoirement une LISTE de dictionnaires.
+            # On verifie que la liste contient bien au moins un resultat avant d'avancer.
+            if donnees and isinstance(donnees, list) and len(donnees) > 0:
+                # On extrait la valeur associee a la cle "stringId" presente dans le premier dictionnaire [0]
+                string_id_valide = donnees[0].get("stringId")
+    except Exception as e:
+        print(f" Erreur lors du mapping de {prot_name} dans STRING : {e}")
+       
+    # Si STRING-DB ne renvoie aucun identifiant officiel correspondant (string_id_valide est reste à None),
+    # l'instruction 'continue' force le script a abandonner le reste de ce cycle et a passer a la proteine suivante.
+    if not string_id_valide:
+        print(f" Impossible de mapper : {prot_name} dans STRING")
+        continue
+    
+    print(f" Match trouvé dans STRING : {string_id_valide}")
+    
+    # --- ÉTAPE 2 : RECUPERATION DU RESEAU D'INTERACTIONS ---
+    # Definition des parametres pour interroger le reseau fonctionnel
+    api_params = {
+        "identifiers": string_id_valide, # On envoie l'ID STRING officiel que l'on vient de valider à l'étape 1
+        "species": tax_id,
+        "required_score": 400, # Seuil de confiance de l'interaction (400 correspond à un niveau moyen)
+        "limit": 15 # On restreint l'affichage aux 15 partenaires principaux les plus fiables
+    }
+
+    raw_json = None
+    try:
+        response = requests.get(url_network, params=api_params, timeout=60)
+        if response.status_code == 200:
+            # On convertit le texte brut reçu du serveur en un objet JSON (liste Python)
+            raw_json = response.json()
         else:
-            for id in range(len(term_id)): #parcours les diffentes categories 
-                mot += term_id[id]
-                
-            if filtre == mot or filtre_h == "yes" or filtre_u == "yes": #cherche si le nom de la categorie correspond au filtre
-                term = mot # permet d'inserer le filtre dans la categorie
-                
-                
-                # Cree un bloc de texte propre pour cette annotation specifique
-                block = (
-                f"### Category: {category}\n"
-                f"### Gene ID: {prot_name}\n"
-                f"### Complex/Term ID: {term}\n"
-                f"### Putative GO annotation: {loc_go}\n"
-                f"### Protein Count: {protein_count}\n"
-                "\n"+"| STRING IDs           | Preferred Names \n"
-                )
-                for i,recur_id in enumerate(string_ids):
-                
-                    split = recur_id.split(".",1)
-                    string_split = split[1]
-                    organisme_id = split[0]
-                    block += (f"| {organisme_id}         | {string_split} | {preferredNames[i]} \n")
-                one_block.append(block) 
-        # Ajoute ce bloc a notre liste de résultats
-    results = one_block if one_block else all_block # Utilise les resultats filtres si disponibles, sinon tous les resultats
+            print(f" Erreur API Network {response.status_code} pour {prot_name}")
+    except Exception as error:
+        print(f" Erreur réseau lors de l'appel Network : {error}")
 
-# Si l'API n'a retourne aucun résultat pour cette proteine
-if not results:
-    results.append(f"Aucune annotation trouvée dans STRING pour {prot_name} (TaxID: {tax_id}).")
+    # --- ÉTAPE 3 : TRAITEMENT ET FILTRAGE DES CHAINES ---
+    if raw_json:
+        print(f" -> {len(raw_json)} interaction(s) fonctionnelle(s) trouvée(s) !")
+        
+        # Initialisation de la structure du tableau Markdown pour le futur rapport
+        block = (
+            f"### Réseau d'interactions pour le gène : {prot_name}\n"
+            f"Identifiant STRING officiel : `{string_id_valide}`\n\n"
+            "| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |\n"
+            "| :--- | :--- | :--- |\n"
+        )
+        
+        # On passe au crible chaque interaction renvoyee par le fichier JSON
+        for item in raw_json:
+            # Recuperation du nom preferentiel de la proteine source et de son partenaire detecte
+            p_a = item.get("preferredName_A", prot_name)
+            p_b = item.get("preferredName_B", "")
+            score = item.get("score", 0)
+            
+            # Incrémentation du tableau Markdown avec les données récupérées
+            block += f"| {p_a} | **{p_b}** | {score} |\n"
+            
+            # Si le partenaire (p_b) possède un nom valide et qu'il ne s'agit pas de la proteine elle-même,
+            # on l'enregistre dans notre liste locale de partenaires
+            if p_b and p_b != prot_name:
+                liste_preferred_valides.append(p_b)
+                
+        # On ajoute le bloc textuel complet du tableau a notre liste de resultats
+        results.append(block)
+        
+        # Pause obligatoire de 0.2 seconde entre chaque appel pour eviter d'etre banni par les serveurs de STRING-DB (protection anti-DDOS)
+        time.sleep(0.2)
 
-# 5. ECRITURE DU FICHIER TEXTE FINAL
+    # Si la variable 'results' est restee vide (aucune interaction retournee par STRING)
+    if not ... or not results:
+        results.append(f"Aucune interaction valide trouvée dans STRING pour {prot_name} (TaxID: {tax_id}).")
 
-# Ouvre le fichier texte en mode ecriture 
-with open(out_txt, "w", encoding="utf-8") as f_txt:
-    # Ecrit en-tête general au début du fichier
-    f_txt.write(f"# RÉSULTATS DE LA RECHERCHE STRING-DB\n")
-    f_txt.write("\n" + f"## Protéine cible : {prot_name}\n")
-    f_txt.write(f"## Organisme : {org_name} (TaxID: {tax_id})\n")
-    
-    # Ecrit chaque bloc d'annotation l'un apres l'autre
-    for result_block in results:
-        f_txt.write("\n" + result_block + "\n")
+    # --- ÉTAPE 4 : REMPLISSAGE DU DICTIONNAIRE GLOBAL ---
+    if liste_preferred_valides:
+        # L'utilisation de list(set(...)) est une astuce bio-informatique permettant d'eliminer 
+        # d'un seul coup tous les doublons de genes partenaires accumules pendant la boucle
+        dictionnaire_enrichissement[prot_name] = list(set(liste_preferred_valides))
 
-# Messages de confirmation de fin de script
-print("\n--- TRAITEMENT TERMINÉ ---")
-print(f" Fichier texte généré : {out_txt}")
-print(f" Fichier JSON brut sauvegardé dans : {json_dir}")
-print(f"Statistiques globales enregistrées pour l'organisme : {org_name}")
+    # --- ÉTAPE 5 : ÉCRITURE DU FICHIER MARKDOWN INDIVIDUEL (DANS LA BOUCLE) ---
+    # La variable safe_name supprime les caracteres speciaux de l'identifiant pour generer un nom de fichier sain
+    safe_name = "".join([c if c.isalnum() else "_" for c in prot_name])
+    out_txt = out_dir / f"{safe_name}.md"
+
+    try:
+        # Ouverture du fichier en mode ecriture ("w") avec encodage UTF-8 universel
+        with open(out_txt, "w", encoding="utf-8") as f_txt:
+            f_txt.write(f"# RÉSULTATS DE LA RECHERCHE STRING-DB\n\n")
+            f_txt.write(f"## Protéine cible : {prot_name}\n")
+            f_txt.write(f"## Organisme : {org_name} (TaxID: {tax_id})\n\n")
+            f_txt.write("---\n\n")
+            
+            # On ecrit tous les blocs de tableaux d'interactions stockes dans 'results'
+            for result_block in results:
+                f_txt.write(result_block + "\n")
+                
+        print(f" Fichier généré avec succès : {out_txt.name}\n")
+    except Exception as e:
+        print(f" Impossible d'écrire le fichier pour {prot_name} : {e}\n")
+
+# -----------------------------------------------------------------------------
+# 6. SAUVEGARDE DU DICTIONNAIRE GLOBAL (EN DEHORS DE LA BOUCLE)
+# -----------------------------------------------------------------------------
+
+# Une fois que la boucle 'for' a traite la totalite des proteines du fichier Excel on definit le chemin de sortie pour enregistrer notre base de donnees structuree au format JSON
+dict_output_path = out_dir.parent / "dictionnaire_enrichissement.json"
+
+try:
+    with open(dict_output_path, "w", encoding="utf-8") as f_dict:
+        # json.dump convertit le dictionnaire Python en texte JSON structure
+        # indent=4 permet de rendre le fichier JSON lisible par un humain (sauts de lignes et espaces)
+        # ensure_ascii=False permet de conserver les caracteres accentues intacts
+        json.dump(dictionnaire_enrichissement, f_dict, indent=4, ensure_ascii=False)
+        
+    print("-----------------------------------------------------------------")
+    print(" TRAITEMENT GLOBAL TERMINÉ AVEC SUCCÈS")
+    print(f" Les rapports individuels (.md) sont ici : {out_dir}")
+    print(f" Le dictionnaire d'interactions complet (.json) est ici : {dict_output_path}")
+    print("-----------------------------------------------------------------")
+except Exception as e:
+    print(f" Erreur lors de la sauvegarde du dictionnaire JSON final : {e}")

@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CYBA
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CYBA
+Identifiant STRING officiel : `9606.ENSP00000261623`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NOX3 | **POLDIP2** | 0.614 |
+| NOX3 | **AKT1** | 0.718 |
+| NOX3 | **RAC2** | 0.799 |
+| NOX3 | **NCF4** | 0.932 |
+| NOX3 | **NCF2** | 0.983 |
+| NOX3 | **NOX5** | 0.986 |
+| NOX3 | **NOXA1** | 0.989 |
+| NOX3 | **DUOX1** | 0.99 |
+| NOX3 | **NCF1** | 0.991 |
+| NOX3 | **CYBB** | 0.991 |
+| NOX3 | **NOX1** | 0.991 |
+| NOX3 | **NOX4** | 0.992 |
+| NOX3 | **NOXO1** | 0.996 |
+| NOX3 | **CYBA** | 0.999 |
+| MMP2 | **NOX4** | 0.466 |
+| MMP2 | **AKT1** | 0.846 |
+| MMP2 | **NCF4** | 0.912 |
+| MMP2 | **NCF2** | 0.917 |
+| MMP2 | **NCF1** | 0.928 |
+| MMP2 | **CYBA** | 0.949 |
+| MMP2 | **CYBB** | 0.957 |
+| RAC2 | **NOX5** | 0.603 |
+| RAC2 | **NOX4** | 0.783 |
+| RAC2 | **DUOX1** | 0.784 |
+| RAC2 | **AKT1** | 0.864 |
+| RAC2 | **NOXA1** | 0.973 |
+| RAC2 | **NOX1** | 0.975 |
+| RAC2 | **NOXO1** | 0.987 |
+| RAC2 | **NCF2** | 0.999 |
+| RAC2 | **NCF4** | 0.999 |
+| RAC2 | **CYBA** | 0.999 |
+| RAC2 | **CYBB** | 0.999 |
+| RAC2 | **NCF1** | 0.999 |
+| CYBA | **DUOX1** | 0.98 |
+| CYBA | **AKT1** | 0.992 |
+| CYBA | **NOX5** | 0.993 |
+| CYBA | **POLDIP2** | 0.994 |
+| CYBA | **NOXO1** | 0.999 |
+| CYBA | **CYBB** | 0.999 |
+| CYBA | **NCF1** | 0.999 |
+| CYBA | **NOX4** | 0.999 |
+| CYBA | **NOX1** | 0.999 |
+| CYBA | **NOXA1** | 0.999 |
+| CYBA | **NCF2** | 0.999 |
+| CYBA | **NCF4** | 0.999 |
+| NOX4 | **AKT1** | 0.686 |
+| NOX4 | **NOXO1** | 0.873 |
+| NOX4 | **NOXA1** | 0.922 |
+| NOX4 | **POLDIP2** | 0.96 |
+| NOX4 | **NCF4** | 0.986 |
+| NOX4 | **DUOX1** | 0.992 |
+| NOX4 | **NOX5** | 0.993 |
+| NOX4 | **NCF2** | 0.998 |
+| NOX4 | **NCF1** | 0.998 |
+| NOX4 | **CYBB** | 0.998 |
+| NOX4 | **NOX1** | 0.998 |
+| NCF1 | **POLDIP2** | 0.762 |
+| NCF1 | **NOX5** | 0.947 |
+| NCF1 | **DUOX1** | 0.985 |
+| NCF1 | **AKT1** | 0.993 |
+| NCF1 | **NOXO1** | 0.996 |
+| NCF1 | **NCF2** | 0.999 |
+| NCF1 | **NOXA1** | 0.999 |
+| NCF1 | **NCF4** | 0.999 |
+| NCF1 | **NOX1** | 0.999 |
+| NCF1 | **CYBB** | 0.999 |
+| DUOX1 | **POLDIP2** | 0.612 |
+| DUOX1 | **AKT1** | 0.725 |
+| DUOX1 | **NOXA1** | 0.885 |
+| DUOX1 | **NOXO1** | 0.89 |
+| DUOX1 | **NCF4** | 0.968 |
+| DUOX1 | **NCF2** | 0.979 |
+| DUOX1 | **NOX5** | 0.984 |
+| DUOX1 | **CYBB** | 0.986 |
+| DUOX1 | **NOX1** | 0.992 |
+| NOXA1 | **POLDIP2** | 0.705 |
+| NOXA1 | **NOX5** | 0.811 |
+| NOXA1 | **AKT1** | 0.922 |
+| NOXA1 | **CYBB** | 0.994 |
+| NOXA1 | **NCF2** | 0.995 |
+| NOXA1 | **NCF4** | 0.998 |
+| NOXA1 | **NOX1** | 0.999 |
+| NOXA1 | **NOXO1** | 0.999 |
+| NCF2 | **POLDIP2** | 0.764 |
+| NCF2 | **NOX5** | 0.937 |
+| NCF2 | **AKT1** | 0.994 |
+| NCF2 | **NCF4** | 0.999 |
+| NCF2 | **NOX1** | 0.999 |
+| NCF2 | **CYBB** | 0.999 |
+| NCF2 | **NOXO1** | 0.999 |
+| NOX1 | **POLDIP2** | 0.64 |
+| NOX1 | **AKT1** | 0.949 |
+| NOX1 | **NOX5** | 0.986 |
+| NOX1 | **CYBB** | 0.998 |
+| NOX1 | **NCF4** | 0.999 |
+| NOX1 | **NOXO1** | 0.999 |
+| CYBB | **POLDIP2** | 0.744 |
+| CYBB | **NOX5** | 0.991 |
+| CYBB | **AKT1** | 0.994 |
+| CYBB | **NOXO1** | 0.995 |
+| CYBB | **NCF4** | 0.999 |
+| NOX5 | **POLDIP2** | 0.68 |
+| NOX5 | **AKT1** | 0.689 |
+| NOX5 | **NOXO1** | 0.796 |
+| NOX5 | **NCF4** | 0.861 |
+| NCF4 | **POLDIP2** | 0.618 |
+| NCF4 | **AKT1** | 0.993 |
+| NCF4 | **NOXO1** | 0.998 |
+| NOXO1 | **POLDIP2** | 0.673 |
+| NOXO1 | **AKT1** | 0.879 |
+

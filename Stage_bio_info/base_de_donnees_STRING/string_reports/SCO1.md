@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SCO1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SCO1
+Identifiant STRING officiel : `9606.ENSP00000255390`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| COX15 | **CYCS** | 0.566 |
+| COX15 | **NDUFS7** | 0.72 |
+| COX15 | **COX17** | 0.721 |
+| COX15 | **COA6** | 0.783 |
+| COX15 | **TACO1** | 0.897 |
+| COX15 | **COX6B1** | 0.931 |
+| COX15 | **COX11** | 0.931 |
+| COX15 | **UQCRFS1** | 0.978 |
+| COX15 | **SCO1** | 0.98 |
+| COX15 | **MT-CO2** | 0.991 |
+| COX15 | **SURF1** | 0.992 |
+| COX15 | **MT-CO1** | 0.992 |
+| COX15 | **MT-CO3** | 0.994 |
+| COX15 | **COX10** | 0.999 |
+| NDUFS7 | **COA6** | 0.436 |
+| NDUFS7 | **CYCS** | 0.514 |
+| NDUFS7 | **TACO1** | 0.673 |
+| NDUFS7 | **SURF1** | 0.705 |
+| NDUFS7 | **COX10** | 0.814 |
+| NDUFS7 | **SCO1** | 0.835 |
+| NDUFS7 | **MT-CO2** | 0.917 |
+| NDUFS7 | **COX6B1** | 0.936 |
+| NDUFS7 | **MT-CO3** | 0.972 |
+| NDUFS7 | **MT-CO1** | 0.977 |
+| NDUFS7 | **UQCRFS1** | 0.993 |
+| SCO1 | **ATOX1** | 0.794 |
+| SCO1 | **TACO1** | 0.798 |
+| SCO1 | **CYCS** | 0.808 |
+| SCO1 | **UQCRFS1** | 0.879 |
+| SCO1 | **COX6B1** | 0.919 |
+| SCO1 | **COA6** | 0.946 |
+| SCO1 | **COX11** | 0.961 |
+| SCO1 | **COX10** | 0.964 |
+| SCO1 | **MT-CO3** | 0.967 |
+| SCO1 | **SURF1** | 0.967 |
+| SCO1 | **MT-CO1** | 0.974 |
+| SCO1 | **COX17** | 0.994 |
+| SCO1 | **MT-CO2** | 0.996 |
+| TACO1 | **COA6** | 0.407 |
+| TACO1 | **COX11** | 0.458 |
+| TACO1 | **CYCS** | 0.469 |
+| TACO1 | **MT-CO2** | 0.618 |
+| TACO1 | **MT-CO3** | 0.744 |
+| TACO1 | **COX6B1** | 0.764 |
+| TACO1 | **MT-CO1** | 0.813 |
+| TACO1 | **SURF1** | 0.848 |
+| TACO1 | **COX10** | 0.891 |
+| COX17 | **UQCRFS1** | 0.484 |
+| COX17 | **MT-CO1** | 0.495 |
+| COX17 | **CYCS** | 0.561 |
+| COX17 | **COX6B1** | 0.76 |
+| COX17 | **COX10** | 0.762 |
+| COX17 | **SURF1** | 0.819 |
+| COX17 | **COA6** | 0.864 |
+| COX17 | **MT-CO2** | 0.894 |
+| COX17 | **COX11** | 0.939 |
+| COX17 | **ATOX1** | 0.954 |
+| COX10 | **CYCS** | 0.62 |
+| COX10 | **COA6** | 0.715 |
+| COX10 | **UQCRFS1** | 0.857 |
+| COX10 | **COX6B1** | 0.952 |
+| COX10 | **SURF1** | 0.977 |
+| COX10 | **COX11** | 0.982 |
+| COX10 | **MT-CO2** | 0.991 |
+| COX10 | **MT-CO1** | 0.996 |
+| COX10 | **MT-CO3** | 0.998 |
+| COX11 | **COX6B1** | 0.561 |
+| COX11 | **CYCS** | 0.772 |
+| COX11 | **ATOX1** | 0.777 |
+| COX11 | **UQCRFS1** | 0.787 |
+| COX11 | **COA6** | 0.804 |
+| COX11 | **SURF1** | 0.912 |
+| COX11 | **MT-CO1** | 0.964 |
+| COX11 | **MT-CO3** | 0.977 |
+| COX11 | **MT-CO2** | 0.979 |
+| UQCRFS1 | **SURF1** | 0.883 |
+| UQCRFS1 | **COA6** | 0.949 |
+| UQCRFS1 | **COX6B1** | 0.997 |
+| UQCRFS1 | **MT-CO1** | 0.999 |
+| UQCRFS1 | **CYCS** | 0.999 |
+| UQCRFS1 | **MT-CO2** | 0.999 |
+| UQCRFS1 | **MT-CO3** | 0.999 |
+| CYCS | **COA6** | 0.62 |
+| CYCS | **SURF1** | 0.676 |
+| CYCS | **COX6B1** | 0.941 |
+| CYCS | **MT-CO3** | 0.987 |
+| CYCS | **MT-CO2** | 0.993 |
+| CYCS | **MT-CO1** | 0.996 |
+| MT-CO1 | **SURF1** | 0.873 |
+| MT-CO1 | **COA6** | 0.903 |
+| MT-CO1 | **COX6B1** | 0.998 |
+| MT-CO1 | **MT-CO2** | 0.999 |
+| MT-CO1 | **MT-CO3** | 0.999 |
+| MT-CO2 | **ATOX1** | 0.586 |
+| MT-CO2 | **SURF1** | 0.89 |
+| MT-CO2 | **COA6** | 0.97 |
+| MT-CO2 | **MT-CO3** | 0.999 |
+| MT-CO2 | **COX6B1** | 0.999 |
+| MT-CO3 | **SURF1** | 0.848 |
+| MT-CO3 | **COA6** | 0.937 |
+| MT-CO3 | **COX6B1** | 0.999 |
+| COA6 | **ATOX1** | 0.462 |
+| COA6 | **SURF1** | 0.632 |
+| COA6 | **COX6B1** | 0.738 |
+| SURF1 | **ATOX1** | 0.581 |
+| SURF1 | **COX6B1** | 0.827 |
+| ATOX1 | **COX6B1** | 0.437 |
+

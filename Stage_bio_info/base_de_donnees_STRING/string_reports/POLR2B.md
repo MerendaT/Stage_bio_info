@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : POLR2B
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : POLR2B
+Identifiant STRING officiel : `9606.ENSP00000370625`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| POLR2C | **GTF2F1** | 0.996 |
+| POLR2C | **GTF2F2** | 0.997 |
+| POLR2C | **GTF2B** | 0.997 |
+| POLR2C | **SUPT4H1** | 0.998 |
+| POLR2C | **POLR2B** | 0.999 |
+| POLR2C | **POLR2L** | 0.999 |
+| POLR2C | **POLR2K** | 0.999 |
+| POLR2C | **POLR2D** | 0.999 |
+| POLR2C | **POLR2H** | 0.999 |
+| POLR2C | **POLR2F** | 0.999 |
+| POLR2C | **POLR2A** | 0.999 |
+| POLR2C | **POLR2J** | 0.999 |
+| POLR2C | **POLR2G** | 0.999 |
+| POLR2C | **POLR2I** | 0.999 |
+| POLR2I | **GTF2B** | 0.997 |
+| POLR2I | **SUPT4H1** | 0.998 |
+| POLR2I | **GTF2F2** | 0.998 |
+| POLR2I | **POLR2G** | 0.999 |
+| POLR2I | **GTF2F1** | 0.999 |
+| POLR2I | **POLR2K** | 0.999 |
+| POLR2I | **POLR2L** | 0.999 |
+| POLR2I | **POLR2B** | 0.999 |
+| POLR2I | **POLR2D** | 0.999 |
+| POLR2I | **POLR2H** | 0.999 |
+| POLR2I | **POLR2J** | 0.999 |
+| POLR2I | **POLR2A** | 0.999 |
+| POLR2I | **POLR2F** | 0.999 |
+| SUPT4H1 | **GTF2F1** | 0.592 |
+| SUPT4H1 | **GTF2F2** | 0.755 |
+| SUPT4H1 | **GTF2B** | 0.794 |
+| SUPT4H1 | **POLR2J** | 0.991 |
+| SUPT4H1 | **POLR2L** | 0.995 |
+| SUPT4H1 | **POLR2H** | 0.995 |
+| SUPT4H1 | **POLR2K** | 0.996 |
+| SUPT4H1 | **POLR2F** | 0.997 |
+| SUPT4H1 | **POLR2G** | 0.998 |
+| SUPT4H1 | **POLR2B** | 0.999 |
+| SUPT4H1 | **POLR2D** | 0.999 |
+| SUPT4H1 | **POLR2A** | 0.999 |
+| POLR2D | **GTF2F1** | 0.996 |
+| POLR2D | **GTF2F2** | 0.996 |
+| POLR2D | **GTF2B** | 0.998 |
+| POLR2D | **POLR2G** | 0.999 |
+| POLR2D | **POLR2J** | 0.999 |
+| POLR2D | **POLR2A** | 0.999 |
+| POLR2D | **POLR2F** | 0.999 |
+| POLR2D | **POLR2H** | 0.999 |
+| POLR2D | **POLR2K** | 0.999 |
+| POLR2D | **POLR2B** | 0.999 |
+| POLR2D | **POLR2L** | 0.999 |
+| POLR2J | **GTF2F1** | 0.976 |
+| POLR2J | **GTF2F2** | 0.989 |
+| POLR2J | **GTF2B** | 0.99 |
+| POLR2J | **POLR2B** | 0.999 |
+| POLR2J | **POLR2L** | 0.999 |
+| POLR2J | **POLR2K** | 0.999 |
+| POLR2J | **POLR2H** | 0.999 |
+| POLR2J | **POLR2F** | 0.999 |
+| POLR2J | **POLR2A** | 0.999 |
+| POLR2J | **POLR2G** | 0.999 |
+| POLR2G | **GTF2B** | 0.997 |
+| POLR2G | **GTF2F2** | 0.998 |
+| POLR2G | **GTF2F1** | 0.998 |
+| POLR2G | **POLR2H** | 0.999 |
+| POLR2G | **POLR2F** | 0.999 |
+| POLR2G | **POLR2A** | 0.999 |
+| POLR2G | **POLR2B** | 0.999 |
+| POLR2G | **POLR2L** | 0.999 |
+| POLR2G | **POLR2K** | 0.999 |
+| POLR2L | **GTF2B** | 0.986 |
+| POLR2L | **GTF2F2** | 0.989 |
+| POLR2L | **GTF2F1** | 0.994 |
+| POLR2L | **POLR2B** | 0.999 |
+| POLR2L | **POLR2K** | 0.999 |
+| POLR2L | **POLR2F** | 0.999 |
+| POLR2L | **POLR2A** | 0.999 |
+| POLR2L | **POLR2H** | 0.999 |
+| GTF2F2 | **POLR2K** | 0.989 |
+| GTF2F2 | **POLR2F** | 0.993 |
+| GTF2F2 | **POLR2H** | 0.995 |
+| GTF2F2 | **POLR2A** | 0.999 |
+| GTF2F2 | **POLR2B** | 0.999 |
+| GTF2F2 | **GTF2B** | 0.999 |
+| GTF2F2 | **GTF2F1** | 0.999 |
+| POLR2K | **GTF2F1** | 0.985 |
+| POLR2K | **GTF2B** | 0.997 |
+| POLR2K | **POLR2B** | 0.999 |
+| POLR2K | **POLR2A** | 0.999 |
+| POLR2K | **POLR2F** | 0.999 |
+| POLR2K | **POLR2H** | 0.999 |
+| GTF2B | **POLR2F** | 0.996 |
+| GTF2B | **POLR2H** | 0.996 |
+| GTF2B | **POLR2A** | 0.999 |
+| GTF2B | **POLR2B** | 0.999 |
+| GTF2B | **GTF2F1** | 0.999 |
+| POLR2B | **POLR2F** | 0.999 |
+| POLR2B | **POLR2A** | 0.999 |
+| POLR2B | **POLR2H** | 0.999 |
+| POLR2B | **GTF2F1** | 0.999 |
+| POLR2B | **API5** | 0.999 |
+| GTF2F1 | **POLR2H** | 0.982 |
+| GTF2F1 | **POLR2F** | 0.994 |
+| GTF2F1 | **POLR2A** | 0.998 |
+| POLR2F | **POLR2A** | 0.999 |
+| POLR2F | **POLR2H** | 0.999 |
+| POLR2H | **POLR2A** | 0.999 |
+

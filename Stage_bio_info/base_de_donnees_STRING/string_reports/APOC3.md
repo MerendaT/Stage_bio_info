@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : APOC3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : APOC3
+Identifiant STRING officiel : `9606.ENSP00000227667`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CETP | **APOH** | 0.817 |
+| CETP | **APOM** | 0.888 |
+| CETP | **APOC2** | 0.929 |
+| CETP | **LPA** | 0.932 |
+| CETP | **APOA5** | 0.935 |
+| CETP | **APOA4** | 0.937 |
+| CETP | **LPL** | 0.94 |
+| CETP | **APOA2** | 0.97 |
+| CETP | **APOE** | 0.974 |
+| CETP | **APOC3** | 0.977 |
+| CETP | **APOC1** | 0.985 |
+| CETP | **LCAT** | 0.987 |
+| CETP | **APOB** | 0.989 |
+| CETP | **APOA1** | 0.989 |
+| APOH | **LCAT** | 0.828 |
+| APOH | **TLR2** | 0.836 |
+| APOH | **APOA5** | 0.918 |
+| APOH | **APOE** | 0.921 |
+| APOH | **LPL** | 0.923 |
+| APOH | **APOC1** | 0.931 |
+| APOH | **APOA4** | 0.938 |
+| APOH | **LPA** | 0.941 |
+| APOH | **APOC2** | 0.946 |
+| APOH | **APOM** | 0.981 |
+| APOH | **APOB** | 0.985 |
+| APOH | **APOA1** | 0.985 |
+| APOH | **APOC3** | 0.987 |
+| APOH | **APOA2** | 0.989 |
+| APOC3 | **APOM** | 0.955 |
+| APOC3 | **LPA** | 0.957 |
+| APOC3 | **LCAT** | 0.958 |
+| APOC3 | **TLR2** | 0.963 |
+| APOC3 | **LPL** | 0.981 |
+| APOC3 | **APOA5** | 0.995 |
+| APOC3 | **APOC1** | 0.999 |
+| APOC3 | **APOC2** | 0.999 |
+| APOC3 | **APOE** | 0.999 |
+| APOC3 | **APOB** | 0.999 |
+| APOC3 | **APOA2** | 0.999 |
+| APOC3 | **APOA4** | 0.999 |
+| APOC3 | **APOA1** | 0.999 |
+| APOB | **APOM** | 0.933 |
+| APOB | **LPL** | 0.94 |
+| APOB | **LCAT** | 0.983 |
+| APOB | **APOA5** | 0.986 |
+| APOB | **APOC2** | 0.991 |
+| APOB | **APOA4** | 0.992 |
+| APOB | **APOC1** | 0.996 |
+| APOB | **APOA2** | 0.999 |
+| APOB | **APOE** | 0.999 |
+| APOB | **LPA** | 0.999 |
+| APOB | **APOA1** | 0.999 |
+| APOA1 | **LPL** | 0.89 |
+| APOA1 | **APOA5** | 0.951 |
+| APOA1 | **APOM** | 0.972 |
+| APOA1 | **LPA** | 0.976 |
+| APOA1 | **APOA4** | 0.989 |
+| APOA1 | **APOC2** | 0.997 |
+| APOA1 | **APOC1** | 0.998 |
+| APOA1 | **APOA2** | 0.999 |
+| APOA1 | **APOE** | 0.999 |
+| APOA1 | **LCAT** | 0.999 |
+| APOE | **TLR2** | 0.543 |
+| APOE | **APOM** | 0.941 |
+| APOE | **LCAT** | 0.956 |
+| APOE | **LPA** | 0.971 |
+| APOE | **LPL** | 0.982 |
+| APOE | **APOA5** | 0.992 |
+| APOE | **APOA4** | 0.995 |
+| APOE | **APOC2** | 0.999 |
+| APOE | **APOA2** | 0.999 |
+| APOE | **APOC1** | 0.999 |
+| LCAT | **APOM** | 0.885 |
+| LCAT | **APOA4** | 0.89 |
+| LCAT | **LPL** | 0.893 |
+| LCAT | **LPA** | 0.896 |
+| LCAT | **APOA5** | 0.897 |
+| LCAT | **APOC2** | 0.934 |
+| LCAT | **APOC1** | 0.973 |
+| LCAT | **APOA2** | 0.982 |
+| LPA | **LPL** | 0.794 |
+| LPA | **APOM** | 0.871 |
+| LPA | **APOC1** | 0.873 |
+| LPA | **APOA4** | 0.887 |
+| LPA | **APOC2** | 0.89 |
+| LPA | **APOA5** | 0.947 |
+| LPA | **APOA2** | 0.977 |
+| APOA4 | **LPL** | 0.781 |
+| APOA4 | **APOA5** | 0.918 |
+| APOA4 | **APOM** | 0.949 |
+| APOA4 | **APOC1** | 0.969 |
+| APOA4 | **APOC2** | 0.987 |
+| APOA4 | **APOA2** | 0.994 |
+| APOA2 | **LPL** | 0.818 |
+| APOA2 | **APOA5** | 0.972 |
+| APOA2 | **APOM** | 0.98 |
+| APOA2 | **APOC1** | 0.991 |
+| APOA2 | **APOC2** | 0.995 |
+| APOM | **LPL** | 0.641 |
+| APOM | **APOC1** | 0.939 |
+| APOM | **APOA5** | 0.942 |
+| APOM | **APOC2** | 0.943 |
+| APOA5 | **APOC1** | 0.947 |
+| APOA5 | **LPL** | 0.964 |
+| APOA5 | **APOC2** | 0.994 |
+| APOC1 | **LPL** | 0.866 |
+| APOC1 | **APOC2** | 0.999 |
+| APOC2 | **LPL** | 0.998 |
+

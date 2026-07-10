@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ENO2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ENO2
+Identifiant STRING officiel : `9606.ENSP00000437402`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PCK2 | **ALDOC** | 0.433 |
+| PCK2 | **ALDOA** | 0.461 |
+| PCK2 | **PGK1** | 0.486 |
+| PCK2 | **GPI** | 0.538 |
+| PCK2 | **TPI1** | 0.575 |
+| PCK2 | **PCK1** | 0.932 |
+| PCK2 | **PKM** | 0.953 |
+| PCK2 | **PKLR** | 0.958 |
+| PCK2 | **ENO2** | 0.958 |
+| PCK2 | **ENO3** | 0.96 |
+| PCK2 | **ENO1** | 0.963 |
+| TPI1 | **PCK1** | 0.505 |
+| TPI1 | **PKLR** | 0.874 |
+| TPI1 | **BPGM** | 0.927 |
+| TPI1 | **PGAM2** | 0.955 |
+| TPI1 | **ENO2** | 0.959 |
+| TPI1 | **ENO3** | 0.963 |
+| TPI1 | **PKM** | 0.963 |
+| TPI1 | **PGAM4** | 0.974 |
+| TPI1 | **ALDOC** | 0.989 |
+| TPI1 | **PGAM1** | 0.989 |
+| TPI1 | **ALDOA** | 0.997 |
+| TPI1 | **ENO1** | 0.998 |
+| TPI1 | **PGK1** | 0.999 |
+| TPI1 | **GPI** | 0.999 |
+| PGAM2 | **PKLR** | 0.861 |
+| PGAM2 | **PKM** | 0.924 |
+| PGAM2 | **ALDOC** | 0.93 |
+| PGAM2 | **ALDOA** | 0.944 |
+| PGAM2 | **GPI** | 0.962 |
+| PGAM2 | **BPGM** | 0.968 |
+| PGAM2 | **ENO2** | 0.975 |
+| PGAM2 | **ENO1** | 0.98 |
+| PGAM2 | **PGAM4** | 0.985 |
+| PGAM2 | **PGK1** | 0.988 |
+| PGAM2 | **PGAM1** | 0.989 |
+| PGAM2 | **ENO3** | 0.989 |
+| PCK1 | **ALDOA** | 0.469 |
+| PCK1 | **PGK1** | 0.483 |
+| PCK1 | **GPI** | 0.49 |
+| PCK1 | **PKM** | 0.951 |
+| PCK1 | **ENO2** | 0.956 |
+| PCK1 | **ENO3** | 0.958 |
+| PCK1 | **ENO1** | 0.962 |
+| PCK1 | **PKLR** | 0.968 |
+| PKM | **BPGM** | 0.7 |
+| PKM | **PKLR** | 0.919 |
+| PKM | **PGK1** | 0.936 |
+| PKM | **ALDOC** | 0.943 |
+| PKM | **PGAM4** | 0.949 |
+| PKM | **PGAM1** | 0.975 |
+| PKM | **ALDOA** | 0.983 |
+| PKM | **GPI** | 0.986 |
+| PKM | **ENO2** | 0.989 |
+| PKM | **ENO3** | 0.989 |
+| PKM | **ENO1** | 0.997 |
+| ENO3 | **ENO1** | 0.925 |
+| ENO3 | **PGK1** | 0.939 |
+| ENO3 | **ALDOC** | 0.945 |
+| ENO3 | **ENO2** | 0.956 |
+| ENO3 | **ALDOA** | 0.972 |
+| ENO3 | **BPGM** | 0.978 |
+| ENO3 | **GPI** | 0.982 |
+| ENO3 | **PKLR** | 0.983 |
+| ENO3 | **PGAM4** | 0.986 |
+| ENO3 | **PGAM1** | 0.989 |
+| PKLR | **BPGM** | 0.733 |
+| PKLR | **PGAM4** | 0.835 |
+| PKLR | **PGK1** | 0.838 |
+| PKLR | **PGAM1** | 0.844 |
+| PKLR | **ALDOA** | 0.928 |
+| PKLR | **ALDOC** | 0.942 |
+| PKLR | **ENO2** | 0.978 |
+| PKLR | **GPI** | 0.979 |
+| PKLR | **ENO1** | 0.983 |
+| PGAM1 | **PGAM4** | 0.902 |
+| PGAM1 | **ALDOC** | 0.942 |
+| PGAM1 | **BPGM** | 0.966 |
+| PGAM1 | **GPI** | 0.969 |
+| PGAM1 | **ALDOA** | 0.982 |
+| PGAM1 | **ENO2** | 0.989 |
+| PGAM1 | **ENO1** | 0.996 |
+| PGAM1 | **PGK1** | 0.998 |
+| PGK1 | **ALDOC** | 0.835 |
+| PGK1 | **ALDOA** | 0.962 |
+| PGK1 | **ENO2** | 0.962 |
+| PGK1 | **GPI** | 0.971 |
+| PGK1 | **BPGM** | 0.983 |
+| PGK1 | **PGAM4** | 0.994 |
+| PGK1 | **ENO1** | 0.996 |
+| BPGM | **ALDOC** | 0.888 |
+| BPGM | **ALDOA** | 0.906 |
+| BPGM | **PGAM4** | 0.94 |
+| BPGM | **GPI** | 0.945 |
+| BPGM | **ENO2** | 0.971 |
+| BPGM | **ENO1** | 0.977 |
+| ALDOC | **PGAM4** | 0.93 |
+| ALDOC | **ENO1** | 0.951 |
+| ALDOC | **ENO2** | 0.957 |
+| ALDOC | **GPI** | 0.979 |
+| ALDOC | **ALDOA** | 0.993 |
+| GPI | **PGAM4** | 0.955 |
+| GPI | **ENO2** | 0.976 |
+| GPI | **ALDOA** | 0.987 |
+| GPI | **ENO1** | 0.994 |
+| PGAM4 | **ALDOA** | 0.969 |
+| PGAM4 | **ENO2** | 0.985 |
+| PGAM4 | **ENO1** | 0.992 |
+| ENO2 | **ALDOA** | 0.942 |
+| ENO2 | **ENO1** | 0.954 |
+| ENO1 | **ALDOA** | 0.988 |
+

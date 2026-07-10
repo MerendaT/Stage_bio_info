@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ECHS1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ECHS1
+Identifiant STRING officiel : `9606.ENSP00000357535`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HSD17B10 | **ACADS** | 0.407 |
+| HSD17B10 | **IVD** | 0.418 |
+| HSD17B10 | **ACADSB** | 0.503 |
+| HSD17B10 | **HIBCH** | 0.531 |
+| HSD17B10 | **HADH** | 0.858 |
+| HSD17B10 | **EHHADH** | 0.965 |
+| HSD17B10 | **ACAA1** | 0.969 |
+| HSD17B10 | **HADHB** | 0.971 |
+| HSD17B10 | **HADHA** | 0.973 |
+| HSD17B10 | **ACAA2** | 0.98 |
+| HSD17B10 | **ECHS1** | 0.996 |
+| EHHADH | **HADH** | 0.691 |
+| EHHADH | **HADHA** | 0.944 |
+| EHHADH | **HIBCH** | 0.957 |
+| EHHADH | **IVD** | 0.96 |
+| EHHADH | **ACADVL** | 0.977 |
+| EHHADH | **ACADL** | 0.977 |
+| EHHADH | **ECHS1** | 0.98 |
+| EHHADH | **ACADSB** | 0.982 |
+| EHHADH | **ACADS** | 0.984 |
+| EHHADH | **ACOX3** | 0.993 |
+| EHHADH | **ACAA2** | 0.995 |
+| EHHADH | **ACAA1** | 0.998 |
+| EHHADH | **ACOX1** | 0.998 |
+| EHHADH | **HADHB** | 0.999 |
+| ACADL | **HIBCH** | 0.632 |
+| ACADL | **HADH** | 0.89 |
+| ACADL | **ACADSB** | 0.931 |
+| ACADL | **ACADS** | 0.935 |
+| ACADL | **ACADVL** | 0.951 |
+| ACADL | **ACOX3** | 0.961 |
+| ACADL | **ACOX1** | 0.972 |
+| ACADL | **ECHS1** | 0.976 |
+| ACADL | **ACAA2** | 0.979 |
+| ACADL | **ACAA1** | 0.979 |
+| ACADL | **HADHA** | 0.992 |
+| ACADL | **HADHB** | 0.994 |
+| ACADS | **ACADVL** | 0.481 |
+| ACADS | **HIBCH** | 0.696 |
+| ACADS | **HADH** | 0.875 |
+| ACADS | **ACOX3** | 0.925 |
+| ACADS | **ACADSB** | 0.948 |
+| ACADS | **ACOX1** | 0.951 |
+| ACADS | **ACAA2** | 0.982 |
+| ACADS | **HADHB** | 0.985 |
+| ACADS | **ACAA1** | 0.992 |
+| ACADS | **HADHA** | 0.992 |
+| ACADS | **ECHS1** | 0.994 |
+| ACAA2 | **IVD** | 0.683 |
+| ACAA2 | **HIBCH** | 0.73 |
+| ACAA2 | **ACAA1** | 0.935 |
+| ACAA2 | **HADH** | 0.958 |
+| ACAA2 | **HADHB** | 0.961 |
+| ACAA2 | **ECHS1** | 0.975 |
+| ACAA2 | **ACADSB** | 0.975 |
+| ACAA2 | **ACADVL** | 0.983 |
+| ACAA2 | **ACOX3** | 0.986 |
+| ACAA2 | **ACOX1** | 0.989 |
+| ACAA2 | **HADHA** | 0.998 |
+| ACOX1 | **HIBCH** | 0.58 |
+| ACOX1 | **HADH** | 0.811 |
+| ACOX1 | **ACOX3** | 0.938 |
+| ACOX1 | **ACADSB** | 0.95 |
+| ACOX1 | **ACADVL** | 0.971 |
+| ACOX1 | **HADHA** | 0.98 |
+| ACOX1 | **HADHB** | 0.996 |
+| ACOX1 | **ECHS1** | 0.996 |
+| ACOX1 | **ACAA1** | 0.998 |
+| HADHB | **IVD** | 0.679 |
+| HADHB | **HIBCH** | 0.764 |
+| HADHB | **ACAA1** | 0.952 |
+| HADHB | **ACADSB** | 0.986 |
+| HADHB | **ACADVL** | 0.988 |
+| HADHB | **ACOX3** | 0.99 |
+| HADHB | **ECHS1** | 0.994 |
+| HADHB | **HADH** | 0.994 |
+| HADHB | **HADHA** | 0.999 |
+| ACAA1 | **IVD** | 0.708 |
+| ACAA1 | **HIBCH** | 0.726 |
+| ACAA1 | **HADH** | 0.955 |
+| ACAA1 | **ECHS1** | 0.977 |
+| ACAA1 | **ACADVL** | 0.979 |
+| ACAA1 | **ACADSB** | 0.991 |
+| ACAA1 | **ACOX3** | 0.995 |
+| ACAA1 | **HADHA** | 0.997 |
+| ACOX3 | **HIBCH** | 0.564 |
+| ACOX3 | **HADH** | 0.765 |
+| ACOX3 | **ACADSB** | 0.923 |
+| ACOX3 | **ACADVL** | 0.934 |
+| ACOX3 | **HADHA** | 0.969 |
+| ACOX3 | **ECHS1** | 0.99 |
+| HIBCH | **HADH** | 0.672 |
+| HIBCH | **IVD** | 0.704 |
+| HIBCH | **ACADSB** | 0.795 |
+| HIBCH | **ACADVL** | 0.891 |
+| HIBCH | **HADHA** | 0.952 |
+| HIBCH | **ECHS1** | 0.984 |
+| ECHS1 | **IVD** | 0.973 |
+| ECHS1 | **HADHA** | 0.977 |
+| ECHS1 | **ACADVL** | 0.981 |
+| ECHS1 | **ACADSB** | 0.993 |
+| ECHS1 | **HADH** | 0.999 |
+| ACADSB | **HADH** | 0.806 |
+| ACADSB | **HADHA** | 0.987 |
+| HADHA | **HADH** | 0.696 |
+| HADHA | **IVD** | 0.953 |
+| HADHA | **ACADVL** | 0.995 |
+| ACADVL | **IVD** | 0.437 |
+| ACADVL | **HADH** | 0.882 |
+| HADH | **IVD** | 0.763 |
+

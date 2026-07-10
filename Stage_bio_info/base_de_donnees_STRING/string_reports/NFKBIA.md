@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NFKBIA
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NFKBIA
+Identifiant STRING officiel : `9606.ENSP00000216797`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBX1 | **NFKB2** | 0.526 |
+| RBX1 | **RELA** | 0.63 |
+| RBX1 | **NFKB1** | 0.669 |
+| RBX1 | **NFKBIB** | 0.915 |
+| RBX1 | **NFKBIA** | 0.987 |
+| RBX1 | **FBXW11** | 0.995 |
+| RBX1 | **UBE2D2** | 0.999 |
+| RBX1 | **SKP1** | 0.999 |
+| RBX1 | **BTRC** | 0.999 |
+| RBX1 | **CUL1** | 0.999 |
+| NFKBIA | **FBXW11** | 0.989 |
+| NFKBIA | **UBE2D2** | 0.994 |
+| NFKBIA | **NFKB2** | 0.995 |
+| NFKBIA | **RELB** | 0.995 |
+| NFKBIA | **SKP1** | 0.999 |
+| NFKBIA | **IKBKG** | 0.999 |
+| NFKBIA | **NFKBIB** | 0.999 |
+| NFKBIA | **REL** | 0.999 |
+| NFKBIA | **BTRC** | 0.999 |
+| NFKBIA | **CHUK** | 0.999 |
+| NFKBIA | **IKBKB** | 0.999 |
+| NFKBIA | **NFKB1** | 0.999 |
+| NFKBIA | **CUL1** | 0.999 |
+| NFKBIA | **RELA** | 0.999 |
+| RELB | **FBXW11** | 0.503 |
+| RELB | **CUL1** | 0.614 |
+| RELB | **SKP1** | 0.643 |
+| RELB | **BTRC** | 0.664 |
+| RELB | **IKBKG** | 0.85 |
+| RELB | **IKBKB** | 0.886 |
+| RELB | **NFKBIB** | 0.993 |
+| RELB | **CHUK** | 0.995 |
+| RELB | **REL** | 0.998 |
+| RELB | **NFKB2** | 0.999 |
+| RELB | **RELA** | 0.999 |
+| RELB | **NFKB1** | 0.999 |
+| NFKB1 | **SKP1** | 0.671 |
+| NFKB1 | **UBE2D2** | 0.7 |
+| NFKB1 | **CUL1** | 0.799 |
+| NFKB1 | **FBXW11** | 0.825 |
+| NFKB1 | **BTRC** | 0.964 |
+| NFKB1 | **NFKBIB** | 0.998 |
+| NFKB1 | **CHUK** | 0.999 |
+| NFKB1 | **IKBKB** | 0.999 |
+| NFKB1 | **REL** | 0.999 |
+| NFKB1 | **RELA** | 0.999 |
+| NFKB1 | **IKBKG** | 0.999 |
+| NFKB1 | **NFKB2** | 0.999 |
+| SKP1 | **IKBKG** | 0.632 |
+| SKP1 | **REL** | 0.638 |
+| SKP1 | **RELA** | 0.659 |
+| SKP1 | **CHUK** | 0.669 |
+| SKP1 | **IKBKB** | 0.672 |
+| SKP1 | **NFKB2** | 0.812 |
+| SKP1 | **NFKBIB** | 0.944 |
+| SKP1 | **UBE2D2** | 0.989 |
+| SKP1 | **FBXW11** | 0.999 |
+| SKP1 | **BTRC** | 0.999 |
+| SKP1 | **CUL1** | 0.999 |
+| FBXW11 | **REL** | 0.512 |
+| FBXW11 | **IKBKG** | 0.532 |
+| FBXW11 | **IKBKB** | 0.581 |
+| FBXW11 | **CHUK** | 0.602 |
+| FBXW11 | **RELA** | 0.758 |
+| FBXW11 | **UBE2D2** | 0.844 |
+| FBXW11 | **NFKB2** | 0.898 |
+| FBXW11 | **NFKBIB** | 0.962 |
+| FBXW11 | **BTRC** | 0.993 |
+| FBXW11 | **CUL1** | 0.999 |
+| REL | **CUL1** | 0.619 |
+| REL | **BTRC** | 0.71 |
+| REL | **IKBKG** | 0.899 |
+| REL | **IKBKB** | 0.956 |
+| REL | **CHUK** | 0.967 |
+| REL | **NFKBIB** | 0.999 |
+| REL | **NFKB2** | 0.999 |
+| REL | **RELA** | 0.999 |
+| NFKBIB | **UBE2D2** | 0.916 |
+| NFKBIB | **CUL1** | 0.932 |
+| NFKBIB | **NFKB2** | 0.976 |
+| NFKBIB | **BTRC** | 0.983 |
+| NFKBIB | **IKBKG** | 0.994 |
+| NFKBIB | **CHUK** | 0.997 |
+| NFKBIB | **IKBKB** | 0.997 |
+| NFKBIB | **RELA** | 0.999 |
+| CUL1 | **RELA** | 0.673 |
+| CUL1 | **IKBKG** | 0.743 |
+| CUL1 | **CHUK** | 0.761 |
+| CUL1 | **IKBKB** | 0.762 |
+| CUL1 | **NFKB2** | 0.779 |
+| CUL1 | **UBE2D2** | 0.993 |
+| CUL1 | **BTRC** | 0.999 |
+| NFKB2 | **IKBKG** | 0.944 |
+| NFKB2 | **IKBKB** | 0.955 |
+| NFKB2 | **BTRC** | 0.963 |
+| NFKB2 | **CHUK** | 0.998 |
+| NFKB2 | **RELA** | 0.999 |
+| BTRC | **IKBKG** | 0.775 |
+| BTRC | **CHUK** | 0.83 |
+| BTRC | **RELA** | 0.871 |
+| BTRC | **IKBKB** | 0.95 |
+| BTRC | **UBE2D2** | 0.99 |
+| CHUK | **UBE2D2** | 0.622 |
+| CHUK | **RELA** | 0.999 |
+| CHUK | **IKBKB** | 0.999 |
+| CHUK | **IKBKG** | 0.999 |
+| UBE2D2 | **IKBKG** | 0.62 |
+| UBE2D2 | **IKBKB** | 0.631 |
+| UBE2D2 | **RELA** | 0.696 |
+| RELA | **IKBKG** | 0.996 |
+| RELA | **IKBKB** | 0.999 |
+| IKBKB | **IKBKG** | 0.999 |
+

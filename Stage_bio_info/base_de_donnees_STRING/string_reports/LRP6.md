@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : LRP6
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LRP6
+Identifiant STRING officiel : `9606.ENSP00000261349`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DVL2 | **DKK1** | 0.453 |
+| DVL2 | **WNT1** | 0.784 |
+| DVL2 | **LRP5** | 0.88 |
+| DVL2 | **WNT3A** | 0.916 |
+| DVL2 | **CTNNB1** | 0.93 |
+| DVL2 | **FZD8** | 0.937 |
+| DVL2 | **GSK3B** | 0.976 |
+| DVL2 | **FZD4** | 0.985 |
+| DVL2 | **DVL1** | 0.991 |
+| DVL2 | **LRP6** | 0.993 |
+| DVL2 | **AXIN1** | 0.999 |
+| DKK4 | **FZD4** | 0.441 |
+| DKK4 | **GSK3B** | 0.497 |
+| DKK4 | **DVL1** | 0.546 |
+| DKK4 | **AXIN1** | 0.596 |
+| DKK4 | **SOST** | 0.654 |
+| DKK4 | **CTNNB1** | 0.703 |
+| DKK4 | **FZD8** | 0.787 |
+| DKK4 | **WNT1** | 0.834 |
+| DKK4 | **WNT3A** | 0.906 |
+| DKK4 | **DKK2** | 0.913 |
+| DKK4 | **DKK1** | 0.927 |
+| DKK4 | **KREMEN1** | 0.975 |
+| DKK4 | **LRP5** | 0.999 |
+| DKK4 | **LRP6** | 0.999 |
+| LRP6 | **CTNNB1** | 0.992 |
+| LRP6 | **FZD8** | 0.994 |
+| LRP6 | **GSK3B** | 0.994 |
+| LRP6 | **KREMEN1** | 0.997 |
+| LRP6 | **DVL1** | 0.998 |
+| LRP6 | **WNT3A** | 0.999 |
+| LRP6 | **WNT1** | 0.999 |
+| LRP6 | **DKK1** | 0.999 |
+| LRP6 | **FZD4** | 0.999 |
+| LRP6 | **AXIN1** | 0.999 |
+| LRP6 | **DKK2** | 0.999 |
+| LRP6 | **SOST** | 0.999 |
+| LRP6 | **LRP5** | 0.999 |
+| AXIN1 | **KREMEN1** | 0.418 |
+| AXIN1 | **FZD8** | 0.556 |
+| AXIN1 | **SOST** | 0.696 |
+| AXIN1 | **DKK2** | 0.752 |
+| AXIN1 | **FZD4** | 0.761 |
+| AXIN1 | **DKK1** | 0.831 |
+| AXIN1 | **WNT1** | 0.918 |
+| AXIN1 | **WNT3A** | 0.964 |
+| AXIN1 | **CTNNB1** | 0.999 |
+| AXIN1 | **DVL1** | 0.999 |
+| AXIN1 | **GSK3B** | 0.999 |
+| AXIN1 | **LRP5** | 0.999 |
+| WNT3A | **KREMEN1** | 0.635 |
+| WNT3A | **WNT1** | 0.832 |
+| WNT3A | **SOST** | 0.863 |
+| WNT3A | **DKK2** | 0.932 |
+| WNT3A | **GSK3B** | 0.937 |
+| WNT3A | **DVL1** | 0.966 |
+| WNT3A | **DKK1** | 0.967 |
+| WNT3A | **FZD4** | 0.973 |
+| WNT3A | **CTNNB1** | 0.976 |
+| WNT3A | **FZD8** | 0.989 |
+| WNT3A | **LRP5** | 0.999 |
+| DKK2 | **FZD4** | 0.499 |
+| DKK2 | **GSK3B** | 0.521 |
+| DKK2 | **DVL1** | 0.708 |
+| DKK2 | **CTNNB1** | 0.737 |
+| DKK2 | **FZD8** | 0.777 |
+| DKK2 | **SOST** | 0.832 |
+| DKK2 | **WNT1** | 0.849 |
+| DKK2 | **DKK1** | 0.938 |
+| DKK2 | **KREMEN1** | 0.992 |
+| DKK2 | **LRP5** | 0.999 |
+| WNT1 | **SOST** | 0.79 |
+| WNT1 | **KREMEN1** | 0.825 |
+| WNT1 | **GSK3B** | 0.9 |
+| WNT1 | **DVL1** | 0.949 |
+| WNT1 | **DKK1** | 0.965 |
+| WNT1 | **CTNNB1** | 0.973 |
+| WNT1 | **FZD4** | 0.979 |
+| WNT1 | **FZD8** | 0.995 |
+| WNT1 | **LRP5** | 0.999 |
+| LRP5 | **GSK3B** | 0.96 |
+| LRP5 | **FZD8** | 0.974 |
+| LRP5 | **CTNNB1** | 0.992 |
+| LRP5 | **KREMEN1** | 0.995 |
+| LRP5 | **SOST** | 0.999 |
+| LRP5 | **FZD4** | 0.999 |
+| LRP5 | **DKK1** | 0.999 |
+| LRP5 | **DVL1** | 0.999 |
+| SOST | **KREMEN1** | 0.45 |
+| SOST | **FZD4** | 0.488 |
+| SOST | **GSK3B** | 0.512 |
+| SOST | **DVL1** | 0.59 |
+| SOST | **CTNNB1** | 0.853 |
+| SOST | **DKK1** | 0.957 |
+| GSK3B | **FZD8** | 0.459 |
+| GSK3B | **FZD4** | 0.501 |
+| GSK3B | **DKK1** | 0.731 |
+| GSK3B | **DVL1** | 0.999 |
+| GSK3B | **CTNNB1** | 0.999 |
+| KREMEN1 | **DVL1** | 0.404 |
+| KREMEN1 | **CTNNB1** | 0.718 |
+| KREMEN1 | **DKK1** | 0.999 |
+| DKK1 | **FZD4** | 0.621 |
+| DKK1 | **DVL1** | 0.665 |
+| DKK1 | **FZD8** | 0.776 |
+| DKK1 | **CTNNB1** | 0.963 |
+| FZD8 | **FZD4** | 0.557 |
+| FZD8 | **CTNNB1** | 0.798 |
+| FZD8 | **DVL1** | 0.879 |
+| DVL1 | **FZD4** | 0.953 |
+| DVL1 | **CTNNB1** | 0.994 |
+| FZD4 | **CTNNB1** | 0.83 |
+

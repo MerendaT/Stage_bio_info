@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SRC
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRC
+Identifiant STRING officiel : `9606.ENSP00000362680`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PDGFRB | **CBL** | 0.589 |
+| PDGFRB | **CAV1** | 0.6 |
+| PDGFRB | **PXN** | 0.625 |
+| PDGFRB | **HSP90AA1** | 0.687 |
+| PDGFRB | **CRK** | 0.82 |
+| PDGFRB | **ERBB2** | 0.874 |
+| PDGFRB | **FYN** | 0.891 |
+| PDGFRB | **STAT3** | 0.915 |
+| PDGFRB | **PTK2** | 0.925 |
+| PDGFRB | **EGFR** | 0.998 |
+| PDGFRB | **GRB2** | 0.999 |
+| PDGFRB | **SRC** | 0.999 |
+| CBL | **HCLS1** | 0.599 |
+| CBL | **HSP90AA1** | 0.667 |
+| CBL | **PXN** | 0.871 |
+| CBL | **STAT3** | 0.88 |
+| CBL | **PTK2** | 0.893 |
+| CBL | **ERBB2** | 0.944 |
+| CBL | **SYK** | 0.997 |
+| CBL | **FYN** | 0.998 |
+| CBL | **GRB2** | 0.999 |
+| CBL | **SRC** | 0.999 |
+| CBL | **EGFR** | 0.999 |
+| CBL | **CRK** | 0.999 |
+| STAT3 | **HCLS1** | 0.583 |
+| STAT3 | **CAV1** | 0.759 |
+| STAT3 | **PXN** | 0.773 |
+| STAT3 | **FYN** | 0.891 |
+| STAT3 | **GRB2** | 0.892 |
+| STAT3 | **PTK2** | 0.928 |
+| STAT3 | **ERBB2** | 0.948 |
+| STAT3 | **HSP90AA1** | 0.971 |
+| STAT3 | **SYK** | 0.98 |
+| STAT3 | **EGFR** | 0.998 |
+| STAT3 | **SRC** | 0.999 |
+| PXN | **HSP90AA1** | 0.63 |
+| PXN | **SYK** | 0.642 |
+| PXN | **ERBB2** | 0.721 |
+| PXN | **CAV1** | 0.723 |
+| PXN | **EGFR** | 0.825 |
+| PXN | **FYN** | 0.903 |
+| PXN | **GRB2** | 0.964 |
+| PXN | **HCLS1** | 0.994 |
+| PXN | **SRC** | 0.999 |
+| PXN | **PTK2** | 0.999 |
+| PXN | **TLN1** | 0.999 |
+| PXN | **CRK** | 0.999 |
+| ERBB2 | **TLN1** | 0.414 |
+| ERBB2 | **SYK** | 0.465 |
+| ERBB2 | **CAV1** | 0.735 |
+| ERBB2 | **CRK** | 0.759 |
+| ERBB2 | **FYN** | 0.807 |
+| ERBB2 | **PTK2** | 0.99 |
+| ERBB2 | **EGFR** | 0.999 |
+| ERBB2 | **GRB2** | 0.999 |
+| ERBB2 | **SRC** | 0.999 |
+| ERBB2 | **HSP90AA1** | 0.999 |
+| EGFR | **HCLS1** | 0.463 |
+| EGFR | **SYK** | 0.484 |
+| EGFR | **TLN1** | 0.488 |
+| EGFR | **FYN** | 0.873 |
+| EGFR | **CRK** | 0.997 |
+| EGFR | **GRB2** | 0.999 |
+| EGFR | **CAV1** | 0.999 |
+| EGFR | **HSP90AA1** | 0.999 |
+| EGFR | **SRC** | 0.999 |
+| EGFR | **PTK2** | 0.999 |
+| CRK | **TLN1** | 0.741 |
+| CRK | **HSP90AA1** | 0.747 |
+| CRK | **SYK** | 0.787 |
+| CRK | **FYN** | 0.938 |
+| CRK | **HCLS1** | 0.945 |
+| CRK | **GRB2** | 0.98 |
+| CRK | **PTK2** | 0.997 |
+| CRK | **SRC** | 0.999 |
+| TLN1 | **CAV1** | 0.406 |
+| TLN1 | **SYK** | 0.7 |
+| TLN1 | **GRB2** | 0.712 |
+| TLN1 | **FYN** | 0.723 |
+| TLN1 | **HCLS1** | 0.938 |
+| TLN1 | **SRC** | 0.999 |
+| TLN1 | **PTK2** | 0.999 |
+| HCLS1 | **CAV1** | 0.4 |
+| HCLS1 | **HSP90AA1** | 0.55 |
+| HCLS1 | **SYK** | 0.713 |
+| HCLS1 | **GRB2** | 0.782 |
+| HCLS1 | **FYN** | 0.796 |
+| HCLS1 | **PTK2** | 0.987 |
+| HCLS1 | **SRC** | 0.999 |
+| HSP90AA1 | **SYK** | 0.598 |
+| HSP90AA1 | **PTK2** | 0.716 |
+| HSP90AA1 | **GRB2** | 0.835 |
+| HSP90AA1 | **FYN** | 0.896 |
+| HSP90AA1 | **CAV1** | 0.988 |
+| HSP90AA1 | **SRC** | 0.999 |
+| CAV1 | **PTK2** | 0.488 |
+| CAV1 | **GRB2** | 0.624 |
+| CAV1 | **FYN** | 0.997 |
+| CAV1 | **SRC** | 0.999 |
+| PTK2 | **SYK** | 0.605 |
+| PTK2 | **FYN** | 0.998 |
+| PTK2 | **GRB2** | 0.999 |
+| PTK2 | **SRC** | 0.999 |
+| FYN | **GRB2** | 0.98 |
+| FYN | **SYK** | 0.983 |
+| FYN | **SRC** | 0.999 |
+| SRC | **SYK** | 0.999 |
+| SRC | **GRB2** | 0.999 |
+| SYK | **GRB2** | 0.986 |
+

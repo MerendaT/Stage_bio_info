@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TNFRSF1A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TNFRSF1A
+Identifiant STRING officiel : `9606.ENSP00000162749`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TNFRSF1A | **LTA** | 0.999 |
+| TNFRSF1A | **BIRC2** | 0.999 |
+| TNFRSF1A | **TRAF5** | 0.999 |
+| TNFRSF1A | **CYLD** | 0.999 |
+| TNFRSF1A | **TRADD** | 0.999 |
+| TNFRSF1A | **IKBKB** | 0.999 |
+| TNFRSF1A | **TNF** | 0.999 |
+| TNFRSF1A | **CHUK** | 0.999 |
+| TNFRSF1A | **RIPK1** | 0.999 |
+| TNFRSF1A | **TRAF2** | 0.999 |
+| TNFRSF1A | **BIRC3** | 0.999 |
+| TNFRSF1A | **TNFRSF1B** | 0.999 |
+| TNFRSF1A | **IKBKG** | 0.999 |
+| TNFRSF1A | **MAP3K7** | 0.999 |
+| TNFRSF1A | **FADD** | 0.999 |
+| TRAF2 | **LTA** | 0.637 |
+| TRAF2 | **MAP3K7** | 0.988 |
+| TRAF2 | **CYLD** | 0.992 |
+| TRAF2 | **IKBKB** | 0.994 |
+| TRAF2 | **TNFRSF1B** | 0.994 |
+| TRAF2 | **CHUK** | 0.995 |
+| TRAF2 | **TRAF5** | 0.998 |
+| TRAF2 | **TNF** | 0.999 |
+| TRAF2 | **TRADD** | 0.999 |
+| TRAF2 | **RIPK1** | 0.999 |
+| TRAF2 | **BIRC2** | 0.999 |
+| TRAF2 | **IKBKG** | 0.999 |
+| TRAF2 | **FADD** | 0.999 |
+| TRAF2 | **BIRC3** | 0.999 |
+| RIPK1 | **LTA** | 0.41 |
+| RIPK1 | **TNFRSF1B** | 0.505 |
+| RIPK1 | **IKBKB** | 0.987 |
+| RIPK1 | **MAP3K7** | 0.996 |
+| RIPK1 | **CHUK** | 0.998 |
+| RIPK1 | **BIRC3** | 0.999 |
+| RIPK1 | **FADD** | 0.999 |
+| RIPK1 | **IKBKG** | 0.999 |
+| RIPK1 | **TRAF5** | 0.999 |
+| RIPK1 | **BIRC2** | 0.999 |
+| RIPK1 | **TNF** | 0.999 |
+| RIPK1 | **CYLD** | 0.999 |
+| RIPK1 | **TRADD** | 0.999 |
+| TRAF5 | **CYLD** | 0.571 |
+| TRAF5 | **TNF** | 0.673 |
+| TRAF5 | **TNFRSF1B** | 0.696 |
+| TRAF5 | **FADD** | 0.912 |
+| TRAF5 | **IKBKB** | 0.959 |
+| TRAF5 | **CHUK** | 0.959 |
+| TRAF5 | **IKBKG** | 0.967 |
+| TRAF5 | **MAP3K7** | 0.974 |
+| TRAF5 | **BIRC3** | 0.997 |
+| TRAF5 | **BIRC2** | 0.999 |
+| TRAF5 | **TRADD** | 0.999 |
+| BIRC3 | **LTA** | 0.609 |
+| BIRC3 | **CHUK** | 0.758 |
+| BIRC3 | **IKBKB** | 0.896 |
+| BIRC3 | **TNFRSF1B** | 0.934 |
+| BIRC3 | **IKBKG** | 0.936 |
+| BIRC3 | **MAP3K7** | 0.942 |
+| BIRC3 | **CYLD** | 0.944 |
+| BIRC3 | **FADD** | 0.96 |
+| BIRC3 | **TNF** | 0.964 |
+| BIRC3 | **BIRC2** | 0.996 |
+| BIRC3 | **TRADD** | 0.998 |
+| FADD | **MAP3K7** | 0.647 |
+| FADD | **TNFRSF1B** | 0.743 |
+| FADD | **CHUK** | 0.824 |
+| FADD | **IKBKB** | 0.84 |
+| FADD | **CYLD** | 0.931 |
+| FADD | **IKBKG** | 0.937 |
+| FADD | **TNF** | 0.99 |
+| FADD | **BIRC2** | 0.994 |
+| FADD | **TRADD** | 0.999 |
+| TRADD | **TNFRSF1B** | 0.939 |
+| TRADD | **IKBKB** | 0.962 |
+| TRADD | **MAP3K7** | 0.976 |
+| TRADD | **CHUK** | 0.984 |
+| TRADD | **IKBKG** | 0.994 |
+| TRADD | **CYLD** | 0.995 |
+| TRADD | **BIRC2** | 0.999 |
+| TRADD | **TNF** | 0.999 |
+| MAP3K7 | **CYLD** | 0.889 |
+| MAP3K7 | **BIRC2** | 0.969 |
+| MAP3K7 | **CHUK** | 0.994 |
+| MAP3K7 | **IKBKB** | 0.996 |
+| MAP3K7 | **IKBKG** | 0.999 |
+| MAP3K7 | **TNF** | 0.999 |
+| CHUK | **TNFRSF1B** | 0.529 |
+| CHUK | **BIRC2** | 0.865 |
+| CHUK | **CYLD** | 0.921 |
+| CHUK | **TNF** | 0.999 |
+| CHUK | **IKBKB** | 0.999 |
+| CHUK | **IKBKG** | 0.999 |
+| TNFRSF1B | **CYLD** | 0.411 |
+| TNFRSF1B | **IKBKG** | 0.512 |
+| TNFRSF1B | **BIRC2** | 0.882 |
+| TNFRSF1B | **LTA** | 0.999 |
+| TNFRSF1B | **TNF** | 0.999 |
+| CYLD | **IKBKB** | 0.868 |
+| CYLD | **BIRC2** | 0.943 |
+| CYLD | **TNF** | 0.985 |
+| CYLD | **IKBKG** | 0.999 |
+| TNF | **LTA** | 0.984 |
+| TNF | **IKBKB** | 0.999 |
+| TNF | **BIRC2** | 0.999 |
+| TNF | **IKBKG** | 0.999 |
+| LTA | **BIRC2** | 0.694 |
+| IKBKB | **BIRC2** | 0.89 |
+| IKBKB | **IKBKG** | 0.999 |
+| BIRC2 | **IKBKG** | 0.992 |
+

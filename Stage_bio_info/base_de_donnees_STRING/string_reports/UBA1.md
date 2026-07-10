@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : UBA1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UBA1
+Identifiant STRING officiel : `9606.ENSP00000338413`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDC34 | **UBE2D3** | 0.424 |
+| CDC34 | **UBE2B** | 0.526 |
+| CDC34 | **UBE2D1** | 0.528 |
+| CDC34 | **UBE2L3** | 0.542 |
+| CDC34 | **UBE2A** | 0.543 |
+| CDC34 | **UBE2S** | 0.56 |
+| CDC34 | **UBE2K** | 0.579 |
+| CDC34 | **UBE2D2** | 0.669 |
+| CDC34 | **UBE2M** | 0.721 |
+| CDC34 | **UBB** | 0.983 |
+| CDC34 | **UBA52** | 0.983 |
+| CDC34 | **RPS27A** | 0.992 |
+| CDC34 | **UBA1** | 0.994 |
+| CDC34 | **UBC** | 0.998 |
+| UBE2M | **UBE2D1** | 0.509 |
+| UBE2M | **UBA52** | 0.516 |
+| UBE2M | **UBE2S** | 0.519 |
+| UBE2M | **UBB** | 0.608 |
+| UBE2M | **UBC** | 0.679 |
+| UBE2M | **RPS27A** | 0.755 |
+| UBE2M | **UBA1** | 0.99 |
+| UBE2K | **UBE2A** | 0.437 |
+| UBE2K | **UBE2L3** | 0.655 |
+| UBE2K | **UBE2D1** | 0.703 |
+| UBE2K | **UBE2D3** | 0.723 |
+| UBE2K | **UBE2S** | 0.755 |
+| UBE2K | **UBE2N** | 0.839 |
+| UBE2K | **UBE2D2** | 0.9 |
+| UBE2K | **UBA52** | 0.993 |
+| UBE2K | **UBA1** | 0.995 |
+| UBE2K | **UBB** | 0.997 |
+| UBE2K | **RPS27A** | 0.998 |
+| UBE2K | **UBC** | 0.999 |
+| UBE2S | **UBE2B** | 0.444 |
+| UBE2S | **UBE2N** | 0.448 |
+| UBE2S | **UBE2A** | 0.458 |
+| UBE2S | **UBE2L3** | 0.57 |
+| UBE2S | **UBE2D3** | 0.593 |
+| UBE2S | **UBE2D2** | 0.646 |
+| UBE2S | **UBE2D1** | 0.821 |
+| UBE2S | **RPS27A** | 0.97 |
+| UBE2S | **UBA52** | 0.976 |
+| UBE2S | **UBB** | 0.988 |
+| UBE2S | **UBA1** | 0.994 |
+| UBE2S | **UBC** | 0.996 |
+| UBE2B | **UBE2D1** | 0.508 |
+| UBE2B | **UBE2L3** | 0.734 |
+| UBE2B | **UBE2D2** | 0.743 |
+| UBE2B | **UBA52** | 0.788 |
+| UBE2B | **UBB** | 0.821 |
+| UBE2B | **UBC** | 0.901 |
+| UBE2B | **UBE2N** | 0.929 |
+| UBE2B | **RPS27A** | 0.947 |
+| UBE2B | **UBE2A** | 0.975 |
+| UBE2B | **UBA1** | 0.989 |
+| RPS27A | **UBE2L3** | 0.869 |
+| RPS27A | **UBE2A** | 0.887 |
+| RPS27A | **UBE2D3** | 0.929 |
+| RPS27A | **UBE2D1** | 0.993 |
+| RPS27A | **UBE2D2** | 0.996 |
+| RPS27A | **UBB** | 0.998 |
+| RPS27A | **UBC** | 0.998 |
+| RPS27A | **UBA1** | 0.999 |
+| RPS27A | **UBE2N** | 0.999 |
+| RPS27A | **UBA52** | 0.999 |
+| UBE2N | **UBE2D1** | 0.567 |
+| UBE2N | **UBE2D2** | 0.736 |
+| UBE2N | **UBE2D3** | 0.751 |
+| UBE2N | **UBE2A** | 0.93 |
+| UBE2N | **UBB** | 0.994 |
+| UBE2N | **UBA52** | 0.997 |
+| UBE2N | **UBA1** | 0.998 |
+| UBE2N | **UBC** | 0.999 |
+| UBA1 | **UBE2A** | 0.992 |
+| UBA1 | **UBE2D3** | 0.994 |
+| UBA1 | **UBE2D1** | 0.997 |
+| UBA1 | **UBB** | 0.997 |
+| UBA1 | **UBA52** | 0.998 |
+| UBA1 | **UBE2L3** | 0.998 |
+| UBA1 | **UBE2D2** | 0.999 |
+| UBA1 | **UBC** | 0.999 |
+| UBE2D3 | **UBE2L3** | 0.468 |
+| UBE2D3 | **UBE2D2** | 0.64 |
+| UBE2D3 | **UBE2D1** | 0.776 |
+| UBE2D3 | **UBB** | 0.834 |
+| UBE2D3 | **UBA52** | 0.865 |
+| UBE2D3 | **UBC** | 0.985 |
+| UBE2A | **UBE2L3** | 0.709 |
+| UBE2A | **UBE2D2** | 0.733 |
+| UBE2A | **UBA52** | 0.806 |
+| UBE2A | **UBB** | 0.846 |
+| UBE2A | **UBC** | 0.902 |
+| UBE2D1 | **UBE2L3** | 0.654 |
+| UBE2D1 | **UBE2D2** | 0.943 |
+| UBE2D1 | **UBB** | 0.981 |
+| UBE2D1 | **UBA52** | 0.985 |
+| UBE2D1 | **UBC** | 0.997 |
+| UBE2D2 | **UBE2L3** | 0.683 |
+| UBE2D2 | **UBA52** | 0.986 |
+| UBE2D2 | **UBB** | 0.991 |
+| UBE2D2 | **UBC** | 0.998 |
+| UBA52 | **UBE2L3** | 0.805 |
+| UBA52 | **UBB** | 0.999 |
+| UBA52 | **UBC** | 0.999 |
+| UBE2L3 | **UBB** | 0.729 |
+| UBE2L3 | **UBC** | 0.794 |
+| UBC | **UBB** | 0.998 |
+

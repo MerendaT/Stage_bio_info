@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : U2AF2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : U2AF2
+Identifiant STRING officiel : `9606.ENSP00000307863`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PHF5A | **RBM10** | 0.422 |
+| PHF5A | **SRSF2** | 0.476 |
+| PHF5A | **DDX39B** | 0.573 |
+| PHF5A | **U2AF1** | 0.74 |
+| PHF5A | **SF1** | 0.791 |
+| PHF5A | **SRSF1** | 0.931 |
+| PHF5A | **CDC5L** | 0.993 |
+| PHF5A | **U2AF2** | 0.998 |
+| PHF5A | **SF3B1** | 0.999 |
+| PHF5A | **SF3B6** | 0.999 |
+| PHF5A | **SF3B4** | 0.999 |
+| PHF5A | **SF3B5** | 0.999 |
+| PHF5A | **SF3B3** | 0.999 |
+| PHF5A | **SF3B2** | 0.999 |
+| SF3B6 | **SRSF2** | 0.424 |
+| SF3B6 | **DDX39B** | 0.516 |
+| SF3B6 | **SUGP1** | 0.555 |
+| SF3B6 | **U2AF1** | 0.705 |
+| SF3B6 | **SF1** | 0.852 |
+| SF3B6 | **CDC5L** | 0.907 |
+| SF3B6 | **SRSF1** | 0.908 |
+| SF3B6 | **U2AF2** | 0.998 |
+| SF3B6 | **SF3B4** | 0.999 |
+| SF3B6 | **SF3B1** | 0.999 |
+| SF3B6 | **SF3B5** | 0.999 |
+| SF3B6 | **SF3B2** | 0.999 |
+| SF3B6 | **SF3B3** | 0.999 |
+| SUGP1 | **SRSF2** | 0.43 |
+| SUGP1 | **SF3B2** | 0.564 |
+| SUGP1 | **DDX39B** | 0.608 |
+| SUGP1 | **SF3B1** | 0.743 |
+| SUGP1 | **SRSF1** | 0.82 |
+| SUGP1 | **SF1** | 0.907 |
+| SUGP1 | **RBM10** | 0.996 |
+| SUGP1 | **U2AF2** | 0.997 |
+| SRSF1 | **RBM10** | 0.685 |
+| SRSF1 | **SF1** | 0.813 |
+| SRSF1 | **SF3B4** | 0.89 |
+| SRSF1 | **SF3B5** | 0.913 |
+| SRSF1 | **DDX39B** | 0.914 |
+| SRSF1 | **SF3B2** | 0.926 |
+| SRSF1 | **SF3B3** | 0.941 |
+| SRSF1 | **SF3B1** | 0.952 |
+| SRSF1 | **CDC5L** | 0.957 |
+| SRSF1 | **U2AF1** | 0.997 |
+| SRSF1 | **SRSF2** | 0.997 |
+| SRSF1 | **U2AF2** | 0.998 |
+| SF3B4 | **DDX39B** | 0.46 |
+| SF3B4 | **SRSF2** | 0.535 |
+| SF3B4 | **U2AF1** | 0.708 |
+| SF3B4 | **RBM10** | 0.799 |
+| SF3B4 | **SF1** | 0.857 |
+| SF3B4 | **CDC5L** | 0.972 |
+| SF3B4 | **SF3B3** | 0.999 |
+| SF3B4 | **SF3B2** | 0.999 |
+| SF3B4 | **SF3B5** | 0.999 |
+| SF3B4 | **U2AF2** | 0.999 |
+| SF3B4 | **SF3B1** | 0.999 |
+| U2AF1 | **SF3B5** | 0.522 |
+| U2AF1 | **SF3B3** | 0.754 |
+| U2AF1 | **CDC5L** | 0.779 |
+| U2AF1 | **RBM10** | 0.827 |
+| U2AF1 | **DDX39B** | 0.87 |
+| U2AF1 | **SF3B2** | 0.879 |
+| U2AF1 | **SF3B1** | 0.927 |
+| U2AF1 | **SF1** | 0.984 |
+| U2AF1 | **U2AF2** | 0.999 |
+| U2AF1 | **SRSF2** | 0.999 |
+| SF3B3 | **SRSF2** | 0.536 |
+| SF3B3 | **DDX39B** | 0.658 |
+| SF3B3 | **SF1** | 0.808 |
+| SF3B3 | **CDC5L** | 0.997 |
+| SF3B3 | **U2AF2** | 0.998 |
+| SF3B3 | **SF3B1** | 0.999 |
+| SF3B3 | **SF3B5** | 0.999 |
+| SF3B3 | **SF3B2** | 0.999 |
+| U2AF2 | **DDX39B** | 0.996 |
+| U2AF2 | **SRSF2** | 0.996 |
+| U2AF2 | **SF3B5** | 0.997 |
+| U2AF2 | **RBM10** | 0.997 |
+| U2AF2 | **CDC5L** | 0.997 |
+| U2AF2 | **SF3B2** | 0.998 |
+| U2AF2 | **SF3B1** | 0.999 |
+| U2AF2 | **SF1** | 0.999 |
+| SF3B2 | **DDX39B** | 0.421 |
+| SF3B2 | **RBM10** | 0.485 |
+| SF3B2 | **SRSF2** | 0.558 |
+| SF3B2 | **SF1** | 0.816 |
+| SF3B2 | **CDC5L** | 0.997 |
+| SF3B2 | **SF3B5** | 0.999 |
+| SF3B2 | **SF3B1** | 0.999 |
+| RBM10 | **CDC5L** | 0.457 |
+| RBM10 | **SF3B1** | 0.594 |
+| RBM10 | **SF1** | 0.702 |
+| RBM10 | **SRSF2** | 0.812 |
+| SF3B1 | **DDX39B** | 0.652 |
+| SF3B1 | **SRSF2** | 0.909 |
+| SF3B1 | **SF1** | 0.963 |
+| SF3B1 | **SF3B5** | 0.999 |
+| SF3B1 | **CDC5L** | 0.999 |
+| SF3B5 | **DDX39B** | 0.598 |
+| SF3B5 | **SF1** | 0.652 |
+| SF3B5 | **CDC5L** | 0.903 |
+| CDC5L | **DDX39B** | 0.586 |
+| CDC5L | **SRSF2** | 0.757 |
+| CDC5L | **SF1** | 0.983 |
+| SF1 | **SRSF2** | 0.661 |
+| SF1 | **DDX39B** | 0.807 |
+| SRSF2 | **DDX39B** | 0.773 |
+

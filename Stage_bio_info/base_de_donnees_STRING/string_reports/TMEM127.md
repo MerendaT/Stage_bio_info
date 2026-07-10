@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TMEM127
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TMEM127
+Identifiant STRING officiel : `9606.ENSP00000258439`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TMEM127 | **MEN1** | 0.597 |
+| TMEM127 | **MDH2** | 0.647 |
+| TMEM127 | **CSDE1** | 0.659 |
+| TMEM127 | **EPAS1** | 0.672 |
+| TMEM127 | **EGLN1** | 0.68 |
+| TMEM127 | **MAX** | 0.768 |
+| TMEM127 | **SDHA** | 0.807 |
+| TMEM127 | **KIF1B** | 0.871 |
+| TMEM127 | **NF1** | 0.883 |
+| TMEM127 | **SDHAF2** | 0.89 |
+| TMEM127 | **F5H5T6_HUMAN** | 0.89 |
+| TMEM127 | **RET** | 0.903 |
+| TMEM127 | **SDHC** | 0.905 |
+| TMEM127 | **SDHB** | 0.934 |
+| TMEM127 | **SDHD** | 0.96 |
+| EPAS1 | **KIF1B** | 0.4 |
+| EPAS1 | **CSDE1** | 0.42 |
+| EPAS1 | **MDH2** | 0.477 |
+| EPAS1 | **NF1** | 0.506 |
+| EPAS1 | **RET** | 0.516 |
+| EPAS1 | **SDHA** | 0.521 |
+| EPAS1 | **SDHC** | 0.559 |
+| EPAS1 | **F5H5T6_HUMAN** | 0.583 |
+| EPAS1 | **SDHB** | 0.584 |
+| EPAS1 | **SDHAF2** | 0.591 |
+| EPAS1 | **SDHD** | 0.598 |
+| EPAS1 | **MAX** | 0.704 |
+| EPAS1 | **EGLN1** | 0.999 |
+| KIF1B | **MDH2** | 0.449 |
+| KIF1B | **SDHA** | 0.511 |
+| KIF1B | **CSDE1** | 0.523 |
+| KIF1B | **SDHAF2** | 0.582 |
+| KIF1B | **F5H5T6_HUMAN** | 0.603 |
+| KIF1B | **RET** | 0.627 |
+| KIF1B | **NF1** | 0.66 |
+| KIF1B | **SDHC** | 0.666 |
+| KIF1B | **SDHB** | 0.67 |
+| KIF1B | **EGLN1** | 0.679 |
+| KIF1B | **SDHD** | 0.715 |
+| SDHA | **CSDE1** | 0.451 |
+| SDHA | **MAX** | 0.51 |
+| SDHA | **EGLN1** | 0.515 |
+| SDHA | **MEN1** | 0.561 |
+| SDHA | **NF1** | 0.653 |
+| SDHA | **RET** | 0.659 |
+| SDHA | **MDH2** | 0.905 |
+| SDHA | **F5H5T6_HUMAN** | 0.999 |
+| SDHA | **SDHD** | 0.999 |
+| SDHA | **SDHAF2** | 0.999 |
+| SDHA | **SDHB** | 0.999 |
+| SDHA | **SDHC** | 0.999 |
+| SDHAF2 | **CSDE1** | 0.488 |
+| SDHAF2 | **MEN1** | 0.582 |
+| SDHAF2 | **EGLN1** | 0.593 |
+| SDHAF2 | **MAX** | 0.628 |
+| SDHAF2 | **MDH2** | 0.629 |
+| SDHAF2 | **NF1** | 0.666 |
+| SDHAF2 | **RET** | 0.697 |
+| SDHAF2 | **SDHD** | 0.998 |
+| SDHAF2 | **SDHB** | 0.998 |
+| SDHAF2 | **SDHC** | 0.999 |
+| MDH2 | **MAX** | 0.4 |
+| MDH2 | **NF1** | 0.413 |
+| MDH2 | **RET** | 0.418 |
+| MDH2 | **CSDE1** | 0.437 |
+| MDH2 | **EGLN1** | 0.492 |
+| MDH2 | **F5H5T6_HUMAN** | 0.632 |
+| MDH2 | **SDHC** | 0.718 |
+| MDH2 | **SDHD** | 0.793 |
+| MDH2 | **SDHB** | 0.971 |
+| MEN1 | **SDHC** | 0.458 |
+| MEN1 | **SDHB** | 0.601 |
+| MEN1 | **F5H5T6_HUMAN** | 0.61 |
+| MEN1 | **SDHD** | 0.61 |
+| MEN1 | **MAX** | 0.618 |
+| MEN1 | **NF1** | 0.684 |
+| MEN1 | **RET** | 0.828 |
+| RET | **EGLN1** | 0.45 |
+| RET | **CSDE1** | 0.488 |
+| RET | **MAX** | 0.543 |
+| RET | **F5H5T6_HUMAN** | 0.72 |
+| RET | **SDHC** | 0.827 |
+| RET | **NF1** | 0.839 |
+| RET | **SDHB** | 0.883 |
+| RET | **SDHD** | 0.903 |
+| NF1 | **EGLN1** | 0.46 |
+| NF1 | **MAX** | 0.572 |
+| NF1 | **SDHC** | 0.628 |
+| NF1 | **CSDE1** | 0.643 |
+| NF1 | **F5H5T6_HUMAN** | 0.697 |
+| NF1 | **SDHB** | 0.822 |
+| NF1 | **SDHD** | 0.835 |
+| MAX | **CSDE1** | 0.447 |
+| MAX | **SDHC** | 0.515 |
+| MAX | **SDHB** | 0.542 |
+| MAX | **SDHD** | 0.591 |
+| MAX | **F5H5T6_HUMAN** | 0.615 |
+| EGLN1 | **CSDE1** | 0.42 |
+| EGLN1 | **SDHC** | 0.481 |
+| EGLN1 | **SDHB** | 0.523 |
+| EGLN1 | **SDHD** | 0.582 |
+| EGLN1 | **F5H5T6_HUMAN** | 0.591 |
+| SDHC | **F5H5T6_HUMAN** | 0.995 |
+| SDHC | **SDHB** | 0.999 |
+| SDHC | **SDHD** | 0.999 |
+| SDHB | **CSDE1** | 0.422 |
+| SDHB | **F5H5T6_HUMAN** | 0.994 |
+| SDHB | **SDHD** | 0.999 |
+| SDHD | **CSDE1** | 0.482 |
+| SDHD | **F5H5T6_HUMAN** | 0.994 |
+| F5H5T6_HUMAN | **CSDE1** | 0.545 |
+

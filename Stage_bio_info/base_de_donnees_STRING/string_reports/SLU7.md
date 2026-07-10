@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SLU7
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SLU7
+Identifiant STRING officiel : `9606.ENSP00000297151`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PRPF19 | **PRPF18** | 0.55 |
+| PRPF19 | **FAM32A** | 0.827 |
+| PRPF19 | **PRPF3** | 0.845 |
+| PRPF19 | **SF3B2** | 0.993 |
+| PRPF19 | **SLU7** | 0.994 |
+| PRPF19 | **DHX38** | 0.996 |
+| PRPF19 | **DHX8** | 0.998 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BUD31** | 0.999 |
+| PRPF19 | **SNRNP200** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **CRNKL1** | 0.999 |
+| PRPF19 | **PRPF8** | 0.999 |
+| PRPF19 | **CWC22** | 0.999 |
+| SYF2 | **SF3B2** | 0.778 |
+| SYF2 | **PRPF18** | 0.804 |
+| SYF2 | **FAM32A** | 0.977 |
+| SYF2 | **SLU7** | 0.995 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **SNRNP200** | 0.995 |
+| SYF2 | **DHX8** | 0.997 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **DHX38** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **BUD31** | 0.999 |
+| DHX8 | **SF3B2** | 0.576 |
+| DHX8 | **FAM32A** | 0.859 |
+| DHX8 | **DHX38** | 0.911 |
+| DHX8 | **PRPF18** | 0.976 |
+| DHX8 | **SNRNP200** | 0.977 |
+| DHX8 | **CWC22** | 0.996 |
+| DHX8 | **BUD31** | 0.997 |
+| DHX8 | **PRPF8** | 0.997 |
+| DHX8 | **CDC5L** | 0.999 |
+| DHX8 | **PRPF3** | 0.999 |
+| DHX8 | **CRNKL1** | 0.999 |
+| DHX8 | **CDC40** | 0.999 |
+| DHX8 | **SLU7** | 0.999 |
+| FAM32A | **DHX38** | 0.61 |
+| FAM32A | **SNRNP200** | 0.805 |
+| FAM32A | **BUD31** | 0.82 |
+| FAM32A | **CDC5L** | 0.839 |
+| FAM32A | **CRNKL1** | 0.858 |
+| FAM32A | **PRPF8** | 0.9 |
+| FAM32A | **CDC40** | 0.972 |
+| FAM32A | **SLU7** | 0.992 |
+| FAM32A | **CWC22** | 0.998 |
+| DHX38 | **SF3B2** | 0.771 |
+| DHX38 | **PRPF3** | 0.781 |
+| DHX38 | **CRNKL1** | 0.994 |
+| DHX38 | **BUD31** | 0.995 |
+| DHX38 | **PRPF18** | 0.997 |
+| DHX38 | **CDC5L** | 0.997 |
+| DHX38 | **SLU7** | 0.998 |
+| DHX38 | **CWC22** | 0.998 |
+| DHX38 | **PRPF8** | 0.998 |
+| DHX38 | **CDC40** | 0.999 |
+| DHX38 | **SNRNP200** | 0.999 |
+| SLU7 | **BUD31** | 0.996 |
+| SLU7 | **SF3B2** | 0.997 |
+| SLU7 | **CDC5L** | 0.997 |
+| SLU7 | **PRPF3** | 0.997 |
+| SLU7 | **CRNKL1** | 0.997 |
+| SLU7 | **SNRNP200** | 0.998 |
+| SLU7 | **PRPF8** | 0.999 |
+| SLU7 | **CWC22** | 0.999 |
+| SLU7 | **PRPF18** | 0.999 |
+| SLU7 | **CDC40** | 0.999 |
+| PRPF3 | **CDC40** | 0.537 |
+| PRPF3 | **CDC5L** | 0.786 |
+| PRPF3 | **PRPF18** | 0.846 |
+| PRPF3 | **CWC22** | 0.932 |
+| PRPF3 | **SF3B2** | 0.999 |
+| PRPF3 | **SNRNP200** | 0.999 |
+| PRPF3 | **PRPF8** | 0.999 |
+| SNRNP200 | **PRPF18** | 0.977 |
+| SNRNP200 | **BUD31** | 0.995 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **CRNKL1** | 0.997 |
+| SNRNP200 | **CDC5L** | 0.998 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **CWC22** | 0.999 |
+| SNRNP200 | **SF3B2** | 0.999 |
+| SF3B2 | **CDC40** | 0.968 |
+| SF3B2 | **CRNKL1** | 0.986 |
+| SF3B2 | **BUD31** | 0.994 |
+| SF3B2 | **CWC22** | 0.995 |
+| SF3B2 | **CDC5L** | 0.997 |
+| SF3B2 | **PRPF8** | 0.999 |
+| CDC40 | **PRPF18** | 0.996 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF18** | 0.944 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| CRNKL1 | **PRPF18** | 0.738 |
+| CRNKL1 | **BUD31** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **CWC22** | 0.999 |
+| PRPF18 | **CWC22** | 0.871 |
+| PRPF18 | **BUD31** | 0.912 |
+| PRPF18 | **PRPF8** | 0.961 |
+| BUD31 | **CWC22** | 0.999 |
+| BUD31 | **PRPF8** | 0.999 |
+| CWC22 | **PRPF8** | 0.999 |
+

@@ -6,14 +6,15 @@
 
 import os
 import requests
+from pathlib import Path
 import json
 import time
 
 # 1. CONFIGURATION DES CHEMINS DE SORTIE
 
 # Dossier et fichiers ou seront sauvegardes les résultats
-out_txt = "string_results.md"
-json_dir = "string_json_output"
+out_txt = Path("/home/tmerenda/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/string_results")
+json_dir = Path("/home/tmerenda/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/string_json_output")
 
 # Cree le dossier pour les JSON s'il n'existe pas
 json_dir.mkdir(exist_ok=True, parents=True)
@@ -163,7 +164,7 @@ if raw_json:
                 f"### Complex/Term ID: {term}\n"
                 f"### Putative GO annotation: {loc_go}\n"
                 f"### Protein Count: {protein_count}\n"
-                "\n"+"| STRING IDs           | Preferred Names \n"
+                "\n"+"| Organisme_ID | STRING IDs      | Preferred Names \n"
                 )
                 for i,recur_id in enumerate(string_ids):
                 
@@ -194,6 +195,6 @@ with open(out_txt, "w", encoding="utf-8") as f_txt:
 
 # Messages de confirmation de fin de script
 print("\n--- TRAITEMENT TERMINÉ ---")
-print(f" Fichier texte généré : {out_txt}")
+print(f" Fichier texte généré : {out_txt}.md")
 print(f" Fichier JSON brut sauvegardé dans : {json_dir}")
 print(f"Statistiques globales enregistrées pour l'organisme : {org_name}")

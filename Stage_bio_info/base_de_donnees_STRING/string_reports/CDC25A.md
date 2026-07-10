@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CDC25A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CDC25A
+Identifiant STRING officiel : `9606.ENSP00000303706`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCND1 | **CHEK1** | 0.593 |
+| CCND1 | **CHEK2** | 0.601 |
+| CCND1 | **CDC25C** | 0.638 |
+| CCND1 | **WEE1** | 0.643 |
+| CCND1 | **BTRC** | 0.654 |
+| CCND1 | **CCNE2** | 0.667 |
+| CCND1 | **CCNB2** | 0.678 |
+| CCND1 | **PLK1** | 0.727 |
+| CCND1 | **CCNB1** | 0.797 |
+| CCND1 | **CCNE1** | 0.841 |
+| CCND1 | **CDC25A** | 0.97 |
+| CCND1 | **CDK1** | 0.998 |
+| CCND1 | **CDK2** | 0.999 |
+| CCND1 | **CDK4** | 0.999 |
+| CCND1 | **CDK6** | 0.999 |
+| CCNB1 | **BTRC** | 0.638 |
+| CCNB1 | **CCNE1** | 0.746 |
+| CCNB1 | **CCNE2** | 0.755 |
+| CCNB1 | **CHEK2** | 0.817 |
+| CCNB1 | **CDK6** | 0.927 |
+| CCNB1 | **CHEK1** | 0.935 |
+| CCNB1 | **CDK4** | 0.94 |
+| CCNB1 | **WEE1** | 0.99 |
+| CCNB1 | **CDC25C** | 0.991 |
+| CCNB1 | **CDC25A** | 0.995 |
+| CCNB1 | **CCNB2** | 0.998 |
+| CCNB1 | **PLK1** | 0.999 |
+| CCNB1 | **CDK2** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| CDK4 | **WEE1** | 0.586 |
+| CDK4 | **CHEK2** | 0.644 |
+| CDK4 | **CHEK1** | 0.688 |
+| CDK4 | **CCNB2** | 0.782 |
+| CDK4 | **PLK1** | 0.789 |
+| CDK4 | **CDC25C** | 0.83 |
+| CDK4 | **CDC25A** | 0.979 |
+| CDK4 | **CCNE2** | 0.988 |
+| CDK4 | **CDK2** | 0.998 |
+| CDK4 | **CDK6** | 0.999 |
+| CDK4 | **CCNE1** | 0.999 |
+| CCNE1 | **PLK1** | 0.538 |
+| CCNE1 | **CHEK2** | 0.602 |
+| CCNE1 | **BTRC** | 0.618 |
+| CCNE1 | **CHEK1** | 0.704 |
+| CCNE1 | **CDC25C** | 0.738 |
+| CCNE1 | **CCNB2** | 0.757 |
+| CCNE1 | **WEE1** | 0.817 |
+| CCNE1 | **CCNE2** | 0.956 |
+| CCNE1 | **CDK1** | 0.972 |
+| CCNE1 | **CDC25A** | 0.991 |
+| CCNE1 | **CDK6** | 0.999 |
+| CCNE1 | **CDK2** | 0.999 |
+| CDK6 | **PLK1** | 0.525 |
+| CDK6 | **CHEK2** | 0.526 |
+| CDK6 | **CDK1** | 0.579 |
+| CDK6 | **CHEK1** | 0.656 |
+| CDK6 | **CDC25C** | 0.687 |
+| CDK6 | **CCNB2** | 0.806 |
+| CDK6 | **WEE1** | 0.828 |
+| CDK6 | **CCNE2** | 0.959 |
+| CDK6 | **CDC25A** | 0.986 |
+| CDK6 | **CDK2** | 0.998 |
+| CDK2 | **CHEK2** | 0.589 |
+| CDK2 | **PLK1** | 0.742 |
+| CDK2 | **CHEK1** | 0.869 |
+| CDK2 | **WEE1** | 0.987 |
+| CDK2 | **CDK1** | 0.994 |
+| CDK2 | **CDC25C** | 0.994 |
+| CDK2 | **CDC25A** | 0.998 |
+| CDK2 | **CCNE2** | 0.999 |
+| CDK2 | **CCNB2** | 0.999 |
+| CCNB2 | **CHEK2** | 0.633 |
+| CCNB2 | **WEE1** | 0.82 |
+| CCNB2 | **CHEK1** | 0.833 |
+| CCNB2 | **CCNE2** | 0.899 |
+| CCNB2 | **CDC25A** | 0.973 |
+| CCNB2 | **CDC25C** | 0.993 |
+| CCNB2 | **PLK1** | 0.995 |
+| CCNB2 | **CDK1** | 0.999 |
+| PLK1 | **CCNE2** | 0.495 |
+| PLK1 | **CHEK1** | 0.535 |
+| PLK1 | **CHEK2** | 0.9 |
+| PLK1 | **BTRC** | 0.952 |
+| PLK1 | **CDC25A** | 0.975 |
+| PLK1 | **WEE1** | 0.992 |
+| PLK1 | **CDK1** | 0.993 |
+| PLK1 | **CDC25C** | 0.999 |
+| CDC25A | **WEE1** | 0.956 |
+| CDC25A | **CDC25C** | 0.961 |
+| CDC25A | **BTRC** | 0.969 |
+| CDC25A | **CCNE2** | 0.984 |
+| CDC25A | **CDK1** | 0.993 |
+| CDC25A | **CHEK2** | 0.998 |
+| CDC25A | **CHEK1** | 0.999 |
+| CDC25C | **CCNE2** | 0.675 |
+| CDC25C | **WEE1** | 0.946 |
+| CDC25C | **CHEK2** | 0.998 |
+| CDC25C | **CHEK1** | 0.999 |
+| CDC25C | **CDK1** | 0.999 |
+| BTRC | **CHEK1** | 0.573 |
+| BTRC | **CDK1** | 0.594 |
+| BTRC | **WEE1** | 0.894 |
+| CHEK2 | **CCNE2** | 0.499 |
+| CHEK2 | **CDK1** | 0.679 |
+| CHEK2 | **WEE1** | 0.883 |
+| CHEK2 | **CHEK1** | 0.971 |
+| CDK1 | **CHEK1** | 0.911 |
+| CDK1 | **CCNE2** | 0.933 |
+| CDK1 | **WEE1** | 0.998 |
+| CHEK1 | **CCNE2** | 0.747 |
+| CHEK1 | **WEE1** | 0.992 |
+| WEE1 | **CCNE2** | 0.692 |
+

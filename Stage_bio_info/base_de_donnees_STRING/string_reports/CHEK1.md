@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CHEK1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHEK1
+Identifiant STRING officiel : `9606.ENSP00000391090`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDC25B | **ATR** | 0.462 |
+| CDC25B | **ATM** | 0.475 |
+| CDC25B | **RAD17** | 0.51 |
+| CDC25B | **TP53** | 0.516 |
+| CDC25B | **CDC45** | 0.715 |
+| CDC25B | **WEE1** | 0.9 |
+| CDC25B | **CDC25C** | 0.922 |
+| CDC25B | **CDC25A** | 0.938 |
+| CDC25B | **CHEK1** | 0.984 |
+| TOPBP1 | **CDC25C** | 0.468 |
+| TOPBP1 | **WEE1** | 0.479 |
+| TOPBP1 | **CDC25A** | 0.564 |
+| TOPBP1 | **TIMELESS** | 0.846 |
+| TOPBP1 | **RAD51** | 0.893 |
+| TOPBP1 | **TP53** | 0.949 |
+| TOPBP1 | **ATM** | 0.954 |
+| TOPBP1 | **RAD17** | 0.977 |
+| TOPBP1 | **CHEK1** | 0.989 |
+| TOPBP1 | **CLSPN** | 0.995 |
+| TOPBP1 | **ATR** | 0.996 |
+| TOPBP1 | **TP53BP1** | 0.999 |
+| TOPBP1 | **CDC45** | 0.999 |
+| TOPBP1 | **BRCA1** | 0.999 |
+| TP53 | **CLSPN** | 0.495 |
+| TP53 | **WEE1** | 0.753 |
+| TP53 | **RAD17** | 0.807 |
+| TP53 | **CDC25A** | 0.861 |
+| TP53 | **CDC25C** | 0.894 |
+| TP53 | **ATR** | 0.996 |
+| TP53 | **CHEK1** | 0.997 |
+| TP53 | **ATM** | 0.999 |
+| TP53 | **BRCA1** | 0.999 |
+| TP53 | **TP53BP1** | 0.999 |
+| TP53 | **RAD51** | 0.999 |
+| ATM | **CDC45** | 0.758 |
+| ATM | **WEE1** | 0.766 |
+| ATM | **CDC25C** | 0.813 |
+| ATM | **TIMELESS** | 0.817 |
+| ATM | **CDC25A** | 0.861 |
+| ATM | **CLSPN** | 0.888 |
+| ATM | **RAD17** | 0.983 |
+| ATM | **RAD51** | 0.995 |
+| ATM | **CHEK1** | 0.998 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **ATR** | 0.999 |
+| ATM | **TP53BP1** | 0.999 |
+| CDC25A | **RAD17** | 0.623 |
+| CDC25A | **RAD51** | 0.635 |
+| CDC25A | **TP53BP1** | 0.682 |
+| CDC25A | **CLSPN** | 0.818 |
+| CDC25A | **ATR** | 0.86 |
+| CDC25A | **BRCA1** | 0.929 |
+| CDC25A | **CDC45** | 0.949 |
+| CDC25A | **WEE1** | 0.956 |
+| CDC25A | **CDC25C** | 0.961 |
+| CDC25A | **CHEK1** | 0.999 |
+| CLSPN | **TP53BP1** | 0.591 |
+| CLSPN | **WEE1** | 0.63 |
+| CLSPN | **RAD51** | 0.638 |
+| CLSPN | **CDC25C** | 0.709 |
+| CLSPN | **BRCA1** | 0.898 |
+| CLSPN | **ATR** | 0.935 |
+| CLSPN | **RAD17** | 0.949 |
+| CLSPN | **CDC45** | 0.995 |
+| CLSPN | **CHEK1** | 0.999 |
+| CLSPN | **TIMELESS** | 0.999 |
+| CDC25C | **TP53BP1** | 0.448 |
+| CDC25C | **RAD17** | 0.583 |
+| CDC25C | **RAD51** | 0.59 |
+| CDC25C | **BRCA1** | 0.735 |
+| CDC25C | **ATR** | 0.798 |
+| CDC25C | **CDC45** | 0.856 |
+| CDC25C | **WEE1** | 0.946 |
+| CDC25C | **CHEK1** | 0.999 |
+| ATR | **WEE1** | 0.749 |
+| ATR | **TIMELESS** | 0.879 |
+| ATR | **CDC45** | 0.914 |
+| ATR | **RAD51** | 0.942 |
+| ATR | **TP53BP1** | 0.975 |
+| ATR | **RAD17** | 0.988 |
+| ATR | **BRCA1** | 0.996 |
+| ATR | **CHEK1** | 0.999 |
+| TP53BP1 | **WEE1** | 0.538 |
+| TP53BP1 | **CDC45** | 0.673 |
+| TP53BP1 | **TIMELESS** | 0.884 |
+| TP53BP1 | **RAD17** | 0.926 |
+| TP53BP1 | **RAD51** | 0.94 |
+| TP53BP1 | **CHEK1** | 0.992 |
+| TP53BP1 | **BRCA1** | 0.999 |
+| CHEK1 | **RAD17** | 0.982 |
+| CHEK1 | **WEE1** | 0.992 |
+| CHEK1 | **TIMELESS** | 0.993 |
+| CHEK1 | **CDC45** | 0.994 |
+| CHEK1 | **BRCA1** | 0.996 |
+| CHEK1 | **RAD51** | 0.998 |
+| WEE1 | **CDC45** | 0.54 |
+| WEE1 | **TIMELESS** | 0.541 |
+| WEE1 | **RAD17** | 0.589 |
+| WEE1 | **RAD51** | 0.605 |
+| WEE1 | **BRCA1** | 0.698 |
+| CDC45 | **RAD17** | 0.778 |
+| CDC45 | **BRCA1** | 0.796 |
+| CDC45 | **RAD51** | 0.927 |
+| CDC45 | **TIMELESS** | 0.997 |
+| BRCA1 | **TIMELESS** | 0.584 |
+| BRCA1 | **RAD17** | 0.887 |
+| BRCA1 | **RAD51** | 0.999 |
+| RAD17 | **TIMELESS** | 0.706 |
+| RAD17 | **RAD51** | 0.884 |
+| TIMELESS | **RAD51** | 0.697 |
+

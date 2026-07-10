@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NDC80
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NDC80
+Identifiant STRING officiel : `9606.ENSP00000261597`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCNB1 | **MIS12** | 0.48 |
+| CCNB1 | **SPC24** | 0.717 |
+| CCNB1 | **DSN1** | 0.745 |
+| CCNB1 | **CKAP5** | 0.78 |
+| CCNB1 | **KNL1** | 0.789 |
+| CCNB1 | **SPC25** | 0.903 |
+| CCNB1 | **NEK2** | 0.91 |
+| CCNB1 | **TTK** | 0.936 |
+| CCNB1 | **ZWINT** | 0.95 |
+| CCNB1 | **NUF2** | 0.967 |
+| CCNB1 | **CENPE** | 0.967 |
+| CCNB1 | **NDC80** | 0.981 |
+| CCNB1 | **CENPF** | 0.988 |
+| CCNB1 | **BUB1** | 0.992 |
+| CCNB1 | **BUB1B** | 0.998 |
+| NDC80 | **CENPE** | 0.979 |
+| NDC80 | **NEK2** | 0.985 |
+| NDC80 | **DSN1** | 0.987 |
+| NDC80 | **CENPF** | 0.987 |
+| NDC80 | **MIS12** | 0.991 |
+| NDC80 | **ZWINT** | 0.991 |
+| NDC80 | **TTK** | 0.992 |
+| NDC80 | **BUB1B** | 0.992 |
+| NDC80 | **CKAP5** | 0.994 |
+| NDC80 | **KNL1** | 0.995 |
+| NDC80 | **BUB1** | 0.998 |
+| NDC80 | **SPC24** | 0.999 |
+| NDC80 | **NUF2** | 0.999 |
+| NDC80 | **SPC25** | 0.999 |
+| CENPE | **DSN1** | 0.642 |
+| CENPE | **SPC25** | 0.662 |
+| CENPE | **SPC24** | 0.705 |
+| CENPE | **CKAP5** | 0.788 |
+| CENPE | **NEK2** | 0.834 |
+| CENPE | **ZWINT** | 0.878 |
+| CENPE | **KNL1** | 0.9 |
+| CENPE | **TTK** | 0.968 |
+| CENPE | **BUB1** | 0.991 |
+| CENPE | **NUF2** | 0.996 |
+| CENPE | **BUB1B** | 0.999 |
+| CENPE | **CENPF** | 0.999 |
+| NUF2 | **CKAP5** | 0.947 |
+| NUF2 | **NEK2** | 0.952 |
+| NUF2 | **CENPF** | 0.952 |
+| NUF2 | **BUB1B** | 0.98 |
+| NUF2 | **MIS12** | 0.986 |
+| NUF2 | **TTK** | 0.989 |
+| NUF2 | **ZWINT** | 0.991 |
+| NUF2 | **DSN1** | 0.991 |
+| NUF2 | **KNL1** | 0.992 |
+| NUF2 | **BUB1** | 0.994 |
+| NUF2 | **SPC25** | 0.999 |
+| NUF2 | **SPC24** | 0.999 |
+| SPC25 | **NEK2** | 0.642 |
+| SPC25 | **CENPF** | 0.734 |
+| SPC25 | **TTK** | 0.878 |
+| SPC25 | **BUB1B** | 0.93 |
+| SPC25 | **KNL1** | 0.958 |
+| SPC25 | **DSN1** | 0.963 |
+| SPC25 | **BUB1** | 0.967 |
+| SPC25 | **MIS12** | 0.971 |
+| SPC25 | **ZWINT** | 0.984 |
+| SPC25 | **SPC24** | 0.999 |
+| BUB1B | **SPC24** | 0.79 |
+| BUB1B | **CKAP5** | 0.823 |
+| BUB1B | **DSN1** | 0.903 |
+| BUB1B | **MIS12** | 0.933 |
+| BUB1B | **TTK** | 0.991 |
+| BUB1B | **ZWINT** | 0.996 |
+| BUB1B | **NEK2** | 0.999 |
+| BUB1B | **BUB1** | 0.999 |
+| BUB1B | **CENPF** | 0.999 |
+| BUB1B | **KNL1** | 0.999 |
+| BUB1 | **CKAP5** | 0.766 |
+| BUB1 | **MIS12** | 0.918 |
+| BUB1 | **SPC24** | 0.926 |
+| BUB1 | **NEK2** | 0.932 |
+| BUB1 | **DSN1** | 0.944 |
+| BUB1 | **CENPF** | 0.987 |
+| BUB1 | **ZWINT** | 0.991 |
+| BUB1 | **TTK** | 0.999 |
+| BUB1 | **KNL1** | 0.999 |
+| KNL1 | **NEK2** | 0.556 |
+| KNL1 | **TTK** | 0.774 |
+| KNL1 | **CENPF** | 0.784 |
+| KNL1 | **SPC24** | 0.992 |
+| KNL1 | **DSN1** | 0.996 |
+| KNL1 | **MIS12** | 0.998 |
+| KNL1 | **ZWINT** | 0.999 |
+| CENPF | **DSN1** | 0.537 |
+| CENPF | **CKAP5** | 0.586 |
+| CENPF | **SPC24** | 0.59 |
+| CENPF | **ZWINT** | 0.953 |
+| CENPF | **TTK** | 0.967 |
+| CENPF | **NEK2** | 0.97 |
+| NEK2 | **CKAP5** | 0.486 |
+| NEK2 | **SPC24** | 0.583 |
+| NEK2 | **ZWINT** | 0.785 |
+| NEK2 | **TTK** | 0.845 |
+| TTK | **CKAP5** | 0.489 |
+| TTK | **SPC24** | 0.686 |
+| TTK | **ZWINT** | 0.766 |
+| ZWINT | **SPC24** | 0.985 |
+| ZWINT | **MIS12** | 0.989 |
+| ZWINT | **DSN1** | 0.998 |
+| MIS12 | **SPC24** | 0.993 |
+| MIS12 | **DSN1** | 0.999 |
+| DSN1 | **SPC24** | 0.993 |
+

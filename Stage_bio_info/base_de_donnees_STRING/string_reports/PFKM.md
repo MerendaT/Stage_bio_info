@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PFKM
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PFKM
+Identifiant STRING officiel : `9606.ENSP00000496597`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TIGAR | **TALDO1** | 0.479 |
+| TIGAR | **GPI** | 0.705 |
+| TIGAR | **HK1** | 0.803 |
+| TIGAR | **FBP1** | 0.945 |
+| TIGAR | **PFKL** | 0.957 |
+| TIGAR | **PFKP** | 0.958 |
+| TIGAR | **FBP2** | 0.959 |
+| TIGAR | **PFKFB1** | 0.964 |
+| TIGAR | **PFKFB4** | 0.968 |
+| TIGAR | **PFKFB2** | 0.969 |
+| TIGAR | **PFKFB3** | 0.972 |
+| TIGAR | **HK2** | 0.975 |
+| TIGAR | **PFKM** | 0.979 |
+| PFKFB4 | **ALDOA** | 0.539 |
+| PFKFB4 | **PFKFB1** | 0.732 |
+| PFKFB4 | **GPI** | 0.745 |
+| PFKFB4 | **HK1** | 0.76 |
+| PFKFB4 | **PFKFB2** | 0.803 |
+| PFKFB4 | **HK2** | 0.866 |
+| PFKFB4 | **PFKFB3** | 0.906 |
+| PFKFB4 | **FBP1** | 0.965 |
+| PFKFB4 | **PFKL** | 0.966 |
+| PFKFB4 | **PFKP** | 0.969 |
+| PFKFB4 | **FBP2** | 0.973 |
+| PFKFB4 | **PFKM** | 0.979 |
+| PFKL | **PFKFB2** | 0.963 |
+| PFKL | **PFKFB1** | 0.965 |
+| PFKL | **HK2** | 0.965 |
+| PFKL | **PFKFB3** | 0.972 |
+| PFKL | **HK1** | 0.977 |
+| PFKL | **FBP2** | 0.977 |
+| PFKL | **FBP1** | 0.979 |
+| PFKL | **TALDO1** | 0.984 |
+| PFKL | **ALDOB** | 0.986 |
+| PFKL | **PFKP** | 0.991 |
+| PFKL | **ALDOA** | 0.992 |
+| PFKL | **PFKM** | 0.994 |
+| PFKL | **GPI** | 0.996 |
+| HK2 | **PFKFB1** | 0.832 |
+| HK2 | **PFKFB2** | 0.855 |
+| HK2 | **ALDOB** | 0.875 |
+| HK2 | **TALDO1** | 0.887 |
+| HK2 | **PFKFB3** | 0.909 |
+| HK2 | **ALDOA** | 0.921 |
+| HK2 | **FBP2** | 0.937 |
+| HK2 | **FBP1** | 0.959 |
+| HK2 | **PFKP** | 0.965 |
+| HK2 | **PFKM** | 0.977 |
+| HK2 | **HK1** | 0.979 |
+| HK2 | **GPI** | 0.986 |
+| TALDO1 | **PFKFB3** | 0.517 |
+| TALDO1 | **HK1** | 0.88 |
+| TALDO1 | **ALDOB** | 0.955 |
+| TALDO1 | **ALDOA** | 0.972 |
+| TALDO1 | **PFKP** | 0.984 |
+| TALDO1 | **PFKM** | 0.988 |
+| TALDO1 | **FBP2** | 0.989 |
+| TALDO1 | **FBP1** | 0.992 |
+| TALDO1 | **GPI** | 0.995 |
+| PFKFB2 | **ALDOA** | 0.483 |
+| PFKFB2 | **GPI** | 0.732 |
+| PFKFB2 | **HK1** | 0.773 |
+| PFKFB2 | **PFKFB1** | 0.903 |
+| PFKFB2 | **PFKP** | 0.961 |
+| PFKFB2 | **FBP1** | 0.964 |
+| PFKFB2 | **PFKFB3** | 0.98 |
+| PFKFB2 | **FBP2** | 0.98 |
+| PFKFB2 | **PFKM** | 0.981 |
+| PFKFB1 | **ALDOB** | 0.432 |
+| PFKFB1 | **ALDOA** | 0.436 |
+| PFKFB1 | **GPI** | 0.72 |
+| PFKFB1 | **HK1** | 0.765 |
+| PFKFB1 | **PFKFB3** | 0.923 |
+| PFKFB1 | **PFKP** | 0.962 |
+| PFKFB1 | **FBP1** | 0.966 |
+| PFKFB1 | **FBP2** | 0.975 |
+| PFKFB1 | **PFKM** | 0.981 |
+| FBP2 | **HK1** | 0.932 |
+| FBP2 | **ALDOA** | 0.97 |
+| FBP2 | **ALDOB** | 0.976 |
+| FBP2 | **PFKP** | 0.977 |
+| FBP2 | **PFKFB3** | 0.979 |
+| FBP2 | **PFKM** | 0.983 |
+| FBP2 | **FBP1** | 0.983 |
+| FBP2 | **GPI** | 0.992 |
+| PFKP | **PFKFB3** | 0.973 |
+| PFKP | **FBP1** | 0.98 |
+| PFKP | **ALDOB** | 0.982 |
+| PFKP | **ALDOA** | 0.988 |
+| PFKP | **PFKM** | 0.991 |
+| PFKP | **HK1** | 0.995 |
+| PFKP | **GPI** | 0.996 |
+| GPI | **PFKFB3** | 0.765 |
+| GPI | **ALDOB** | 0.97 |
+| GPI | **HK1** | 0.985 |
+| GPI | **ALDOA** | 0.987 |
+| GPI | **FBP1** | 0.992 |
+| GPI | **PFKM** | 0.997 |
+| FBP1 | **HK1** | 0.95 |
+| FBP1 | **PFKFB3** | 0.967 |
+| FBP1 | **ALDOA** | 0.977 |
+| FBP1 | **ALDOB** | 0.982 |
+| FBP1 | **PFKM** | 0.983 |
+| PFKFB3 | **ALDOA** | 0.61 |
+| PFKFB3 | **HK1** | 0.828 |
+| PFKFB3 | **PFKM** | 0.996 |
+| HK1 | **ALDOB** | 0.868 |
+| HK1 | **ALDOA** | 0.939 |
+| HK1 | **PFKM** | 0.99 |
+| ALDOA | **ALDOB** | 0.976 |
+| ALDOA | **PFKM** | 0.99 |
+| PFKM | **ALDOB** | 0.982 |
+

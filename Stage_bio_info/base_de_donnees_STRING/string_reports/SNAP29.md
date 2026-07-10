@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SNAP29
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SNAP29
+Identifiant STRING officiel : `9606.ENSP00000215730`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VAMP3 | **YKT6** | 0.852 |
+| VAMP3 | **STX17** | 0.952 |
+| VAMP3 | **STX7** | 0.981 |
+| VAMP3 | **SNAP29** | 0.985 |
+| VAMP3 | **VAMP8** | 0.988 |
+| VAMP3 | **STX12** | 0.992 |
+| VAMP3 | **VAMP2** | 0.995 |
+| VAMP3 | **VAMP7** | 0.998 |
+| VAMP3 | **STX16** | 0.998 |
+| VAMP3 | **SNAP23** | 0.999 |
+| VAMP3 | **STX6** | 0.999 |
+| VAMP3 | **STX1A** | 0.999 |
+| VAMP3 | **STX4** | 0.999 |
+| VAMP3 | **STX3** | 0.999 |
+| SNAP29 | **VAMP2** | 0.986 |
+| SNAP29 | **STX1A** | 0.987 |
+| SNAP29 | **STX16** | 0.988 |
+| SNAP29 | **YKT6** | 0.988 |
+| SNAP29 | **STX3** | 0.992 |
+| SNAP29 | **STX12** | 0.992 |
+| SNAP29 | **SNAP23** | 0.993 |
+| SNAP29 | **STX4** | 0.994 |
+| SNAP29 | **STX17** | 0.999 |
+| SNAP29 | **ATG14** | 0.999 |
+| SNAP29 | **VAMP7** | 0.999 |
+| SNAP29 | **VAMP8** | 0.999 |
+| SNAP29 | **STX7** | 0.999 |
+| SNAP29 | **STX6** | 0.999 |
+| STX1A | **STX3** | 0.582 |
+| STX1A | **STX7** | 0.743 |
+| STX1A | **YKT6** | 0.834 |
+| STX1A | **STX17** | 0.936 |
+| STX1A | **STX12** | 0.938 |
+| STX1A | **STX16** | 0.949 |
+| STX1A | **STX4** | 0.972 |
+| STX1A | **STX6** | 0.98 |
+| STX1A | **VAMP8** | 0.991 |
+| STX1A | **VAMP7** | 0.992 |
+| STX1A | **VAMP2** | 0.999 |
+| STX1A | **SNAP23** | 0.999 |
+| YKT6 | **VAMP2** | 0.825 |
+| YKT6 | **STX4** | 0.84 |
+| YKT6 | **SNAP23** | 0.859 |
+| YKT6 | **VAMP7** | 0.931 |
+| YKT6 | **STX3** | 0.934 |
+| YKT6 | **VAMP8** | 0.947 |
+| YKT6 | **STX12** | 0.965 |
+| YKT6 | **STX17** | 0.98 |
+| YKT6 | **STX6** | 0.984 |
+| YKT6 | **STX16** | 0.993 |
+| YKT6 | **STX7** | 0.999 |
+| ATG14 | **STX7** | 0.402 |
+| ATG14 | **VAMP7** | 0.455 |
+| ATG14 | **VAMP8** | 0.96 |
+| ATG14 | **STX17** | 0.999 |
+| SNAP23 | **STX16** | 0.962 |
+| SNAP23 | **STX17** | 0.966 |
+| SNAP23 | **STX7** | 0.992 |
+| SNAP23 | **STX12** | 0.996 |
+| SNAP23 | **STX6** | 0.998 |
+| SNAP23 | **VAMP8** | 0.999 |
+| SNAP23 | **STX4** | 0.999 |
+| SNAP23 | **VAMP7** | 0.999 |
+| SNAP23 | **VAMP2** | 0.999 |
+| SNAP23 | **STX3** | 0.999 |
+| STX6 | **STX17** | 0.972 |
+| STX6 | **STX3** | 0.991 |
+| STX6 | **STX7** | 0.997 |
+| STX6 | **VAMP7** | 0.997 |
+| STX6 | **VAMP2** | 0.997 |
+| STX6 | **STX4** | 0.998 |
+| STX6 | **STX12** | 0.999 |
+| STX6 | **VAMP8** | 0.999 |
+| STX6 | **STX16** | 0.999 |
+| STX17 | **STX3** | 0.883 |
+| STX17 | **STX7** | 0.888 |
+| STX17 | **VAMP2** | 0.943 |
+| STX17 | **STX4** | 0.948 |
+| STX17 | **STX12** | 0.957 |
+| STX17 | **STX16** | 0.964 |
+| STX17 | **VAMP7** | 0.999 |
+| STX17 | **VAMP8** | 0.999 |
+| VAMP7 | **STX16** | 0.983 |
+| VAMP7 | **STX3** | 0.992 |
+| VAMP7 | **VAMP2** | 0.995 |
+| VAMP7 | **STX12** | 0.996 |
+| VAMP7 | **VAMP8** | 0.999 |
+| VAMP7 | **STX4** | 0.999 |
+| VAMP7 | **STX7** | 0.999 |
+| VAMP8 | **VAMP2** | 0.966 |
+| VAMP8 | **STX16** | 0.971 |
+| VAMP8 | **STX12** | 0.998 |
+| VAMP8 | **STX7** | 0.999 |
+| VAMP8 | **STX4** | 0.999 |
+| VAMP8 | **STX3** | 0.999 |
+| STX4 | **STX7** | 0.943 |
+| STX4 | **STX3** | 0.96 |
+| STX4 | **STX16** | 0.978 |
+| STX4 | **STX12** | 0.985 |
+| STX4 | **VAMP2** | 0.999 |
+| STX3 | **STX12** | 0.704 |
+| STX3 | **STX16** | 0.739 |
+| STX3 | **STX7** | 0.943 |
+| STX3 | **VAMP2** | 0.999 |
+| STX7 | **STX16** | 0.872 |
+| STX7 | **STX12** | 0.958 |
+| STX7 | **VAMP2** | 0.971 |
+| STX16 | **STX12** | 0.964 |
+| STX16 | **VAMP2** | 0.972 |
+| STX12 | **VAMP2** | 0.984 |
+

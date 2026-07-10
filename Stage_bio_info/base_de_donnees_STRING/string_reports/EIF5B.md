@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : EIF5B
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EIF5B
+Identifiant STRING officiel : `9606.ENSP00000289371`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EIF5 | **RPL9** | 0.507 |
+| EIF5 | **ATP5IF1** | 0.545 |
+| EIF5 | **RPS12** | 0.909 |
+| EIF5 | **RACK1** | 0.912 |
+| EIF5 | **RPS9** | 0.943 |
+| EIF5 | **RPS5** | 0.951 |
+| EIF5 | **RPS11** | 0.958 |
+| EIF5 | **RPS23** | 0.965 |
+| EIF5 | **RPS2** | 0.969 |
+| EIF5 | **EIF1AX** | 0.975 |
+| EIF5 | **RPS20** | 0.976 |
+| EIF5 | **RPS15** | 0.98 |
+| EIF5 | **FAU** | 0.985 |
+| EIF5 | **RPS3** | 0.988 |
+| EIF5 | **EIF5B** | 0.992 |
+| RPS12 | **ATP5IF1** | 0.547 |
+| RPS12 | **EIF1AX** | 0.971 |
+| RPS12 | **EIF5B** | 0.995 |
+| RPS12 | **RPS11** | 0.999 |
+| RPS12 | **RPS23** | 0.999 |
+| RPS12 | **RPS9** | 0.999 |
+| RPS12 | **FAU** | 0.999 |
+| RPS12 | **RPS3** | 0.999 |
+| RPS12 | **RPL9** | 0.999 |
+| RPS12 | **RACK1** | 0.999 |
+| RPS12 | **RPS5** | 0.999 |
+| RPS12 | **RPS20** | 0.999 |
+| RPS12 | **RPS15** | 0.999 |
+| RPS12 | **RPS2** | 0.999 |
+| RPS11 | **ATP5IF1** | 0.489 |
+| RPS11 | **EIF5B** | 0.992 |
+| RPS11 | **EIF1AX** | 0.996 |
+| RPS11 | **RPL9** | 0.999 |
+| RPS11 | **RACK1** | 0.999 |
+| RPS11 | **RPS5** | 0.999 |
+| RPS11 | **RPS15** | 0.999 |
+| RPS11 | **RPS2** | 0.999 |
+| RPS11 | **RPS20** | 0.999 |
+| RPS11 | **RPS9** | 0.999 |
+| RPS11 | **RPS23** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS11 | **FAU** | 0.999 |
+| RPS3 | **ATP5IF1** | 0.569 |
+| RPS3 | **EIF1AX** | 0.996 |
+| RPS3 | **EIF5B** | 0.998 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPS15** | 0.999 |
+| RPS3 | **RPS20** | 0.999 |
+| RPS3 | **RPS5** | 0.999 |
+| RPS3 | **RACK1** | 0.999 |
+| RPS3 | **RPL9** | 0.999 |
+| RPS3 | **FAU** | 0.999 |
+| RPS3 | **RPS23** | 0.999 |
+| RPS3 | **RPS9** | 0.999 |
+| EIF5B | **RPS5** | 0.99 |
+| EIF5B | **RPS20** | 0.99 |
+| EIF5B | **RPL9** | 0.991 |
+| EIF5B | **EIF1AX** | 0.991 |
+| EIF5B | **RACK1** | 0.992 |
+| EIF5B | **RPS2** | 0.993 |
+| EIF5B | **RPS9** | 0.993 |
+| EIF5B | **RPS23** | 0.993 |
+| EIF5B | **FAU** | 0.993 |
+| EIF5B | **RPS15** | 0.997 |
+| EIF5B | **ATP5IF1** | 0.998 |
+| RPS23 | **ATP5IF1** | 0.411 |
+| RPS23 | **EIF1AX** | 0.996 |
+| RPS23 | **RACK1** | 0.999 |
+| RPS23 | **RPL9** | 0.999 |
+| RPS23 | **RPS20** | 0.999 |
+| RPS23 | **RPS15** | 0.999 |
+| RPS23 | **RPS2** | 0.999 |
+| RPS23 | **RPS5** | 0.999 |
+| RPS23 | **FAU** | 0.999 |
+| RPS23 | **RPS9** | 0.999 |
+| ATP5IF1 | **RPS15** | 0.518 |
+| ATP5IF1 | **RPS2** | 0.565 |
+| RPS2 | **EIF1AX** | 0.992 |
+| RPS2 | **FAU** | 0.999 |
+| RPS2 | **RPS9** | 0.999 |
+| RPS2 | **RACK1** | 0.999 |
+| RPS2 | **RPL9** | 0.999 |
+| RPS2 | **RPS15** | 0.999 |
+| RPS2 | **RPS20** | 0.999 |
+| RPS2 | **RPS5** | 0.999 |
+| EIF1AX | **RPL9** | 0.887 |
+| EIF1AX | **RACK1** | 0.965 |
+| EIF1AX | **RPS5** | 0.989 |
+| EIF1AX | **RPS9** | 0.991 |
+| EIF1AX | **RPS20** | 0.994 |
+| EIF1AX | **FAU** | 0.997 |
+| EIF1AX | **RPS15** | 0.998 |
+| RPS9 | **RPS20** | 0.999 |
+| RPS9 | **RPS15** | 0.999 |
+| RPS9 | **RPS5** | 0.999 |
+| RPS9 | **RACK1** | 0.999 |
+| RPS9 | **RPL9** | 0.999 |
+| RPS9 | **FAU** | 0.999 |
+| RACK1 | **FAU** | 0.999 |
+| RACK1 | **RPS5** | 0.999 |
+| RACK1 | **RPS15** | 0.999 |
+| RACK1 | **RPS20** | 0.999 |
+| RACK1 | **RPL9** | 0.999 |
+| RPS20 | **RPS5** | 0.999 |
+| RPS20 | **RPS15** | 0.999 |
+| RPS20 | **RPL9** | 0.999 |
+| RPS20 | **FAU** | 0.999 |
+| FAU | **RPS15** | 0.999 |
+| FAU | **RPS5** | 0.999 |
+| FAU | **RPL9** | 0.999 |
+| RPS15 | **RPS5** | 0.999 |
+| RPS15 | **RPL9** | 0.999 |
+| RPS5 | **RPL9** | 0.999 |
+

@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CERS1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CERS1
+Identifiant STRING officiel : `9606.ENSP00000485582`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CERK | **TLCD3B** | 0.625 |
+| CERK | **CERS1** | 0.668 |
+| CERK | **KDSR** | 0.746 |
+| CERK | **SPTLC3** | 0.792 |
+| CERK | **SPTLC2** | 0.792 |
+| CERK | **SPTLC1** | 0.82 |
+| CERK | **CERS3** | 0.957 |
+| CERK | **DEGS1** | 0.959 |
+| CERK | **CERS5** | 0.962 |
+| CERK | **CERS4** | 0.965 |
+| CERK | **CERS2** | 0.967 |
+| CERK | **CERS6** | 0.969 |
+| CERK | **UGCG** | 0.977 |
+| CERK | **ASAH1** | 0.979 |
+| SPTLC2 | **CERS3** | 0.677 |
+| SPTLC2 | **CERS5** | 0.742 |
+| SPTLC2 | **CERS4** | 0.754 |
+| SPTLC2 | **ASAH1** | 0.761 |
+| SPTLC2 | **CERS2** | 0.763 |
+| SPTLC2 | **CERS1** | 0.772 |
+| SPTLC2 | **CERS6** | 0.804 |
+| SPTLC2 | **DEGS1** | 0.817 |
+| SPTLC2 | **UGCG** | 0.826 |
+| SPTLC2 | **TLCD3B** | 0.872 |
+| SPTLC2 | **SPTLC3** | 0.942 |
+| SPTLC2 | **KDSR** | 0.99 |
+| SPTLC2 | **SPTLC1** | 0.999 |
+| CERS4 | **TLCD3B** | 0.64 |
+| CERS4 | **SPTLC1** | 0.784 |
+| CERS4 | **SPTLC3** | 0.843 |
+| CERS4 | **CERS3** | 0.911 |
+| CERS4 | **CERS1** | 0.924 |
+| CERS4 | **CERS6** | 0.928 |
+| CERS4 | **CERS5** | 0.935 |
+| CERS4 | **CERS2** | 0.94 |
+| CERS4 | **ASAH1** | 0.964 |
+| CERS4 | **UGCG** | 0.964 |
+| CERS4 | **KDSR** | 0.965 |
+| CERS4 | **DEGS1** | 0.97 |
+| SPTLC1 | **CERS3** | 0.711 |
+| SPTLC1 | **CERS1** | 0.773 |
+| SPTLC1 | **CERS2** | 0.79 |
+| SPTLC1 | **CERS5** | 0.791 |
+| SPTLC1 | **ASAH1** | 0.814 |
+| SPTLC1 | **DEGS1** | 0.83 |
+| SPTLC1 | **CERS6** | 0.834 |
+| SPTLC1 | **UGCG** | 0.85 |
+| SPTLC1 | **TLCD3B** | 0.85 |
+| SPTLC1 | **KDSR** | 0.996 |
+| SPTLC1 | **SPTLC3** | 0.998 |
+| CERS2 | **CLN8** | 0.431 |
+| CERS2 | **TLCD3B** | 0.729 |
+| CERS2 | **SPTLC3** | 0.756 |
+| CERS2 | **CERS3** | 0.906 |
+| CERS2 | **CERS5** | 0.94 |
+| CERS2 | **CERS6** | 0.946 |
+| CERS2 | **UGCG** | 0.97 |
+| CERS2 | **CERS1** | 0.972 |
+| CERS2 | **KDSR** | 0.974 |
+| CERS2 | **DEGS1** | 0.974 |
+| CERS2 | **ASAH1** | 0.975 |
+| CERS3 | **TLCD3B** | 0.592 |
+| CERS3 | **SPTLC3** | 0.674 |
+| CERS3 | **CERS1** | 0.825 |
+| CERS3 | **CERS5** | 0.927 |
+| CERS3 | **CERS6** | 0.927 |
+| CERS3 | **ASAH1** | 0.96 |
+| CERS3 | **UGCG** | 0.964 |
+| CERS3 | **DEGS1** | 0.965 |
+| CERS3 | **KDSR** | 0.969 |
+| DEGS1 | **TLCD3B** | 0.553 |
+| DEGS1 | **CERS1** | 0.73 |
+| DEGS1 | **SPTLC3** | 0.816 |
+| DEGS1 | **ASAH1** | 0.959 |
+| DEGS1 | **CERS5** | 0.971 |
+| DEGS1 | **UGCG** | 0.972 |
+| DEGS1 | **KDSR** | 0.974 |
+| DEGS1 | **CERS6** | 0.977 |
+| CERS5 | **TLCD3B** | 0.662 |
+| CERS5 | **SPTLC3** | 0.718 |
+| CERS5 | **CERS1** | 0.857 |
+| CERS5 | **CERS6** | 0.937 |
+| CERS5 | **ASAH1** | 0.963 |
+| CERS5 | **UGCG** | 0.964 |
+| CERS5 | **KDSR** | 0.967 |
+| CLN8 | **CERS6** | 0.446 |
+| CLN8 | **CERS1** | 0.818 |
+| UGCG | **TLCD3B** | 0.667 |
+| UGCG | **CERS1** | 0.668 |
+| UGCG | **KDSR** | 0.681 |
+| UGCG | **SPTLC3** | 0.822 |
+| UGCG | **ASAH1** | 0.971 |
+| UGCG | **CERS6** | 0.972 |
+| TLCD3B | **KDSR** | 0.553 |
+| TLCD3B | **ASAH1** | 0.61 |
+| TLCD3B | **CERS1** | 0.705 |
+| TLCD3B | **CERS6** | 0.728 |
+| TLCD3B | **SPTLC3** | 0.847 |
+| ASAH1 | **CERS1** | 0.697 |
+| ASAH1 | **SPTLC3** | 0.754 |
+| ASAH1 | **KDSR** | 0.956 |
+| ASAH1 | **CERS6** | 0.973 |
+| CERS6 | **SPTLC3** | 0.768 |
+| CERS6 | **CERS1** | 0.89 |
+| CERS6 | **KDSR** | 0.975 |
+| SPTLC3 | **CERS1** | 0.771 |
+| SPTLC3 | **KDSR** | 0.989 |
+| CERS1 | **KDSR** | 0.688 |
+

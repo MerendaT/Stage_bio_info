@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CHTF8
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHTF8
+Identifiant STRING officiel : `9606.ENSP00000408367`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RFC2 | **DDX11** | 0.568 |
+| RFC2 | **PDS5A** | 0.645 |
+| RFC2 | **WAPL** | 0.661 |
+| RFC2 | **WDHD1** | 0.662 |
+| RFC2 | **TIPIN** | 0.664 |
+| RFC2 | **ESCO2** | 0.724 |
+| RFC2 | **POLE** | 0.759 |
+| RFC2 | **SMC3** | 0.786 |
+| RFC2 | **ESCO1** | 0.836 |
+| RFC2 | **RFC5** | 0.999 |
+| RFC2 | **CHTF8** | 0.999 |
+| RFC2 | **RFC4** | 0.999 |
+| RFC2 | **DSCC1** | 0.999 |
+| RFC2 | **RFC3** | 0.999 |
+| RFC2 | **CHTF18** | 0.999 |
+| TIPIN | **ESCO1** | 0.432 |
+| TIPIN | **ESCO2** | 0.533 |
+| TIPIN | **SMC3** | 0.544 |
+| TIPIN | **PDS5A** | 0.544 |
+| TIPIN | **RFC5** | 0.561 |
+| TIPIN | **DDX11** | 0.684 |
+| TIPIN | **CHTF18** | 0.743 |
+| TIPIN | **RFC3** | 0.763 |
+| TIPIN | **RFC4** | 0.766 |
+| TIPIN | **CHTF8** | 0.771 |
+| TIPIN | **DSCC1** | 0.845 |
+| TIPIN | **POLE** | 0.953 |
+| TIPIN | **WDHD1** | 0.999 |
+| CHTF18 | **WAPL** | 0.915 |
+| CHTF18 | **DDX11** | 0.927 |
+| CHTF18 | **PDS5A** | 0.943 |
+| CHTF18 | **SMC3** | 0.947 |
+| CHTF18 | **ESCO2** | 0.948 |
+| CHTF18 | **ESCO1** | 0.964 |
+| CHTF18 | **WDHD1** | 0.967 |
+| CHTF18 | **POLE** | 0.99 |
+| CHTF18 | **DSCC1** | 0.999 |
+| CHTF18 | **RFC3** | 0.999 |
+| CHTF18 | **CHTF8** | 0.999 |
+| CHTF18 | **RFC4** | 0.999 |
+| CHTF18 | **RFC5** | 0.999 |
+| ESCO1 | **ESCO2** | 0.721 |
+| ESCO1 | **RFC4** | 0.727 |
+| ESCO1 | **WDHD1** | 0.734 |
+| ESCO1 | **DDX11** | 0.734 |
+| ESCO1 | **RFC5** | 0.822 |
+| ESCO1 | **RFC3** | 0.832 |
+| ESCO1 | **DSCC1** | 0.889 |
+| ESCO1 | **CHTF8** | 0.904 |
+| ESCO1 | **WAPL** | 0.982 |
+| ESCO1 | **PDS5A** | 0.994 |
+| ESCO1 | **SMC3** | 0.997 |
+| WAPL | **WDHD1** | 0.529 |
+| WAPL | **DDX11** | 0.544 |
+| WAPL | **RFC4** | 0.617 |
+| WAPL | **RFC3** | 0.783 |
+| WAPL | **RFC5** | 0.799 |
+| WAPL | **DSCC1** | 0.832 |
+| WAPL | **CHTF8** | 0.849 |
+| WAPL | **ESCO2** | 0.973 |
+| WAPL | **PDS5A** | 0.999 |
+| WAPL | **SMC3** | 0.999 |
+| PDS5A | **DDX11** | 0.562 |
+| PDS5A | **RFC4** | 0.615 |
+| PDS5A | **RFC3** | 0.727 |
+| PDS5A | **WDHD1** | 0.729 |
+| PDS5A | **RFC5** | 0.768 |
+| PDS5A | **DSCC1** | 0.827 |
+| PDS5A | **CHTF8** | 0.836 |
+| PDS5A | **ESCO2** | 0.986 |
+| PDS5A | **SMC3** | 0.999 |
+| ESCO2 | **WDHD1** | 0.748 |
+| ESCO2 | **RFC4** | 0.752 |
+| ESCO2 | **DDX11** | 0.775 |
+| ESCO2 | **RFC5** | 0.824 |
+| ESCO2 | **RFC3** | 0.84 |
+| ESCO2 | **CHTF8** | 0.86 |
+| ESCO2 | **DSCC1** | 0.903 |
+| ESCO2 | **SMC3** | 0.998 |
+| DSCC1 | **DDX11** | 0.813 |
+| DSCC1 | **WDHD1** | 0.88 |
+| DSCC1 | **SMC3** | 0.905 |
+| DSCC1 | **POLE** | 0.943 |
+| DSCC1 | **RFC4** | 0.998 |
+| DSCC1 | **CHTF8** | 0.999 |
+| DSCC1 | **RFC5** | 0.999 |
+| DSCC1 | **RFC3** | 0.999 |
+| POLE | **SMC3** | 0.466 |
+| POLE | **DDX11** | 0.583 |
+| POLE | **RFC5** | 0.748 |
+| POLE | **RFC4** | 0.799 |
+| POLE | **CHTF8** | 0.84 |
+| POLE | **RFC3** | 0.888 |
+| POLE | **WDHD1** | 0.992 |
+| WDHD1 | **RFC5** | 0.695 |
+| WDHD1 | **RFC4** | 0.738 |
+| WDHD1 | **RFC3** | 0.742 |
+| WDHD1 | **SMC3** | 0.841 |
+| WDHD1 | **CHTF8** | 0.887 |
+| WDHD1 | **DDX11** | 0.916 |
+| SMC3 | **DDX11** | 0.687 |
+| SMC3 | **RFC4** | 0.786 |
+| SMC3 | **RFC5** | 0.839 |
+| SMC3 | **RFC3** | 0.844 |
+| SMC3 | **CHTF8** | 0.936 |
+| RFC3 | **DDX11** | 0.437 |
+| RFC3 | **CHTF8** | 0.997 |
+| RFC3 | **RFC4** | 0.999 |
+| RFC3 | **RFC5** | 0.999 |
+| RFC4 | **CHTF8** | 0.997 |
+| RFC4 | **RFC5** | 0.999 |
+| RFC5 | **CHTF8** | 0.999 |
+| CHTF8 | **DDX11** | 0.827 |
+

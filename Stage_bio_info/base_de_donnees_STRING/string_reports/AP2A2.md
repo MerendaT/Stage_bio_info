@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : AP2A2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : AP2A2
+Identifiant STRING officiel : `9606.ENSP00000327694`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CLTA | **TGOLN2** | 0.509 |
+| CLTA | **AP4B1** | 0.664 |
+| CLTA | **NECAP2** | 0.775 |
+| CLTA | **ITSN1** | 0.824 |
+| CLTA | **EPS15** | 0.835 |
+| CLTA | **AP1B1** | 0.89 |
+| CLTA | **HTT** | 0.91 |
+| CLTA | **AP2A2** | 0.946 |
+| CLTA | **AP2M1** | 0.958 |
+| CLTA | **AP2S1** | 0.961 |
+| CLTA | **AP2B1** | 0.965 |
+| CLTA | **AP2A1** | 0.983 |
+| CLTA | **CLTB** | 0.985 |
+| CLTA | **CLTC** | 0.999 |
+| CLTA | **CLTCL1** | 0.999 |
+| CLTB | **AP4B1** | 0.56 |
+| CLTB | **ITSN1** | 0.68 |
+| CLTB | **NECAP2** | 0.784 |
+| CLTB | **AP1B1** | 0.883 |
+| CLTB | **EPS15** | 0.921 |
+| CLTB | **HTT** | 0.938 |
+| CLTB | **AP2M1** | 0.942 |
+| CLTB | **AP2S1** | 0.96 |
+| CLTB | **AP2A2** | 0.968 |
+| CLTB | **AP2B1** | 0.979 |
+| CLTB | **AP2A1** | 0.992 |
+| CLTB | **CLTCL1** | 0.999 |
+| CLTB | **CLTC** | 0.999 |
+| AP2A2 | **ITSN1** | 0.923 |
+| AP2A2 | **CLTCL1** | 0.93 |
+| AP2A2 | **AP1B1** | 0.93 |
+| AP2A2 | **AP4B1** | 0.954 |
+| AP2A2 | **TGOLN2** | 0.955 |
+| AP2A2 | **AP2A1** | 0.955 |
+| AP2A2 | **NECAP2** | 0.957 |
+| AP2A2 | **EPS15** | 0.958 |
+| AP2A2 | **CLTC** | 0.976 |
+| AP2A2 | **HTT** | 0.989 |
+| AP2A2 | **AP2B1** | 0.999 |
+| AP2A2 | **AP2M1** | 0.999 |
+| AP2A2 | **AP2S1** | 0.999 |
+| HTT | **ITSN1** | 0.551 |
+| HTT | **AP2S1** | 0.9 |
+| HTT | **CLTCL1** | 0.921 |
+| HTT | **AP2A1** | 0.939 |
+| HTT | **CLTC** | 0.941 |
+| HTT | **AP2B1** | 0.952 |
+| AP1B1 | **ITSN1** | 0.56 |
+| AP1B1 | **AP4B1** | 0.622 |
+| AP1B1 | **AP2B1** | 0.819 |
+| AP1B1 | **TGOLN2** | 0.843 |
+| AP1B1 | **CLTCL1** | 0.874 |
+| AP1B1 | **EPS15** | 0.892 |
+| AP1B1 | **CLTC** | 0.917 |
+| AP1B1 | **NECAP2** | 0.919 |
+| AP1B1 | **AP2S1** | 0.969 |
+| AP1B1 | **AP2A1** | 0.969 |
+| AP1B1 | **AP2M1** | 0.99 |
+| AP2A1 | **TGOLN2** | 0.533 |
+| AP2A1 | **ITSN1** | 0.829 |
+| AP2A1 | **CLTCL1** | 0.98 |
+| AP2A1 | **AP4B1** | 0.986 |
+| AP2A1 | **CLTC** | 0.989 |
+| AP2A1 | **NECAP2** | 0.99 |
+| AP2A1 | **EPS15** | 0.991 |
+| AP2A1 | **AP2S1** | 0.999 |
+| AP2A1 | **AP2B1** | 0.999 |
+| AP2A1 | **AP2M1** | 0.999 |
+| AP4B1 | **NECAP2** | 0.47 |
+| AP4B1 | **EPS15** | 0.531 |
+| AP4B1 | **TGOLN2** | 0.647 |
+| AP4B1 | **CLTCL1** | 0.769 |
+| AP4B1 | **CLTC** | 0.825 |
+| AP4B1 | **AP2B1** | 0.915 |
+| AP4B1 | **AP2S1** | 0.976 |
+| AP4B1 | **AP2M1** | 0.986 |
+| EPS15 | **NECAP2** | 0.884 |
+| EPS15 | **CLTCL1** | 0.939 |
+| EPS15 | **AP2S1** | 0.952 |
+| EPS15 | **AP2M1** | 0.958 |
+| EPS15 | **AP2B1** | 0.973 |
+| EPS15 | **CLTC** | 0.974 |
+| EPS15 | **ITSN1** | 0.997 |
+| ITSN1 | **CLTCL1** | 0.825 |
+| ITSN1 | **CLTC** | 0.912 |
+| ITSN1 | **NECAP2** | 0.914 |
+| ITSN1 | **AP2M1** | 0.927 |
+| ITSN1 | **AP2S1** | 0.93 |
+| ITSN1 | **AP2B1** | 0.992 |
+| TGOLN2 | **CLTCL1** | 0.509 |
+| TGOLN2 | **CLTC** | 0.735 |
+| TGOLN2 | **AP2S1** | 0.752 |
+| TGOLN2 | **AP2B1** | 0.968 |
+| TGOLN2 | **AP2M1** | 0.988 |
+| NECAP2 | **CLTCL1** | 0.629 |
+| NECAP2 | **CLTC** | 0.775 |
+| NECAP2 | **AP2S1** | 0.955 |
+| NECAP2 | **AP2M1** | 0.97 |
+| NECAP2 | **AP2B1** | 0.975 |
+| AP2M1 | **CLTCL1** | 0.876 |
+| AP2M1 | **CLTC** | 0.988 |
+| AP2M1 | **AP2B1** | 0.999 |
+| AP2M1 | **AP2S1** | 0.999 |
+| CLTCL1 | **CLTC** | 0.937 |
+| CLTCL1 | **AP2S1** | 0.955 |
+| CLTCL1 | **AP2B1** | 0.992 |
+| AP2S1 | **CLTC** | 0.958 |
+| AP2S1 | **AP2B1** | 0.999 |
+| CLTC | **AP2B1** | 0.997 |
+

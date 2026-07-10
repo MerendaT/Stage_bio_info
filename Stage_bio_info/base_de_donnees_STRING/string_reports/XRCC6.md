@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : XRCC6
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : XRCC6
+Identifiant STRING officiel : `9606.ENSP00000352257`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MSH6 | **LIG3** | 0.572 |
+| MSH6 | **PARP1** | 0.798 |
+| MSH6 | **H2AX** | 0.809 |
+| MSH6 | **MRE11** | 0.862 |
+| MSH6 | **WRN** | 0.875 |
+| MSH6 | **PAXX** | 0.916 |
+| MSH6 | **NHEJ1** | 0.931 |
+| MSH6 | **DCLRE1C** | 0.935 |
+| MSH6 | **XRCC4** | 0.946 |
+| MSH6 | **LIG4** | 0.965 |
+| MSH6 | **PRKDC** | 0.967 |
+| MSH6 | **XRCC5** | 0.972 |
+| MSH6 | **XRCC6** | 0.992 |
+| MSH6 | **ATM** | 0.999 |
+| ATM | **APLF** | 0.432 |
+| ATM | **LIG3** | 0.652 |
+| ATM | **PARP1** | 0.875 |
+| ATM | **PAXX** | 0.946 |
+| ATM | **WRN** | 0.955 |
+| ATM | **DCLRE1C** | 0.956 |
+| ATM | **PRKDC** | 0.971 |
+| ATM | **XRCC4** | 0.98 |
+| ATM | **NHEJ1** | 0.982 |
+| ATM | **LIG4** | 0.987 |
+| ATM | **XRCC6** | 0.997 |
+| ATM | **H2AX** | 0.998 |
+| ATM | **XRCC5** | 0.998 |
+| ATM | **MRE11** | 0.999 |
+| WRN | **NHEJ1** | 0.589 |
+| WRN | **PAXX** | 0.686 |
+| WRN | **APLF** | 0.737 |
+| WRN | **LIG4** | 0.751 |
+| WRN | **XRCC4** | 0.774 |
+| WRN | **LIG3** | 0.777 |
+| WRN | **H2AX** | 0.817 |
+| WRN | **PARP1** | 0.915 |
+| WRN | **MRE11** | 0.945 |
+| WRN | **PRKDC** | 0.978 |
+| WRN | **XRCC5** | 0.993 |
+| WRN | **XRCC6** | 0.998 |
+| APLF | **PAXX** | 0.721 |
+| APLF | **PRKDC** | 0.778 |
+| APLF | **NHEJ1** | 0.879 |
+| APLF | **PARP1** | 0.919 |
+| APLF | **LIG4** | 0.935 |
+| APLF | **LIG3** | 0.969 |
+| APLF | **XRCC6** | 0.992 |
+| APLF | **XRCC4** | 0.999 |
+| APLF | **XRCC5** | 0.999 |
+| PRKDC | **LIG3** | 0.814 |
+| PRKDC | **MRE11** | 0.854 |
+| PRKDC | **H2AX** | 0.983 |
+| PRKDC | **PARP1** | 0.993 |
+| PRKDC | **PAXX** | 0.996 |
+| PRKDC | **XRCC5** | 0.999 |
+| PRKDC | **XRCC6** | 0.999 |
+| PRKDC | **DCLRE1C** | 0.999 |
+| PRKDC | **NHEJ1** | 0.999 |
+| PRKDC | **XRCC4** | 0.999 |
+| PRKDC | **LIG4** | 0.999 |
+| MRE11 | **XRCC4** | 0.533 |
+| MRE11 | **LIG4** | 0.704 |
+| MRE11 | **PARP1** | 0.808 |
+| MRE11 | **LIG3** | 0.831 |
+| MRE11 | **DCLRE1C** | 0.833 |
+| MRE11 | **H2AX** | 0.954 |
+| MRE11 | **XRCC5** | 0.979 |
+| MRE11 | **XRCC6** | 0.987 |
+| NHEJ1 | **PARP1** | 0.452 |
+| NHEJ1 | **LIG3** | 0.608 |
+| NHEJ1 | **H2AX** | 0.78 |
+| NHEJ1 | **DCLRE1C** | 0.992 |
+| NHEJ1 | **XRCC6** | 0.999 |
+| NHEJ1 | **XRCC5** | 0.999 |
+| NHEJ1 | **XRCC4** | 0.999 |
+| NHEJ1 | **LIG4** | 0.999 |
+| NHEJ1 | **PAXX** | 0.999 |
+| XRCC6 | **H2AX** | 0.988 |
+| XRCC6 | **LIG3** | 0.994 |
+| XRCC6 | **DCLRE1C** | 0.997 |
+| XRCC6 | **PAXX** | 0.998 |
+| XRCC6 | **PARP1** | 0.998 |
+| XRCC6 | **LIG4** | 0.999 |
+| XRCC6 | **XRCC4** | 0.999 |
+| XRCC6 | **XRCC5** | 0.999 |
+| PARP1 | **PAXX** | 0.526 |
+| PARP1 | **XRCC4** | 0.644 |
+| PARP1 | **LIG4** | 0.655 |
+| PARP1 | **H2AX** | 0.964 |
+| PARP1 | **LIG3** | 0.99 |
+| PARP1 | **XRCC5** | 0.996 |
+| PAXX | **H2AX** | 0.443 |
+| PAXX | **DCLRE1C** | 0.928 |
+| PAXX | **LIG4** | 0.988 |
+| PAXX | **XRCC5** | 0.997 |
+| PAXX | **XRCC4** | 0.999 |
+| DCLRE1C | **H2AX** | 0.607 |
+| DCLRE1C | **XRCC4** | 0.983 |
+| DCLRE1C | **LIG4** | 0.997 |
+| DCLRE1C | **XRCC5** | 0.998 |
+| LIG3 | **LIG4** | 0.446 |
+| LIG3 | **H2AX** | 0.689 |
+| LIG3 | **XRCC4** | 0.944 |
+| LIG3 | **XRCC5** | 0.964 |
+| XRCC5 | **H2AX** | 0.973 |
+| XRCC5 | **LIG4** | 0.999 |
+| XRCC5 | **XRCC4** | 0.999 |
+| XRCC4 | **H2AX** | 0.723 |
+| XRCC4 | **LIG4** | 0.999 |
+| H2AX | **LIG4** | 0.655 |
+

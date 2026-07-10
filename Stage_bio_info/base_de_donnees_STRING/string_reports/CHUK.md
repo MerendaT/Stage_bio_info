@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CHUK
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHUK
+Identifiant STRING officiel : `9606.ENSP00000359424`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TNFRSF1A | **NFKBIB** | 0.401 |
+| TNFRSF1A | **MAP3K14** | 0.404 |
+| TNFRSF1A | **NFKB2** | 0.59 |
+| TNFRSF1A | **IRAK1** | 0.612 |
+| TNFRSF1A | **NFKBIA** | 0.809 |
+| TNFRSF1A | **RELA** | 0.826 |
+| TNFRSF1A | **NFKB1** | 0.848 |
+| TNFRSF1A | **TRAF3** | 0.977 |
+| TNFRSF1A | **TRAF6** | 0.996 |
+| TNFRSF1A | **IKBKB** | 0.999 |
+| TNFRSF1A | **TNF** | 0.999 |
+| TNFRSF1A | **CHUK** | 0.999 |
+| TNFRSF1A | **RIPK1** | 0.999 |
+| TNFRSF1A | **IKBKG** | 0.999 |
+| NFKBIA | **TRAF3** | 0.647 |
+| NFKBIA | **RIPK1** | 0.804 |
+| NFKBIA | **MAP3K14** | 0.849 |
+| NFKBIA | **IRAK1** | 0.922 |
+| NFKBIA | **TRAF6** | 0.966 |
+| NFKBIA | **TNF** | 0.967 |
+| NFKBIA | **NFKB2** | 0.995 |
+| NFKBIA | **IKBKG** | 0.999 |
+| NFKBIA | **NFKBIB** | 0.999 |
+| NFKBIA | **CHUK** | 0.999 |
+| NFKBIA | **IKBKB** | 0.999 |
+| NFKBIA | **NFKB1** | 0.999 |
+| NFKBIA | **RELA** | 0.999 |
+| NFKB1 | **MAP3K14** | 0.676 |
+| NFKB1 | **TRAF3** | 0.838 |
+| NFKB1 | **RIPK1** | 0.895 |
+| NFKB1 | **IRAK1** | 0.934 |
+| NFKB1 | **TRAF6** | 0.951 |
+| NFKB1 | **NFKBIB** | 0.998 |
+| NFKB1 | **TNF** | 0.999 |
+| NFKB1 | **CHUK** | 0.999 |
+| NFKB1 | **IKBKB** | 0.999 |
+| NFKB1 | **RELA** | 0.999 |
+| NFKB1 | **IKBKG** | 0.999 |
+| NFKB1 | **NFKB2** | 0.999 |
+| RIPK1 | **MAP3K14** | 0.607 |
+| RIPK1 | **NFKBIB** | 0.645 |
+| RIPK1 | **NFKB2** | 0.752 |
+| RIPK1 | **RELA** | 0.784 |
+| RIPK1 | **TRAF3** | 0.815 |
+| RIPK1 | **IKBKB** | 0.987 |
+| RIPK1 | **CHUK** | 0.998 |
+| RIPK1 | **TRAF6** | 0.998 |
+| RIPK1 | **IKBKG** | 0.999 |
+| RIPK1 | **TNF** | 0.999 |
+| NLRC5 | **TNF** | 0.452 |
+| NLRC5 | **IKBKG** | 0.574 |
+| NLRC5 | **TRAF6** | 0.598 |
+| NLRC5 | **IKBKB** | 0.989 |
+| NLRC5 | **CHUK** | 0.997 |
+| NFKBIB | **IRAK1** | 0.646 |
+| NFKBIB | **TNF** | 0.713 |
+| NFKBIB | **TRAF6** | 0.885 |
+| NFKBIB | **NFKB2** | 0.976 |
+| NFKBIB | **IKBKG** | 0.994 |
+| NFKBIB | **CHUK** | 0.997 |
+| NFKBIB | **IKBKB** | 0.997 |
+| NFKBIB | **RELA** | 0.999 |
+| NFKB2 | **IRAK1** | 0.515 |
+| NFKB2 | **TNF** | 0.772 |
+| NFKB2 | **TRAF3** | 0.782 |
+| NFKB2 | **TRAF6** | 0.788 |
+| NFKB2 | **IKBKG** | 0.944 |
+| NFKB2 | **IKBKB** | 0.955 |
+| NFKB2 | **MAP3K14** | 0.966 |
+| NFKB2 | **CHUK** | 0.998 |
+| NFKB2 | **RELA** | 0.999 |
+| IRAK1 | **MAP3K14** | 0.516 |
+| IRAK1 | **RELA** | 0.785 |
+| IRAK1 | **TNF** | 0.899 |
+| IRAK1 | **IKBKB** | 0.903 |
+| IRAK1 | **TRAF3** | 0.995 |
+| IRAK1 | **TRAF6** | 0.999 |
+| IRAK1 | **CHUK** | 0.999 |
+| IRAK1 | **IKBKG** | 0.999 |
+| CHUK | **MAP3K14** | 0.997 |
+| CHUK | **TRAF3** | 0.998 |
+| CHUK | **RELA** | 0.999 |
+| CHUK | **TNF** | 0.999 |
+| CHUK | **IKBKB** | 0.999 |
+| CHUK | **TRAF6** | 0.999 |
+| CHUK | **IKBKG** | 0.999 |
+| TRAF3 | **RELA** | 0.647 |
+| TRAF3 | **IKBKB** | 0.863 |
+| TRAF3 | **IKBKG** | 0.953 |
+| TRAF3 | **TNF** | 0.971 |
+| TRAF3 | **MAP3K14** | 0.994 |
+| TRAF3 | **TRAF6** | 0.998 |
+| RELA | **MAP3K14** | 0.79 |
+| RELA | **TRAF6** | 0.867 |
+| RELA | **IKBKG** | 0.996 |
+| RELA | **TNF** | 0.997 |
+| RELA | **IKBKB** | 0.999 |
+| TNF | **MAP3K14** | 0.671 |
+| TNF | **TRAF6** | 0.998 |
+| TNF | **IKBKB** | 0.999 |
+| TNF | **IKBKG** | 0.999 |
+| IKBKB | **MAP3K14** | 0.991 |
+| IKBKB | **TRAF6** | 0.999 |
+| IKBKB | **IKBKG** | 0.999 |
+| TRAF6 | **MAP3K14** | 0.993 |
+| TRAF6 | **IKBKG** | 0.999 |
+| MAP3K14 | **IKBKG** | 0.994 |
+

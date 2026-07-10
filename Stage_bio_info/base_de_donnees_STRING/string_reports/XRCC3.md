@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : XRCC3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : XRCC3
+Identifiant STRING officiel : `9606.ENSP00000451974`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ATM | **FANCG** | 0.806 |
+| ATM | **XRCC2** | 0.818 |
+| ATM | **RAD51D-2** | 0.858 |
+| ATM | **RAD51B** | 0.865 |
+| ATM | **XRCC3** | 0.918 |
+| ATM | **RAD51C** | 0.921 |
+| ATM | **RAD51D** | 0.93 |
+| ATM | **RAD52** | 0.94 |
+| ATM | **WRN** | 0.955 |
+| ATM | **FANCD2** | 0.989 |
+| ATM | **BLM** | 0.991 |
+| ATM | **BRCA2** | 0.995 |
+| ATM | **RAD51** | 0.995 |
+| ATM | **BRCA1** | 0.999 |
+| FANCD2 | **RAD51B** | 0.616 |
+| FANCD2 | **RAD52** | 0.674 |
+| FANCD2 | **RAD51D-2** | 0.729 |
+| FANCD2 | **XRCC2** | 0.799 |
+| FANCD2 | **RAD51D** | 0.831 |
+| FANCD2 | **WRN** | 0.871 |
+| FANCD2 | **XRCC3** | 0.926 |
+| FANCD2 | **BLM** | 0.933 |
+| FANCD2 | **RAD51C** | 0.934 |
+| FANCD2 | **RAD51** | 0.998 |
+| FANCD2 | **BRCA1** | 0.999 |
+| FANCD2 | **FANCG** | 0.999 |
+| FANCD2 | **BRCA2** | 0.999 |
+| WRN | **XRCC2** | 0.741 |
+| WRN | **FANCG** | 0.751 |
+| WRN | **RAD51D-2** | 0.769 |
+| WRN | **BLM** | 0.802 |
+| WRN | **RAD51B** | 0.861 |
+| WRN | **RAD51C** | 0.864 |
+| WRN | **RAD51D** | 0.879 |
+| WRN | **BRCA2** | 0.888 |
+| WRN | **XRCC3** | 0.964 |
+| WRN | **BRCA1** | 0.983 |
+| WRN | **RAD51** | 0.993 |
+| WRN | **RAD52** | 0.996 |
+| SWI5 | **RAD51D-2** | 0.435 |
+| SWI5 | **RAD52** | 0.585 |
+| SWI5 | **RAD51** | 0.883 |
+| SWI5 | **XRCC2** | 0.911 |
+| SWI5 | **RAD51B** | 0.942 |
+| SWI5 | **RAD51C** | 0.948 |
+| SWI5 | **RAD51D** | 0.951 |
+| SWI5 | **XRCC3** | 0.952 |
+| RAD51C | **BLM** | 0.859 |
+| RAD51C | **FANCG** | 0.915 |
+| RAD51C | **RAD52** | 0.926 |
+| RAD51C | **BRCA1** | 0.98 |
+| RAD51C | **RAD51** | 0.996 |
+| RAD51C | **RAD51B** | 0.999 |
+| RAD51C | **RAD51D-2** | 0.999 |
+| RAD51C | **XRCC2** | 0.999 |
+| RAD51C | **BRCA2** | 0.999 |
+| RAD51C | **RAD51D** | 0.999 |
+| RAD51C | **XRCC3** | 0.999 |
+| BLM | **RAD51D-2** | 0.635 |
+| BLM | **XRCC2** | 0.789 |
+| BLM | **RAD51B** | 0.82 |
+| BLM | **RAD51D** | 0.868 |
+| BLM | **BRCA2** | 0.935 |
+| BLM | **RAD52** | 0.958 |
+| BLM | **XRCC3** | 0.962 |
+| BLM | **BRCA1** | 0.974 |
+| BLM | **RAD51** | 0.998 |
+| BLM | **FANCG** | 0.999 |
+| RAD52 | **XRCC2** | 0.636 |
+| RAD52 | **RAD51D-2** | 0.875 |
+| RAD52 | **RAD51D** | 0.881 |
+| RAD52 | **RAD51B** | 0.889 |
+| RAD52 | **XRCC3** | 0.978 |
+| RAD52 | **BRCA1** | 0.987 |
+| RAD52 | **BRCA2** | 0.993 |
+| RAD52 | **RAD51** | 0.999 |
+| XRCC2 | **FANCG** | 0.835 |
+| XRCC2 | **BRCA1** | 0.954 |
+| XRCC2 | **RAD51** | 0.981 |
+| XRCC2 | **BRCA2** | 0.982 |
+| XRCC2 | **RAD51B** | 0.999 |
+| XRCC2 | **RAD51D** | 0.999 |
+| XRCC2 | **XRCC3** | 0.999 |
+| XRCC2 | **RAD51D-2** | 0.999 |
+| FANCG | **RAD51B** | 0.646 |
+| FANCG | **RAD51D-2** | 0.664 |
+| FANCG | **RAD51D** | 0.671 |
+| FANCG | **RAD51** | 0.862 |
+| FANCG | **BRCA1** | 0.939 |
+| FANCG | **XRCC3** | 0.984 |
+| FANCG | **BRCA2** | 0.997 |
+| BRCA2 | **RAD51B** | 0.961 |
+| BRCA2 | **RAD51D-2** | 0.967 |
+| BRCA2 | **RAD51D** | 0.983 |
+| BRCA2 | **RAD51** | 0.999 |
+| BRCA2 | **BRCA1** | 0.999 |
+| BRCA2 | **XRCC3** | 0.999 |
+| BRCA1 | **RAD51D-2** | 0.904 |
+| BRCA1 | **RAD51B** | 0.922 |
+| BRCA1 | **RAD51D** | 0.953 |
+| BRCA1 | **XRCC3** | 0.953 |
+| BRCA1 | **RAD51** | 0.999 |
+| RAD51B | **RAD51** | 0.904 |
+| RAD51B | **XRCC3** | 0.985 |
+| RAD51B | **RAD51D-2** | 0.999 |
+| RAD51B | **RAD51D** | 0.999 |
+| XRCC3 | **RAD51D** | 0.978 |
+| XRCC3 | **RAD51D-2** | 0.983 |
+| XRCC3 | **RAD51** | 0.998 |
+| RAD51D | **RAD51** | 0.887 |
+| RAD51D-2 | **RAD51** | 0.959 |
+

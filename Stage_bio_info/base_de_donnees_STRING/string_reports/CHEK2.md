@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CHEK2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHEK2
+Identifiant STRING officiel : `9606.ENSP00000372023`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MDM2 | **ATR** | 0.461 |
+| MDM2 | **CDC25A** | 0.487 |
+| MDM2 | **CDC25C** | 0.639 |
+| MDM2 | **H2AX** | 0.676 |
+| MDM2 | **TP53BP1** | 0.681 |
+| MDM2 | **CHEK1** | 0.699 |
+| MDM2 | **BRCA2** | 0.702 |
+| MDM2 | **MDC1** | 0.738 |
+| MDM2 | **BRCA1** | 0.794 |
+| MDM2 | **BARD1** | 0.821 |
+| MDM2 | **CHEK2** | 0.983 |
+| MDM2 | **ATM** | 0.995 |
+| MDM2 | **TP53** | 0.999 |
+| BARD1 | **RAD9A** | 0.711 |
+| BARD1 | **ATR** | 0.725 |
+| BARD1 | **H2AX** | 0.867 |
+| BARD1 | **TP53BP1** | 0.868 |
+| BARD1 | **CHEK1** | 0.895 |
+| BARD1 | **CHEK2** | 0.937 |
+| BARD1 | **ATM** | 0.946 |
+| BARD1 | **MDC1** | 0.954 |
+| BARD1 | **TP53** | 0.982 |
+| BARD1 | **BRCA2** | 0.999 |
+| BARD1 | **BRCA1** | 0.999 |
+| TP53 | **CDC7** | 0.418 |
+| TP53 | **RAD9A** | 0.813 |
+| TP53 | **MDC1** | 0.853 |
+| TP53 | **CDC25A** | 0.861 |
+| TP53 | **H2AX** | 0.892 |
+| TP53 | **CDC25C** | 0.894 |
+| TP53 | **BRCA2** | 0.995 |
+| TP53 | **ATR** | 0.996 |
+| TP53 | **CHEK1** | 0.997 |
+| TP53 | **ATM** | 0.999 |
+| TP53 | **CHEK2** | 0.999 |
+| TP53 | **BRCA1** | 0.999 |
+| TP53 | **TP53BP1** | 0.999 |
+| ATM | **CDC7** | 0.491 |
+| ATM | **CDC25C** | 0.813 |
+| ATM | **CDC25A** | 0.861 |
+| ATM | **RAD9A** | 0.961 |
+| ATM | **BRCA2** | 0.995 |
+| ATM | **H2AX** | 0.998 |
+| ATM | **CHEK1** | 0.998 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **CHEK2** | 0.999 |
+| ATM | **MDC1** | 0.999 |
+| ATM | **ATR** | 0.999 |
+| ATM | **TP53BP1** | 0.999 |
+| CDC25A | **BRCA2** | 0.555 |
+| CDC25A | **MDC1** | 0.629 |
+| CDC25A | **RAD9A** | 0.631 |
+| CDC25A | **TP53BP1** | 0.682 |
+| CDC25A | **CDC7** | 0.737 |
+| CDC25A | **H2AX** | 0.766 |
+| CDC25A | **ATR** | 0.86 |
+| CDC25A | **BRCA1** | 0.929 |
+| CDC25A | **CDC25C** | 0.961 |
+| CDC25A | **CHEK2** | 0.998 |
+| CDC25A | **CHEK1** | 0.999 |
+| RAD9A | **CDC7** | 0.496 |
+| RAD9A | **H2AX** | 0.767 |
+| RAD9A | **BRCA1** | 0.895 |
+| RAD9A | **TP53BP1** | 0.905 |
+| RAD9A | **MDC1** | 0.922 |
+| RAD9A | **BRCA2** | 0.931 |
+| RAD9A | **CHEK1** | 0.963 |
+| RAD9A | **CHEK2** | 0.981 |
+| RAD9A | **ATR** | 0.994 |
+| CDC25C | **TP53BP1** | 0.448 |
+| CDC25C | **BRCA2** | 0.479 |
+| CDC25C | **CDC7** | 0.642 |
+| CDC25C | **H2AX** | 0.703 |
+| CDC25C | **BRCA1** | 0.735 |
+| CDC25C | **ATR** | 0.798 |
+| CDC25C | **CHEK2** | 0.998 |
+| CDC25C | **CHEK1** | 0.999 |
+| ATR | **BRCA2** | 0.831 |
+| ATR | **MDC1** | 0.889 |
+| ATR | **H2AX** | 0.914 |
+| ATR | **TP53BP1** | 0.975 |
+| ATR | **CDC7** | 0.992 |
+| ATR | **BRCA1** | 0.996 |
+| ATR | **CHEK2** | 0.998 |
+| ATR | **CHEK1** | 0.999 |
+| MDC1 | **BRCA2** | 0.857 |
+| MDC1 | **CHEK1** | 0.94 |
+| MDC1 | **CHEK2** | 0.99 |
+| MDC1 | **H2AX** | 0.999 |
+| MDC1 | **BRCA1** | 0.999 |
+| MDC1 | **TP53BP1** | 0.999 |
+| BRCA2 | **TP53BP1** | 0.922 |
+| BRCA2 | **CHEK1** | 0.963 |
+| BRCA2 | **H2AX** | 0.973 |
+| BRCA2 | **CHEK2** | 0.985 |
+| BRCA2 | **BRCA1** | 0.999 |
+| TP53BP1 | **CDC7** | 0.407 |
+| TP53BP1 | **CHEK1** | 0.992 |
+| TP53BP1 | **CHEK2** | 0.996 |
+| TP53BP1 | **H2AX** | 0.999 |
+| TP53BP1 | **BRCA1** | 0.999 |
+| CHEK2 | **H2AX** | 0.957 |
+| CHEK2 | **CHEK1** | 0.971 |
+| CHEK2 | **CDC7** | 0.988 |
+| CHEK2 | **BRCA1** | 0.999 |
+| CHEK1 | **H2AX** | 0.898 |
+| CHEK1 | **CDC7** | 0.911 |
+| CHEK1 | **BRCA1** | 0.996 |
+| CDC7 | **BRCA1** | 0.54 |
+| BRCA1 | **H2AX** | 0.999 |
+

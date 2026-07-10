@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MT-ATP8
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MT-ATP8
+Identifiant STRING officiel : `9606.ENSP00000355265`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ATP5F1D | **ATP5MPL** | 0.995 |
+| ATP5F1D | **MT-ATP8** | 0.995 |
+| ATP5F1D | **ATP5MD** | 0.998 |
+| ATP5F1D | **ATP5F1A** | 0.999 |
+| ATP5F1D | **MT-ATP6** | 0.999 |
+| ATP5F1D | **ATP5PD** | 0.999 |
+| ATP5F1D | **ATP5MC1** | 0.999 |
+| ATP5F1D | **ATP5F1B** | 0.999 |
+| ATP5F1D | **ATP5ME** | 0.999 |
+| ATP5F1D | **ATP5PO** | 0.999 |
+| ATP5F1D | **ATP5PB** | 0.999 |
+| ATP5F1D | **ATP5MF** | 0.999 |
+| ATP5F1D | **ATP5F1E** | 0.999 |
+| ATP5F1D | **ATP5F1C** | 0.999 |
+| ATP5F1E | **MT-ATP8** | 0.994 |
+| ATP5F1E | **ATP5MC1** | 0.995 |
+| ATP5F1E | **ATP5MPL** | 0.996 |
+| ATP5F1E | **ATP5MD** | 0.998 |
+| ATP5F1E | **ATP5ME** | 0.999 |
+| ATP5F1E | **ATP5PO** | 0.999 |
+| ATP5F1E | **ATP5F1B** | 0.999 |
+| ATP5F1E | **ATP5F1C** | 0.999 |
+| ATP5F1E | **ATP5PB** | 0.999 |
+| ATP5F1E | **ATP5MF** | 0.999 |
+| ATP5F1E | **MT-ATP6** | 0.999 |
+| ATP5F1E | **ATP5PD** | 0.999 |
+| ATP5F1E | **ATP5F1A** | 0.999 |
+| ATP5F1B | **ATP5MPL** | 0.995 |
+| ATP5F1B | **ATP5MC1** | 0.995 |
+| ATP5F1B | **MT-ATP8** | 0.995 |
+| ATP5F1B | **ATP5MD** | 0.997 |
+| ATP5F1B | **ATP5F1A** | 0.999 |
+| ATP5F1B | **ATP5PD** | 0.999 |
+| ATP5F1B | **MT-ATP6** | 0.999 |
+| ATP5F1B | **ATP5PO** | 0.999 |
+| ATP5F1B | **ATP5ME** | 0.999 |
+| ATP5F1B | **ATP5MF** | 0.999 |
+| ATP5F1B | **ATP5PB** | 0.999 |
+| ATP5F1B | **ATP5F1C** | 0.999 |
+| ATP5PO | **ATP5MPL** | 0.989 |
+| ATP5PO | **ATP5MC1** | 0.994 |
+| ATP5PO | **MT-ATP8** | 0.994 |
+| ATP5PO | **ATP5MD** | 0.995 |
+| ATP5PO | **ATP5F1A** | 0.999 |
+| ATP5PO | **MT-ATP6** | 0.999 |
+| ATP5PO | **ATP5PD** | 0.999 |
+| ATP5PO | **ATP5PB** | 0.999 |
+| ATP5PO | **ATP5MF** | 0.999 |
+| ATP5PO | **ATP5F1C** | 0.999 |
+| ATP5PO | **ATP5ME** | 0.999 |
+| ATP5MF | **MT-ATP8** | 0.994 |
+| ATP5MF | **ATP5MD** | 0.995 |
+| ATP5MF | **ATP5MPL** | 0.996 |
+| ATP5MF | **MT-ATP6** | 0.997 |
+| ATP5MF | **ATP5MC1** | 0.997 |
+| ATP5MF | **ATP5F1C** | 0.997 |
+| ATP5MF | **ATP5ME** | 0.999 |
+| ATP5MF | **ATP5PD** | 0.999 |
+| ATP5MF | **ATP5F1A** | 0.999 |
+| ATP5MF | **ATP5PB** | 0.999 |
+| ATP5PD | **MT-ATP8** | 0.998 |
+| ATP5PD | **ATP5MPL** | 0.998 |
+| ATP5PD | **ATP5PB** | 0.999 |
+| ATP5PD | **ATP5F1C** | 0.999 |
+| ATP5PD | **ATP5MD** | 0.999 |
+| ATP5PD | **ATP5ME** | 0.999 |
+| ATP5PD | **ATP5MC1** | 0.999 |
+| ATP5PD | **ATP5F1A** | 0.999 |
+| ATP5PD | **MT-ATP6** | 0.999 |
+| ATP5ME | **ATP5MPL** | 0.997 |
+| ATP5ME | **ATP5MC1** | 0.998 |
+| ATP5ME | **ATP5PB** | 0.999 |
+| ATP5ME | **ATP5MD** | 0.999 |
+| ATP5ME | **ATP5F1C** | 0.999 |
+| ATP5ME | **MT-ATP8** | 0.999 |
+| ATP5ME | **ATP5F1A** | 0.999 |
+| ATP5ME | **MT-ATP6** | 0.999 |
+| ATP5F1C | **ATP5MPL** | 0.982 |
+| ATP5F1C | **MT-ATP8** | 0.993 |
+| ATP5F1C | **ATP5MD** | 0.997 |
+| ATP5F1C | **ATP5PB** | 0.999 |
+| ATP5F1C | **ATP5F1A** | 0.999 |
+| ATP5F1C | **MT-ATP6** | 0.999 |
+| ATP5F1C | **ATP5MC1** | 0.999 |
+| MT-ATP6 | **ATP5MPL** | 0.997 |
+| MT-ATP6 | **ATP5MD** | 0.998 |
+| MT-ATP6 | **MT-ATP8** | 0.999 |
+| MT-ATP6 | **ATP5PB** | 0.999 |
+| MT-ATP6 | **MT-ND4L** | 0.999 |
+| MT-ATP6 | **ATP5F1A** | 0.999 |
+| MT-ATP6 | **ATP5MC1** | 0.999 |
+| MT-ND4L | **ATP5MC1** | 0.433 |
+| MT-ND4L | **ATP5F1A** | 0.459 |
+| MT-ND4L | **MT-ATP8** | 0.99 |
+| MT-ATP8 | **ATP5MC1** | 0.993 |
+| MT-ATP8 | **ATP5F1A** | 0.994 |
+| MT-ATP8 | **ATP5MPL** | 0.997 |
+| MT-ATP8 | **ATP5MD** | 0.997 |
+| MT-ATP8 | **ATP5PB** | 0.999 |
+| ATP5PB | **ATP5MPL** | 0.997 |
+| ATP5PB | **ATP5MD** | 0.999 |
+| ATP5PB | **ATP5F1A** | 0.999 |
+| ATP5PB | **ATP5MC1** | 0.999 |
+| ATP5MD | **ATP5MC1** | 0.987 |
+| ATP5MD | **ATP5F1A** | 0.998 |
+| ATP5MD | **ATP5MPL** | 0.999 |
+| ATP5MC1 | **ATP5MPL** | 0.995 |
+| ATP5MC1 | **ATP5F1A** | 0.998 |
+| ATP5F1A | **ATP5MPL** | 0.994 |
+

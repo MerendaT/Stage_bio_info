@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : EDF1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EDF1
+Identifiant STRING officiel : `9606.ENSP00000224073`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EDF1 | **RPS27A** | 0.948 |
+| EDF1 | **RPS12** | 0.95 |
+| EDF1 | **TBP** | 0.951 |
+| EDF1 | **RPS13** | 0.952 |
+| EDF1 | **RPS10-NUDT3** | 0.96 |
+| EDF1 | **RPS21** | 0.962 |
+| EDF1 | **RPS5** | 0.962 |
+| EDF1 | **RPS15** | 0.967 |
+| EDF1 | **RPS2** | 0.968 |
+| EDF1 | **RPS10** | 0.969 |
+| EDF1 | **RPS20** | 0.976 |
+| EDF1 | **RACK1** | 0.977 |
+| EDF1 | **RPS9** | 0.981 |
+| EDF1 | **RPS3** | 0.994 |
+| EDF1 | **FAU** | 0.997 |
+| RPS12 | **TBP** | 0.409 |
+| RPS12 | **RPS10-NUDT3** | 0.992 |
+| RPS12 | **RPS9** | 0.999 |
+| RPS12 | **FAU** | 0.999 |
+| RPS12 | **RPS3** | 0.999 |
+| RPS12 | **RPS13** | 0.999 |
+| RPS12 | **RPS27A** | 0.999 |
+| RPS12 | **RPS21** | 0.999 |
+| RPS12 | **RPS10** | 0.999 |
+| RPS12 | **RACK1** | 0.999 |
+| RPS12 | **RPS5** | 0.999 |
+| RPS12 | **RPS20** | 0.999 |
+| RPS12 | **RPS15** | 0.999 |
+| RPS12 | **RPS2** | 0.999 |
+| TBP | **RPS5** | 0.471 |
+| TBP | **RPS10** | 0.504 |
+| TBP | **RPS27A** | 0.606 |
+| RPS27A | **RPS10-NUDT3** | 0.995 |
+| RPS27A | **RPS21** | 0.999 |
+| RPS27A | **RPS10** | 0.999 |
+| RPS27A | **RACK1** | 0.999 |
+| RPS27A | **RPS5** | 0.999 |
+| RPS27A | **RPS20** | 0.999 |
+| RPS27A | **RPS15** | 0.999 |
+| RPS27A | **RPS2** | 0.999 |
+| RPS27A | **RPS9** | 0.999 |
+| RPS27A | **FAU** | 0.999 |
+| RPS27A | **RPS3** | 0.999 |
+| RPS27A | **RPS13** | 0.999 |
+| RPS3 | **RPS10-NUDT3** | 0.997 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPS15** | 0.999 |
+| RPS3 | **RPS20** | 0.999 |
+| RPS3 | **RPS5** | 0.999 |
+| RPS3 | **RACK1** | 0.999 |
+| RPS3 | **RPS10** | 0.999 |
+| RPS3 | **RPS21** | 0.999 |
+| RPS3 | **RPS13** | 0.999 |
+| RPS3 | **FAU** | 0.999 |
+| RPS3 | **RPS9** | 0.999 |
+| RPS2 | **RPS10-NUDT3** | 0.995 |
+| RPS2 | **RPS13** | 0.999 |
+| RPS2 | **FAU** | 0.999 |
+| RPS2 | **RPS9** | 0.999 |
+| RPS2 | **RACK1** | 0.999 |
+| RPS2 | **RPS10** | 0.999 |
+| RPS2 | **RPS21** | 0.999 |
+| RPS2 | **RPS15** | 0.999 |
+| RPS2 | **RPS20** | 0.999 |
+| RPS2 | **RPS5** | 0.999 |
+| RPS21 | **RPS10-NUDT3** | 0.994 |
+| RPS21 | **RPS9** | 0.999 |
+| RPS21 | **FAU** | 0.999 |
+| RPS21 | **RPS13** | 0.999 |
+| RPS21 | **RPS5** | 0.999 |
+| RPS21 | **RPS20** | 0.999 |
+| RPS21 | **RPS15** | 0.999 |
+| RPS21 | **RPS10** | 0.999 |
+| RPS21 | **RACK1** | 0.999 |
+| RPS9 | **RPS10-NUDT3** | 0.994 |
+| RPS9 | **RPS20** | 0.999 |
+| RPS9 | **RPS15** | 0.999 |
+| RPS9 | **RPS5** | 0.999 |
+| RPS9 | **RACK1** | 0.999 |
+| RPS9 | **RPS10** | 0.999 |
+| RPS9 | **FAU** | 0.999 |
+| RPS9 | **RPS13** | 0.999 |
+| RACK1 | **RPS10-NUDT3** | 0.993 |
+| RACK1 | **RPS13** | 0.999 |
+| RACK1 | **FAU** | 0.999 |
+| RACK1 | **RPS5** | 0.999 |
+| RACK1 | **RPS15** | 0.999 |
+| RACK1 | **RPS20** | 0.999 |
+| RACK1 | **RPS10** | 0.999 |
+| RPS20 | **RPS10-NUDT3** | 0.995 |
+| RPS20 | **RPS5** | 0.999 |
+| RPS20 | **RPS15** | 0.999 |
+| RPS20 | **RPS10** | 0.999 |
+| RPS20 | **FAU** | 0.999 |
+| RPS20 | **RPS13** | 0.999 |
+| FAU | **RPS10-NUDT3** | 0.995 |
+| FAU | **RPS15** | 0.999 |
+| FAU | **RPS5** | 0.999 |
+| FAU | **RPS10** | 0.999 |
+| FAU | **RPS13** | 0.999 |
+| RPS13 | **RPS10-NUDT3** | 0.995 |
+| RPS13 | **RPS10** | 0.999 |
+| RPS13 | **RPS15** | 0.999 |
+| RPS13 | **RPS5** | 0.999 |
+| RPS15 | **RPS10-NUDT3** | 0.995 |
+| RPS15 | **RPS5** | 0.999 |
+| RPS15 | **RPS10** | 0.999 |
+| RPS5 | **RPS10-NUDT3** | 0.995 |
+| RPS5 | **RPS10** | 0.999 |
+| RPS10 | **RPS10-NUDT3** | 0.979 |
+

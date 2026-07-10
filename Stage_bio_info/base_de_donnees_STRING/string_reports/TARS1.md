@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TARS1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TARS1
+Identifiant STRING officiel : `9606.ENSP00000387710`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NARS1 | **VARS1** | 0.837 |
+| NARS1 | **SARS1** | 0.843 |
+| NARS1 | **LARS2** | 0.848 |
+| NARS1 | **IARS2** | 0.889 |
+| NARS1 | **TARS2** | 0.901 |
+| NARS1 | **TARS3** | 0.902 |
+| NARS1 | **NARS2** | 0.921 |
+| NARS1 | **TARS1** | 0.924 |
+| NARS1 | **GARS1** | 0.939 |
+| NARS1 | **AARS1** | 0.947 |
+| NARS1 | **LARS1** | 0.954 |
+| NARS1 | **IARS1** | 0.965 |
+| NARS1 | **YARS1** | 0.966 |
+| NARS1 | **EPRS1** | 0.998 |
+| EIF4E2 | **TARS2** | 0.475 |
+| EIF4E2 | **TARS3** | 0.601 |
+| EIF4E2 | **TARS1** | 0.932 |
+| AARS1 | **NARS2** | 0.881 |
+| AARS1 | **SARS1** | 0.881 |
+| AARS1 | **TARS2** | 0.924 |
+| AARS1 | **TARS1** | 0.929 |
+| AARS1 | **LARS2** | 0.929 |
+| AARS1 | **VARS1** | 0.938 |
+| AARS1 | **IARS2** | 0.942 |
+| AARS1 | **TARS3** | 0.955 |
+| AARS1 | **LARS1** | 0.968 |
+| AARS1 | **EPRS1** | 0.976 |
+| AARS1 | **IARS1** | 0.98 |
+| AARS1 | **GARS1** | 0.983 |
+| AARS1 | **YARS1** | 0.996 |
+| NARS2 | **GARS1** | 0.837 |
+| NARS2 | **SARS1** | 0.845 |
+| NARS2 | **VARS1** | 0.853 |
+| NARS2 | **LARS1** | 0.86 |
+| NARS2 | **IARS1** | 0.871 |
+| NARS2 | **TARS3** | 0.887 |
+| NARS2 | **LARS2** | 0.89 |
+| NARS2 | **TARS1** | 0.893 |
+| NARS2 | **TARS2** | 0.9 |
+| NARS2 | **IARS2** | 0.904 |
+| NARS2 | **EPRS1** | 0.941 |
+| NARS2 | **YARS1** | 0.956 |
+| TARS3 | **SARS1** | 0.839 |
+| TARS3 | **YARS1** | 0.866 |
+| TARS3 | **IARS2** | 0.896 |
+| TARS3 | **VARS1** | 0.904 |
+| TARS3 | **GARS1** | 0.913 |
+| TARS3 | **TARS2** | 0.919 |
+| TARS3 | **EPRS1** | 0.924 |
+| TARS3 | **IARS1** | 0.951 |
+| TARS3 | **TARS1** | 0.958 |
+| TARS3 | **LARS2** | 0.98 |
+| TARS3 | **LARS1** | 0.994 |
+| IARS2 | **GARS1** | 0.863 |
+| IARS2 | **TARS1** | 0.89 |
+| IARS2 | **VARS1** | 0.896 |
+| IARS2 | **TARS2** | 0.902 |
+| IARS2 | **SARS1** | 0.904 |
+| IARS2 | **IARS1** | 0.935 |
+| IARS2 | **YARS1** | 0.957 |
+| IARS2 | **LARS2** | 0.982 |
+| IARS2 | **LARS1** | 0.996 |
+| IARS2 | **EPRS1** | 0.999 |
+| EPRS1 | **SARS1** | 0.86 |
+| EPRS1 | **TARS2** | 0.905 |
+| EPRS1 | **TARS1** | 0.928 |
+| EPRS1 | **VARS1** | 0.97 |
+| EPRS1 | **GARS1** | 0.973 |
+| EPRS1 | **LARS2** | 0.992 |
+| EPRS1 | **IARS1** | 0.999 |
+| EPRS1 | **YARS1** | 0.999 |
+| EPRS1 | **LARS1** | 0.999 |
+| TARS2 | **SARS1** | 0.838 |
+| TARS2 | **GARS1** | 0.842 |
+| TARS2 | **YARS1** | 0.869 |
+| TARS2 | **IARS1** | 0.877 |
+| TARS2 | **TARS1** | 0.905 |
+| TARS2 | **VARS1** | 0.91 |
+| TARS2 | **LARS1** | 0.976 |
+| TARS2 | **LARS2** | 0.982 |
+| SARS1 | **VARS1** | 0.879 |
+| SARS1 | **IARS1** | 0.908 |
+| SARS1 | **TARS1** | 0.915 |
+| SARS1 | **LARS2** | 0.917 |
+| SARS1 | **LARS1** | 0.933 |
+| SARS1 | **YARS1** | 0.941 |
+| SARS1 | **GARS1** | 0.975 |
+| YARS1 | **TARS1** | 0.911 |
+| YARS1 | **VARS1** | 0.956 |
+| YARS1 | **IARS1** | 0.966 |
+| YARS1 | **LARS2** | 0.979 |
+| YARS1 | **LARS1** | 0.98 |
+| YARS1 | **GARS1** | 0.989 |
+| IARS1 | **VARS1** | 0.9 |
+| IARS1 | **TARS1** | 0.913 |
+| IARS1 | **GARS1** | 0.97 |
+| IARS1 | **LARS2** | 0.989 |
+| IARS1 | **LARS1** | 0.999 |
+| VARS1 | **GARS1** | 0.86 |
+| VARS1 | **LARS2** | 0.87 |
+| VARS1 | **TARS1** | 0.905 |
+| VARS1 | **LARS1** | 0.968 |
+| GARS1 | **LARS2** | 0.858 |
+| GARS1 | **LARS1** | 0.895 |
+| GARS1 | **TARS1** | 0.909 |
+| LARS1 | **LARS2** | 0.944 |
+| LARS1 | **TARS1** | 0.98 |
+| TARS1 | **LARS2** | 0.98 |
+

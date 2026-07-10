@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NEMF
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NEMF
+Identifiant STRING officiel : `9606.ENSP00000298310`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL35 | **LTN1** | 0.817 |
+| RPL35 | **NEMF** | 0.886 |
+| RPL35 | **RPL26** | 0.999 |
+| RPL35 | **RPL23A** | 0.999 |
+| RPL35 | **RPL17** | 0.999 |
+| RPL35 | **RPL8** | 0.999 |
+| RPL35 | **RPL11** | 0.999 |
+| RPL35 | **RPL9** | 0.999 |
+| RPL35 | **RPL5** | 0.999 |
+| RPL35 | **RPL23** | 0.999 |
+| RPL35 | **RPL13A** | 0.999 |
+| RPL35 | **RPL12** | 0.999 |
+| RPL35 | **RPLP0** | 0.999 |
+| RPL35 | **RPL3** | 0.999 |
+| RPL8 | **LTN1** | 0.815 |
+| RPL8 | **NEMF** | 0.885 |
+| RPL8 | **RPL26** | 0.999 |
+| RPL8 | **RPL17** | 0.999 |
+| RPL8 | **RPL23A** | 0.999 |
+| RPL8 | **RPL11** | 0.999 |
+| RPL8 | **RPL9** | 0.999 |
+| RPL8 | **RPL5** | 0.999 |
+| RPL8 | **RPL23** | 0.999 |
+| RPL8 | **RPL13A** | 0.999 |
+| RPL8 | **RPL12** | 0.999 |
+| RPL8 | **RPLP0** | 0.999 |
+| RPL8 | **RPL3** | 0.999 |
+| TCF25 | **LTN1** | 0.954 |
+| TCF25 | **NEMF** | 0.956 |
+| NEMF | **RPL17** | 0.882 |
+| NEMF | **RPL3** | 0.883 |
+| NEMF | **RPL26** | 0.888 |
+| NEMF | **RPLP0** | 0.89 |
+| NEMF | **RPL12** | 0.89 |
+| NEMF | **RPL13A** | 0.892 |
+| NEMF | **RPL9** | 0.895 |
+| NEMF | **RPL23A** | 0.899 |
+| NEMF | **RPL23** | 0.909 |
+| NEMF | **RPL5** | 0.914 |
+| NEMF | **RPL11** | 0.948 |
+| NEMF | **LTN1** | 0.999 |
+| RPL3 | **LTN1** | 0.869 |
+| RPL3 | **RPLP0** | 0.999 |
+| RPL3 | **RPL12** | 0.999 |
+| RPL3 | **RPL13A** | 0.999 |
+| RPL3 | **RPL23** | 0.999 |
+| RPL3 | **RPL5** | 0.999 |
+| RPL3 | **RPL11** | 0.999 |
+| RPL3 | **RPL9** | 0.999 |
+| RPL3 | **RPL23A** | 0.999 |
+| RPL3 | **RPL17** | 0.999 |
+| RPL3 | **RPL26** | 0.999 |
+| RPL12 | **LTN1** | 0.82 |
+| RPL12 | **RPLP0** | 0.999 |
+| RPL12 | **RPL13A** | 0.999 |
+| RPL12 | **RPL5** | 0.999 |
+| RPL12 | **RPL23** | 0.999 |
+| RPL12 | **RPL11** | 0.999 |
+| RPL12 | **RPL9** | 0.999 |
+| RPL12 | **RPL26** | 0.999 |
+| RPL12 | **RPL23A** | 0.999 |
+| RPL12 | **RPL17** | 0.999 |
+| RPL5 | **LTN1** | 0.831 |
+| RPL5 | **RPLP0** | 0.999 |
+| RPL5 | **RPL13A** | 0.999 |
+| RPL5 | **RPL23** | 0.999 |
+| RPL5 | **RPL11** | 0.999 |
+| RPL5 | **RPL9** | 0.999 |
+| RPL5 | **RPL23A** | 0.999 |
+| RPL5 | **RPL17** | 0.999 |
+| RPL5 | **RPL26** | 0.999 |
+| RPL13A | **LTN1** | 0.819 |
+| RPL13A | **RPL11** | 0.999 |
+| RPL13A | **RPL9** | 0.999 |
+| RPL13A | **RPL23** | 0.999 |
+| RPL13A | **RPL23A** | 0.999 |
+| RPL13A | **RPL17** | 0.999 |
+| RPL13A | **RPL26** | 0.999 |
+| RPL13A | **RPLP0** | 0.999 |
+| RPL23A | **LTN1** | 0.863 |
+| RPL23A | **RPL17** | 0.999 |
+| RPL23A | **RPL26** | 0.999 |
+| RPL23A | **RPL11** | 0.999 |
+| RPL23A | **RPL9** | 0.999 |
+| RPL23A | **RPL23** | 0.999 |
+| RPL23A | **RPLP0** | 0.999 |
+| RPL23 | **LTN1** | 0.815 |
+| RPL23 | **RPL11** | 0.999 |
+| RPL23 | **RPL9** | 0.999 |
+| RPL23 | **RPL17** | 0.999 |
+| RPL23 | **RPL26** | 0.999 |
+| RPL23 | **RPLP0** | 0.999 |
+| RPLP0 | **LTN1** | 0.817 |
+| RPLP0 | **RPL17** | 0.999 |
+| RPLP0 | **RPL26** | 0.999 |
+| RPLP0 | **RPL11** | 0.999 |
+| RPLP0 | **RPL9** | 0.999 |
+| RPL26 | **LTN1** | 0.84 |
+| RPL26 | **RPL17** | 0.999 |
+| RPL26 | **RPL11** | 0.999 |
+| RPL26 | **RPL9** | 0.999 |
+| RPL17 | **LTN1** | 0.812 |
+| RPL17 | **RPL11** | 0.999 |
+| RPL17 | **RPL9** | 0.999 |
+| LTN1 | **RPL9** | 0.833 |
+| LTN1 | **RPL11** | 0.916 |
+| RPL9 | **RPL11** | 0.999 |
+

@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SMPD2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SMPD2
+Identifiant STRING officiel : `9606.ENSP00000258052`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CERK | **ENPP7** | 0.939 |
+| CERK | **SMPD4** | 0.946 |
+| CERK | **SMPD3** | 0.946 |
+| CERK | **SGMS2** | 0.956 |
+| CERK | **CERS3** | 0.957 |
+| CERK | **DEGS1** | 0.959 |
+| CERK | **CERS5** | 0.962 |
+| CERK | **SMPD2** | 0.964 |
+| CERK | **CERS4** | 0.965 |
+| CERK | **CERS2** | 0.967 |
+| CERK | **SGMS1** | 0.967 |
+| CERK | **SMPD1** | 0.968 |
+| CERK | **CERS6** | 0.969 |
+| CERK | **UGCG** | 0.977 |
+| SMPD3 | **NSMAF** | 0.685 |
+| SMPD3 | **CERS3** | 0.943 |
+| SMPD3 | **DEGS1** | 0.946 |
+| SMPD3 | **CERS5** | 0.946 |
+| SMPD3 | **CERS6** | 0.949 |
+| SMPD3 | **ENPP7** | 0.949 |
+| SMPD3 | **CERS4** | 0.949 |
+| SMPD3 | **UGCG** | 0.95 |
+| SMPD3 | **CERS2** | 0.951 |
+| SMPD3 | **SGMS1** | 0.957 |
+| SMPD3 | **SGMS2** | 0.96 |
+| SMPD3 | **SMPD1** | 0.989 |
+| SMPD3 | **SMPD4** | 0.996 |
+| SMPD3 | **SMPD2** | 0.998 |
+| CERS4 | **CERS3** | 0.911 |
+| CERS4 | **CERS6** | 0.928 |
+| CERS4 | **CERS5** | 0.935 |
+| CERS4 | **CERS2** | 0.94 |
+| CERS4 | **ENPP7** | 0.943 |
+| CERS4 | **SMPD4** | 0.946 |
+| CERS4 | **SGMS2** | 0.957 |
+| CERS4 | **SGMS1** | 0.961 |
+| CERS4 | **SMPD1** | 0.962 |
+| CERS4 | **UGCG** | 0.964 |
+| CERS4 | **SMPD2** | 0.966 |
+| CERS4 | **DEGS1** | 0.97 |
+| SMPD2 | **CERS3** | 0.956 |
+| SMPD2 | **DEGS1** | 0.96 |
+| SMPD2 | **ENPP7** | 0.965 |
+| SMPD2 | **CERS5** | 0.965 |
+| SMPD2 | **CERS2** | 0.967 |
+| SMPD2 | **CERS6** | 0.968 |
+| SMPD2 | **SGMS1** | 0.968 |
+| SMPD2 | **SGMS2** | 0.969 |
+| SMPD2 | **UGCG** | 0.973 |
+| SMPD2 | **NSMAF** | 0.991 |
+| SMPD2 | **SMPD4** | 0.994 |
+| SMPD2 | **SMPD1** | 0.994 |
+| CERS2 | **CERS3** | 0.906 |
+| CERS2 | **ENPP7** | 0.933 |
+| CERS2 | **CERS5** | 0.94 |
+| CERS2 | **CERS6** | 0.946 |
+| CERS2 | **SMPD4** | 0.952 |
+| CERS2 | **SGMS2** | 0.96 |
+| CERS2 | **SGMS1** | 0.964 |
+| CERS2 | **SMPD1** | 0.968 |
+| CERS2 | **UGCG** | 0.97 |
+| CERS2 | **DEGS1** | 0.974 |
+| CERS3 | **ENPP7** | 0.921 |
+| CERS3 | **CERS5** | 0.927 |
+| CERS3 | **CERS6** | 0.927 |
+| CERS3 | **SMPD4** | 0.939 |
+| CERS3 | **SGMS2** | 0.951 |
+| CERS3 | **SMPD1** | 0.959 |
+| CERS3 | **UGCG** | 0.964 |
+| CERS3 | **DEGS1** | 0.965 |
+| CERS3 | **SGMS1** | 0.975 |
+| DEGS1 | **ENPP7** | 0.924 |
+| DEGS1 | **SMPD4** | 0.952 |
+| DEGS1 | **SMPD1** | 0.953 |
+| DEGS1 | **SGMS2** | 0.953 |
+| DEGS1 | **SGMS1** | 0.962 |
+| DEGS1 | **CERS5** | 0.971 |
+| DEGS1 | **UGCG** | 0.972 |
+| DEGS1 | **CERS6** | 0.977 |
+| CERS5 | **CERS6** | 0.937 |
+| CERS5 | **ENPP7** | 0.939 |
+| CERS5 | **SMPD4** | 0.94 |
+| CERS5 | **SGMS2** | 0.949 |
+| CERS5 | **SGMS1** | 0.951 |
+| CERS5 | **UGCG** | 0.964 |
+| CERS5 | **SMPD1** | 0.964 |
+| ENPP7 | **SGMS2** | 0.926 |
+| ENPP7 | **UGCG** | 0.934 |
+| ENPP7 | **SGMS1** | 0.935 |
+| ENPP7 | **CERS6** | 0.946 |
+| ENPP7 | **SMPD4** | 0.959 |
+| ENPP7 | **SMPD1** | 0.965 |
+| SMPD1 | **CERS6** | 0.968 |
+| SMPD1 | **UGCG** | 0.969 |
+| SMPD1 | **SMPD4** | 0.969 |
+| SMPD1 | **SGMS2** | 0.972 |
+| SMPD1 | **SGMS1** | 0.975 |
+| SGMS1 | **SGMS2** | 0.909 |
+| SGMS1 | **CERS6** | 0.961 |
+| SGMS1 | **UGCG** | 0.963 |
+| SGMS1 | **SMPD4** | 0.968 |
+| UGCG | **SMPD4** | 0.948 |
+| UGCG | **SGMS2** | 0.961 |
+| UGCG | **CERS6** | 0.972 |
+| CERS6 | **SMPD4** | 0.952 |
+| CERS6 | **SGMS2** | 0.96 |
+| SGMS2 | **SMPD4** | 0.959 |
+
