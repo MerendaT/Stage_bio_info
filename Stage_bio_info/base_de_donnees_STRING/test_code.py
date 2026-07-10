@@ -7,17 +7,18 @@
 import os
 import requests
 import json
+from pathlib import Path
 import time
 import pandas as pd  # Pour lire xlsx
 
 # 1. CONFIGURATION DES CHEMINS DE SORTIE
 
 # Dossier ou seront sauvegardes les rapports Markdown 
-out_dir = "string_reports"
+out_dir = Path("/home/tmerenda/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/string_reports")
 out_dir.mkdir(exist_ok=True, parents=True)
 
 # Fichier xlsx source UniProt
-EXCEL_FILE = "test_ms_uniport.xlsx"
+EXCEL_FILE = Path("/home/tmerenda/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/test_ms_uniport.xlsx")
 UNIPROT_COLUMN = "PG,Genes"  # Nom de la colonne cible
 
 # DICTIONNAIRE GLOBAL 
@@ -71,11 +72,35 @@ fields = [
 
 # Boucle ligne par ligne sur le fichier Excel
 for row in df:
-    prot_name = row.strip()
+    prot_name = str(row).strip()
+    print(f" Connexion à STRING-DB pour : {prot_name}")
+    
+    url_map = "https://string-db.org/api/json/get_string_ids"
+    
+    # mapping
+    param_map= {
+        "identifiers": prot_name,
+        "species": tax_id,
+        "limit":1
+        }
+    
+    string_id_valide = None
+    try: 
+        res_map = requests.get(url_map, param=param_map, time=10)
+        if res_map.status_code == 200:
+            string_id_valide = res_map.json()[0].get("stringId")
+    except Exception as e:
+        print(f"erreur lors du mapping de {prot_name} dans STRING")
+        
+   # si STRING n'a pas reussi a traduire le nom, on passe au suivant  
+    if not string_id_valide:
+        print(f" impossible de mapper : {prot_name} dans STRING")
+    
+    print(f" Match trouvé dans STRING : {string_id_valide}")
     
     # Configuration des paramètres STRING pour cette protéine
     api_params = {
-    "preferredNames": prot_name,
+    "identifiers": string_id_valide,
     "species": tax_id,
     "fields": ",".join(fields),
     "format": "json",
@@ -83,9 +108,10 @@ for row in df:
     }
 
     raw_json = None
-    print(f" Connexion à STRING-DB pour : {prot_name}")
+    print(f" Connexion à STRING-DB pour : {string_id_valide}")
     try:
         response = requests.get(url_string, params=api_params, timeout=10)
+        print(f" URL {prot_name}: {response.url}")
         if response.status_code == 200:
             raw_json = response.json()
         else:
@@ -182,7 +208,7 @@ if liste_preferred_valides:
 
 # 5. ECRITURE DU FICHIER TEXTE FINAL
 safe_name = "".join([c if c.isalnum() else "_" for c in prot_name])
-out_txt = out_dir / f"{safe_name}"
+out_txt = out_dir / f"{safe_name}.md"
 
 with open(out_txt, "w", encoding="utf-8") as f_txt:
     f_txt.write(f"# RÉSULTATS DE LA RECHERCHE STRING-DB\n")
