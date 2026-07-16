@@ -32,7 +32,8 @@ La deuxième tâche m'a permit d'apprendre à effectuer en toute autonomie une r
 Pour ma dernière tâche, je dois reprendre le code d'appelle de l'API et le modifier afin qu'il prenne en compte un fichier xlsx comprenant toutes les données de spectro masse, de récupérer les données utiles et de faire une requête dans la base de données STRING ensuite un récupère ce que nous renvoie la base et on prend ce que l'on souhaite garder. Ici on récupère l'identifiant permettant de refaire une autre requête qui sera cette fois spécifique aux enrichissement protéiques afin de récupérer les protéines ayant un lien avec celle du fichier puis d'en faire un dictionnaire de liste de la forme {proteine principale:"[nom des protéines]"}. Vous trouverez le code ici [enrichissement](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py)
 
 ## __3. L'apport de ce stage__
-* __Python__
+
+* __Python__ (corps du code)
     * amélioration et documentation de code
         * _permet de consolider mes bases_
         * _permet d'aider à une meilleure compréhension du code pour ses utilisateurs futur_
@@ -40,5 +41,12 @@ Pour ma dernière tâche, je dois reprendre le code d'appelle de l'API et le mod
         * _amélioration de la comparaison de fichier_
         * _priorisation de certains critères de selection_
     * automatisation de la determination de complexe protéiques avec extraction de base de données
-
+* __Bash__ (environnement)
+    * compréhension des lignes de commandes
+        *_permet d'avoir un meilleur aperçu des chemins brut_
+    * exécution de code avec utilisation de commande linux
+        * _permet de développer sa maitrise de plusieurs OS_
+    * création et mise en exécution de l'environnement pixi
+        *_permet d'avoir et d'intaller des packages sans besoin de droit admnistrateur_
+        
 ## __4. Conclusion__
