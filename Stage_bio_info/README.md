@@ -44,11 +44,11 @@ Pour ma dernière tâche, je dois reprendre le code d'appelle de l'API et le mod
     * automatisation de la determination de complexe protéiques avec extraction de base de données
 * __Bash (environnement)__
     * compréhension des lignes de commandes
-        *_permet d'avoir un meilleur aperçu des chemins brut_
+        * _permet d'avoir un meilleur aperçu des chemins brut_
     * exécution de code avec utilisation de commande linux
         * _permet de développer sa maitrise de plusieurs OS_
     * création et mise en exécution de l'environnement pixi
-        *_permet d'avoir et d'intaller des packages sans avoir besoin des droits admnistrateurs_
+        * _permet d'avoir et d'intaller des packages sans avoir besoin des droits admnistrateurs_
         
 ## __4. Versions__
 
