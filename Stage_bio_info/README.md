@@ -5,7 +5,8 @@
 |                             |
 |:---------------------------:|
 |[__Contexte__](#Contexte)    |
-|[__Détails__](#détails)      |
+|[__L'apport de ce stage__](#L'apport de ce stage')      |
+|[__Versions__](#Versions)
 |[__Conclusion__](#conclusion)|
 
 
@@ -33,7 +34,7 @@ Pour ma dernière tâche, je dois reprendre le code d'appelle de l'API et le mod
 
 ## __3. L'apport de ce stage__
 
-* __Python__ (corps du code)
+* __Python (corps du code)__
     * amélioration et documentation de code
         * _permet de consolider mes bases_
         * _permet d'aider à une meilleure compréhension du code pour ses utilisateurs futur_
@@ -41,12 +42,15 @@ Pour ma dernière tâche, je dois reprendre le code d'appelle de l'API et le mod
         * _amélioration de la comparaison de fichier_
         * _priorisation de certains critères de selection_
     * automatisation de la determination de complexe protéiques avec extraction de base de données
-* __Bash__ (environnement)
+* __Bash (environnement)__
     * compréhension des lignes de commandes
         *_permet d'avoir un meilleur aperçu des chemins brut_
     * exécution de code avec utilisation de commande linux
         * _permet de développer sa maitrise de plusieurs OS_
     * création et mise en exécution de l'environnement pixi
-        *_permet d'avoir et d'intaller des packages sans besoin de droit admnistrateur_
+        *_permet d'avoir et d'intaller des packages sans avoir besoin des droits admnistrateurs_
         
-## __4. Conclusion__
+## __4. Versions__
+
+ 
+## __5. Conclusion__
