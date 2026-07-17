@@ -14,7 +14,8 @@
 
 ---
 
-<a id="contexte"></a>
+<div id="contexte"></div>
+
 ## 2. Contexte
 
 ### 2.1 Contexte Institutionnel : Institut de Biologie Intégrative de la Cellule (I2BC)
@@ -57,7 +58,8 @@ Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonc
 
 ---
 
-<a id="apport"></a>
+<div id="apport"></div>
+
 ## 3. L'apport de ce stage
 
 Ce stage m'a permis de faire le pont entre la théorie informatique et les applications biologiques concrètes, développant ainsi une double compétence en développement logiciel et en analyse de données biologiques.
@@ -74,7 +76,8 @@ Ce stage m'a permis de faire le pont entre la théorie informatique et les appli
 
 ---
 
-<a id="comparaison"></a>
+<div id="comparaison"></div>
+
 ## 4. Comparaison des Technologies d'Environnement
 
 Dans le cadre de la reproductibilité de ce projet bio-informatique, le choix de l'outil de gestion d'environnement était crucial. Voici une de l'analyse comparative des technologies d'isolation pour justifier l'utilisation de **Pixi** face à **Docker** et aux **Machines Virtuelles**.
@@ -121,7 +124,8 @@ Une **Machine Virtuelle (VM)** simule l'intégralité d'un matériel informatiqu
 
 ---
 
-<a id="versions"></a>
+<div id="versions"></div>
+
 ## 5. Tableau des Versions et Canaux
 
 Afin de garantir la réutilisabilité et la reproductibilité parfaite des scripts développés, l'environnement de développement a été figé via Pixi en utilisant les canaux de paquets scientifiques de référence (**Conda-Forge** et **Bioconda**). 
@@ -141,11 +145,12 @@ Voici le détail des technologies et bibliothèques logicielles configurées :
 
 ---
 
-<a id="conclusion"></a>
+<div id="conclusion"></div>
+
 ## 6. Conclusion
 
 Ce stage effectué au sein de l'I2BC a été une expérience particulièrement formatrice et valorisante. Travailler sur des problématiques concrètes liées à la régulation de la chromatine et au complexe BAF m'a permis d'appréhender les exigences rigoureuses de la recherche publique en biologie moléculaire et cellulaire, tout en cernant la valeur ajoutée qu'apporte la bio-informatique au quotidien des chercheurs.
 
 Sur le plan technique, j'ai pu consolider et élargir mes compétences en développement logiciel avec Python, en confrontant la théorie académique à la réalité du terrain : la gestion de données biologiques complexes, le traitement automatisé via des requêtes API (UniProt et STRING), et la création de formats de sortie clairs et directement exploitables par l'équipe. De plus, l'adoption d'outils modernes pour la gestion d'environnement comme **Pixi** et de gestion de version comme **Git** m'a sensibilisé de manière concrète aux bonnes pratiques DevOps et à la nécessité impérative de la reproductibilité scientifique.
 
-Au-delà des aspects purement techniques, cette immersion au cœur d'une équipe de recherche m'a permis de gagner en autonomie, de développer ma rigueur méthodologique et d'améliorer mes compétences en communication scientifique en adaptant mes outils aux besoins d'utilisateurs non-informaticiens. Ce stage confirme pleinement mon intérêt pour le domaine de la bio-informatique et valide mon projet d'évoluer professionnellement au croisement des technologies logicielles et de l'analyse de données biologiques.
+Au-delà des aspects purement techniques, cette immersion au cœur d'une équipe de recherche m'a permis de gagner en autonomie, de développer ma rigueur méthodologique et d'améliorer mes compétences en communication scientifique en adaptant mes outils aux besoins d'utilisateurs non-informaticiens. Ce stage confirme pleinement mon intérêt
