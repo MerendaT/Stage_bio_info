@@ -61,10 +61,7 @@ Le livrable final est un dictionnaire Python structuré sous la forme :
 
 Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonctionnelles globales. Le code est consultable dans le script [`enrichissement.py`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py).
 #### Visualisation globale du pipeline et des interactions
-*(Insérer ici le schéma global du pipeline de traitement, illustrant le passage des fichiers d'analyse MS filtrés aux requêtes API STRING)*
-
-*(Insérer ici une représentation visuelle ou un exemple de réseau d'interactions de protéines clés issues du complexe BAF pour simplifier la compréhension de la structure des données de sortie)*
-
+*(schema à inserer)
 ---
 
 ## 3. L'apport de ce stage
