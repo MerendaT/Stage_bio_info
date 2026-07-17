@@ -1,56 +1,146 @@
-# Stage de Bio-Informaique
+# Rapport de Stage : Automatisation de Requêtes d'Enrichissement de Complexes Protéiques en Bio-informatique
 
-# __1. Sommaire__
+---
 
-|                             |
-|:---------------------------:|
-|[__Contexte__](#Contexte)    |
-|[__L'apport de ce stage__](#L'apport de ce stage')      |
-|[__Versions__](#Versions)
-|[__Conclusion__](#conclusion)|
+## 1. Sommaire
 
+| Sections | Description |
+| :--- | :--- |
+| [**2. Contexte**](#2-contexte) | Présentation du cadre institutionnel, de la problématique et de la démarche. |
+| [**3. L'apport de ce stage**](#3-lapport-de-ce-stage) | Compétences techniques développées et valorisation des livrables. |
+| [**4. Comparaison des Technologies d'Environnement**](#4-comparaison-des-technologies-denvironnement) | Analyse comparative de Pixi, Docker et des Machines Virtuelles. |
+| [**5. Tableau des Versions et Canaux**](#5-tableau-des-versions-et-canaux) | Traçabilité et reproductibilité des outils et dépendances du projet. |
+| [**6. Conclusion**](#6-conclusion) | Bilan de l'expérience, apports personnels et perspectives. |
 
-## __2. Contexte__
-### 2.1 Contexte Institutionnel : Institut de Biologie Intégrative de la Celule (I2BC)
+---
 
-Mon stage s'est déroulé au sein de l'Institut de Biologie Intégrative de la Celule (I2BC), une Unité Mixte de Recherche (UMR) d'envergure internationale placée sous la tutelle du CNRS, du CEA et de l'Université Paris-Saclay. Situé sur le campus de Gif-Sur-Yvette, cet institut regroupe de nombreuses équipes de recherche qui explorent les mécanismes fondamentaux du vivant,de la structure des macromolécules jusqu'au fonctionnement global des cellules et des organismes.
+## 2. Contexte
 
-La recherche moderne génère une quantité massive de données surtout avec le séquençage à haut débit et l'imagerie. C'est pour quoi l'I2BC intègre pleinement la bio-informatique au coeur de ses activités, combinant l'informatique, les statistiques et la biologie pour analyser et interpréter ces données complexes.
+### 2.1 Contexte Institutionnel : Institut de Biologie Intégrative de la Cellule (I2BC)
 
-J'ai eu l'opportunité d'intégrer l'équipe de la Bio-Informaticienne Emilie Drouineau, qui concentre ses recherches sur le phasing des nucléosomes et sur l'impact de la perte de fonction des protéines du complexe BAF sur la régulation de la chromatine.
+Mon stage s'est déroulé au sein de l'**Institut de Biologie Intégrative de la Cellule (I2BC)**, une Unité Mixte de Recherche (UMR 9198) d'envergure internationale. Placé sous la triple tutelle du **CNRS**, du **CEA** et de l'**Université Paris-Saclay**, cet institut est implanté sur le campus de Gif-sur-Yvette. L'I2BC rassemble de nombreuses équipes de recherche d'excellence dont l'objectif commun est d'explorer les mécanismes fondamentaux du vivant, allant de la structure atomique des macromolécules jusqu'au fonctionnement global et intégré des cellules et des organismes.
+
+À l'ère de la biologie quantitative, la recherche génère une quantité massive de données, portée notamment par l'essor des technologies de séquençage à haut débit (NGS) et de l'imagerie cellulaire avancée. Face à ce déluge de données, la **bio-informatique** est devenue un pilier incontournable à l'I2BC. Elle combine l'informatique, les statistiques et la biologie pour stocker, traiter, analyser et interpréter ces données complexes.
+
+J'ai eu l'opportunité d'intégrer l'équipe dirigée par la bio-informaticienne **Émilie Drouineau**. Ses axes de recherche se concentrent sur le **phasing des nucléosomes** et sur l'impact de la perte de fonction des protéines du **complexe BAF** (un remodelur de la chromatine essentiel) sur la régulation de la chromatine et l'expression génique.
 
 ### 2.2 La problématique scientifique et les besoins de l'équipe
-Création d'un code python pour permettre l'interrogation de la base de données publique appelé STRING, pour récupérer les listes protéiques appartenant à des complexes d'intérêts afin de réaliser dans un deuxième temps de l'enrichissement de complexe protéique à partir de résultats de spectro masse avec le logiciel GSEAPY. 
 
-Le code doit être reproductible signifiant que la documentation ainsi que les versions utilisées seront implémentées dans les code et l'utilisation de git est de rigueur afin de voir l'avancer de mes travaux.
+Dans le cadre des analyses en spectrométrie de masse (MS) réalisées par l'équipe, l'identification brute de protéines ne suffit pas à comprendre les mécanismes biologiques sous-jacents. Il est nécessaire de contextualiser ces résultats en identifiant si ces protéines interagissent ou appartiennent à des complexes macromoléculaires connus.
 
-### 2.3 Comment ai-je fait pour réaliser ces tâches ?
+L'objectif principal de mon stage a été la **création d'un pipeline Python reproductible** permettant d'interroger automatiquement la base de données publique **STRING** (Search Tool for the Retrieval of Interacting Genes/Proteins). Ce script doit extraire les listes protéiques appartenant à des complexes d'intérêt afin de réaliser, dans un second temps, une analyse d'enrichissement de complexes protéiques à partir des résultats bruts de spectrométrie de masse en s'appuyant sur la bibliothèque logicielle **GSEAPY** (Gene Set Enrichment Analysis in Python).
 
-Tout d'abord, un biologiste m'a demandé de vérifier et d'améliorer son code. Il consistait à prendre en lecture un fichier excel, comprenant des noms de protéines, afin de retrouver toutes leurs particularités au seins de la base de données UniProt grâce à une requête API. Vous pouvez retrouver les deux code au sein du dossier [base_de_donnees_UniProt](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_UniProt)
+Une contrainte majeure de ce projet résidait dans la **reproductibilité de la recherche**. Pour garantir qu'un chercheur puisse réexécuter le pipeline à l'identique dans le futur, j'ai dû porter une attention stricte à :
+* La documentation fine du code (docstrings, commentaires rigoureux).
+* Le suivi strict du versionnage des dépendances logicielles.
+* L'utilisation systématique de **Git** pour le suivi de versions du code source, favorisant ainsi le travail collaboratif et la transparence des développements.
 
-La deuxième tâche m'a permit d'apprendre à effectuer en toute autonomie une requête API de STRING, afin de rechercher d'avantage de données protéiques. Cependant, cela n'a pas été facile, car il a fallu aller chercher directement depuis le web dans la base de données STRING, afin de savoir les identifiants exacts pour répondre au besoin demandé. Ensuite le code est simple d'utilisation il suffit de rentrer le nom d'un gène par exemple INS pour l'insuline puis, si l'on connait déjà le nom de la protéine il nous suffit de la marquer dans le filtre sinon de simplement laissez un vide et le code se chargera de tout. Vous n'aurez plus qu'à chercher dans le dossier final au format markdown ce qui vous intéresse. Ce code se trouve dans [base_de_donnees_STRING](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING) et se nomme [code_requete_API_STRING.py](https://github.com/loquo44/Stage_bio_info/blob/main/base_de_donnees_STRING/code_requete_API_STRING.py).
+### 2.3 Démarche de réalisation et méthodologie
 
-Pour ma dernière tâche, je dois reprendre le code d'appelle de l'API et le modifier afin qu'il prenne en compte un fichier xlsx comprenant toutes les données de spectro masse, de récupérer les données utiles et de faire une requête dans la base de données STRING ensuite un récupère ce que nous renvoie la base et on prend ce que l'on souhaite garder. Ici on récupère l'identifiant permettant de refaire une autre requête qui sera cette fois spécifique aux enrichissement protéiques afin de récupérer les protéines ayant un lien avec celle du fichier puis d'en faire un dictionnaire de liste de la forme {proteine principale:"[nom des protéines]"}. Vous trouverez le code ici [enrichissement](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py)
+#### Étape 1 : Optimisation et refactorisation du script UniProt
+Ma première mission a consisté à auditer, documenter et améliorer un script existant développé initialement par un biologiste de l'équipe. Ce programme prenait en entrée un fichier Excel contenant une liste de noms de protéines pour en récupérer les caractéristiques (annotations, fonctions, structures) au sein de la base de données **UniProt** via des requêtes API. 
 
-## __3. L'apport de ce stage__
+Mon rôle a été de structurer ce code en modules, d'optimiser la gestion des exceptions lors des appels réseaux et de fiabiliser l'écriture des fichiers de sortie. Les codes d'origine et optimisés sont disponibles dans le répertoire [`base_de_donnees_UniProt`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_UniProt).
 
-* __Python (corps du code)__
-    * amélioration et documentation de code
-        * _permet de consolider mes bases_
-        * _permet d'aider à une meilleure compréhension du code pour ses utilisateurs futur_
-    * uniformisation de fichier type base de données
-        * _amélioration de la comparaison de fichier_
-        * _priorisation de certains critères de selection_
-    * automatisation de la determination de complexe protéiques avec extraction de base de données
-* __Bash (environnement)__
-    * compréhension des lignes de commandes
-        * _permet d'avoir un meilleur aperçu des chemins brut_
-    * exécution de code avec utilisation de commande linux
-        * _permet de développer sa maitrise de plusieurs OS_
-    * création et mise en exécution de l'environnement pixi
-        * _permet d'avoir et d'intaller des packages sans avoir besoin des droits admnistrateurs_
-        
-## __4. Versions__
+#### Étape 2 : Autonomie et requêtage de l'API STRING
+La seconde tâche a consisté à concevoir de manière autonome un script d'interrogation de l'API de la base de données STRING. Cette étape a nécessité une phase d'exploration technique directement sur la plateforme web de STRING afin d'identifier les identifiants d'API exacts (*endpoints*, paramètres de filtrage, scores de confiance d'interaction) adaptés aux besoins de l'équipe. 
 
- 
-## __5. Conclusion__
+Le script final se veut simple d'utilisation et flexible : l'utilisateur saisit le nom d'un gène cible (par exemple `INS` pour l'insuline). Si l'utilisateur connaît déjà le nom de la protéine d'intérêt, il peut appliquer un filtre direct ; dans le cas contraire, le code balaye l'ensemble des interactions associées. Les résultats sont automatiquement compilés et mis en forme dans un fichier au format Markdown pour une lisibilité optimale par les biologistes. Ce travail est disponible sous le nom [`code_requete_API_STRING.py`](https://github.com/loquo44/Stage_bio_info/blob/main/base_de_donnees_STRING/code_requete_API_STRING.py).
+
+#### Étape 3 : Automatisation de l'enrichissement protéique
+La dernière phase de mon projet consistait à interconnecter les outils développés. J'ai fait évoluer le script d'appel API pour qu'il traite un fichier `.xlsx` brut issu de la spectrométrie de masse. Le programme extrait automatiquement les identifiants pertinents, interroge STRING pour obtenir le réseau d'interactions, puis applique un filtre strict sur les données renvoyées par l'API.
+
+À partir de l'identifiant d'interaction récupéré, le script effectue une seconde requête spécifique aux enrichissements protéiques. L'objectif est d'isoler toutes les protéines partenaires liées fonctionnellement à la protéine du fichier initial. Le livrable final est un dictionnaire Python structuré sous la forme :
+`{ protéine_principale: ["protéine_partenaire_1", "protéine_partenaire_2", ...] }`
+Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonctionnelles globales. Le code est consultable dans le script [`enrichissement.py`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py).
+
+---
+
+## 3. L'apport de ce stage
+
+Ce stage m'a permis de faire le pont entre la théorie informatique et les applications biologiques concrètes, développant ainsi une double compétence en développement logiciel et en analyse de données biologiques.
+
+### 3.1 Compétences en Python (Cœur du développement)
+* **Amélioration, refactorisation et documentation de code :** Ce travail m'a permis de consolider mes bases en programmation orientée objet et fonctionnelle. Documenter le code selon les standards (PEP 8) garantit une maintenance et une réutilisation simplifiées par les futurs membres du laboratoire.
+* **Uniformisation de fichiers de bases de données :** J'ai appris à standardiser des structures de données hétérogènes, facilitant les opérations de comparaison et de fusion de fichiers, tout en implémentant des critères de sélection stricts pour prioriser les données biologiques de haute confiance.
+* **Automatisation des processus :** L'extraction automatisée et le parsing de données web (JSON/TSV) ont permis de transformer une tâche manuelle chronophage en un pipeline de calcul reproductible et instantané.
+
+### 3.2 Compétences en Bash et gestion d'environnement
+* **Maîtrise de la ligne de commande Linux :** L'utilisation quotidienne du terminal m'a permis de manipuler efficacement les arborescences de fichiers complexes via des chemins absolus et relatifs.
+* **Interopérabilité des systèmes (OS) :** Développer et exécuter des scripts dans un environnement Linux m'a sensibilisé aux problématiques de portabilité du code entre les systèmes d'exploitation (Windows, macOS, Linux).
+* **Gestion moderne des environnements avec Pixi :** J'ai configuré et déployé l'environnement de travail du projet à l'aide de Pixi, garantissant l'isolation complète des dépendances du projet sans impacter le système d'exploitation global.
+
+---
+
+## 4. Comparaison des Technologies d'Environnement
+
+Dans le cadre de la reproductibilité de ce projet bio-informatique, le choix de l'outil de gestion d'environnement était crucial. Voici une de l'analyse comparative des technologies d'isolation pour justifier l'utilisation de **Pixi** face à **Docker** et aux **Machines Virtuelles**.
+
+### 4.1 Pixi (Gestionnaire de paquets et d'environnements)
+**Pixi** est un outil de gestion d'environnement moderne basé sur l'écosystème Conda/mamba et développé en Rust. Il permet d'installer des paquets et de figer des versions logicielles de manière isolée pour un projet donné.
+
+* **Avantages :**
+    * **Performance et rapidité :** Grâce à l'utilisation de liens physiques (*hard-links*), Pixi installe les dépendances presque instantanément sans dupliquer inutilement l'espace disque.
+    * **Absence de privilèges administrateur :** Contrairement à Docker, Pixi s'exécute entièrement dans l'espace utilisateur. Il ne nécessite pas les droits `sudo`, ce qui est un atout majeur sur les serveurs de calcul partagés des instituts de recherche comme l'I2BC.
+    * **Légèreté :** Il n'embarque pas de système d'exploitation virtuel. Il installe uniquement les binaires nécessaires (Python, bibliothèques C/C++, paquets spécifiques).
+* **Inconvénients :**
+    * **Isolation partielle :** Pixi isole l'environnement applicatif (les paquets), mais le code s'exécute directement sur le noyau de la machine hôte. Si un script dépend d'une fonctionnalité exclusive du noyau Linux, il ne fonctionnera pas de manière native sur Windows.
+
+### 4.2 Docker (Conteneurisation)
+**Docker** encapsule une application et l'ensemble de ses dépendances au sein d'un conteneur léger et isolé, partageant le noyau du système d'exploitation hôte.
+
+* **Avantages :**
+    * **Reproductibilité absolue :** Le conteneur embarque son propre mini-OS (souvent une base Alpine ou Ubuntu). Le comportement du code est rigoureusement identique sur la machine du développeur, sur le serveur de l'I2BC ou sur un cloud public.
+    * **Standard industriel :** Docker et les conteneurs sont parfaitement adaptés au déploiement de pipelines à grande échelle (Nextflow, Snakemake, Kubernetes).
+* **Inconvénients :**
+    * **Complexité et lourdeur :** La création d'images via un `Dockerfile` nécessite un temps d'apprentissage et de build non négligeable.
+    * **Exigence de sécurité :** L'exécution du démon Docker requiert généralement des droits d'administration, ce qui pose de strictes contraintes de sécurité sur les infrastructures partagées en recherche.
+
+### 4.3 Machines Virtuelles (Virtualisation complète)
+Une **Machine Virtuelle (VM)** simule l'intégralité d'un matériel informatique (CPU, RAM, Disque) au-dessus d'un hyperviseur pour y exécuter un système d'exploitation invité complet.
+
+* **Avantages :**
+    * **Isolation étanche :** La VM est totalement coupée du système hôte, ce qui offre une sécurité maximale et permet de faire tourner des OS complètement différents.
+* **Inconvénients :**
+    * **Surconsommation de ressources :** Une VM nécessite l'allocation rigide d'une partie de la RAM et du CPU de la machine physique, ce qui ralentit considérablement l'ordinateur hôte.
+    * **Lenteur opérationnelle :** Les temps de démarrage (boot de l'OS invité) et la taille des fichiers d'images (plusieurs Go) rendent cette technologie inadaptée pour de la simple gestion d'environnements de scripts légers au quotidien.
+
+### Synthèse des technologies
+
+| Critère | Pixi | Docker | Machine Virtuelle |
+| :--- | :--- | :--- | :--- |
+| **Niveau d'isolation** | Applicatif (Dépendances) | Conteneur (Processus/OS léger) | Matériel (OS Complet) |
+| **Poids sur le disque** | Très léger (Mo à Go) | Moyen (Centaines de Mo à Go) | Très lourd (Plusieurs Go) |
+| **Droits Administrateur**| Non requis (Utilisateur) | Requis (Démon root) | Requis pour l'installation |
+| **Cas d'usage idéal** | Développement local rapide | Déploiement & Production | Isolation stricte d'OS |
+
+> **Choix pour le stage :** L'utilisation de **Pixi** a été privilégiée pour ce projet car elle offrait le meilleur compromis entre la vitesse d'exécution en phase de développement local et la simplicité de déploiement pour les biologistes de l'équipe, sans se heurter aux restrictions de droits d'administration des machines du laboratoire.
+
+---
+
+## 5. Tableau des Versions et Canaux
+
+Afin de garantir la réutilisabilité et la reproductibilité parfaite des scripts développés, l'environnement de développement a été figé via Pixi en utilisant les canaux de paquets scientifiques de référence (**Conda-Forge** et **Bioconda**). 
+
+Voici le détail des technologies et bibliothèques logicielles configurées :
+
+| Outil / Bibliothèque | Version cible | Canal de distribution | Rôle et justification dans le projet |
+| :--- | :--- | :--- | :--- |
+| **Python** | `3.x` *(géré par Pixi)* | Conda-Forge | Langage de programmation principal du projet. |
+| **Pandas** | `>=3.0.3, <4` | Conda-Forge | Manipulation de structures de données tabulaires complexes (DataFrames). |
+| **Numpy** | `>=2.5.1, <3` | Conda-Forge | Calcul numérique optimisé et gestion des matrices. |
+| **Requests** | `>=2.34.2, <3` | Conda-Forge | Interrogation des API REST d'UniProt et de STRING (envoi et réception de requêtes HTTP). |
+| **Openpyxl** | `>=3.1.5, <4` | Conda-Forge | Lecture et écriture native des fichiers Excel (`.xlsx`) issus de la spectrométrie de masse. |
+| **GSEAPY** | `1.3.*` | Bioconda / Conda-Forge | Bibliothèque d'analyse d'enrichissement de jeux de gènes (GSEA) adaptée à Python. |
+| **Pathlib** | `>=1.0.1, <2` | Conda-Forge | Gestion robuste et de niveau système des chemins de fichiers. |
+| **Python-dateutil** | `>=2.9.0.post0, <3` | Conda-Forge | Manipulation et parsing facilité des formats de dates. |
+
+---
+
+## 6. Conclusion
+
+Ce stage effectué au sein de l'I2BC a été une expérience particulièrement formatrice et valorisante. Travailler sur des problématiques concrètes liées à la régulation de la chromatine et au complexe BAF m'a permis d'appréhender les exigences rigoureuses de la recherche publique en biologie moléculaire et cellulaire, tout en cernant la valeur ajoutée qu'apporte la bio-informatique au quotidien des chercheurs.
+
+Sur le plan technique, j'ai pu consolider et élargir mes compétences en développement logiciel avec Python, en confrontant la théorie académique à la réalité du terrain : la gestion de données biologiques complexes, le traitement automatisé via des requêtes API (UniProt et STRING), et la création de formats de sortie clairs et directement exploitables par l'équipe. De plus, l'adoption d'outils modernes pour la gestion d'environnement comme **Pixi** et de gestion de version comme **Git** m'a sensibilisé de manière concrète aux bonnes pratiques DevOps et à la nécessité impérative de la reproductibilité scientifique.
+
+Au-delà des aspects purement techniques, cette immersion au cœur d'une équipe de recherche m'a permis de gagner en autonomie, de développer ma rigueur méthodologique et d'améliorer mes compétences en communication scientifique en adaptant mes outils aux besoins d'utilisateurs non-informaticiens. Ce stage confirme pleinement mon intérêt pour le domaine de la bio-informatique et valide mon projet d'évoluer professionnellement au croisement des technologies logicielles et de l'analyse de données biologiques.
