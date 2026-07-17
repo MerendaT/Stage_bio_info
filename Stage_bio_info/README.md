@@ -6,15 +6,13 @@
 
 | Sections | Description |
 | :--- | :--- |
-| [**2. Contexte**](#contexte) | Présentation du cadre institutionnel, de la problématique et de la démarche. |
-| [**3. L'apport de ce stage**](#apport) | Compétences techniques développées et valorisation des livrables. |
-| [**4. Comparaison des Technologies d'Environnement**](#comparaison) | Analyse comparative de Pixi, Docker et des Machines Virtuelles. |
-| [**5. Tableau des Versions et Canaux**](#versions) | Traçabilité et reproductibilité des outils et dépendances du projet. |
-| [**6. Conclusion**](#conclusion) | Bilan de l'expérience, apports personnels et perspectives. |
+| [**2. Contexte**](#2-contexte) | Présentation du cadre institutionnel, de la problématique et de la démarche. |
+| [**3. L'apport de ce stage**](#3-lapport-de-ce-stage) | Compétences techniques développées et valorisation des livrables. |
+| [**4. Comparaison des Technologies d'Environnement**](#4-comparaison-des-technologies-denvironnement) | Analyse comparative de Pixi, Docker et des Machines Virtuelles. |
+| [**5. Tableau des Versions et Canaux**](#5-tableau-des-versions-et-canaux) | Traçabilité et reproductibilité des outils et dépendances du projet. |
+| [**6. Conclusion**](#6-conclusion) | Bilan de l'expérience, apports personnels et perspectives. |
 
 ---
-
-<div id="contexte"></div>
 
 ## 2. Contexte
 
@@ -32,7 +30,7 @@ Dans le cadre des analyses en spectrométrie de masse (MS) réalisées par l'éq
 
 L'objectif principal de mon stage a été la **création d'un pipeline Python reproductible** permettant d'interroger automatiquement la base de données publique **STRING** (Search Tool for the Retrieval of Interacting Genes/Proteins). Ce script doit extraire les listes protéiques appartenant à des complexes d'intérêt afin de réaliser, dans un second temps, une analyse d'enrichissement de complexes protéiques à partir des résultats bruts de spectrométrie de masse en s'appuyant sur la bibliothèque logicielle **GSEAPY** (Gene Set Enrichment Analysis in Python).
 
-Une contrainte majeure de ce projet résidait dans la **reproductibilité de la recherche**. Pour garantir qu'un chercheur puisse réexécuter le pipeline à l'identique dans le futur, j'ai dû porter une attention stricte à :
+Une contrainte majeure de ce projet résidait dans la **reproductibilité de la recherche**. Pour garantir qu'un researcher puisse réexécuter le pipeline à l'identique dans le futur, j'ai dû porter une attention stricte à :
 * La documentation fine du code (docstrings, commentaires rigoureux).
 * Le suivi strict du versionnage des dépendances logicielles.
 * L'utilisation systématique de **Git** pour le suivi de versions du code source, favorisant ainsi le travail collaboratif et la transparence des développements.
@@ -50,15 +48,13 @@ La seconde tâche a consisté à concevoir de manière autonome un script d'inte
 Le script final se veut simple d'utilisation et flexible : l'utilisateur saisit le nom d'un gène cible (par exemple `INS` pour l'insuline). Si l'utilisateur connaît déjà le nom de la protéine d'intérêt, il peut appliquer un filtre direct ; dans le cas contraire, le code balaye l'ensemble des interactions associées. Les résultats sont automatiquement compilés et mis en forme dans un fichier au format Markdown pour une lisibilité optimale par les biologistes. Ce travail est disponible sous le nom [`code_requete_API_STRING.py`](https://github.com/loquo44/Stage_bio_info/blob/main/base_de_donnees_STRING/code_requete_API_STRING.py).
 
 #### Étape 3 : Automatisation de l'enrichissement protéique
-La dernière phase de mon projet consistait à interconnecter les outils développés. J'ai fait évoluer le script d'appel API pour qu'il traite un fichier `.xlsx` brut issu de la spectrométrie de masse. Le programme extrait automatiquement les identifiants pertinents, interroge STRING pour obtenir le réseau d'interactions, puis applique un filtre strict sur les données renvoyées par l'API.
+La dernière phase de mon projet considérait à interconnecter les outils développés. J'ai fait évoluer le script d'appel API pour qu'il traite un fichier `.xlsx` brut issu de la spectrométrie de masse. Le programme extrait automatiquement les identifiants pertinents, interroge STRING pour obtenir le réseau d'interactions, puis applique un filtre strict sur les données renvoyées par l'API.
 
 À partir de l'identifiant d'interaction récupéré, le script effectue une seconde requête spécifique aux enrichissements protéiques. L'objectif est d'isoler toutes les protéines partenaires liées fonctionnellement à la protéine du fichier initial. Le livrable final est un dictionnaire Python structuré sous la forme :
 `{ protéine_principale: ["protéine_partenaire_1", "protéine_partenaire_2", ...] }`
 Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonctionnelles globales. Le code est consultable dans le script [`enrichissement.py`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py).
 
 ---
-
-<div id="apport"></div>
 
 ## 3. L'apport de ce stage
 
@@ -75,8 +71,6 @@ Ce stage m'a permis de faire le pont entre la théorie informatique et les appli
 * **Gestion moderne des environnements avec Pixi :** J'ai configuré et déployé l'environnement de travail du projet à l'aide de Pixi, garantissant l'isolation complète des dépendances du projet sans impacter le système d'exploitation global.
 
 ---
-
-<div id="comparaison"></div>
 
 ## 4. Comparaison des Technologies d'Environnement
 
@@ -124,8 +118,6 @@ Une **Machine Virtuelle (VM)** simule l'intégralité d'un matériel informatiqu
 
 ---
 
-<div id="versions"></div>
-
 ## 5. Tableau des Versions et Canaux
 
 Afin de garantir la réutilisabilité et la reproductibilité parfaite des scripts développés, l'environnement de développement a été figé via Pixi en utilisant les canaux de paquets scientifiques de référence (**Conda-Forge** et **Bioconda**). 
@@ -144,8 +136,6 @@ Voici le détail des technologies et bibliothèques logicielles configurées :
 | **Python-dateutil** | `>=2.9.0.post0, <3` | Conda-Forge | Manipulation et parsing facilité des formats de dates. |
 
 ---
-
-<div id="conclusion"></div>
 
 ## 6. Conclusion
 
