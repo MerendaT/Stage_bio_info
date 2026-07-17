@@ -61,7 +61,7 @@ Le livrable final est un dictionnaire Python structuré sous la forme :
 
 Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonctionnelles globales. Le code est consultable dans le script [`enrichissement.py`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py).
 #### Visualisation globale du pipeline et des interactions
-*(schema à inserer)
+* (schema à inserer)
 ---
 
 ## 3. L'apport de ce stage
