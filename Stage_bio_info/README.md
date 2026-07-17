@@ -54,11 +54,12 @@ Il convient de préciser qu'un tel fichier Excel n'est pas une donnée brute : l
 
 Le programme extrait automatiquement les identifiants pertinents de ce fichier, interroge STRING pour obtenir le réseau d'interactions, puis applique un filtre strict sur le score de confiance des données renvoyées par l'API. À partir de l'identifiant d'interaction récupéré, le script effectue une seconde requête spécifique aux enrichissements protéiques afin d'isoler toutes les protéines partenaires liées fonctionnellement à la protéine initiale. 
 
+**C'est à ce stade que le script s'appuie sur la bibliothèque GSEAPY pour exécuter l'analyse d'enrichissement (GSEA - Gene Set Enrichment Analysis), permettant de valider statistiquement la surreprésentation des complexes protéiques identifiés.**
+
 Le livrable final est un dictionnaire Python structuré sous la forme :
 `{ protéine_principale: ["protéine_partenaire_1", "protéine_partenaire_2", ...] }`
 
 Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonctionnelles globales. Le code est consultable dans le script [`enrichissement.py`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py).
-
 #### Visualisation globale du pipeline et des interactions
 *(Insérer ici le schéma global du pipeline de traitement, illustrant le passage des fichiers d'analyse MS filtrés aux requêtes API STRING)*
 
