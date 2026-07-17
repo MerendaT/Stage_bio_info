@@ -6,14 +6,15 @@
 
 | Sections | Description |
 | :--- | :--- |
-| [**2. Contexte**](#2-contexte) | Présentation du cadre institutionnel, de la problématique et de la démarche. |
-| [**3. L'apport de ce stage**](#3-lapport-de-ce-stage) | Compétences techniques développées et valorisation des livrables. |
-| [**4. Comparaison des Technologies d'Environnement**](#4-comparaison-des-technologies-denvironnement) | Analyse comparative de Pixi, Docker et des Machines Virtuelles. |
-| [**5. Tableau des Versions et Canaux**](#5-tableau-des-versions-et-canaux) | Traçabilité et reproductibilité des outils et dépendances du projet. |
-| [**6. Conclusion**](#6-conclusion) | Bilan de l'expérience, apports personnels et perspectives. |
+| [**2. Contexte**](#contexte) | Présentation du cadre institutionnel, de la problématique et de la démarche. |
+| [**3. L'apport de ce stage**](#apport) | Compétences techniques développées et valorisation des livrables. |
+| [**4. Comparaison des Technologies d'Environnement**](#comparaison) | Analyse comparative de Pixi, Docker et des Machines Virtuelles. |
+| [**5. Tableau des Versions et Canaux**](#versions) | Traçabilité et reproductibilité des outils et dépendances du projet. |
+| [**6. Conclusion**](#conclusion) | Bilan de l'expérience, apports personnels et perspectives. |
 
 ---
 
+<a id="contexte"></a>
 ## 2. Contexte
 
 ### 2.1 Contexte Institutionnel : Institut de Biologie Intégrative de la Cellule (I2BC)
@@ -56,6 +57,7 @@ Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonc
 
 ---
 
+<a id="apport"></a>
 ## 3. L'apport de ce stage
 
 Ce stage m'a permis de faire le pont entre la théorie informatique et les applications biologiques concrètes, développant ainsi une double compétence en développement logiciel et en analyse de données biologiques.
@@ -72,6 +74,7 @@ Ce stage m'a permis de faire le pont entre la théorie informatique et les appli
 
 ---
 
+<a id="comparaison"></a>
 ## 4. Comparaison des Technologies d'Environnement
 
 Dans le cadre de la reproductibilité de ce projet bio-informatique, le choix de l'outil de gestion d'environnement était crucial. Voici une de l'analyse comparative des technologies d'isolation pour justifier l'utilisation de **Pixi** face à **Docker** et aux **Machines Virtuelles**.
@@ -118,6 +121,7 @@ Une **Machine Virtuelle (VM)** simule l'intégralité d'un matériel informatiqu
 
 ---
 
+<a id="versions"></a>
 ## 5. Tableau des Versions et Canaux
 
 Afin de garantir la réutilisabilité et la reproductibilité parfaite des scripts développés, l'environnement de développement a été figé via Pixi en utilisant les canaux de paquets scientifiques de référence (**Conda-Forge** et **Bioconda**). 
@@ -137,6 +141,7 @@ Voici le détail des technologies et bibliothèques logicielles configurées :
 
 ---
 
+<a id="conclusion"></a>
 ## 6. Conclusion
 
 Ce stage effectué au sein de l'I2BC a été une expérience particulièrement formatrice et valorisante. Travailler sur des problématiques concrètes liées à la régulation de la chromatine et au complexe BAF m'a permis d'appréhender les exigences rigoureuses de la recherche publique en biologie moléculaire et cellulaire, tout en cernant la valeur ajoutée qu'apporte la bio-informatique au quotidien des chercheurs.
