@@ -18,21 +18,21 @@
 
 ### 2.1 Contexte Institutionnel : Institut de Biologie Intégrative de la Cellule (I2BC)
 
-Mon stage s'est déroulé au sein de l'**Institut de Biologie Intégrative de la Cellule (I2BC)**, une Unité Mixte de Recherche (UMR 9198) d'envergure internationale. Placé sous la triple tutelle du **CNRS**, du **CEA** et de l'**Université Paris-Saclay**, cet institut est implanté sur le campus de Gif-sur-Yvette. L'I2BC rassemble de nombreuses équipes de recherche d'excellence dont l'objectif commun est d'explorer les mécanismes fondamentaux du vivant, allant de la structure atomique des macromolécules jusqu'au fonctionnement global et intégré des cellules et des organismes.
+Mon stage s'est déroulé au sein de l'[Institut de Biologie Intégrative de la Cellule (I2BC)](https://www.i2bc.paris-saclay.fr/), une Unité Mixte de Recherche (UMR 9198) d'envergure internationale. Placé sous la triple tutelle du **CNRS**, du **CEA** et de l'**Université Paris-Saclay**, cet institut est implanté sur le campus de Gif-sur-Yvette. L'I2BC rassemble de nombreuses équipes de recherche d'excellence dont l'objectif commun est d'explorer les mécanismes fondamentaux du vivant, allant de la structure atomique des macromolécules jusqu'au fonctionnement global et intégré des cellules et des organismes.
 
 À l'ère de la biologie quantitative, la recherche génère une quantité massive de données, portée notamment par l'essor des technologies de séquençage à haut débit (NGS) et de l'imagerie cellulaire avancée. Face à ce déluge de données, la **bio-informatique** est devenue un pilier incontournable à l'I2BC. Elle combine l'informatique, les statistiques et la biologie pour stocker, traiter, analyser et interpréter ces données complexes.
 
-J'ai eu l'opportunité d'intégrer l'équipe dirigée par la bio-informaticienne **Émilie Drouineau**. Ses axes de recherche se concentrent sur le **phasing des nucléosomes** et sur l'impact de la perte de fonction des protéines du **complexe BAF** (un remodelur de la chromatine essentiel) sur la régulation de la chromatine et l'expression génique.
+J'ai eu l'opportunité d'intégrer l'équipe de recherche dirigée par **Matthieu Gérard**, en travaillant sous la supervision directe d'**Émilie Drouineau**, responsable bio-informatique de l'équipe. Les axes de recherche du groupe se concentrent sur le **phasing des nucléosomes** et sur l'impact de la perte de fonction des protéines du **complexe BAF** (un remodeleur de la chromatine essentiel) sur la régulation de la chromatine et l'expression génique.
 
 ### 2.2 La problématique scientifique et les besoins de l'équipe
 
-Dans le cadre des analyses en spectrométrie de masse (MS) réalisées par l'équipe, l'identification brute de protéines ne suffit pas à comprendre les mécanismes biologiques sous-jacents. Il est nécessaire de contextualiser ces résultats en identifiant si ces protéines interagissent ou appartiennent à des complexes macromoléculaires connus.
+Dans le cadre des analyses en spectrométrie de masse (MS) réalisées par l'équipe, l'identification des protéines ne suffit pas à comprendre les mécanismes biologiques sous-jacents. Il est nécessaire de contextualiser ces résultats en identifiant si ces protéines interagissent ou appartiennent à des complexes macromoléculaires connus.
 
-L'objectif principal de mon stage a été la **création d'un pipeline Python reproductible** permettant d'interroger automatiquement la base de données publique **STRING** (Search Tool for the Retrieval of Interacting Genes/Proteins). Ce script doit extraire les listes protéiques appartenant à des complexes d'intérêt afin de réaliser, dans un second temps, une analyse d'enrichissement de complexes protéiques à partir des résultats bruts de spectrométrie de masse en s'appuyant sur la bibliothèque logicielle **GSEAPY** (Gene Set Enrichment Analysis in Python).
+L'objectif principal de mon stage a été la **création d'un pipeline Python reproductible** permettant d'interroger automatiquement la base de données publique **STRING** (Search Tool for the Retrieval of Interacting Genes/Proteins). Ce script doit extraire les listes protéiques appartenant à des complexes d'intérêt afin de réaliser, dans un second temps, une analyse d'enrichissement de complexes protéiques à partir des résultats de spectrométrie de masse en s'appuyant sur la bibliothèque logicielle **GSEAPY** (Gene Set Enrichment Analysis in Python).
 
-Une contrainte majeure de ce projet résidait dans la **reproductibilité de la recherche**. Pour garantir qu'un researcher puisse réexécuter le pipeline à l'identique dans le futur, j'ai dû porter une attention stricte à :
+Une contrainte majeure de ce projet résidait dans la **reproductibilité de la recherche**. Pour garantir qu'un chercheur puisse réexécuter le pipeline à l'identique dans le futur, j'ai dû porter une attention stricte à :
 * La documentation fine du code (docstrings, commentaires rigoureux).
-* Le suivi strict du versionnage des dépendances logicielles.
+* Le suivi strict du versionnage des dépendances logicielles via les fichiers de verrouillage.
 * L'utilisation systématique de **Git** pour le suivi de versions du code source, favorisant ainsi le travail collaboratif et la transparence des développements.
 
 ### 2.3 Démarche de réalisation et méthodologie
@@ -43,16 +43,26 @@ Ma première mission a consisté à auditer, documenter et améliorer un script 
 Mon rôle a été de structurer ce code en modules, d'optimiser la gestion des exceptions lors des appels réseaux et de fiabiliser l'écriture des fichiers de sortie. Les codes d'origine et optimisés sont disponibles dans le répertoire [`base_de_donnees_UniProt`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_UniProt).
 
 #### Étape 2 : Autonomie et requêtage de l'API STRING
-La seconde tâche a consisté à concevoir de manière autonome un script d'interrogation de l'API de la base de données STRING. Cette étape a nécessité une phase d'exploration technique directement sur la plateforme web de STRING afin d'identifier les identifiants d'API exacts (*endpoints*, paramètres de filtrage, scores de confiance d'interaction) adaptés aux besoins de l'équipe. 
+La seconde tâche a consisté à concevoir de manière autonome un script d'interrogation de l'API de la base de données STRING. Cette étape a nécessité une phase d'exploration et d'évaluation comparative technique des différentes bases de données d'interactions existantes. L'analyse et les justifications qui ont mené au choix final de STRING sont documentées dans le fichier [`comparaison_base_de_donnees.md`](https://github.com/loquo44/Stage_bio_info/blob/main/base_de_donnees_STRING/comparaison_base_de_donnees.md).
 
 Le script final se veut simple d'utilisation et flexible : l'utilisateur saisit le nom d'un gène cible (par exemple `INS` pour l'insuline). Si l'utilisateur connaît déjà le nom de la protéine d'intérêt, il peut appliquer un filtre direct ; dans le cas contraire, le code balaye l'ensemble des interactions associées. Les résultats sont automatiquement compilés et mis en forme dans un fichier au format Markdown pour une lisibilité optimale par les biologistes. Ce travail est disponible sous le nom [`code_requete_API_STRING.py`](https://github.com/loquo44/Stage_bio_info/blob/main/base_de_donnees_STRING/code_requete_API_STRING.py).
 
-#### Étape 3 : Automatisation de l'enrichissement protéique
-La dernière phase de mon projet considérait à interconnecter les outils développés. J'ai fait évoluer le script d'appel API pour qu'il traite un fichier `.xlsx` brut issu de la spectrométrie de masse. Le programme extrait automatiquement les identifiants pertinents, interroge STRING pour obtenir le réseau d'interactions, puis applique un filtre strict sur les données renvoyées par l'API.
+#### Étape 3 : Automatisation de l'enrichissement protéique et traitement des données MS
+La dernière phase de mon projet consistait à interconnecter les outils développés. Le script d'appel API a été adapté pour traiter un fichier de résultats de spectrométrie de masse au format `.xlsx`. 
 
-À partir de l'identifiant d'interaction récupéré, le script effectue une seconde requête spécifique aux enrichissements protéiques. L'objectif est d'isoler toutes les protéines partenaires liées fonctionnellement à la protéine du fichier initial. Le livrable final est un dictionnaire Python structuré sous la forme :
+Il convient de préciser qu'un tel fichier Excel n'est pas une donnée brute : les spectromètres de masse génèrent initialement des signaux (spectres complexes). Ces signaux bruts passent par un processus rigoureux de comparaison avec des bases de données de spectres théoriques pour identifier et scorer les peptides. Ensuite, des outils bio-informatiques dédiés réalisent une analyse différentielle entre les conditions contrôles et les conditions d'intérêt (incluant des étapes cruciales de filtrage, de normalisation et de calculs statistiques) afin d'aboutir au tableau final `.xlsx` des protéines différentiellement exprimées.
+
+Le programme extrait automatiquement les identifiants pertinents de ce fichier, interroge STRING pour obtenir le réseau d'interactions, puis applique un filtre strict sur le score de confiance des données renvoyées par l'API. À partir de l'identifiant d'interaction récupéré, le script effectue une seconde requête spécifique aux enrichissements protéiques afin d'isoler toutes les protéines partenaires liées fonctionnellement à la protéine initiale. 
+
+Le livrable final est un dictionnaire Python structuré sous la forme :
 `{ protéine_principale: ["protéine_partenaire_1", "protéine_partenaire_2", ...] }`
+
 Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonctionnelles globales. Le code est consultable dans le script [`enrichissement.py`](https://github.com/loquo44/Stage_bio_info/tree/main/base_de_donnees_STRING/enrichissement.py).
+
+#### Visualisation globale du pipeline et des interactions
+*(Insérer ici le schéma global du pipeline de traitement, illustrant le passage des fichiers d'analyse MS filtrés aux requêtes API STRING)*
+
+*(Insérer ici une représentation visuelle ou un exemple de réseau d'interactions de protéines clés issues du complexe BAF pour simplifier la compréhension de la structure des données de sortie)*
 
 ---
 
@@ -63,7 +73,7 @@ Ce stage m'a permis de faire le pont entre la théorie informatique et les appli
 ### 3.1 Compétences en Python (Cœur du développement)
 * **Amélioration, refactorisation et documentation de code :** Ce travail m'a permis de consolider mes bases en programmation orientée objet et fonctionnelle. Documenter le code selon les standards (PEP 8) garantit une maintenance et une réutilisation simplifiées par les futurs membres du laboratoire.
 * **Uniformisation de fichiers de bases de données :** J'ai appris à standardiser des structures de données hétérogènes, facilitant les opérations de comparaison et de fusion de fichiers, tout en implémentant des critères de sélection stricts pour prioriser les données biologiques de haute confiance.
-* **Automatisation des processus :** L'extraction automatisée et le parsing de données web (JSON/TSV) ont permis de transformer une tâche manuelle chronophage en un pipeline de calcul reproductible et instantané.
+* **Automatisation des processus et manipulation de formats standardisés :** L'extraction automatisée et le parsing de données web au format TSV et [JSON](https://json-schema.org/) (en s'appuyant sur les spécifications et schémas officiels de ce format d'échange) ont permis de transformer une tâche manuelle chronophage en un pipeline de calcul reproductible et instantané.
 
 ### 3.2 Compétences en Bash et gestion d'environnement
 * **Maîtrise de la ligne de commande Linux :** L'utilisation quotidienne du terminal m'a permis de manipuler efficacement les arborescences de fichiers complexes via des chemins absolus et relatifs.
@@ -74,7 +84,7 @@ Ce stage m'a permis de faire le pont entre la théorie informatique et les appli
 
 ## 4. Comparaison des Technologies d'Environnement
 
-Dans le cadre de la reproductibilité de ce projet bio-informatique, le choix de l'outil de gestion d'environnement était crucial. Voici une de l'analyse comparative des technologies d'isolation pour justifier l'utilisation de **Pixi** face à **Docker** et aux **Machines Virtuelles**.
+Dans le cadre de la reproductibilité de ce projet bio-informatique, le choix de l'outil de gestion d'environnement était crucial. Voici l'analyse comparative des technologies d'isolation pour justifier l'utilisation de **Pixi** face à **Docker** et aux **Machines Virtuelles**.
 
 ### 4.1 Pixi (Gestionnaire de paquets et d'environnements)
 **Pixi** est un outil de gestion d'environnement moderne basé sur l'écosystème Conda/mamba et développé en Rust. Il permet d'installer des paquets et de figer des versions logicielles de manière isolée pour un projet donné.
@@ -91,7 +101,7 @@ Dans le cadre de la reproductibilité de ce projet bio-informatique, le choix de
 
 * **Avantages :**
     * **Reproductibilité absolue :** Le conteneur embarque son propre mini-OS (souvent une base Alpine ou Ubuntu). Le comportement du code est rigoureusement identique sur la machine du développeur, sur le serveur de l'I2BC ou sur un cloud public.
-    * **Standard industriel :** Docker et les conteneurs sont parfaitement adaptés au déploiement de pipelines à grande échelle (Nextflow, Snakemake, Kubernetes).
+    * **Standard industriel :** Docker et les conteneurs sont parfaitement adaptés au déploiement de pipelines complexes et lourds à grande échelle (souvent orchestrés via des gestionnaires de flux de travail comme Snakemake ou Nextflow).
 * **Inconvénients :**
     * **Complexité et lourdeur :** La création d'images via un `Dockerfile` nécessite un temps d'apprentissage et de build non négligeable.
     * **Exigence de sécurité :** L'exécution du démon Docker requiert généralement des droits d'administration, ce qui pose de strictes contraintes de sécurité sur les infrastructures partagées en recherche.
@@ -118,22 +128,22 @@ Une **Machine Virtuelle (VM)** simule l'intégralité d'un matériel informatiqu
 
 ---
 
-## 5. Tableau des Versions et Canaux
+## 5. Tableau des Versions Exactes et Canaux
 
-Afin de garantir la réutilisabilité et la reproductibilité parfaite des scripts développés, l'environnement de développement a été figé via Pixi en utilisant les canaux de paquets scientifiques de référence (**Conda-Forge** et **Bioconda**). 
+Afin de garantir la réutilisabilité et la reproductibilité parfaite des scripts développés, l'environnement de développement a été figé de manière stricte. Les versions répertoriées ci-dessous correspondent aux versions exactes installées et extraites du fichier de verrouillage de Pixi (`pixi.lock`), garantissant ainsi qu'aucune mise à jour silencieuse ne vienne altérer le comportement du code.
 
-Voici le détail des technologies et bibliothèques logicielles configurées :
+Les canaux de paquets scientifiques de référence utilisés sont **Conda-Forge** et **Bioconda**.
 
-| Outil / Bibliothèque | Version cible | Canal de distribution | Rôle et justification dans le projet |
+| Outil / Bibliothèque | Version exacte (lock) | Canal de distribution | Rôle et justification dans le projet |
 | :--- | :--- | :--- | :--- |
-| **Python** | `3.x` *(géré par Pixi)* | Conda-Forge | Langage de programmation principal du projet. |
-| **Pandas** | `>=3.0.3, <4` | Conda-Forge | Manipulation de structures de données tabulaires complexes (DataFrames). |
-| **Numpy** | `>=2.5.1, <3` | Conda-Forge | Calcul numérique optimisé et gestion des matrices. |
-| **Requests** | `>=2.34.2, <3` | Conda-Forge | Interrogation des API REST d'UniProt et de STRING (envoi et réception de requêtes HTTP). |
-| **Openpyxl** | `>=3.1.5, <4` | Conda-Forge | Lecture et écriture native des fichiers Excel (`.xlsx`) issus de la spectrométrie de masse. |
-| **GSEAPY** | `1.3.*` | Bioconda / Conda-Forge | Bibliothèque d'analyse d'enrichissement de jeux de gènes (GSEA) adaptée à Python. |
-| **Pathlib** | `>=1.0.1, <2` | Conda-Forge | Gestion robuste et de niveau système des chemins de fichiers. |
-| **Python-dateutil** | `>=2.9.0.post0, <3` | Conda-Forge | Manipulation et parsing facilité des formats de dates. |
+| **Python** | `3.12.3` | Conda-Forge | Langage de programmation principal du projet. |
+| **Pandas** | `3.0.3` | Conda-Forge | Manipulation de structures de données tabulaires complexes (DataFrames). |
+| **Numpy** | `2.5.1` | Conda-Forge | Calcul numérique optimisé et gestion des matrices. |
+| **Requests** | `2.34.2` | Conda-Forge | Interrogation des API REST d'UniProt et de STRING (envoi et réception de requêtes HTTP). |
+| **Openpyxl** | `3.1.5` | Conda-Forge | Lecture et écriture native des fichiers Excel (`.xlsx`) issus de l'analyse différentielle de MS. |
+| **GSEAPY** | `1.3.0` | Bioconda / Conda-Forge | Bibliothèque d'analyse d'enrichissement de jeux de gènes (GSEA) adaptée à Python. |
+| **Pathlib** | `1.0.1` | Conda-Forge | Gestion robuste et de niveau système des chemins de fichiers. |
+| **Python-dateutil** | `2.9.0.post0` | Conda-Forge | Manipulation et parsing facilité des formats de dates. |
 
 ---
 
@@ -143,4 +153,4 @@ Ce stage effectué au sein de l'I2BC a été une expérience particulièrement f
 
 Sur le plan technique, j'ai pu consolider et élargir mes compétences en développement logiciel avec Python, en confrontant la théorie académique à la réalité du terrain : la gestion de données biologiques complexes, le traitement automatisé via des requêtes API (UniProt et STRING), et la création de formats de sortie clairs et directement exploitables par l'équipe. De plus, l'adoption d'outils modernes pour la gestion d'environnement comme **Pixi** et de gestion de version comme **Git** m'a sensibilisé de manière concrète aux bonnes pratiques DevOps et à la nécessité impérative de la reproductibilité scientifique.
 
-Au-delà des aspects purement techniques, cette immersion au cœur d'une équipe de recherche m'a permis de gagner en autonomie, de développer ma rigueur méthodologique et d'améliorer mes compétences en communication scientifique en adaptant mes outils aux besoins d'utilisateurs non-informaticiens. Ce stage confirme pleinement mon intérêt
+Au-delà des aspects purement techniques, cette immersion au cœur d'une équipe de recherche m'a permis de gagner en autonomie, de développer ma rigueur méthodologique et d'améliorer mes compétences en communication scientifique en adaptant mes outils aux besoins d'utilisateurs non-informaticiens. Ce stage confirme pleinement mon intérêt pour ce domaine et renforce mon souhait de poursuivre ma spécialisation en bio-informatique, à l'interface de la science des données et de la découverte biologique.
