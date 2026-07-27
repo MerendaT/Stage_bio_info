@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PGD
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PGD
+Identifiant STRING officiel : `9606.ENSP00000270776`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PGLS | **ENO1** | 0.431 |
+| PGLS | **IDH1** | 0.445 |
+| PGLS | **PGM1** | 0.448 |
+| PGLS | **TKTL2** | 0.687 |
+| PGLS | **RPEL1** | 0.691 |
+| PGLS | **TKTL1** | 0.709 |
+| PGLS | **RPE** | 0.717 |
+| PGLS | **TKT** | 0.766 |
+| PGLS | **RPIA** | 0.773 |
+| PGLS | **GPI** | 0.792 |
+| PGLS | **TALDO1** | 0.845 |
+| PGLS | **IDNK** | 0.975 |
+| PGLS | **H6PD** | 0.985 |
+| PGLS | **PGD** | 0.992 |
+| PGLS | **G6PD** | 0.993 |
+| PGD | **IDH1** | 0.877 |
+| PGD | **GPI** | 0.887 |
+| PGD | **ENO1** | 0.903 |
+| PGD | **TKTL1** | 0.943 |
+| PGD | **TKTL2** | 0.943 |
+| PGD | **PGM1** | 0.951 |
+| PGD | **TKT** | 0.975 |
+| PGD | **TALDO1** | 0.986 |
+| PGD | **RPE** | 0.99 |
+| PGD | **RPEL1** | 0.993 |
+| PGD | **IDNK** | 0.994 |
+| PGD | **RPIA** | 0.995 |
+| PGD | **G6PD** | 0.999 |
+| PGD | **H6PD** | 0.999 |
+| TKTL2 | **PGM1** | 0.442 |
+| TKTL2 | **IDNK** | 0.497 |
+| TKTL2 | **IDH1** | 0.587 |
+| TKTL2 | **G6PD** | 0.89 |
+| TKTL2 | **TKTL1** | 0.902 |
+| TKTL2 | **TKT** | 0.902 |
+| TKTL2 | **H6PD** | 0.938 |
+| TKTL2 | **ENO1** | 0.95 |
+| TKTL2 | **RPE** | 0.991 |
+| TKTL2 | **RPIA** | 0.993 |
+| TKTL2 | **RPEL1** | 0.994 |
+| TKTL2 | **GPI** | 0.995 |
+| TKTL2 | **TALDO1** | 0.999 |
+| RPIA | **PGM1** | 0.538 |
+| RPIA | **IDH1** | 0.564 |
+| RPIA | **IDNK** | 0.568 |
+| RPIA | **ENO1** | 0.577 |
+| RPIA | **G6PD** | 0.763 |
+| RPIA | **GPI** | 0.804 |
+| RPIA | **H6PD** | 0.834 |
+| RPIA | **TKTL1** | 0.993 |
+| RPIA | **TKT** | 0.995 |
+| RPIA | **RPEL1** | 0.996 |
+| RPIA | **TALDO1** | 0.998 |
+| RPIA | **RPE** | 0.998 |
+| TALDO1 | **IDNK** | 0.627 |
+| TALDO1 | **IDH1** | 0.727 |
+| TALDO1 | **PGM1** | 0.815 |
+| TALDO1 | **G6PD** | 0.922 |
+| TALDO1 | **RPEL1** | 0.929 |
+| TALDO1 | **RPE** | 0.961 |
+| TALDO1 | **H6PD** | 0.964 |
+| TALDO1 | **ENO1** | 0.968 |
+| TALDO1 | **GPI** | 0.995 |
+| TALDO1 | **TKTL1** | 0.999 |
+| TALDO1 | **TKT** | 0.999 |
+| RPE | **ENO1** | 0.479 |
+| RPE | **IDH1** | 0.582 |
+| RPE | **GPI** | 0.783 |
+| RPE | **G6PD** | 0.793 |
+| RPE | **IDNK** | 0.808 |
+| RPE | **H6PD** | 0.855 |
+| RPE | **RPEL1** | 0.9 |
+| RPE | **TKTL1** | 0.99 |
+| RPE | **TKT** | 0.994 |
+| TKTL1 | **PGM1** | 0.476 |
+| TKTL1 | **IDNK** | 0.519 |
+| TKTL1 | **IDH1** | 0.594 |
+| TKTL1 | **G6PD** | 0.893 |
+| TKTL1 | **TKT** | 0.905 |
+| TKTL1 | **H6PD** | 0.939 |
+| TKTL1 | **ENO1** | 0.948 |
+| TKTL1 | **RPEL1** | 0.994 |
+| TKTL1 | **GPI** | 0.995 |
+| PGM1 | **TKT** | 0.505 |
+| PGM1 | **IDH1** | 0.543 |
+| PGM1 | **G6PD** | 0.635 |
+| PGM1 | **H6PD** | 0.778 |
+| PGM1 | **ENO1** | 0.927 |
+| PGM1 | **GPI** | 0.983 |
+| IDNK | **TKT** | 0.497 |
+| IDNK | **GPI** | 0.593 |
+| IDNK | **G6PD** | 0.606 |
+| IDNK | **RPEL1** | 0.701 |
+| IDNK | **H6PD** | 0.982 |
+| G6PD | **RPEL1** | 0.728 |
+| G6PD | **IDH1** | 0.781 |
+| G6PD | **ENO1** | 0.903 |
+| G6PD | **TKT** | 0.91 |
+| G6PD | **H6PD** | 0.985 |
+| G6PD | **GPI** | 0.999 |
+| IDH1 | **RPEL1** | 0.435 |
+| IDH1 | **TKT** | 0.689 |
+| IDH1 | **GPI** | 0.74 |
+| IDH1 | **ENO1** | 0.765 |
+| IDH1 | **H6PD** | 0.801 |
+| TKT | **H6PD** | 0.94 |
+| TKT | **ENO1** | 0.967 |
+| TKT | **RPEL1** | 0.994 |
+| TKT | **GPI** | 0.997 |
+| GPI | **RPEL1** | 0.693 |
+| GPI | **ENO1** | 0.994 |
+| GPI | **H6PD** | 0.999 |
+| H6PD | **RPEL1** | 0.798 |
+| H6PD | **ENO1** | 0.948 |
+

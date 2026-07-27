@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DHX38
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DHX38
+Identifiant STRING officiel : `9606.ENSP00000268482`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GPKOW | **SYF2** | 0.405 |
+| GPKOW | **SLU7** | 0.473 |
+| GPKOW | **CWC25** | 0.543 |
+| GPKOW | **YJU2** | 0.55 |
+| GPKOW | **CDC40** | 0.803 |
+| GPKOW | **SNRNP200** | 0.853 |
+| GPKOW | **EFTUD2** | 0.87 |
+| GPKOW | **CDC5L** | 0.87 |
+| GPKOW | **PRPF8** | 0.957 |
+| GPKOW | **CWC22** | 0.968 |
+| GPKOW | **DHX38** | 0.998 |
+| GPKOW | **DHX16** | 0.999 |
+| PRPF19 | **PRPF18** | 0.55 |
+| PRPF19 | **DHX16** | 0.988 |
+| PRPF19 | **SLU7** | 0.994 |
+| PRPF19 | **DHX38** | 0.996 |
+| PRPF19 | **CWC25** | 0.997 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **YJU2** | 0.999 |
+| PRPF19 | **XAB2** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **SNRNP200** | 0.999 |
+| PRPF19 | **EFTUD2** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **PRPF8** | 0.999 |
+| PRPF19 | **CWC22** | 0.999 |
+| SYF2 | **PRPF18** | 0.804 |
+| SYF2 | **DHX16** | 0.94 |
+| SYF2 | **CWC25** | 0.966 |
+| SYF2 | **YJU2** | 0.994 |
+| SYF2 | **SLU7** | 0.995 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **SNRNP200** | 0.995 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **DHX38** | 0.998 |
+| SYF2 | **EFTUD2** | 0.999 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **XAB2** | 0.999 |
+| YJU2 | **DHX16** | 0.917 |
+| YJU2 | **PRPF18** | 0.962 |
+| YJU2 | **SLU7** | 0.964 |
+| YJU2 | **EFTUD2** | 0.993 |
+| YJU2 | **CDC40** | 0.997 |
+| YJU2 | **DHX38** | 0.998 |
+| YJU2 | **SNRNP200** | 0.999 |
+| YJU2 | **CWC22** | 0.999 |
+| YJU2 | **PRPF8** | 0.999 |
+| YJU2 | **XAB2** | 0.999 |
+| YJU2 | **CDC5L** | 0.999 |
+| YJU2 | **CWC25** | 0.999 |
+| DHX38 | **EFTUD2** | 0.996 |
+| DHX38 | **XAB2** | 0.996 |
+| DHX38 | **DHX16** | 0.997 |
+| DHX38 | **PRPF18** | 0.997 |
+| DHX38 | **CDC5L** | 0.997 |
+| DHX38 | **CWC25** | 0.998 |
+| DHX38 | **SLU7** | 0.998 |
+| DHX38 | **CWC22** | 0.998 |
+| DHX38 | **PRPF8** | 0.998 |
+| DHX38 | **CDC40** | 0.999 |
+| DHX38 | **SNRNP200** | 0.999 |
+| SLU7 | **DHX16** | 0.789 |
+| SLU7 | **XAB2** | 0.97 |
+| SLU7 | **EFTUD2** | 0.974 |
+| SLU7 | **CWC25** | 0.976 |
+| SLU7 | **CDC5L** | 0.997 |
+| SLU7 | **SNRNP200** | 0.998 |
+| SLU7 | **PRPF8** | 0.999 |
+| SLU7 | **CWC22** | 0.999 |
+| SLU7 | **PRPF18** | 0.999 |
+| SLU7 | **CDC40** | 0.999 |
+| SNRNP200 | **PRPF18** | 0.977 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **XAB2** | 0.997 |
+| SNRNP200 | **CDC5L** | 0.998 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **CWC22** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **DHX16** | 0.999 |
+| SNRNP200 | **CWC25** | 0.999 |
+| XAB2 | **PRPF18** | 0.812 |
+| XAB2 | **CWC25** | 0.974 |
+| XAB2 | **CDC5L** | 0.999 |
+| XAB2 | **CDC40** | 0.999 |
+| XAB2 | **EFTUD2** | 0.999 |
+| XAB2 | **DHX16** | 0.999 |
+| XAB2 | **PRPF8** | 0.999 |
+| XAB2 | **CWC22** | 0.999 |
+| CDC40 | **PRPF18** | 0.996 |
+| CDC40 | **DHX16** | 0.997 |
+| CDC40 | **CWC25** | 0.997 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **EFTUD2** | 0.999 |
+| CDC5L | **PRPF18** | 0.944 |
+| CDC5L | **DHX16** | 0.997 |
+| CDC5L | **CWC25** | 0.998 |
+| CDC5L | **EFTUD2** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| DHX16 | **PRPF18** | 0.704 |
+| DHX16 | **CWC25** | 0.894 |
+| DHX16 | **CWC22** | 0.998 |
+| DHX16 | **EFTUD2** | 0.999 |
+| DHX16 | **PRPF8** | 0.999 |
+| PRPF18 | **CWC22** | 0.871 |
+| PRPF18 | **EFTUD2** | 0.904 |
+| PRPF18 | **CWC25** | 0.955 |
+| PRPF18 | **PRPF8** | 0.961 |
+| CWC22 | **CWC25** | 0.997 |
+| CWC22 | **PRPF8** | 0.999 |
+| CWC22 | **EFTUD2** | 0.999 |
+| EFTUD2 | **CWC25** | 0.986 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| PRPF8 | **CWC25** | 0.998 |
+

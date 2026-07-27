@@ -1,0 +1,265 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q96FX2",
+      "uniProtkbId": "DPH3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "DPH3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q3E840"
+                }
+              ],
+              "value": "Required for the first step of diphthamide biosynthesis, a post-translational modification of histidine which occurs in elongation factor 2. DPH1 and DPH2 transfer a 3-amino-3-carboxypropyl (ACP) group from S-adenosyl-L-methionine (SAM) to a histidine residue, the reaction is assisted by a reduction system comprising DPH3 and a NADH-dependent reductase. Acts as an electron donor to reduce the Fe-S cluster in DPH1-DPH2 keeping the [4Fe-4S] clusters in the active and reduced state. Restores iron to DPH1-DPH2 iron-sulfur clusters which have degraded from [4Fe-4S] to [3Fe-4S] by donating an iron atom to reform [4Fe-4S] clusters, in a manner dependent on the presence of elongation factor 2 and SAM. Associates with the elongator complex and is required for tRNA Wobble base modifications mediated by the elongator complex. The elongator complex is required for multiple tRNA modifications, including mcm5U (5-methoxycarbonylmethyl uridine), mcm5s 2U (5-methoxycarbonylmethyl-2-thiouridine), and ncm5U (5-carbamoylmethyl uridine)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "14980502"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "14980502"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14980502"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14980502"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032991",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:protein-containing complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008198",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ferrous iron binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:iron chaperone activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005506",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:iron ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050709",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of protein secretion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14980502"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051099",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14980502"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017183",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein histidyl modification to diphthamide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002926",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006D340"
+      }
+    }
+  ]
+}

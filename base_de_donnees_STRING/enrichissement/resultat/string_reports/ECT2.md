@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ECT2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ECT2
+Identifiant STRING officiel : `9606.ENSP00000376457`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCNB1 | **RHOA** | 0.402 |
+| CCNB1 | **CDC42** | 0.609 |
+| CCNB1 | **ANLN** | 0.86 |
+| CCNB1 | **ECT2** | 0.911 |
+| CCNB1 | **KIF23** | 0.922 |
+| CCNB1 | **CEP55** | 0.94 |
+| CCNB1 | **RACGAP1** | 0.952 |
+| CCNB1 | **ASPM** | 0.952 |
+| CCNB1 | **KIF20A** | 0.954 |
+| CCNB1 | **PBK** | 0.962 |
+| CCNB1 | **KIF11** | 0.966 |
+| CCNB1 | **MELK** | 0.972 |
+| CCNB1 | **BUB1** | 0.992 |
+| CCNB1 | **PLK1** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| KIF23 | **RHOA** | 0.714 |
+| KIF23 | **PBK** | 0.884 |
+| KIF23 | **MELK** | 0.906 |
+| KIF23 | **CDK1** | 0.914 |
+| KIF23 | **KIF20A** | 0.958 |
+| KIF23 | **BUB1** | 0.958 |
+| KIF23 | **CEP55** | 0.975 |
+| KIF23 | **ASPM** | 0.987 |
+| KIF23 | **PLK1** | 0.988 |
+| KIF23 | **ANLN** | 0.989 |
+| KIF23 | **KIF11** | 0.994 |
+| KIF23 | **RACGAP1** | 0.999 |
+| KIF23 | **ECT2** | 0.999 |
+| KIF11 | **ECT2** | 0.891 |
+| KIF11 | **PLK1** | 0.919 |
+| KIF11 | **MELK** | 0.941 |
+| KIF11 | **ANLN** | 0.947 |
+| KIF11 | **PBK** | 0.955 |
+| KIF11 | **RACGAP1** | 0.978 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **BUB1** | 0.985 |
+| KIF11 | **CDK1** | 0.987 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **CEP55** | 0.997 |
+| ANLN | **CDC42** | 0.466 |
+| ANLN | **PLK1** | 0.703 |
+| ANLN | **PBK** | 0.811 |
+| ANLN | **CDK1** | 0.816 |
+| ANLN | **MELK** | 0.831 |
+| ANLN | **ASPM** | 0.9 |
+| ANLN | **BUB1** | 0.917 |
+| ANLN | **CEP55** | 0.93 |
+| ANLN | **KIF20A** | 0.949 |
+| ANLN | **ECT2** | 0.994 |
+| ANLN | **RACGAP1** | 0.997 |
+| ANLN | **RHOA** | 0.999 |
+| MELK | **PLK1** | 0.809 |
+| MELK | **RACGAP1** | 0.856 |
+| MELK | **ECT2** | 0.889 |
+| MELK | **CDK1** | 0.902 |
+| MELK | **KIF20A** | 0.929 |
+| MELK | **ASPM** | 0.946 |
+| MELK | **CEP55** | 0.956 |
+| MELK | **PBK** | 0.963 |
+| MELK | **BUB1** | 0.984 |
+| PLK1 | **CDC42** | 0.406 |
+| PLK1 | **RHOA** | 0.512 |
+| PLK1 | **ASPM** | 0.704 |
+| PLK1 | **PBK** | 0.756 |
+| PLK1 | **CEP55** | 0.837 |
+| PLK1 | **ECT2** | 0.937 |
+| PLK1 | **RACGAP1** | 0.961 |
+| PLK1 | **KIF20A** | 0.99 |
+| PLK1 | **CDK1** | 0.993 |
+| PLK1 | **BUB1** | 0.996 |
+| BUB1 | **CDC42** | 0.444 |
+| BUB1 | **RACGAP1** | 0.843 |
+| BUB1 | **CEP55** | 0.928 |
+| BUB1 | **PBK** | 0.935 |
+| BUB1 | **ECT2** | 0.947 |
+| BUB1 | **KIF20A** | 0.959 |
+| BUB1 | **ASPM** | 0.976 |
+| BUB1 | **CDK1** | 0.998 |
+| ASPM | **RACGAP1** | 0.795 |
+| ASPM | **ECT2** | 0.924 |
+| ASPM | **CDK1** | 0.942 |
+| ASPM | **CEP55** | 0.95 |
+| ASPM | **PBK** | 0.951 |
+| ASPM | **KIF20A** | 0.975 |
+| CEP55 | **ECT2** | 0.913 |
+| CEP55 | **CDK1** | 0.957 |
+| CEP55 | **PBK** | 0.957 |
+| CEP55 | **RACGAP1** | 0.958 |
+| CEP55 | **KIF20A** | 0.962 |
+| ECT2 | **PBK** | 0.895 |
+| ECT2 | **KIF20A** | 0.922 |
+| ECT2 | **CDC42** | 0.924 |
+| ECT2 | **CDK1** | 0.963 |
+| ECT2 | **RHOA** | 0.966 |
+| ECT2 | **RACGAP1** | 0.999 |
+| KIF20A | **PBK** | 0.955 |
+| KIF20A | **CDK1** | 0.958 |
+| KIF20A | **RACGAP1** | 0.997 |
+| CDK1 | **CDC42** | 0.466 |
+| CDK1 | **RHOA** | 0.516 |
+| CDK1 | **RACGAP1** | 0.96 |
+| CDK1 | **PBK** | 0.988 |
+| RHOA | **CDC42** | 0.955 |
+| RHOA | **RACGAP1** | 0.979 |
+| RACGAP1 | **PBK** | 0.775 |
+| RACGAP1 | **CDC42** | 0.979 |
+

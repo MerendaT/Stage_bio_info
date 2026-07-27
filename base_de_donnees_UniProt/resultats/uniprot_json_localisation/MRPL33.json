@@ -1,0 +1,147 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O75394",
+      "uniProtkbId": "RM33_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "MRPL33"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25278503"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25838379"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "28892042"
+                  }
+                ],
+                "value": "Mitochondrion",
+                "id": "SL-0173"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005743",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial inner membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005762",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial large ribosomal subunit"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25278503"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28892042"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28892042"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003735",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:structural constituent of ribosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032543",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mitochondrial translation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "27023846"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000073FDD"
+      }
+    }
+  ]
+}

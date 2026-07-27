@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ZCRB1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ZCRB1
+Identifiant STRING officiel : `9606.ENSP00000266529`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PDCD7 | **SNRPD2** | 0.72 |
+| PDCD7 | **SF3B6** | 0.72 |
+| PDCD7 | **SF3B2** | 0.73 |
+| PDCD7 | **SF3B1** | 0.741 |
+| PDCD7 | **YBX1** | 0.801 |
+| PDCD7 | **RNPC3** | 0.845 |
+| PDCD7 | **PHF5A** | 0.852 |
+| PDCD7 | **SNRPG** | 0.883 |
+| PDCD7 | **SNRPF** | 0.89 |
+| PDCD7 | **ZCRB1** | 0.913 |
+| PDCD7 | **SNRNP25** | 0.921 |
+| PDCD7 | **SNRNP48** | 0.938 |
+| PDCD7 | **ZRSR2** | 0.947 |
+| PDCD7 | **ZMAT5** | 0.954 |
+| PDCD7 | **SNRNP35** | 0.988 |
+| PHF5A | **ZCRB1** | 0.84 |
+| PHF5A | **SNRNP25** | 0.909 |
+| PHF5A | **YBX1** | 0.924 |
+| PHF5A | **SNRNP48** | 0.928 |
+| PHF5A | **ZMAT5** | 0.94 |
+| PHF5A | **SNRNP35** | 0.95 |
+| PHF5A | **ZRSR2** | 0.973 |
+| PHF5A | **RNPC3** | 0.975 |
+| PHF5A | **SNRPD2** | 0.997 |
+| PHF5A | **SNRPF** | 0.998 |
+| PHF5A | **SF3B1** | 0.999 |
+| PHF5A | **SF3B6** | 0.999 |
+| PHF5A | **SNRPG** | 0.999 |
+| PHF5A | **SF3B2** | 0.999 |
+| SF3B6 | **SNRNP35** | 0.765 |
+| SF3B6 | **SNRNP48** | 0.834 |
+| SF3B6 | **ZMAT5** | 0.865 |
+| SF3B6 | **ZCRB1** | 0.89 |
+| SF3B6 | **SNRNP25** | 0.894 |
+| SF3B6 | **YBX1** | 0.908 |
+| SF3B6 | **ZRSR2** | 0.963 |
+| SF3B6 | **RNPC3** | 0.964 |
+| SF3B6 | **SNRPF** | 0.995 |
+| SF3B6 | **SNRPD2** | 0.996 |
+| SF3B6 | **SNRPG** | 0.997 |
+| SF3B6 | **SF3B1** | 0.999 |
+| SF3B6 | **SF3B2** | 0.999 |
+| ZCRB1 | **SNRPG** | 0.826 |
+| ZCRB1 | **SNRPD2** | 0.829 |
+| ZCRB1 | **SNRPF** | 0.85 |
+| ZCRB1 | **ZRSR2** | 0.886 |
+| ZCRB1 | **YBX1** | 0.897 |
+| ZCRB1 | **SNRNP25** | 0.898 |
+| ZCRB1 | **SF3B1** | 0.924 |
+| ZCRB1 | **SF3B2** | 0.928 |
+| ZCRB1 | **SNRNP35** | 0.958 |
+| ZCRB1 | **ZMAT5** | 0.961 |
+| ZCRB1 | **SNRNP48** | 0.968 |
+| ZCRB1 | **RNPC3** | 0.975 |
+| SNRPF | **SNRNP25** | 0.848 |
+| SNRPF | **YBX1** | 0.913 |
+| SNRPF | **SNRNP48** | 0.963 |
+| SNRPF | **ZRSR2** | 0.968 |
+| SNRPF | **ZMAT5** | 0.976 |
+| SNRPF | **SNRNP35** | 0.988 |
+| SNRPF | **RNPC3** | 0.991 |
+| SNRPF | **SF3B2** | 0.999 |
+| SNRPF | **SF3B1** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SNRPG** | 0.999 |
+| ZRSR2 | **SNRNP25** | 0.797 |
+| ZRSR2 | **YBX1** | 0.9 |
+| ZRSR2 | **SNRPD2** | 0.932 |
+| ZRSR2 | **ZMAT5** | 0.946 |
+| ZRSR2 | **SNRPG** | 0.951 |
+| ZRSR2 | **SNRNP35** | 0.965 |
+| ZRSR2 | **SF3B2** | 0.969 |
+| ZRSR2 | **SNRNP48** | 0.971 |
+| ZRSR2 | **SF3B1** | 0.989 |
+| ZRSR2 | **RNPC3** | 0.989 |
+| SF3B2 | **SNRNP25** | 0.752 |
+| SF3B2 | **ZMAT5** | 0.882 |
+| SF3B2 | **SNRNP48** | 0.884 |
+| SF3B2 | **YBX1** | 0.939 |
+| SF3B2 | **SNRNP35** | 0.945 |
+| SF3B2 | **RNPC3** | 0.981 |
+| SF3B2 | **SNRPG** | 0.999 |
+| SF3B2 | **SNRPD2** | 0.999 |
+| SF3B2 | **SF3B1** | 0.999 |
+| SF3B1 | **SNRNP25** | 0.769 |
+| SF3B1 | **SNRNP48** | 0.889 |
+| SF3B1 | **SNRNP35** | 0.909 |
+| SF3B1 | **YBX1** | 0.939 |
+| SF3B1 | **ZMAT5** | 0.953 |
+| SF3B1 | **RNPC3** | 0.976 |
+| SF3B1 | **SNRPD2** | 0.998 |
+| SF3B1 | **SNRPG** | 0.999 |
+| SNRNP48 | **YBX1** | 0.812 |
+| SNRNP48 | **SNRPD2** | 0.892 |
+| SNRNP48 | **SNRPG** | 0.951 |
+| SNRNP48 | **RNPC3** | 0.958 |
+| SNRNP48 | **SNRNP25** | 0.96 |
+| SNRNP48 | **ZMAT5** | 0.981 |
+| SNRNP48 | **SNRNP35** | 0.992 |
+| SNRPD2 | **SNRNP25** | 0.846 |
+| SNRPD2 | **YBX1** | 0.932 |
+| SNRPD2 | **ZMAT5** | 0.971 |
+| SNRPD2 | **SNRNP35** | 0.978 |
+| SNRPD2 | **RNPC3** | 0.98 |
+| SNRPD2 | **SNRPG** | 0.999 |
+| ZMAT5 | **YBX1** | 0.72 |
+| ZMAT5 | **SNRNP25** | 0.941 |
+| ZMAT5 | **SNRPG** | 0.979 |
+| ZMAT5 | **SNRNP35** | 0.982 |
+| ZMAT5 | **RNPC3** | 0.988 |
+| YBX1 | **SNRNP25** | 0.801 |
+| YBX1 | **SNRNP35** | 0.822 |
+| YBX1 | **RNPC3** | 0.903 |
+| YBX1 | **SNRPG** | 0.917 |
+| SNRNP25 | **SNRPG** | 0.733 |
+| SNRNP25 | **RNPC3** | 0.891 |
+| SNRNP25 | **SNRNP35** | 0.979 |
+| SNRPG | **SNRNP35** | 0.984 |
+| SNRPG | **RNPC3** | 0.988 |
+| SNRNP35 | **RNPC3** | 0.984 |
+

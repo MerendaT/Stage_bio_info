@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SNRPC
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SNRPC
+Identifiant STRING officiel : `9606.ENSP00000244520`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNRPD3 | **RBM25** | 0.891 |
+| SNRPD3 | **DDX23** | 0.996 |
+| SNRPD3 | **SF3B1** | 0.996 |
+| SNRPD3 | **SNRPG** | 0.999 |
+| SNRPD3 | **SNRPA1** | 0.999 |
+| SNRPD3 | **SNRPD1** | 0.999 |
+| SNRPD3 | **SNRPD2** | 0.999 |
+| SNRPD3 | **SNRPN** | 0.999 |
+| SNRPD3 | **SNRPA** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **SNRPC** | 0.999 |
+| SNRPD3 | **SNRNP70** | 0.999 |
+| SNRPD3 | **SNRPB** | 0.999 |
+| SNRPD3 | **SNRPE** | 0.999 |
+| SNRPD3 | **SNRPB2** | 0.999 |
+| SNRPA | **SNRPB2** | 0.939 |
+| SNRPA | **DDX23** | 0.953 |
+| SNRPA | **RBM25** | 0.953 |
+| SNRPA | **SF3B1** | 0.995 |
+| SNRPA | **SNRPN** | 0.995 |
+| SNRPA | **SNRPD1** | 0.999 |
+| SNRPA | **SNRPD2** | 0.999 |
+| SNRPA | **SNRPA1** | 0.999 |
+| SNRPA | **SNRPG** | 0.999 |
+| SNRPA | **SNRPE** | 0.999 |
+| SNRPA | **SNRPB** | 0.999 |
+| SNRPA | **SNRNP70** | 0.999 |
+| SNRPA | **SNRPC** | 0.999 |
+| SNRPA | **SNRPF** | 0.999 |
+| SNRPC | **SF3B1** | 0.993 |
+| SNRPC | **DDX23** | 0.995 |
+| SNRPC | **SNRPB2** | 0.995 |
+| SNRPC | **RBM25** | 0.997 |
+| SNRPC | **SNRPN** | 0.998 |
+| SNRPC | **SNRPD1** | 0.999 |
+| SNRPC | **SNRPD2** | 0.999 |
+| SNRPC | **SNRPA1** | 0.999 |
+| SNRPC | **SNRPG** | 0.999 |
+| SNRPC | **SNRPE** | 0.999 |
+| SNRPC | **SNRPB** | 0.999 |
+| SNRPC | **SNRNP70** | 0.999 |
+| SNRPC | **SNRPF** | 0.999 |
+| SNRPB2 | **RBM25** | 0.702 |
+| SNRPB2 | **DDX23** | 0.888 |
+| SNRPB2 | **SNRPN** | 0.987 |
+| SNRPB2 | **SNRNP70** | 0.997 |
+| SNRPB2 | **SF3B1** | 0.998 |
+| SNRPB2 | **SNRPE** | 0.999 |
+| SNRPB2 | **SNRPB** | 0.999 |
+| SNRPB2 | **SNRPF** | 0.999 |
+| SNRPB2 | **SNRPD1** | 0.999 |
+| SNRPB2 | **SNRPD2** | 0.999 |
+| SNRPB2 | **SNRPG** | 0.999 |
+| SNRPB2 | **SNRPA1** | 0.999 |
+| SNRPA1 | **DDX23** | 0.91 |
+| SNRPA1 | **RBM25** | 0.987 |
+| SNRPA1 | **SNRNP70** | 0.992 |
+| SNRPA1 | **SNRPN** | 0.995 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **SNRPB** | 0.999 |
+| SNRPA1 | **SNRPE** | 0.999 |
+| SNRPA1 | **SNRPG** | 0.999 |
+| SNRPA1 | **SNRPD1** | 0.999 |
+| SNRPA1 | **SNRPD2** | 0.999 |
+| SNRPA1 | **SF3B1** | 0.999 |
+| RBM25 | **SNRPE** | 0.738 |
+| RBM25 | **SNRPB** | 0.751 |
+| RBM25 | **DDX23** | 0.845 |
+| RBM25 | **SNRPG** | 0.923 |
+| RBM25 | **SF3B1** | 0.927 |
+| RBM25 | **SNRPD1** | 0.931 |
+| RBM25 | **SNRPD2** | 0.932 |
+| RBM25 | **SNRPF** | 0.938 |
+| RBM25 | **SNRPN** | 0.956 |
+| RBM25 | **SNRNP70** | 0.994 |
+| SNRPF | **DDX23** | 0.997 |
+| SNRPF | **SNRPB** | 0.999 |
+| SNRPF | **SNRPE** | 0.999 |
+| SNRPF | **SNRPN** | 0.999 |
+| SNRPF | **SNRNP70** | 0.999 |
+| SNRPF | **SF3B1** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SNRPD1** | 0.999 |
+| SNRPF | **SNRPG** | 0.999 |
+| SNRPD1 | **SF3B1** | 0.998 |
+| SNRPD1 | **DDX23** | 0.998 |
+| SNRPD1 | **SNRPB** | 0.999 |
+| SNRPD1 | **SNRPE** | 0.999 |
+| SNRPD1 | **SNRPN** | 0.999 |
+| SNRPD1 | **SNRNP70** | 0.999 |
+| SNRPD1 | **SNRPD2** | 0.999 |
+| SNRPD1 | **SNRPG** | 0.999 |
+| DDX23 | **SNRPN** | 0.93 |
+| DDX23 | **SNRNP70** | 0.953 |
+| DDX23 | **SF3B1** | 0.956 |
+| DDX23 | **SNRPB** | 0.994 |
+| DDX23 | **SNRPG** | 0.997 |
+| DDX23 | **SNRPE** | 0.998 |
+| DDX23 | **SNRPD2** | 0.999 |
+| SF3B1 | **SNRPN** | 0.978 |
+| SF3B1 | **SNRNP70** | 0.979 |
+| SF3B1 | **SNRPB** | 0.997 |
+| SF3B1 | **SNRPD2** | 0.998 |
+| SF3B1 | **SNRPG** | 0.999 |
+| SF3B1 | **SNRPE** | 0.999 |
+| SNRPD2 | **SNRPN** | 0.999 |
+| SNRPD2 | **SNRNP70** | 0.999 |
+| SNRPD2 | **SNRPE** | 0.999 |
+| SNRPD2 | **SNRPB** | 0.999 |
+| SNRPD2 | **SNRPG** | 0.999 |
+| SNRPG | **SNRPN** | 0.999 |
+| SNRPG | **SNRNP70** | 0.999 |
+| SNRPG | **SNRPE** | 0.999 |
+| SNRPG | **SNRPB** | 0.999 |
+| SNRPE | **SNRPB** | 0.999 |
+| SNRPE | **SNRPN** | 0.999 |
+| SNRPE | **SNRNP70** | 0.999 |
+| SNRPB | **SNRPN** | 0.978 |
+| SNRPB | **SNRNP70** | 0.999 |
+| SNRNP70 | **SNRPN** | 0.997 |
+

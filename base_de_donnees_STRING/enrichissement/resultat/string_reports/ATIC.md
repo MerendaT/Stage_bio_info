@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ATIC
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ATIC
+Identifiant STRING officiel : `9606.ENSP00000236959`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ATIC | **APRT** | 0.982 |
+| ATIC | **DHFR** | 0.987 |
+| ATIC | **MTHFD2L** | 0.989 |
+| ATIC | **IMPDH2** | 0.991 |
+| ATIC | **MTHFD2** | 0.992 |
+| ATIC | **MTHFD1L** | 0.994 |
+| ATIC | **PPAT** | 0.995 |
+| ATIC | **SHMT2** | 0.995 |
+| ATIC | **ADSS1** | 0.996 |
+| ATIC | **ADSS2** | 0.997 |
+| ATIC | **PAICS** | 0.997 |
+| ATIC | **MTHFD1** | 0.998 |
+| ATIC | **SHMT1** | 0.998 |
+| ATIC | **ADSL** | 0.999 |
+| ATIC | **GART** | 0.999 |
+| PPAT | **DHFR** | 0.436 |
+| PPAT | **MTHFD2L** | 0.527 |
+| PPAT | **MTHFD2** | 0.726 |
+| PPAT | **APRT** | 0.797 |
+| PPAT | **ADSS1** | 0.799 |
+| PPAT | **ADSS2** | 0.814 |
+| PPAT | **IMPDH2** | 0.839 |
+| PPAT | **MTHFD1L** | 0.845 |
+| PPAT | **SHMT2** | 0.863 |
+| PPAT | **SHMT1** | 0.887 |
+| PPAT | **MTHFD1** | 0.9 |
+| PPAT | **ADSL** | 0.997 |
+| PPAT | **GART** | 0.999 |
+| PPAT | **PAICS** | 0.999 |
+| SHMT1 | **APRT** | 0.424 |
+| SHMT1 | **IMPDH2** | 0.529 |
+| SHMT1 | **ADSS1** | 0.721 |
+| SHMT1 | **ADSS2** | 0.76 |
+| SHMT1 | **PAICS** | 0.851 |
+| SHMT1 | **ADSL** | 0.907 |
+| SHMT1 | **SHMT2** | 0.944 |
+| SHMT1 | **MTHFD1L** | 0.995 |
+| SHMT1 | **DHFR** | 0.995 |
+| SHMT1 | **MTHFD2L** | 0.996 |
+| SHMT1 | **MTHFD2** | 0.997 |
+| SHMT1 | **MTHFD1** | 0.999 |
+| SHMT1 | **GART** | 0.999 |
+| IMPDH2 | **MTHFD1** | 0.405 |
+| IMPDH2 | **MTHFD2** | 0.466 |
+| IMPDH2 | **DHFR** | 0.549 |
+| IMPDH2 | **SHMT2** | 0.643 |
+| IMPDH2 | **PAICS** | 0.744 |
+| IMPDH2 | **APRT** | 0.78 |
+| IMPDH2 | **GART** | 0.811 |
+| IMPDH2 | **ADSL** | 0.879 |
+| IMPDH2 | **ADSS1** | 0.975 |
+| IMPDH2 | **ADSS2** | 0.988 |
+| ADSS1 | **MTHFD2L** | 0.545 |
+| ADSS1 | **MTHFD2** | 0.579 |
+| ADSS1 | **APRT** | 0.72 |
+| ADSS1 | **SHMT2** | 0.721 |
+| ADSS1 | **PAICS** | 0.826 |
+| ADSS1 | **ADSS2** | 0.949 |
+| ADSS1 | **GART** | 0.969 |
+| ADSS1 | **ADSL** | 0.999 |
+| SHMT2 | **APRT** | 0.493 |
+| SHMT2 | **ADSS2** | 0.753 |
+| SHMT2 | **PAICS** | 0.843 |
+| SHMT2 | **ADSL** | 0.909 |
+| SHMT2 | **DHFR** | 0.992 |
+| SHMT2 | **MTHFD2L** | 0.995 |
+| SHMT2 | **MTHFD1L** | 0.995 |
+| SHMT2 | **MTHFD1** | 0.996 |
+| SHMT2 | **MTHFD2** | 0.997 |
+| SHMT2 | **GART** | 0.999 |
+| ADSS2 | **MTHFD1L** | 0.404 |
+| ADSS2 | **MTHFD1** | 0.453 |
+| ADSS2 | **MTHFD2L** | 0.545 |
+| ADSS2 | **MTHFD2** | 0.623 |
+| ADSS2 | **APRT** | 0.787 |
+| ADSS2 | **PAICS** | 0.858 |
+| ADSS2 | **GART** | 0.981 |
+| ADSS2 | **ADSL** | 0.999 |
+| APRT | **MTHFD1** | 0.403 |
+| APRT | **MTHFD2L** | 0.454 |
+| APRT | **MTHFD2** | 0.487 |
+| APRT | **DHFR** | 0.592 |
+| APRT | **PAICS** | 0.688 |
+| APRT | **GART** | 0.879 |
+| APRT | **ADSL** | 0.99 |
+| GART | **DHFR** | 0.989 |
+| GART | **MTHFD2** | 0.999 |
+| GART | **MTHFD1L** | 0.999 |
+| GART | **ADSL** | 0.999 |
+| GART | **MTHFD1** | 0.999 |
+| GART | **MTHFD2L** | 0.999 |
+| GART | **PAICS** | 0.999 |
+| MTHFD2 | **PAICS** | 0.62 |
+| MTHFD2 | **DHFR** | 0.742 |
+| MTHFD2 | **ADSL** | 0.897 |
+| MTHFD2 | **MTHFD1** | 0.979 |
+| MTHFD2 | **MTHFD2L** | 0.985 |
+| MTHFD2 | **MTHFD1L** | 0.99 |
+| MTHFD2L | **PAICS** | 0.481 |
+| MTHFD2L | **DHFR** | 0.649 |
+| MTHFD2L | **ADSL** | 0.886 |
+| MTHFD2L | **MTHFD1** | 0.986 |
+| MTHFD2L | **MTHFD1L** | 0.988 |
+| PAICS | **DHFR** | 0.536 |
+| PAICS | **MTHFD1L** | 0.842 |
+| PAICS | **MTHFD1** | 0.9 |
+| PAICS | **ADSL** | 0.999 |
+| DHFR | **MTHFD1L** | 0.972 |
+| DHFR | **MTHFD1** | 0.99 |
+| MTHFD1L | **ADSL** | 0.633 |
+| MTHFD1L | **MTHFD1** | 0.944 |
+| ADSL | **MTHFD1** | 0.671 |
+

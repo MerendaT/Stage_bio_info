@@ -1,0 +1,1163 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q12891",
+      "uniProtkbId": "HYAL2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "HYAL2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28081210"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9712871"
+                }
+              ],
+              "value": "Catalyzes hyaluronan degradation into small fragments that are endocytosed and degraded in lysosomes by HYAL1 and exoglycosidases (PubMed:9712871). Essential for the breakdown of extracellular matrix hyaluronan (PubMed:28081210)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11296287"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "34906488"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11296287"
+                  }
+                ],
+                "value": "Lipid-anchor, GPI-anchor",
+                "id": "SL-9902"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0016324",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20554532"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17170110"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17170110"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasmic vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16600643"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18390475"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endocytic vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "16191204"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:external side of plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11296287"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16191204"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20554532"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "21740893"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005764",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:lysosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16600643"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9712871"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045121",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane raft"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21740893"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005902",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:microvillus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perinuclear region of cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16600643"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18390475"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21740893"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090575",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:RNA polymerase II transcription regulator complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019899",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:enzyme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005540",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hyaluronic acid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033906",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hyaluronoglucuronidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21699545"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004415",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hyalurononglucosaminidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11944887"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16600643"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17170110"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18390475"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20554532"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9712871"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030294",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor signaling protein tyrosine kinase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030971",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor tyrosine kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003713",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription coactivator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050431",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transforming growth factor beta binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001618",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:virus receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11296287"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16191204"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005975",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:carbohydrate metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051216",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cartilage development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "11944887"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044344",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to fibroblast growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19577615"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071347",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to interleukin-1"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18390475"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071560",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to transforming growth factor beta stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071356",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to tumor necrosis factor"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "18390475"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071493",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to UV-B"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21699545"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051607",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:defense response to virus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006027",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glycosaminoglycan catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9712871"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030214",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hyaluronan catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17170110"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20554532"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21699545"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001822",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:kidney development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042117",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:monocyte activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030308",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18725949"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010764",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of fibroblast migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19577615"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051898",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2001238",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of extrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "19366691"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050729",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032755",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of interleukin-6 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032757",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of interleukin-8 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19443707"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042307",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein import into nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035810",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of urine volume"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070295",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:renal water absorption"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046677",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to antibiotic"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "11944887"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000302",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to reactive oxygen species"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20554532"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to virus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11296287"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046718",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:symbiont entry into host cell"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013C4E6"
+      }
+    }
+  ]
+}

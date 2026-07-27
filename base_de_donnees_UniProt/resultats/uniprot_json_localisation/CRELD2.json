@@ -1,0 +1,145 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q6UXH1",
+      "uniProtkbId": "CREL2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CRELD2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9CYA0"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16238698"
+                }
+              ],
+              "value": "Protein disulfide isomerase (By similarity). Might play a role in the unfolded protein response (By similarity). May regulate transport of alpha4-beta2 neuronal acetylcholine receptor (PubMed:16238698)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16238698"
+                  }
+                ],
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003756",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein disulfide isomerase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-EC"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000037217"
+      }
+    }
+  ]
+}

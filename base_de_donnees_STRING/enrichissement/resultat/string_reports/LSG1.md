@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LSG1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LSG1
+Identifiant STRING officiel : `9606.ENSP00000265245`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL35 | **SDAD1** | 0.565 |
+| RPL35 | **RPF2** | 0.815 |
+| RPL35 | **ZNF622** | 0.892 |
+| RPL35 | **FTSJ3** | 0.899 |
+| RPL35 | **LSG1** | 0.949 |
+| RPL35 | **NMD3** | 0.969 |
+| RPL35 | **GTPBP4** | 0.987 |
+| RPL35 | **EIF6** | 0.994 |
+| RPL35 | **RSL24D1** | 0.996 |
+| RPL35 | **PA2G4** | 0.999 |
+| RPL35 | **RPL23A** | 0.999 |
+| RPL35 | **RPL8** | 0.999 |
+| RPL35 | **RPL5** | 0.999 |
+| RPL35 | **RPL27** | 0.999 |
+| RPL35 | **RPL3** | 0.999 |
+| RSL24D1 | **ZNF622** | 0.842 |
+| RSL24D1 | **LSG1** | 0.956 |
+| RSL24D1 | **SDAD1** | 0.964 |
+| RSL24D1 | **PA2G4** | 0.986 |
+| RSL24D1 | **RPL27** | 0.988 |
+| RSL24D1 | **RPL3** | 0.989 |
+| RSL24D1 | **RPL23A** | 0.993 |
+| RSL24D1 | **RPL8** | 0.994 |
+| RSL24D1 | **EIF6** | 0.995 |
+| RSL24D1 | **FTSJ3** | 0.995 |
+| RSL24D1 | **RPL5** | 0.997 |
+| RSL24D1 | **NMD3** | 0.998 |
+| RSL24D1 | **RPF2** | 0.999 |
+| RSL24D1 | **GTPBP4** | 0.999 |
+| RPL8 | **SDAD1** | 0.448 |
+| RPL8 | **FTSJ3** | 0.804 |
+| RPL8 | **RPF2** | 0.817 |
+| RPL8 | **ZNF622** | 0.897 |
+| RPL8 | **NMD3** | 0.956 |
+| RPL8 | **GTPBP4** | 0.957 |
+| RPL8 | **LSG1** | 0.967 |
+| RPL8 | **EIF6** | 0.995 |
+| RPL8 | **PA2G4** | 0.997 |
+| RPL8 | **RPL23A** | 0.999 |
+| RPL8 | **RPL5** | 0.999 |
+| RPL8 | **RPL27** | 0.999 |
+| RPL8 | **RPL3** | 0.999 |
+| LSG1 | **RPL23A** | 0.948 |
+| LSG1 | **RPF2** | 0.952 |
+| LSG1 | **SDAD1** | 0.966 |
+| LSG1 | **GTPBP4** | 0.969 |
+| LSG1 | **RPL3** | 0.97 |
+| LSG1 | **FTSJ3** | 0.971 |
+| LSG1 | **ZNF622** | 0.975 |
+| LSG1 | **RPL27** | 0.987 |
+| LSG1 | **RPL5** | 0.99 |
+| LSG1 | **EIF6** | 0.995 |
+| LSG1 | **PA2G4** | 0.995 |
+| LSG1 | **NMD3** | 0.999 |
+| PA2G4 | **FTSJ3** | 0.893 |
+| PA2G4 | **ZNF622** | 0.977 |
+| PA2G4 | **SDAD1** | 0.981 |
+| PA2G4 | **RPF2** | 0.987 |
+| PA2G4 | **EIF6** | 0.994 |
+| PA2G4 | **RPL3** | 0.995 |
+| PA2G4 | **GTPBP4** | 0.996 |
+| PA2G4 | **RPL27** | 0.996 |
+| PA2G4 | **NMD3** | 0.998 |
+| PA2G4 | **RPL5** | 0.999 |
+| PA2G4 | **RPL23A** | 0.999 |
+| ZNF622 | **RPF2** | 0.522 |
+| ZNF622 | **FTSJ3** | 0.723 |
+| ZNF622 | **GTPBP4** | 0.73 |
+| ZNF622 | **RPL27** | 0.898 |
+| ZNF622 | **RPL3** | 0.903 |
+| ZNF622 | **RPL23A** | 0.917 |
+| ZNF622 | **RPL5** | 0.92 |
+| ZNF622 | **NMD3** | 0.99 |
+| ZNF622 | **EIF6** | 0.992 |
+| RPL3 | **SDAD1** | 0.582 |
+| RPL3 | **FTSJ3** | 0.82 |
+| RPL3 | **RPF2** | 0.864 |
+| RPL3 | **NMD3** | 0.979 |
+| RPL3 | **GTPBP4** | 0.986 |
+| RPL3 | **EIF6** | 0.99 |
+| RPL3 | **RPL27** | 0.999 |
+| RPL3 | **RPL5** | 0.999 |
+| RPL3 | **RPL23A** | 0.999 |
+| SDAD1 | **RPL27** | 0.515 |
+| SDAD1 | **RPL23A** | 0.796 |
+| SDAD1 | **NMD3** | 0.808 |
+| SDAD1 | **RPL5** | 0.854 |
+| SDAD1 | **FTSJ3** | 0.895 |
+| SDAD1 | **EIF6** | 0.931 |
+| SDAD1 | **RPF2** | 0.967 |
+| SDAD1 | **GTPBP4** | 0.997 |
+| GTPBP4 | **RPL27** | 0.977 |
+| GTPBP4 | **RPL5** | 0.986 |
+| GTPBP4 | **RPL23A** | 0.991 |
+| GTPBP4 | **FTSJ3** | 0.995 |
+| GTPBP4 | **EIF6** | 0.998 |
+| GTPBP4 | **NMD3** | 0.998 |
+| GTPBP4 | **RPF2** | 0.999 |
+| RPL5 | **FTSJ3** | 0.608 |
+| RPL5 | **NMD3** | 0.99 |
+| RPL5 | **RPF2** | 0.996 |
+| RPL5 | **EIF6** | 0.997 |
+| RPL5 | **RPL27** | 0.999 |
+| RPL5 | **RPL23A** | 0.999 |
+| EIF6 | **FTSJ3** | 0.981 |
+| EIF6 | **RPF2** | 0.984 |
+| EIF6 | **RPL27** | 0.989 |
+| EIF6 | **RPL23A** | 0.995 |
+| EIF6 | **NMD3** | 0.997 |
+| RPL23A | **RPF2** | 0.948 |
+| RPL23A | **FTSJ3** | 0.955 |
+| RPL23A | **NMD3** | 0.985 |
+| RPL23A | **RPL27** | 0.999 |
+| FTSJ3 | **NMD3** | 0.781 |
+| FTSJ3 | **RPL27** | 0.907 |
+| FTSJ3 | **RPF2** | 0.981 |
+| RPF2 | **RPL27** | 0.742 |
+| RPF2 | **NMD3** | 0.954 |
+| NMD3 | **RPL27** | 0.913 |
+

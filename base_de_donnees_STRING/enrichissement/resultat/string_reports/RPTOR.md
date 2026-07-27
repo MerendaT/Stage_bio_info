@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RPTOR
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RPTOR
+Identifiant STRING officiel : `9606.ENSP00000307272`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPS6KB1 | **TTI1** | 0.455 |
+| RPS6KB1 | **LAMTOR5** | 0.554 |
+| RPS6KB1 | **LAMTOR4** | 0.58 |
+| RPS6KB1 | **LAMTOR1** | 0.63 |
+| RPS6KB1 | **RRAGC** | 0.858 |
+| RPS6KB1 | **RRAGA** | 0.864 |
+| RPS6KB1 | **RRAGD** | 0.886 |
+| RPS6KB1 | **RRAGB** | 0.913 |
+| RPS6KB1 | **RHEB** | 0.968 |
+| RPS6KB1 | **EIF4EBP1** | 0.972 |
+| RPS6KB1 | **RICTOR** | 0.981 |
+| RPS6KB1 | **AKT1S1** | 0.99 |
+| RPS6KB1 | **DEPTOR** | 0.991 |
+| RPS6KB1 | **RPTOR** | 0.999 |
+| RPS6KB1 | **MTOR** | 0.999 |
+| LAMTOR5 | **EIF4EBP1** | 0.501 |
+| LAMTOR5 | **AKT1S1** | 0.617 |
+| LAMTOR5 | **RHEB** | 0.743 |
+| LAMTOR5 | **MTOR** | 0.952 |
+| LAMTOR5 | **RRAGC** | 0.999 |
+| LAMTOR5 | **RRAGB** | 0.999 |
+| LAMTOR5 | **RPTOR** | 0.999 |
+| LAMTOR5 | **RRAGA** | 0.999 |
+| LAMTOR5 | **LAMTOR4** | 0.999 |
+| LAMTOR5 | **RRAGD** | 0.999 |
+| LAMTOR5 | **LAMTOR1** | 0.999 |
+| RHEB | **TTI1** | 0.493 |
+| RHEB | **LAMTOR4** | 0.791 |
+| RHEB | **LAMTOR1** | 0.814 |
+| RHEB | **RICTOR** | 0.886 |
+| RHEB | **RRAGD** | 0.963 |
+| RHEB | **RRAGA** | 0.969 |
+| RHEB | **RRAGB** | 0.969 |
+| RHEB | **RRAGC** | 0.971 |
+| RHEB | **EIF4EBP1** | 0.979 |
+| RHEB | **DEPTOR** | 0.988 |
+| RHEB | **AKT1S1** | 0.997 |
+| RHEB | **RPTOR** | 0.999 |
+| RHEB | **MTOR** | 0.999 |
+| RRAGB | **RICTOR** | 0.705 |
+| RRAGB | **EIF4EBP1** | 0.781 |
+| RRAGB | **DEPTOR** | 0.82 |
+| RRAGB | **AKT1S1** | 0.96 |
+| RRAGB | **RRAGA** | 0.999 |
+| RRAGB | **RPTOR** | 0.999 |
+| RRAGB | **LAMTOR4** | 0.999 |
+| RRAGB | **RRAGC** | 0.999 |
+| RRAGB | **MTOR** | 0.999 |
+| RRAGB | **RRAGD** | 0.999 |
+| RRAGB | **LAMTOR1** | 0.999 |
+| LAMTOR1 | **DEPTOR** | 0.418 |
+| LAMTOR1 | **EIF4EBP1** | 0.606 |
+| LAMTOR1 | **AKT1S1** | 0.678 |
+| LAMTOR1 | **MTOR** | 0.963 |
+| LAMTOR1 | **RRAGD** | 0.999 |
+| LAMTOR1 | **RRAGA** | 0.999 |
+| LAMTOR1 | **RPTOR** | 0.999 |
+| LAMTOR1 | **LAMTOR4** | 0.999 |
+| LAMTOR1 | **RRAGC** | 0.999 |
+| DEPTOR | **EIF4EBP1** | 0.691 |
+| DEPTOR | **RRAGD** | 0.809 |
+| DEPTOR | **RRAGC** | 0.843 |
+| DEPTOR | **RRAGA** | 0.89 |
+| DEPTOR | **TTI1** | 0.995 |
+| DEPTOR | **AKT1S1** | 0.999 |
+| DEPTOR | **RPTOR** | 0.999 |
+| DEPTOR | **MTOR** | 0.999 |
+| DEPTOR | **RICTOR** | 0.999 |
+| RICTOR | **RRAGD** | 0.682 |
+| RICTOR | **RRAGA** | 0.724 |
+| RICTOR | **RRAGC** | 0.727 |
+| RICTOR | **EIF4EBP1** | 0.884 |
+| RICTOR | **AKT1S1** | 0.993 |
+| RICTOR | **TTI1** | 0.999 |
+| RICTOR | **MTOR** | 0.999 |
+| RICTOR | **RPTOR** | 0.999 |
+| RPTOR | **LAMTOR4** | 0.999 |
+| RPTOR | **AKT1S1** | 0.999 |
+| RPTOR | **RRAGA** | 0.999 |
+| RPTOR | **MTOR** | 0.999 |
+| RPTOR | **RRAGC** | 0.999 |
+| RPTOR | **TTI1** | 0.999 |
+| RPTOR | **RRAGD** | 0.999 |
+| RPTOR | **EIF4EBP1** | 0.999 |
+| EIF4EBP1 | **LAMTOR4** | 0.541 |
+| EIF4EBP1 | **RRAGD** | 0.753 |
+| EIF4EBP1 | **RRAGA** | 0.791 |
+| EIF4EBP1 | **RRAGC** | 0.793 |
+| EIF4EBP1 | **AKT1S1** | 0.977 |
+| EIF4EBP1 | **MTOR** | 0.999 |
+| LAMTOR4 | **AKT1S1** | 0.64 |
+| LAMTOR4 | **MTOR** | 0.953 |
+| LAMTOR4 | **RRAGC** | 0.999 |
+| LAMTOR4 | **RRAGA** | 0.999 |
+| LAMTOR4 | **RRAGD** | 0.999 |
+| MTOR | **RRAGD** | 0.991 |
+| MTOR | **RRAGA** | 0.999 |
+| MTOR | **AKT1S1** | 0.999 |
+| MTOR | **RRAGC** | 0.999 |
+| MTOR | **TTI1** | 0.999 |
+| RRAGD | **AKT1S1** | 0.948 |
+| RRAGD | **RRAGC** | 0.999 |
+| RRAGD | **RRAGA** | 0.999 |
+| RRAGC | **AKT1S1** | 0.991 |
+| RRAGC | **RRAGA** | 0.999 |
+| TTI1 | **AKT1S1** | 0.993 |
+| RRAGA | **AKT1S1** | 0.994 |
+

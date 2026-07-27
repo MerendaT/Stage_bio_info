@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : LLPH
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LLPH
+Identifiant STRING officiel : `9606.ENSP00000266604`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCDC59 | **LLPH** | 0.839 |
+| RSL24D1 | **LLPH** | 0.868 |
+| RSL24D1 | **RPL36AL** | 0.964 |
+| RSL24D1 | **RPL17** | 0.989 |
+| RSL24D1 | **RPL14** | 0.989 |
+| RSL24D1 | **RPL37A** | 0.992 |
+| RSL24D1 | **RPL7A** | 0.993 |
+| RSL24D1 | **RPL30** | 0.993 |
+| RSL24D1 | **EIF6** | 0.995 |
+| RSL24D1 | **RPL11** | 0.996 |
+| RSL24D1 | **RPL5** | 0.997 |
+| RSL24D1 | **ZNF593** | 0.998 |
+| RSL24D1 | **NMD3** | 0.998 |
+| RSL24D1 | **GNL2** | 0.999 |
+| RSL24D1 | **GTPBP4** | 0.999 |
+| LLPH | **RPL5** | 0.831 |
+| LLPH | **RPL37A** | 0.835 |
+| LLPH | **RPL17** | 0.84 |
+| LLPH | **RPL11** | 0.842 |
+| LLPH | **RPL14** | 0.843 |
+| LLPH | **GTPBP4** | 0.845 |
+| LLPH | **RPL7A** | 0.847 |
+| LLPH | **EIF6** | 0.849 |
+| LLPH | **RPL36AL** | 0.849 |
+| LLPH | **GNL2** | 0.86 |
+| LLPH | **NMD3** | 0.861 |
+| LLPH | **ZNF593** | 0.89 |
+| LLPH | **RPL30** | 0.894 |
+| RPL36AL | **GTPBP4** | 0.862 |
+| RPL36AL | **ZNF593** | 0.863 |
+| RPL36AL | **GNL2** | 0.872 |
+| RPL36AL | **NMD3** | 0.873 |
+| RPL36AL | **EIF6** | 0.961 |
+| RPL36AL | **RPL17** | 0.991 |
+| RPL36AL | **RPL37A** | 0.996 |
+| RPL36AL | **RPL11** | 0.996 |
+| RPL36AL | **RPL14** | 0.997 |
+| RPL36AL | **RPL5** | 0.998 |
+| RPL36AL | **RPL30** | 0.999 |
+| RPL36AL | **RPL7A** | 0.999 |
+| GTPBP4 | **RPL37A** | 0.922 |
+| GTPBP4 | **RPL11** | 0.947 |
+| GTPBP4 | **RPL17** | 0.963 |
+| GTPBP4 | **RPL7A** | 0.978 |
+| GTPBP4 | **RPL30** | 0.98 |
+| GTPBP4 | **RPL14** | 0.984 |
+| GTPBP4 | **RPL5** | 0.986 |
+| GTPBP4 | **ZNF593** | 0.995 |
+| GTPBP4 | **EIF6** | 0.998 |
+| GTPBP4 | **NMD3** | 0.998 |
+| GTPBP4 | **GNL2** | 0.999 |
+| RPL5 | **ZNF593** | 0.925 |
+| RPL5 | **GNL2** | 0.989 |
+| RPL5 | **NMD3** | 0.99 |
+| RPL5 | **EIF6** | 0.997 |
+| RPL5 | **RPL14** | 0.999 |
+| RPL5 | **RPL11** | 0.999 |
+| RPL5 | **RPL7A** | 0.999 |
+| RPL5 | **RPL17** | 0.999 |
+| RPL5 | **RPL37A** | 0.999 |
+| RPL5 | **RPL30** | 0.999 |
+| RPL7A | **ZNF593** | 0.914 |
+| RPL7A | **GNL2** | 0.961 |
+| RPL7A | **NMD3** | 0.97 |
+| RPL7A | **EIF6** | 0.994 |
+| RPL7A | **RPL14** | 0.999 |
+| RPL7A | **RPL11** | 0.999 |
+| RPL7A | **RPL30** | 0.999 |
+| RPL7A | **RPL17** | 0.999 |
+| RPL7A | **RPL37A** | 0.999 |
+| GNL2 | **RPL17** | 0.93 |
+| GNL2 | **RPL14** | 0.932 |
+| GNL2 | **RPL30** | 0.945 |
+| GNL2 | **RPL11** | 0.967 |
+| GNL2 | **NMD3** | 0.99 |
+| GNL2 | **RPL37A** | 0.99 |
+| GNL2 | **EIF6** | 0.993 |
+| GNL2 | **ZNF593** | 0.997 |
+| ZNF593 | **RPL17** | 0.873 |
+| ZNF593 | **RPL37A** | 0.889 |
+| ZNF593 | **RPL14** | 0.889 |
+| ZNF593 | **RPL11** | 0.901 |
+| ZNF593 | **RPL30** | 0.914 |
+| ZNF593 | **NMD3** | 0.989 |
+| ZNF593 | **EIF6** | 0.991 |
+| EIF6 | **RPL17** | 0.985 |
+| EIF6 | **RPL37A** | 0.995 |
+| EIF6 | **RPL11** | 0.995 |
+| EIF6 | **RPL14** | 0.996 |
+| EIF6 | **NMD3** | 0.997 |
+| EIF6 | **RPL30** | 0.998 |
+| RPL14 | **NMD3** | 0.924 |
+| RPL14 | **RPL11** | 0.999 |
+| RPL14 | **RPL30** | 0.999 |
+| RPL14 | **RPL37A** | 0.999 |
+| RPL14 | **RPL17** | 0.999 |
+| NMD3 | **RPL37A** | 0.904 |
+| NMD3 | **RPL17** | 0.915 |
+| NMD3 | **RPL30** | 0.948 |
+| NMD3 | **RPL11** | 0.96 |
+| RPL37A | **RPL17** | 0.998 |
+| RPL37A | **RPL11** | 0.999 |
+| RPL37A | **RPL30** | 0.999 |
+| RPL30 | **RPL17** | 0.998 |
+| RPL30 | **RPL11** | 0.999 |
+| RPL17 | **RPL11** | 0.999 |
+

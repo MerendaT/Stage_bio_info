@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : IFI35
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IFI35
+Identifiant STRING officiel : `9606.ENSP00000395590`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NMI | **IFI35** | 0.982 |
+| RPL8 | **IFI35** | 0.981 |
+| RPL8 | **RPL13** | 0.999 |
+| RPL8 | **RPL36** | 0.999 |
+| RPL8 | **RPS24** | 0.999 |
+| RPL8 | **RPS18** | 0.999 |
+| RPL8 | **RPL34** | 0.999 |
+| RPL8 | **RPL23** | 0.999 |
+| RPL8 | **RPS19** | 0.999 |
+| RPL8 | **RPL38** | 0.999 |
+| RPL8 | **RPS3A** | 0.999 |
+| RPL8 | **FAU** | 0.999 |
+| RPL8 | **RPL35A** | 0.999 |
+| RPL8 | **RPS11** | 0.999 |
+| RPL8 | **RPL14** | 0.999 |
+| RPS11 | **IFI35** | 0.98 |
+| RPS11 | **RPL13** | 0.999 |
+| RPS11 | **RPL36** | 0.999 |
+| RPS11 | **RPS24** | 0.999 |
+| RPS11 | **RPS18** | 0.999 |
+| RPS11 | **RPL34** | 0.999 |
+| RPS11 | **RPL23** | 0.999 |
+| RPS11 | **RPS19** | 0.999 |
+| RPS11 | **RPL35A** | 0.999 |
+| RPS11 | **RPL14** | 0.999 |
+| RPS11 | **RPL38** | 0.999 |
+| RPS11 | **RPS3A** | 0.999 |
+| RPS11 | **FAU** | 0.999 |
+| RPL13 | **IFI35** | 0.979 |
+| RPL13 | **RPS24** | 0.999 |
+| RPL13 | **RPL36** | 0.999 |
+| RPL13 | **RPS19** | 0.999 |
+| RPL13 | **RPL23** | 0.999 |
+| RPL13 | **RPL34** | 0.999 |
+| RPL13 | **RPS18** | 0.999 |
+| RPL13 | **RPL35A** | 0.999 |
+| RPL13 | **RPL14** | 0.999 |
+| RPL13 | **RPL38** | 0.999 |
+| RPL13 | **FAU** | 0.999 |
+| RPL13 | **RPS3A** | 0.999 |
+| RPL38 | **IFI35** | 0.98 |
+| RPL38 | **RPS24** | 0.999 |
+| RPL38 | **RPL36** | 0.999 |
+| RPL38 | **RPL23** | 0.999 |
+| RPL38 | **RPS19** | 0.999 |
+| RPL38 | **RPL34** | 0.999 |
+| RPL38 | **RPS18** | 0.999 |
+| RPL38 | **RPL35A** | 0.999 |
+| RPL38 | **RPL14** | 0.999 |
+| RPL38 | **FAU** | 0.999 |
+| RPL38 | **RPS3A** | 0.999 |
+| RPS3A | **IFI35** | 0.979 |
+| RPS3A | **RPL36** | 0.999 |
+| RPS3A | **RPS24** | 0.999 |
+| RPS3A | **RPL34** | 0.999 |
+| RPS3A | **RPS18** | 0.999 |
+| RPS3A | **RPL23** | 0.999 |
+| RPS3A | **RPS19** | 0.999 |
+| RPS3A | **RPL35A** | 0.999 |
+| RPS3A | **RPL14** | 0.999 |
+| RPS3A | **FAU** | 0.999 |
+| RPL34 | **IFI35** | 0.979 |
+| RPL34 | **RPL14** | 0.999 |
+| RPL34 | **RPL35A** | 0.999 |
+| RPL34 | **FAU** | 0.999 |
+| RPL34 | **RPL23** | 0.999 |
+| RPL34 | **RPS19** | 0.999 |
+| RPL34 | **RPS18** | 0.999 |
+| RPL34 | **RPS24** | 0.999 |
+| RPL34 | **RPL36** | 0.999 |
+| RPL14 | **IFI35** | 0.98 |
+| RPL14 | **RPL35A** | 0.999 |
+| RPL14 | **FAU** | 0.999 |
+| RPL14 | **RPL36** | 0.999 |
+| RPL14 | **RPS24** | 0.999 |
+| RPL14 | **RPS18** | 0.999 |
+| RPL14 | **RPL23** | 0.999 |
+| RPL14 | **RPS19** | 0.999 |
+| RPS18 | **IFI35** | 0.981 |
+| RPS18 | **RPL36** | 0.999 |
+| RPS18 | **RPS24** | 0.999 |
+| RPS18 | **RPL23** | 0.999 |
+| RPS18 | **RPS19** | 0.999 |
+| RPS18 | **FAU** | 0.999 |
+| RPS18 | **RPL35A** | 0.999 |
+| IFI35 | **RPL23** | 0.98 |
+| IFI35 | **RPS19** | 0.98 |
+| IFI35 | **RPL36** | 0.98 |
+| IFI35 | **RPS24** | 0.98 |
+| IFI35 | **RPL35A** | 0.98 |
+| IFI35 | **FAU** | 0.995 |
+| RPS24 | **RPS19** | 0.999 |
+| RPS24 | **RPL23** | 0.999 |
+| RPS24 | **RPL36** | 0.999 |
+| RPS24 | **FAU** | 0.999 |
+| RPS24 | **RPL35A** | 0.999 |
+| RPL23 | **RPL36** | 0.999 |
+| RPL23 | **RPS19** | 0.999 |
+| RPL23 | **RPL35A** | 0.999 |
+| RPL23 | **FAU** | 0.999 |
+| FAU | **RPS19** | 0.999 |
+| FAU | **RPL36** | 0.999 |
+| FAU | **RPL35A** | 0.999 |
+| RPL36 | **RPL35A** | 0.999 |
+| RPL36 | **RPS19** | 0.999 |
+| RPS19 | **RPL35A** | 0.999 |
+

@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9H427",
+      "uniProtkbId": "KCNKF_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "KCNK15"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Probable potassium channel subunit. No channel activity observed in heterologous systems. May need to associate with another protein to form a functional channel"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0034702",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:monoatomic ion channel complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022841",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:potassium ion leak channel activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071468",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to acidic pH"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-ARBA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071805",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:potassium ion transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003EA1C"
+      }
+    }
+  ]
+}

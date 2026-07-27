@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : STXBP5
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : STXBP5
+Identifiant STRING officiel : `9606.ENSP00000321826`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| STX1B | **STX11** | 0.564 |
+| STX1B | **STX3** | 0.566 |
+| STX1B | **STX19** | 0.573 |
+| STX1B | **VTI1B** | 0.658 |
+| STX1B | **STX4** | 0.663 |
+| STX1B | **STX12** | 0.676 |
+| STX1B | **STX7** | 0.71 |
+| STX1B | **STX1A** | 0.814 |
+| STX1B | **SNAP29** | 0.851 |
+| STX1B | **STXBP5** | 0.917 |
+| STX1B | **STX6** | 0.93 |
+| STX1B | **NAPA** | 0.954 |
+| STX1B | **SNAP23** | 0.991 |
+| STX1B | **SNAP25** | 0.997 |
+| SNAP29 | **STXBP6** | 0.621 |
+| SNAP29 | **STX19** | 0.817 |
+| SNAP29 | **STX11** | 0.841 |
+| SNAP29 | **VTI1B** | 0.868 |
+| SNAP29 | **STXBP5** | 0.957 |
+| SNAP29 | **SNAP25** | 0.964 |
+| SNAP29 | **NAPA** | 0.983 |
+| SNAP29 | **STX1A** | 0.987 |
+| SNAP29 | **STX3** | 0.992 |
+| SNAP29 | **STX12** | 0.992 |
+| SNAP29 | **SNAP23** | 0.993 |
+| SNAP29 | **STX4** | 0.994 |
+| SNAP29 | **STX7** | 0.999 |
+| SNAP29 | **STX6** | 0.999 |
+| STX1A | **STX19** | 0.568 |
+| STX1A | **STX3** | 0.582 |
+| STX1A | **STX11** | 0.593 |
+| STX1A | **STXBP6** | 0.627 |
+| STX1A | **STX7** | 0.743 |
+| STX1A | **VTI1B** | 0.778 |
+| STX1A | **STX12** | 0.938 |
+| STX1A | **STX4** | 0.972 |
+| STX1A | **STX6** | 0.98 |
+| STX1A | **NAPA** | 0.992 |
+| STX1A | **STXBP5** | 0.998 |
+| STX1A | **SNAP23** | 0.999 |
+| STX1A | **SNAP25** | 0.999 |
+| SNAP23 | **STXBP6** | 0.823 |
+| SNAP23 | **VTI1B** | 0.878 |
+| SNAP23 | **SNAP25** | 0.932 |
+| SNAP23 | **STXBP5** | 0.949 |
+| SNAP23 | **STX19** | 0.987 |
+| SNAP23 | **NAPA** | 0.99 |
+| SNAP23 | **STX7** | 0.992 |
+| SNAP23 | **STX12** | 0.996 |
+| SNAP23 | **STX6** | 0.998 |
+| SNAP23 | **STX4** | 0.999 |
+| SNAP23 | **STX11** | 0.999 |
+| SNAP23 | **STX3** | 0.999 |
+| SNAP25 | **STXBP6** | 0.761 |
+| SNAP25 | **VTI1B** | 0.775 |
+| SNAP25 | **STX19** | 0.852 |
+| SNAP25 | **STX11** | 0.882 |
+| SNAP25 | **STX7** | 0.886 |
+| SNAP25 | **STX12** | 0.968 |
+| SNAP25 | **STX6** | 0.977 |
+| SNAP25 | **STX3** | 0.99 |
+| SNAP25 | **NAPA** | 0.995 |
+| SNAP25 | **STX4** | 0.998 |
+| SNAP25 | **STXBP5** | 0.998 |
+| STX6 | **STXBP6** | 0.664 |
+| STX6 | **STX19** | 0.779 |
+| STX6 | **STX11** | 0.865 |
+| STX6 | **STXBP5** | 0.921 |
+| STX6 | **NAPA** | 0.991 |
+| STX6 | **STX3** | 0.991 |
+| STX6 | **STX7** | 0.997 |
+| STX6 | **STX4** | 0.998 |
+| STX6 | **STX12** | 0.999 |
+| STX6 | **VTI1B** | 0.999 |
+| NAPA | **STXBP6** | 0.776 |
+| NAPA | **STX19** | 0.84 |
+| NAPA | **STX11** | 0.887 |
+| NAPA | **STXBP5** | 0.941 |
+| NAPA | **STX3** | 0.956 |
+| NAPA | **STX4** | 0.982 |
+| NAPA | **STX12** | 0.985 |
+| NAPA | **STX7** | 0.991 |
+| NAPA | **VTI1B** | 0.993 |
+| STX4 | **STX19** | 0.613 |
+| STX4 | **STX11** | 0.641 |
+| STX4 | **VTI1B** | 0.913 |
+| STX4 | **STX7** | 0.943 |
+| STX4 | **STXBP6** | 0.958 |
+| STX4 | **STXBP5** | 0.959 |
+| STX4 | **STX3** | 0.96 |
+| STX4 | **STX12** | 0.985 |
+| STX19 | **STX12** | 0.685 |
+| STX19 | **STX3** | 0.735 |
+| STX19 | **STX7** | 0.785 |
+| STX19 | **VTI1B** | 0.798 |
+| STX19 | **STX11** | 0.903 |
+| STX19 | **STXBP5** | 0.911 |
+| STXBP5 | **STX12** | 0.917 |
+| STXBP5 | **VTI1B** | 0.924 |
+| STXBP5 | **STXBP6** | 0.943 |
+| STXBP5 | **STX11** | 0.947 |
+| STXBP5 | **STX7** | 0.951 |
+| STXBP5 | **STX3** | 0.968 |
+| STXBP6 | **VTI1B** | 0.651 |
+| STXBP6 | **STX7** | 0.675 |
+| STXBP6 | **STX12** | 0.683 |
+| STXBP6 | **STX3** | 0.78 |
+| STX3 | **STX12** | 0.704 |
+| STX3 | **STX11** | 0.745 |
+| STX3 | **VTI1B** | 0.803 |
+| STX3 | **STX7** | 0.943 |
+| STX11 | **STX7** | 0.815 |
+| STX11 | **STX12** | 0.845 |
+| STX11 | **VTI1B** | 0.861 |
+| STX7 | **STX12** | 0.958 |
+| STX7 | **VTI1B** | 0.999 |
+| STX12 | **VTI1B** | 0.979 |
+

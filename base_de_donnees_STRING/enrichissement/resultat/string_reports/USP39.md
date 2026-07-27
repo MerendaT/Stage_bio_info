@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : USP39
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : USP39
+Identifiant STRING officiel : `9606.ENSP00000312981`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNRNP27 | **PRPF6** | 0.916 |
+| SNRNP27 | **LSM2** | 0.921 |
+| SNRNP27 | **PRPF31** | 0.923 |
+| SNRNP27 | **TXNL4A** | 0.923 |
+| SNRNP27 | **LSM8** | 0.924 |
+| SNRNP27 | **LSM4** | 0.926 |
+| SNRNP27 | **EFTUD2** | 0.93 |
+| SNRNP27 | **PRPF8** | 0.934 |
+| SNRNP27 | **DDX23** | 0.937 |
+| SNRNP27 | **SNRPD2** | 0.938 |
+| SNRNP27 | **PRPF3** | 0.941 |
+| SNRNP27 | **LSM7** | 0.949 |
+| SNRNP27 | **SNRPG** | 0.952 |
+| SNRNP27 | **SNRPE** | 0.959 |
+| SNRNP27 | **USP39** | 0.998 |
+| LSM8 | **DDX23** | 0.981 |
+| LSM8 | **USP39** | 0.99 |
+| LSM8 | **TXNL4A** | 0.994 |
+| LSM8 | **SNRPG** | 0.998 |
+| LSM8 | **LSM2** | 0.999 |
+| LSM8 | **EFTUD2** | 0.999 |
+| LSM8 | **SNRPD2** | 0.999 |
+| LSM8 | **LSM7** | 0.999 |
+| LSM8 | **PRPF3** | 0.999 |
+| LSM8 | **LSM4** | 0.999 |
+| LSM8 | **PRPF8** | 0.999 |
+| LSM8 | **PRPF6** | 0.999 |
+| LSM8 | **SNRPE** | 0.999 |
+| LSM8 | **PRPF31** | 0.999 |
+| LSM7 | **USP39** | 0.987 |
+| LSM7 | **DDX23** | 0.993 |
+| LSM7 | **TXNL4A** | 0.996 |
+| LSM7 | **PRPF8** | 0.996 |
+| LSM7 | **SNRPG** | 0.996 |
+| LSM7 | **PRPF6** | 0.998 |
+| LSM7 | **PRPF31** | 0.998 |
+| LSM7 | **EFTUD2** | 0.998 |
+| LSM7 | **PRPF3** | 0.998 |
+| LSM7 | **SNRPE** | 0.999 |
+| LSM7 | **SNRPD2** | 0.999 |
+| LSM7 | **LSM2** | 0.999 |
+| LSM7 | **LSM4** | 0.999 |
+| PRPF6 | **USP39** | 0.986 |
+| PRPF6 | **LSM2** | 0.998 |
+| PRPF6 | **PRPF31** | 0.999 |
+| PRPF6 | **SNRPE** | 0.999 |
+| PRPF6 | **PRPF3** | 0.999 |
+| PRPF6 | **SNRPG** | 0.999 |
+| PRPF6 | **LSM4** | 0.999 |
+| PRPF6 | **PRPF8** | 0.999 |
+| PRPF6 | **EFTUD2** | 0.999 |
+| PRPF6 | **DDX23** | 0.999 |
+| PRPF6 | **TXNL4A** | 0.999 |
+| PRPF6 | **SNRPD2** | 0.999 |
+| TXNL4A | **USP39** | 0.986 |
+| TXNL4A | **SNRPD2** | 0.992 |
+| TXNL4A | **LSM2** | 0.993 |
+| TXNL4A | **LSM4** | 0.994 |
+| TXNL4A | **SNRPE** | 0.994 |
+| TXNL4A | **PRPF3** | 0.997 |
+| TXNL4A | **SNRPG** | 0.998 |
+| TXNL4A | **EFTUD2** | 0.999 |
+| TXNL4A | **DDX23** | 0.999 |
+| TXNL4A | **PRPF8** | 0.999 |
+| TXNL4A | **PRPF31** | 0.999 |
+| DDX23 | **LSM4** | 0.99 |
+| DDX23 | **LSM2** | 0.99 |
+| DDX23 | **USP39** | 0.996 |
+| DDX23 | **SNRPG** | 0.997 |
+| DDX23 | **PRPF31** | 0.997 |
+| DDX23 | **SNRPE** | 0.998 |
+| DDX23 | **PRPF8** | 0.999 |
+| DDX23 | **PRPF3** | 0.999 |
+| DDX23 | **SNRPD2** | 0.999 |
+| DDX23 | **EFTUD2** | 0.999 |
+| USP39 | **SNRPG** | 0.987 |
+| USP39 | **SNRPE** | 0.989 |
+| USP39 | **LSM4** | 0.99 |
+| USP39 | **SNRPD2** | 0.99 |
+| USP39 | **LSM2** | 0.99 |
+| USP39 | **PRPF8** | 0.994 |
+| USP39 | **PRPF3** | 0.995 |
+| USP39 | **EFTUD2** | 0.995 |
+| USP39 | **PRPF31** | 0.995 |
+| PRPF3 | **SNRPE** | 0.998 |
+| PRPF3 | **PRPF31** | 0.999 |
+| PRPF3 | **SNRPD2** | 0.999 |
+| PRPF3 | **EFTUD2** | 0.999 |
+| PRPF3 | **LSM2** | 0.999 |
+| PRPF3 | **LSM4** | 0.999 |
+| PRPF3 | **PRPF8** | 0.999 |
+| PRPF3 | **SNRPG** | 0.999 |
+| PRPF31 | **SNRPE** | 0.999 |
+| PRPF31 | **EFTUD2** | 0.999 |
+| PRPF31 | **LSM2** | 0.999 |
+| PRPF31 | **SNRPD2** | 0.999 |
+| PRPF31 | **SNRPG** | 0.999 |
+| PRPF31 | **LSM4** | 0.999 |
+| PRPF31 | **PRPF8** | 0.999 |
+| SNRPD2 | **SNRPE** | 0.999 |
+| SNRPD2 | **SNRPG** | 0.999 |
+| SNRPD2 | **PRPF8** | 0.999 |
+| SNRPD2 | **LSM4** | 0.999 |
+| SNRPD2 | **LSM2** | 0.999 |
+| SNRPD2 | **EFTUD2** | 0.999 |
+| LSM2 | **SNRPG** | 0.998 |
+| LSM2 | **PRPF8** | 0.998 |
+| LSM2 | **EFTUD2** | 0.998 |
+| LSM2 | **LSM4** | 0.999 |
+| LSM2 | **SNRPE** | 0.999 |
+| EFTUD2 | **LSM4** | 0.997 |
+| EFTUD2 | **SNRPE** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| EFTUD2 | **SNRPG** | 0.999 |
+| SNRPG | **LSM4** | 0.998 |
+| SNRPG | **SNRPE** | 0.999 |
+| SNRPG | **PRPF8** | 0.999 |
+| SNRPE | **PRPF8** | 0.999 |
+| SNRPE | **LSM4** | 0.999 |
+| PRPF8 | **LSM4** | 0.997 |
+

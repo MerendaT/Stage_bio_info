@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ME1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ME1
+Identifiant STRING officiel : `9606.ENSP00000358719`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| LDHAL6A | **MDH2** | 0.505 |
+| LDHAL6A | **FH** | 0.729 |
+| LDHAL6A | **LDHC** | 0.786 |
+| LDHAL6A | **LDHA** | 0.799 |
+| LDHAL6A | **PDHA2** | 0.923 |
+| LDHAL6A | **LDHD** | 0.939 |
+| LDHAL6A | **CS** | 0.94 |
+| LDHAL6A | **PDHB** | 0.944 |
+| LDHAL6A | **ME2** | 0.953 |
+| LDHAL6A | **ME1** | 0.954 |
+| LDHAL6A | **ME3** | 0.959 |
+| LDHAL6A | **PC** | 0.966 |
+| LDHAL6A | **PKLR** | 0.986 |
+| LDHAL6A | **PKM** | 0.986 |
+| PDHA2 | **FH** | 0.401 |
+| PDHA2 | **MDH2** | 0.562 |
+| PDHA2 | **CS** | 0.637 |
+| PDHA2 | **ME3** | 0.924 |
+| PDHA2 | **ME1** | 0.924 |
+| PDHA2 | **ME2** | 0.924 |
+| PDHA2 | **LDHAL6B** | 0.927 |
+| PDHA2 | **LDHD** | 0.932 |
+| PDHA2 | **PC** | 0.938 |
+| PDHA2 | **LDHA** | 0.939 |
+| PDHA2 | **PKLR** | 0.94 |
+| PDHA2 | **PKM** | 0.945 |
+| PDHA2 | **LDHC** | 0.951 |
+| PDHA2 | **PDHB** | 0.999 |
+| LDHD | **CS** | 0.664 |
+| LDHD | **PC** | 0.921 |
+| LDHD | **ME3** | 0.926 |
+| LDHD | **ME2** | 0.926 |
+| LDHD | **ME1** | 0.929 |
+| LDHD | **PDHB** | 0.934 |
+| LDHD | **PKLR** | 0.946 |
+| LDHD | **PKM** | 0.946 |
+| LDHD | **LDHA** | 0.946 |
+| LDHD | **LDHC** | 0.95 |
+| LDHD | **LDHAL6B** | 0.966 |
+| LDHAL6B | **FH** | 0.726 |
+| LDHAL6B | **CS** | 0.94 |
+| LDHAL6B | **PDHB** | 0.946 |
+| LDHAL6B | **ME2** | 0.952 |
+| LDHAL6B | **ME1** | 0.954 |
+| LDHAL6B | **ME3** | 0.959 |
+| LDHAL6B | **PC** | 0.965 |
+| LDHAL6B | **PKM** | 0.982 |
+| LDHAL6B | **PKLR** | 0.986 |
+| PDHB | **FH** | 0.665 |
+| PDHB | **MDH2** | 0.85 |
+| PDHB | **CS** | 0.941 |
+| PDHB | **LDHC** | 0.942 |
+| PDHB | **ME2** | 0.948 |
+| PDHB | **ME3** | 0.95 |
+| PDHB | **ME1** | 0.951 |
+| PDHB | **PC** | 0.959 |
+| PDHB | **LDHA** | 0.961 |
+| PDHB | **PKLR** | 0.966 |
+| PDHB | **PKM** | 0.983 |
+| PKM | **CS** | 0.667 |
+| PKM | **FH** | 0.737 |
+| PKM | **MDH2** | 0.829 |
+| PKM | **PKLR** | 0.919 |
+| PKM | **ME2** | 0.962 |
+| PKM | **ME3** | 0.963 |
+| PKM | **PC** | 0.967 |
+| PKM | **ME1** | 0.974 |
+| PKM | **LDHC** | 0.983 |
+| PKM | **LDHA** | 0.997 |
+| ME2 | **ME3** | 0.906 |
+| ME2 | **ME1** | 0.906 |
+| ME2 | **LDHC** | 0.952 |
+| ME2 | **PKLR** | 0.966 |
+| ME2 | **CS** | 0.975 |
+| ME2 | **MDH2** | 0.977 |
+| ME2 | **LDHA** | 0.982 |
+| ME2 | **PC** | 0.983 |
+| ME2 | **FH** | 0.989 |
+| MDH2 | **LDHA** | 0.434 |
+| MDH2 | **PKLR** | 0.77 |
+| MDH2 | **ME1** | 0.98 |
+| MDH2 | **ME3** | 0.981 |
+| MDH2 | **PC** | 0.986 |
+| MDH2 | **FH** | 0.998 |
+| MDH2 | **CS** | 0.999 |
+| PKLR | **FH** | 0.507 |
+| PKLR | **CS** | 0.565 |
+| PKLR | **PC** | 0.964 |
+| PKLR | **ME1** | 0.969 |
+| PKLR | **ME3** | 0.97 |
+| PKLR | **LDHC** | 0.986 |
+| PKLR | **LDHA** | 0.986 |
+| CS | **LDHA** | 0.949 |
+| CS | **LDHC** | 0.962 |
+| CS | **ME3** | 0.968 |
+| CS | **ME1** | 0.972 |
+| CS | **PC** | 0.987 |
+| CS | **FH** | 0.993 |
+| FH | **LDHC** | 0.735 |
+| FH | **PC** | 0.763 |
+| FH | **LDHA** | 0.887 |
+| FH | **ME3** | 0.986 |
+| FH | **ME1** | 0.989 |
+| ME1 | **ME3** | 0.902 |
+| ME1 | **LDHC** | 0.951 |
+| ME1 | **LDHA** | 0.958 |
+| ME1 | **PC** | 0.997 |
+| LDHC | **ME3** | 0.956 |
+| LDHC | **PC** | 0.966 |
+| LDHC | **LDHA** | 0.985 |
+| ME3 | **LDHA** | 0.949 |
+| ME3 | **PC** | 0.986 |
+| LDHA | **PC** | 0.978 |
+

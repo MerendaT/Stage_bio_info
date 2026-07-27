@@ -1,0 +1,526 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P78395",
+      "uniProtkbId": "PRAME_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "9047241"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:9336"
+              }
+            ],
+            "value": "PRAME"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16179254"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21822215"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26138980"
+                }
+              ],
+              "value": "Substrate-recognition component of a Cul2-RING (CRL2) E3 ubiquitin-protein ligase complex, which mediates ubiquitination of target proteins, leading to their degradation (PubMed:21822215, PubMed:26138980). The CRL2(PRAME) complex mediates ubiquitination and degradation of truncated MSRB1/SEPX1 selenoproteins produced by failed UGA/Sec decoding (PubMed:26138980). In the nucleus, the CRL2(PRAME) complex is recruited to epigenetically and transcriptionally active promoter regions bound by nuclear transcription factor Y (NFY) and probably plays a role in chromstin regulation (PubMed:21822215). Functions as a transcriptional repressor, inhibiting the signaling of retinoic acid through the retinoic acid receptors RARA, RARB and RARG: prevents retinoic acid-induced cell proliferation arrest, differentiation and apoptosis (PubMed:16179254)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21822215"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23460923"
+                  }
+                ],
+                "value": "Associates with chromatin; specifically enriched at transcriptionally active promoters that are also bound by nuclear transcription factor Y (composed of NFYA, NFYB and NFYC) and at enhancers (PubMed:21822215). Recruited to the Golgi apparatus in response to interferon gamma (IFNG) treatment (PubMed:23460923)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21822215"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23460923"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "16620968"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21822215"
+                  }
+                ],
+                "value": "Chromosome",
+                "id": "SL-0468"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23460923"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23460923"
+                  }
+                ],
+                "value": "Golgi apparatus",
+                "id": "SL-0132"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16620968"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21822215"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031462",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Cul2-RING ubiquitin ligase complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21822215"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26138980"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21822215"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042974",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nuclear retinoic acid receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16179254"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990756",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin-like ligase-substrate adaptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21822215"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26138980"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006915",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16179254"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16179254"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045892",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16179254"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048387",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of retinoic acid receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16179254"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16179254"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043161",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:proteasome-mediated ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26138980"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000209",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein polyubiquitination"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21822215"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140627",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ubiquitin-dependent protein catabolic process via the C-end degron rule pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "21822215"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000000DDA"
+      }
+    }
+  ]
+}

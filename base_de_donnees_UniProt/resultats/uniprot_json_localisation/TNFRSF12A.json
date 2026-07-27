@@ -1,0 +1,228 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9NP84",
+      "uniProtkbId": "TNR12_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "TNFRSF12A"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11728344"
+                }
+              ],
+              "value": "Receptor for TNFSF12/TWEAK. Weak inducer of apoptosis in some cell types. Promotes angiogenesis and the proliferation of endothelial cells. May modulate cellular adhesion to matrix proteins"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001726",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:ruffle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001525",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006915",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007155",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043065",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21525013"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2001238",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of extrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21525013"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045765",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061041",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of wound healing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11728344"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003E878"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : KLHL7
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KLHL7
+Identifiant STRING officiel : `9606.ENSP00000343273`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KLHL20 | **KLHL25** | 0.907 |
+| KLHL20 | **KLHL8** | 0.907 |
+| KLHL20 | **KLHL3** | 0.908 |
+| KLHL20 | **KEAP1** | 0.909 |
+| KLHL20 | **KLHL21** | 0.91 |
+| KLHL20 | **KLHL13** | 0.911 |
+| KLHL20 | **KLHL12** | 0.911 |
+| KLHL20 | **ENC1** | 0.913 |
+| KLHL20 | **KLHL7** | 0.916 |
+| KLHL20 | **KLHL41** | 0.918 |
+| KLHL20 | **GAN** | 0.918 |
+| KLHL20 | **KBTBD8** | 0.919 |
+| KLHL20 | **KLHL9** | 0.924 |
+| KLHL20 | **RBX1** | 0.986 |
+| KLHL20 | **CUL3** | 0.999 |
+| RBX1 | **KLHL25** | 0.916 |
+| RBX1 | **KBTBD8** | 0.921 |
+| RBX1 | **KLHL8** | 0.924 |
+| RBX1 | **KLHL21** | 0.926 |
+| RBX1 | **ENC1** | 0.936 |
+| RBX1 | **KLHL7** | 0.938 |
+| RBX1 | **KLHL12** | 0.938 |
+| RBX1 | **KLHL41** | 0.96 |
+| RBX1 | **GAN** | 0.966 |
+| RBX1 | **KLHL3** | 0.968 |
+| RBX1 | **KLHL13** | 0.969 |
+| RBX1 | **KLHL9** | 0.974 |
+| RBX1 | **CUL3** | 0.999 |
+| RBX1 | **KEAP1** | 0.999 |
+| CUL3 | **KLHL41** | 0.978 |
+| CUL3 | **ENC1** | 0.982 |
+| CUL3 | **KLHL7** | 0.985 |
+| CUL3 | **GAN** | 0.989 |
+| CUL3 | **KLHL8** | 0.989 |
+| CUL3 | **KLHL21** | 0.994 |
+| CUL3 | **KLHL25** | 0.995 |
+| CUL3 | **KBTBD8** | 0.997 |
+| CUL3 | **KLHL13** | 0.999 |
+| CUL3 | **KEAP1** | 0.999 |
+| CUL3 | **KLHL3** | 0.999 |
+| CUL3 | **KLHL9** | 0.999 |
+| CUL3 | **KLHL12** | 0.999 |
+| KLHL8 | **KLHL3** | 0.905 |
+| KLHL8 | **KBTBD8** | 0.906 |
+| KLHL8 | **KLHL21** | 0.907 |
+| KLHL8 | **KLHL12** | 0.907 |
+| KLHL8 | **GAN** | 0.908 |
+| KLHL8 | **KLHL25** | 0.909 |
+| KLHL8 | **KEAP1** | 0.909 |
+| KLHL8 | **ENC1** | 0.912 |
+| KLHL8 | **KLHL41** | 0.912 |
+| KLHL8 | **KLHL7** | 0.912 |
+| KLHL8 | **KLHL9** | 0.913 |
+| KLHL8 | **KLHL13** | 0.914 |
+| KLHL41 | **KLHL7** | 0.912 |
+| KLHL41 | **KLHL12** | 0.913 |
+| KLHL41 | **KLHL3** | 0.913 |
+| KLHL41 | **KBTBD8** | 0.914 |
+| KLHL41 | **KEAP1** | 0.915 |
+| KLHL41 | **KLHL25** | 0.915 |
+| KLHL41 | **KLHL21** | 0.916 |
+| KLHL41 | **ENC1** | 0.921 |
+| KLHL41 | **GAN** | 0.922 |
+| KLHL41 | **KLHL13** | 0.927 |
+| KLHL41 | **KLHL9** | 0.934 |
+| KLHL3 | **KLHL21** | 0.907 |
+| KLHL3 | **KLHL25** | 0.909 |
+| KLHL3 | **KLHL7** | 0.914 |
+| KLHL3 | **ENC1** | 0.915 |
+| KLHL3 | **KLHL13** | 0.916 |
+| KLHL3 | **KLHL9** | 0.921 |
+| KLHL3 | **KBTBD8** | 0.921 |
+| KLHL3 | **GAN** | 0.925 |
+| KLHL3 | **KEAP1** | 0.964 |
+| KLHL3 | **KLHL12** | 0.975 |
+| KLHL25 | **KLHL12** | 0.908 |
+| KLHL25 | **KEAP1** | 0.911 |
+| KLHL25 | **KLHL7** | 0.914 |
+| KLHL25 | **GAN** | 0.921 |
+| KLHL25 | **KLHL13** | 0.925 |
+| KLHL25 | **KLHL9** | 0.925 |
+| KLHL25 | **KLHL21** | 0.935 |
+| KLHL25 | **KBTBD8** | 0.937 |
+| KLHL25 | **ENC1** | 0.978 |
+| KLHL7 | **KLHL21** | 0.915 |
+| KLHL7 | **KEAP1** | 0.915 |
+| KLHL7 | **KBTBD8** | 0.915 |
+| KLHL7 | **KLHL12** | 0.917 |
+| KLHL7 | **KLHL13** | 0.917 |
+| KLHL7 | **GAN** | 0.921 |
+| KLHL7 | **ENC1** | 0.921 |
+| KLHL7 | **KLHL9** | 0.922 |
+| KLHL9 | **KLHL12** | 0.922 |
+| KLHL9 | **KEAP1** | 0.922 |
+| KLHL9 | **GAN** | 0.924 |
+| KLHL9 | **KBTBD8** | 0.927 |
+| KLHL9 | **ENC1** | 0.953 |
+| KLHL9 | **KLHL21** | 0.96 |
+| KLHL9 | **KLHL13** | 0.996 |
+| KLHL12 | **KLHL21** | 0.913 |
+| KLHL12 | **ENC1** | 0.914 |
+| KLHL12 | **KLHL13** | 0.918 |
+| KLHL12 | **GAN** | 0.922 |
+| KLHL12 | **KBTBD8** | 0.928 |
+| KLHL12 | **KEAP1** | 0.934 |
+| KLHL21 | **KBTBD8** | 0.906 |
+| KLHL21 | **ENC1** | 0.91 |
+| KLHL21 | **GAN** | 0.913 |
+| KLHL21 | **KEAP1** | 0.914 |
+| KLHL21 | **KLHL13** | 0.95 |
+| KEAP1 | **KBTBD8** | 0.916 |
+| KEAP1 | **GAN** | 0.918 |
+| KEAP1 | **KLHL13** | 0.919 |
+| KEAP1 | **ENC1** | 0.936 |
+| KBTBD8 | **KLHL13** | 0.921 |
+| KBTBD8 | **ENC1** | 0.927 |
+| KBTBD8 | **GAN** | 0.931 |
+| KLHL13 | **GAN** | 0.917 |
+| KLHL13 | **ENC1** | 0.936 |
+| GAN | **ENC1** | 0.926 |
+

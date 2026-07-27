@@ -1,0 +1,138 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9P0S9",
+      "uniProtkbId": "TM14C_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "TMEM14C"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "Required for normal heme biosynthesis"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Mitochondrion membrane",
+                "id": "SL-0171"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005743",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial inner membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031966",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HTP:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0006056",
+              "source": "PubMed",
+              "id": "34800366"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022857",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:heme biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003BBD6"
+      }
+    }
+  ]
+}

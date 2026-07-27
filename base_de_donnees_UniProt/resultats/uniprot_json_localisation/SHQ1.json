@@ -1,0 +1,207 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q6PI26",
+      "uniProtkbId": "SHQ1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SHQ1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19383767"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "34542157"
+                }
+              ],
+              "value": "Required for the quantitative accumulation of H/ACA ribonucleoproteins (RNPs), including telomerase, probably through the stabilization of DKC1, from the time of its synthesis until its association with NOP10, NHP2, and NAF1 at the nascent H/ACA RNA"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "May at least partially shuttle between cytosol and nucleoplasm. In the nucleoplasm, exhibits a granular pattern, but is excluded from nucleoli and Cajal bodies. Absent from most H/ACA-box RNA transcription sites"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19383767"
+                  }
+                ],
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19383767"
+                  }
+                ],
+                "value": "Nucleus, nucleoplasm",
+                "id": "SL-0190"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19383767"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19383767"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051082",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:unfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000493",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:box H/ACA snoRNP assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022618",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein-RNA complex assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19383767"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090671",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:telomerase RNA localization to Cajal body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007001",
+              "source": "PubMed",
+              "id": "25467444"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001416C5"
+      }
+    }
+  ]
+}

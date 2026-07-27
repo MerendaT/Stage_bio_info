@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : FOXRED1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : FOXRED1
+Identifiant STRING officiel : `9606.ENSP00000263578`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NDUFS7 | **FOXRED1** | 0.945 |
+| NDUFS7 | **NDUFAF1** | 0.996 |
+| NDUFS7 | **ACAD9** | 0.998 |
+| NDUFS7 | **NDUFS1** | 0.999 |
+| NDUFS7 | **NDUFV2** | 0.999 |
+| NDUFS7 | **MT-ND4** | 0.999 |
+| NDUFS7 | **NDUFS2** | 0.999 |
+| NDUFS7 | **NDUFS5** | 0.999 |
+| NDUFS7 | **NDUFA2** | 0.999 |
+| NDUFS7 | **NDUFB10** | 0.999 |
+| NDUFS7 | **NDUFS8** | 0.999 |
+| NDUFS7 | **NDUFA11** | 0.999 |
+| NDUFS7 | **NDUFS4** | 0.999 |
+| NDUFS7 | **NDUFS3** | 0.999 |
+| NDUFS7 | **NDUFV1** | 0.999 |
+| NDUFA2 | **ACAD9** | 0.745 |
+| NDUFA2 | **FOXRED1** | 0.93 |
+| NDUFA2 | **NDUFAF1** | 0.983 |
+| NDUFA2 | **NDUFS8** | 0.999 |
+| NDUFA2 | **NDUFS2** | 0.999 |
+| NDUFA2 | **NDUFS5** | 0.999 |
+| NDUFA2 | **NDUFB10** | 0.999 |
+| NDUFA2 | **NDUFV1** | 0.999 |
+| NDUFA2 | **NDUFS3** | 0.999 |
+| NDUFA2 | **NDUFA11** | 0.999 |
+| NDUFA2 | **NDUFS4** | 0.999 |
+| NDUFA2 | **MT-ND4** | 0.999 |
+| NDUFA2 | **NDUFS1** | 0.999 |
+| NDUFA2 | **NDUFV2** | 0.999 |
+| NDUFAF1 | **FOXRED1** | 0.961 |
+| NDUFAF1 | **NDUFA11** | 0.976 |
+| NDUFAF1 | **MT-ND4** | 0.98 |
+| NDUFAF1 | **NDUFV2** | 0.985 |
+| NDUFAF1 | **NDUFS4** | 0.985 |
+| NDUFAF1 | **NDUFB10** | 0.985 |
+| NDUFAF1 | **NDUFS8** | 0.986 |
+| NDUFAF1 | **NDUFV1** | 0.987 |
+| NDUFAF1 | **NDUFS2** | 0.989 |
+| NDUFAF1 | **NDUFS1** | 0.999 |
+| NDUFAF1 | **ACAD9** | 0.999 |
+| NDUFAF1 | **NDUFS3** | 0.999 |
+| NDUFAF1 | **NDUFS5** | 0.999 |
+| FOXRED1 | **ACAD9** | 0.908 |
+| FOXRED1 | **NDUFV2** | 0.909 |
+| FOXRED1 | **NDUFA11** | 0.912 |
+| FOXRED1 | **MT-ND4** | 0.914 |
+| FOXRED1 | **NDUFS2** | 0.926 |
+| FOXRED1 | **NDUFB10** | 0.926 |
+| FOXRED1 | **NDUFS1** | 0.929 |
+| FOXRED1 | **NDUFV1** | 0.93 |
+| FOXRED1 | **NDUFS4** | 0.937 |
+| FOXRED1 | **NDUFS8** | 0.939 |
+| FOXRED1 | **NDUFS3** | 0.946 |
+| FOXRED1 | **NDUFS5** | 0.95 |
+| NDUFS3 | **ACAD9** | 0.998 |
+| NDUFS3 | **NDUFV1** | 0.999 |
+| NDUFS3 | **NDUFA11** | 0.999 |
+| NDUFS3 | **NDUFS4** | 0.999 |
+| NDUFS3 | **NDUFS8** | 0.999 |
+| NDUFS3 | **NDUFS5** | 0.999 |
+| NDUFS3 | **NDUFS2** | 0.999 |
+| NDUFS3 | **NDUFB10** | 0.999 |
+| NDUFS3 | **MT-ND4** | 0.999 |
+| NDUFS3 | **NDUFS1** | 0.999 |
+| NDUFS3 | **NDUFV2** | 0.999 |
+| NDUFB10 | **ACAD9** | 0.669 |
+| NDUFB10 | **NDUFS2** | 0.999 |
+| NDUFB10 | **NDUFS5** | 0.999 |
+| NDUFB10 | **NDUFS8** | 0.999 |
+| NDUFB10 | **NDUFS4** | 0.999 |
+| NDUFB10 | **NDUFA11** | 0.999 |
+| NDUFB10 | **NDUFV1** | 0.999 |
+| NDUFB10 | **NDUFV2** | 0.999 |
+| NDUFB10 | **NDUFS1** | 0.999 |
+| NDUFB10 | **MT-ND4** | 0.999 |
+| NDUFS4 | **ACAD9** | 0.716 |
+| NDUFS4 | **MT-ND4** | 0.999 |
+| NDUFS4 | **NDUFV2** | 0.999 |
+| NDUFS4 | **NDUFS1** | 0.999 |
+| NDUFS4 | **NDUFV1** | 0.999 |
+| NDUFS4 | **NDUFA11** | 0.999 |
+| NDUFS4 | **NDUFS8** | 0.999 |
+| NDUFS4 | **NDUFS5** | 0.999 |
+| NDUFS4 | **NDUFS2** | 0.999 |
+| ACAD9 | **NDUFA11** | 0.717 |
+| ACAD9 | **NDUFS1** | 0.774 |
+| ACAD9 | **NDUFV2** | 0.779 |
+| ACAD9 | **NDUFS8** | 0.827 |
+| ACAD9 | **NDUFV1** | 0.833 |
+| ACAD9 | **NDUFS5** | 0.995 |
+| ACAD9 | **NDUFS2** | 0.998 |
+| NDUFS8 | **NDUFS2** | 0.999 |
+| NDUFS8 | **NDUFS5** | 0.999 |
+| NDUFS8 | **NDUFV1** | 0.999 |
+| NDUFS8 | **NDUFA11** | 0.999 |
+| NDUFS8 | **MT-ND4** | 0.999 |
+| NDUFS8 | **NDUFS1** | 0.999 |
+| NDUFS8 | **NDUFV2** | 0.999 |
+| NDUFV2 | **NDUFS5** | 0.999 |
+| NDUFV2 | **NDUFS2** | 0.999 |
+| NDUFV2 | **NDUFV1** | 0.999 |
+| NDUFV2 | **NDUFA11** | 0.999 |
+| NDUFV2 | **MT-ND4** | 0.999 |
+| NDUFV2 | **NDUFS1** | 0.999 |
+| MT-ND4 | **NDUFS1** | 0.999 |
+| MT-ND4 | **NDUFA11** | 0.999 |
+| MT-ND4 | **NDUFV1** | 0.999 |
+| MT-ND4 | **NDUFS5** | 0.999 |
+| MT-ND4 | **NDUFS2** | 0.999 |
+| NDUFS2 | **NDUFS1** | 0.999 |
+| NDUFS2 | **NDUFV1** | 0.999 |
+| NDUFS2 | **NDUFA11** | 0.999 |
+| NDUFS2 | **NDUFS5** | 0.999 |
+| NDUFS5 | **NDUFS1** | 0.999 |
+| NDUFS5 | **NDUFA11** | 0.999 |
+| NDUFS5 | **NDUFV1** | 0.999 |
+| NDUFA11 | **NDUFS1** | 0.999 |
+| NDUFA11 | **NDUFV1** | 0.999 |
+| NDUFS1 | **NDUFV1** | 0.999 |
+

@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : IFITM3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IFITM3
+Identifiant STRING officiel : `9606.ENSP00000382707`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EIF2AK2 | **IFITM1** | 0.711 |
+| EIF2AK2 | **IFI35** | 0.722 |
+| EIF2AK2 | **IFI27** | 0.732 |
+| EIF2AK2 | **IRF9** | 0.769 |
+| EIF2AK2 | **IFI6** | 0.811 |
+| EIF2AK2 | **IFITM3** | 0.839 |
+| EIF2AK2 | **IFIT2** | 0.87 |
+| EIF2AK2 | **IFI44L** | 0.927 |
+| EIF2AK2 | **IFIT3** | 0.943 |
+| EIF2AK2 | **IFI44** | 0.951 |
+| EIF2AK2 | **MX1** | 0.979 |
+| EIF2AK2 | **STAT1** | 0.98 |
+| EIF2AK2 | **ISG15** | 0.991 |
+| EIF2AK2 | **IFIT1** | 0.993 |
+| IFITM1 | **VAPA** | 0.448 |
+| IFITM1 | **IFIT2** | 0.738 |
+| IFITM1 | **IFI44** | 0.742 |
+| IFITM1 | **IFI44L** | 0.795 |
+| IFITM1 | **IFI35** | 0.805 |
+| IFITM1 | **STAT1** | 0.845 |
+| IFITM1 | **MX1** | 0.853 |
+| IFITM1 | **IFIT3** | 0.86 |
+| IFITM1 | **IFITM3** | 0.872 |
+| IFITM1 | **IFIT1** | 0.877 |
+| IFITM1 | **IFI6** | 0.891 |
+| IFITM1 | **ISG15** | 0.903 |
+| IFITM1 | **IFI27** | 0.908 |
+| IFITM1 | **IRF9** | 0.915 |
+| IFI6 | **IFITM3** | 0.862 |
+| IFI6 | **IFIT2** | 0.869 |
+| IFI6 | **IFI27** | 0.882 |
+| IFI6 | **IFI35** | 0.92 |
+| IFI6 | **IFIT1** | 0.932 |
+| IFI6 | **STAT1** | 0.934 |
+| IFI6 | **IFIT3** | 0.957 |
+| IFI6 | **ISG15** | 0.959 |
+| IFI6 | **IFI44** | 0.959 |
+| IFI6 | **MX1** | 0.96 |
+| IFI6 | **IRF9** | 0.961 |
+| IFI6 | **IFI44L** | 0.968 |
+| VAPA | **IFITM3** | 0.846 |
+| STAT1 | **IFITM3** | 0.826 |
+| STAT1 | **IFI27** | 0.844 |
+| STAT1 | **IFI44L** | 0.87 |
+| STAT1 | **IFI44** | 0.915 |
+| STAT1 | **MX1** | 0.942 |
+| STAT1 | **IFIT1** | 0.945 |
+| STAT1 | **IFI35** | 0.95 |
+| STAT1 | **IFIT2** | 0.963 |
+| STAT1 | **IFIT3** | 0.985 |
+| STAT1 | **ISG15** | 0.987 |
+| STAT1 | **IRF9** | 0.999 |
+| IFI44 | **IFITM3** | 0.844 |
+| IFI44 | **IRF9** | 0.855 |
+| IFI44 | **IFI35** | 0.924 |
+| IFI44 | **IFI27** | 0.945 |
+| IFI44 | **ISG15** | 0.964 |
+| IFI44 | **IFIT2** | 0.964 |
+| IFI44 | **MX1** | 0.967 |
+| IFI44 | **IFIT1** | 0.974 |
+| IFI44 | **IFIT3** | 0.984 |
+| IFI44 | **IFI44L** | 0.999 |
+| IFI44L | **IRF9** | 0.784 |
+| IFI44L | **IFITM3** | 0.846 |
+| IFI44L | **IFI35** | 0.902 |
+| IFI44L | **IFIT2** | 0.921 |
+| IFI44L | **ISG15** | 0.963 |
+| IFI44L | **MX1** | 0.965 |
+| IFI44L | **IFIT1** | 0.967 |
+| IFI44L | **IFI27** | 0.977 |
+| IFI44L | **IFIT3** | 0.982 |
+| IFIT1 | **IFITM3** | 0.866 |
+| IFIT1 | **IFI35** | 0.876 |
+| IFIT1 | **IFI27** | 0.934 |
+| IFIT1 | **IRF9** | 0.949 |
+| IFIT1 | **IFIT2** | 0.982 |
+| IFIT1 | **MX1** | 0.989 |
+| IFIT1 | **ISG15** | 0.993 |
+| IFIT1 | **IFIT3** | 0.999 |
+| IFIT3 | **IFI27** | 0.904 |
+| IFIT3 | **IFITM3** | 0.923 |
+| IFIT3 | **IFI35** | 0.926 |
+| IFIT3 | **IRF9** | 0.941 |
+| IFIT3 | **MX1** | 0.972 |
+| IFIT3 | **ISG15** | 0.976 |
+| IFIT3 | **IFIT2** | 0.999 |
+| IRF9 | **IFITM3** | 0.888 |
+| IRF9 | **IFI35** | 0.898 |
+| IRF9 | **IFI27** | 0.903 |
+| IRF9 | **IFIT2** | 0.906 |
+| IRF9 | **MX1** | 0.982 |
+| IRF9 | **ISG15** | 0.991 |
+| MX1 | **IFITM3** | 0.897 |
+| MX1 | **IFI35** | 0.909 |
+| MX1 | **IFI27** | 0.959 |
+| MX1 | **IFIT2** | 0.968 |
+| MX1 | **ISG15** | 0.994 |
+| IFITM3 | **IFIT2** | 0.828 |
+| IFITM3 | **IFI27** | 0.829 |
+| IFITM3 | **IFI35** | 0.847 |
+| IFITM3 | **ISG15** | 0.911 |
+| IFI35 | **IFI27** | 0.781 |
+| IFI35 | **IFIT2** | 0.849 |
+| IFI35 | **ISG15** | 0.954 |
+| IFI27 | **IFIT2** | 0.774 |
+| IFI27 | **ISG15** | 0.97 |
+| IFIT2 | **ISG15** | 0.975 |
+

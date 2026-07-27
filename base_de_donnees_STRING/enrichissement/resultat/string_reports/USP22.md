@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : USP22
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : USP22
+Identifiant STRING officiel : `9606.ENSP00000261497`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KAT2A | **KAT2B** | 0.969 |
+| KAT2A | **ATXN7-2** | 0.969 |
+| KAT2A | **TAF9B** | 0.991 |
+| KAT2A | **ATXN7L3** | 0.994 |
+| KAT2A | **TAF5L** | 0.995 |
+| KAT2A | **ENY2** | 0.997 |
+| KAT2A | **ATXN7** | 0.997 |
+| KAT2A | **USP22** | 0.998 |
+| KAT2A | **TAF12** | 0.998 |
+| KAT2A | **TRRAP** | 0.999 |
+| KAT2A | **TADA2A** | 0.999 |
+| KAT2A | **SGF29** | 0.999 |
+| KAT2A | **TAF10** | 0.999 |
+| KAT2A | **SUPT3H** | 0.999 |
+| KAT2A | **TADA3** | 0.999 |
+| TAF5L | **ATXN7-2** | 0.917 |
+| TAF5L | **TADA2A** | 0.979 |
+| TAF5L | **ENY2** | 0.986 |
+| TAF5L | **USP22** | 0.989 |
+| TAF5L | **ATXN7** | 0.996 |
+| TAF5L | **ATXN7L3** | 0.996 |
+| TAF5L | **SGF29** | 0.997 |
+| TAF5L | **KAT2B** | 0.998 |
+| TAF5L | **TAF10** | 0.999 |
+| TAF5L | **TAF12** | 0.999 |
+| TAF5L | **SUPT3H** | 0.999 |
+| TAF5L | **TADA3** | 0.999 |
+| TAF5L | **TAF9B** | 0.999 |
+| TAF5L | **TRRAP** | 0.999 |
+| USP22 | **KAT2B** | 0.987 |
+| USP22 | **TAF12** | 0.991 |
+| USP22 | **TADA2A** | 0.992 |
+| USP22 | **ATXN7-2** | 0.992 |
+| USP22 | **TAF9B** | 0.993 |
+| USP22 | **SUPT3H** | 0.995 |
+| USP22 | **TAF10** | 0.997 |
+| USP22 | **TADA3** | 0.997 |
+| USP22 | **TRRAP** | 0.998 |
+| USP22 | **SGF29** | 0.998 |
+| USP22 | **ENY2** | 0.999 |
+| USP22 | **ATXN7** | 0.999 |
+| USP22 | **ATXN7L3** | 0.999 |
+| KAT2B | **ATXN7-2** | 0.967 |
+| KAT2B | **TAF9B** | 0.98 |
+| KAT2B | **ATXN7** | 0.98 |
+| KAT2B | **ATXN7L3** | 0.993 |
+| KAT2B | **ENY2** | 0.997 |
+| KAT2B | **TAF12** | 0.998 |
+| KAT2B | **SUPT3H** | 0.999 |
+| KAT2B | **TADA3** | 0.999 |
+| KAT2B | **TRRAP** | 0.999 |
+| KAT2B | **TADA2A** | 0.999 |
+| KAT2B | **SGF29** | 0.999 |
+| KAT2B | **TAF10** | 0.999 |
+| TAF12 | **ATXN7-2** | 0.968 |
+| TAF12 | **ATXN7L3** | 0.995 |
+| TAF12 | **ENY2** | 0.996 |
+| TAF12 | **TADA2A** | 0.997 |
+| TAF12 | **TAF9B** | 0.999 |
+| TAF12 | **TADA3** | 0.999 |
+| TAF12 | **SUPT3H** | 0.999 |
+| TAF12 | **ATXN7** | 0.999 |
+| TAF12 | **TAF10** | 0.999 |
+| TAF12 | **SGF29** | 0.999 |
+| TAF12 | **TRRAP** | 0.999 |
+| ATXN7 | **ATXN7-2** | 0.904 |
+| ATXN7 | **TADA2A** | 0.927 |
+| ATXN7 | **TAF9B** | 0.979 |
+| ATXN7 | **SGF29** | 0.996 |
+| ATXN7 | **TADA3** | 0.996 |
+| ATXN7 | **SUPT3H** | 0.998 |
+| ATXN7 | **TAF10** | 0.999 |
+| ATXN7 | **TRRAP** | 0.999 |
+| ATXN7 | **ENY2** | 0.999 |
+| ATXN7 | **ATXN7L3** | 0.999 |
+| TAF10 | **ATXN7-2** | 0.974 |
+| TAF10 | **ATXN7L3** | 0.993 |
+| TAF10 | **TADA2A** | 0.995 |
+| TAF10 | **ENY2** | 0.998 |
+| TAF10 | **TAF9B** | 0.998 |
+| TAF10 | **TRRAP** | 0.999 |
+| TAF10 | **SGF29** | 0.999 |
+| TAF10 | **SUPT3H** | 0.999 |
+| TAF10 | **TADA3** | 0.999 |
+| TADA3 | **ATXN7-2** | 0.977 |
+| TADA3 | **ATXN7L3** | 0.996 |
+| TADA3 | **ENY2** | 0.998 |
+| TADA3 | **TAF9B** | 0.998 |
+| TADA3 | **TADA2A** | 0.999 |
+| TADA3 | **TRRAP** | 0.999 |
+| TADA3 | **SGF29** | 0.999 |
+| TADA3 | **SUPT3H** | 0.999 |
+| SGF29 | **ATXN7-2** | 0.964 |
+| SGF29 | **ATXN7L3** | 0.992 |
+| SGF29 | **TAF9B** | 0.997 |
+| SGF29 | **SUPT3H** | 0.999 |
+| SGF29 | **TADA2A** | 0.999 |
+| SGF29 | **TRRAP** | 0.999 |
+| SGF29 | **ENY2** | 0.999 |
+| TAF9B | **ATXN7-2** | 0.895 |
+| TAF9B | **ENY2** | 0.986 |
+| TAF9B | **ATXN7L3** | 0.991 |
+| TAF9B | **TADA2A** | 0.993 |
+| TAF9B | **SUPT3H** | 0.995 |
+| TAF9B | **TRRAP** | 0.997 |
+| TRRAP | **ATXN7-2** | 0.957 |
+| TRRAP | **TADA2A** | 0.998 |
+| TRRAP | **ENY2** | 0.998 |
+| TRRAP | **ATXN7L3** | 0.998 |
+| TRRAP | **SUPT3H** | 0.999 |
+| SUPT3H | **ATXN7-2** | 0.928 |
+| SUPT3H | **ENY2** | 0.993 |
+| SUPT3H | **ATXN7L3** | 0.994 |
+| SUPT3H | **TADA2A** | 0.999 |
+| ATXN7L3 | **TADA2A** | 0.926 |
+| ATXN7L3 | **ATXN7-2** | 0.998 |
+| ATXN7L3 | **ENY2** | 0.999 |
+| ENY2 | **TADA2A** | 0.991 |
+| ENY2 | **ATXN7-2** | 0.999 |
+| ATXN7-2 | **TADA2A** | 0.873 |
+

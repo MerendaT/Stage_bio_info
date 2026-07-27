@@ -1,0 +1,456 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O95633",
+      "uniProtkbId": "FSTL3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "FSTL3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11948405"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15451575"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15574124"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16336961"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17868029"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17878677"
+                }
+              ],
+              "value": "Isoform 1 or the secreted form is a binding and antagonizing protein for members of the TGF-beta family, such as activin, BMP2 and MSTN. Inhibits activin A-, activin B-, BMP2- and MSDT-induced cellular signaling; more effective on activin A than on activin B. Involved in bone formation; inhibits osteoclast differentiation. Involved in hematopoiesis; involved in differentiation of hemopoietic progenitor cells, increases hematopoietic cell adhesion to fibronectin and seems to contribute to the adhesion of hematopoietic precursor cells to the bone marrow stroma. Isoform 2 or the nuclear form is probably involved in transcriptional regulation via interaction with MLLT10"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 1",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 2",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16150905"
+                  }
+                ],
+                "value": "Although alternative initiation has been demonstrated and resulted in different localization, the major source of nuclear FSTL3 appears not to depend on translation initiation at Met-27 according to"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16150905"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16150905"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048185",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:activin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12697670"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001968",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:fibronectin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "16336961"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002244",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hematopoietic progenitor cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15451575"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032926",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of activin receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11948405"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12697670"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030514",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of BMP signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17878677"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045671",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of osteoclast differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15574124"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090101",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17878677"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001503",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ossification"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022409",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell-cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16336961"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17868029"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030510",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of BMP signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11948405"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003838C"
+      }
+    }
+  ]
+}

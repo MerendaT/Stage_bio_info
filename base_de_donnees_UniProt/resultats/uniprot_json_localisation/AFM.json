@@ -1,0 +1,291 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P43652",
+      "uniProtkbId": "AFAM_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "AFM"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12463752"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15952736"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19046407"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26902720"
+                },
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "Functions as a carrier for hydrophobic molecules in body fluids (Probable). Essential for the solubility and activity of lipidated Wnt family members, including WNT1, WNT2B, WNT3, WNT3A, WNT5A, WNT7A, WNT7B, WNT8, WNT9A, WNT9B, WNT10A and WNT10B (PubMed:26902720). Binds vitamin E (PubMed:12463752, PubMed:15952736). May transport vitamin E in body fluids under conditions where the lipoprotein system is not sufficient (PubMed:15952736). May be involved in the transport of vitamin E across the blood-brain barrier (PubMed:19046407)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12463752"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15952736"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26902720"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "7517938"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0072562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:blood microparticle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22516433"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "7517938"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12463752"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15952736"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19046407"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26902720"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008431",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:vitamin E binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15952736"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050821",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein stabilization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26902720"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071693",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein transport within extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26902720"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031667",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to nutrient levels"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051180",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:vitamin transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12463752"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19046407"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012565D"
+      }
+    }
+  ]
+}

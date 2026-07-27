@@ -1,0 +1,203 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q02446",
+      "uniProtkbId": "SP4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SP4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Binds to GT and GC boxes promoters elements. Probable transcriptional activator"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "32296183"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043565",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:NTNU_SB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23332764"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12560508"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013C807"
+      }
+    }
+  ]
+}

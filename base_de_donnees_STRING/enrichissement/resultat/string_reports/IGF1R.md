@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : IGF1R
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IGF1R
+Identifiant STRING officiel : `9606.ENSP00000497069`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PIK3R3 | **GRB10** | 0.451 |
+| PIK3R3 | **ESR1** | 0.513 |
+| PIK3R3 | **SHC1** | 0.549 |
+| PIK3R3 | **INSR** | 0.88 |
+| PIK3R3 | **SRC** | 0.961 |
+| PIK3R3 | **IRS2** | 0.972 |
+| PIK3R3 | **ERBB2** | 0.975 |
+| PIK3R3 | **IGF1R** | 0.99 |
+| PIK3R3 | **IRS1** | 0.997 |
+| PIK3R3 | **PIK3R1** | 0.997 |
+| EGF | **IRS1** | 0.486 |
+| EGF | **IGF2** | 0.644 |
+| EGF | **PTPN1** | 0.674 |
+| EGF | **GRB10** | 0.678 |
+| EGF | **ESR1** | 0.802 |
+| EGF | **PIK3R1** | 0.911 |
+| EGF | **SRC** | 0.922 |
+| EGF | **SHC1** | 0.924 |
+| EGF | **INSR** | 0.968 |
+| EGF | **IGF1** | 0.995 |
+| EGF | **INS** | 0.995 |
+| EGF | **IGF1R** | 0.997 |
+| EGF | **ERBB2** | 0.999 |
+| ERBB2 | **PTPN1** | 0.622 |
+| ERBB2 | **GRB10** | 0.718 |
+| ERBB2 | **IGF2** | 0.819 |
+| ERBB2 | **INSR** | 0.853 |
+| ERBB2 | **IRS1** | 0.909 |
+| ERBB2 | **INS** | 0.965 |
+| ERBB2 | **ESR1** | 0.976 |
+| ERBB2 | **IGF1** | 0.992 |
+| ERBB2 | **IGF1R** | 0.993 |
+| ERBB2 | **PIK3R1** | 0.995 |
+| ERBB2 | **SHC1** | 0.999 |
+| ERBB2 | **SRC** | 0.999 |
+| INSR | **ESR1** | 0.62 |
+| INSR | **SRC** | 0.705 |
+| INSR | **GRB10** | 0.983 |
+| INSR | **PIK3R1** | 0.988 |
+| INSR | **IGF2** | 0.991 |
+| INSR | **SHC1** | 0.994 |
+| INSR | **IGF1R** | 0.997 |
+| INSR | **IRS1** | 0.999 |
+| INSR | **IRS2** | 0.999 |
+| INSR | **PTPN1** | 0.999 |
+| INSR | **INS** | 0.999 |
+| INSR | **IGF1** | 0.999 |
+| IRS1 | **ESR1** | 0.903 |
+| IRS1 | **GRB10** | 0.92 |
+| IRS1 | **IGF2** | 0.928 |
+| IRS1 | **SRC** | 0.977 |
+| IRS1 | **SHC1** | 0.991 |
+| IRS1 | **PTPN1** | 0.995 |
+| IRS1 | **IRS2** | 0.997 |
+| IRS1 | **IGF1** | 0.998 |
+| IRS1 | **PIK3R1** | 0.999 |
+| IRS1 | **INS** | 0.999 |
+| IRS1 | **IGF1R** | 0.999 |
+| PTPN1 | **IGF1** | 0.418 |
+| PTPN1 | **PIK3R1** | 0.56 |
+| PTPN1 | **SHC1** | 0.631 |
+| PTPN1 | **ESR1** | 0.652 |
+| PTPN1 | **INS** | 0.835 |
+| PTPN1 | **IRS2** | 0.959 |
+| PTPN1 | **SRC** | 0.979 |
+| PTPN1 | **IGF1R** | 0.993 |
+| SRC | **IGF2** | 0.418 |
+| SRC | **GRB10** | 0.777 |
+| SRC | **IRS2** | 0.792 |
+| SRC | **IGF1** | 0.85 |
+| SRC | **INS** | 0.886 |
+| SRC | **IGF1R** | 0.996 |
+| SRC | **PIK3R1** | 0.998 |
+| SRC | **SHC1** | 0.999 |
+| SRC | **ESR1** | 0.999 |
+| IRS2 | **ESR1** | 0.523 |
+| IRS2 | **SHC1** | 0.778 |
+| IRS2 | **IGF2** | 0.781 |
+| IRS2 | **GRB10** | 0.826 |
+| IRS2 | **IGF1** | 0.984 |
+| IRS2 | **PIK3R1** | 0.998 |
+| IRS2 | **INS** | 0.998 |
+| IRS2 | **IGF1R** | 0.998 |
+| IGF1 | **PIK3R1** | 0.524 |
+| IGF1 | **SHC1** | 0.89 |
+| IGF1 | **ESR1** | 0.964 |
+| IGF1 | **GRB10** | 0.977 |
+| IGF1 | **IGF2** | 0.998 |
+| IGF1 | **IGF1R** | 0.999 |
+| IGF1 | **INS** | 0.999 |
+| INS | **SHC1** | 0.793 |
+| INS | **PIK3R1** | 0.824 |
+| INS | **ESR1** | 0.841 |
+| INS | **GRB10** | 0.945 |
+| INS | **IGF2** | 0.981 |
+| INS | **IGF1R** | 0.999 |
+| IGF2 | **SHC1** | 0.711 |
+| IGF2 | **ESR1** | 0.734 |
+| IGF2 | **GRB10** | 0.865 |
+| IGF2 | **IGF1R** | 0.999 |
+| SHC1 | **GRB10** | 0.604 |
+| SHC1 | **PIK3R1** | 0.971 |
+| SHC1 | **ESR1** | 0.99 |
+| SHC1 | **IGF1R** | 0.999 |
+| ESR1 | **PIK3R1** | 0.994 |
+| ESR1 | **IGF1R** | 0.999 |
+| PIK3R1 | **GRB10** | 0.948 |
+| PIK3R1 | **IGF1R** | 0.994 |
+| GRB10 | **IGF1R** | 0.996 |
+

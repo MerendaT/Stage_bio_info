@@ -1,0 +1,186 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q6ZMJ2",
+      "uniProtkbId": "SCAR5_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "source": "HAMAP-Rule",
+                "id": "MF_03070"
+              }
+            ],
+            "value": "SCARA5"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000255",
+                  "source": "HAMAP-Rule",
+                  "id": "MF_03070"
+                }
+              ],
+              "value": "Ferritin receptor that mediates non-transferrin-dependent delivery of iron. Mediates cellular uptake of ferritin-bound iron by stimulating ferritin endocytosis from the cell surface with consequent iron delivery within the cell. Delivery of iron to cells by ferritin is required for the development of specific cell types, suggesting the existence of cell type-specific mechanisms of iron traffic in organogenesis, which alternatively utilize transferrin or non-transferrin iron delivery pathways. Ferritin mediates iron uptake in capsule cells of the developing kidney. Preferentially binds ferritin light chain (FTL) compared to heavy chain (FTH1)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255",
+                    "source": "HAMAP-Rule",
+                    "id": "MF_03070"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255",
+                    "source": "HAMAP-Rule",
+                    "id": "MF_03070"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070287",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ferritin receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005044",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:scavenger receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endocytosis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006879",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular iron ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034755",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:iron ion transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070207",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein homotrimerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000015FA6D"
+      }
+    }
+  ]
+}

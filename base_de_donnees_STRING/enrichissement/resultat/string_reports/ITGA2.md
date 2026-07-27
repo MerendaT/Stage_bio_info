@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ITGA2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ITGA2
+Identifiant STRING officiel : `9606.ENSP00000296585`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ITGB8 | **COL3A1** | 0.521 |
+| ITGB8 | **COL1A2** | 0.723 |
+| ITGB8 | **COL1A1** | 0.832 |
+| ITGB8 | **ITGB2** | 0.911 |
+| ITGB8 | **FN1** | 0.93 |
+| ITGB8 | **ITGB6** | 0.932 |
+| ITGB8 | **ITGB1** | 0.94 |
+| ITGB8 | **ITGB5** | 0.945 |
+| ITGB8 | **ITGB3** | 0.947 |
+| ITGB8 | **ITGA1** | 0.963 |
+| ITGB8 | **ITGA3** | 0.963 |
+| ITGB8 | **ITGA5** | 0.965 |
+| ITGB8 | **ITGA2** | 0.966 |
+| ITGB8 | **ITGAV** | 0.999 |
+| COL1A1 | **ITGA3** | 0.848 |
+| COL1A1 | **ITGB6** | 0.851 |
+| COL1A1 | **ITGB5** | 0.859 |
+| COL1A1 | **ITGAV** | 0.874 |
+| COL1A1 | **ITGA1** | 0.879 |
+| COL1A1 | **ITGB3** | 0.932 |
+| COL1A1 | **GP6** | 0.943 |
+| COL1A1 | **ITGA5** | 0.944 |
+| COL1A1 | **FN1** | 0.974 |
+| COL1A1 | **ITGA2** | 0.983 |
+| COL1A1 | **ITGB1** | 0.984 |
+| COL1A1 | **COL3A1** | 0.999 |
+| COL1A1 | **COL1A2** | 0.999 |
+| ITGAV | **COL3A1** | 0.622 |
+| ITGAV | **COL1A2** | 0.889 |
+| ITGAV | **ITGA1** | 0.937 |
+| ITGAV | **ITGA5** | 0.946 |
+| ITGAV | **ITGA2** | 0.967 |
+| ITGAV | **ITGA3** | 0.968 |
+| ITGAV | **ITGB2** | 0.99 |
+| ITGAV | **ITGB3** | 0.999 |
+| ITGAV | **ITGB6** | 0.999 |
+| ITGAV | **ITGB1** | 0.999 |
+| ITGAV | **FN1** | 0.999 |
+| ITGAV | **ITGB5** | 0.999 |
+| ITGA1 | **COL3A1** | 0.723 |
+| ITGA1 | **COL1A2** | 0.855 |
+| ITGA1 | **ITGA5** | 0.947 |
+| ITGA1 | **FN1** | 0.948 |
+| ITGA1 | **ITGA3** | 0.961 |
+| ITGA1 | **ITGA2** | 0.969 |
+| ITGA1 | **ITGB6** | 0.97 |
+| ITGA1 | **ITGB2** | 0.972 |
+| ITGA1 | **ITGB5** | 0.976 |
+| ITGA1 | **ITGB3** | 0.982 |
+| ITGA1 | **ITGB1** | 0.999 |
+| ITGB6 | **COL1A2** | 0.75 |
+| ITGB6 | **ITGB5** | 0.927 |
+| ITGB6 | **ITGB3** | 0.935 |
+| ITGB6 | **ITGB2** | 0.943 |
+| ITGB6 | **ITGA5** | 0.961 |
+| ITGB6 | **ITGA2** | 0.974 |
+| ITGB6 | **ITGA3** | 0.977 |
+| ITGB6 | **ITGB1** | 0.979 |
+| ITGB6 | **FN1** | 0.986 |
+| ITGA5 | **GP6** | 0.402 |
+| ITGA5 | **COL3A1** | 0.411 |
+| ITGA5 | **COL1A2** | 0.869 |
+| ITGA5 | **ITGA3** | 0.961 |
+| ITGA5 | **ITGA2** | 0.962 |
+| ITGA5 | **ITGB5** | 0.991 |
+| ITGA5 | **ITGB2** | 0.993 |
+| ITGA5 | **ITGB3** | 0.999 |
+| ITGA5 | **ITGB1** | 0.999 |
+| ITGA5 | **FN1** | 0.999 |
+| ITGB5 | **COL3A1** | 0.619 |
+| ITGB5 | **COL1A2** | 0.791 |
+| ITGB5 | **ITGB2** | 0.943 |
+| ITGB5 | **ITGB3** | 0.954 |
+| ITGB5 | **ITGB1** | 0.96 |
+| ITGB5 | **ITGA2** | 0.98 |
+| ITGB5 | **ITGA3** | 0.986 |
+| ITGB5 | **FN1** | 0.995 |
+| ITGA2 | **ITGA3** | 0.972 |
+| ITGA2 | **COL1A2** | 0.973 |
+| ITGA2 | **ITGB2** | 0.974 |
+| ITGA2 | **GP6** | 0.976 |
+| ITGA2 | **COL3A1** | 0.976 |
+| ITGA2 | **ITGB3** | 0.984 |
+| ITGA2 | **FN1** | 0.986 |
+| ITGA2 | **ITGB1** | 0.999 |
+| COL1A2 | **ITGA3** | 0.777 |
+| COL1A2 | **ITGB3** | 0.884 |
+| COL1A2 | **GP6** | 0.908 |
+| COL1A2 | **FN1** | 0.982 |
+| COL1A2 | **ITGB1** | 0.988 |
+| COL1A2 | **COL3A1** | 0.999 |
+| COL3A1 | **ITGB3** | 0.786 |
+| COL3A1 | **FN1** | 0.928 |
+| COL3A1 | **GP6** | 0.936 |
+| COL3A1 | **ITGB1** | 0.942 |
+| GP6 | **ITGA3** | 0.408 |
+| GP6 | **ITGB1** | 0.462 |
+| GP6 | **ITGB3** | 0.724 |
+| GP6 | **FN1** | 0.932 |
+| ITGA3 | **ITGB2** | 0.969 |
+| ITGA3 | **ITGB3** | 0.979 |
+| ITGA3 | **FN1** | 0.999 |
+| ITGA3 | **ITGB1** | 0.999 |
+| FN1 | **ITGB2** | 0.976 |
+| FN1 | **ITGB3** | 0.999 |
+| FN1 | **ITGB1** | 0.999 |
+| ITGB1 | **ITGB2** | 0.985 |
+| ITGB1 | **ITGB3** | 0.987 |
+| ITGB2 | **ITGB3** | 0.973 |
+

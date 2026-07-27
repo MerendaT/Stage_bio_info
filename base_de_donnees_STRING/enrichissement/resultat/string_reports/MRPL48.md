@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRPL48
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRPL48
+Identifiant STRING officiel : `9606.ENSP00000308717`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPL27 | **MRPL42** | 0.925 |
+| MRPL27 | **MRPL51** | 0.942 |
+| MRPL27 | **MRPL48** | 0.957 |
+| MRPL27 | **MRPS30** | 0.96 |
+| MRPL27 | **GADD45GIP1** | 0.965 |
+| MRPL27 | **MRPL50** | 0.968 |
+| MRPL27 | **MRPL39** | 0.98 |
+| MRPL27 | **MRPL30** | 0.986 |
+| MRPL27 | **MRPL38** | 0.991 |
+| MRPL27 | **MRPL41** | 0.997 |
+| MRPL27 | **MRPL40** | 0.997 |
+| MRPL27 | **MRPL46** | 0.998 |
+| MRPL27 | **MRPL47** | 0.998 |
+| MRPL27 | **MRPL13** | 0.999 |
+| MRPL27 | **MRPL4** | 0.999 |
+| MRPL51 | **MRPL46** | 0.915 |
+| MRPL51 | **MRPL38** | 0.935 |
+| MRPL51 | **MRPL13** | 0.938 |
+| MRPL51 | **MRPL30** | 0.939 |
+| MRPL51 | **MRPL42** | 0.96 |
+| MRPL51 | **MRPL40** | 0.966 |
+| MRPL51 | **MRPL39** | 0.967 |
+| MRPL51 | **MRPL48** | 0.973 |
+| MRPL51 | **MRPL50** | 0.979 |
+| MRPL51 | **MRPS30** | 0.979 |
+| MRPL51 | **MRPL41** | 0.981 |
+| MRPL51 | **GADD45GIP1** | 0.984 |
+| MRPL51 | **MRPL4** | 0.985 |
+| MRPL51 | **MRPL47** | 0.986 |
+| MRPL39 | **GADD45GIP1** | 0.961 |
+| MRPL39 | **MRPL48** | 0.971 |
+| MRPL39 | **MRPL41** | 0.975 |
+| MRPL39 | **MRPL42** | 0.975 |
+| MRPL39 | **MRPL30** | 0.977 |
+| MRPL39 | **MRPL47** | 0.979 |
+| MRPL39 | **MRPL38** | 0.98 |
+| MRPL39 | **MRPS30** | 0.98 |
+| MRPL39 | **MRPL40** | 0.982 |
+| MRPL39 | **MRPL4** | 0.984 |
+| MRPL39 | **MRPL46** | 0.985 |
+| MRPL39 | **MRPL13** | 0.985 |
+| MRPL39 | **MRPL50** | 0.987 |
+| MRPL13 | **MRPL48** | 0.969 |
+| MRPL13 | **GADD45GIP1** | 0.97 |
+| MRPL13 | **MRPS30** | 0.973 |
+| MRPL13 | **MRPL50** | 0.974 |
+| MRPL13 | **MRPL42** | 0.984 |
+| MRPL13 | **MRPL38** | 0.987 |
+| MRPL13 | **MRPL30** | 0.992 |
+| MRPL13 | **MRPL46** | 0.997 |
+| MRPL13 | **MRPL40** | 0.997 |
+| MRPL13 | **MRPL47** | 0.999 |
+| MRPL13 | **MRPL41** | 0.999 |
+| MRPL13 | **MRPL4** | 0.999 |
+| MRPL4 | **MRPL42** | 0.956 |
+| MRPL4 | **MRPS30** | 0.97 |
+| MRPL4 | **MRPL48** | 0.982 |
+| MRPL4 | **MRPL50** | 0.989 |
+| MRPL4 | **GADD45GIP1** | 0.989 |
+| MRPL4 | **MRPL30** | 0.994 |
+| MRPL4 | **MRPL38** | 0.995 |
+| MRPL4 | **MRPL41** | 0.998 |
+| MRPL4 | **MRPL40** | 0.998 |
+| MRPL4 | **MRPL46** | 0.998 |
+| MRPL4 | **MRPL47** | 0.999 |
+| MRPL38 | **MRPL42** | 0.893 |
+| MRPL38 | **MRPL48** | 0.953 |
+| MRPL38 | **MRPS30** | 0.961 |
+| MRPL38 | **MRPL30** | 0.969 |
+| MRPL38 | **GADD45GIP1** | 0.969 |
+| MRPL38 | **MRPL50** | 0.97 |
+| MRPL38 | **MRPL46** | 0.983 |
+| MRPL38 | **MRPL41** | 0.989 |
+| MRPL38 | **MRPL47** | 0.992 |
+| MRPL38 | **MRPL40** | 0.995 |
+| MRPL48 | **MRPL30** | 0.954 |
+| MRPL48 | **MRPL42** | 0.955 |
+| MRPL48 | **MRPL41** | 0.957 |
+| MRPL48 | **MRPL50** | 0.966 |
+| MRPL48 | **GADD45GIP1** | 0.967 |
+| MRPL48 | **MRPL40** | 0.968 |
+| MRPL48 | **MRPL47** | 0.971 |
+| MRPL48 | **MRPS30** | 0.977 |
+| MRPL48 | **MRPL46** | 0.99 |
+| MRPL46 | **MRPL42** | 0.942 |
+| MRPL46 | **GADD45GIP1** | 0.965 |
+| MRPL46 | **MRPL50** | 0.978 |
+| MRPL46 | **MRPS30** | 0.978 |
+| MRPL46 | **MRPL30** | 0.984 |
+| MRPL46 | **MRPL41** | 0.997 |
+| MRPL46 | **MRPL47** | 0.998 |
+| MRPL46 | **MRPL40** | 0.999 |
+| GADD45GIP1 | **MRPL42** | 0.971 |
+| GADD45GIP1 | **MRPL50** | 0.977 |
+| GADD45GIP1 | **MRPL47** | 0.98 |
+| GADD45GIP1 | **MRPL30** | 0.981 |
+| GADD45GIP1 | **MRPS30** | 0.983 |
+| GADD45GIP1 | **MRPL40** | 0.986 |
+| GADD45GIP1 | **MRPL41** | 0.986 |
+| MRPL40 | **MRPL42** | 0.971 |
+| MRPL40 | **MRPL50** | 0.978 |
+| MRPL40 | **MRPS30** | 0.98 |
+| MRPL40 | **MRPL30** | 0.992 |
+| MRPL40 | **MRPL47** | 0.998 |
+| MRPL40 | **MRPL41** | 0.998 |
+| MRPL30 | **MRPL42** | 0.977 |
+| MRPL30 | **MRPL50** | 0.978 |
+| MRPL30 | **MRPS30** | 0.979 |
+| MRPL30 | **MRPL41** | 0.994 |
+| MRPL30 | **MRPL47** | 0.995 |
+| MRPL41 | **MRPL50** | 0.966 |
+| MRPL41 | **MRPL42** | 0.985 |
+| MRPL41 | **MRPS30** | 0.993 |
+| MRPL41 | **MRPL47** | 0.999 |
+| MRPL50 | **MRPS30** | 0.972 |
+| MRPL50 | **MRPL42** | 0.972 |
+| MRPL50 | **MRPL47** | 0.989 |
+| MRPL47 | **MRPS30** | 0.967 |
+| MRPL47 | **MRPL42** | 0.981 |
+| MRPS30 | **MRPL42** | 0.97 |
+

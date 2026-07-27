@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : APMAP
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : APMAP
+Identifiant STRING officiel : `9606.ENSP00000217456`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| APMAP | **POLR3B** | 0.7 |
+| APMAP | **POLR2B** | 0.704 |
+| APMAP | **CUL7** | 0.715 |
+| APMAP | **MRPL17** | 0.731 |
+| APMAP | **POLR1C** | 0.731 |
+| APMAP | **PDCD11** | 0.734 |
+| APMAP | **POLR2C** | 0.741 |
+| APMAP | **RPS9** | 0.756 |
+| APMAP | **IMP3** | 0.761 |
+| APMAP | **MRPL20** | 0.761 |
+| APMAP | **EIF5B** | 0.781 |
+| APMAP | **MTIF2** | 0.784 |
+| APMAP | **FDXACB1** | 0.793 |
+| APMAP | **RPL23A** | 0.818 |
+| APMAP | **EXOSC10** | 0.868 |
+| POLR2C | **FDXACB1** | 0.533 |
+| POLR2C | **EXOSC10** | 0.601 |
+| POLR2C | **EIF5B** | 0.687 |
+| POLR2C | **MTIF2** | 0.694 |
+| POLR2C | **POLR1C** | 0.723 |
+| POLR2C | **CUL7** | 0.867 |
+| POLR2C | **MRPL20** | 0.935 |
+| POLR2C | **PDCD11** | 0.936 |
+| POLR2C | **IMP3** | 0.937 |
+| POLR2C | **MRPL17** | 0.939 |
+| POLR2C | **RPS9** | 0.94 |
+| POLR2C | **POLR3B** | 0.94 |
+| POLR2C | **RPL23A** | 0.946 |
+| POLR2C | **POLR2B** | 0.999 |
+| POLR3B | **FDXACB1** | 0.424 |
+| POLR3B | **MRPL20** | 0.748 |
+| POLR3B | **CUL7** | 0.772 |
+| POLR3B | **EIF5B** | 0.776 |
+| POLR3B | **MTIF2** | 0.792 |
+| POLR3B | **RPS9** | 0.863 |
+| POLR3B | **IMP3** | 0.865 |
+| POLR3B | **RPL23A** | 0.916 |
+| POLR3B | **MRPL17** | 0.92 |
+| POLR3B | **PDCD11** | 0.937 |
+| POLR3B | **POLR1C** | 0.999 |
+| FDXACB1 | **CUL7** | 0.413 |
+| FDXACB1 | **RPL23A** | 0.417 |
+| FDXACB1 | **POLR2B** | 0.419 |
+| FDXACB1 | **MRPL20** | 0.427 |
+| FDXACB1 | **POLR1C** | 0.542 |
+| FDXACB1 | **RPS9** | 0.544 |
+| FDXACB1 | **PDCD11** | 0.545 |
+| FDXACB1 | **IMP3** | 0.547 |
+| MTIF2 | **EIF5B** | 0.494 |
+| MTIF2 | **POLR1C** | 0.684 |
+| MTIF2 | **PDCD11** | 0.757 |
+| MTIF2 | **POLR2B** | 0.812 |
+| MTIF2 | **CUL7** | 0.86 |
+| MTIF2 | **IMP3** | 0.935 |
+| MTIF2 | **RPS9** | 0.936 |
+| MTIF2 | **RPL23A** | 0.952 |
+| MTIF2 | **MRPL20** | 0.974 |
+| MTIF2 | **MRPL17** | 0.984 |
+| MRPL17 | **EIF5B** | 0.794 |
+| MRPL17 | **POLR2B** | 0.903 |
+| MRPL17 | **POLR1C** | 0.941 |
+| MRPL17 | **CUL7** | 0.978 |
+| MRPL17 | **IMP3** | 0.984 |
+| MRPL17 | **RPS9** | 0.994 |
+| MRPL17 | **PDCD11** | 0.994 |
+| MRPL17 | **RPL23A** | 0.999 |
+| MRPL17 | **MRPL20** | 0.999 |
+| EIF5B | **POLR1C** | 0.685 |
+| EIF5B | **PDCD11** | 0.746 |
+| EIF5B | **MRPL20** | 0.749 |
+| EIF5B | **POLR2B** | 0.779 |
+| EIF5B | **CUL7** | 0.898 |
+| EIF5B | **IMP3** | 0.936 |
+| EIF5B | **RPL23A** | 0.985 |
+| EIF5B | **RPS9** | 0.993 |
+| IMP3 | **POLR2B** | 0.866 |
+| IMP3 | **CUL7** | 0.888 |
+| IMP3 | **POLR1C** | 0.926 |
+| IMP3 | **EXOSC10** | 0.953 |
+| IMP3 | **MRPL20** | 0.983 |
+| IMP3 | **RPL23A** | 0.984 |
+| IMP3 | **RPS9** | 0.984 |
+| IMP3 | **PDCD11** | 0.996 |
+| MRPL20 | **POLR2B** | 0.758 |
+| MRPL20 | **POLR1C** | 0.932 |
+| MRPL20 | **PDCD11** | 0.969 |
+| MRPL20 | **CUL7** | 0.976 |
+| MRPL20 | **RPS9** | 0.982 |
+| MRPL20 | **RPL23A** | 0.999 |
+| PDCD11 | **POLR2B** | 0.919 |
+| PDCD11 | **EXOSC10** | 0.939 |
+| PDCD11 | **POLR1C** | 0.94 |
+| PDCD11 | **CUL7** | 0.962 |
+| PDCD11 | **RPS9** | 0.997 |
+| PDCD11 | **RPL23A** | 0.998 |
+| EXOSC10 | **POLR1C** | 0.465 |
+| EXOSC10 | **POLR2B** | 0.535 |
+| EXOSC10 | **RPL23A** | 0.8 |
+| EXOSC10 | **RPS9** | 0.941 |
+| POLR2B | **CUL7** | 0.812 |
+| POLR2B | **RPS9** | 0.867 |
+| POLR2B | **RPL23A** | 0.916 |
+| POLR2B | **POLR1C** | 0.973 |
+| RPS9 | **POLR1C** | 0.92 |
+| RPS9 | **CUL7** | 0.966 |
+| RPS9 | **RPL23A** | 0.999 |
+| RPL23A | **POLR1C** | 0.947 |
+| RPL23A | **CUL7** | 0.983 |
+| CUL7 | **POLR1C** | 0.868 |
+

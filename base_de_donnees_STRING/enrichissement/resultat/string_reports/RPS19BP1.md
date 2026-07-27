@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RPS19BP1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RPS19BP1
+Identifiant STRING officiel : `9606.ENSP00000333948`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SIRT1 | **RPS19BP1** | 0.969 |
+| FBL | **RPS19BP1** | 0.846 |
+| FBL | **RPS3A** | 0.986 |
+| FBL | **RPS19** | 0.986 |
+| FBL | **IMP3** | 0.988 |
+| FBL | **RPS23** | 0.99 |
+| FBL | **BMS1** | 0.991 |
+| FBL | **UTP6** | 0.991 |
+| FBL | **RRP7A** | 0.993 |
+| FBL | **IMP4** | 0.993 |
+| FBL | **EMG1** | 0.995 |
+| FBL | **WDR46** | 0.996 |
+| FBL | **UTP3** | 0.997 |
+| FBL | **MPHOSPH10** | 0.998 |
+| FBL | **SNU13** | 0.999 |
+| MPHOSPH10 | **RPS19BP1** | 0.845 |
+| MPHOSPH10 | **RPS19** | 0.976 |
+| MPHOSPH10 | **RPS3A** | 0.985 |
+| MPHOSPH10 | **RPS23** | 0.992 |
+| MPHOSPH10 | **EMG1** | 0.995 |
+| MPHOSPH10 | **RRP7A** | 0.996 |
+| MPHOSPH10 | **SNU13** | 0.998 |
+| MPHOSPH10 | **WDR46** | 0.999 |
+| MPHOSPH10 | **IMP3** | 0.999 |
+| MPHOSPH10 | **UTP6** | 0.999 |
+| MPHOSPH10 | **IMP4** | 0.999 |
+| MPHOSPH10 | **BMS1** | 0.999 |
+| MPHOSPH10 | **UTP3** | 0.999 |
+| UTP3 | **RPS19BP1** | 0.825 |
+| UTP3 | **RPS19** | 0.979 |
+| UTP3 | **RPS3A** | 0.986 |
+| UTP3 | **RPS23** | 0.993 |
+| UTP3 | **SNU13** | 0.994 |
+| UTP3 | **EMG1** | 0.997 |
+| UTP3 | **RRP7A** | 0.997 |
+| UTP3 | **IMP3** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **UTP6** | 0.999 |
+| UTP3 | **IMP4** | 0.999 |
+| UTP3 | **BMS1** | 0.999 |
+| IMP4 | **RPS19BP1** | 0.831 |
+| IMP4 | **RPS19** | 0.975 |
+| IMP4 | **RPS3A** | 0.981 |
+| IMP4 | **RPS23** | 0.992 |
+| IMP4 | **SNU13** | 0.994 |
+| IMP4 | **EMG1** | 0.997 |
+| IMP4 | **RRP7A** | 0.997 |
+| IMP4 | **WDR46** | 0.998 |
+| IMP4 | **BMS1** | 0.999 |
+| IMP4 | **IMP3** | 0.999 |
+| IMP4 | **UTP6** | 0.999 |
+| UTP6 | **RPS19BP1** | 0.824 |
+| UTP6 | **RPS19** | 0.978 |
+| UTP6 | **RPS3A** | 0.992 |
+| UTP6 | **RPS23** | 0.992 |
+| UTP6 | **SNU13** | 0.994 |
+| UTP6 | **IMP3** | 0.998 |
+| UTP6 | **EMG1** | 0.998 |
+| UTP6 | **RRP7A** | 0.998 |
+| UTP6 | **WDR46** | 0.999 |
+| UTP6 | **BMS1** | 0.999 |
+| RPS23 | **RPS19BP1** | 0.878 |
+| RPS23 | **RRP7A** | 0.985 |
+| RPS23 | **WDR46** | 0.992 |
+| RPS23 | **EMG1** | 0.994 |
+| RPS23 | **BMS1** | 0.994 |
+| RPS23 | **IMP3** | 0.998 |
+| RPS23 | **SNU13** | 0.998 |
+| RPS23 | **RPS19** | 0.999 |
+| RPS23 | **RPS3A** | 0.999 |
+| RRP7A | **RPS19BP1** | 0.836 |
+| RRP7A | **RPS19** | 0.979 |
+| RRP7A | **RPS3A** | 0.985 |
+| RRP7A | **SNU13** | 0.994 |
+| RRP7A | **EMG1** | 0.995 |
+| RRP7A | **IMP3** | 0.997 |
+| RRP7A | **BMS1** | 0.998 |
+| RRP7A | **WDR46** | 0.999 |
+| IMP3 | **RPS19BP1** | 0.842 |
+| IMP3 | **SNU13** | 0.994 |
+| IMP3 | **RPS19** | 0.996 |
+| IMP3 | **BMS1** | 0.997 |
+| IMP3 | **RPS3A** | 0.997 |
+| IMP3 | **EMG1** | 0.997 |
+| IMP3 | **WDR46** | 0.998 |
+| RPS19BP1 | **SNU13** | 0.825 |
+| RPS19BP1 | **BMS1** | 0.829 |
+| RPS19BP1 | **EMG1** | 0.856 |
+| RPS19BP1 | **WDR46** | 0.86 |
+| RPS19BP1 | **RPS3A** | 0.909 |
+| RPS19BP1 | **RPS19** | 0.943 |
+| RPS3A | **WDR46** | 0.989 |
+| RPS3A | **EMG1** | 0.989 |
+| RPS3A | **BMS1** | 0.994 |
+| RPS3A | **SNU13** | 0.995 |
+| RPS3A | **RPS19** | 0.999 |
+| BMS1 | **RPS19** | 0.983 |
+| BMS1 | **SNU13** | 0.995 |
+| BMS1 | **EMG1** | 0.997 |
+| BMS1 | **WDR46** | 0.999 |
+| WDR46 | **RPS19** | 0.976 |
+| WDR46 | **SNU13** | 0.993 |
+| WDR46 | **EMG1** | 0.998 |
+| SNU13 | **RPS19** | 0.992 |
+| SNU13 | **EMG1** | 0.996 |
+| EMG1 | **RPS19** | 0.993 |
+

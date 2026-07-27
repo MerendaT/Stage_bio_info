@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TICAM1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TICAM1
+Identifiant STRING officiel : `9606.ENSP00000248244`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RIPK3 | **TRAF6** | 0.428 |
+| RIPK3 | **SARM1** | 0.577 |
+| RIPK3 | **TLR9** | 0.581 |
+| RIPK3 | **TICAM2** | 0.591 |
+| RIPK3 | **TLR2** | 0.617 |
+| RIPK3 | **IRF3** | 0.655 |
+| RIPK3 | **TLR4** | 0.832 |
+| RIPK3 | **TLR3** | 0.964 |
+| RIPK3 | **TICAM1** | 0.983 |
+| RIPK3 | **RIPK1** | 0.999 |
+| RIPK3 | **CASP8** | 0.999 |
+| RIPK3 | **FADD** | 0.999 |
+| TICAM1 | **FADD** | 0.961 |
+| TICAM1 | **SARM1** | 0.967 |
+| TICAM1 | **TLR9** | 0.969 |
+| TICAM1 | **TLR2** | 0.975 |
+| TICAM1 | **CASP8** | 0.977 |
+| TICAM1 | **IRF7** | 0.981 |
+| TICAM1 | **TBK1** | 0.982 |
+| TICAM1 | **TICAM2** | 0.986 |
+| TICAM1 | **IRF3** | 0.993 |
+| TICAM1 | **RIPK1** | 0.994 |
+| TICAM1 | **TRAF3** | 0.994 |
+| TICAM1 | **TRAF6** | 0.998 |
+| TICAM1 | **TLR4** | 0.999 |
+| TICAM1 | **TLR3** | 0.999 |
+| RIPK1 | **TLR9** | 0.634 |
+| RIPK1 | **TLR2** | 0.639 |
+| RIPK1 | **SARM1** | 0.721 |
+| RIPK1 | **IRF3** | 0.78 |
+| RIPK1 | **IRF7** | 0.813 |
+| RIPK1 | **TRAF3** | 0.815 |
+| RIPK1 | **TICAM2** | 0.94 |
+| RIPK1 | **TLR4** | 0.962 |
+| RIPK1 | **TBK1** | 0.979 |
+| RIPK1 | **TLR3** | 0.998 |
+| RIPK1 | **TRAF6** | 0.998 |
+| RIPK1 | **FADD** | 0.999 |
+| RIPK1 | **CASP8** | 0.999 |
+| TLR2 | **FADD** | 0.461 |
+| TLR2 | **SARM1** | 0.482 |
+| TLR2 | **CASP8** | 0.529 |
+| TLR2 | **TRAF3** | 0.587 |
+| TLR2 | **TBK1** | 0.634 |
+| TLR2 | **IRF7** | 0.784 |
+| TLR2 | **TLR3** | 0.854 |
+| TLR2 | **IRF3** | 0.876 |
+| TLR2 | **TRAF6** | 0.909 |
+| TLR2 | **TLR9** | 0.961 |
+| TLR2 | **TICAM2** | 0.989 |
+| TLR2 | **TLR4** | 0.999 |
+| TLR3 | **FADD** | 0.845 |
+| TLR3 | **TLR9** | 0.856 |
+| TLR3 | **TICAM2** | 0.886 |
+| TLR3 | **TLR4** | 0.907 |
+| TLR3 | **CASP8** | 0.923 |
+| TLR3 | **SARM1** | 0.94 |
+| TLR3 | **IRF7** | 0.95 |
+| TLR3 | **IRF3** | 0.978 |
+| TLR3 | **TRAF3** | 0.992 |
+| TLR3 | **TBK1** | 0.993 |
+| TLR3 | **TRAF6** | 0.999 |
+| FADD | **IRF7** | 0.588 |
+| FADD | **TRAF3** | 0.612 |
+| FADD | **TICAM2** | 0.645 |
+| FADD | **IRF3** | 0.664 |
+| FADD | **TBK1** | 0.664 |
+| FADD | **TLR4** | 0.861 |
+| FADD | **TRAF6** | 0.922 |
+| FADD | **CASP8** | 0.999 |
+| TBK1 | **CASP8** | 0.683 |
+| TBK1 | **TICAM2** | 0.842 |
+| TBK1 | **TLR9** | 0.857 |
+| TBK1 | **TLR4** | 0.957 |
+| TBK1 | **IRF7** | 0.992 |
+| TBK1 | **IRF3** | 0.999 |
+| TBK1 | **TRAF3** | 0.999 |
+| TBK1 | **TRAF6** | 0.999 |
+| CASP8 | **IRF7** | 0.404 |
+| CASP8 | **TLR9** | 0.412 |
+| CASP8 | **IRF3** | 0.549 |
+| CASP8 | **TRAF3** | 0.59 |
+| CASP8 | **TICAM2** | 0.596 |
+| CASP8 | **TLR4** | 0.885 |
+| CASP8 | **TRAF6** | 0.978 |
+| TLR9 | **SARM1** | 0.655 |
+| TLR9 | **TRAF3** | 0.796 |
+| TLR9 | **IRF3** | 0.895 |
+| TLR9 | **TICAM2** | 0.943 |
+| TLR9 | **IRF7** | 0.969 |
+| TLR9 | **TLR4** | 0.979 |
+| TLR9 | **TRAF6** | 0.982 |
+| TLR4 | **IRF7** | 0.898 |
+| TLR4 | **IRF3** | 0.947 |
+| TLR4 | **SARM1** | 0.974 |
+| TLR4 | **TRAF3** | 0.99 |
+| TLR4 | **TICAM2** | 0.999 |
+| TLR4 | **TRAF6** | 0.999 |
+| TRAF3 | **SARM1** | 0.626 |
+| TRAF3 | **TICAM2** | 0.834 |
+| TRAF3 | **IRF3** | 0.97 |
+| TRAF3 | **IRF7** | 0.993 |
+| TRAF3 | **TRAF6** | 0.998 |
+| IRF7 | **SARM1** | 0.66 |
+| IRF7 | **TICAM2** | 0.72 |
+| IRF7 | **IRF3** | 0.999 |
+| IRF7 | **TRAF6** | 0.999 |
+| TICAM2 | **SARM1** | 0.882 |
+| TICAM2 | **IRF3** | 0.897 |
+| TICAM2 | **TRAF6** | 0.984 |
+| TRAF6 | **IRF3** | 0.908 |
+| TRAF6 | **SARM1** | 0.921 |
+| SARM1 | **IRF3** | 0.82 |
+

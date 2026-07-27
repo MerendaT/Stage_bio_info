@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SINHCAF
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SINHCAF
+Identifiant STRING officiel : `9606.ENSP00000337477`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BRMS1L | **BRMS1** | 0.667 |
+| BRMS1L | **MORF4L1** | 0.804 |
+| BRMS1L | **SUDS3** | 0.906 |
+| BRMS1L | **SAP30L** | 0.925 |
+| BRMS1L | **HDAC2** | 0.926 |
+| BRMS1L | **SIN3B** | 0.947 |
+| BRMS1L | **ARID4B** | 0.951 |
+| BRMS1L | **SINHCAF** | 0.954 |
+| BRMS1L | **RBBP4** | 0.957 |
+| BRMS1L | **ING1** | 0.975 |
+| BRMS1L | **ING2** | 0.984 |
+| BRMS1L | **SIN3A** | 0.986 |
+| BRMS1L | **HDAC1** | 0.992 |
+| BRMS1L | **SAP30** | 0.995 |
+| BRMS1L | **ARID4A** | 0.997 |
+| ARID4B | **MORF4L1** | 0.795 |
+| ARID4B | **SAP30L** | 0.869 |
+| ARID4B | **ARID4A** | 0.925 |
+| ARID4B | **BRMS1** | 0.929 |
+| ARID4B | **SINHCAF** | 0.945 |
+| ARID4B | **ING2** | 0.951 |
+| ARID4B | **ING1** | 0.975 |
+| ARID4B | **RBBP4** | 0.987 |
+| ARID4B | **HDAC2** | 0.988 |
+| ARID4B | **HDAC1** | 0.99 |
+| ARID4B | **SIN3B** | 0.993 |
+| ARID4B | **SUDS3** | 0.997 |
+| ARID4B | **SAP30** | 0.997 |
+| ARID4B | **SIN3A** | 0.997 |
+| SAP30 | **MORF4L1** | 0.836 |
+| SAP30 | **SINHCAF** | 0.974 |
+| SAP30 | **SAP30L** | 0.976 |
+| SAP30 | **ING1** | 0.986 |
+| SAP30 | **BRMS1** | 0.987 |
+| SAP30 | **ARID4A** | 0.992 |
+| SAP30 | **ING2** | 0.992 |
+| SAP30 | **HDAC2** | 0.999 |
+| SAP30 | **SUDS3** | 0.999 |
+| SAP30 | **SIN3B** | 0.999 |
+| SAP30 | **HDAC1** | 0.999 |
+| SAP30 | **RBBP4** | 0.999 |
+| SAP30 | **SIN3A** | 0.999 |
+| SAP30L | **MORF4L1** | 0.641 |
+| SAP30L | **SIN3B** | 0.805 |
+| SAP30L | **RBBP4** | 0.878 |
+| SAP30L | **ARID4A** | 0.909 |
+| SAP30L | **ING1** | 0.91 |
+| SAP30L | **BRMS1** | 0.928 |
+| SAP30L | **SUDS3** | 0.943 |
+| SAP30L | **HDAC2** | 0.945 |
+| SAP30L | **SINHCAF** | 0.958 |
+| SAP30L | **ING2** | 0.967 |
+| SAP30L | **HDAC1** | 0.978 |
+| SAP30L | **SIN3A** | 0.994 |
+| ING2 | **ING1** | 0.725 |
+| ING2 | **RBBP4** | 0.943 |
+| ING2 | **SIN3B** | 0.952 |
+| ING2 | **SUDS3** | 0.972 |
+| ING2 | **MORF4L1** | 0.972 |
+| ING2 | **BRMS1** | 0.978 |
+| ING2 | **ARID4A** | 0.986 |
+| ING2 | **HDAC2** | 0.988 |
+| ING2 | **SINHCAF** | 0.988 |
+| ING2 | **HDAC1** | 0.99 |
+| ING2 | **SIN3A** | 0.999 |
+| MORF4L1 | **ARID4A** | 0.671 |
+| MORF4L1 | **BRMS1** | 0.793 |
+| MORF4L1 | **ING1** | 0.84 |
+| MORF4L1 | **SINHCAF** | 0.949 |
+| MORF4L1 | **SUDS3** | 0.95 |
+| MORF4L1 | **RBBP4** | 0.978 |
+| MORF4L1 | **SIN3B** | 0.989 |
+| MORF4L1 | **HDAC1** | 0.995 |
+| MORF4L1 | **SIN3A** | 0.995 |
+| MORF4L1 | **HDAC2** | 0.998 |
+| SINHCAF | **RBBP4** | 0.935 |
+| SINHCAF | **SIN3B** | 0.938 |
+| SINHCAF | **ARID4A** | 0.944 |
+| SINHCAF | **ING1** | 0.952 |
+| SINHCAF | **BRMS1** | 0.958 |
+| SINHCAF | **SUDS3** | 0.963 |
+| SINHCAF | **HDAC1** | 0.967 |
+| SINHCAF | **HDAC2** | 0.976 |
+| SINHCAF | **SIN3A** | 0.99 |
+| ARID4A | **RBBP4** | 0.916 |
+| ARID4A | **HDAC2** | 0.944 |
+| ARID4A | **ING1** | 0.981 |
+| ARID4A | **HDAC1** | 0.986 |
+| ARID4A | **SUDS3** | 0.987 |
+| ARID4A | **SIN3B** | 0.99 |
+| ARID4A | **SIN3A** | 0.995 |
+| ARID4A | **BRMS1** | 0.999 |
+| RBBP4 | **BRMS1** | 0.92 |
+| RBBP4 | **ING1** | 0.987 |
+| RBBP4 | **SIN3B** | 0.997 |
+| RBBP4 | **SIN3A** | 0.999 |
+| RBBP4 | **HDAC1** | 0.999 |
+| RBBP4 | **SUDS3** | 0.999 |
+| RBBP4 | **HDAC2** | 0.999 |
+| HDAC1 | **BRMS1** | 0.992 |
+| HDAC1 | **ING1** | 0.997 |
+| HDAC1 | **SIN3A** | 0.999 |
+| HDAC1 | **SIN3B** | 0.999 |
+| HDAC1 | **SUDS3** | 0.999 |
+| HDAC1 | **HDAC2** | 0.999 |
+| ING1 | **SIN3B** | 0.926 |
+| ING1 | **BRMS1** | 0.976 |
+| ING1 | **HDAC2** | 0.985 |
+| ING1 | **SUDS3** | 0.99 |
+| ING1 | **SIN3A** | 0.995 |
+| SIN3B | **BRMS1** | 0.952 |
+| SIN3B | **SIN3A** | 0.993 |
+| SIN3B | **SUDS3** | 0.999 |
+| SIN3B | **HDAC2** | 0.999 |
+| SIN3A | **BRMS1** | 0.983 |
+| SIN3A | **HDAC2** | 0.999 |
+| SIN3A | **SUDS3** | 0.999 |
+| BRMS1 | **SUDS3** | 0.889 |
+| BRMS1 | **HDAC2** | 0.929 |
+| HDAC2 | **SUDS3** | 0.999 |
+

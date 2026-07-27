@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : GINS4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : GINS4
+Identifiant STRING officiel : `9606.ENSP00000276533`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MCM5 | **RPA3** | 0.653 |
+| MCM5 | **RPA1** | 0.902 |
+| MCM5 | **RPA2** | 0.925 |
+| MCM5 | **TIPIN** | 0.989 |
+| MCM5 | **MCM4** | 0.999 |
+| MCM5 | **GINS4** | 0.999 |
+| MCM5 | **MCM7** | 0.999 |
+| MCM5 | **GINS1** | 0.999 |
+| MCM5 | **MCM6** | 0.999 |
+| MCM5 | **MCM2** | 0.999 |
+| MCM5 | **MCM3** | 0.999 |
+| MCM5 | **GINS2** | 0.999 |
+| MCM5 | **WDHD1** | 0.999 |
+| MCM5 | **CDC45** | 0.999 |
+| MCM5 | **GINS3** | 0.999 |
+| RPA3 | **GINS2** | 0.41 |
+| RPA3 | **MCM4** | 0.667 |
+| RPA3 | **MCM7** | 0.67 |
+| RPA3 | **MCM6** | 0.706 |
+| RPA3 | **CDC45** | 0.778 |
+| RPA3 | **MCM3** | 0.831 |
+| RPA3 | **MCM2** | 0.84 |
+| RPA3 | **GINS4** | 0.995 |
+| RPA3 | **TIPIN** | 0.997 |
+| RPA3 | **RPA1** | 0.999 |
+| RPA3 | **RPA2** | 0.999 |
+| GINS2 | **TIPIN** | 0.976 |
+| GINS2 | **WDHD1** | 0.997 |
+| GINS2 | **MCM2** | 0.998 |
+| GINS2 | **MCM6** | 0.998 |
+| GINS2 | **MCM4** | 0.999 |
+| GINS2 | **GINS4** | 0.999 |
+| GINS2 | **CDC45** | 0.999 |
+| GINS2 | **GINS3** | 0.999 |
+| GINS2 | **MCM3** | 0.999 |
+| GINS2 | **GINS1** | 0.999 |
+| GINS2 | **MCM7** | 0.999 |
+| RPA1 | **WDHD1** | 0.587 |
+| RPA1 | **CDC45** | 0.842 |
+| RPA1 | **MCM7** | 0.905 |
+| RPA1 | **MCM4** | 0.912 |
+| RPA1 | **MCM3** | 0.938 |
+| RPA1 | **MCM6** | 0.946 |
+| RPA1 | **MCM2** | 0.958 |
+| RPA1 | **GINS4** | 0.996 |
+| RPA1 | **TIPIN** | 0.997 |
+| RPA1 | **RPA2** | 0.999 |
+| TIPIN | **MCM6** | 0.993 |
+| TIPIN | **MCM3** | 0.993 |
+| TIPIN | **GINS3** | 0.993 |
+| TIPIN | **GINS1** | 0.996 |
+| TIPIN | **RPA2** | 0.996 |
+| TIPIN | **CDC45** | 0.996 |
+| TIPIN | **MCM4** | 0.997 |
+| TIPIN | **MCM2** | 0.998 |
+| TIPIN | **GINS4** | 0.999 |
+| TIPIN | **MCM7** | 0.999 |
+| TIPIN | **WDHD1** | 0.999 |
+| MCM4 | **RPA2** | 0.913 |
+| MCM4 | **GINS4** | 0.999 |
+| MCM4 | **MCM2** | 0.999 |
+| MCM4 | **MCM6** | 0.999 |
+| MCM4 | **CDC45** | 0.999 |
+| MCM4 | **GINS3** | 0.999 |
+| MCM4 | **WDHD1** | 0.999 |
+| MCM4 | **MCM3** | 0.999 |
+| MCM4 | **GINS1** | 0.999 |
+| MCM4 | **MCM7** | 0.999 |
+| GINS1 | **WDHD1** | 0.996 |
+| GINS1 | **MCM6** | 0.998 |
+| GINS1 | **GINS3** | 0.999 |
+| GINS1 | **CDC45** | 0.999 |
+| GINS1 | **MCM3** | 0.999 |
+| GINS1 | **MCM2** | 0.999 |
+| GINS1 | **MCM7** | 0.999 |
+| GINS1 | **GINS4** | 0.999 |
+| MCM6 | **RPA2** | 0.777 |
+| MCM6 | **WDHD1** | 0.998 |
+| MCM6 | **GINS4** | 0.999 |
+| MCM6 | **MCM7** | 0.999 |
+| MCM6 | **MCM3** | 0.999 |
+| MCM6 | **GINS3** | 0.999 |
+| MCM6 | **CDC45** | 0.999 |
+| MCM6 | **MCM2** | 0.999 |
+| MCM2 | **RPA2** | 0.902 |
+| MCM2 | **WDHD1** | 0.998 |
+| MCM2 | **GINS3** | 0.999 |
+| MCM2 | **CDC45** | 0.999 |
+| MCM2 | **MCM3** | 0.999 |
+| MCM2 | **MCM7** | 0.999 |
+| MCM2 | **GINS4** | 0.999 |
+| GINS4 | **RPA2** | 0.995 |
+| GINS4 | **WDHD1** | 0.999 |
+| GINS4 | **CDC45** | 0.999 |
+| GINS4 | **GINS3** | 0.999 |
+| GINS4 | **MCM3** | 0.999 |
+| GINS4 | **MCM7** | 0.999 |
+| MCM7 | **RPA2** | 0.822 |
+| MCM7 | **WDHD1** | 0.996 |
+| MCM7 | **GINS3** | 0.999 |
+| MCM7 | **CDC45** | 0.999 |
+| MCM7 | **MCM3** | 0.999 |
+| WDHD1 | **RPA2** | 0.48 |
+| WDHD1 | **GINS3** | 0.998 |
+| WDHD1 | **CDC45** | 0.999 |
+| WDHD1 | **MCM3** | 0.999 |
+| RPA2 | **CDC45** | 0.899 |
+| RPA2 | **MCM3** | 0.958 |
+| GINS3 | **MCM3** | 0.999 |
+| GINS3 | **CDC45** | 0.999 |
+| CDC45 | **MCM3** | 0.999 |
+

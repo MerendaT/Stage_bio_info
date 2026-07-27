@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRPS18C
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRPS18C
+Identifiant STRING officiel : `9606.ENSP00000295491`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPS10 | **MRPS21** | 0.993 |
+| MRPS10 | **MRPS33** | 0.995 |
+| MRPS10 | **MRPS18A** | 0.997 |
+| MRPS10 | **MRPS18B** | 0.998 |
+| MRPS10 | **MRPS18C** | 0.998 |
+| MRPS10 | **MRPS6** | 0.999 |
+| MRPS10 | **MRPS9** | 0.999 |
+| MRPS10 | **MRPS16** | 0.999 |
+| MRPS10 | **MRPS11** | 0.999 |
+| MRPS10 | **MRPS12** | 0.999 |
+| MRPS10 | **MRPS2** | 0.999 |
+| MRPS10 | **MRPS5** | 0.999 |
+| MRPS10 | **MRPS7** | 0.999 |
+| MRPS10 | **MRPS14** | 0.999 |
+| MRPS10 | **MRPS15** | 0.999 |
+| MRPS7 | **MRPS21** | 0.992 |
+| MRPS7 | **MRPS33** | 0.995 |
+| MRPS7 | **MRPS18C** | 0.996 |
+| MRPS7 | **MRPS18A** | 0.997 |
+| MRPS7 | **MRPS18B** | 0.998 |
+| MRPS7 | **MRPS6** | 0.999 |
+| MRPS7 | **MRPS9** | 0.999 |
+| MRPS7 | **MRPS11** | 0.999 |
+| MRPS7 | **MRPS12** | 0.999 |
+| MRPS7 | **MRPS16** | 0.999 |
+| MRPS7 | **MRPS5** | 0.999 |
+| MRPS7 | **MRPS2** | 0.999 |
+| MRPS7 | **MRPS14** | 0.999 |
+| MRPS7 | **MRPS15** | 0.999 |
+| MRPS9 | **MRPS33** | 0.991 |
+| MRPS9 | **MRPS18A** | 0.993 |
+| MRPS9 | **MRPS21** | 0.995 |
+| MRPS9 | **MRPS18C** | 0.996 |
+| MRPS9 | **MRPS18B** | 0.996 |
+| MRPS9 | **MRPS14** | 0.999 |
+| MRPS9 | **MRPS15** | 0.999 |
+| MRPS9 | **MRPS5** | 0.999 |
+| MRPS9 | **MRPS2** | 0.999 |
+| MRPS9 | **MRPS12** | 0.999 |
+| MRPS9 | **MRPS11** | 0.999 |
+| MRPS9 | **MRPS16** | 0.999 |
+| MRPS9 | **MRPS6** | 0.999 |
+| MRPS18B | **MRPS12** | 0.99 |
+| MRPS18B | **MRPS15** | 0.996 |
+| MRPS18B | **MRPS14** | 0.996 |
+| MRPS18B | **MRPS18C** | 0.996 |
+| MRPS18B | **MRPS21** | 0.996 |
+| MRPS18B | **MRPS5** | 0.997 |
+| MRPS18B | **MRPS11** | 0.997 |
+| MRPS18B | **MRPS6** | 0.997 |
+| MRPS18B | **MRPS2** | 0.998 |
+| MRPS18B | **MRPS16** | 0.998 |
+| MRPS18B | **MRPS33** | 0.998 |
+| MRPS18B | **MRPS18A** | 0.999 |
+| MRPS5 | **MRPS21** | 0.996 |
+| MRPS5 | **MRPS18A** | 0.997 |
+| MRPS5 | **MRPS33** | 0.998 |
+| MRPS5 | **MRPS14** | 0.999 |
+| MRPS5 | **MRPS15** | 0.999 |
+| MRPS5 | **MRPS18C** | 0.999 |
+| MRPS5 | **MRPS2** | 0.999 |
+| MRPS5 | **MRPS16** | 0.999 |
+| MRPS5 | **MRPS11** | 0.999 |
+| MRPS5 | **MRPS12** | 0.999 |
+| MRPS5 | **MRPS6** | 0.999 |
+| MRPS18C | **MRPS12** | 0.997 |
+| MRPS18C | **MRPS21** | 0.997 |
+| MRPS18C | **MRPS16** | 0.998 |
+| MRPS18C | **MRPS33** | 0.998 |
+| MRPS18C | **MRPS15** | 0.998 |
+| MRPS18C | **MRPS2** | 0.998 |
+| MRPS18C | **MRPS11** | 0.999 |
+| MRPS18C | **MRPS18A** | 0.999 |
+| MRPS18C | **MRPS6** | 0.999 |
+| MRPS18C | **MRPS14** | 0.999 |
+| MRPS11 | **MRPS18A** | 0.996 |
+| MRPS11 | **MRPS33** | 0.997 |
+| MRPS11 | **MRPS21** | 0.998 |
+| MRPS11 | **MRPS12** | 0.999 |
+| MRPS11 | **MRPS16** | 0.999 |
+| MRPS11 | **MRPS6** | 0.999 |
+| MRPS11 | **MRPS15** | 0.999 |
+| MRPS11 | **MRPS14** | 0.999 |
+| MRPS11 | **MRPS2** | 0.999 |
+| MRPS33 | **MRPS12** | 0.992 |
+| MRPS33 | **MRPS16** | 0.993 |
+| MRPS33 | **MRPS6** | 0.995 |
+| MRPS33 | **MRPS18A** | 0.996 |
+| MRPS33 | **MRPS15** | 0.997 |
+| MRPS33 | **MRPS14** | 0.997 |
+| MRPS33 | **MRPS21** | 0.997 |
+| MRPS33 | **MRPS2** | 0.997 |
+| MRPS2 | **MRPS18A** | 0.994 |
+| MRPS2 | **MRPS21** | 0.997 |
+| MRPS2 | **MRPS12** | 0.999 |
+| MRPS2 | **MRPS16** | 0.999 |
+| MRPS2 | **MRPS6** | 0.999 |
+| MRPS2 | **MRPS14** | 0.999 |
+| MRPS2 | **MRPS15** | 0.999 |
+| MRPS18A | **MRPS21** | 0.987 |
+| MRPS18A | **MRPS6** | 0.996 |
+| MRPS18A | **MRPS12** | 0.998 |
+| MRPS18A | **MRPS16** | 0.998 |
+| MRPS18A | **MRPS15** | 0.998 |
+| MRPS18A | **MRPS14** | 0.998 |
+| MRPS16 | **MRPS21** | 0.993 |
+| MRPS16 | **MRPS15** | 0.999 |
+| MRPS16 | **MRPS14** | 0.999 |
+| MRPS16 | **MRPS12** | 0.999 |
+| MRPS16 | **MRPS6** | 0.999 |
+| MRPS15 | **MRPS21** | 0.998 |
+| MRPS15 | **MRPS6** | 0.999 |
+| MRPS15 | **MRPS12** | 0.999 |
+| MRPS15 | **MRPS14** | 0.999 |
+| MRPS6 | **MRPS21** | 0.998 |
+| MRPS6 | **MRPS14** | 0.999 |
+| MRPS6 | **MRPS12** | 0.999 |
+| MRPS12 | **MRPS21** | 0.992 |
+| MRPS12 | **MRPS14** | 0.999 |
+| MRPS14 | **MRPS21** | 0.993 |
+

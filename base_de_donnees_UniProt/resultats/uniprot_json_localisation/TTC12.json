@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9H892",
+      "uniProtkbId": "TTC12_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "TTC12"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31978331"
+                }
+              ],
+              "value": "Cytoplasmic protein that plays a role in the proper assembly of dynein arm complexes in motile cilia in both respiratory cells and sperm flagella"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31978331"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005813",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:centrosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23300604"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31978331"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070286",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:axonemal dynein complex assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31978331"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007288",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sperm axoneme assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31978331"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013F914"
+      }
+    }
+  ]
+}

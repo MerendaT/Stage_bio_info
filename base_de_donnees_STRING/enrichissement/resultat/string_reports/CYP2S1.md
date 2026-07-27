@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CYP2S1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CYP2S1
+Identifiant STRING officiel : `9606.ENSP00000308032`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CYP26B1 | **CYP26A1** | 0.919 |
+| CYP26B1 | **AOX1** | 0.921 |
+| CYP26B1 | **CYP26C1** | 0.922 |
+| CYP26B1 | **CYP4A11** | 0.926 |
+| CYP26B1 | **CYP4A22** | 0.927 |
+| CYP26B1 | **ENSP00000480571** | 0.932 |
+| CYP26B1 | **CYP3A5** | 0.935 |
+| CYP26B1 | **CYP3A7** | 0.936 |
+| CYP26B1 | **CYP3A4** | 0.939 |
+| CYP26B1 | **CYP2S1** | 0.941 |
+| CYP26B1 | **CYP1A1** | 0.943 |
+| CYP26B1 | **CYP1A2** | 0.945 |
+| CYP26B1 | **ALDH1A1** | 0.964 |
+| CYP26B1 | **ALDH1A2** | 0.988 |
+| CYP3A5 | **ENSP00000480571** | 0.914 |
+| CYP3A5 | **ALDH1A2** | 0.922 |
+| CYP3A5 | **CYP26C1** | 0.931 |
+| CYP3A5 | **ALDH1A1** | 0.933 |
+| CYP3A5 | **AOX1** | 0.937 |
+| CYP3A5 | **CYP26A1** | 0.94 |
+| CYP3A5 | **CYP4A22** | 0.942 |
+| CYP3A5 | **CYP2S1** | 0.943 |
+| CYP3A5 | **EPHX1** | 0.946 |
+| CYP3A5 | **CYP3A4** | 0.95 |
+| CYP3A5 | **CYP4A11** | 0.952 |
+| CYP3A5 | **CYP1A2** | 0.96 |
+| CYP3A5 | **CYP3A7** | 0.968 |
+| CYP3A5 | **CYP1A1** | 0.971 |
+| CYP26A1 | **AOX1** | 0.926 |
+| CYP26A1 | **CYP4A22** | 0.928 |
+| CYP26A1 | **CYP26C1** | 0.93 |
+| CYP26A1 | **CYP4A11** | 0.931 |
+| CYP26A1 | **ENSP00000480571** | 0.937 |
+| CYP26A1 | **CYP3A7** | 0.941 |
+| CYP26A1 | **CYP2S1** | 0.944 |
+| CYP26A1 | **CYP3A4** | 0.944 |
+| CYP26A1 | **CYP1A2** | 0.944 |
+| CYP26A1 | **CYP1A1** | 0.945 |
+| CYP26A1 | **ALDH1A1** | 0.968 |
+| CYP26A1 | **ALDH1A2** | 0.991 |
+| ALDH1A2 | **ALDH1A1** | 0.915 |
+| ALDH1A2 | **ENSP00000480571** | 0.918 |
+| ALDH1A2 | **CYP4A11** | 0.919 |
+| ALDH1A2 | **CYP1A2** | 0.92 |
+| ALDH1A2 | **CYP4A22** | 0.921 |
+| ALDH1A2 | **CYP3A7** | 0.923 |
+| ALDH1A2 | **CYP2S1** | 0.923 |
+| ALDH1A2 | **CYP3A4** | 0.923 |
+| ALDH1A2 | **CYP1A1** | 0.925 |
+| ALDH1A2 | **AOX1** | 0.938 |
+| ALDH1A2 | **CYP26C1** | 0.983 |
+| ALDH1A1 | **EPHX1** | 0.434 |
+| ALDH1A1 | **ENSP00000480571** | 0.916 |
+| ALDH1A1 | **CYP4A22** | 0.918 |
+| ALDH1A1 | **CYP4A11** | 0.919 |
+| ALDH1A1 | **CYP2S1** | 0.922 |
+| ALDH1A1 | **CYP3A7** | 0.923 |
+| ALDH1A1 | **CYP1A2** | 0.931 |
+| ALDH1A1 | **CYP3A4** | 0.937 |
+| ALDH1A1 | **CYP1A1** | 0.939 |
+| ALDH1A1 | **AOX1** | 0.951 |
+| ALDH1A1 | **CYP26C1** | 0.953 |
+| CYP2S1 | **ENSP00000480571** | 0.926 |
+| CYP2S1 | **EPHX1** | 0.927 |
+| CYP2S1 | **CYP26C1** | 0.929 |
+| CYP2S1 | **AOX1** | 0.929 |
+| CYP2S1 | **CYP1A1** | 0.935 |
+| CYP2S1 | **CYP1A2** | 0.935 |
+| CYP2S1 | **CYP3A7** | 0.941 |
+| CYP2S1 | **CYP4A11** | 0.942 |
+| CYP2S1 | **CYP4A22** | 0.943 |
+| CYP2S1 | **CYP3A4** | 0.945 |
+| CYP4A11 | **AOX1** | 0.924 |
+| CYP4A11 | **CYP26C1** | 0.939 |
+| CYP4A11 | **ENSP00000480571** | 0.939 |
+| CYP4A11 | **CYP3A7** | 0.948 |
+| CYP4A11 | **CYP1A1** | 0.953 |
+| CYP4A11 | **CYP3A4** | 0.958 |
+| CYP4A11 | **CYP4A22** | 0.961 |
+| CYP4A11 | **CYP1A2** | 0.972 |
+| CYP3A7 | **CYP3A4** | 0.632 |
+| CYP3A7 | **ENSP00000480571** | 0.911 |
+| CYP3A7 | **AOX1** | 0.925 |
+| CYP3A7 | **CYP26C1** | 0.933 |
+| CYP3A7 | **CYP4A22** | 0.941 |
+| CYP3A7 | **CYP1A1** | 0.956 |
+| CYP3A7 | **CYP1A2** | 0.956 |
+| CYP1A2 | **CYP26C1** | 0.926 |
+| CYP1A2 | **ENSP00000480571** | 0.942 |
+| CYP1A2 | **CYP4A22** | 0.946 |
+| CYP1A2 | **AOX1** | 0.948 |
+| CYP1A2 | **CYP1A1** | 0.95 |
+| CYP1A2 | **EPHX1** | 0.961 |
+| CYP1A2 | **CYP3A4** | 0.968 |
+| CYP4A22 | **AOX1** | 0.917 |
+| CYP4A22 | **ENSP00000480571** | 0.934 |
+| CYP4A22 | **CYP26C1** | 0.935 |
+| CYP4A22 | **CYP3A4** | 0.942 |
+| CYP4A22 | **CYP1A1** | 0.944 |
+| AOX1 | **EPHX1** | 0.447 |
+| AOX1 | **CYP26C1** | 0.917 |
+| AOX1 | **ENSP00000480571** | 0.924 |
+| AOX1 | **CYP1A1** | 0.941 |
+| AOX1 | **CYP3A4** | 0.956 |
+| CYP1A1 | **CYP26C1** | 0.928 |
+| CYP1A1 | **ENSP00000480571** | 0.963 |
+| CYP1A1 | **EPHX1** | 0.985 |
+| CYP1A1 | **CYP3A4** | 0.987 |
+| EPHX1 | **CYP3A4** | 0.956 |
+| ENSP00000480571 | **CYP26C1** | 0.925 |
+| CYP26C1 | **CYP3A4** | 0.933 |
+

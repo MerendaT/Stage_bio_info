@@ -1,0 +1,287 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9C004",
+      "uniProtkbId": "SPY4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SPRY4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12027893"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12717443"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15584898"
+                }
+              ],
+              "value": "Suppresses the insulin receptor and EGFR-transduced MAPK signaling pathway, but does not inhibit MAPK activation by a constitutively active mutant Ras (PubMed:12027893). Probably impairs the formation of GTP-Ras (PubMed:12027893). Inhibits Ras-independent, but not Ras-dependent, activation of RAF1 (PubMed:12717443). Represses integrin-mediated cell spreading via inhibition of TESK1-mediated phosphorylation of cofilin (PubMed:15584898)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9WTP2"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15584898"
+                  }
+                ],
+                "value": "Found in the cytoplasm in unstimulated cells but is translocated to the membrane ruffles in cells stimulated with EGF (epidermal growth factor) (By similarity). Colocalizes with TESK1 in vesicular spots in the cytoplasm (PubMed:15584898)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12027893"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15584898"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Cell projection, ruffle membrane",
+                "id": "SL-0301"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              },
+              "orientation": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Cytoplasmic side",
+                "id": "SL-9910"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15584898"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005925",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:focal adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21423176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032587",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:ruffle membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004860",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15584898"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042059",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of epidermal growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070373",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of ERK1 and ERK2 cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0040037",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of fibroblast growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046580",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of Ras protein signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900025",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of substrate adhesion-dependent cell spreading"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15584898"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00000015D0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : BOLA1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BOLA1
+Identifiant STRING officiel : `9606.ENSP00000358149`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BOLA2B | **IBA57** | 0.43 |
+| BOLA2B | **ISCA1** | 0.503 |
+| BOLA2B | **ISCA2** | 0.533 |
+| BOLA2B | **NFU1** | 0.624 |
+| BOLA2B | **BOLA2** | 0.656 |
+| BOLA2B | **FXN** | 0.705 |
+| BOLA2B | **LYRM4** | 0.708 |
+| BOLA2B | **NFS1** | 0.739 |
+| BOLA2B | **FDX2** | 0.743 |
+| BOLA2B | **ISCU** | 0.764 |
+| BOLA2B | **BOLA1** | 0.81 |
+| BOLA2B | **CIAPIN1** | 0.844 |
+| BOLA2B | **GLRX5** | 0.879 |
+| BOLA2B | **BOLA3** | 0.994 |
+| BOLA2B | **GLRX3** | 0.998 |
+| ISCU | **CIAPIN1** | 0.683 |
+| ISCU | **BOLA2** | 0.762 |
+| ISCU | **IBA57** | 0.811 |
+| ISCU | **BOLA1** | 0.851 |
+| ISCU | **BOLA3** | 0.879 |
+| ISCU | **GLRX3** | 0.883 |
+| ISCU | **GLRX5** | 0.911 |
+| ISCU | **NFU1** | 0.967 |
+| ISCU | **FDX2** | 0.976 |
+| ISCU | **ISCA1** | 0.976 |
+| ISCU | **ISCA2** | 0.979 |
+| ISCU | **NFS1** | 0.999 |
+| ISCU | **FXN** | 0.999 |
+| ISCU | **LYRM4** | 0.999 |
+| GLRX5 | **CIAPIN1** | 0.623 |
+| GLRX5 | **GLRX3** | 0.682 |
+| GLRX5 | **IBA57** | 0.812 |
+| GLRX5 | **NFU1** | 0.843 |
+| GLRX5 | **FDX2** | 0.861 |
+| GLRX5 | **LYRM4** | 0.863 |
+| GLRX5 | **FXN** | 0.886 |
+| GLRX5 | **BOLA2** | 0.905 |
+| GLRX5 | **NFS1** | 0.909 |
+| GLRX5 | **ISCA1** | 0.959 |
+| GLRX5 | **ISCA2** | 0.971 |
+| GLRX5 | **BOLA1** | 0.987 |
+| GLRX5 | **BOLA3** | 0.996 |
+| BOLA2 | **IBA57** | 0.431 |
+| BOLA2 | **ISCA1** | 0.507 |
+| BOLA2 | **ISCA2** | 0.541 |
+| BOLA2 | **NFU1** | 0.63 |
+| BOLA2 | **FXN** | 0.707 |
+| BOLA2 | **LYRM4** | 0.709 |
+| BOLA2 | **NFS1** | 0.737 |
+| BOLA2 | **FDX2** | 0.753 |
+| BOLA2 | **CIAPIN1** | 0.797 |
+| BOLA2 | **BOLA1** | 0.811 |
+| BOLA2 | **BOLA3** | 0.994 |
+| BOLA2 | **GLRX3** | 0.995 |
+| BOLA3 | **CIAPIN1** | 0.691 |
+| BOLA3 | **FXN** | 0.775 |
+| BOLA3 | **NFS1** | 0.817 |
+| BOLA3 | **ISCA1** | 0.839 |
+| BOLA3 | **ISCA2** | 0.841 |
+| BOLA3 | **LYRM4** | 0.849 |
+| BOLA3 | **IBA57** | 0.875 |
+| BOLA3 | **FDX2** | 0.9 |
+| BOLA3 | **NFU1** | 0.945 |
+| BOLA3 | **GLRX3** | 0.955 |
+| BOLA3 | **BOLA1** | 0.999 |
+| IBA57 | **GLRX3** | 0.628 |
+| IBA57 | **CIAPIN1** | 0.667 |
+| IBA57 | **BOLA1** | 0.745 |
+| IBA57 | **FXN** | 0.746 |
+| IBA57 | **NFS1** | 0.799 |
+| IBA57 | **FDX2** | 0.805 |
+| IBA57 | **LYRM4** | 0.816 |
+| IBA57 | **NFU1** | 0.905 |
+| IBA57 | **ISCA1** | 0.993 |
+| IBA57 | **ISCA2** | 0.998 |
+| GLRX3 | **ISCA2** | 0.753 |
+| GLRX3 | **ISCA1** | 0.803 |
+| GLRX3 | **FXN** | 0.818 |
+| GLRX3 | **NFU1** | 0.822 |
+| GLRX3 | **FDX2** | 0.833 |
+| GLRX3 | **LYRM4** | 0.838 |
+| GLRX3 | **NFS1** | 0.878 |
+| GLRX3 | **BOLA1** | 0.992 |
+| GLRX3 | **CIAPIN1** | 0.995 |
+| BOLA1 | **ISCA1** | 0.772 |
+| BOLA1 | **FXN** | 0.781 |
+| BOLA1 | **NFS1** | 0.785 |
+| BOLA1 | **LYRM4** | 0.79 |
+| BOLA1 | **ISCA2** | 0.791 |
+| BOLA1 | **FDX2** | 0.857 |
+| BOLA1 | **NFU1** | 0.861 |
+| BOLA1 | **CIAPIN1** | 0.949 |
+| NFS1 | **CIAPIN1** | 0.737 |
+| NFS1 | **ISCA2** | 0.922 |
+| NFS1 | **ISCA1** | 0.928 |
+| NFS1 | **FDX2** | 0.962 |
+| NFS1 | **NFU1** | 0.982 |
+| NFS1 | **LYRM4** | 0.999 |
+| NFS1 | **FXN** | 0.999 |
+| ISCA1 | **CIAPIN1** | 0.586 |
+| ISCA1 | **FXN** | 0.744 |
+| ISCA1 | **LYRM4** | 0.813 |
+| ISCA1 | **FDX2** | 0.852 |
+| ISCA1 | **NFU1** | 0.947 |
+| ISCA1 | **ISCA2** | 0.997 |
+| FDX2 | **CIAPIN1** | 0.51 |
+| FDX2 | **NFU1** | 0.846 |
+| FDX2 | **ISCA2** | 0.856 |
+| FDX2 | **FXN** | 0.878 |
+| FDX2 | **LYRM4** | 0.953 |
+| CIAPIN1 | **ISCA2** | 0.577 |
+| CIAPIN1 | **FXN** | 0.609 |
+| CIAPIN1 | **NFU1** | 0.685 |
+| CIAPIN1 | **LYRM4** | 0.715 |
+| NFU1 | **LYRM4** | 0.817 |
+| NFU1 | **FXN** | 0.886 |
+| NFU1 | **ISCA2** | 0.947 |
+| FXN | **ISCA2** | 0.828 |
+| FXN | **LYRM4** | 0.999 |
+| LYRM4 | **ISCA2** | 0.807 |
+

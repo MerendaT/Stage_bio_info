@@ -1,0 +1,175 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q96RK1",
+      "uniProtkbId": "CITE4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:18696"
+              }
+            ],
+            "value": "CITED4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11744733"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15342390"
+                }
+              ],
+              "value": "Acts as a transcriptional coactivator for TFAP2/AP-2. Enhances estrogen-dependent transactivation mediated by estrogen receptors. May function as an inhibitor of transactivation by HIF1A by disrupting HIF1A interaction with CREBBP. May be involved in regulation of gene expression during development and differentiation of blood cells, endothelial cells and mammary epithelial cells"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11744733"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15342390"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11744733"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15342390"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003713",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription coactivator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043627",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to estrogen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004241F"
+      }
+    }
+  ]
+}

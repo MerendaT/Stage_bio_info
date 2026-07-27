@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : EMG1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EMG1
+Identifiant STRING officiel : `9606.ENSP00000470560`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **FCF1** | 0.995 |
+| UTP18 | **NOP14** | 0.997 |
+| UTP18 | **NOP58** | 0.998 |
+| UTP18 | **EMG1** | 0.998 |
+| UTP18 | **HEATR1** | 0.999 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **NOC4L** | 0.999 |
+| UTP18 | **UTP11** | 0.999 |
+| UTP18 | **RCL1** | 0.999 |
+| UTP18 | **NOL6** | 0.999 |
+| UTP18 | **WDR43** | 0.999 |
+| KRR1 | **RCL1** | 0.997 |
+| KRR1 | **WDR43** | 0.998 |
+| KRR1 | **NOL6** | 0.998 |
+| KRR1 | **HEATR1** | 0.998 |
+| KRR1 | **UTP11** | 0.999 |
+| KRR1 | **FCF1** | 0.999 |
+| KRR1 | **EMG1** | 0.999 |
+| KRR1 | **NOP14** | 0.999 |
+| KRR1 | **UTP4** | 0.999 |
+| KRR1 | **UTP6** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| KRR1 | **NOP58** | 0.999 |
+| KRR1 | **NOC4L** | 0.999 |
+| BYSL | **FCF1** | 0.996 |
+| BYSL | **HEATR1** | 0.998 |
+| BYSL | **NOP58** | 0.998 |
+| BYSL | **UTP11** | 0.998 |
+| BYSL | **WDR43** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **WDR46** | 0.999 |
+| BYSL | **NOC4L** | 0.999 |
+| BYSL | **RCL1** | 0.999 |
+| BYSL | **EMG1** | 0.999 |
+| BYSL | **NOP14** | 0.999 |
+| BYSL | **NOL6** | 0.999 |
+| UTP6 | **FCF1** | 0.995 |
+| UTP6 | **NOP14** | 0.997 |
+| UTP6 | **NOP58** | 0.998 |
+| UTP6 | **NOC4L** | 0.998 |
+| UTP6 | **EMG1** | 0.998 |
+| UTP6 | **UTP11** | 0.998 |
+| UTP6 | **RCL1** | 0.998 |
+| UTP6 | **WDR46** | 0.999 |
+| UTP6 | **UTP4** | 0.999 |
+| UTP6 | **HEATR1** | 0.999 |
+| UTP6 | **NOL6** | 0.999 |
+| UTP6 | **WDR43** | 0.999 |
+| NOP58 | **RCL1** | 0.997 |
+| NOP58 | **WDR46** | 0.998 |
+| NOP58 | **NOC4L** | 0.998 |
+| NOP58 | **UTP11** | 0.998 |
+| NOP58 | **FCF1** | 0.998 |
+| NOP58 | **NOP14** | 0.998 |
+| NOP58 | **HEATR1** | 0.999 |
+| NOP58 | **UTP4** | 0.999 |
+| NOP58 | **EMG1** | 0.999 |
+| NOP58 | **WDR43** | 0.999 |
+| NOP58 | **NOL6** | 0.999 |
+| NOL6 | **UTP11** | 0.993 |
+| NOL6 | **FCF1** | 0.997 |
+| NOL6 | **RCL1** | 0.997 |
+| NOL6 | **NOC4L** | 0.998 |
+| NOL6 | **EMG1** | 0.998 |
+| NOL6 | **WDR46** | 0.999 |
+| NOL6 | **UTP4** | 0.999 |
+| NOL6 | **HEATR1** | 0.999 |
+| NOL6 | **WDR43** | 0.999 |
+| NOL6 | **NOP14** | 0.999 |
+| UTP4 | **FCF1** | 0.995 |
+| UTP4 | **UTP11** | 0.998 |
+| UTP4 | **EMG1** | 0.998 |
+| UTP4 | **NOP14** | 0.998 |
+| UTP4 | **HEATR1** | 0.999 |
+| UTP4 | **NOC4L** | 0.999 |
+| UTP4 | **WDR46** | 0.999 |
+| UTP4 | **RCL1** | 0.999 |
+| UTP4 | **WDR43** | 0.999 |
+| NOC4L | **FCF1** | 0.997 |
+| NOC4L | **UTP11** | 0.998 |
+| NOC4L | **RCL1** | 0.998 |
+| NOC4L | **HEATR1** | 0.998 |
+| NOC4L | **EMG1** | 0.999 |
+| NOC4L | **NOP14** | 0.999 |
+| NOC4L | **WDR43** | 0.999 |
+| NOC4L | **WDR46** | 0.999 |
+| FCF1 | **NOP14** | 0.993 |
+| FCF1 | **WDR43** | 0.995 |
+| FCF1 | **HEATR1** | 0.997 |
+| FCF1 | **RCL1** | 0.997 |
+| FCF1 | **WDR46** | 0.999 |
+| FCF1 | **EMG1** | 0.999 |
+| FCF1 | **UTP11** | 0.999 |
+| HEATR1 | **NOP14** | 0.995 |
+| HEATR1 | **UTP11** | 0.997 |
+| HEATR1 | **RCL1** | 0.998 |
+| HEATR1 | **EMG1** | 0.998 |
+| HEATR1 | **WDR43** | 0.999 |
+| HEATR1 | **WDR46** | 0.999 |
+| UTP11 | **RCL1** | 0.993 |
+| UTP11 | **WDR43** | 0.997 |
+| UTP11 | **NOP14** | 0.998 |
+| UTP11 | **EMG1** | 0.998 |
+| UTP11 | **WDR46** | 0.999 |
+| WDR46 | **RCL1** | 0.997 |
+| WDR46 | **EMG1** | 0.998 |
+| WDR46 | **WDR43** | 0.999 |
+| WDR46 | **NOP14** | 0.999 |
+| RCL1 | **NOP14** | 0.992 |
+| RCL1 | **EMG1** | 0.998 |
+| RCL1 | **WDR43** | 0.999 |
+| WDR43 | **EMG1** | 0.998 |
+| WDR43 | **NOP14** | 0.998 |
+| NOP14 | **EMG1** | 0.999 |
+

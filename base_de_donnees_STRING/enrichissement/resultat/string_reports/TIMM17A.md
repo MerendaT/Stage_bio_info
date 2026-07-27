@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : TIMM17A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TIMM17A
+Identifiant STRING officiel : `9606.ENSP00000356256`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TIMM21 | **TOMM20** | 0.578 |
+| TIMM21 | **OXA1L** | 0.652 |
+| TIMM21 | **GRPEL1** | 0.786 |
+| TIMM21 | **TOMM70** | 0.829 |
+| TIMM21 | **TOMM40** | 0.86 |
+| TIMM21 | **HSPA9** | 0.891 |
+| TIMM21 | **ROMO1** | 0.917 |
+| TIMM21 | **TIMM23B** | 0.928 |
+| TIMM21 | **PAM16** | 0.948 |
+| TIMM21 | **DNAJC19** | 0.964 |
+| TIMM21 | **TIMM44** | 0.969 |
+| TIMM21 | **TIMM10** | 0.97 |
+| TIMM21 | **TIMM23** | 0.993 |
+| TIMM21 | **TIMM17A** | 0.997 |
+| TIMM21 | **TIMM50** | 0.999 |
+| TIMM10 | **OXA1L** | 0.685 |
+| TIMM10 | **TIMM23B** | 0.712 |
+| TIMM10 | **TOMM20** | 0.723 |
+| TIMM10 | **HSPA9** | 0.742 |
+| TIMM10 | **PAM16** | 0.865 |
+| TIMM10 | **ROMO1** | 0.874 |
+| TIMM10 | **DNAJC19** | 0.882 |
+| TIMM10 | **TOMM70** | 0.888 |
+| TIMM10 | **TOMM40** | 0.906 |
+| TIMM10 | **GRPEL1** | 0.937 |
+| TIMM10 | **TIMM50** | 0.945 |
+| TIMM10 | **TIMM44** | 0.959 |
+| TIMM10 | **TIMM23** | 0.972 |
+| TIMM10 | **TIMM17A** | 0.985 |
+| GRPEL1 | **OXA1L** | 0.46 |
+| GRPEL1 | **TOMM70** | 0.708 |
+| GRPEL1 | **TIMM23B** | 0.721 |
+| GRPEL1 | **TOMM40** | 0.723 |
+| GRPEL1 | **ROMO1** | 0.73 |
+| GRPEL1 | **TIMM50** | 0.786 |
+| GRPEL1 | **TIMM23** | 0.814 |
+| GRPEL1 | **DNAJC19** | 0.883 |
+| GRPEL1 | **PAM16** | 0.908 |
+| GRPEL1 | **TIMM17A** | 0.953 |
+| GRPEL1 | **TIMM44** | 0.997 |
+| GRPEL1 | **HSPA9** | 0.999 |
+| TIMM44 | **OXA1L** | 0.686 |
+| TIMM44 | **TOMM20** | 0.743 |
+| TIMM44 | **ROMO1** | 0.8 |
+| TIMM44 | **TOMM70** | 0.93 |
+| TIMM44 | **TIMM23B** | 0.954 |
+| TIMM44 | **TOMM40** | 0.958 |
+| TIMM44 | **TIMM50** | 0.985 |
+| TIMM44 | **TIMM23** | 0.989 |
+| TIMM44 | **PAM16** | 0.999 |
+| TIMM44 | **TIMM17A** | 0.999 |
+| TIMM44 | **DNAJC19** | 0.999 |
+| TIMM44 | **HSPA9** | 0.999 |
+| TOMM70 | **TIMM23B** | 0.498 |
+| TOMM70 | **ROMO1** | 0.504 |
+| TOMM70 | **PAM16** | 0.645 |
+| TOMM70 | **DNAJC19** | 0.65 |
+| TOMM70 | **OXA1L** | 0.746 |
+| TOMM70 | **TIMM23** | 0.844 |
+| TOMM70 | **TIMM50** | 0.913 |
+| TOMM70 | **HSPA9** | 0.942 |
+| TOMM70 | **TIMM17A** | 0.947 |
+| TOMM70 | **TOMM40** | 0.999 |
+| TOMM70 | **TOMM20** | 0.999 |
+| OXA1L | **HSPA9** | 0.494 |
+| OXA1L | **PAM16** | 0.508 |
+| OXA1L | **DNAJC19** | 0.519 |
+| OXA1L | **TIMM23** | 0.603 |
+| OXA1L | **TOMM40** | 0.705 |
+| OXA1L | **TIMM50** | 0.719 |
+| OXA1L | **TOMM20** | 0.793 |
+| OXA1L | **TIMM17A** | 0.927 |
+| HSPA9 | **ROMO1** | 0.733 |
+| HSPA9 | **TOMM20** | 0.881 |
+| HSPA9 | **TIMM50** | 0.891 |
+| HSPA9 | **TOMM40** | 0.915 |
+| HSPA9 | **TIMM23B** | 0.917 |
+| HSPA9 | **TIMM23** | 0.966 |
+| HSPA9 | **PAM16** | 0.988 |
+| HSPA9 | **TIMM17A** | 0.988 |
+| HSPA9 | **DNAJC19** | 0.998 |
+| PAM16 | **TOMM20** | 0.503 |
+| PAM16 | **TOMM40** | 0.829 |
+| PAM16 | **ROMO1** | 0.866 |
+| PAM16 | **TIMM23B** | 0.928 |
+| PAM16 | **TIMM23** | 0.96 |
+| PAM16 | **TIMM50** | 0.972 |
+| PAM16 | **TIMM17A** | 0.992 |
+| PAM16 | **DNAJC19** | 0.999 |
+| TOMM20 | **ROMO1** | 0.493 |
+| TOMM20 | **DNAJC19** | 0.609 |
+| TOMM20 | **TIMM50** | 0.764 |
+| TOMM20 | **TIMM17A** | 0.932 |
+| TOMM20 | **TIMM23** | 0.945 |
+| TOMM20 | **TOMM40** | 0.999 |
+| TIMM17A | **ROMO1** | 0.937 |
+| TIMM17A | **TIMM23B** | 0.939 |
+| TIMM17A | **TOMM40** | 0.947 |
+| TIMM17A | **DNAJC19** | 0.989 |
+| TIMM17A | **TIMM23** | 0.999 |
+| TIMM17A | **TIMM50** | 0.999 |
+| ROMO1 | **TOMM40** | 0.405 |
+| ROMO1 | **TIMM23B** | 0.786 |
+| ROMO1 | **DNAJC19** | 0.802 |
+| ROMO1 | **TIMM50** | 0.831 |
+| ROMO1 | **TIMM23** | 0.851 |
+| TIMM23B | **TIMM23** | 0.545 |
+| TIMM23B | **TOMM40** | 0.602 |
+| TIMM23B | **DNAJC19** | 0.792 |
+| TIMM23B | **TIMM50** | 0.946 |
+| DNAJC19 | **TOMM40** | 0.822 |
+| DNAJC19 | **TIMM23** | 0.909 |
+| DNAJC19 | **TIMM50** | 0.973 |
+| TOMM40 | **TIMM23** | 0.965 |
+| TOMM40 | **TIMM50** | 0.971 |
+| TIMM50 | **TIMM23** | 0.999 |
+

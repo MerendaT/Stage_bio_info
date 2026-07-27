@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : FOXM1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : FOXM1
+Identifiant STRING officiel : `9606.ENSP00000342307`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MYBL2 | **EP300** | 0.538 |
+| MYBL2 | **KIF11** | 0.548 |
+| MYBL2 | **KIF20A** | 0.612 |
+| MYBL2 | **CENPF** | 0.651 |
+| MYBL2 | **BUB1B** | 0.655 |
+| MYBL2 | **CDC25A** | 0.728 |
+| MYBL2 | **CDK1** | 0.743 |
+| MYBL2 | **BIRC5** | 0.844 |
+| MYBL2 | **CDC20** | 0.865 |
+| MYBL2 | **PLK1** | 0.877 |
+| MYBL2 | **MELK** | 0.894 |
+| MYBL2 | **CCNB1** | 0.931 |
+| MYBL2 | **CCNA2** | 0.991 |
+| MYBL2 | **FOXM1** | 0.998 |
+| CCNB1 | **CTNNB1** | 0.624 |
+| CCNB1 | **EP300** | 0.816 |
+| CCNB1 | **KIF20A** | 0.954 |
+| CCNB1 | **KIF11** | 0.966 |
+| CCNB1 | **MELK** | 0.972 |
+| CCNB1 | **CENPF** | 0.988 |
+| CCNB1 | **FOXM1** | 0.988 |
+| CCNB1 | **BIRC5** | 0.993 |
+| CCNB1 | **CDC25A** | 0.995 |
+| CCNB1 | **CCNA2** | 0.995 |
+| CCNB1 | **BUB1B** | 0.998 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **PLK1** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| KIF11 | **CDC25A** | 0.58 |
+| KIF11 | **PLK1** | 0.919 |
+| KIF11 | **FOXM1** | 0.934 |
+| KIF11 | **MELK** | 0.941 |
+| KIF11 | **BIRC5** | 0.957 |
+| KIF11 | **CENPF** | 0.972 |
+| KIF11 | **CCNA2** | 0.978 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **CDC20** | 0.987 |
+| KIF11 | **CDK1** | 0.987 |
+| KIF11 | **BUB1B** | 0.994 |
+| EP300 | **BUB1B** | 0.435 |
+| EP300 | **PLK1** | 0.654 |
+| EP300 | **CDK1** | 0.726 |
+| EP300 | **CDC20** | 0.75 |
+| EP300 | **CCNA2** | 0.812 |
+| EP300 | **CDC25A** | 0.864 |
+| EP300 | **FOXM1** | 0.957 |
+| EP300 | **CTNNB1** | 0.999 |
+| BUB1B | **CDC25A** | 0.646 |
+| BUB1B | **FOXM1** | 0.944 |
+| BUB1B | **MELK** | 0.953 |
+| BUB1B | **KIF20A** | 0.977 |
+| BUB1B | **BIRC5** | 0.987 |
+| BUB1B | **CCNA2** | 0.994 |
+| BUB1B | **PLK1** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **CENPF** | 0.999 |
+| BUB1B | **CDK1** | 0.999 |
+| MELK | **CDC25A** | 0.567 |
+| MELK | **PLK1** | 0.809 |
+| MELK | **CDK1** | 0.902 |
+| MELK | **CENPF** | 0.919 |
+| MELK | **KIF20A** | 0.929 |
+| MELK | **CCNA2** | 0.939 |
+| MELK | **CDC20** | 0.964 |
+| MELK | **BIRC5** | 0.965 |
+| MELK | **FOXM1** | 0.973 |
+| PLK1 | **CTNNB1** | 0.759 |
+| PLK1 | **CCNA2** | 0.958 |
+| PLK1 | **CENPF** | 0.973 |
+| PLK1 | **CDC25A** | 0.975 |
+| PLK1 | **BIRC5** | 0.98 |
+| PLK1 | **KIF20A** | 0.99 |
+| PLK1 | **CDK1** | 0.993 |
+| PLK1 | **FOXM1** | 0.995 |
+| PLK1 | **CDC20** | 0.999 |
+| BIRC5 | **CDC25A** | 0.593 |
+| BIRC5 | **CTNNB1** | 0.65 |
+| BIRC5 | **CCNA2** | 0.956 |
+| BIRC5 | **FOXM1** | 0.958 |
+| BIRC5 | **CENPF** | 0.96 |
+| BIRC5 | **KIF20A** | 0.973 |
+| BIRC5 | **CDC20** | 0.995 |
+| BIRC5 | **CDK1** | 0.997 |
+| CDC25A | **CTNNB1** | 0.462 |
+| CDC25A | **KIF20A** | 0.484 |
+| CDC25A | **CENPF** | 0.514 |
+| CDC25A | **CDC20** | 0.839 |
+| CDC25A | **CCNA2** | 0.934 |
+| CDC25A | **FOXM1** | 0.936 |
+| CDC25A | **CDK1** | 0.993 |
+| FOXM1 | **CDC20** | 0.937 |
+| FOXM1 | **KIF20A** | 0.944 |
+| FOXM1 | **CCNA2** | 0.985 |
+| FOXM1 | **CENPF** | 0.989 |
+| FOXM1 | **CDK1** | 0.991 |
+| FOXM1 | **CTNNB1** | 0.994 |
+| CENPF | **CCNA2** | 0.944 |
+| CENPF | **KIF20A** | 0.96 |
+| CENPF | **CDK1** | 0.978 |
+| CENPF | **CDC20** | 0.99 |
+| CDC20 | **KIF20A** | 0.981 |
+| CDC20 | **CCNA2** | 0.999 |
+| CDC20 | **CDK1** | 0.999 |
+| KIF20A | **CTNNB1** | 0.441 |
+| KIF20A | **CDK1** | 0.958 |
+| KIF20A | **CCNA2** | 0.974 |
+| CDK1 | **CTNNB1** | 0.7 |
+| CDK1 | **CCNA2** | 0.999 |
+| CCNA2 | **CTNNB1** | 0.725 |
+

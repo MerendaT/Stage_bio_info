@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : DLD
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DLD
+Identifiant STRING officiel : `9606.ENSP00000205402`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLD | **DHTKD1** | 0.992 |
+| DLD | **GCSH** | 0.992 |
+| DLD | **GLDC** | 0.995 |
+| DLD | **PDHA2** | 0.998 |
+| DLD | **OGDHL** | 0.998 |
+| DLD | **AMT** | 0.998 |
+| DLD | **BCKDHA** | 0.999 |
+| DLD | **DLST** | 0.999 |
+| DLD | **PDHA1** | 0.999 |
+| DLD | **DBT** | 0.999 |
+| DLD | **OGDH** | 0.999 |
+| DLD | **DLAT** | 0.999 |
+| DLD | **BCKDHB** | 0.999 |
+| DLD | **PDHB** | 0.999 |
+| DLD | **PDHX** | 0.999 |
+| PDHX | **AMT** | 0.517 |
+| PDHX | **DBT** | 0.693 |
+| PDHX | **GLDC** | 0.769 |
+| PDHX | **GCSH** | 0.825 |
+| PDHX | **DLST** | 0.884 |
+| PDHX | **OGDHL** | 0.892 |
+| PDHX | **DHTKD1** | 0.929 |
+| PDHX | **BCKDHA** | 0.951 |
+| PDHX | **BCKDHB** | 0.969 |
+| PDHX | **OGDH** | 0.983 |
+| PDHX | **PDHA2** | 0.998 |
+| PDHX | **DLAT** | 0.998 |
+| PDHX | **PDHB** | 0.999 |
+| PDHX | **PDHA1** | 0.999 |
+| DHTKD1 | **AMT** | 0.414 |
+| DHTKD1 | **PDHA2** | 0.479 |
+| DHTKD1 | **OGDH** | 0.511 |
+| DHTKD1 | **GLDC** | 0.574 |
+| DHTKD1 | **PDHA1** | 0.624 |
+| DHTKD1 | **GCSH** | 0.671 |
+| DHTKD1 | **BCKDHA** | 0.677 |
+| DHTKD1 | **PDHB** | 0.75 |
+| DHTKD1 | **BCKDHB** | 0.776 |
+| DHTKD1 | **DBT** | 0.928 |
+| DHTKD1 | **DLAT** | 0.934 |
+| DHTKD1 | **DLST** | 0.999 |
+| BCKDHA | **GLDC** | 0.428 |
+| BCKDHA | **PDHA2** | 0.551 |
+| BCKDHA | **PDHA1** | 0.663 |
+| BCKDHA | **GCSH** | 0.704 |
+| BCKDHA | **OGDHL** | 0.741 |
+| BCKDHA | **OGDH** | 0.879 |
+| BCKDHA | **DLAT** | 0.945 |
+| BCKDHA | **DLST** | 0.963 |
+| BCKDHA | **BCKDHB** | 0.999 |
+| BCKDHA | **PDHB** | 0.999 |
+| BCKDHA | **DBT** | 0.999 |
+| AMT | **OGDHL** | 0.421 |
+| AMT | **DLST** | 0.468 |
+| AMT | **OGDH** | 0.478 |
+| AMT | **DBT** | 0.505 |
+| AMT | **DLAT** | 0.515 |
+| AMT | **GCSH** | 0.999 |
+| AMT | **GLDC** | 0.999 |
+| DLAT | **DBT** | 0.675 |
+| DLAT | **GLDC** | 0.765 |
+| DLAT | **OGDHL** | 0.913 |
+| DLAT | **DLST** | 0.942 |
+| DLAT | **GCSH** | 0.945 |
+| DLAT | **BCKDHB** | 0.968 |
+| DLAT | **OGDH** | 0.989 |
+| DLAT | **PDHA2** | 0.999 |
+| DLAT | **PDHA1** | 0.999 |
+| DLAT | **PDHB** | 0.999 |
+| PDHA2 | **PDHA1** | 0.415 |
+| PDHA2 | **OGDHL** | 0.471 |
+| PDHA2 | **GCSH** | 0.539 |
+| PDHA2 | **OGDH** | 0.696 |
+| PDHA2 | **DBT** | 0.738 |
+| PDHA2 | **DLST** | 0.738 |
+| PDHA2 | **BCKDHB** | 0.985 |
+| PDHA2 | **PDHB** | 0.999 |
+| PDHB | **BCKDHB** | 0.571 |
+| PDHB | **GCSH** | 0.648 |
+| PDHB | **OGDHL** | 0.715 |
+| PDHB | **OGDH** | 0.947 |
+| PDHB | **DBT** | 0.957 |
+| PDHB | **DLST** | 0.974 |
+| PDHB | **PDHA1** | 0.999 |
+| BCKDHB | **GLDC** | 0.506 |
+| BCKDHB | **GCSH** | 0.733 |
+| BCKDHB | **OGDHL** | 0.765 |
+| BCKDHB | **OGDH** | 0.819 |
+| BCKDHB | **DLST** | 0.968 |
+| BCKDHB | **PDHA1** | 0.988 |
+| BCKDHB | **DBT** | 0.999 |
+| GCSH | **PDHA1** | 0.605 |
+| GCSH | **OGDH** | 0.727 |
+| GCSH | **DBT** | 0.777 |
+| GCSH | **DLST** | 0.809 |
+| GCSH | **GLDC** | 0.999 |
+| DLST | **GLDC** | 0.752 |
+| DLST | **DBT** | 0.78 |
+| DLST | **PDHA1** | 0.821 |
+| DLST | **OGDH** | 0.999 |
+| DLST | **OGDHL** | 0.999 |
+| DBT | **GLDC** | 0.737 |
+| DBT | **PDHA1** | 0.776 |
+| DBT | **OGDHL** | 0.935 |
+| DBT | **OGDH** | 0.961 |
+| OGDHL | **PDHA1** | 0.42 |
+| OGDHL | **GLDC** | 0.474 |
+| OGDHL | **OGDH** | 0.975 |
+| PDHA1 | **GLDC** | 0.418 |
+| PDHA1 | **OGDH** | 0.95 |
+| GLDC | **OGDH** | 0.512 |
+

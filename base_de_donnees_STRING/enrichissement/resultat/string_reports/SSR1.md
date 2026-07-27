@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SSR1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SSR1
+Identifiant STRING officiel : `9606.ENSP00000244763`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SEC61B | **DERL1** | 0.581 |
+| SEC61B | **CANX** | 0.788 |
+| SEC61B | **OST4** | 0.835 |
+| SEC61B | **OSTC** | 0.895 |
+| SEC61B | **RPN2** | 0.936 |
+| SEC61B | **STT3A** | 0.976 |
+| SEC61B | **SSR1** | 0.98 |
+| SEC61B | **DAD1** | 0.985 |
+| SEC61B | **RPN1** | 0.99 |
+| SEC61B | **SSR3** | 0.99 |
+| SEC61B | **SSR4** | 0.994 |
+| SEC61B | **DDOST** | 0.995 |
+| SEC61B | **SSR2** | 0.996 |
+| SEC61B | **SEC61G** | 0.999 |
+| SEC61B | **SEC61A1** | 0.999 |
+| RPN2 | **DERL1** | 0.479 |
+| RPN2 | **CANX** | 0.924 |
+| RPN2 | **SSR2** | 0.932 |
+| RPN2 | **SSR3** | 0.934 |
+| RPN2 | **SSR4** | 0.964 |
+| RPN2 | **SSR1** | 0.969 |
+| RPN2 | **OSTC** | 0.984 |
+| RPN2 | **SEC61G** | 0.995 |
+| RPN2 | **SEC61A1** | 0.995 |
+| RPN2 | **STT3A** | 0.999 |
+| RPN2 | **DAD1** | 0.999 |
+| RPN2 | **OST4** | 0.999 |
+| RPN2 | **DDOST** | 0.999 |
+| RPN2 | **RPN1** | 0.999 |
+| SEC61A1 | **OST4** | 0.887 |
+| SEC61A1 | **DERL1** | 0.909 |
+| SEC61A1 | **CANX** | 0.914 |
+| SEC61A1 | **OSTC** | 0.934 |
+| SEC61A1 | **SSR4** | 0.967 |
+| SEC61A1 | **DAD1** | 0.986 |
+| SEC61A1 | **SSR1** | 0.987 |
+| SEC61A1 | **SSR3** | 0.989 |
+| SEC61A1 | **SSR2** | 0.992 |
+| SEC61A1 | **STT3A** | 0.993 |
+| SEC61A1 | **DDOST** | 0.998 |
+| SEC61A1 | **SEC61G** | 0.999 |
+| SEC61A1 | **RPN1** | 0.999 |
+| SSR1 | **DERL1** | 0.837 |
+| SSR1 | **OST4** | 0.872 |
+| SSR1 | **DAD1** | 0.883 |
+| SSR1 | **OSTC** | 0.9 |
+| SSR1 | **SEC61G** | 0.905 |
+| SSR1 | **CANX** | 0.93 |
+| SSR1 | **STT3A** | 0.94 |
+| SSR1 | **DDOST** | 0.972 |
+| SSR1 | **RPN1** | 0.981 |
+| SSR1 | **SSR3** | 0.999 |
+| SSR1 | **SSR4** | 0.999 |
+| SSR1 | **SSR2** | 0.999 |
+| CANX | **SSR4** | 0.423 |
+| CANX | **DAD1** | 0.43 |
+| CANX | **SSR3** | 0.559 |
+| CANX | **DERL1** | 0.689 |
+| CANX | **STT3A** | 0.73 |
+| CANX | **RPN1** | 0.841 |
+| CANX | **DDOST** | 0.886 |
+| DAD1 | **SEC61G** | 0.896 |
+| DAD1 | **SSR3** | 0.898 |
+| DAD1 | **SSR4** | 0.921 |
+| DAD1 | **SSR2** | 0.935 |
+| DAD1 | **OSTC** | 0.993 |
+| DAD1 | **OST4** | 0.999 |
+| DAD1 | **RPN1** | 0.999 |
+| DAD1 | **DDOST** | 0.999 |
+| DAD1 | **STT3A** | 0.999 |
+| DERL1 | **SEC61G** | 0.425 |
+| DERL1 | **RPN1** | 0.561 |
+| DERL1 | **SSR4** | 0.566 |
+| SSR2 | **OST4** | 0.853 |
+| SSR2 | **STT3A** | 0.917 |
+| SSR2 | **OSTC** | 0.924 |
+| SSR2 | **RPN1** | 0.944 |
+| SSR2 | **SEC61G** | 0.946 |
+| SSR2 | **DDOST** | 0.964 |
+| SSR2 | **SSR3** | 0.999 |
+| SSR2 | **SSR4** | 0.999 |
+| RPN1 | **SSR4** | 0.953 |
+| RPN1 | **SSR3** | 0.961 |
+| RPN1 | **OSTC** | 0.984 |
+| RPN1 | **SEC61G** | 0.996 |
+| RPN1 | **OST4** | 0.999 |
+| RPN1 | **DDOST** | 0.999 |
+| RPN1 | **STT3A** | 0.999 |
+| SSR4 | **OST4** | 0.904 |
+| SSR4 | **OSTC** | 0.918 |
+| SSR4 | **STT3A** | 0.923 |
+| SSR4 | **SEC61G** | 0.961 |
+| SSR4 | **DDOST** | 0.99 |
+| SSR4 | **SSR3** | 0.999 |
+| STT3A | **SEC61G** | 0.855 |
+| STT3A | **SSR3** | 0.94 |
+| STT3A | **OSTC** | 0.997 |
+| STT3A | **OST4** | 0.999 |
+| STT3A | **DDOST** | 0.999 |
+| SEC61G | **OST4** | 0.836 |
+| SEC61G | **OSTC** | 0.941 |
+| SEC61G | **SSR3** | 0.96 |
+| SEC61G | **DDOST** | 0.996 |
+| DDOST | **SSR3** | 0.986 |
+| DDOST | **OSTC** | 0.994 |
+| DDOST | **OST4** | 0.999 |
+| SSR3 | **OST4** | 0.923 |
+| SSR3 | **OSTC** | 0.927 |
+| OSTC | **OST4** | 0.992 |
+

@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : IL6ST
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IL6ST
+Identifiant STRING officiel : `9606.ENSP00000370698`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| OSM | **SOCS3** | 0.656 |
+| OSM | **IL27RA** | 0.841 |
+| OSM | **IL6R** | 0.85 |
+| OSM | **CNTFR** | 0.885 |
+| OSM | **CNTF** | 0.887 |
+| OSM | **JAK1** | 0.907 |
+| OSM | **STAT3** | 0.911 |
+| OSM | **JAK2** | 0.919 |
+| OSM | **IL11** | 0.936 |
+| OSM | **IL6** | 0.963 |
+| OSM | **LIF** | 0.966 |
+| OSM | **IL6ST** | 0.998 |
+| OSM | **LIFR** | 0.999 |
+| LIF | **SOCS3** | 0.691 |
+| LIF | **JAK2** | 0.725 |
+| LIF | **IL27RA** | 0.744 |
+| LIF | **JAK1** | 0.821 |
+| LIF | **IL6R** | 0.852 |
+| LIF | **STAT3** | 0.924 |
+| LIF | **IL6** | 0.927 |
+| LIF | **IL11** | 0.932 |
+| LIF | **CNTFR** | 0.938 |
+| LIF | **CNTF** | 0.945 |
+| LIF | **IL6ST** | 0.999 |
+| LIF | **LIFR** | 0.999 |
+| IL27RA | **SOCS3** | 0.59 |
+| IL27RA | **IL11** | 0.798 |
+| IL27RA | **STAT3** | 0.871 |
+| IL27RA | **IL6R** | 0.897 |
+| IL27RA | **IL6** | 0.943 |
+| IL27RA | **JAK2** | 0.953 |
+| IL27RA | **CNTF** | 0.956 |
+| IL27RA | **JAK1** | 0.978 |
+| IL27RA | **CNTFR** | 0.995 |
+| IL27RA | **IL27** | 0.999 |
+| IL27RA | **IL6ST** | 0.999 |
+| IL11 | **IL27** | 0.435 |
+| IL11 | **SOCS3** | 0.503 |
+| IL11 | **STAT3** | 0.717 |
+| IL11 | **JAK2** | 0.755 |
+| IL11 | **JAK1** | 0.837 |
+| IL11 | **CNTF** | 0.927 |
+| IL11 | **CNTFR** | 0.937 |
+| IL11 | **LIFR** | 0.939 |
+| IL11 | **IL6** | 0.959 |
+| IL11 | **IL6R** | 0.993 |
+| IL11 | **IL6ST** | 0.997 |
+| STAT3 | **CNTFR** | 0.691 |
+| STAT3 | **IL27** | 0.807 |
+| STAT3 | **CNTF** | 0.818 |
+| STAT3 | **LIFR** | 0.94 |
+| STAT3 | **PTPN11** | 0.984 |
+| STAT3 | **IL6** | 0.984 |
+| STAT3 | **IL6ST** | 0.992 |
+| STAT3 | **IL6R** | 0.993 |
+| STAT3 | **SOCS3** | 0.994 |
+| STAT3 | **JAK1** | 0.999 |
+| STAT3 | **JAK2** | 0.999 |
+| SOCS3 | **LIFR** | 0.509 |
+| SOCS3 | **IL27** | 0.514 |
+| SOCS3 | **CNTF** | 0.576 |
+| SOCS3 | **PTPN11** | 0.853 |
+| SOCS3 | **IL6R** | 0.936 |
+| SOCS3 | **IL6** | 0.947 |
+| SOCS3 | **IL6ST** | 0.992 |
+| SOCS3 | **JAK2** | 0.999 |
+| SOCS3 | **JAK1** | 0.999 |
+| IL27 | **LIFR** | 0.471 |
+| IL27 | **JAK2** | 0.605 |
+| IL27 | **JAK1** | 0.621 |
+| IL27 | **IL6R** | 0.652 |
+| IL27 | **IL6** | 0.677 |
+| IL27 | **IL6ST** | 0.996 |
+| CNTF | **JAK1** | 0.698 |
+| CNTF | **JAK2** | 0.732 |
+| CNTF | **IL6** | 0.887 |
+| CNTF | **IL6R** | 0.978 |
+| CNTF | **IL6ST** | 0.996 |
+| CNTF | **LIFR** | 0.999 |
+| CNTF | **CNTFR** | 0.999 |
+| IL6R | **LIFR** | 0.705 |
+| IL6R | **PTPN11** | 0.805 |
+| IL6R | **CNTFR** | 0.91 |
+| IL6R | **JAK2** | 0.963 |
+| IL6R | **JAK1** | 0.986 |
+| IL6R | **IL6ST** | 0.999 |
+| IL6R | **IL6** | 0.999 |
+| CNTFR | **PTPN11** | 0.464 |
+| CNTFR | **JAK1** | 0.742 |
+| CNTFR | **JAK2** | 0.769 |
+| CNTFR | **IL6** | 0.908 |
+| CNTFR | **IL6ST** | 0.986 |
+| CNTFR | **LIFR** | 0.999 |
+| IL6ST | **PTPN11** | 0.981 |
+| IL6ST | **JAK2** | 0.993 |
+| IL6ST | **LIFR** | 0.997 |
+| IL6ST | **JAK1** | 0.998 |
+| IL6ST | **IL6** | 0.999 |
+| JAK2 | **LIFR** | 0.98 |
+| JAK2 | **IL6** | 0.995 |
+| JAK2 | **PTPN11** | 0.998 |
+| JAK2 | **JAK1** | 0.999 |
+| IL6 | **PTPN11** | 0.79 |
+| IL6 | **LIFR** | 0.956 |
+| IL6 | **JAK1** | 0.996 |
+| LIFR | **PTPN11** | 0.73 |
+| LIFR | **JAK1** | 0.978 |
+| PTPN11 | **JAK1** | 0.994 |
+

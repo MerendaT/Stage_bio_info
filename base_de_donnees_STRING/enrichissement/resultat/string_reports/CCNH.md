@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CCNH
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CCNH
+Identifiant STRING officiel : `9606.ENSP00000498750`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDK7 | **GTF2E2** | 0.989 |
+| CDK7 | **CDK9** | 0.99 |
+| CDK7 | **CDK2** | 0.992 |
+| CDK7 | **CCNT1** | 0.993 |
+| CDK7 | **GTF2E1** | 0.994 |
+| CDK7 | **GTF2H5** | 0.997 |
+| CDK7 | **POLR2A** | 0.999 |
+| CDK7 | **GTF2H3** | 0.999 |
+| CDK7 | **CCNH** | 0.999 |
+| CDK7 | **ERCC3** | 0.999 |
+| CDK7 | **GTF2H4** | 0.999 |
+| CDK7 | **MNAT1** | 0.999 |
+| CDK7 | **GTF2H2** | 0.999 |
+| CDK7 | **ERCC2** | 0.999 |
+| CDK7 | **GTF2H1** | 0.999 |
+| GTF2H4 | **CCNT1** | 0.904 |
+| GTF2H4 | **CDK9** | 0.92 |
+| GTF2H4 | **POLR2A** | 0.988 |
+| GTF2H4 | **MNAT1** | 0.999 |
+| GTF2H4 | **ERCC2** | 0.999 |
+| GTF2H4 | **GTF2H2** | 0.999 |
+| GTF2H4 | **GTF2H1** | 0.999 |
+| GTF2H4 | **GTF2H3** | 0.999 |
+| GTF2H4 | **GTF2H5** | 0.999 |
+| GTF2H4 | **ERCC3** | 0.999 |
+| GTF2H4 | **CCNH** | 0.999 |
+| GTF2H4 | **GTF2E1** | 0.999 |
+| GTF2H4 | **GTF2E2** | 0.999 |
+| MNAT1 | **CDK2** | 0.658 |
+| MNAT1 | **CDK9** | 0.934 |
+| MNAT1 | **CCNT1** | 0.934 |
+| MNAT1 | **GTF2H5** | 0.981 |
+| MNAT1 | **POLR2A** | 0.988 |
+| MNAT1 | **GTF2E2** | 0.997 |
+| MNAT1 | **GTF2E1** | 0.997 |
+| MNAT1 | **GTF2H1** | 0.999 |
+| MNAT1 | **ERCC2** | 0.999 |
+| MNAT1 | **GTF2H2** | 0.999 |
+| MNAT1 | **ERCC3** | 0.999 |
+| MNAT1 | **CCNH** | 0.999 |
+| MNAT1 | **GTF2H3** | 0.999 |
+| CCNT1 | **GTF2H5** | 0.549 |
+| CCNT1 | **GTF2E1** | 0.625 |
+| CCNT1 | **GTF2E2** | 0.648 |
+| CCNT1 | **CDK2** | 0.779 |
+| CCNT1 | **ERCC2** | 0.907 |
+| CCNT1 | **GTF2H2** | 0.908 |
+| CCNT1 | **GTF2H3** | 0.916 |
+| CCNT1 | **GTF2H1** | 0.917 |
+| CCNT1 | **ERCC3** | 0.919 |
+| CCNT1 | **POLR2A** | 0.942 |
+| CCNT1 | **CCNH** | 0.989 |
+| CCNT1 | **CDK9** | 0.999 |
+| GTF2H1 | **CDK9** | 0.929 |
+| GTF2H1 | **POLR2A** | 0.996 |
+| GTF2H1 | **GTF2E2** | 0.996 |
+| GTF2H1 | **GTF2H2** | 0.999 |
+| GTF2H1 | **ERCC2** | 0.999 |
+| GTF2H1 | **CCNH** | 0.999 |
+| GTF2H1 | **GTF2E1** | 0.999 |
+| GTF2H1 | **ERCC3** | 0.999 |
+| GTF2H1 | **GTF2H5** | 0.999 |
+| GTF2H1 | **GTF2H3** | 0.999 |
+| CDK2 | **GTF2H5** | 0.403 |
+| CDK2 | **POLR2A** | 0.774 |
+| CDK2 | **CCNH** | 0.998 |
+| GTF2H2 | **CDK9** | 0.919 |
+| GTF2H2 | **POLR2A** | 0.974 |
+| GTF2H2 | **GTF2E2** | 0.997 |
+| GTF2H2 | **GTF2E1** | 0.998 |
+| GTF2H2 | **GTF2H3** | 0.999 |
+| GTF2H2 | **GTF2H5** | 0.999 |
+| GTF2H2 | **CCNH** | 0.999 |
+| GTF2H2 | **ERCC3** | 0.999 |
+| GTF2H2 | **ERCC2** | 0.999 |
+| GTF2E1 | **CDK9** | 0.669 |
+| GTF2E1 | **GTF2H5** | 0.99 |
+| GTF2E1 | **CCNH** | 0.997 |
+| GTF2E1 | **ERCC2** | 0.999 |
+| GTF2E1 | **GTF2E2** | 0.999 |
+| GTF2E1 | **ERCC3** | 0.999 |
+| GTF2E1 | **POLR2A** | 0.999 |
+| GTF2E1 | **GTF2H3** | 0.999 |
+| ERCC3 | **CDK9** | 0.933 |
+| ERCC3 | **POLR2A** | 0.998 |
+| ERCC3 | **GTF2H3** | 0.999 |
+| ERCC3 | **GTF2H5** | 0.999 |
+| ERCC3 | **CCNH** | 0.999 |
+| ERCC3 | **GTF2E2** | 0.999 |
+| ERCC3 | **ERCC2** | 0.999 |
+| GTF2E2 | **CDK9** | 0.581 |
+| GTF2E2 | **POLR2A** | 0.986 |
+| GTF2E2 | **GTF2H5** | 0.988 |
+| GTF2E2 | **CCNH** | 0.996 |
+| GTF2E2 | **ERCC2** | 0.999 |
+| GTF2E2 | **GTF2H3** | 0.999 |
+| CDK9 | **GTF2H5** | 0.588 |
+| CDK9 | **GTF2H3** | 0.918 |
+| CDK9 | **ERCC2** | 0.918 |
+| CDK9 | **CCNH** | 0.991 |
+| CDK9 | **POLR2A** | 0.995 |
+| ERCC2 | **POLR2A** | 0.98 |
+| ERCC2 | **CCNH** | 0.999 |
+| ERCC2 | **GTF2H5** | 0.999 |
+| ERCC2 | **GTF2H3** | 0.999 |
+| GTF2H3 | **POLR2A** | 0.99 |
+| GTF2H3 | **GTF2H5** | 0.999 |
+| GTF2H3 | **CCNH** | 0.999 |
+| POLR2A | **GTF2H5** | 0.956 |
+| POLR2A | **CCNH** | 0.988 |
+| GTF2H5 | **CCNH** | 0.997 |
+

@@ -1,0 +1,195 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9HCN8",
+      "uniProtkbId": "SDF2L_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SDF2L1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255",
+                    "source": "PROSITE-ProRule",
+                    "id": "PRU10138"
+                  }
+                ],
+                "value": "Endoplasmic reticulum lumen",
+                "id": "SL-0096"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28597544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034663",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum chaperone complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0101031",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:protein folding chaperone complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "28597544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051117",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATPase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051787",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:misfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28597544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-folding chaperone binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042026",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein refolding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "28597544"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000048F31"
+      }
+    }
+  ]
+}

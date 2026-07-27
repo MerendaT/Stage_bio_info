@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : AKT1S1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : AKT1S1
+Identifiant STRING officiel : `9606.ENSP00000375711`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPS6KB1 | **TTI1** | 0.455 |
+| RPS6KB1 | **FKBP8** | 0.633 |
+| RPS6KB1 | **RRAGC** | 0.858 |
+| RPS6KB1 | **RRAGA** | 0.864 |
+| RPS6KB1 | **MAPKAP1** | 0.883 |
+| RPS6KB1 | **RPS6KB2** | 0.913 |
+| RPS6KB1 | **RHEB** | 0.968 |
+| RPS6KB1 | **EIF4EBP1** | 0.972 |
+| RPS6KB1 | **RICTOR** | 0.981 |
+| RPS6KB1 | **AKT1** | 0.982 |
+| RPS6KB1 | **AKT1S1** | 0.99 |
+| RPS6KB1 | **DEPTOR** | 0.991 |
+| RPS6KB1 | **MLST8** | 0.991 |
+| RPS6KB1 | **RPTOR** | 0.999 |
+| RPS6KB1 | **MTOR** | 0.999 |
+| RHEB | **TTI1** | 0.493 |
+| RHEB | **MAPKAP1** | 0.763 |
+| RHEB | **RICTOR** | 0.886 |
+| RHEB | **RPS6KB2** | 0.904 |
+| RHEB | **AKT1** | 0.947 |
+| RHEB | **FKBP8** | 0.951 |
+| RHEB | **RRAGA** | 0.969 |
+| RHEB | **RRAGC** | 0.971 |
+| RHEB | **EIF4EBP1** | 0.979 |
+| RHEB | **DEPTOR** | 0.988 |
+| RHEB | **AKT1S1** | 0.997 |
+| RHEB | **RPTOR** | 0.999 |
+| RHEB | **MTOR** | 0.999 |
+| RHEB | **MLST8** | 0.999 |
+| MAPKAP1 | **FKBP8** | 0.438 |
+| MAPKAP1 | **RRAGA** | 0.502 |
+| MAPKAP1 | **RRAGC** | 0.537 |
+| MAPKAP1 | **EIF4EBP1** | 0.753 |
+| MAPKAP1 | **RPS6KB2** | 0.776 |
+| MAPKAP1 | **AKT1** | 0.976 |
+| MAPKAP1 | **RPTOR** | 0.996 |
+| MAPKAP1 | **TTI1** | 0.997 |
+| MAPKAP1 | **AKT1S1** | 0.998 |
+| MAPKAP1 | **MLST8** | 0.999 |
+| MAPKAP1 | **DEPTOR** | 0.999 |
+| MAPKAP1 | **RICTOR** | 0.999 |
+| MAPKAP1 | **MTOR** | 0.999 |
+| DEPTOR | **AKT1** | 0.687 |
+| DEPTOR | **EIF4EBP1** | 0.691 |
+| DEPTOR | **RRAGC** | 0.843 |
+| DEPTOR | **RRAGA** | 0.89 |
+| DEPTOR | **FKBP8** | 0.955 |
+| DEPTOR | **RPS6KB2** | 0.956 |
+| DEPTOR | **TTI1** | 0.995 |
+| DEPTOR | **AKT1S1** | 0.999 |
+| DEPTOR | **RPTOR** | 0.999 |
+| DEPTOR | **MTOR** | 0.999 |
+| DEPTOR | **RICTOR** | 0.999 |
+| DEPTOR | **MLST8** | 0.999 |
+| RICTOR | **RRAGA** | 0.724 |
+| RICTOR | **RRAGC** | 0.727 |
+| RICTOR | **RPS6KB2** | 0.804 |
+| RICTOR | **FKBP8** | 0.81 |
+| RICTOR | **EIF4EBP1** | 0.884 |
+| RICTOR | **AKT1** | 0.992 |
+| RICTOR | **AKT1S1** | 0.993 |
+| RICTOR | **MLST8** | 0.999 |
+| RICTOR | **TTI1** | 0.999 |
+| RICTOR | **MTOR** | 0.999 |
+| RICTOR | **RPTOR** | 0.999 |
+| RPTOR | **RPS6KB2** | 0.993 |
+| RPTOR | **FKBP8** | 0.995 |
+| RPTOR | **AKT1** | 0.996 |
+| RPTOR | **AKT1S1** | 0.999 |
+| RPTOR | **RRAGA** | 0.999 |
+| RPTOR | **MTOR** | 0.999 |
+| RPTOR | **RRAGC** | 0.999 |
+| RPTOR | **TTI1** | 0.999 |
+| RPTOR | **MLST8** | 0.999 |
+| RPTOR | **EIF4EBP1** | 0.999 |
+| RPS6KB2 | **RRAGA** | 0.507 |
+| RPS6KB2 | **RRAGC** | 0.537 |
+| RPS6KB2 | **FKBP8** | 0.638 |
+| RPS6KB2 | **EIF4EBP1** | 0.837 |
+| RPS6KB2 | **AKT1** | 0.949 |
+| RPS6KB2 | **AKT1S1** | 0.972 |
+| RPS6KB2 | **MLST8** | 0.975 |
+| RPS6KB2 | **MTOR** | 0.995 |
+| EIF4EBP1 | **RRAGA** | 0.791 |
+| EIF4EBP1 | **RRAGC** | 0.793 |
+| EIF4EBP1 | **AKT1** | 0.925 |
+| EIF4EBP1 | **AKT1S1** | 0.977 |
+| EIF4EBP1 | **MLST8** | 0.998 |
+| EIF4EBP1 | **MTOR** | 0.999 |
+| MTOR | **FKBP8** | 0.952 |
+| MTOR | **RRAGA** | 0.999 |
+| MTOR | **AKT1S1** | 0.999 |
+| MTOR | **RRAGC** | 0.999 |
+| MTOR | **AKT1** | 0.999 |
+| MTOR | **TTI1** | 0.999 |
+| MTOR | **MLST8** | 0.999 |
+| RRAGC | **FKBP8** | 0.495 |
+| RRAGC | **AKT1** | 0.666 |
+| RRAGC | **MLST8** | 0.984 |
+| RRAGC | **AKT1S1** | 0.991 |
+| RRAGC | **RRAGA** | 0.999 |
+| TTI1 | **AKT1S1** | 0.993 |
+| TTI1 | **MLST8** | 0.999 |
+| RRAGA | **FKBP8** | 0.445 |
+| RRAGA | **AKT1** | 0.675 |
+| RRAGA | **MLST8** | 0.985 |
+| RRAGA | **AKT1S1** | 0.994 |
+| AKT1S1 | **FKBP8** | 0.991 |
+| AKT1S1 | **AKT1** | 0.995 |
+| AKT1S1 | **MLST8** | 0.999 |
+| AKT1 | **FKBP8** | 0.527 |
+| AKT1 | **MLST8** | 0.956 |
+| MLST8 | **FKBP8** | 0.996 |
+

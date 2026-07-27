@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SRSF11
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRSF11
+Identifiant STRING officiel : `9606.ENSP00000359988`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PNN | **SRSF9** | 0.45 |
+| PNN | **SRSF7** | 0.456 |
+| PNN | **SRSF6** | 0.471 |
+| PNN | **SRSF5** | 0.516 |
+| PNN | **SRSF3** | 0.529 |
+| PNN | **SRSF1** | 0.575 |
+| PNN | **SRSF4** | 0.76 |
+| PNN | **RBM39** | 0.804 |
+| PNN | **RBM25** | 0.812 |
+| PNN | **TRA2B** | 0.837 |
+| PNN | **SREK1** | 0.845 |
+| PNN | **SRSF11** | 0.942 |
+| PNN | **PNISR** | 0.951 |
+| PNN | **SRRM1** | 0.979 |
+| PNN | **RNPS1** | 0.999 |
+| SRSF9 | **SREK1** | 0.489 |
+| SRSF9 | **RBM25** | 0.653 |
+| SRSF9 | **RBM39** | 0.664 |
+| SRSF9 | **SRRM1** | 0.78 |
+| SRSF9 | **RNPS1** | 0.828 |
+| SRSF9 | **SRSF4** | 0.854 |
+| SRSF9 | **SRSF5** | 0.862 |
+| SRSF9 | **SRSF11** | 0.962 |
+| SRSF9 | **SRSF6** | 0.963 |
+| SRSF9 | **SRSF3** | 0.968 |
+| SRSF9 | **SRSF1** | 0.984 |
+| SRSF9 | **SRSF7** | 0.99 |
+| SRSF9 | **TRA2B** | 0.995 |
+| SRSF6 | **PNISR** | 0.56 |
+| SRSF6 | **RBM39** | 0.705 |
+| SRSF6 | **SREK1** | 0.794 |
+| SRSF6 | **RBM25** | 0.886 |
+| SRSF6 | **RNPS1** | 0.905 |
+| SRSF6 | **SRSF5** | 0.919 |
+| SRSF6 | **SRRM1** | 0.92 |
+| SRSF6 | **SRSF11** | 0.952 |
+| SRSF6 | **SRSF4** | 0.973 |
+| SRSF6 | **SRSF7** | 0.978 |
+| SRSF6 | **SRSF1** | 0.987 |
+| SRSF6 | **TRA2B** | 0.987 |
+| SRSF6 | **SRSF3** | 0.991 |
+| RBM39 | **SRSF4** | 0.553 |
+| RBM39 | **SRSF7** | 0.615 |
+| RBM39 | **TRA2B** | 0.679 |
+| RBM39 | **RNPS1** | 0.788 |
+| RBM39 | **SREK1** | 0.796 |
+| RBM39 | **PNISR** | 0.805 |
+| RBM39 | **SRSF3** | 0.828 |
+| RBM39 | **SRSF1** | 0.83 |
+| RBM39 | **SRSF5** | 0.895 |
+| RBM39 | **SRRM1** | 0.934 |
+| RBM39 | **SRSF11** | 0.982 |
+| RBM39 | **RBM25** | 0.985 |
+| SRSF1 | **PNISR** | 0.488 |
+| SRSF1 | **RBM25** | 0.718 |
+| SRSF1 | **SREK1** | 0.803 |
+| SRSF1 | **SRSF5** | 0.917 |
+| SRSF1 | **SRSF11** | 0.942 |
+| SRSF1 | **RNPS1** | 0.955 |
+| SRSF1 | **SRRM1** | 0.964 |
+| SRSF1 | **SRSF4** | 0.973 |
+| SRSF1 | **SRSF3** | 0.994 |
+| SRSF1 | **SRSF7** | 0.997 |
+| SRSF1 | **TRA2B** | 0.997 |
+| RBM25 | **SRSF3** | 0.477 |
+| RBM25 | **SRSF7** | 0.536 |
+| RBM25 | **RNPS1** | 0.541 |
+| RBM25 | **TRA2B** | 0.59 |
+| RBM25 | **PNISR** | 0.713 |
+| RBM25 | **SREK1** | 0.861 |
+| RBM25 | **SRSF4** | 0.884 |
+| RBM25 | **SRSF5** | 0.926 |
+| RBM25 | **SRSF11** | 0.967 |
+| RBM25 | **SRRM1** | 0.999 |
+| SRSF7 | **PNISR** | 0.428 |
+| SRSF7 | **SREK1** | 0.507 |
+| SRSF7 | **SRRM1** | 0.76 |
+| SRSF7 | **RNPS1** | 0.841 |
+| SRSF7 | **SRSF4** | 0.903 |
+| SRSF7 | **SRSF5** | 0.933 |
+| SRSF7 | **SRSF11** | 0.962 |
+| SRSF7 | **TRA2B** | 0.995 |
+| SRSF7 | **SRSF3** | 0.997 |
+| SRRM1 | **SREK1** | 0.497 |
+| SRRM1 | **PNISR** | 0.571 |
+| SRRM1 | **TRA2B** | 0.778 |
+| SRRM1 | **SRSF5** | 0.864 |
+| SRRM1 | **SRSF3** | 0.904 |
+| SRRM1 | **SRSF4** | 0.974 |
+| SRRM1 | **SRSF11** | 0.984 |
+| SRRM1 | **RNPS1** | 0.999 |
+| SREK1 | **SRSF5** | 0.57 |
+| SREK1 | **TRA2B** | 0.584 |
+| SREK1 | **RNPS1** | 0.604 |
+| SREK1 | **SRSF4** | 0.648 |
+| SREK1 | **PNISR** | 0.771 |
+| SREK1 | **SRSF11** | 0.933 |
+| SREK1 | **SRSF3** | 0.934 |
+| SRSF11 | **TRA2B** | 0.925 |
+| SRSF11 | **PNISR** | 0.945 |
+| SRSF11 | **SRSF4** | 0.951 |
+| SRSF11 | **SRSF3** | 0.954 |
+| SRSF11 | **SRSF5** | 0.969 |
+| SRSF11 | **RNPS1** | 0.982 |
+| SRSF3 | **PNISR** | 0.448 |
+| SRSF3 | **RNPS1** | 0.781 |
+| SRSF3 | **SRSF4** | 0.945 |
+| SRSF3 | **SRSF5** | 0.958 |
+| SRSF3 | **TRA2B** | 0.998 |
+| SRSF4 | **PNISR** | 0.446 |
+| SRSF4 | **SRSF5** | 0.859 |
+| SRSF4 | **TRA2B** | 0.891 |
+| SRSF4 | **RNPS1** | 0.927 |
+| TRA2B | **PNISR** | 0.514 |
+| TRA2B | **RNPS1** | 0.795 |
+| TRA2B | **SRSF5** | 0.82 |
+| SRSF5 | **PNISR** | 0.649 |
+| SRSF5 | **RNPS1** | 0.769 |
+| RNPS1 | **PNISR** | 0.446 |
+

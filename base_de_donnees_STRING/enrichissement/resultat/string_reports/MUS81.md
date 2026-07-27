@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MUS81
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MUS81
+Identifiant STRING officiel : `9606.ENSP00000307853`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ERCC1 | **GEN1** | 0.574 |
+| ERCC1 | **EME2** | 0.651 |
+| ERCC1 | **TOP3A** | 0.655 |
+| ERCC1 | **RMI1** | 0.657 |
+| ERCC1 | **BLM** | 0.701 |
+| ERCC1 | **EXO1** | 0.848 |
+| ERCC1 | **WRN** | 0.855 |
+| ERCC1 | **RAD51** | 0.908 |
+| ERCC1 | **EME1** | 0.931 |
+| ERCC1 | **FANCM** | 0.933 |
+| ERCC1 | **RAD52** | 0.974 |
+| ERCC1 | **SLX1A** | 0.994 |
+| ERCC1 | **MUS81** | 0.998 |
+| ERCC1 | **ERCC4** | 0.999 |
+| ERCC1 | **SLX4** | 0.999 |
+| SLX1A | **EME2** | 0.679 |
+| SLX1A | **RAD52** | 0.721 |
+| SLX1A | **RAD51** | 0.85 |
+| SLX1A | **EXO1** | 0.854 |
+| SLX1A | **FANCM** | 0.871 |
+| SLX1A | **BLM** | 0.877 |
+| SLX1A | **GEN1** | 0.886 |
+| SLX1A | **RMI1** | 0.896 |
+| SLX1A | **WRN** | 0.905 |
+| SLX1A | **TOP3A** | 0.907 |
+| SLX1A | **EME1** | 0.997 |
+| SLX1A | **ERCC4** | 0.998 |
+| SLX1A | **MUS81** | 0.999 |
+| SLX1A | **SLX4** | 0.999 |
+| FANCM | **EME2** | 0.807 |
+| FANCM | **EXO1** | 0.815 |
+| FANCM | **GEN1** | 0.82 |
+| FANCM | **EME1** | 0.863 |
+| FANCM | **ERCC4** | 0.895 |
+| FANCM | **SLX4** | 0.938 |
+| FANCM | **RAD51** | 0.973 |
+| FANCM | **RAD52** | 0.99 |
+| FANCM | **MUS81** | 0.994 |
+| FANCM | **WRN** | 0.994 |
+| FANCM | **TOP3A** | 0.999 |
+| FANCM | **RMI1** | 0.999 |
+| FANCM | **BLM** | 0.999 |
+| SLX4 | **EME2** | 0.733 |
+| SLX4 | **RAD52** | 0.748 |
+| SLX4 | **BLM** | 0.771 |
+| SLX4 | **TOP3A** | 0.818 |
+| SLX4 | **WRN** | 0.826 |
+| SLX4 | **RMI1** | 0.833 |
+| SLX4 | **EXO1** | 0.847 |
+| SLX4 | **RAD51** | 0.853 |
+| SLX4 | **GEN1** | 0.908 |
+| SLX4 | **MUS81** | 0.999 |
+| SLX4 | **EME1** | 0.999 |
+| SLX4 | **ERCC4** | 0.999 |
+| WRN | **EME2** | 0.626 |
+| WRN | **EME1** | 0.707 |
+| WRN | **BLM** | 0.802 |
+| WRN | **GEN1** | 0.847 |
+| WRN | **ERCC4** | 0.863 |
+| WRN | **MUS81** | 0.966 |
+| WRN | **RMI1** | 0.971 |
+| WRN | **RAD51** | 0.993 |
+| WRN | **TOP3A** | 0.996 |
+| WRN | **RAD52** | 0.996 |
+| WRN | **EXO1** | 0.998 |
+| MUS81 | **GEN1** | 0.939 |
+| MUS81 | **EXO1** | 0.939 |
+| MUS81 | **TOP3A** | 0.955 |
+| MUS81 | **RMI1** | 0.955 |
+| MUS81 | **BLM** | 0.964 |
+| MUS81 | **RAD52** | 0.976 |
+| MUS81 | **RAD51** | 0.986 |
+| MUS81 | **ERCC4** | 0.994 |
+| MUS81 | **EME2** | 0.999 |
+| MUS81 | **EME1** | 0.999 |
+| ERCC4 | **GEN1** | 0.643 |
+| ERCC4 | **TOP3A** | 0.794 |
+| ERCC4 | **BLM** | 0.819 |
+| ERCC4 | **RMI1** | 0.82 |
+| ERCC4 | **EXO1** | 0.83 |
+| ERCC4 | **EME2** | 0.905 |
+| ERCC4 | **RAD51** | 0.927 |
+| ERCC4 | **EME1** | 0.96 |
+| ERCC4 | **RAD52** | 0.962 |
+| RMI1 | **EME2** | 0.666 |
+| RMI1 | **EME1** | 0.857 |
+| RMI1 | **GEN1** | 0.883 |
+| RMI1 | **RAD52** | 0.932 |
+| RMI1 | **EXO1** | 0.942 |
+| RMI1 | **RAD51** | 0.956 |
+| RMI1 | **BLM** | 0.999 |
+| RMI1 | **TOP3A** | 0.999 |
+| TOP3A | **EME2** | 0.615 |
+| TOP3A | **GEN1** | 0.821 |
+| TOP3A | **EME1** | 0.843 |
+| TOP3A | **RAD52** | 0.901 |
+| TOP3A | **EXO1** | 0.944 |
+| TOP3A | **RAD51** | 0.968 |
+| TOP3A | **BLM** | 0.999 |
+| BLM | **EME2** | 0.522 |
+| BLM | **EME1** | 0.773 |
+| BLM | **GEN1** | 0.775 |
+| BLM | **RAD52** | 0.958 |
+| BLM | **RAD51** | 0.998 |
+| BLM | **EXO1** | 0.998 |
+| RAD52 | **EME1** | 0.688 |
+| RAD52 | **GEN1** | 0.706 |
+| RAD52 | **EXO1** | 0.962 |
+| RAD52 | **RAD51** | 0.999 |
+| EXO1 | **EME2** | 0.718 |
+| EXO1 | **GEN1** | 0.72 |
+| EXO1 | **EME1** | 0.915 |
+| EXO1 | **RAD51** | 0.997 |
+| GEN1 | **EME2** | 0.678 |
+| GEN1 | **RAD51** | 0.821 |
+| GEN1 | **EME1** | 0.931 |
+| EME1 | **RAD51** | 0.881 |
+| EME1 | **EME2** | 0.985 |
+| EME2 | **RAD51** | 0.603 |
+

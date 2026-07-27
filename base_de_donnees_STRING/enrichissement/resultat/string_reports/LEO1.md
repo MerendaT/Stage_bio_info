@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LEO1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LEO1
+Identifiant STRING officiel : `9606.ENSP00000299601`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SUPT16H | **ERCC6** | 0.672 |
+| SUPT16H | **ELOA** | 0.722 |
+| SUPT16H | **WDR61** | 0.729 |
+| SUPT16H | **TCEA2** | 0.878 |
+| SUPT16H | **POLR2B** | 0.988 |
+| SUPT16H | **SUPT4H1** | 0.991 |
+| SUPT16H | **PAF1** | 0.994 |
+| SUPT16H | **POLR2A** | 0.994 |
+| SUPT16H | **CDC73** | 0.995 |
+| SUPT16H | **LEO1** | 0.997 |
+| SUPT16H | **CTR9** | 0.997 |
+| SUPT16H | **RTF1** | 0.997 |
+| SUPT16H | **SUPT6H** | 0.997 |
+| SUPT16H | **SUPT5H** | 0.998 |
+| SUPT16H | **SSRP1** | 0.999 |
+| PAF1 | **ELOA** | 0.927 |
+| PAF1 | **TCEA2** | 0.939 |
+| PAF1 | **POLR2B** | 0.96 |
+| PAF1 | **SUPT6H** | 0.978 |
+| PAF1 | **ERCC6** | 0.981 |
+| PAF1 | **SSRP1** | 0.985 |
+| PAF1 | **SUPT4H1** | 0.994 |
+| PAF1 | **POLR2A** | 0.996 |
+| PAF1 | **WDR61** | 0.998 |
+| PAF1 | **CDC73** | 0.999 |
+| PAF1 | **SUPT5H** | 0.999 |
+| PAF1 | **CTR9** | 0.999 |
+| PAF1 | **RTF1** | 0.999 |
+| PAF1 | **LEO1** | 0.999 |
+| SUPT4H1 | **ELOA** | 0.918 |
+| SUPT4H1 | **SSRP1** | 0.961 |
+| SUPT4H1 | **ERCC6** | 0.977 |
+| SUPT4H1 | **WDR61** | 0.986 |
+| SUPT4H1 | **TCEA2** | 0.993 |
+| SUPT4H1 | **CTR9** | 0.996 |
+| SUPT4H1 | **CDC73** | 0.996 |
+| SUPT4H1 | **LEO1** | 0.997 |
+| SUPT4H1 | **RTF1** | 0.998 |
+| SUPT4H1 | **SUPT6H** | 0.999 |
+| SUPT4H1 | **POLR2B** | 0.999 |
+| SUPT4H1 | **SUPT5H** | 0.999 |
+| SUPT4H1 | **POLR2A** | 0.999 |
+| SSRP1 | **ERCC6** | 0.628 |
+| SSRP1 | **WDR61** | 0.729 |
+| SSRP1 | **ELOA** | 0.757 |
+| SSRP1 | **TCEA2** | 0.761 |
+| SSRP1 | **POLR2B** | 0.925 |
+| SSRP1 | **CDC73** | 0.968 |
+| SSRP1 | **POLR2A** | 0.982 |
+| SSRP1 | **CTR9** | 0.989 |
+| SSRP1 | **SUPT5H** | 0.989 |
+| SSRP1 | **LEO1** | 0.991 |
+| SSRP1 | **RTF1** | 0.992 |
+| SSRP1 | **SUPT6H** | 0.993 |
+| LEO1 | **POLR2B** | 0.976 |
+| LEO1 | **TCEA2** | 0.981 |
+| LEO1 | **SUPT6H** | 0.983 |
+| LEO1 | **ELOA** | 0.984 |
+| LEO1 | **ERCC6** | 0.985 |
+| LEO1 | **POLR2A** | 0.987 |
+| LEO1 | **RTF1** | 0.999 |
+| LEO1 | **CTR9** | 0.999 |
+| LEO1 | **SUPT5H** | 0.999 |
+| LEO1 | **CDC73** | 0.999 |
+| LEO1 | **WDR61** | 0.999 |
+| SUPT6H | **ELOA** | 0.757 |
+| SUPT6H | **TCEA2** | 0.922 |
+| SUPT6H | **ERCC6** | 0.928 |
+| SUPT6H | **WDR61** | 0.93 |
+| SUPT6H | **POLR2B** | 0.982 |
+| SUPT6H | **CDC73** | 0.985 |
+| SUPT6H | **RTF1** | 0.989 |
+| SUPT6H | **CTR9** | 0.994 |
+| SUPT6H | **POLR2A** | 0.999 |
+| SUPT6H | **SUPT5H** | 0.999 |
+| TCEA2 | **POLR2A** | 0.936 |
+| TCEA2 | **WDR61** | 0.936 |
+| TCEA2 | **ERCC6** | 0.951 |
+| TCEA2 | **POLR2B** | 0.957 |
+| TCEA2 | **CTR9** | 0.96 |
+| TCEA2 | **ELOA** | 0.968 |
+| TCEA2 | **CDC73** | 0.969 |
+| TCEA2 | **RTF1** | 0.97 |
+| TCEA2 | **SUPT5H** | 0.995 |
+| ERCC6 | **RTF1** | 0.919 |
+| ERCC6 | **SUPT5H** | 0.948 |
+| ERCC6 | **ELOA** | 0.953 |
+| ERCC6 | **WDR61** | 0.983 |
+| ERCC6 | **CDC73** | 0.983 |
+| ERCC6 | **CTR9** | 0.984 |
+| ERCC6 | **POLR2B** | 0.997 |
+| ERCC6 | **POLR2A** | 0.999 |
+| CTR9 | **POLR2B** | 0.971 |
+| CTR9 | **ELOA** | 0.977 |
+| CTR9 | **POLR2A** | 0.998 |
+| CTR9 | **WDR61** | 0.999 |
+| CTR9 | **SUPT5H** | 0.999 |
+| CTR9 | **CDC73** | 0.999 |
+| CTR9 | **RTF1** | 0.999 |
+| CDC73 | **ELOA** | 0.945 |
+| CDC73 | **POLR2B** | 0.98 |
+| CDC73 | **RTF1** | 0.999 |
+| CDC73 | **SUPT5H** | 0.999 |
+| CDC73 | **WDR61** | 0.999 |
+| CDC73 | **POLR2A** | 0.999 |
+| POLR2B | **ELOA** | 0.787 |
+| POLR2B | **WDR61** | 0.828 |
+| POLR2B | **RTF1** | 0.982 |
+| POLR2B | **POLR2A** | 0.999 |
+| POLR2B | **SUPT5H** | 0.999 |
+| RTF1 | **ELOA** | 0.917 |
+| RTF1 | **POLR2A** | 0.993 |
+| RTF1 | **WDR61** | 0.999 |
+| RTF1 | **SUPT5H** | 0.999 |
+| ELOA | **POLR2A** | 0.907 |
+| ELOA | **SUPT5H** | 0.943 |
+| ELOA | **WDR61** | 0.952 |
+| WDR61 | **POLR2A** | 0.838 |
+| WDR61 | **SUPT5H** | 0.994 |
+| POLR2A | **SUPT5H** | 0.999 |
+

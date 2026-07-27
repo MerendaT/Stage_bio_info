@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NAF1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NAF1
+Identifiant STRING officiel : `9606.ENSP00000274054`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GAR1 | **POP5** | 0.727 |
+| GAR1 | **RPP25** | 0.738 |
+| GAR1 | **SNRNP40** | 0.74 |
+| GAR1 | **POP1** | 0.748 |
+| GAR1 | **POP7** | 0.758 |
+| GAR1 | **RPP30** | 0.79 |
+| GAR1 | **RRP9** | 0.825 |
+| GAR1 | **MPHOSPH10** | 0.868 |
+| GAR1 | **NAF1** | 0.926 |
+| GAR1 | **SNU13** | 0.965 |
+| GAR1 | **NOP58** | 0.985 |
+| GAR1 | **SHQ1** | 0.995 |
+| GAR1 | **NHP2** | 0.999 |
+| GAR1 | **NOP10** | 0.999 |
+| GAR1 | **DKC1** | 0.999 |
+| RRP9 | **SHQ1** | 0.446 |
+| RRP9 | **DKC1** | 0.89 |
+| RRP9 | **RPP30** | 0.911 |
+| RRP9 | **POP1** | 0.914 |
+| RRP9 | **RPP25** | 0.916 |
+| RRP9 | **POP5** | 0.919 |
+| RRP9 | **SNRNP40** | 0.922 |
+| RRP9 | **POP7** | 0.926 |
+| RRP9 | **NAF1** | 0.93 |
+| RRP9 | **NOP10** | 0.941 |
+| RRP9 | **NHP2** | 0.943 |
+| RRP9 | **NOP58** | 0.999 |
+| RRP9 | **SNU13** | 0.999 |
+| RRP9 | **MPHOSPH10** | 0.999 |
+| MPHOSPH10 | **DKC1** | 0.879 |
+| MPHOSPH10 | **POP7** | 0.901 |
+| MPHOSPH10 | **SNRNP40** | 0.906 |
+| MPHOSPH10 | **POP5** | 0.906 |
+| MPHOSPH10 | **NHP2** | 0.908 |
+| MPHOSPH10 | **POP1** | 0.909 |
+| MPHOSPH10 | **RPP25** | 0.924 |
+| MPHOSPH10 | **NOP10** | 0.929 |
+| MPHOSPH10 | **NAF1** | 0.94 |
+| MPHOSPH10 | **RPP30** | 0.942 |
+| MPHOSPH10 | **SNU13** | 0.998 |
+| MPHOSPH10 | **NOP58** | 0.999 |
+| SNRNP40 | **NHP2** | 0.769 |
+| SNRNP40 | **DKC1** | 0.793 |
+| SNRNP40 | **RPP25** | 0.9 |
+| SNRNP40 | **POP1** | 0.902 |
+| SNRNP40 | **POP7** | 0.902 |
+| SNRNP40 | **NAF1** | 0.903 |
+| SNRNP40 | **NOP10** | 0.905 |
+| SNRNP40 | **RPP30** | 0.906 |
+| SNRNP40 | **POP5** | 0.911 |
+| SNRNP40 | **NOP58** | 0.915 |
+| SNRNP40 | **SNU13** | 0.967 |
+| NOP58 | **SHQ1** | 0.75 |
+| NOP58 | **POP1** | 0.901 |
+| NOP58 | **POP7** | 0.904 |
+| NOP58 | **POP5** | 0.913 |
+| NOP58 | **RPP25** | 0.919 |
+| NOP58 | **NAF1** | 0.927 |
+| NOP58 | **RPP30** | 0.956 |
+| NOP58 | **NOP10** | 0.984 |
+| NOP58 | **DKC1** | 0.999 |
+| NOP58 | **SNU13** | 0.999 |
+| NOP58 | **NHP2** | 0.999 |
+| NAF1 | **SNU13** | 0.83 |
+| NAF1 | **SHQ1** | 0.878 |
+| NAF1 | **POP5** | 0.9 |
+| NAF1 | **POP7** | 0.902 |
+| NAF1 | **RPP25** | 0.903 |
+| NAF1 | **RPP30** | 0.92 |
+| NAF1 | **POP1** | 0.92 |
+| NAF1 | **NHP2** | 0.986 |
+| NAF1 | **NOP10** | 0.994 |
+| NAF1 | **DKC1** | 0.999 |
+| NHP2 | **POP1** | 0.728 |
+| NHP2 | **RPP25** | 0.758 |
+| NHP2 | **POP7** | 0.778 |
+| NHP2 | **RPP30** | 0.895 |
+| NHP2 | **POP5** | 0.897 |
+| NHP2 | **SHQ1** | 0.983 |
+| NHP2 | **SNU13** | 0.992 |
+| NHP2 | **DKC1** | 0.999 |
+| NHP2 | **NOP10** | 0.999 |
+| POP7 | **SNU13** | 0.732 |
+| POP7 | **DKC1** | 0.737 |
+| POP7 | **NOP10** | 0.916 |
+| POP7 | **POP1** | 0.996 |
+| POP7 | **RPP30** | 0.999 |
+| POP7 | **RPP25** | 0.999 |
+| POP7 | **POP5** | 0.999 |
+| SHQ1 | **SNU13** | 0.625 |
+| SHQ1 | **NOP10** | 0.994 |
+| SHQ1 | **DKC1** | 0.999 |
+| RPP25 | **DKC1** | 0.733 |
+| RPP25 | **SNU13** | 0.735 |
+| RPP25 | **NOP10** | 0.901 |
+| RPP25 | **POP1** | 0.998 |
+| RPP25 | **POP5** | 0.999 |
+| RPP25 | **RPP30** | 0.999 |
+| NOP10 | **POP1** | 0.903 |
+| NOP10 | **RPP30** | 0.918 |
+| NOP10 | **POP5** | 0.945 |
+| NOP10 | **SNU13** | 0.994 |
+| NOP10 | **DKC1** | 0.999 |
+| POP5 | **DKC1** | 0.734 |
+| POP5 | **SNU13** | 0.836 |
+| POP5 | **POP1** | 0.999 |
+| POP5 | **RPP30** | 0.999 |
+| DKC1 | **POP1** | 0.729 |
+| DKC1 | **RPP30** | 0.802 |
+| DKC1 | **SNU13** | 0.996 |
+| SNU13 | **POP1** | 0.721 |
+| SNU13 | **RPP30** | 0.87 |
+| POP1 | **RPP30** | 0.999 |
+

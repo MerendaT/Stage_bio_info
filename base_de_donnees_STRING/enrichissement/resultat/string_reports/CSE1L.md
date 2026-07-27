@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CSE1L
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CSE1L
+Identifiant STRING officiel : `9606.ENSP00000262982`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| XPO4 | **KPNB1** | 0.417 |
+| XPO4 | **ADGRD1** | 0.436 |
+| XPO4 | **KPNA3** | 0.449 |
+| XPO4 | **IPO5** | 0.54 |
+| XPO4 | **TNPO1** | 0.552 |
+| XPO4 | **RAN** | 0.727 |
+| XPO4 | **XPO6** | 0.823 |
+| XPO4 | **RANGAP1** | 0.836 |
+| XPO4 | **XPO1** | 0.904 |
+| XPO4 | **CSE1L** | 0.908 |
+| XPO4 | **XPOT** | 0.976 |
+| IPO5 | **XPO6** | 0.526 |
+| IPO5 | **ADGRD1** | 0.624 |
+| IPO5 | **KPNA4** | 0.636 |
+| IPO5 | **XPOT** | 0.692 |
+| IPO5 | **RANGAP1** | 0.73 |
+| IPO5 | **KPNA2** | 0.749 |
+| IPO5 | **KPNA3** | 0.801 |
+| IPO5 | **CSE1L** | 0.814 |
+| IPO5 | **TNPO1** | 0.821 |
+| IPO5 | **KPNA1** | 0.829 |
+| IPO5 | **XPO1** | 0.86 |
+| IPO5 | **KPNB1** | 0.9 |
+| IPO5 | **RAN** | 0.981 |
+| KPNA3 | **ADGRD1** | 0.485 |
+| KPNA3 | **RANGAP1** | 0.545 |
+| KPNA3 | **NUP50** | 0.592 |
+| KPNA3 | **TNPO1** | 0.64 |
+| KPNA3 | **XPO1** | 0.669 |
+| KPNA3 | **KPNA2** | 0.815 |
+| KPNA3 | **RAN** | 0.854 |
+| KPNA3 | **KPNA1** | 0.946 |
+| KPNA3 | **CSE1L** | 0.98 |
+| KPNA3 | **KPNA4** | 0.982 |
+| KPNA3 | **KPNB1** | 0.99 |
+| CSE1L | **XPO6** | 0.807 |
+| CSE1L | **TNPO1** | 0.824 |
+| CSE1L | **ADGRD1** | 0.838 |
+| CSE1L | **KPNB1** | 0.868 |
+| CSE1L | **NUP50** | 0.871 |
+| CSE1L | **RANGAP1** | 0.878 |
+| CSE1L | **XPOT** | 0.886 |
+| CSE1L | **RAN** | 0.956 |
+| CSE1L | **KPNA2** | 0.961 |
+| CSE1L | **XPO1** | 0.976 |
+| CSE1L | **KPNA4** | 0.99 |
+| CSE1L | **KPNA1** | 0.996 |
+| KPNB1 | **XPO6** | 0.468 |
+| KPNB1 | **XPOT** | 0.62 |
+| KPNB1 | **ADGRD1** | 0.836 |
+| KPNB1 | **XPO1** | 0.902 |
+| KPNB1 | **RANGAP1** | 0.908 |
+| KPNB1 | **TNPO1** | 0.937 |
+| KPNB1 | **NUP50** | 0.939 |
+| KPNB1 | **KPNA4** | 0.995 |
+| KPNB1 | **KPNA1** | 0.999 |
+| KPNB1 | **RAN** | 0.999 |
+| KPNB1 | **KPNA2** | 0.999 |
+| XPO6 | **KPNA1** | 0.436 |
+| XPO6 | **KPNA4** | 0.437 |
+| XPO6 | **TNPO1** | 0.504 |
+| XPO6 | **RANGAP1** | 0.547 |
+| XPO6 | **RAN** | 0.612 |
+| XPO6 | **XPO1** | 0.651 |
+| XPO6 | **XPOT** | 0.687 |
+| XPOT | **KPNA4** | 0.413 |
+| XPOT | **KPNA1** | 0.476 |
+| XPOT | **KPNA2** | 0.539 |
+| XPOT | **NUP50** | 0.562 |
+| XPOT | **TNPO1** | 0.678 |
+| XPOT | **ADGRD1** | 0.857 |
+| XPOT | **RANGAP1** | 0.878 |
+| XPOT | **XPO1** | 0.953 |
+| XPOT | **RAN** | 0.999 |
+| KPNA4 | **ADGRD1** | 0.485 |
+| KPNA4 | **XPO1** | 0.731 |
+| KPNA4 | **RANGAP1** | 0.746 |
+| KPNA4 | **TNPO1** | 0.802 |
+| KPNA4 | **KPNA2** | 0.852 |
+| KPNA4 | **NUP50** | 0.9 |
+| KPNA4 | **RAN** | 0.927 |
+| KPNA4 | **KPNA1** | 0.963 |
+| TNPO1 | **NUP50** | 0.525 |
+| TNPO1 | **ADGRD1** | 0.563 |
+| TNPO1 | **RANGAP1** | 0.654 |
+| TNPO1 | **KPNA1** | 0.666 |
+| TNPO1 | **KPNA2** | 0.779 |
+| TNPO1 | **XPO1** | 0.868 |
+| TNPO1 | **RAN** | 0.995 |
+| KPNA1 | **ADGRD1** | 0.485 |
+| KPNA1 | **RANGAP1** | 0.517 |
+| KPNA1 | **KPNA2** | 0.7 |
+| KPNA1 | **XPO1** | 0.712 |
+| KPNA1 | **RAN** | 0.887 |
+| KPNA1 | **NUP50** | 0.992 |
+| NUP50 | **ADGRD1** | 0.601 |
+| NUP50 | **XPO1** | 0.785 |
+| NUP50 | **RANGAP1** | 0.808 |
+| NUP50 | **KPNA2** | 0.921 |
+| NUP50 | **RAN** | 0.934 |
+| XPO1 | **KPNA2** | 0.832 |
+| XPO1 | **ADGRD1** | 0.857 |
+| XPO1 | **RANGAP1** | 0.979 |
+| XPO1 | **RAN** | 0.999 |
+| RANGAP1 | **KPNA2** | 0.706 |
+| RANGAP1 | **ADGRD1** | 0.89 |
+| RANGAP1 | **RAN** | 0.999 |
+| KPNA2 | **ADGRD1** | 0.485 |
+| KPNA2 | **RAN** | 0.944 |
+

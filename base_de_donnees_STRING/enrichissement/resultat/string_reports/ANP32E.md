@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ANP32E
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ANP32E
+Identifiant STRING officiel : `9606.ENSP00000463154`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BRD8 | **UCHL5** | 0.9 |
+| BRD8 | **INO80C** | 0.9 |
+| BRD8 | **H2AZ1** | 0.901 |
+| BRD8 | **INO80** | 0.908 |
+| BRD8 | **YY1** | 0.909 |
+| BRD8 | **ANP32E** | 0.95 |
+| BRD8 | **VPS72** | 0.987 |
+| BRD8 | **ACTL6A** | 0.993 |
+| BRD8 | **RUVBL1** | 0.995 |
+| BRD8 | **ING3** | 0.997 |
+| BRD8 | **RUVBL2** | 0.997 |
+| BRD8 | **TRRAP** | 0.998 |
+| BRD8 | **KAT5** | 0.998 |
+| BRD8 | **EP400** | 0.999 |
+| YY1 | **VPS72** | 0.452 |
+| YY1 | **H2BC11** | 0.585 |
+| YY1 | **H2AZ1** | 0.703 |
+| YY1 | **ANP32E** | 0.906 |
+| YY1 | **ING3** | 0.913 |
+| YY1 | **EP400** | 0.925 |
+| YY1 | **TRRAP** | 0.932 |
+| YY1 | **KAT5** | 0.938 |
+| YY1 | **ACTL6A** | 0.977 |
+| YY1 | **INO80C** | 0.987 |
+| YY1 | **RUVBL2** | 0.988 |
+| YY1 | **UCHL5** | 0.99 |
+| YY1 | **RUVBL1** | 0.99 |
+| YY1 | **INO80** | 0.992 |
+| H2AZ1 | **INO80** | 0.492 |
+| H2AZ1 | **INO80C** | 0.728 |
+| H2AZ1 | **ING3** | 0.906 |
+| H2AZ1 | **ACTL6A** | 0.938 |
+| H2AZ1 | **TRRAP** | 0.941 |
+| H2AZ1 | **RUVBL2** | 0.956 |
+| H2AZ1 | **H2BC11** | 0.983 |
+| H2AZ1 | **RUVBL1** | 0.984 |
+| H2AZ1 | **KAT5** | 0.986 |
+| H2AZ1 | **EP400** | 0.991 |
+| H2AZ1 | **ANP32E** | 0.996 |
+| H2AZ1 | **VPS72** | 0.998 |
+| RUVBL1 | **H2BC11** | 0.948 |
+| RUVBL1 | **ANP32E** | 0.949 |
+| RUVBL1 | **UCHL5** | 0.986 |
+| RUVBL1 | **ING3** | 0.995 |
+| RUVBL1 | **ACTL6A** | 0.999 |
+| RUVBL1 | **INO80** | 0.999 |
+| RUVBL1 | **INO80C** | 0.999 |
+| RUVBL1 | **TRRAP** | 0.999 |
+| RUVBL1 | **VPS72** | 0.999 |
+| RUVBL1 | **KAT5** | 0.999 |
+| RUVBL1 | **RUVBL2** | 0.999 |
+| RUVBL1 | **EP400** | 0.999 |
+| ING3 | **INO80C** | 0.9 |
+| ING3 | **UCHL5** | 0.902 |
+| ING3 | **INO80** | 0.916 |
+| ING3 | **ANP32E** | 0.941 |
+| ING3 | **VPS72** | 0.964 |
+| ING3 | **EP400** | 0.989 |
+| ING3 | **ACTL6A** | 0.993 |
+| ING3 | **RUVBL2** | 0.995 |
+| ING3 | **TRRAP** | 0.998 |
+| ING3 | **KAT5** | 0.999 |
+| KAT5 | **H2BC11** | 0.634 |
+| KAT5 | **UCHL5** | 0.906 |
+| KAT5 | **INO80C** | 0.946 |
+| KAT5 | **INO80** | 0.948 |
+| KAT5 | **ANP32E** | 0.984 |
+| KAT5 | **VPS72** | 0.996 |
+| KAT5 | **ACTL6A** | 0.997 |
+| KAT5 | **EP400** | 0.999 |
+| KAT5 | **RUVBL2** | 0.999 |
+| KAT5 | **TRRAP** | 0.999 |
+| VPS72 | **INO80** | 0.481 |
+| VPS72 | **INO80C** | 0.64 |
+| VPS72 | **ANP32E** | 0.912 |
+| VPS72 | **H2BC11** | 0.915 |
+| VPS72 | **ACTL6A** | 0.975 |
+| VPS72 | **EP400** | 0.988 |
+| VPS72 | **TRRAP** | 0.996 |
+| VPS72 | **RUVBL2** | 0.998 |
+| TRRAP | **H2BC11** | 0.715 |
+| TRRAP | **UCHL5** | 0.9 |
+| TRRAP | **INO80C** | 0.906 |
+| TRRAP | **ANP32E** | 0.953 |
+| TRRAP | **INO80** | 0.961 |
+| TRRAP | **RUVBL2** | 0.999 |
+| TRRAP | **ACTL6A** | 0.999 |
+| TRRAP | **EP400** | 0.999 |
+| UCHL5 | **EP400** | 0.902 |
+| UCHL5 | **ANP32E** | 0.933 |
+| UCHL5 | **ACTL6A** | 0.952 |
+| UCHL5 | **INO80C** | 0.98 |
+| UCHL5 | **RUVBL2** | 0.984 |
+| UCHL5 | **INO80** | 0.99 |
+| EP400 | **INO80** | 0.934 |
+| EP400 | **INO80C** | 0.95 |
+| EP400 | **ANP32E** | 0.992 |
+| EP400 | **ACTL6A** | 0.999 |
+| EP400 | **RUVBL2** | 0.999 |
+| INO80C | **ANP32E** | 0.922 |
+| INO80C | **ACTL6A** | 0.984 |
+| INO80C | **INO80** | 0.993 |
+| INO80C | **RUVBL2** | 0.999 |
+| ACTL6A | **ANP32E** | 0.937 |
+| ACTL6A | **INO80** | 0.986 |
+| ACTL6A | **RUVBL2** | 0.999 |
+| ANP32E | **INO80** | 0.908 |
+| ANP32E | **RUVBL2** | 0.939 |
+| ANP32E | **H2BC11** | 0.947 |
+| RUVBL2 | **H2BC11** | 0.863 |
+| RUVBL2 | **INO80** | 0.999 |
+| H2BC11 | **INO80** | 0.824 |
+

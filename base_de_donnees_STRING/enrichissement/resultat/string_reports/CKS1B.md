@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CKS1B
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CKS1B
+Identifiant STRING officiel : `9606.ENSP00000311083`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBX1 | **CDK1** | 0.428 |
+| RBX1 | **CCNA1** | 0.572 |
+| RBX1 | **CKS2** | 0.931 |
+| RBX1 | **CCNA2** | 0.933 |
+| RBX1 | **CKS1B** | 0.988 |
+| RBX1 | **CDKN1B** | 0.989 |
+| RBX1 | **CDK2** | 0.993 |
+| RBX1 | **SKP1** | 0.999 |
+| RBX1 | **SKP2** | 0.999 |
+| RBX1 | **CUL1** | 0.999 |
+| CDKN1B | **CDC20** | 0.426 |
+| CDKN1B | **CKS2** | 0.837 |
+| CDKN1B | **CCNB2** | 0.86 |
+| CDKN1B | **CDK3** | 0.909 |
+| CDKN1B | **CCNB1** | 0.972 |
+| CDKN1B | **CDK1** | 0.978 |
+| CDKN1B | **SKP1** | 0.994 |
+| CDKN1B | **CUL1** | 0.996 |
+| CDKN1B | **CKS1B** | 0.997 |
+| CDKN1B | **SKP2** | 0.999 |
+| CDKN1B | **CDK2** | 0.999 |
+| CDKN1B | **CCNA1** | 0.999 |
+| CDKN1B | **CCNA2** | 0.999 |
+| SKP1 | **CDK1** | 0.494 |
+| SKP1 | **CCNB1** | 0.503 |
+| SKP1 | **CDC20** | 0.811 |
+| SKP1 | **CKS2** | 0.971 |
+| SKP1 | **CCNA1** | 0.982 |
+| SKP1 | **CCNA2** | 0.998 |
+| SKP1 | **CDK2** | 0.999 |
+| SKP1 | **SKP2** | 0.999 |
+| SKP1 | **CUL1** | 0.999 |
+| SKP1 | **CKS1B** | 0.999 |
+| CCNA1 | **ESPL1** | 0.697 |
+| CCNA1 | **CCNB2** | 0.739 |
+| CCNA1 | **CKS2** | 0.845 |
+| CCNA1 | **CCNB1** | 0.847 |
+| CCNA1 | **CDK3** | 0.869 |
+| CCNA1 | **CUL1** | 0.88 |
+| CCNA1 | **CKS1B** | 0.947 |
+| CCNA1 | **CCNA2** | 0.977 |
+| CCNA1 | **CDC20** | 0.982 |
+| CCNA1 | **SKP2** | 0.999 |
+| CCNA1 | **CDK2** | 0.999 |
+| CCNA1 | **CDK1** | 0.999 |
+| CCNB1 | **CUL1** | 0.473 |
+| CCNB1 | **SKP2** | 0.797 |
+| CCNB1 | **CDK3** | 0.917 |
+| CCNB1 | **CCNA2** | 0.995 |
+| CCNB1 | **CCNB2** | 0.998 |
+| CCNB1 | **CKS1B** | 0.998 |
+| CCNB1 | **ESPL1** | 0.999 |
+| CCNB1 | **CKS2** | 0.999 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **CDK2** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| ESPL1 | **CUL1** | 0.426 |
+| ESPL1 | **CKS2** | 0.45 |
+| ESPL1 | **CDK2** | 0.571 |
+| ESPL1 | **CDK3** | 0.579 |
+| ESPL1 | **CCNB2** | 0.794 |
+| ESPL1 | **CCNA2** | 0.855 |
+| ESPL1 | **CKS1B** | 0.926 |
+| ESPL1 | **CDC20** | 0.988 |
+| ESPL1 | **CDK1** | 0.995 |
+| CDK2 | **CDK3** | 0.938 |
+| CDK2 | **CDC20** | 0.992 |
+| CDK2 | **CDK1** | 0.994 |
+| CDK2 | **CKS2** | 0.994 |
+| CDK2 | **CUL1** | 0.998 |
+| CDK2 | **CCNA2** | 0.999 |
+| CDK2 | **SKP2** | 0.999 |
+| CDK2 | **CKS1B** | 0.999 |
+| CDK2 | **CCNB2** | 0.999 |
+| SKP2 | **CCNB2** | 0.476 |
+| SKP2 | **CDK3** | 0.838 |
+| SKP2 | **CDK1** | 0.943 |
+| SKP2 | **CKS2** | 0.982 |
+| SKP2 | **CDC20** | 0.998 |
+| SKP2 | **CCNA2** | 0.999 |
+| SKP2 | **CKS1B** | 0.999 |
+| SKP2 | **CUL1** | 0.999 |
+| CCNB2 | **CDK3** | 0.645 |
+| CCNB2 | **CKS1B** | 0.952 |
+| CCNB2 | **CCNA2** | 0.965 |
+| CCNB2 | **CKS2** | 0.976 |
+| CCNB2 | **CDK1** | 0.999 |
+| CCNB2 | **CDC20** | 0.999 |
+| CKS1B | **CDK3** | 0.947 |
+| CKS1B | **CDC20** | 0.971 |
+| CKS1B | **CKS2** | 0.993 |
+| CKS1B | **CUL1** | 0.998 |
+| CKS1B | **CDK1** | 0.999 |
+| CKS1B | **CCNA2** | 0.999 |
+| CUL1 | **CDK1** | 0.495 |
+| CUL1 | **CDC20** | 0.804 |
+| CUL1 | **CKS2** | 0.948 |
+| CUL1 | **CCNA2** | 0.985 |
+| CDC20 | **CDK3** | 0.665 |
+| CDC20 | **CKS2** | 0.971 |
+| CDC20 | **CCNA2** | 0.999 |
+| CDC20 | **CDK1** | 0.999 |
+| CKS2 | **CDK3** | 0.956 |
+| CKS2 | **CCNA2** | 0.99 |
+| CKS2 | **CDK1** | 0.999 |
+| CDK1 | **CDK3** | 0.894 |
+| CDK1 | **CCNA2** | 0.999 |
+| CDK3 | **CCNA2** | 0.953 |
+

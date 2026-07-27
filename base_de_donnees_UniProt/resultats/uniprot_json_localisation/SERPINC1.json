@@ -1,0 +1,283 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P01008",
+      "uniProtkbId": "ANT3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SERPINC1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15140129"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15853774"
+                }
+              ],
+              "value": "Most important serine protease inhibitor in plasma that regulates the blood coagulation cascade (PubMed:15140129, PubMed:15853774). AT-III inhibits thrombin, matriptase-3/TMPRSS7, as well as factors IXa, Xa and XIa (PubMed:15140129). Its inhibitory activity is greatly enhanced in the presence of heparin"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted, extracellular space",
+                "id": "SL-0112"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0072562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:blood microparticle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22516433"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "25037231"
+            },
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "28675934"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1695900"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008201",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heparin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "18923394"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protease binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "15853774"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004867",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:serine-type endopeptidase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030193",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000002C0C1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : IRAK4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IRAK4
+Identifiant STRING officiel : `9606.ENSP00000479889`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| IRAK2 | **IRF7** | 0.505 |
+| IRAK2 | **PELI1** | 0.662 |
+| IRAK2 | **TRAF3** | 0.708 |
+| IRAK2 | **IKBKG** | 0.731 |
+| IRAK2 | **CHUK** | 0.741 |
+| IRAK2 | **TOLLIP** | 0.844 |
+| IRAK2 | **TLR4** | 0.935 |
+| IRAK2 | **TAB2** | 0.939 |
+| IRAK2 | **TIRAP** | 0.962 |
+| IRAK2 | **IL1R1** | 0.966 |
+| IRAK2 | **IRAK3** | 0.985 |
+| IRAK2 | **IRAK1** | 0.999 |
+| IRAK2 | **IRAK4** | 0.999 |
+| IRAK2 | **TRAF6** | 0.999 |
+| IRAK2 | **MYD88** | 0.999 |
+| IRAK3 | **TRAF3** | 0.435 |
+| IRAK3 | **TAB2** | 0.447 |
+| IRAK3 | **IRF7** | 0.488 |
+| IRAK3 | **TIRAP** | 0.589 |
+| IRAK3 | **TLR4** | 0.822 |
+| IRAK3 | **TOLLIP** | 0.822 |
+| IRAK3 | **IL1R1** | 0.877 |
+| IRAK3 | **MYD88** | 0.969 |
+| IRAK3 | **IRAK4** | 0.973 |
+| IRAK3 | **TRAF6** | 0.986 |
+| IRAK3 | **IRAK1** | 0.997 |
+| TOLLIP | **TRAF3** | 0.453 |
+| TOLLIP | **TAB2** | 0.671 |
+| TOLLIP | **PELI1** | 0.689 |
+| TOLLIP | **TIRAP** | 0.917 |
+| TOLLIP | **TRAF6** | 0.95 |
+| TOLLIP | **IL1R1** | 0.971 |
+| TOLLIP | **IRAK4** | 0.978 |
+| TOLLIP | **TLR4** | 0.99 |
+| TOLLIP | **MYD88** | 0.998 |
+| TOLLIP | **IRAK1** | 0.999 |
+| PELI1 | **TRAF3** | 0.506 |
+| PELI1 | **TAB2** | 0.578 |
+| PELI1 | **IKBKG** | 0.66 |
+| PELI1 | **TLR4** | 0.669 |
+| PELI1 | **CHUK** | 0.707 |
+| PELI1 | **IL1R1** | 0.733 |
+| PELI1 | **MYD88** | 0.748 |
+| PELI1 | **TRAF6** | 0.987 |
+| PELI1 | **IRAK4** | 0.995 |
+| PELI1 | **IRAK1** | 0.998 |
+| TAB2 | **IRF7** | 0.414 |
+| TAB2 | **IL1R1** | 0.5 |
+| TAB2 | **TIRAP** | 0.604 |
+| TAB2 | **TLR4** | 0.785 |
+| TAB2 | **TRAF3** | 0.965 |
+| TAB2 | **IRAK4** | 0.983 |
+| TAB2 | **MYD88** | 0.99 |
+| TAB2 | **CHUK** | 0.991 |
+| TAB2 | **IKBKG** | 0.999 |
+| TAB2 | **IRAK1** | 0.999 |
+| TAB2 | **TRAF6** | 0.999 |
+| IRAK1 | **TRAF3** | 0.995 |
+| IRAK1 | **IRF7** | 0.998 |
+| IRAK1 | **TLR4** | 0.998 |
+| IRAK1 | **IRAK4** | 0.999 |
+| IRAK1 | **TRAF6** | 0.999 |
+| IRAK1 | **CHUK** | 0.999 |
+| IRAK1 | **MYD88** | 0.999 |
+| IRAK1 | **TIRAP** | 0.999 |
+| IRAK1 | **IKBKG** | 0.999 |
+| IRAK1 | **IL1R1** | 0.999 |
+| CHUK | **IL1R1** | 0.516 |
+| CHUK | **TIRAP** | 0.554 |
+| CHUK | **TLR4** | 0.852 |
+| CHUK | **MYD88** | 0.985 |
+| CHUK | **IRAK4** | 0.99 |
+| CHUK | **IRF7** | 0.993 |
+| CHUK | **TRAF3** | 0.998 |
+| CHUK | **TRAF6** | 0.999 |
+| CHUK | **IKBKG** | 0.999 |
+| TLR4 | **IRF7** | 0.898 |
+| TLR4 | **IL1R1** | 0.944 |
+| TLR4 | **IKBKG** | 0.96 |
+| TLR4 | **TRAF3** | 0.99 |
+| TLR4 | **MYD88** | 0.999 |
+| TLR4 | **TIRAP** | 0.999 |
+| TLR4 | **TRAF6** | 0.999 |
+| TLR4 | **IRAK4** | 0.999 |
+| TIRAP | **IKBKG** | 0.486 |
+| TIRAP | **IRF7** | 0.611 |
+| TIRAP | **TRAF3** | 0.643 |
+| TIRAP | **IL1R1** | 0.986 |
+| TIRAP | **IRAK4** | 0.995 |
+| TIRAP | **TRAF6** | 0.999 |
+| TIRAP | **MYD88** | 0.999 |
+| TRAF3 | **IL1R1** | 0.431 |
+| TRAF3 | **IKBKG** | 0.953 |
+| TRAF3 | **IRF7** | 0.993 |
+| TRAF3 | **IRAK4** | 0.994 |
+| TRAF3 | **MYD88** | 0.996 |
+| TRAF3 | **TRAF6** | 0.998 |
+| IRF7 | **IL1R1** | 0.45 |
+| IRF7 | **IKBKG** | 0.953 |
+| IRF7 | **IRAK4** | 0.996 |
+| IRF7 | **MYD88** | 0.999 |
+| IRF7 | **TRAF6** | 0.999 |
+| IL1R1 | **IKBKG** | 0.474 |
+| IL1R1 | **IRAK4** | 0.996 |
+| IL1R1 | **TRAF6** | 0.999 |
+| IL1R1 | **MYD88** | 0.999 |
+| TRAF6 | **MYD88** | 0.999 |
+| TRAF6 | **IKBKG** | 0.999 |
+| TRAF6 | **IRAK4** | 0.999 |
+| IRAK4 | **MYD88** | 0.999 |
+| IRAK4 | **IKBKG** | 0.999 |
+| IKBKG | **MYD88** | 0.999 |
+

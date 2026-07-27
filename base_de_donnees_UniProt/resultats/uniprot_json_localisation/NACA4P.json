@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9BZK3",
+      "uniProtkbId": "NACP4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:24688"
+              }
+            ],
+            "value": "NACA4P"
+          }
+        }
+      ],
+      "comments": [],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005854",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nascent polypeptide-associated complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051082",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:unfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein targeting to membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006E935"
+      }
+    }
+  ]
+}

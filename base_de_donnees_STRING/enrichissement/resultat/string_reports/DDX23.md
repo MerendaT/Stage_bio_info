@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DDX23
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDX23
+Identifiant STRING officiel : `9606.ENSP00000310723`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNRPD3 | **CD2BP2** | 0.821 |
+| SNRPD3 | **SNRNP40** | 0.993 |
+| SNRPD3 | **DDX23** | 0.996 |
+| SNRPD3 | **TXNL4A** | 0.998 |
+| SNRPD3 | **PRPF31** | 0.998 |
+| SNRPD3 | **PRPF3** | 0.999 |
+| SNRPD3 | **SNRPG** | 0.999 |
+| SNRPD3 | **PRPF8** | 0.999 |
+| SNRPD3 | **EFTUD2** | 0.999 |
+| SNRPD3 | **SNRPD1** | 0.999 |
+| SNRPD3 | **SNRPD2** | 0.999 |
+| SNRPD3 | **SNRNP200** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **SNRPE** | 0.999 |
+| SNRPD3 | **PRPF6** | 0.999 |
+| SNRNP40 | **PRPF31** | 0.944 |
+| SNRNP40 | **CD2BP2** | 0.972 |
+| SNRNP40 | **PRPF3** | 0.988 |
+| SNRNP40 | **SNRPG** | 0.991 |
+| SNRNP40 | **TXNL4A** | 0.995 |
+| SNRNP40 | **SNRPD1** | 0.996 |
+| SNRNP40 | **DDX23** | 0.997 |
+| SNRNP40 | **SNRPD2** | 0.998 |
+| SNRNP40 | **SNRPF** | 0.998 |
+| SNRNP40 | **EFTUD2** | 0.999 |
+| SNRNP40 | **PRPF8** | 0.999 |
+| SNRNP40 | **SNRPE** | 0.999 |
+| SNRNP40 | **PRPF6** | 0.999 |
+| SNRNP40 | **SNRNP200** | 0.999 |
+| PRPF6 | **CD2BP2** | 0.994 |
+| PRPF6 | **SNRNP200** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **PRPF31** | 0.999 |
+| PRPF6 | **SNRPE** | 0.999 |
+| PRPF6 | **PRPF3** | 0.999 |
+| PRPF6 | **SNRPG** | 0.999 |
+| PRPF6 | **PRPF8** | 0.999 |
+| PRPF6 | **EFTUD2** | 0.999 |
+| PRPF6 | **DDX23** | 0.999 |
+| PRPF6 | **TXNL4A** | 0.999 |
+| PRPF6 | **SNRPD2** | 0.999 |
+| PRPF6 | **SNRPD1** | 0.999 |
+| SNRPF | **CD2BP2** | 0.914 |
+| SNRPF | **DDX23** | 0.997 |
+| SNRPF | **TXNL4A** | 0.998 |
+| SNRPF | **PRPF3** | 0.998 |
+| SNRPF | **SNRPE** | 0.999 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **PRPF31** | 0.999 |
+| SNRPF | **EFTUD2** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SNRPD1** | 0.999 |
+| SNRPF | **SNRPG** | 0.999 |
+| SNRPF | **PRPF8** | 0.999 |
+| TXNL4A | **SNRPD1** | 0.991 |
+| TXNL4A | **SNRPD2** | 0.992 |
+| TXNL4A | **SNRPE** | 0.994 |
+| TXNL4A | **CD2BP2** | 0.997 |
+| TXNL4A | **PRPF3** | 0.997 |
+| TXNL4A | **SNRPG** | 0.998 |
+| TXNL4A | **EFTUD2** | 0.999 |
+| TXNL4A | **DDX23** | 0.999 |
+| TXNL4A | **PRPF8** | 0.999 |
+| TXNL4A | **SNRNP200** | 0.999 |
+| TXNL4A | **PRPF31** | 0.999 |
+| SNRPD1 | **CD2BP2** | 0.92 |
+| SNRPD1 | **PRPF31** | 0.998 |
+| SNRPD1 | **DDX23** | 0.998 |
+| SNRPD1 | **SNRPE** | 0.999 |
+| SNRPD1 | **SNRNP200** | 0.999 |
+| SNRPD1 | **EFTUD2** | 0.999 |
+| SNRPD1 | **SNRPD2** | 0.999 |
+| SNRPD1 | **SNRPG** | 0.999 |
+| SNRPD1 | **PRPF3** | 0.999 |
+| SNRPD1 | **PRPF8** | 0.999 |
+| CD2BP2 | **PRPF3** | 0.77 |
+| CD2BP2 | **PRPF31** | 0.778 |
+| CD2BP2 | **SNRPG** | 0.803 |
+| CD2BP2 | **SNRPE** | 0.892 |
+| CD2BP2 | **SNRPD2** | 0.917 |
+| CD2BP2 | **EFTUD2** | 0.959 |
+| CD2BP2 | **PRPF8** | 0.982 |
+| CD2BP2 | **DDX23** | 0.996 |
+| CD2BP2 | **SNRNP200** | 0.998 |
+| DDX23 | **SNRPG** | 0.997 |
+| DDX23 | **PRPF31** | 0.997 |
+| DDX23 | **SNRPE** | 0.998 |
+| DDX23 | **PRPF8** | 0.999 |
+| DDX23 | **PRPF3** | 0.999 |
+| DDX23 | **SNRPD2** | 0.999 |
+| DDX23 | **EFTUD2** | 0.999 |
+| DDX23 | **SNRNP200** | 0.999 |
+| PRPF3 | **SNRPE** | 0.998 |
+| PRPF3 | **PRPF31** | 0.999 |
+| PRPF3 | **SNRNP200** | 0.999 |
+| PRPF3 | **SNRPD2** | 0.999 |
+| PRPF3 | **EFTUD2** | 0.999 |
+| PRPF3 | **PRPF8** | 0.999 |
+| PRPF3 | **SNRPG** | 0.999 |
+| SNRNP200 | **SNRPG** | 0.999 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **SNRPD2** | 0.999 |
+| SNRNP200 | **PRPF31** | 0.999 |
+| SNRNP200 | **SNRPE** | 0.999 |
+| PRPF31 | **SNRPE** | 0.999 |
+| PRPF31 | **EFTUD2** | 0.999 |
+| PRPF31 | **SNRPD2** | 0.999 |
+| PRPF31 | **SNRPG** | 0.999 |
+| PRPF31 | **PRPF8** | 0.999 |
+| SNRPD2 | **SNRPE** | 0.999 |
+| SNRPD2 | **SNRPG** | 0.999 |
+| SNRPD2 | **PRPF8** | 0.999 |
+| SNRPD2 | **EFTUD2** | 0.999 |
+| EFTUD2 | **SNRPE** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| EFTUD2 | **SNRPG** | 0.999 |
+| SNRPG | **SNRPE** | 0.999 |
+| SNRPG | **PRPF8** | 0.999 |
+| SNRPE | **PRPF8** | 0.999 |
+

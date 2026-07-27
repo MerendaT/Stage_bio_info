@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NTPCR
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NTPCR
+Identifiant STRING officiel : `9606.ENSP00000355587`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NME3 | **ENTPD8** | 0.672 |
+| NME3 | **ENTPD1** | 0.694 |
+| NME3 | **ENTPD3** | 0.71 |
+| NME3 | **AK8** | 0.791 |
+| NME3 | **AK4** | 0.798 |
+| NME3 | **AK2** | 0.816 |
+| NME3 | **RRM1** | 0.816 |
+| NME3 | **ENTPD2** | 0.917 |
+| NME3 | **NME7** | 0.921 |
+| NME3 | **NME6** | 0.932 |
+| NME3 | **NTPCR** | 0.946 |
+| NME3 | **NME4** | 0.949 |
+| NME3 | **NME1-NME2** | 0.964 |
+| NME3 | **NME2** | 0.967 |
+| NME3 | **NME1** | 0.989 |
+| NME4 | **ENTPD8** | 0.678 |
+| NME4 | **ENTPD1** | 0.691 |
+| NME4 | **ENTPD3** | 0.708 |
+| NME4 | **AK8** | 0.774 |
+| NME4 | **RRM1** | 0.824 |
+| NME4 | **ENTPD2** | 0.906 |
+| NME4 | **AK2** | 0.916 |
+| NME4 | **NME7** | 0.925 |
+| NME4 | **NME6** | 0.938 |
+| NME4 | **AK4** | 0.938 |
+| NME4 | **NME2** | 0.942 |
+| NME4 | **NTPCR** | 0.946 |
+| NME4 | **NME1-NME2** | 0.969 |
+| NME4 | **NME1** | 0.984 |
+| AK8 | **ENTPD8** | 0.675 |
+| AK8 | **ENTPD3** | 0.677 |
+| AK8 | **ENTPD1** | 0.678 |
+| AK8 | **NME6** | 0.749 |
+| AK8 | **NME1-NME2** | 0.749 |
+| AK8 | **NME1** | 0.759 |
+| AK8 | **NME2** | 0.763 |
+| AK8 | **NME7** | 0.817 |
+| AK8 | **RRM1** | 0.828 |
+| AK8 | **ENTPD2** | 0.912 |
+| AK8 | **NTPCR** | 0.941 |
+| RRM1 | **NME1-NME2** | 0.816 |
+| RRM1 | **NME6** | 0.824 |
+| RRM1 | **NME7** | 0.827 |
+| RRM1 | **AK4** | 0.834 |
+| RRM1 | **NME1** | 0.846 |
+| RRM1 | **AK2** | 0.846 |
+| RRM1 | **NME2** | 0.853 |
+| RRM1 | **ENTPD2** | 0.919 |
+| RRM1 | **ENTPD1** | 0.919 |
+| RRM1 | **ENTPD3** | 0.923 |
+| RRM1 | **ENTPD8** | 0.923 |
+| RRM1 | **NTPCR** | 0.98 |
+| ENTPD3 | **NME1-NME2** | 0.662 |
+| ENTPD3 | **NME1** | 0.662 |
+| ENTPD3 | **NME2** | 0.686 |
+| ENTPD3 | **NME6** | 0.688 |
+| ENTPD3 | **AK2** | 0.715 |
+| ENTPD3 | **NME7** | 0.723 |
+| ENTPD3 | **AK4** | 0.752 |
+| ENTPD3 | **ENTPD8** | 0.91 |
+| ENTPD3 | **ENTPD2** | 0.912 |
+| ENTPD3 | **ENTPD1** | 0.917 |
+| ENTPD3 | **NTPCR** | 0.921 |
+| NME1 | **ENTPD8** | 0.67 |
+| NME1 | **ENTPD1** | 0.691 |
+| NME1 | **AK4** | 0.796 |
+| NME1 | **AK2** | 0.807 |
+| NME1 | **ENTPD2** | 0.903 |
+| NME1 | **NME6** | 0.929 |
+| NME1 | **NME7** | 0.929 |
+| NME1 | **NTPCR** | 0.946 |
+| NME1 | **NME1-NME2** | 0.981 |
+| NME1 | **NME2** | 0.995 |
+| ENTPD2 | **NME2** | 0.905 |
+| ENTPD2 | **AK2** | 0.906 |
+| ENTPD2 | **AK4** | 0.907 |
+| ENTPD2 | **NME6** | 0.908 |
+| ENTPD2 | **NME1-NME2** | 0.908 |
+| ENTPD2 | **NME7** | 0.911 |
+| ENTPD2 | **ENTPD8** | 0.916 |
+| ENTPD2 | **ENTPD1** | 0.944 |
+| ENTPD2 | **NTPCR** | 0.951 |
+| NTPCR | **AK4** | 0.918 |
+| NTPCR | **ENTPD8** | 0.929 |
+| NTPCR | **ENTPD1** | 0.933 |
+| NTPCR | **AK2** | 0.943 |
+| NTPCR | **NME1-NME2** | 0.945 |
+| NTPCR | **NME2** | 0.946 |
+| NTPCR | **NME7** | 0.948 |
+| NTPCR | **NME6** | 0.948 |
+| NME7 | **ENTPD1** | 0.696 |
+| NME7 | **ENTPD8** | 0.71 |
+| NME7 | **AK4** | 0.778 |
+| NME7 | **AK2** | 0.784 |
+| NME7 | **NME2** | 0.918 |
+| NME7 | **NME1-NME2** | 0.919 |
+| NME7 | **NME6** | 0.922 |
+| ENTPD1 | **NME1-NME2** | 0.662 |
+| ENTPD1 | **NME2** | 0.69 |
+| ENTPD1 | **AK2** | 0.714 |
+| ENTPD1 | **AK4** | 0.727 |
+| ENTPD1 | **NME6** | 0.728 |
+| ENTPD1 | **ENTPD8** | 0.909 |
+| ENTPD8 | **NME2** | 0.678 |
+| ENTPD8 | **NME1-NME2** | 0.685 |
+| ENTPD8 | **AK2** | 0.705 |
+| ENTPD8 | **NME6** | 0.726 |
+| ENTPD8 | **AK4** | 0.748 |
+| NME2 | **AK4** | 0.792 |
+| NME2 | **AK2** | 0.849 |
+| NME2 | **NME6** | 0.934 |
+| NME2 | **NME1-NME2** | 0.997 |
+| NME1-NME2 | **AK4** | 0.749 |
+| NME1-NME2 | **AK2** | 0.804 |
+| NME1-NME2 | **NME6** | 0.924 |
+| AK4 | **AK2** | 0.556 |
+| AK4 | **NME6** | 0.793 |
+| NME6 | **AK2** | 0.795 |
+

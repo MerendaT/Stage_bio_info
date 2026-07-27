@@ -1,0 +1,352 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P41134",
+      "uniProtkbId": "ID1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "ID1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "Transcriptional regulator (lacking a basic DNA binding domain) which negatively regulates the basic helix-loop-helix (bHLH) transcription factors by forming heterodimers and inhibiting their DNA binding and transcriptional activity. Implicated in regulating a variety of cellular processes, including cellular growth, senescence, differentiation, apoptosis, angiogenesis, and neoplastic transformation. Inhibits skeletal muscle and cardiac myocyte differentiation. Regulates the circadian clock by repressing the transcriptional activator activity of the CLOCK-BMAL1 heterodimer (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046983",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein dimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003714",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription corepressor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140416",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription regulator inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7665172"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001525",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "14522471"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043534",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood vessel endothelial cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "14522471"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048514",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood vessel morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "14522471"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007623",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:circadian rhythm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0120163",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cold-induced thermogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:YuBioLab"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "28270523"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045892",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GDB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15138269"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7665172"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030182",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "14522471"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012D18F"
+      }
+    }
+  ]
+}

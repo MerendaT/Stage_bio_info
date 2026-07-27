@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SERBP1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SERBP1
+Identifiant STRING officiel : `9606.ENSP00000360034`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPS12 | **SERBP1** | 0.992 |
+| RPS12 | **RPL31** | 0.999 |
+| RPS12 | **FAU** | 0.999 |
+| RPS12 | **RPS3** | 0.999 |
+| RPS12 | **RPS13** | 0.999 |
+| RPS12 | **RACK1** | 0.999 |
+| RPS12 | **RPL15** | 0.999 |
+| RPS12 | **RPS19** | 0.999 |
+| RPS12 | **RPL5** | 0.999 |
+| RPS12 | **RPS7** | 0.999 |
+| RPS12 | **RPL23A** | 0.999 |
+| RPS12 | **RPS20** | 0.999 |
+| RPS12 | **RPS6** | 0.999 |
+| RPS12 | **RPS15** | 0.999 |
+| RPS12 | **RPS2** | 0.999 |
+| RPS3 | **SERBP1** | 0.996 |
+| RPS3 | **RPS6** | 0.999 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPS15** | 0.999 |
+| RPS3 | **RPL23A** | 0.999 |
+| RPS3 | **RPS20** | 0.999 |
+| RPS3 | **RPS7** | 0.999 |
+| RPS3 | **RPL5** | 0.999 |
+| RPS3 | **RPL15** | 0.999 |
+| RPS3 | **RACK1** | 0.999 |
+| RPS3 | **RPS19** | 0.999 |
+| RPS3 | **RPS13** | 0.999 |
+| RPS3 | **FAU** | 0.999 |
+| RPS3 | **RPL31** | 0.999 |
+| RPL15 | **SERBP1** | 0.991 |
+| RPL15 | **RPS19** | 0.999 |
+| RPL15 | **RACK1** | 0.999 |
+| RPL15 | **RPL5** | 0.999 |
+| RPL15 | **RPS7** | 0.999 |
+| RPL15 | **RPL23A** | 0.999 |
+| RPL15 | **RPS20** | 0.999 |
+| RPL15 | **RPS15** | 0.999 |
+| RPL15 | **RPS2** | 0.999 |
+| RPL15 | **RPS6** | 0.999 |
+| RPL15 | **RPL31** | 0.999 |
+| RPL15 | **FAU** | 0.999 |
+| RPL15 | **RPS13** | 0.999 |
+| RPS2 | **SERBP1** | 0.994 |
+| RPS2 | **RPL31** | 0.999 |
+| RPS2 | **RPS13** | 0.999 |
+| RPS2 | **FAU** | 0.999 |
+| RPS2 | **RPL5** | 0.999 |
+| RPS2 | **RACK1** | 0.999 |
+| RPS2 | **RPS19** | 0.999 |
+| RPS2 | **RPS6** | 0.999 |
+| RPS2 | **RPS15** | 0.999 |
+| RPS2 | **RPL23A** | 0.999 |
+| RPS2 | **RPS20** | 0.999 |
+| RPS2 | **RPS7** | 0.999 |
+| RPL5 | **SERBP1** | 0.996 |
+| RPL5 | **RPL31** | 0.999 |
+| RPL5 | **FAU** | 0.999 |
+| RPL5 | **RPS13** | 0.999 |
+| RPL5 | **RPS19** | 0.999 |
+| RPL5 | **RACK1** | 0.999 |
+| RPL5 | **RPL23A** | 0.999 |
+| RPL5 | **RPS20** | 0.999 |
+| RPL5 | **RPS15** | 0.999 |
+| RPL5 | **RPS6** | 0.999 |
+| RPL5 | **RPS7** | 0.999 |
+| SERBP1 | **RPS6** | 0.991 |
+| SERBP1 | **RPL31** | 0.992 |
+| SERBP1 | **RPS7** | 0.992 |
+| SERBP1 | **RPS13** | 0.993 |
+| SERBP1 | **RPS19** | 0.993 |
+| SERBP1 | **RPL23A** | 0.994 |
+| SERBP1 | **RPS15** | 0.994 |
+| SERBP1 | **FAU** | 0.995 |
+| SERBP1 | **RPS20** | 0.997 |
+| SERBP1 | **RACK1** | 0.998 |
+| RPS6 | **RPS7** | 0.999 |
+| RPS6 | **RPL23A** | 0.999 |
+| RPS6 | **RPS20** | 0.999 |
+| RPS6 | **RPS15** | 0.999 |
+| RPS6 | **RPS19** | 0.999 |
+| RPS6 | **RACK1** | 0.999 |
+| RPS6 | **FAU** | 0.999 |
+| RPS6 | **RPS13** | 0.999 |
+| RPS6 | **RPL31** | 0.999 |
+| RPL31 | **FAU** | 0.999 |
+| RPL31 | **RPS13** | 0.999 |
+| RPL31 | **RPS7** | 0.999 |
+| RPL31 | **RPL23A** | 0.999 |
+| RPL31 | **RPS20** | 0.999 |
+| RPL31 | **RPS15** | 0.999 |
+| RPL31 | **RACK1** | 0.999 |
+| RPL31 | **RPS19** | 0.999 |
+| RPL23A | **RPS7** | 0.999 |
+| RPL23A | **RPS20** | 0.999 |
+| RPL23A | **RPS15** | 0.999 |
+| RPL23A | **RPS19** | 0.999 |
+| RPL23A | **RACK1** | 0.999 |
+| RPL23A | **FAU** | 0.999 |
+| RPL23A | **RPS13** | 0.999 |
+| RACK1 | **RPS13** | 0.999 |
+| RACK1 | **FAU** | 0.999 |
+| RACK1 | **RPS7** | 0.999 |
+| RACK1 | **RPS15** | 0.999 |
+| RACK1 | **RPS20** | 0.999 |
+| RACK1 | **RPS19** | 0.999 |
+| RPS20 | **RPS7** | 0.999 |
+| RPS20 | **RPS15** | 0.999 |
+| RPS20 | **RPS19** | 0.999 |
+| RPS20 | **FAU** | 0.999 |
+| RPS20 | **RPS13** | 0.999 |
+| FAU | **RPS15** | 0.999 |
+| FAU | **RPS7** | 0.999 |
+| FAU | **RPS19** | 0.999 |
+| FAU | **RPS13** | 0.999 |
+| RPS13 | **RPS19** | 0.999 |
+| RPS13 | **RPS15** | 0.999 |
+| RPS13 | **RPS7** | 0.999 |
+| RPS15 | **RPS7** | 0.999 |
+| RPS15 | **RPS19** | 0.999 |
+| RPS19 | **RPS7** | 0.999 |
+

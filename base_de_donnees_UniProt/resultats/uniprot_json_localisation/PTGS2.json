@@ -1,0 +1,893 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P35354",
+      "uniProtkbId": "PGH2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:9605"
+              }
+            ],
+            "value": "PTGS2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P79208"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q05769"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11034610"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11192938"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11939906"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12391014"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16373578"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21206090"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22068350"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22942274"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26236990"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26282205"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26859324"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "27226593"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "27642067"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7592599"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7947975"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9048568"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9261177"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "19540099"
+                }
+              ],
+              "value": "Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response (PubMed:11939906, PubMed:16373578, PubMed:19540099, PubMed:22942274, PubMed:26859324, PubMed:27226593, PubMed:7592599, PubMed:7947975, PubMed:9261177). The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes (PubMed:16373578, PubMed:22942274, PubMed:26859324, PubMed:27226593, PubMed:7592599, PubMed:7947975, PubMed:9261177). This complex transformation is initiated by abstraction of hydrogen at carbon 13 (with S-stereochemistry), followed by insertion of molecular O2 to form the endoperoxide bridge between carbon 9 and 11 that defines prostaglandins. The insertion of a second molecule of O2 (bis-oxygenase activity) yields a hydroperoxy group in PGG2 that is then reduced to PGH2 by two electrons (PubMed:16373578, PubMed:22942274, PubMed:26859324, PubMed:27226593, PubMed:7592599, PubMed:7947975, PubMed:9261177). Similarly catalyzes successive cyclooxygenation and peroxidation of dihomo-gamma-linoleate (DGLA, C20:3(n-6)) and eicosapentaenoate (EPA, C20:5(n-3)) to corresponding PGH1 and PGH3, the precursors of 1- and 3-series prostaglandins (PubMed:11939906, PubMed:19540099). In an alternative pathway of prostanoid biosynthesis, converts 2-arachidonoyl lysophopholipids to prostanoid lysophopholipids, which are then hydrolyzed by intracellular phospholipases to release free prostanoids (PubMed:27642067). Metabolizes 2-arachidonoyl glycerol yielding the glyceryl ester of PGH2, a process that can contribute to pain response (PubMed:22942274). Generates lipid mediators from n-3 and n-6 polyunsaturated fatty acids (PUFAs) via a lipoxygenase-type mechanism. Oxygenates PUFAs to hydroperoxy compounds and then reduces them to corresponding alcohols (PubMed:11034610, PubMed:11192938, PubMed:9048568, PubMed:9261177). Plays a role in the generation of resolution phase interaction products (resolvins) during both sterile and infectious inflammation (PubMed:12391014). Metabolizes docosahexaenoate (DHA, C22:6(n-3)) to 17R-HDHA, a precursor of the D-series resolvins (RvDs) (PubMed:12391014). As a component of the biosynthetic pathway of E-series resolvins (RvEs), converts eicosapentaenoate (EPA, C20:5(n-3)) primarily to 18S-HEPE that is further metabolized by ALOX5 and LTA4H to generate 18S-RvE1 and 18S-RvE2 (PubMed:21206090). In vascular endothelial cells, converts docosapentaenoate (DPA, C22:5(n-3)) to 13R-HDPA, a precursor for 13-series resolvins (RvTs) shown to activate macrophage phagocytosis during bacterial infection (PubMed:26236990). In activated leukocytes, contributes to oxygenation of hydroxyeicosatetraenoates (HETE) to diHETES (5,15-diHETE and 5,11-diHETE) (PubMed:22068350, PubMed:26282205). Can also use linoleate (LA, (9Z,12Z)-octadecadienoate, C18:2(n-6)) as substrate and produce hydroxyoctadecadienoates (HODEs) in a regio- and stereospecific manner, being (9R)-HODE ((9R)-hydroxy-(10E,12Z)-octadecadienoate) and (13S)-HODE ((13S)-hydroxy-(9Z,11E)-octadecadienoate) its major products (By similarity). During neuroinflammation, plays a role in neuronal secretion of specialized preresolving mediators (SPMs) 15R-lipoxin A4 that regulates phagocytic microglia (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9545330"
+                  }
+                ],
+                "value": "Detected on the lumenal side of the endoplasmic reticulum and nuclear envelope"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9545330"
+                  }
+                ],
+                "value": "Microsome membrane",
+                "id": "SL-0165"
+              },
+              "topology": {
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9545330"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9545330"
+                  }
+                ],
+                "value": "Nucleus inner membrane",
+                "id": "SL-0179"
+              },
+              "topology": {
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9545330"
+                  }
+                ],
+                "value": "Nucleus outer membrane",
+                "id": "SL-0183"
+              },
+              "topology": {
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14511332"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24089527"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "24089527"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043005",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neuron projection"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12355421"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005637",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear inner membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9545330"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005640",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear outer membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9545330"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019899",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:enzyme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "16373578"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0020037",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016701",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:oxidoreductase activity, acting on single donors with incorporation of molecular oxygen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "EXP:Reactome"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "12391014"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016702",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004601",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:peroxidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "14511332"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004666",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:prostaglandin-endoperoxide synthase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16373578"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7592599"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7947975"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050873",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:brown fat cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071456",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "21296955"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to non-ionic osmotic stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019371",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cyclooxygenase pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7592599"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7947975"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019372",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:lipoxygenase pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042759",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:long-chain fatty acid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902219",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090336",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of brown fat cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "20448152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090050",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration involved in sprouting angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9630216"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031622",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of fever generation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090271",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of fibroblast growth factor production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9630216"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045429",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of nitric oxide biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9630216"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090362",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of platelet-derived growth factor production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031394",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of prostaglandin biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "20448152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071636",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transforming growth factor beta production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9630216"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010575",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular endothelial growth factor production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9630216"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001516",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:prostaglandin biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27642067"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008217",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of blood pressure"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050727",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "14511332"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0150077",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of neuroinflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006979",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to oxidative stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000000D926"
+      }
+    }
+  ]
+}

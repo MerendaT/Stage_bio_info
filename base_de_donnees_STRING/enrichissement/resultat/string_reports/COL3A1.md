@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : COL3A1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : COL3A1
+Identifiant STRING officiel : `9606.ENSP00000304408`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DCN | **COL11A1** | 0.424 |
+| DCN | **ITGB1** | 0.425 |
+| DCN | **ITGA2** | 0.534 |
+| DCN | **PCOLCE** | 0.537 |
+| DCN | **COL5A1** | 0.573 |
+| DCN | **COL5A2** | 0.63 |
+| DCN | **COL6A3** | 0.657 |
+| DCN | **POSTN** | 0.758 |
+| DCN | **FBN1** | 0.912 |
+| DCN | **COL1A1** | 0.923 |
+| DCN | **COL1A2** | 0.93 |
+| DCN | **COL3A1** | 0.935 |
+| DCN | **LUM** | 0.978 |
+| DCN | **FN1** | 0.996 |
+| PCOLCE | **POSTN** | 0.438 |
+| PCOLCE | **FBN1** | 0.444 |
+| PCOLCE | **LUM** | 0.582 |
+| PCOLCE | **FN1** | 0.64 |
+| PCOLCE | **COL6A3** | 0.654 |
+| PCOLCE | **COL11A1** | 0.765 |
+| PCOLCE | **COL1A1** | 0.813 |
+| PCOLCE | **COL5A2** | 0.857 |
+| PCOLCE | **COL5A1** | 0.928 |
+| PCOLCE | **COL1A2** | 0.963 |
+| PCOLCE | **COL3A1** | 0.976 |
+| COL1A1 | **POSTN** | 0.903 |
+| COL1A1 | **FBN1** | 0.929 |
+| COL1A1 | **GP6** | 0.943 |
+| COL1A1 | **COL11A1** | 0.965 |
+| COL1A1 | **COL6A3** | 0.974 |
+| COL1A1 | **FN1** | 0.974 |
+| COL1A1 | **LUM** | 0.981 |
+| COL1A1 | **ITGA2** | 0.983 |
+| COL1A1 | **ITGB1** | 0.984 |
+| COL1A1 | **COL5A1** | 0.994 |
+| COL1A1 | **COL5A2** | 0.995 |
+| COL1A1 | **COL3A1** | 0.999 |
+| COL1A1 | **COL1A2** | 0.999 |
+| LUM | **ITGA2** | 0.589 |
+| LUM | **ITGB1** | 0.695 |
+| LUM | **COL6A3** | 0.853 |
+| LUM | **COL5A1** | 0.912 |
+| LUM | **POSTN** | 0.913 |
+| LUM | **COL11A1** | 0.949 |
+| LUM | **COL5A2** | 0.96 |
+| LUM | **FN1** | 0.962 |
+| LUM | **FBN1** | 0.972 |
+| LUM | **COL3A1** | 0.986 |
+| LUM | **COL1A2** | 0.999 |
+| COL6A3 | **FN1** | 0.736 |
+| COL6A3 | **ITGA2** | 0.781 |
+| COL6A3 | **FBN1** | 0.786 |
+| COL6A3 | **POSTN** | 0.819 |
+| COL6A3 | **COL11A1** | 0.826 |
+| COL6A3 | **ITGB1** | 0.859 |
+| COL6A3 | **COL5A1** | 0.892 |
+| COL6A3 | **GP6** | 0.913 |
+| COL6A3 | **COL5A2** | 0.935 |
+| COL6A3 | **COL3A1** | 0.952 |
+| COL6A3 | **COL1A2** | 0.968 |
+| ITGA2 | **COL5A1** | 0.5 |
+| ITGA2 | **COL5A2** | 0.521 |
+| ITGA2 | **POSTN** | 0.579 |
+| ITGA2 | **COL11A1** | 0.602 |
+| ITGA2 | **COL1A2** | 0.973 |
+| ITGA2 | **GP6** | 0.976 |
+| ITGA2 | **COL3A1** | 0.976 |
+| ITGA2 | **FN1** | 0.986 |
+| ITGA2 | **ITGB1** | 0.999 |
+| COL1A2 | **GP6** | 0.908 |
+| COL1A2 | **POSTN** | 0.918 |
+| COL1A2 | **FBN1** | 0.965 |
+| COL1A2 | **FN1** | 0.982 |
+| COL1A2 | **ITGB1** | 0.988 |
+| COL1A2 | **COL5A1** | 0.989 |
+| COL1A2 | **COL11A1** | 0.992 |
+| COL1A2 | **COL5A2** | 0.998 |
+| COL1A2 | **COL3A1** | 0.999 |
+| COL3A1 | **FN1** | 0.928 |
+| COL3A1 | **GP6** | 0.936 |
+| COL3A1 | **ITGB1** | 0.942 |
+| COL3A1 | **COL11A1** | 0.965 |
+| COL3A1 | **FBN1** | 0.97 |
+| COL3A1 | **POSTN** | 0.976 |
+| COL3A1 | **COL5A1** | 0.983 |
+| COL3A1 | **COL5A2** | 0.998 |
+| GP6 | **ITGB1** | 0.462 |
+| GP6 | **FN1** | 0.932 |
+| FBN1 | **COL11A1** | 0.602 |
+| FBN1 | **ITGB1** | 0.716 |
+| FBN1 | **POSTN** | 0.785 |
+| FBN1 | **COL5A2** | 0.924 |
+| FBN1 | **COL5A1** | 0.929 |
+| FBN1 | **FN1** | 0.982 |
+| FN1 | **COL11A1** | 0.511 |
+| FN1 | **COL5A2** | 0.83 |
+| FN1 | **COL5A1** | 0.84 |
+| FN1 | **POSTN** | 0.996 |
+| FN1 | **ITGB1** | 0.999 |
+| COL11A1 | **POSTN** | 0.648 |
+| COL11A1 | **COL5A1** | 0.877 |
+| COL11A1 | **COL5A2** | 0.976 |
+| COL5A1 | **POSTN** | 0.78 |
+| COL5A1 | **COL5A2** | 0.996 |
+| COL5A2 | **POSTN** | 0.792 |
+| POSTN | **ITGB1** | 0.486 |
+

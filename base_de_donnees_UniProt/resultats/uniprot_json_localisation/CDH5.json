@@ -1,0 +1,1154 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P33151",
+      "uniProtkbId": "CADH5_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:1764"
+              }
+            ],
+            "value": "CDH5"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P55284"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q8AYD0"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10861224"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20332120"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21269602"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25795300"
+                }
+              ],
+              "value": "Cadherins are calcium-dependent cell adhesion proteins (By similarity). They preferentially interact with themselves in a homophilic manner in connecting cells; cadherins may thus contribute to the sorting of heterogeneous cell types (PubMed:21269602). This cadherin may play a important role in endothelial cell biology through control of the cohesion and organization of the intercellular junctions (By similarity). It associates with alpha-catenin forming a link to the cytoskeleton (PubMed:10861224). Plays a role in coupling actin fibers to cell junctions in endothelial cells, via acting as a cell junctional complex anchor for AMOTL2 and MAGI1 (By similarity). Acts in concert with KRIT1 and PALS1 to establish and maintain correct endothelial cell polarity and vascular lumen (By similarity). These effects are mediated by recruitment and activation of the Par polarity complex and RAP1B (PubMed:20332120). Positively regulates reorientation of actin stress fibers and endothelial cell reorientation in response to cellular mechantransduction (PubMed:25795300). Required for activation of PRKCZ and for the localization of phosphorylated PRKCZ, PARD3, TIAM1 and RAP1B to the cell junction (PubMed:20332120). Associates with CTNND1/p120-catenin to control CADH5 endocytosis (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20332120"
+                  }
+                ],
+                "value": "Found at cell-cell boundaries and probably at cell-matrix boundaries. KRIT1 and CDH5 reciprocally regulate their localization to endothelial cell-cell junctions"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20332120"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21183689"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25795300"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "27338829"
+                  }
+                ],
+                "value": "Cell junction, adherens junction",
+                "id": "SL-0009"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15980433"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "20332120"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "20332120"
+                  }
+                ],
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "P55284"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005912",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:adherens junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27338829"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005923",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:bicellular tight junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016342",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:catenin complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030054",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23288152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005911",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell-cell junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20332120"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21168935"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23288152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:external side of plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9219219"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25978380"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008013",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:beta-catenin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "18287330"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:BMP receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045296",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cadherin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098632",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cell-cell adhesion mediator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070051",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:fibrinogen binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19413351"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019903",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein phosphatase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "28926625"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990782",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein tyrosine kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "11950700"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12088286"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030159",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor complex adaptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "11950700"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044325",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane transporter binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19996314"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043184",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:vascular endothelial growth factor receptor 2 binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "25893857"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034332",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:adherens junction organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070830",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:bicellular tight junction assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25753039"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043534",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood vessel endothelial cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31934175"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016339",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:calcium-dependent cell-cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016477",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002042",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell migration involved in sprouting angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000902",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007166",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell surface receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23159740"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098609",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell-cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15572031"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044331",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell-cell adhesion mediated by cadherin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007043",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell-cell junction assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23288152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endothelial cell morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007156",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:homophilic cell-cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9219219"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006874",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular calcium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23159740"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035633",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:maintenance of blood-brain barrier"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "30280653"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000352",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endothelial cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31934175"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050728",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "28112401"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031115",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of microtubule polymerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23159740"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045766",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "22391569"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030513",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of BMP signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030335",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15572031"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903142",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of establishment of endothelial barrier"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23288152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902533",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of intracellular signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23159740"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031334",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein-containing complex assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902396",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein localization to bicellular tight junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25753039"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000114",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of establishment of cell polarity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20332120"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043114",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of vascular permeability"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23159740"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26598555"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21168935"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000016B272"
+      }
+    }
+  ]
+}

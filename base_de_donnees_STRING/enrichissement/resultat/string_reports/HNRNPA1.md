@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : HNRNPA1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HNRNPA1
+Identifiant STRING officiel : `9606.ENSP00000341826`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HNRNPL | **HNRNPH3** | 0.753 |
+| HNRNPL | **TARDBP** | 0.837 |
+| HNRNPL | **RBMX** | 0.927 |
+| HNRNPL | **SRSF1** | 0.945 |
+| HNRNPL | **HNRNPF** | 0.95 |
+| HNRNPL | **HNRNPR** | 0.961 |
+| HNRNPL | **HNRNPU** | 0.974 |
+| HNRNPL | **HNRNPM** | 0.974 |
+| HNRNPL | **HNRNPH1** | 0.982 |
+| HNRNPL | **HNRNPC** | 0.99 |
+| HNRNPL | **HNRNPK** | 0.99 |
+| HNRNPL | **PTBP1** | 0.993 |
+| HNRNPL | **HNRNPA1** | 0.993 |
+| HNRNPL | **HNRNPA2B1** | 0.999 |
+| TARDBP | **TNPO1** | 0.694 |
+| TARDBP | **HNRNPH3** | 0.83 |
+| TARDBP | **HNRNPF** | 0.864 |
+| TARDBP | **HNRNPU** | 0.874 |
+| TARDBP | **HNRNPR** | 0.899 |
+| TARDBP | **HNRNPM** | 0.901 |
+| TARDBP | **SRSF1** | 0.912 |
+| TARDBP | **RBMX** | 0.914 |
+| TARDBP | **HNRNPH1** | 0.947 |
+| TARDBP | **HNRNPK** | 0.949 |
+| TARDBP | **PTBP1** | 0.963 |
+| TARDBP | **HNRNPC** | 0.981 |
+| TARDBP | **HNRNPA1** | 0.997 |
+| TARDBP | **HNRNPA2B1** | 0.998 |
+| SRSF1 | **TNPO1** | 0.666 |
+| SRSF1 | **HNRNPH3** | 0.813 |
+| SRSF1 | **HNRNPR** | 0.935 |
+| SRSF1 | **RBMX** | 0.943 |
+| SRSF1 | **HNRNPU** | 0.951 |
+| SRSF1 | **HNRNPM** | 0.956 |
+| SRSF1 | **HNRNPK** | 0.966 |
+| SRSF1 | **HNRNPF** | 0.97 |
+| SRSF1 | **HNRNPA2B1** | 0.972 |
+| SRSF1 | **HNRNPC** | 0.977 |
+| SRSF1 | **PTBP1** | 0.983 |
+| SRSF1 | **HNRNPH1** | 0.986 |
+| SRSF1 | **HNRNPA1** | 0.993 |
+| HNRNPH3 | **RBMX** | 0.66 |
+| HNRNPH3 | **PTBP1** | 0.77 |
+| HNRNPH3 | **HNRNPK** | 0.809 |
+| HNRNPH3 | **HNRNPU** | 0.826 |
+| HNRNPH3 | **HNRNPR** | 0.829 |
+| HNRNPH3 | **HNRNPF** | 0.865 |
+| HNRNPH3 | **HNRNPC** | 0.888 |
+| HNRNPH3 | **HNRNPM** | 0.945 |
+| HNRNPH3 | **HNRNPH1** | 0.96 |
+| HNRNPH3 | **HNRNPA2B1** | 0.968 |
+| HNRNPH3 | **HNRNPA1** | 0.98 |
+| HNRNPM | **HNRNPR** | 0.97 |
+| HNRNPM | **TNPO1** | 0.971 |
+| HNRNPM | **RBMX** | 0.979 |
+| HNRNPM | **HNRNPF** | 0.981 |
+| HNRNPM | **PTBP1** | 0.981 |
+| HNRNPM | **HNRNPK** | 0.981 |
+| HNRNPM | **HNRNPU** | 0.985 |
+| HNRNPM | **HNRNPA2B1** | 0.987 |
+| HNRNPM | **HNRNPC** | 0.99 |
+| HNRNPM | **HNRNPH1** | 0.993 |
+| HNRNPM | **HNRNPA1** | 0.993 |
+| TNPO1 | **HNRNPR** | 0.431 |
+| TNPO1 | **HNRNPK** | 0.461 |
+| TNPO1 | **HNRNPC** | 0.529 |
+| TNPO1 | **HNRNPH1** | 0.766 |
+| TNPO1 | **HNRNPA2B1** | 0.811 |
+| TNPO1 | **HNRNPA1** | 0.998 |
+| HNRNPA1 | **RBMX** | 0.982 |
+| HNRNPA1 | **HNRNPF** | 0.983 |
+| HNRNPA1 | **HNRNPR** | 0.989 |
+| HNRNPA1 | **HNRNPU** | 0.992 |
+| HNRNPA1 | **HNRNPK** | 0.995 |
+| HNRNPA1 | **HNRNPH1** | 0.998 |
+| HNRNPA1 | **HNRNPA2B1** | 0.998 |
+| HNRNPA1 | **PTBP1** | 0.998 |
+| HNRNPA1 | **HNRNPC** | 0.999 |
+| HNRNPA2B1 | **HNRNPR** | 0.923 |
+| HNRNPA2B1 | **RBMX** | 0.96 |
+| HNRNPA2B1 | **HNRNPU** | 0.979 |
+| HNRNPA2B1 | **HNRNPK** | 0.983 |
+| HNRNPA2B1 | **HNRNPF** | 0.985 |
+| HNRNPA2B1 | **HNRNPH1** | 0.991 |
+| HNRNPA2B1 | **PTBP1** | 0.993 |
+| HNRNPA2B1 | **HNRNPC** | 0.999 |
+| HNRNPH1 | **HNRNPR** | 0.947 |
+| HNRNPH1 | **RBMX** | 0.955 |
+| HNRNPH1 | **HNRNPK** | 0.975 |
+| HNRNPH1 | **PTBP1** | 0.978 |
+| HNRNPH1 | **HNRNPC** | 0.981 |
+| HNRNPH1 | **HNRNPU** | 0.986 |
+| HNRNPH1 | **HNRNPF** | 0.994 |
+| PTBP1 | **HNRNPR** | 0.875 |
+| PTBP1 | **RBMX** | 0.923 |
+| PTBP1 | **HNRNPF** | 0.942 |
+| PTBP1 | **HNRNPU** | 0.943 |
+| PTBP1 | **HNRNPC** | 0.996 |
+| PTBP1 | **HNRNPK** | 0.997 |
+| RBMX | **HNRNPF** | 0.922 |
+| RBMX | **HNRNPU** | 0.925 |
+| RBMX | **HNRNPR** | 0.936 |
+| RBMX | **HNRNPC** | 0.986 |
+| RBMX | **HNRNPK** | 0.988 |
+| HNRNPR | **HNRNPF** | 0.918 |
+| HNRNPR | **HNRNPU** | 0.947 |
+| HNRNPR | **HNRNPK** | 0.962 |
+| HNRNPR | **HNRNPC** | 0.98 |
+| HNRNPK | **HNRNPF** | 0.971 |
+| HNRNPK | **HNRNPC** | 0.982 |
+| HNRNPK | **HNRNPU** | 0.991 |
+| HNRNPF | **HNRNPU** | 0.951 |
+| HNRNPF | **HNRNPC** | 0.971 |
+| HNRNPC | **HNRNPU** | 0.996 |
+

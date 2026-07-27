@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CHCHD1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHCHD1
+Identifiant STRING officiel : `9606.ENSP00000361923`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPS7 | **MRPS28** | 0.988 |
+| MRPS7 | **PTCD3** | 0.99 |
+| MRPS7 | **AURKAIP1** | 0.99 |
+| MRPS7 | **MRPS24** | 0.991 |
+| MRPS7 | **MRPS21** | 0.992 |
+| MRPS7 | **MRPS23** | 0.994 |
+| MRPS7 | **MRPS17** | 0.994 |
+| MRPS7 | **MRPS33** | 0.995 |
+| MRPS7 | **CHCHD1** | 0.995 |
+| MRPS7 | **MRPS18C** | 0.996 |
+| MRPS7 | **MRPS6** | 0.999 |
+| MRPS7 | **MRPS11** | 0.999 |
+| MRPS7 | **MRPS16** | 0.999 |
+| MRPS7 | **MRPS2** | 0.999 |
+| MRPS7 | **MRPS14** | 0.999 |
+| PTCD3 | **MRPS18C** | 0.958 |
+| PTCD3 | **MRPS17** | 0.976 |
+| PTCD3 | **MRPS16** | 0.977 |
+| PTCD3 | **MRPS21** | 0.982 |
+| PTCD3 | **MRPS14** | 0.985 |
+| PTCD3 | **MRPS6** | 0.985 |
+| PTCD3 | **MRPS33** | 0.987 |
+| PTCD3 | **CHCHD1** | 0.988 |
+| PTCD3 | **AURKAIP1** | 0.989 |
+| PTCD3 | **MRPS28** | 0.99 |
+| PTCD3 | **MRPS24** | 0.992 |
+| PTCD3 | **MRPS11** | 0.996 |
+| PTCD3 | **MRPS23** | 0.996 |
+| PTCD3 | **MRPS2** | 0.997 |
+| MRPS28 | **AURKAIP1** | 0.984 |
+| MRPS28 | **MRPS24** | 0.986 |
+| MRPS28 | **MRPS33** | 0.986 |
+| MRPS28 | **MRPS17** | 0.987 |
+| MRPS28 | **MRPS14** | 0.988 |
+| MRPS28 | **MRPS18C** | 0.989 |
+| MRPS28 | **MRPS6** | 0.991 |
+| MRPS28 | **MRPS21** | 0.993 |
+| MRPS28 | **MRPS16** | 0.993 |
+| MRPS28 | **MRPS11** | 0.993 |
+| MRPS28 | **CHCHD1** | 0.994 |
+| MRPS28 | **MRPS23** | 0.997 |
+| MRPS28 | **MRPS2** | 0.998 |
+| MRPS17 | **AURKAIP1** | 0.984 |
+| MRPS17 | **MRPS24** | 0.985 |
+| MRPS17 | **CHCHD1** | 0.988 |
+| MRPS17 | **MRPS23** | 0.989 |
+| MRPS17 | **MRPS11** | 0.99 |
+| MRPS17 | **MRPS18C** | 0.991 |
+| MRPS17 | **MRPS21** | 0.992 |
+| MRPS17 | **MRPS6** | 0.993 |
+| MRPS17 | **MRPS2** | 0.993 |
+| MRPS17 | **MRPS33** | 0.994 |
+| MRPS17 | **MRPS16** | 0.995 |
+| MRPS17 | **MRPS14** | 0.997 |
+| MRPS18C | **AURKAIP1** | 0.976 |
+| MRPS18C | **MRPS24** | 0.978 |
+| MRPS18C | **CHCHD1** | 0.993 |
+| MRPS18C | **MRPS23** | 0.994 |
+| MRPS18C | **MRPS21** | 0.997 |
+| MRPS18C | **MRPS16** | 0.998 |
+| MRPS18C | **MRPS33** | 0.998 |
+| MRPS18C | **MRPS2** | 0.998 |
+| MRPS18C | **MRPS11** | 0.999 |
+| MRPS18C | **MRPS6** | 0.999 |
+| MRPS18C | **MRPS14** | 0.999 |
+| MRPS11 | **CHCHD1** | 0.993 |
+| MRPS11 | **AURKAIP1** | 0.994 |
+| MRPS11 | **MRPS23** | 0.995 |
+| MRPS11 | **MRPS24** | 0.995 |
+| MRPS11 | **MRPS33** | 0.997 |
+| MRPS11 | **MRPS21** | 0.998 |
+| MRPS11 | **MRPS16** | 0.999 |
+| MRPS11 | **MRPS6** | 0.999 |
+| MRPS11 | **MRPS14** | 0.999 |
+| MRPS11 | **MRPS2** | 0.999 |
+| MRPS24 | **AURKAIP1** | 0.986 |
+| MRPS24 | **MRPS6** | 0.987 |
+| MRPS24 | **MRPS23** | 0.991 |
+| MRPS24 | **CHCHD1** | 0.991 |
+| MRPS24 | **MRPS2** | 0.992 |
+| MRPS24 | **MRPS21** | 0.993 |
+| MRPS24 | **MRPS16** | 0.994 |
+| MRPS24 | **MRPS33** | 0.997 |
+| MRPS24 | **MRPS14** | 0.997 |
+| MRPS23 | **AURKAIP1** | 0.974 |
+| MRPS23 | **MRPS21** | 0.991 |
+| MRPS23 | **MRPS6** | 0.993 |
+| MRPS23 | **MRPS33** | 0.994 |
+| MRPS23 | **MRPS16** | 0.994 |
+| MRPS23 | **CHCHD1** | 0.994 |
+| MRPS23 | **MRPS14** | 0.996 |
+| MRPS23 | **MRPS2** | 0.999 |
+| MRPS33 | **CHCHD1** | 0.989 |
+| MRPS33 | **AURKAIP1** | 0.99 |
+| MRPS33 | **MRPS16** | 0.993 |
+| MRPS33 | **MRPS6** | 0.995 |
+| MRPS33 | **MRPS14** | 0.997 |
+| MRPS33 | **MRPS21** | 0.997 |
+| MRPS33 | **MRPS2** | 0.997 |
+| AURKAIP1 | **MRPS6** | 0.971 |
+| AURKAIP1 | **MRPS14** | 0.983 |
+| AURKAIP1 | **MRPS16** | 0.987 |
+| AURKAIP1 | **CHCHD1** | 0.989 |
+| AURKAIP1 | **MRPS2** | 0.99 |
+| AURKAIP1 | **MRPS21** | 0.993 |
+| MRPS2 | **CHCHD1** | 0.992 |
+| MRPS2 | **MRPS21** | 0.997 |
+| MRPS2 | **MRPS16** | 0.999 |
+| MRPS2 | **MRPS6** | 0.999 |
+| MRPS2 | **MRPS14** | 0.999 |
+| CHCHD1 | **MRPS14** | 0.988 |
+| CHCHD1 | **MRPS6** | 0.992 |
+| CHCHD1 | **MRPS16** | 0.993 |
+| CHCHD1 | **MRPS21** | 0.993 |
+| MRPS16 | **MRPS21** | 0.993 |
+| MRPS16 | **MRPS14** | 0.999 |
+| MRPS16 | **MRPS6** | 0.999 |
+| MRPS6 | **MRPS21** | 0.998 |
+| MRPS6 | **MRPS14** | 0.999 |
+| MRPS14 | **MRPS21** | 0.993 |
+

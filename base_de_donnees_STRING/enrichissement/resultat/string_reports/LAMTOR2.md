@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LAMTOR2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LAMTOR2
+Identifiant STRING officiel : `9606.ENSP00000357288`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NPRL2 | **SLC38A9** | 0.549 |
+| NPRL2 | **FLCN** | 0.716 |
+| NPRL2 | **MTOR** | 0.792 |
+| NPRL2 | **RPTOR** | 0.826 |
+| NPRL2 | **RRAGD** | 0.897 |
+| NPRL2 | **LAMTOR1** | 0.947 |
+| NPRL2 | **LAMTOR5** | 0.947 |
+| NPRL2 | **LAMTOR3** | 0.951 |
+| NPRL2 | **LAMTOR4** | 0.962 |
+| NPRL2 | **LAMTOR2** | 0.966 |
+| NPRL2 | **RRAGC** | 0.983 |
+| NPRL2 | **RRAGB** | 0.989 |
+| NPRL2 | **RRAGA** | 0.999 |
+| NPRL2 | **NPRL3** | 0.999 |
+| NPRL2 | **DEPDC5** | 0.999 |
+| LAMTOR5 | **FLCN** | 0.92 |
+| LAMTOR5 | **DEPDC5** | 0.94 |
+| LAMTOR5 | **NPRL3** | 0.944 |
+| LAMTOR5 | **MTOR** | 0.952 |
+| LAMTOR5 | **RRAGC** | 0.999 |
+| LAMTOR5 | **RRAGB** | 0.999 |
+| LAMTOR5 | **LAMTOR2** | 0.999 |
+| LAMTOR5 | **RPTOR** | 0.999 |
+| LAMTOR5 | **RRAGA** | 0.999 |
+| LAMTOR5 | **LAMTOR4** | 0.999 |
+| LAMTOR5 | **SLC38A9** | 0.999 |
+| LAMTOR5 | **LAMTOR3** | 0.999 |
+| LAMTOR5 | **RRAGD** | 0.999 |
+| LAMTOR5 | **LAMTOR1** | 0.999 |
+| RRAGB | **NPRL3** | 0.974 |
+| RRAGB | **DEPDC5** | 0.985 |
+| RRAGB | **FLCN** | 0.986 |
+| RRAGB | **RRAGA** | 0.999 |
+| RRAGB | **RPTOR** | 0.999 |
+| RRAGB | **LAMTOR4** | 0.999 |
+| RRAGB | **RRAGC** | 0.999 |
+| RRAGB | **MTOR** | 0.999 |
+| RRAGB | **LAMTOR2** | 0.999 |
+| RRAGB | **RRAGD** | 0.999 |
+| RRAGB | **LAMTOR1** | 0.999 |
+| RRAGB | **SLC38A9** | 0.999 |
+| RRAGB | **LAMTOR3** | 0.999 |
+| LAMTOR1 | **DEPDC5** | 0.938 |
+| LAMTOR1 | **FLCN** | 0.941 |
+| LAMTOR1 | **NPRL3** | 0.943 |
+| LAMTOR1 | **MTOR** | 0.963 |
+| LAMTOR1 | **RRAGD** | 0.999 |
+| LAMTOR1 | **SLC38A9** | 0.999 |
+| LAMTOR1 | **LAMTOR3** | 0.999 |
+| LAMTOR1 | **RRAGA** | 0.999 |
+| LAMTOR1 | **RPTOR** | 0.999 |
+| LAMTOR1 | **LAMTOR4** | 0.999 |
+| LAMTOR1 | **RRAGC** | 0.999 |
+| LAMTOR1 | **LAMTOR2** | 0.999 |
+| FLCN | **DEPDC5** | 0.538 |
+| FLCN | **RPTOR** | 0.572 |
+| FLCN | **NPRL3** | 0.677 |
+| FLCN | **MTOR** | 0.836 |
+| FLCN | **LAMTOR3** | 0.933 |
+| FLCN | **LAMTOR2** | 0.934 |
+| FLCN | **LAMTOR4** | 0.94 |
+| FLCN | **SLC38A9** | 0.942 |
+| FLCN | **RRAGD** | 0.983 |
+| FLCN | **RRAGA** | 0.998 |
+| FLCN | **RRAGC** | 0.999 |
+| RPTOR | **DEPDC5** | 0.725 |
+| RPTOR | **NPRL3** | 0.74 |
+| RPTOR | **SLC38A9** | 0.778 |
+| RPTOR | **LAMTOR2** | 0.988 |
+| RPTOR | **LAMTOR4** | 0.999 |
+| RPTOR | **RRAGA** | 0.999 |
+| RPTOR | **MTOR** | 0.999 |
+| RPTOR | **RRAGC** | 0.999 |
+| RPTOR | **RRAGD** | 0.999 |
+| RPTOR | **LAMTOR3** | 0.999 |
+| LAMTOR4 | **DEPDC5** | 0.946 |
+| LAMTOR4 | **NPRL3** | 0.947 |
+| LAMTOR4 | **MTOR** | 0.953 |
+| LAMTOR4 | **LAMTOR3** | 0.999 |
+| LAMTOR4 | **LAMTOR2** | 0.999 |
+| LAMTOR4 | **SLC38A9** | 0.999 |
+| LAMTOR4 | **RRAGC** | 0.999 |
+| LAMTOR4 | **RRAGA** | 0.999 |
+| LAMTOR4 | **RRAGD** | 0.999 |
+| MTOR | **NPRL3** | 0.729 |
+| MTOR | **DEPDC5** | 0.756 |
+| MTOR | **SLC38A9** | 0.852 |
+| MTOR | **LAMTOR3** | 0.93 |
+| MTOR | **LAMTOR2** | 0.972 |
+| MTOR | **RRAGD** | 0.991 |
+| MTOR | **RRAGA** | 0.999 |
+| MTOR | **RRAGC** | 0.999 |
+| LAMTOR2 | **DEPDC5** | 0.94 |
+| LAMTOR2 | **NPRL3** | 0.954 |
+| LAMTOR2 | **RRAGD** | 0.955 |
+| LAMTOR2 | **LAMTOR3** | 0.999 |
+| LAMTOR2 | **SLC38A9** | 0.999 |
+| LAMTOR2 | **RRAGC** | 0.999 |
+| LAMTOR2 | **RRAGA** | 0.999 |
+| RRAGD | **DEPDC5** | 0.864 |
+| RRAGD | **NPRL3** | 0.889 |
+| RRAGD | **SLC38A9** | 0.998 |
+| RRAGD | **RRAGC** | 0.999 |
+| RRAGD | **LAMTOR3** | 0.999 |
+| RRAGD | **RRAGA** | 0.999 |
+| RRAGC | **RRAGA** | 0.999 |
+| RRAGC | **NPRL3** | 0.999 |
+| RRAGC | **SLC38A9** | 0.999 |
+| RRAGC | **DEPDC5** | 0.999 |
+| RRAGC | **LAMTOR3** | 0.999 |
+| RRAGA | **LAMTOR3** | 0.999 |
+| RRAGA | **SLC38A9** | 0.999 |
+| RRAGA | **DEPDC5** | 0.999 |
+| RRAGA | **NPRL3** | 0.999 |
+| SLC38A9 | **NPRL3** | 0.506 |
+| SLC38A9 | **DEPDC5** | 0.537 |
+| SLC38A9 | **LAMTOR3** | 0.999 |
+| LAMTOR3 | **DEPDC5** | 0.936 |
+| LAMTOR3 | **NPRL3** | 0.938 |
+| NPRL3 | **DEPDC5** | 0.999 |
+

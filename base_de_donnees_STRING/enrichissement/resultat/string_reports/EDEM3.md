@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : EDEM3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EDEM3
+Identifiant STRING officiel : `9606.ENSP00000318147`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ERLEC1 | **PDIA4** | 0.431 |
+| ERLEC1 | **STT3B** | 0.496 |
+| ERLEC1 | **MOGS** | 0.64 |
+| ERLEC1 | **DNAJC10** | 0.72 |
+| ERLEC1 | **CALR** | 0.733 |
+| ERLEC1 | **EDEM2** | 0.753 |
+| ERLEC1 | **UGGT1** | 0.786 |
+| ERLEC1 | **EDEM3** | 0.85 |
+| ERLEC1 | **SERPINA1** | 0.854 |
+| ERLEC1 | **EDEM1** | 0.91 |
+| ERLEC1 | **HSP90B1** | 0.925 |
+| ERLEC1 | **OS9** | 0.936 |
+| ERLEC1 | **CANX** | 0.947 |
+| ERLEC1 | **SEL1L** | 0.998 |
+| CANX | **MAN2A1** | 0.514 |
+| CANX | **STT3B** | 0.747 |
+| CANX | **EDEM3** | 0.754 |
+| CANX | **SERPINA1** | 0.772 |
+| CANX | **DNAJC10** | 0.876 |
+| CANX | **EDEM2** | 0.897 |
+| CANX | **SEL1L** | 0.918 |
+| CANX | **PDIA4** | 0.931 |
+| CANX | **UGGT1** | 0.935 |
+| CANX | **MOGS** | 0.952 |
+| CANX | **OS9** | 0.958 |
+| CANX | **EDEM1** | 0.986 |
+| CANX | **HSP90B1** | 0.99 |
+| CANX | **CALR** | 0.999 |
+| EDEM1 | **STT3B** | 0.513 |
+| EDEM1 | **MAN2A1** | 0.653 |
+| EDEM1 | **MOGS** | 0.666 |
+| EDEM1 | **SERPINA1** | 0.766 |
+| EDEM1 | **PDIA4** | 0.815 |
+| EDEM1 | **UGGT1** | 0.853 |
+| EDEM1 | **HSP90B1** | 0.884 |
+| EDEM1 | **CALR** | 0.903 |
+| EDEM1 | **EDEM2** | 0.918 |
+| EDEM1 | **EDEM3** | 0.938 |
+| EDEM1 | **OS9** | 0.952 |
+| EDEM1 | **SEL1L** | 0.989 |
+| EDEM1 | **DNAJC10** | 0.998 |
+| UGGT1 | **SERPINA1** | 0.58 |
+| UGGT1 | **SEL1L** | 0.678 |
+| UGGT1 | **EDEM2** | 0.698 |
+| UGGT1 | **STT3B** | 0.715 |
+| UGGT1 | **DNAJC10** | 0.728 |
+| UGGT1 | **EDEM3** | 0.734 |
+| UGGT1 | **OS9** | 0.755 |
+| UGGT1 | **PDIA4** | 0.84 |
+| UGGT1 | **CALR** | 0.851 |
+| UGGT1 | **MOGS** | 0.865 |
+| UGGT1 | **HSP90B1** | 0.958 |
+| MAN2A1 | **STT3B** | 0.413 |
+| MAN2A1 | **MOGS** | 0.546 |
+| MAN2A1 | **CALR** | 0.597 |
+| MAN2A1 | **EDEM2** | 0.815 |
+| MAN2A1 | **EDEM3** | 0.906 |
+| DNAJC10 | **MOGS** | 0.459 |
+| DNAJC10 | **SERPINA1** | 0.551 |
+| DNAJC10 | **STT3B** | 0.579 |
+| DNAJC10 | **EDEM2** | 0.622 |
+| DNAJC10 | **PDIA4** | 0.649 |
+| DNAJC10 | **EDEM3** | 0.771 |
+| DNAJC10 | **OS9** | 0.882 |
+| DNAJC10 | **CALR** | 0.892 |
+| DNAJC10 | **HSP90B1** | 0.902 |
+| DNAJC10 | **SEL1L** | 0.934 |
+| STT3B | **OS9** | 0.454 |
+| STT3B | **PDIA4** | 0.488 |
+| STT3B | **HSP90B1** | 0.5 |
+| STT3B | **CALR** | 0.568 |
+| STT3B | **SEL1L** | 0.671 |
+| STT3B | **EDEM3** | 0.7 |
+| STT3B | **MOGS** | 0.952 |
+| HSP90B1 | **SERPINA1** | 0.4 |
+| HSP90B1 | **EDEM2** | 0.401 |
+| HSP90B1 | **EDEM3** | 0.771 |
+| HSP90B1 | **SEL1L** | 0.833 |
+| HSP90B1 | **OS9** | 0.996 |
+| HSP90B1 | **PDIA4** | 0.998 |
+| HSP90B1 | **CALR** | 0.999 |
+| EDEM3 | **PDIA4** | 0.709 |
+| EDEM3 | **MOGS** | 0.75 |
+| EDEM3 | **SERPINA1** | 0.794 |
+| EDEM3 | **CALR** | 0.846 |
+| EDEM3 | **OS9** | 0.921 |
+| EDEM3 | **SEL1L** | 0.945 |
+| EDEM3 | **EDEM2** | 0.958 |
+| OS9 | **MOGS** | 0.568 |
+| OS9 | **PDIA4** | 0.66 |
+| OS9 | **CALR** | 0.737 |
+| OS9 | **EDEM2** | 0.778 |
+| OS9 | **SERPINA1** | 0.92 |
+| OS9 | **SEL1L** | 0.999 |
+| CALR | **SEL1L** | 0.535 |
+| CALR | **EDEM2** | 0.77 |
+| CALR | **MOGS** | 0.813 |
+| CALR | **PDIA4** | 0.973 |
+| SEL1L | **SERPINA1** | 0.445 |
+| SEL1L | **MOGS** | 0.517 |
+| SEL1L | **PDIA4** | 0.737 |
+| SEL1L | **EDEM2** | 0.769 |
+| EDEM2 | **PDIA4** | 0.593 |
+| EDEM2 | **SERPINA1** | 0.623 |
+| EDEM2 | **MOGS** | 0.653 |
+| MOGS | **PDIA4** | 0.73 |
+

@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SKA1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SKA1
+Identifiant STRING officiel : `9606.ENSP00000285116`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCNB1 | **SPC24** | 0.717 |
+| CCNB1 | **BOD1** | 0.745 |
+| CCNB1 | **SKA2** | 0.806 |
+| CCNB1 | **SPDL1** | 0.848 |
+| CCNB1 | **SKA1** | 0.903 |
+| CCNB1 | **SKA3** | 0.911 |
+| CCNB1 | **AURKB** | 0.962 |
+| CCNB1 | **NUF2** | 0.967 |
+| CCNB1 | **CENPE** | 0.967 |
+| CCNB1 | **NDC80** | 0.981 |
+| CCNB1 | **CENPF** | 0.988 |
+| CCNB1 | **BUB1B** | 0.998 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **PLK1** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| NDC80 | **BOD1** | 0.777 |
+| NDC80 | **SPDL1** | 0.878 |
+| NDC80 | **SKA2** | 0.89 |
+| NDC80 | **SKA3** | 0.943 |
+| NDC80 | **PLK1** | 0.951 |
+| NDC80 | **CDK1** | 0.957 |
+| NDC80 | **CDC20** | 0.962 |
+| NDC80 | **CENPE** | 0.979 |
+| NDC80 | **SKA1** | 0.979 |
+| NDC80 | **AURKB** | 0.979 |
+| NDC80 | **CENPF** | 0.987 |
+| NDC80 | **BUB1B** | 0.992 |
+| NDC80 | **SPC24** | 0.999 |
+| NDC80 | **NUF2** | 0.999 |
+| CENPE | **SKA2** | 0.437 |
+| CENPE | **SPDL1** | 0.679 |
+| CENPE | **SPC24** | 0.705 |
+| CENPE | **SKA3** | 0.851 |
+| CENPE | **SKA1** | 0.886 |
+| CENPE | **CDK1** | 0.973 |
+| CENPE | **AURKB** | 0.975 |
+| CENPE | **PLK1** | 0.977 |
+| CENPE | **CDC20** | 0.989 |
+| CENPE | **NUF2** | 0.996 |
+| CENPE | **BUB1B** | 0.999 |
+| CENPE | **CENPF** | 0.999 |
+| SPDL1 | **NUF2** | 0.516 |
+| SPDL1 | **CDK1** | 0.686 |
+| SPDL1 | **CDC20** | 0.888 |
+| SPDL1 | **PLK1** | 0.889 |
+| SPDL1 | **BOD1** | 0.917 |
+| SPDL1 | **SKA2** | 0.927 |
+| SPDL1 | **SKA1** | 0.946 |
+| SPDL1 | **SKA3** | 0.947 |
+| SPDL1 | **CENPF** | 0.95 |
+| SPDL1 | **BUB1B** | 0.958 |
+| NUF2 | **SKA2** | 0.599 |
+| NUF2 | **PLK1** | 0.865 |
+| NUF2 | **SKA3** | 0.893 |
+| NUF2 | **SKA1** | 0.939 |
+| NUF2 | **AURKB** | 0.95 |
+| NUF2 | **CENPF** | 0.952 |
+| NUF2 | **CDK1** | 0.957 |
+| NUF2 | **CDC20** | 0.962 |
+| NUF2 | **BUB1B** | 0.98 |
+| NUF2 | **SPC24** | 0.999 |
+| SKA1 | **SPC24** | 0.869 |
+| SKA1 | **AURKB** | 0.883 |
+| SKA1 | **CDK1** | 0.903 |
+| SKA1 | **BOD1** | 0.932 |
+| SKA1 | **CDC20** | 0.933 |
+| SKA1 | **PLK1** | 0.937 |
+| SKA1 | **CENPF** | 0.965 |
+| SKA1 | **BUB1B** | 0.976 |
+| SKA1 | **SKA2** | 0.999 |
+| SKA1 | **SKA3** | 0.999 |
+| BUB1B | **SPC24** | 0.79 |
+| BUB1B | **BOD1** | 0.924 |
+| BUB1B | **SKA2** | 0.942 |
+| BUB1B | **SKA3** | 0.976 |
+| BUB1B | **PLK1** | 0.999 |
+| BUB1B | **AURKB** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **CENPF** | 0.999 |
+| BUB1B | **CDK1** | 0.999 |
+| PLK1 | **SPC24** | 0.742 |
+| PLK1 | **BOD1** | 0.784 |
+| PLK1 | **SKA2** | 0.857 |
+| PLK1 | **SKA3** | 0.934 |
+| PLK1 | **AURKB** | 0.939 |
+| PLK1 | **CENPF** | 0.973 |
+| PLK1 | **CDK1** | 0.993 |
+| PLK1 | **CDC20** | 0.999 |
+| BOD1 | **CENPF** | 0.915 |
+| BOD1 | **SKA2** | 0.927 |
+| BOD1 | **SKA3** | 0.933 |
+| AURKB | **SPC24** | 0.729 |
+| AURKB | **SKA3** | 0.785 |
+| AURKB | **CENPF** | 0.925 |
+| AURKB | **CDK1** | 0.997 |
+| AURKB | **CDC20** | 0.998 |
+| SKA3 | **CDC20** | 0.666 |
+| SKA3 | **SPC24** | 0.747 |
+| SKA3 | **CDK1** | 0.801 |
+| SKA3 | **CENPF** | 0.968 |
+| SKA3 | **SKA2** | 0.999 |
+| SKA2 | **CDK1** | 0.581 |
+| SKA2 | **SPC24** | 0.662 |
+| SKA2 | **CDC20** | 0.84 |
+| SKA2 | **CENPF** | 0.939 |
+| CENPF | **SPC24** | 0.59 |
+| CENPF | **CDK1** | 0.978 |
+| CENPF | **CDC20** | 0.99 |
+| CDC20 | **SPC24** | 0.9 |
+| CDC20 | **CDK1** | 0.999 |
+| CDK1 | **SPC24** | 0.767 |
+

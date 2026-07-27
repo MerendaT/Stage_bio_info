@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RNF31
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RNF31
+Identifiant STRING officiel : `9606.ENSP00000315112`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TNFRSF1A | **OTULIN** | 0.435 |
+| TNFRSF1A | **UBE2L3** | 0.5 |
+| TNFRSF1A | **RPS27A** | 0.657 |
+| TNFRSF1A | **UBC** | 0.734 |
+| TNFRSF1A | **SPATA2** | 0.997 |
+| TNFRSF1A | **SHARPIN** | 0.998 |
+| TNFRSF1A | **RBCK1** | 0.998 |
+| TNFRSF1A | **TBK1** | 0.998 |
+| TNFRSF1A | **RNF31** | 0.998 |
+| TNFRSF1A | **BIRC2** | 0.999 |
+| TNFRSF1A | **CYLD** | 0.999 |
+| TNFRSF1A | **TNF** | 0.999 |
+| TNFRSF1A | **RIPK1** | 0.999 |
+| TNFRSF1A | **IKBKG** | 0.999 |
+| RIPK1 | **UBE2D2** | 0.542 |
+| RIPK1 | **UBE2L3** | 0.549 |
+| RIPK1 | **OTULIN** | 0.603 |
+| RIPK1 | **SPATA2** | 0.685 |
+| RIPK1 | **RPS27A** | 0.758 |
+| RIPK1 | **UBC** | 0.837 |
+| RIPK1 | **TBK1** | 0.979 |
+| RIPK1 | **SHARPIN** | 0.981 |
+| RIPK1 | **RBCK1** | 0.986 |
+| RIPK1 | **RNF31** | 0.993 |
+| RIPK1 | **IKBKG** | 0.999 |
+| RIPK1 | **BIRC2** | 0.999 |
+| RIPK1 | **TNF** | 0.999 |
+| RIPK1 | **CYLD** | 0.999 |
+| RPS27A | **SPATA2** | 0.4 |
+| RPS27A | **TNF** | 0.593 |
+| RPS27A | **SHARPIN** | 0.739 |
+| RPS27A | **RBCK1** | 0.74 |
+| RPS27A | **TBK1** | 0.828 |
+| RPS27A | **UBE2L3** | 0.869 |
+| RPS27A | **OTULIN** | 0.915 |
+| RPS27A | **IKBKG** | 0.936 |
+| RPS27A | **CYLD** | 0.975 |
+| RPS27A | **RNF31** | 0.976 |
+| RPS27A | **BIRC2** | 0.981 |
+| RPS27A | **UBE2D2** | 0.996 |
+| RPS27A | **UBC** | 0.998 |
+| OTULIN | **UBE2L3** | 0.418 |
+| OTULIN | **IKBKG** | 0.489 |
+| OTULIN | **SPATA2** | 0.616 |
+| OTULIN | **CYLD** | 0.832 |
+| OTULIN | **TNF** | 0.889 |
+| OTULIN | **RBCK1** | 0.975 |
+| OTULIN | **SHARPIN** | 0.977 |
+| OTULIN | **UBC** | 0.998 |
+| OTULIN | **RNF31** | 0.999 |
+| RNF31 | **UBE2L3** | 0.98 |
+| RNF31 | **UBE2D2** | 0.987 |
+| RNF31 | **CYLD** | 0.993 |
+| RNF31 | **BIRC2** | 0.995 |
+| RNF31 | **SPATA2** | 0.996 |
+| RNF31 | **TBK1** | 0.997 |
+| RNF31 | **TNF** | 0.998 |
+| RNF31 | **RBCK1** | 0.999 |
+| RNF31 | **SHARPIN** | 0.999 |
+| RNF31 | **UBC** | 0.999 |
+| RNF31 | **IKBKG** | 0.999 |
+| TBK1 | **SPATA2** | 0.537 |
+| TBK1 | **SHARPIN** | 0.627 |
+| TBK1 | **RBCK1** | 0.654 |
+| TBK1 | **UBC** | 0.681 |
+| TBK1 | **BIRC2** | 0.833 |
+| TBK1 | **CYLD** | 0.969 |
+| TBK1 | **IKBKG** | 0.998 |
+| TBK1 | **TNF** | 0.998 |
+| RBCK1 | **UBE2D2** | 0.597 |
+| RBCK1 | **CYLD** | 0.877 |
+| RBCK1 | **UBE2L3** | 0.956 |
+| RBCK1 | **BIRC2** | 0.975 |
+| RBCK1 | **SPATA2** | 0.984 |
+| RBCK1 | **TNF** | 0.997 |
+| RBCK1 | **UBC** | 0.999 |
+| RBCK1 | **SHARPIN** | 0.999 |
+| RBCK1 | **IKBKG** | 0.999 |
+| SHARPIN | **UBE2L3** | 0.739 |
+| SHARPIN | **UBC** | 0.826 |
+| SHARPIN | **CYLD** | 0.936 |
+| SHARPIN | **SPATA2** | 0.982 |
+| SHARPIN | **BIRC2** | 0.984 |
+| SHARPIN | **TNF** | 0.998 |
+| SHARPIN | **IKBKG** | 0.998 |
+| UBE2D2 | **CYLD** | 0.594 |
+| UBE2D2 | **IKBKG** | 0.62 |
+| UBE2D2 | **UBE2L3** | 0.683 |
+| UBE2D2 | **BIRC2** | 0.994 |
+| UBE2D2 | **UBC** | 0.998 |
+| CYLD | **UBE2L3** | 0.537 |
+| CYLD | **BIRC2** | 0.943 |
+| CYLD | **TNF** | 0.985 |
+| CYLD | **UBC** | 0.995 |
+| CYLD | **SPATA2** | 0.997 |
+| CYLD | **IKBKG** | 0.999 |
+| TNF | **UBE2L3** | 0.513 |
+| TNF | **SPATA2** | 0.941 |
+| TNF | **UBC** | 0.998 |
+| TNF | **BIRC2** | 0.999 |
+| TNF | **IKBKG** | 0.999 |
+| UBE2L3 | **SPATA2** | 0.455 |
+| UBE2L3 | **UBC** | 0.794 |
+| UBE2L3 | **BIRC2** | 0.8 |
+| SPATA2 | **UBC** | 0.409 |
+| SPATA2 | **BIRC2** | 0.62 |
+| SPATA2 | **IKBKG** | 0.852 |
+| UBC | **BIRC2** | 0.991 |
+| UBC | **IKBKG** | 0.999 |
+| BIRC2 | **IKBKG** | 0.992 |
+

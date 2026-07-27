@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RCL1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RCL1
+Identifiant STRING officiel : `9606.ENSP00000371169`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **UTP20** | 0.997 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **IMP4** | 0.998 |
+| UTP18 | **HEATR1** | 0.999 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **UTP15** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **NGDN** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **NOC4L** | 0.999 |
+| UTP18 | **BMS1** | 0.999 |
+| UTP18 | **RRP7A** | 0.999 |
+| UTP18 | **RCL1** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| UTP18 | **WDR43** | 0.999 |
+| BYSL | **HEATR1** | 0.998 |
+| BYSL | **NGDN** | 0.998 |
+| BYSL | **UTP20** | 0.998 |
+| BYSL | **RRP7A** | 0.998 |
+| BYSL | **WDR43** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP15** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **NOC4L** | 0.999 |
+| BYSL | **BMS1** | 0.999 |
+| BYSL | **RCL1** | 0.999 |
+| BYSL | **RRP9** | 0.999 |
+| BYSL | **WDR3** | 0.999 |
+| BYSL | **IMP4** | 0.999 |
+| RRP9 | **NGDN** | 0.998 |
+| RRP9 | **RCL1** | 0.998 |
+| RRP9 | **RRP7A** | 0.998 |
+| RRP9 | **UTP20** | 0.998 |
+| RRP9 | **BMS1** | 0.998 |
+| RRP9 | **WDR3** | 0.998 |
+| RRP9 | **UTP6** | 0.999 |
+| RRP9 | **UTP15** | 0.999 |
+| RRP9 | **HEATR1** | 0.999 |
+| RRP9 | **UTP4** | 0.999 |
+| RRP9 | **NOC4L** | 0.999 |
+| RRP9 | **WDR43** | 0.999 |
+| RRP9 | **IMP4** | 0.999 |
+| IMP4 | **UTP15** | 0.994 |
+| IMP4 | **HEATR1** | 0.996 |
+| IMP4 | **RRP7A** | 0.997 |
+| IMP4 | **WDR3** | 0.998 |
+| IMP4 | **WDR43** | 0.998 |
+| IMP4 | **UTP20** | 0.998 |
+| IMP4 | **NGDN** | 0.998 |
+| IMP4 | **BMS1** | 0.999 |
+| IMP4 | **RCL1** | 0.999 |
+| IMP4 | **NOC4L** | 0.999 |
+| IMP4 | **UTP4** | 0.999 |
+| IMP4 | **UTP6** | 0.999 |
+| UTP20 | **NGDN** | 0.995 |
+| UTP20 | **RRP7A** | 0.996 |
+| UTP20 | **UTP15** | 0.998 |
+| UTP20 | **UTP6** | 0.998 |
+| UTP20 | **WDR43** | 0.998 |
+| UTP20 | **RCL1** | 0.998 |
+| UTP20 | **NOC4L** | 0.999 |
+| UTP20 | **UTP4** | 0.999 |
+| UTP20 | **HEATR1** | 0.999 |
+| UTP20 | **WDR3** | 0.999 |
+| UTP20 | **BMS1** | 0.999 |
+| UTP6 | **NOC4L** | 0.998 |
+| UTP6 | **RCL1** | 0.998 |
+| UTP6 | **RRP7A** | 0.998 |
+| UTP6 | **NGDN** | 0.999 |
+| UTP6 | **UTP15** | 0.999 |
+| UTP6 | **UTP4** | 0.999 |
+| UTP6 | **HEATR1** | 0.999 |
+| UTP6 | **WDR3** | 0.999 |
+| UTP6 | **WDR43** | 0.999 |
+| UTP6 | **BMS1** | 0.999 |
+| UTP15 | **NGDN** | 0.99 |
+| UTP15 | **RRP7A** | 0.994 |
+| UTP15 | **RCL1** | 0.998 |
+| UTP15 | **BMS1** | 0.999 |
+| UTP15 | **WDR3** | 0.999 |
+| UTP15 | **WDR43** | 0.999 |
+| UTP15 | **UTP4** | 0.999 |
+| UTP15 | **HEATR1** | 0.999 |
+| UTP15 | **NOC4L** | 0.999 |
+| WDR3 | **RRP7A** | 0.997 |
+| WDR3 | **NGDN** | 0.997 |
+| WDR3 | **RCL1** | 0.998 |
+| WDR3 | **WDR43** | 0.999 |
+| WDR3 | **BMS1** | 0.999 |
+| WDR3 | **NOC4L** | 0.999 |
+| WDR3 | **HEATR1** | 0.999 |
+| WDR3 | **UTP4** | 0.999 |
+| RRP7A | **NGDN** | 0.995 |
+| RRP7A | **NOC4L** | 0.997 |
+| RRP7A | **UTP4** | 0.998 |
+| RRP7A | **HEATR1** | 0.998 |
+| RRP7A | **WDR43** | 0.998 |
+| RRP7A | **BMS1** | 0.998 |
+| RRP7A | **RCL1** | 0.998 |
+| UTP4 | **HEATR1** | 0.999 |
+| UTP4 | **NOC4L** | 0.999 |
+| UTP4 | **NGDN** | 0.999 |
+| UTP4 | **RCL1** | 0.999 |
+| UTP4 | **BMS1** | 0.999 |
+| UTP4 | **WDR43** | 0.999 |
+| NOC4L | **BMS1** | 0.998 |
+| NOC4L | **RCL1** | 0.998 |
+| NOC4L | **HEATR1** | 0.998 |
+| NOC4L | **WDR43** | 0.999 |
+| NOC4L | **NGDN** | 0.999 |
+| HEATR1 | **RCL1** | 0.998 |
+| HEATR1 | **NGDN** | 0.998 |
+| HEATR1 | **BMS1** | 0.999 |
+| HEATR1 | **WDR43** | 0.999 |
+| BMS1 | **NGDN** | 0.998 |
+| BMS1 | **RCL1** | 0.999 |
+| BMS1 | **WDR43** | 0.999 |
+| RCL1 | **NGDN** | 0.998 |
+| RCL1 | **WDR43** | 0.999 |
+| WDR43 | **NGDN** | 0.998 |
+

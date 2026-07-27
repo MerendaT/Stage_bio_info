@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PI4K2A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PI4K2A
+Identifiant STRING officiel : `9606.ENSP00000359665`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDIPT | **INPP5F** | 0.9 |
+| CDIPT | **PIK3R3** | 0.903 |
+| CDIPT | **PIK3R1** | 0.904 |
+| CDIPT | **PIK3C2A** | 0.907 |
+| CDIPT | **PIK3R2** | 0.909 |
+| CDIPT | **PIK3C2B** | 0.914 |
+| CDIPT | **PIKFYVE** | 0.943 |
+| CDIPT | **PI4K2A** | 0.944 |
+| CDIPT | **PI4KA** | 0.976 |
+| CDIPT | **PIK3C3** | 0.988 |
+| CDIPT | **PI4KB** | 0.991 |
+| PIK3R2 | **INPP5F** | 0.9 |
+| PIK3R2 | **PIP5K1B** | 0.913 |
+| PIK3R2 | **PIKFYVE** | 0.914 |
+| PIK3R2 | **PIP5K1A** | 0.925 |
+| PIK3R2 | **PI4KA** | 0.925 |
+| PIK3R2 | **PI4K2A** | 0.928 |
+| PIK3R2 | **PIP5K1C** | 0.928 |
+| PIK3R2 | **PI4KB** | 0.929 |
+| PIK3R2 | **PIK3C3** | 0.933 |
+| PIK3R2 | **PIK3C2A** | 0.939 |
+| PIK3R2 | **PIK3C2B** | 0.952 |
+| PIK3R2 | **PIK3R3** | 0.999 |
+| PIK3R2 | **PIK3R1** | 0.999 |
+| PI4KA | **INPP5F** | 0.912 |
+| PI4KA | **PIK3C2B** | 0.915 |
+| PI4KA | **PIK3C2A** | 0.916 |
+| PI4KA | **PIK3R3** | 0.918 |
+| PI4KA | **PIK3R1** | 0.924 |
+| PI4KA | **PIK3C3** | 0.927 |
+| PI4KA | **PIP5KL1** | 0.937 |
+| PI4KA | **PIKFYVE** | 0.956 |
+| PI4KA | **PIP5K1B** | 0.958 |
+| PI4KA | **PIP5K1A** | 0.96 |
+| PI4KA | **PIP5K1C** | 0.966 |
+| PI4KA | **PI4KB** | 0.969 |
+| PI4KA | **PI4K2A** | 0.976 |
+| PIK3C3 | **PIK3C2A** | 0.669 |
+| PIK3C3 | **PIK3C2B** | 0.725 |
+| PIK3C3 | **INPP5F** | 0.913 |
+| PIK3C3 | **PIK3R3** | 0.933 |
+| PIK3C3 | **PI4KB** | 0.938 |
+| PIK3C3 | **PI4K2A** | 0.938 |
+| PIK3C3 | **PIK3R1** | 0.955 |
+| PIK3C3 | **PIKFYVE** | 0.98 |
+| PIK3R3 | **INPP5F** | 0.9 |
+| PIK3R3 | **PIKFYVE** | 0.912 |
+| PIK3R3 | **PIP5K1B** | 0.921 |
+| PIK3R3 | **PIP5K1C** | 0.922 |
+| PIK3R3 | **PI4KB** | 0.923 |
+| PIK3R3 | **PI4K2A** | 0.924 |
+| PIK3R3 | **PIP5K1A** | 0.925 |
+| PIK3R3 | **PIK3C2A** | 0.94 |
+| PIK3R3 | **PIK3C2B** | 0.948 |
+| PIK3R3 | **PIK3R1** | 0.997 |
+| PIKFYVE | **PIP5K1A** | 0.558 |
+| PIKFYVE | **INPP5F** | 0.915 |
+| PIKFYVE | **PIK3R1** | 0.917 |
+| PIKFYVE | **PIK3C2B** | 0.929 |
+| PIKFYVE | **PIK3C2A** | 0.942 |
+| PIKFYVE | **PI4K2A** | 0.943 |
+| PIKFYVE | **PI4KB** | 0.961 |
+| PIP5K1B | **INPP5F** | 0.903 |
+| PIP5K1B | **PIK3C2B** | 0.908 |
+| PIP5K1B | **PIK3R1** | 0.919 |
+| PIP5K1B | **PIK3C2A** | 0.92 |
+| PIP5K1B | **PIP5KL1** | 0.934 |
+| PIP5K1B | **PI4K2A** | 0.936 |
+| PIP5K1B | **PIP5K1A** | 0.941 |
+| PIP5K1B | **PIP5K1C** | 0.942 |
+| PIP5K1B | **PI4KB** | 0.964 |
+| PIK3C2A | **INPP5F** | 0.904 |
+| PIK3C2A | **PIP5KL1** | 0.907 |
+| PIK3C2A | **PI4KB** | 0.912 |
+| PIK3C2A | **PIP5K1A** | 0.92 |
+| PIK3C2A | **PIP5K1C** | 0.922 |
+| PIK3C2A | **PI4K2A** | 0.931 |
+| PIK3C2A | **PIK3R1** | 0.938 |
+| PIK3C2A | **PIK3C2B** | 0.941 |
+| PIK3C2B | **INPP5F** | 0.91 |
+| PIK3C2B | **PI4K2A** | 0.916 |
+| PIK3C2B | **PIP5KL1** | 0.917 |
+| PIK3C2B | **PI4KB** | 0.917 |
+| PIK3C2B | **PIP5K1A** | 0.921 |
+| PIK3C2B | **PIP5K1C** | 0.926 |
+| PIK3C2B | **PIK3R1** | 0.953 |
+| PI4KB | **INPP5F** | 0.902 |
+| PI4KB | **PIK3R1** | 0.925 |
+| PI4KB | **PIP5KL1** | 0.946 |
+| PI4KB | **PIP5K1A** | 0.971 |
+| PI4KB | **PIP5K1C** | 0.972 |
+| PI4KB | **PI4K2A** | 0.978 |
+| PIP5K1A | **INPP5F** | 0.913 |
+| PIP5K1A | **PIK3R1** | 0.926 |
+| PIP5K1A | **PIP5KL1** | 0.961 |
+| PIP5K1A | **PI4K2A** | 0.964 |
+| PIP5K1A | **PIP5K1C** | 0.973 |
+| PI4K2A | **PIK3R1** | 0.914 |
+| PI4K2A | **INPP5F** | 0.92 |
+| PI4K2A | **PIP5KL1** | 0.921 |
+| PI4K2A | **PIP5K1C** | 0.961 |
+| PIP5KL1 | **INPP5F** | 0.9 |
+| PIP5KL1 | **PIP5K1C** | 0.93 |
+| PIK3R1 | **INPP5F** | 0.9 |
+| PIK3R1 | **PIP5K1C** | 0.925 |
+| PIP5K1C | **INPP5F** | 0.903 |
+

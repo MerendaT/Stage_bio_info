@@ -1,0 +1,236 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P20851",
+      "uniProtkbId": "C4BPB_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "C4BPB"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Controls the classical pathway of complement activation. It binds as a cofactor to C3b/C4b inactivator (C3bINA), which then hydrolyzes the complement fragment C4b. It also accelerates the degradation of the C4bC2a complex (C3 convertase) by dissociating the complement fragment C2a. It also interacts with anticoagulant protein S and with serum amyloid P component. The beta chain binds protein S"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "14718574"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14607961"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22333221"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8325877"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006958",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement activation, classical pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:innate immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045959",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of complement activation, classical pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22333221"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045732",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22333221"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903027",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of opsonization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22333221"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009609",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to symbiotic bacterium"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22333221"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000126C25"
+      }
+    }
+  ]
+}

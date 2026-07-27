@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ADPGK
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ADPGK
+Identifiant STRING officiel : `9606.ENSP00000312250`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GCK | **GLYCTK** | 0.822 |
+| GCK | **ALDOC** | 0.859 |
+| GCK | **ALDOA** | 0.868 |
+| GCK | **ALDOB** | 0.891 |
+| GCK | **HK2** | 0.915 |
+| GCK | **HKDC1** | 0.915 |
+| GCK | **HK3** | 0.916 |
+| GCK | **HK1** | 0.917 |
+| GCK | **GALM** | 0.923 |
+| GCK | **PGM2** | 0.934 |
+| GCK | **ADPGK** | 0.982 |
+| GCK | **G6PC3** | 0.983 |
+| GCK | **G6PC** | 0.986 |
+| GCK | **G6PC2** | 0.989 |
+| GCK | **GPI** | 0.99 |
+| G6PC | **GLYCTK** | 0.834 |
+| G6PC | **ALDOC** | 0.855 |
+| G6PC | **ALDOA** | 0.864 |
+| G6PC | **ADPGK** | 0.905 |
+| G6PC | **G6PC2** | 0.907 |
+| G6PC | **GALM** | 0.913 |
+| G6PC | **G6PC3** | 0.917 |
+| G6PC | **PGM2** | 0.917 |
+| G6PC | **ALDOB** | 0.93 |
+| G6PC | **GPI** | 0.939 |
+| G6PC | **HK1** | 0.941 |
+| G6PC | **HKDC1** | 0.946 |
+| G6PC | **HK2** | 0.947 |
+| G6PC | **HK3** | 0.949 |
+| G6PC3 | **GLYCTK** | 0.82 |
+| G6PC3 | **ALDOC** | 0.841 |
+| G6PC3 | **ALDOA** | 0.849 |
+| G6PC3 | **ALDOB** | 0.858 |
+| G6PC3 | **PGM2** | 0.906 |
+| G6PC3 | **ADPGK** | 0.912 |
+| G6PC3 | **G6PC2** | 0.913 |
+| G6PC3 | **GALM** | 0.919 |
+| G6PC3 | **GPI** | 0.937 |
+| G6PC3 | **HK1** | 0.943 |
+| G6PC3 | **HKDC1** | 0.945 |
+| G6PC3 | **HK2** | 0.946 |
+| G6PC3 | **HK3** | 0.95 |
+| GALM | **ALDOC** | 0.466 |
+| GALM | **GPI** | 0.617 |
+| GALM | **G6PC2** | 0.908 |
+| GALM | **ADPGK** | 0.91 |
+| GALM | **HKDC1** | 0.912 |
+| GALM | **HK1** | 0.914 |
+| GALM | **HK2** | 0.918 |
+| GALM | **HK3** | 0.926 |
+| HK2 | **GLYCTK** | 0.813 |
+| HK2 | **ALDOB** | 0.875 |
+| HK2 | **ALDOC** | 0.881 |
+| HK2 | **HKDC1** | 0.906 |
+| HK2 | **ALDOA** | 0.921 |
+| HK2 | **ADPGK** | 0.928 |
+| HK2 | **G6PC2** | 0.941 |
+| HK2 | **PGM2** | 0.946 |
+| HK2 | **HK3** | 0.974 |
+| HK2 | **HK1** | 0.979 |
+| HK2 | **GPI** | 0.986 |
+| HK3 | **GLYCTK** | 0.816 |
+| HK3 | **ALDOA** | 0.858 |
+| HK3 | **ALDOC** | 0.86 |
+| HK3 | **ALDOB** | 0.871 |
+| HK3 | **ADPGK** | 0.93 |
+| HK3 | **PGM2** | 0.936 |
+| HK3 | **G6PC2** | 0.943 |
+| HK3 | **HKDC1** | 0.961 |
+| HK3 | **GPI** | 0.978 |
+| HK3 | **HK1** | 0.978 |
+| ADPGK | **GLYCTK** | 0.847 |
+| ADPGK | **G6PC2** | 0.9 |
+| ADPGK | **ALDOB** | 0.902 |
+| ADPGK | **ALDOC** | 0.909 |
+| ADPGK | **ALDOA** | 0.917 |
+| ADPGK | **HKDC1** | 0.918 |
+| ADPGK | **HK1** | 0.936 |
+| ADPGK | **PGM2** | 0.953 |
+| ADPGK | **GPI** | 0.991 |
+| HKDC1 | **GLYCTK** | 0.834 |
+| HKDC1 | **ALDOC** | 0.878 |
+| HKDC1 | **ALDOB** | 0.881 |
+| HKDC1 | **ALDOA** | 0.882 |
+| HKDC1 | **PGM2** | 0.938 |
+| HKDC1 | **G6PC2** | 0.942 |
+| HKDC1 | **HK1** | 0.973 |
+| HKDC1 | **GPI** | 0.975 |
+| G6PC2 | **GLYCTK** | 0.819 |
+| G6PC2 | **ALDOC** | 0.832 |
+| G6PC2 | **ALDOA** | 0.837 |
+| G6PC2 | **ALDOB** | 0.881 |
+| G6PC2 | **PGM2** | 0.902 |
+| G6PC2 | **GPI** | 0.934 |
+| G6PC2 | **HK1** | 0.942 |
+| PGM2 | **GLYCTK** | 0.8 |
+| PGM2 | **ALDOB** | 0.843 |
+| PGM2 | **ALDOC** | 0.859 |
+| PGM2 | **ALDOA** | 0.883 |
+| PGM2 | **HK1** | 0.945 |
+| PGM2 | **GPI** | 0.988 |
+| ALDOC | **GLYCTK** | 0.824 |
+| ALDOC | **HK1** | 0.907 |
+| ALDOC | **ALDOB** | 0.96 |
+| ALDOC | **GPI** | 0.979 |
+| ALDOC | **ALDOA** | 0.993 |
+| GLYCTK | **HK1** | 0.813 |
+| GLYCTK | **ALDOA** | 0.83 |
+| GLYCTK | **ALDOB** | 0.833 |
+| GLYCTK | **GPI** | 0.875 |
+| GPI | **ALDOB** | 0.97 |
+| GPI | **HK1** | 0.985 |
+| GPI | **ALDOA** | 0.987 |
+| HK1 | **ALDOB** | 0.868 |
+| HK1 | **ALDOA** | 0.939 |
+| ALDOA | **ALDOB** | 0.976 |
+

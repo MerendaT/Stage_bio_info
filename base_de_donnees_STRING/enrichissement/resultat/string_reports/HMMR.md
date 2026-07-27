@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : HMMR
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HMMR
+Identifiant STRING officiel : `9606.ENSP00000377492`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AURKA | **BRCA2** | 0.581 |
+| AURKA | **FAM83D** | 0.818 |
+| AURKA | **CENPE** | 0.869 |
+| AURKA | **CENPF** | 0.902 |
+| AURKA | **ASPM** | 0.93 |
+| AURKA | **CEP55** | 0.936 |
+| AURKA | **BRCA1** | 0.942 |
+| AURKA | **CCNA2** | 0.949 |
+| AURKA | **CDK1** | 0.951 |
+| AURKA | **DLGAP5** | 0.966 |
+| AURKA | **HMMR** | 0.97 |
+| AURKA | **KIF11** | 0.972 |
+| AURKA | **CCNB1** | 0.979 |
+| AURKA | **TPX2** | 0.999 |
+| DLGAP5 | **BRCA2** | 0.411 |
+| DLGAP5 | **BRCA1** | 0.444 |
+| DLGAP5 | **FAM83D** | 0.77 |
+| DLGAP5 | **CDK1** | 0.957 |
+| DLGAP5 | **CENPE** | 0.957 |
+| DLGAP5 | **CCNB1** | 0.965 |
+| DLGAP5 | **CCNA2** | 0.97 |
+| DLGAP5 | **CENPF** | 0.976 |
+| DLGAP5 | **TPX2** | 0.978 |
+| DLGAP5 | **ASPM** | 0.994 |
+| DLGAP5 | **KIF11** | 0.997 |
+| DLGAP5 | **HMMR** | 0.999 |
+| DLGAP5 | **CEP55** | 0.999 |
+| CCNB1 | **FAM83D** | 0.601 |
+| CCNB1 | **BRCA2** | 0.63 |
+| CCNB1 | **BRCA1** | 0.916 |
+| CCNB1 | **CEP55** | 0.94 |
+| CCNB1 | **HMMR** | 0.942 |
+| CCNB1 | **TPX2** | 0.949 |
+| CCNB1 | **ASPM** | 0.952 |
+| CCNB1 | **KIF11** | 0.966 |
+| CCNB1 | **CENPE** | 0.967 |
+| CCNB1 | **CENPF** | 0.988 |
+| CCNB1 | **CCNA2** | 0.995 |
+| CCNB1 | **CDK1** | 0.999 |
+| KIF11 | **BRCA2** | 0.463 |
+| KIF11 | **BRCA1** | 0.571 |
+| KIF11 | **FAM83D** | 0.686 |
+| KIF11 | **HMMR** | 0.928 |
+| KIF11 | **TPX2** | 0.965 |
+| KIF11 | **CENPF** | 0.972 |
+| KIF11 | **CCNA2** | 0.978 |
+| KIF11 | **CDK1** | 0.987 |
+| KIF11 | **CENPE** | 0.988 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **CEP55** | 0.997 |
+| CENPE | **BRCA1** | 0.564 |
+| CENPE | **BRCA2** | 0.571 |
+| CENPE | **FAM83D** | 0.618 |
+| CENPE | **TPX2** | 0.894 |
+| CENPE | **CCNA2** | 0.917 |
+| CENPE | **HMMR** | 0.926 |
+| CENPE | **CEP55** | 0.936 |
+| CENPE | **CDK1** | 0.973 |
+| CENPE | **ASPM** | 0.981 |
+| CENPE | **CENPF** | 0.999 |
+| TPX2 | **BRCA2** | 0.535 |
+| TPX2 | **FAM83D** | 0.864 |
+| TPX2 | **BRCA1** | 0.922 |
+| TPX2 | **CEP55** | 0.944 |
+| TPX2 | **ASPM** | 0.949 |
+| TPX2 | **CDK1** | 0.952 |
+| TPX2 | **CENPF** | 0.954 |
+| TPX2 | **CCNA2** | 0.954 |
+| TPX2 | **HMMR** | 0.979 |
+| CENPF | **BRCA2** | 0.462 |
+| CENPF | **BRCA1** | 0.654 |
+| CENPF | **FAM83D** | 0.734 |
+| CENPF | **HMMR** | 0.927 |
+| CENPF | **CCNA2** | 0.944 |
+| CENPF | **CEP55** | 0.959 |
+| CENPF | **CDK1** | 0.978 |
+| CENPF | **ASPM** | 0.987 |
+| ASPM | **BRCA2** | 0.431 |
+| ASPM | **FAM83D** | 0.599 |
+| ASPM | **BRCA1** | 0.641 |
+| ASPM | **HMMR** | 0.928 |
+| ASPM | **CDK1** | 0.942 |
+| ASPM | **CCNA2** | 0.944 |
+| ASPM | **CEP55** | 0.95 |
+| CEP55 | **BRCA1** | 0.427 |
+| CEP55 | **BRCA2** | 0.615 |
+| CEP55 | **FAM83D** | 0.623 |
+| CEP55 | **CCNA2** | 0.923 |
+| CEP55 | **HMMR** | 0.926 |
+| CEP55 | **CDK1** | 0.957 |
+| BRCA2 | **CDK1** | 0.645 |
+| BRCA2 | **CCNA2** | 0.877 |
+| BRCA2 | **HMMR** | 0.929 |
+| BRCA2 | **BRCA1** | 0.999 |
+| HMMR | **CCNA2** | 0.921 |
+| HMMR | **CDK1** | 0.931 |
+| HMMR | **FAM83D** | 0.956 |
+| HMMR | **BRCA1** | 0.964 |
+| HMMR | **CD44** | 0.995 |
+| CDK1 | **CD44** | 0.593 |
+| CDK1 | **FAM83D** | 0.76 |
+| CDK1 | **BRCA1** | 0.878 |
+| CDK1 | **CCNA2** | 0.999 |
+| CD44 | **FAM83D** | 0.407 |
+| CD44 | **BRCA1** | 0.505 |
+| BRCA1 | **CCNA2** | 0.956 |
+| CCNA2 | **FAM83D** | 0.585 |
+

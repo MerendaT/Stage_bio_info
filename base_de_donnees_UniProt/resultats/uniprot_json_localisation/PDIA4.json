@@ -1,0 +1,264 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P13667",
+      "uniProtkbId": "PDIA4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "PDIA4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17081065"
+                  }
+                ],
+                "value": "Identified by mass spectrometry in melanosome fractions from stage I to stage IV (PubMed:17081065)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12643545"
+                  }
+                ],
+                "value": "Endoplasmic reticulum lumen",
+                "id": "SL-0096"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17081065"
+                  }
+                ],
+                "value": "Melanosome",
+                "id": "SL-0161"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19995400"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "2295602"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19995400"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042470",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:melanosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003756",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein disulfide isomerase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015035",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-disulfide reductase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16677074"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003723",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22658674"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006457",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein folding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009306",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein secretion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "2295602"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004062C"
+      }
+    }
+  ]
+}

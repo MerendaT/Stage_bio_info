@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : GTF2B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : GTF2B
+Identifiant STRING officiel : `9606.ENSP00000359531`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TBP | **POLR2B** | 0.982 |
+| TBP | **POLR2D** | 0.986 |
+| TBP | **POLR2E** | 0.993 |
+| TBP | **GTF2H4** | 0.997 |
+| TBP | **ERCC3** | 0.998 |
+| TBP | **GTF2E2** | 0.998 |
+| TBP | **POLR2A** | 0.999 |
+| TBP | **TAF9** | 0.999 |
+| TBP | **GTF2A1** | 0.999 |
+| TBP | **GTF2E1** | 0.999 |
+| TBP | **GTF2F2** | 0.999 |
+| TBP | **GTF2A2** | 0.999 |
+| TBP | **TAF1** | 0.999 |
+| TBP | **GTF2F1** | 0.999 |
+| TBP | **GTF2B** | 0.999 |
+| GTF2H4 | **POLR2D** | 0.971 |
+| GTF2H4 | **POLR2E** | 0.971 |
+| GTF2H4 | **GTF2F2** | 0.976 |
+| GTF2H4 | **POLR2B** | 0.976 |
+| GTF2H4 | **TAF9** | 0.979 |
+| GTF2H4 | **TAF1** | 0.98 |
+| GTF2H4 | **POLR2A** | 0.988 |
+| GTF2H4 | **GTF2A2** | 0.992 |
+| GTF2H4 | **GTF2A1** | 0.992 |
+| GTF2H4 | **GTF2F1** | 0.998 |
+| GTF2H4 | **GTF2B** | 0.998 |
+| GTF2H4 | **ERCC3** | 0.999 |
+| GTF2H4 | **GTF2E1** | 0.999 |
+| GTF2H4 | **GTF2E2** | 0.999 |
+| POLR2D | **TAF9** | 0.901 |
+| POLR2D | **TAF1** | 0.906 |
+| POLR2D | **GTF2A1** | 0.948 |
+| POLR2D | **GTF2A2** | 0.969 |
+| POLR2D | **GTF2E2** | 0.974 |
+| POLR2D | **GTF2E1** | 0.982 |
+| POLR2D | **ERCC3** | 0.984 |
+| POLR2D | **GTF2F1** | 0.996 |
+| POLR2D | **GTF2F2** | 0.996 |
+| POLR2D | **GTF2B** | 0.998 |
+| POLR2D | **POLR2A** | 0.999 |
+| POLR2D | **POLR2E** | 0.999 |
+| POLR2D | **POLR2B** | 0.999 |
+| GTF2E1 | **TAF9** | 0.99 |
+| GTF2E1 | **TAF1** | 0.991 |
+| GTF2E1 | **POLR2B** | 0.992 |
+| GTF2E1 | **POLR2E** | 0.996 |
+| GTF2E1 | **GTF2A1** | 0.997 |
+| GTF2E1 | **GTF2A2** | 0.998 |
+| GTF2E1 | **GTF2B** | 0.999 |
+| GTF2E1 | **GTF2F1** | 0.999 |
+| GTF2E1 | **GTF2E2** | 0.999 |
+| GTF2E1 | **GTF2F2** | 0.999 |
+| GTF2E1 | **ERCC3** | 0.999 |
+| GTF2E1 | **POLR2A** | 0.999 |
+| ERCC3 | **POLR2B** | 0.977 |
+| ERCC3 | **TAF9** | 0.98 |
+| ERCC3 | **TAF1** | 0.982 |
+| ERCC3 | **GTF2F2** | 0.993 |
+| ERCC3 | **GTF2A2** | 0.993 |
+| ERCC3 | **POLR2E** | 0.996 |
+| ERCC3 | **GTF2A1** | 0.997 |
+| ERCC3 | **GTF2F1** | 0.997 |
+| ERCC3 | **POLR2A** | 0.998 |
+| ERCC3 | **GTF2E2** | 0.999 |
+| ERCC3 | **GTF2B** | 0.999 |
+| GTF2F2 | **TAF9** | 0.949 |
+| GTF2F2 | **TAF1** | 0.951 |
+| GTF2F2 | **GTF2A1** | 0.981 |
+| GTF2F2 | **GTF2A2** | 0.992 |
+| GTF2F2 | **POLR2A** | 0.999 |
+| GTF2F2 | **POLR2E** | 0.999 |
+| GTF2F2 | **POLR2B** | 0.999 |
+| GTF2F2 | **GTF2E2** | 0.999 |
+| GTF2F2 | **GTF2B** | 0.999 |
+| GTF2F2 | **GTF2F1** | 0.999 |
+| GTF2E2 | **POLR2A** | 0.986 |
+| GTF2E2 | **POLR2E** | 0.987 |
+| GTF2E2 | **POLR2B** | 0.989 |
+| GTF2E2 | **TAF1** | 0.99 |
+| GTF2E2 | **TAF9** | 0.991 |
+| GTF2E2 | **GTF2A1** | 0.996 |
+| GTF2E2 | **GTF2A2** | 0.998 |
+| GTF2E2 | **GTF2B** | 0.999 |
+| GTF2E2 | **GTF2F1** | 0.999 |
+| GTF2B | **TAF9** | 0.998 |
+| GTF2B | **POLR2A** | 0.999 |
+| GTF2B | **GTF2A1** | 0.999 |
+| GTF2B | **POLR2E** | 0.999 |
+| GTF2B | **POLR2B** | 0.999 |
+| GTF2B | **GTF2A2** | 0.999 |
+| GTF2B | **TAF1** | 0.999 |
+| GTF2B | **GTF2F1** | 0.999 |
+| TAF9 | **POLR2B** | 0.914 |
+| TAF9 | **POLR2E** | 0.92 |
+| TAF9 | **POLR2A** | 0.923 |
+| TAF9 | **GTF2F1** | 0.989 |
+| TAF9 | **GTF2A1** | 0.99 |
+| TAF9 | **GTF2A2** | 0.995 |
+| TAF9 | **TAF1** | 0.999 |
+| POLR2B | **GTF2A1** | 0.947 |
+| POLR2B | **TAF1** | 0.949 |
+| POLR2B | **GTF2A2** | 0.972 |
+| POLR2B | **POLR2E** | 0.999 |
+| POLR2B | **POLR2A** | 0.999 |
+| POLR2B | **GTF2F1** | 0.999 |
+| GTF2F1 | **GTF2A1** | 0.996 |
+| GTF2F1 | **GTF2A2** | 0.997 |
+| GTF2F1 | **TAF1** | 0.998 |
+| GTF2F1 | **POLR2E** | 0.998 |
+| GTF2F1 | **POLR2A** | 0.998 |
+| GTF2A2 | **POLR2E** | 0.971 |
+| GTF2A2 | **TAF1** | 0.986 |
+| GTF2A2 | **POLR2A** | 0.993 |
+| GTF2A2 | **GTF2A1** | 0.999 |
+| TAF1 | **POLR2E** | 0.953 |
+| TAF1 | **GTF2A1** | 0.988 |
+| TAF1 | **POLR2A** | 0.993 |
+| GTF2A1 | **POLR2E** | 0.957 |
+| GTF2A1 | **POLR2A** | 0.988 |
+| POLR2A | **POLR2E** | 0.999 |
+

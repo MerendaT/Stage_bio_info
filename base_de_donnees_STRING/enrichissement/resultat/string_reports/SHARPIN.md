@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SHARPIN
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SHARPIN
+Identifiant STRING officiel : `9606.ENSP00000381698`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TNFRSF1A | **OTULIN** | 0.435 |
+| TNFRSF1A | **RIPK2** | 0.706 |
+| TNFRSF1A | **XIAP** | 0.853 |
+| TNFRSF1A | **SPATA2** | 0.997 |
+| TNFRSF1A | **SHARPIN** | 0.998 |
+| TNFRSF1A | **RBCK1** | 0.998 |
+| TNFRSF1A | **RNF31** | 0.998 |
+| TNFRSF1A | **BIRC2** | 0.999 |
+| TNFRSF1A | **TRAF5** | 0.999 |
+| TNFRSF1A | **CYLD** | 0.999 |
+| TNFRSF1A | **TNF** | 0.999 |
+| TNFRSF1A | **RIPK1** | 0.999 |
+| TNFRSF1A | **TRAF2** | 0.999 |
+| TNFRSF1A | **BIRC3** | 0.999 |
+| TNFRSF1A | **IKBKG** | 0.999 |
+| RIPK2 | **OTULIN** | 0.421 |
+| RIPK2 | **CYLD** | 0.661 |
+| RIPK2 | **TNF** | 0.703 |
+| RIPK2 | **RIPK1** | 0.711 |
+| RIPK2 | **RBCK1** | 0.934 |
+| RIPK2 | **SHARPIN** | 0.935 |
+| RIPK2 | **RNF31** | 0.956 |
+| RIPK2 | **TRAF5** | 0.972 |
+| RIPK2 | **TRAF2** | 0.988 |
+| RIPK2 | **BIRC3** | 0.988 |
+| RIPK2 | **BIRC2** | 0.993 |
+| RIPK2 | **IKBKG** | 0.993 |
+| RIPK2 | **XIAP** | 0.999 |
+| TRAF2 | **SPATA2** | 0.621 |
+| TRAF2 | **RBCK1** | 0.929 |
+| TRAF2 | **SHARPIN** | 0.937 |
+| TRAF2 | **XIAP** | 0.957 |
+| TRAF2 | **RNF31** | 0.958 |
+| TRAF2 | **CYLD** | 0.992 |
+| TRAF2 | **TRAF5** | 0.998 |
+| TRAF2 | **TNF** | 0.999 |
+| TRAF2 | **RIPK1** | 0.999 |
+| TRAF2 | **BIRC2** | 0.999 |
+| TRAF2 | **IKBKG** | 0.999 |
+| TRAF2 | **BIRC3** | 0.999 |
+| RIPK1 | **OTULIN** | 0.603 |
+| RIPK1 | **SPATA2** | 0.685 |
+| RIPK1 | **SHARPIN** | 0.981 |
+| RIPK1 | **RBCK1** | 0.986 |
+| RIPK1 | **XIAP** | 0.988 |
+| RIPK1 | **RNF31** | 0.993 |
+| RIPK1 | **BIRC3** | 0.999 |
+| RIPK1 | **IKBKG** | 0.999 |
+| RIPK1 | **TRAF5** | 0.999 |
+| RIPK1 | **BIRC2** | 0.999 |
+| RIPK1 | **TNF** | 0.999 |
+| RIPK1 | **CYLD** | 0.999 |
+| TRAF5 | **CYLD** | 0.571 |
+| TRAF5 | **TNF** | 0.673 |
+| TRAF5 | **RBCK1** | 0.93 |
+| TRAF5 | **XIAP** | 0.931 |
+| TRAF5 | **SHARPIN** | 0.931 |
+| TRAF5 | **RNF31** | 0.935 |
+| TRAF5 | **IKBKG** | 0.967 |
+| TRAF5 | **BIRC3** | 0.997 |
+| TRAF5 | **BIRC2** | 0.999 |
+| BIRC3 | **SPATA2** | 0.529 |
+| BIRC3 | **IKBKG** | 0.936 |
+| BIRC3 | **RBCK1** | 0.942 |
+| BIRC3 | **CYLD** | 0.944 |
+| BIRC3 | **RNF31** | 0.946 |
+| BIRC3 | **SHARPIN** | 0.947 |
+| BIRC3 | **TNF** | 0.964 |
+| BIRC3 | **XIAP** | 0.994 |
+| BIRC3 | **BIRC2** | 0.996 |
+| OTULIN | **IKBKG** | 0.489 |
+| OTULIN | **SPATA2** | 0.616 |
+| OTULIN | **CYLD** | 0.832 |
+| OTULIN | **TNF** | 0.889 |
+| OTULIN | **RBCK1** | 0.975 |
+| OTULIN | **SHARPIN** | 0.977 |
+| OTULIN | **RNF31** | 0.999 |
+| RNF31 | **XIAP** | 0.933 |
+| RNF31 | **CYLD** | 0.993 |
+| RNF31 | **BIRC2** | 0.995 |
+| RNF31 | **SPATA2** | 0.996 |
+| RNF31 | **TNF** | 0.998 |
+| RNF31 | **RBCK1** | 0.999 |
+| RNF31 | **SHARPIN** | 0.999 |
+| RNF31 | **IKBKG** | 0.999 |
+| RBCK1 | **CYLD** | 0.877 |
+| RBCK1 | **XIAP** | 0.925 |
+| RBCK1 | **BIRC2** | 0.975 |
+| RBCK1 | **SPATA2** | 0.984 |
+| RBCK1 | **TNF** | 0.997 |
+| RBCK1 | **SHARPIN** | 0.999 |
+| RBCK1 | **IKBKG** | 0.999 |
+| XIAP | **SPATA2** | 0.555 |
+| XIAP | **CYLD** | 0.709 |
+| XIAP | **IKBKG** | 0.722 |
+| XIAP | **TNF** | 0.902 |
+| XIAP | **SHARPIN** | 0.929 |
+| XIAP | **BIRC2** | 0.996 |
+| SHARPIN | **CYLD** | 0.936 |
+| SHARPIN | **SPATA2** | 0.982 |
+| SHARPIN | **BIRC2** | 0.984 |
+| SHARPIN | **TNF** | 0.998 |
+| SHARPIN | **IKBKG** | 0.998 |
+| CYLD | **BIRC2** | 0.943 |
+| CYLD | **TNF** | 0.985 |
+| CYLD | **SPATA2** | 0.997 |
+| CYLD | **IKBKG** | 0.999 |
+| TNF | **SPATA2** | 0.941 |
+| TNF | **BIRC2** | 0.999 |
+| TNF | **IKBKG** | 0.999 |
+| SPATA2 | **BIRC2** | 0.62 |
+| SPATA2 | **IKBKG** | 0.852 |
+| BIRC2 | **IKBKG** | 0.992 |
+

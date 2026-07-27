@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DDX27
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDX27
+Identifiant STRING officiel : `9606.ENSP00000483495`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBM28 | **UTP18** | 0.898 |
+| RBM28 | **WDR3** | 0.913 |
+| RBM28 | **UTP14A** | 0.916 |
+| RBM28 | **WDR12** | 0.917 |
+| RBM28 | **BOP1** | 0.918 |
+| RBM28 | **FTSJ3** | 0.927 |
+| RBM28 | **NOP56** | 0.945 |
+| RBM28 | **PES1** | 0.955 |
+| RBM28 | **RPF2** | 0.969 |
+| RBM28 | **PUM3** | 0.972 |
+| RBM28 | **NOC2L** | 0.973 |
+| RBM28 | **RBM34** | 0.975 |
+| RBM28 | **DDX27** | 0.986 |
+| RBM28 | **NIFK** | 0.988 |
+| RBM28 | **NOP2** | 0.99 |
+| UTP18 | **NIFK** | 0.73 |
+| UTP18 | **NOP2** | 0.763 |
+| UTP18 | **FTSJ3** | 0.807 |
+| UTP18 | **PES1** | 0.822 |
+| UTP18 | **PUM3** | 0.844 |
+| UTP18 | **RPF2** | 0.891 |
+| UTP18 | **WDR12** | 0.923 |
+| UTP18 | **NOC2L** | 0.932 |
+| UTP18 | **DDX27** | 0.951 |
+| UTP18 | **BOP1** | 0.981 |
+| UTP18 | **UTP14A** | 0.998 |
+| UTP18 | **NOP56** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| WDR12 | **UTP14A** | 0.765 |
+| WDR12 | **NOP56** | 0.804 |
+| WDR12 | **PUM3** | 0.875 |
+| WDR12 | **RBM34** | 0.884 |
+| WDR12 | **WDR3** | 0.954 |
+| WDR12 | **DDX27** | 0.955 |
+| WDR12 | **NOP2** | 0.975 |
+| WDR12 | **RPF2** | 0.994 |
+| WDR12 | **FTSJ3** | 0.996 |
+| WDR12 | **NOC2L** | 0.997 |
+| WDR12 | **NIFK** | 0.998 |
+| WDR12 | **PES1** | 0.999 |
+| WDR12 | **BOP1** | 0.999 |
+| NIFK | **UTP14A** | 0.805 |
+| NIFK | **NOP56** | 0.877 |
+| NIFK | **WDR3** | 0.896 |
+| NIFK | **RBM34** | 0.915 |
+| NIFK | **DDX27** | 0.979 |
+| NIFK | **BOP1** | 0.99 |
+| NIFK | **PUM3** | 0.99 |
+| NIFK | **NOP2** | 0.994 |
+| NIFK | **PES1** | 0.996 |
+| NIFK | **FTSJ3** | 0.997 |
+| NIFK | **NOC2L** | 0.998 |
+| NIFK | **RPF2** | 0.999 |
+| WDR3 | **RBM34** | 0.42 |
+| WDR3 | **NOP2** | 0.853 |
+| WDR3 | **FTSJ3** | 0.896 |
+| WDR3 | **PUM3** | 0.905 |
+| WDR3 | **RPF2** | 0.912 |
+| WDR3 | **PES1** | 0.914 |
+| WDR3 | **DDX27** | 0.943 |
+| WDR3 | **NOC2L** | 0.964 |
+| WDR3 | **BOP1** | 0.973 |
+| WDR3 | **UTP14A** | 0.997 |
+| WDR3 | **NOP56** | 0.999 |
+| NOC2L | **UTP14A** | 0.855 |
+| NOC2L | **RBM34** | 0.9 |
+| NOC2L | **NOP56** | 0.952 |
+| NOC2L | **DDX27** | 0.955 |
+| NOC2L | **PUM3** | 0.958 |
+| NOC2L | **NOP2** | 0.993 |
+| NOC2L | **RPF2** | 0.996 |
+| NOC2L | **BOP1** | 0.998 |
+| NOC2L | **FTSJ3** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| PES1 | **RBM34** | 0.874 |
+| PES1 | **UTP14A** | 0.906 |
+| PES1 | **PUM3** | 0.935 |
+| PES1 | **NOP56** | 0.956 |
+| PES1 | **DDX27** | 0.979 |
+| PES1 | **NOP2** | 0.983 |
+| PES1 | **RPF2** | 0.995 |
+| PES1 | **FTSJ3** | 0.998 |
+| PES1 | **BOP1** | 0.999 |
+| NOP56 | **RBM34** | 0.705 |
+| NOP56 | **PUM3** | 0.93 |
+| NOP56 | **DDX27** | 0.941 |
+| NOP56 | **RPF2** | 0.957 |
+| NOP56 | **FTSJ3** | 0.962 |
+| NOP56 | **NOP2** | 0.969 |
+| NOP56 | **BOP1** | 0.974 |
+| NOP56 | **UTP14A** | 0.998 |
+| NOP2 | **RBM34** | 0.845 |
+| NOP2 | **UTP14A** | 0.866 |
+| NOP2 | **DDX27** | 0.934 |
+| NOP2 | **PUM3** | 0.973 |
+| NOP2 | **RPF2** | 0.989 |
+| NOP2 | **BOP1** | 0.99 |
+| NOP2 | **FTSJ3** | 0.997 |
+| UTP14A | **RBM34** | 0.835 |
+| UTP14A | **PUM3** | 0.881 |
+| UTP14A | **RPF2** | 0.89 |
+| UTP14A | **BOP1** | 0.893 |
+| UTP14A | **DDX27** | 0.932 |
+| UTP14A | **FTSJ3** | 0.968 |
+| PUM3 | **BOP1** | 0.854 |
+| PUM3 | **RBM34** | 0.873 |
+| PUM3 | **DDX27** | 0.945 |
+| PUM3 | **FTSJ3** | 0.971 |
+| PUM3 | **RPF2** | 0.991 |
+| RBM34 | **BOP1** | 0.888 |
+| RBM34 | **DDX27** | 0.958 |
+| RBM34 | **RPF2** | 0.968 |
+| RBM34 | **FTSJ3** | 0.976 |
+| FTSJ3 | **RPF2** | 0.981 |
+| FTSJ3 | **DDX27** | 0.985 |
+| FTSJ3 | **BOP1** | 0.998 |
+| RPF2 | **DDX27** | 0.949 |
+| RPF2 | **BOP1** | 0.991 |
+| BOP1 | **DDX27** | 0.974 |
+

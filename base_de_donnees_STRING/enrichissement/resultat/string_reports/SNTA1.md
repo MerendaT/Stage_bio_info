@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SNTA1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SNTA1
+Identifiant STRING officiel : `9606.ENSP00000217381`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNTA1 | **SNTB2** | 0.905 |
+| SNTA1 | **DTNB** | 0.915 |
+| SNTA1 | **SGCG** | 0.918 |
+| SNTA1 | **SNTG1** | 0.938 |
+| SNTA1 | **SSPN** | 0.96 |
+| SNTA1 | **UTRN** | 0.961 |
+| SNTA1 | **SCN5A** | 0.963 |
+| SNTA1 | **SNTG2** | 0.965 |
+| SNTA1 | **SGCD** | 0.967 |
+| SNTA1 | **SGCA** | 0.967 |
+| SNTA1 | **NOS1** | 0.979 |
+| SNTA1 | **DTNA** | 0.984 |
+| SNTA1 | **DAG1** | 0.985 |
+| SNTA1 | **CAV3** | 0.989 |
+| SNTA1 | **DMD** | 0.998 |
+| SGCG | **NOS1** | 0.495 |
+| SGCG | **DTNB** | 0.545 |
+| SGCG | **SNTG2** | 0.663 |
+| SGCG | **SNTG1** | 0.673 |
+| SGCG | **SNTB2** | 0.738 |
+| SGCG | **DTNA** | 0.745 |
+| SGCG | **UTRN** | 0.877 |
+| SGCG | **CAV3** | 0.882 |
+| SGCG | **SGCD** | 0.979 |
+| SGCG | **DMD** | 0.984 |
+| SGCG | **SSPN** | 0.989 |
+| SGCG | **DAG1** | 0.995 |
+| SGCG | **SGCA** | 0.999 |
+| SSPN | **DTNB** | 0.497 |
+| SSPN | **NOS1** | 0.562 |
+| SSPN | **SNTG2** | 0.754 |
+| SSPN | **SNTB2** | 0.762 |
+| SSPN | **SNTG1** | 0.771 |
+| SSPN | **CAV3** | 0.931 |
+| SSPN | **UTRN** | 0.968 |
+| SSPN | **DTNA** | 0.99 |
+| SSPN | **SGCD** | 0.997 |
+| SSPN | **SGCA** | 0.997 |
+| SSPN | **DMD** | 0.998 |
+| SSPN | **DAG1** | 0.999 |
+| SGCA | **NOS1** | 0.666 |
+| SGCA | **DTNB** | 0.666 |
+| SGCA | **SNTB2** | 0.774 |
+| SGCA | **SNTG1** | 0.785 |
+| SGCA | **SNTG2** | 0.788 |
+| SGCA | **DTNA** | 0.901 |
+| SGCA | **CAV3** | 0.925 |
+| SGCA | **UTRN** | 0.932 |
+| SGCA | **DMD** | 0.995 |
+| SGCA | **SGCD** | 0.999 |
+| SGCA | **DAG1** | 0.999 |
+| SNTG2 | **CAV3** | 0.72 |
+| SNTG2 | **SNTG1** | 0.762 |
+| SNTG2 | **SGCD** | 0.81 |
+| SNTG2 | **DAG1** | 0.837 |
+| SNTG2 | **UTRN** | 0.9 |
+| SNTG2 | **SNTB2** | 0.927 |
+| SNTG2 | **DTNA** | 0.945 |
+| SNTG2 | **DTNB** | 0.98 |
+| SNTG2 | **DMD** | 0.99 |
+| SCN5A | **DTNA** | 0.432 |
+| SCN5A | **SGCD** | 0.44 |
+| SCN5A | **DMD** | 0.717 |
+| SCN5A | **CAV3** | 0.927 |
+| SNTB2 | **NOS1** | 0.461 |
+| SNTB2 | **CAV3** | 0.611 |
+| SNTB2 | **SGCD** | 0.76 |
+| SNTB2 | **SNTG1** | 0.844 |
+| SNTB2 | **DAG1** | 0.901 |
+| SNTB2 | **DTNB** | 0.937 |
+| SNTB2 | **DTNA** | 0.974 |
+| SNTB2 | **DMD** | 0.985 |
+| SNTB2 | **UTRN** | 0.99 |
+| SGCD | **NOS1** | 0.59 |
+| SGCD | **DTNB** | 0.719 |
+| SGCD | **SNTG1** | 0.825 |
+| SGCD | **DTNA** | 0.869 |
+| SGCD | **UTRN** | 0.888 |
+| SGCD | **CAV3** | 0.978 |
+| SGCD | **DMD** | 0.996 |
+| SGCD | **DAG1** | 0.999 |
+| CAV3 | **DTNA** | 0.438 |
+| CAV3 | **SNTG1** | 0.72 |
+| CAV3 | **UTRN** | 0.811 |
+| CAV3 | **NOS1** | 0.822 |
+| CAV3 | **DMD** | 0.99 |
+| CAV3 | **DAG1** | 0.994 |
+| DMD | **NOS1** | 0.929 |
+| DMD | **DTNB** | 0.956 |
+| DMD | **DTNA** | 0.988 |
+| DMD | **UTRN** | 0.992 |
+| DMD | **SNTG1** | 0.992 |
+| DMD | **DAG1** | 0.999 |
+| UTRN | **NOS1** | 0.758 |
+| UTRN | **SNTG1** | 0.798 |
+| UTRN | **DTNB** | 0.86 |
+| UTRN | **DTNA** | 0.926 |
+| UTRN | **DAG1** | 0.999 |
+| DTNB | **NOS1** | 0.569 |
+| DTNB | **DAG1** | 0.937 |
+| DTNB | **SNTG1** | 0.951 |
+| DAG1 | **NOS1** | 0.782 |
+| DAG1 | **SNTG1** | 0.839 |
+| DAG1 | **DTNA** | 0.974 |
+| DTNA | **NOS1** | 0.677 |
+| DTNA | **SNTG1** | 0.877 |
+

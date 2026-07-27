@@ -1,0 +1,486 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O95994",
+      "uniProtkbId": "AGR2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "AGR2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18199544"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23274113"
+                }
+              ],
+              "value": "Required for MUC2 post-transcriptional synthesis and secretion. May play a role in the production of mucus by intestinal cells (By similarity). Proto-oncogene that may play a role in cell migration, cell differentiation and cell growth. Promotes cell adhesion (PubMed:23274113)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15834940"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "O88312"
+                  }
+                ],
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31040128"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15834940"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22184114"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24251762"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002162",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:dystroglycan binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12592373"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:epidermal growth factor receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "25666625"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "23220234"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "23274113"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "31040128"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060326",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31040128"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048546",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:digestive tract morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030968",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31040128"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006954",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31040128"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070254",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mucus secretion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010811",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell-substrate adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23274113"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048639",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of developmental growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045742",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of epidermal growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25666625"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22184114"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903896",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of IRE1-mediated unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23220234"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903899",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of PERK-mediated unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23220234"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903078",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein localization to plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25666625"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034975",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein folding in endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31040128"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000040D1E"
+      }
+    }
+  ]
+}

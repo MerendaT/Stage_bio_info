@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : VTI1A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : VTI1A
+Identifiant STRING officiel : `9606.ENSP00000376792`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VAMP3 | **VAMP4** | 0.701 |
+| VAMP3 | **SEC22B** | 0.804 |
+| VAMP3 | **YKT6** | 0.852 |
+| VAMP3 | **BET1** | 0.868 |
+| VAMP3 | **STX5** | 0.914 |
+| VAMP3 | **STX8** | 0.936 |
+| VAMP3 | **NAPA** | 0.974 |
+| VAMP3 | **STX7** | 0.981 |
+| VAMP3 | **VAMP8** | 0.988 |
+| VAMP3 | **STX12** | 0.992 |
+| VAMP3 | **STX10** | 0.997 |
+| VAMP3 | **VTI1A** | 0.998 |
+| VAMP3 | **VAMP7** | 0.998 |
+| VAMP3 | **STX16** | 0.998 |
+| VAMP3 | **STX6** | 0.999 |
+| BET1 | **STX10** | 0.81 |
+| BET1 | **STX16** | 0.844 |
+| BET1 | **STX8** | 0.859 |
+| BET1 | **VAMP4** | 0.868 |
+| BET1 | **STX12** | 0.896 |
+| BET1 | **STX6** | 0.945 |
+| BET1 | **NAPA** | 0.962 |
+| BET1 | **STX7** | 0.973 |
+| BET1 | **VTI1A** | 0.98 |
+| BET1 | **VAMP7** | 0.989 |
+| BET1 | **VAMP8** | 0.997 |
+| BET1 | **YKT6** | 0.998 |
+| BET1 | **STX5** | 0.999 |
+| BET1 | **SEC22B** | 0.999 |
+| YKT6 | **VAMP4** | 0.89 |
+| YKT6 | **VAMP7** | 0.931 |
+| YKT6 | **VAMP8** | 0.947 |
+| YKT6 | **STX12** | 0.965 |
+| YKT6 | **STX10** | 0.965 |
+| YKT6 | **NAPA** | 0.972 |
+| YKT6 | **STX6** | 0.984 |
+| YKT6 | **STX8** | 0.984 |
+| YKT6 | **STX16** | 0.993 |
+| YKT6 | **SEC22B** | 0.995 |
+| YKT6 | **VTI1A** | 0.998 |
+| YKT6 | **STX7** | 0.999 |
+| YKT6 | **STX5** | 0.999 |
+| VAMP4 | **VAMP8** | 0.714 |
+| VAMP4 | **SEC22B** | 0.815 |
+| VAMP4 | **VAMP7** | 0.926 |
+| VAMP4 | **NAPA** | 0.971 |
+| VAMP4 | **STX8** | 0.977 |
+| VAMP4 | **STX7** | 0.992 |
+| VAMP4 | **STX10** | 0.995 |
+| VAMP4 | **STX5** | 0.998 |
+| VAMP4 | **STX6** | 0.999 |
+| VAMP4 | **STX12** | 0.999 |
+| VAMP4 | **VTI1A** | 0.999 |
+| VAMP4 | **STX16** | 0.999 |
+| STX6 | **STX10** | 0.856 |
+| STX6 | **STX8** | 0.949 |
+| STX6 | **SEC22B** | 0.963 |
+| STX6 | **NAPA** | 0.991 |
+| STX6 | **STX5** | 0.995 |
+| STX6 | **STX7** | 0.997 |
+| STX6 | **VAMP7** | 0.997 |
+| STX6 | **STX12** | 0.999 |
+| STX6 | **VAMP8** | 0.999 |
+| STX6 | **VTI1A** | 0.999 |
+| STX6 | **STX16** | 0.999 |
+| VAMP7 | **STX10** | 0.757 |
+| VAMP7 | **SEC22B** | 0.941 |
+| VAMP7 | **NAPA** | 0.966 |
+| VAMP7 | **STX5** | 0.97 |
+| VAMP7 | **STX16** | 0.983 |
+| VAMP7 | **VTI1A** | 0.994 |
+| VAMP7 | **STX12** | 0.996 |
+| VAMP7 | **STX8** | 0.996 |
+| VAMP7 | **VAMP8** | 0.999 |
+| VAMP7 | **STX7** | 0.999 |
+| NAPA | **VAMP8** | 0.98 |
+| NAPA | **STX10** | 0.982 |
+| NAPA | **STX8** | 0.984 |
+| NAPA | **SEC22B** | 0.985 |
+| NAPA | **STX12** | 0.985 |
+| NAPA | **STX5** | 0.989 |
+| NAPA | **STX16** | 0.989 |
+| NAPA | **VTI1A** | 0.99 |
+| NAPA | **STX7** | 0.991 |
+| VAMP8 | **SEC22B** | 0.848 |
+| VAMP8 | **STX10** | 0.963 |
+| VAMP8 | **STX16** | 0.971 |
+| VAMP8 | **STX5** | 0.991 |
+| VAMP8 | **VTI1A** | 0.993 |
+| VAMP8 | **STX12** | 0.998 |
+| VAMP8 | **STX7** | 0.999 |
+| VAMP8 | **STX8** | 0.999 |
+| STX5 | **STX16** | 0.9 |
+| STX5 | **STX12** | 0.918 |
+| STX5 | **STX7** | 0.948 |
+| STX5 | **STX8** | 0.95 |
+| STX5 | **STX10** | 0.973 |
+| STX5 | **VTI1A** | 0.999 |
+| STX5 | **SEC22B** | 0.999 |
+| STX8 | **STX10** | 0.847 |
+| STX8 | **SEC22B** | 0.943 |
+| STX8 | **STX16** | 0.957 |
+| STX8 | **STX12** | 0.995 |
+| STX8 | **VTI1A** | 0.996 |
+| STX8 | **STX7** | 0.999 |
+| STX7 | **STX16** | 0.872 |
+| STX7 | **STX12** | 0.958 |
+| STX7 | **SEC22B** | 0.962 |
+| STX7 | **STX10** | 0.97 |
+| STX7 | **VTI1A** | 0.996 |
+| STX16 | **SEC22B** | 0.767 |
+| STX16 | **STX12** | 0.964 |
+| STX16 | **VTI1A** | 0.999 |
+| STX16 | **STX10** | 0.999 |
+| STX12 | **SEC22B** | 0.927 |
+| STX12 | **STX10** | 0.968 |
+| STX12 | **VTI1A** | 0.999 |
+| VTI1A | **SEC22B** | 0.974 |
+| VTI1A | **STX10** | 0.999 |
+| SEC22B | **STX10** | 0.938 |
+

@@ -1,0 +1,763 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q99988",
+      "uniProtkbId": "GDF15_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "23468844"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:30142"
+              }
+            ],
+            "value": "GDF15"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9Z0J7"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23468844"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "24971956"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28846097"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28846098"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28846099"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28953886"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "29046435"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30639358"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31402172"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31535977"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31875646"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "32661391"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "33589633"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36001956"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "37060902"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "38092039"
+                }
+              ],
+              "value": "Hormone produced in response to various stresses to confer information about those stresses to the brain, and trigger an aversive response, characterized by nausea, vomiting, and/or loss of appetite (PubMed:23468844, PubMed:24971956, PubMed:28846097, PubMed:28846098, PubMed:28846099, PubMed:28953886, PubMed:29046435, PubMed:30639358, PubMed:31875646, PubMed:33589633, PubMed:38092039). The aversive response is both required to reduce continuing exposure to those stresses at the time of exposure and to promote avoidance behavior in the future (PubMed:30639358, PubMed:33589633, PubMed:38092039). Acts by binding to its receptor, GFRAL, activating GFRAL-expressing neurons localized in the area postrema and nucleus tractus solitarius of the brainstem (PubMed:28846097, PubMed:28846098, PubMed:28846099, PubMed:28953886, PubMed:31535977). It then triggers the activation of neurons localized within the parabrachial nucleus and central amygdala, which constitutes part of the 'emergency circuit' that shapes responses to stressful conditions (PubMed:28953886). The GDF15-GFRAL signal induces expression of genes involved in metabolism, such as lipid metabolism in adipose tissues (PubMed:31402172). Required for avoidance behavior in response to food allergens: induced downstream of mast cell activation to promote aversion and minimize harmful effects of exposure to noxious substances (By similarity). In addition to suppress appetite, also promotes weight loss by enhancing energy expenditure in muscle: acts by increasing calcium futile cycling in muscle (By similarity). Contributes to the effect of metformin, an anti-diabetic drug, on appetite reduction and weight loss: produced in the kidney in response to metformin treatment, thereby activating the GDF15-GFRAL response, leading to reduced appetite and weight (PubMed:31875646, PubMed:37060902). The contribution of GDF15 to weight loss following metformin treatment is however limited and subject to discussion (PubMed:36001956). Produced in response to anticancer drugs, such as camptothecin or cisplatin, promoting nausea, vomiting and contributing to malnutrition (By similarity). Overproduced in many cancers, promoting anorexia in cancer (cachexia) (PubMed:32661391). Responsible for the risk of nausea and vomiting during pregnancy: high levels of GDF15 during pregnancy, mostly originating from the fetus, are associated with increased nausea and vomiting (PubMed:38092039). Maternal sensitivity to nausea is probably determined by pre-pregnancy exposure to GDF15, women with naturally high level of GDF15 being less susceptible to nausea than women with low levels of GDF15 before pregnancy (PubMed:38092039). Promotes metabolic adaptation in response to systemic inflammation caused by bacterial and viral infections in order to promote tissue tolerance and prevent tissue damage (PubMed:31402172). Required for tissue tolerance in response to myocardial infarction by acting as an inhibitor of leukocyte integring activation, thereby protecting against cardiac rupture (By similarity). Inhibits growth hormone signaling on hepatocytes (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "28572090"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "29046435"
+                  }
+                ],
+                "value": "Secreted in the plasma"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "28572090"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "29046435"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31875646"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "32694673"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "38092039"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25893289"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28572090"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "29046435"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25893289"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31875646"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "32694673"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "38092039"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25893289"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005125",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cytokine activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "38092039"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008083",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:growth factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hormone activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31535977"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "38092039"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "29046435"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007178",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell surface receptor protein serine/threonine kinase signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007267",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell-cell signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9326641"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0062197",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to chemical stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0160144",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:GDF15-GFRAL signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28953886"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31535977"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "35177851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032099",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of appetite"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31875646"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "38092039"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060400",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of growth hormone receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002686",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of leukocyte migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0040015",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of multicellular organism growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060392",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of SMAD protein signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25893289"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030512",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25893289"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046321",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of fatty acid oxidation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of MAPK cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28953886"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28846097"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002023",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:reduction of food intake in response to dietary excess"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28846097"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28846098"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28846099"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28953886"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "29046435"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1901558",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to metformin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31875646"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "32694673"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9326641"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9348093"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006F640"
+      }
+    }
+  ]
+}

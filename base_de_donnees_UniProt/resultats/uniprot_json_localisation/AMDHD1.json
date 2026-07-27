@@ -1,0 +1,159 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q96NU7",
+      "uniProtkbId": "HUTI_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "AMDHD1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P42084"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "39143229"
+                }
+              ],
+              "value": "Catalyzes the hydrolytic cleavage of the carbon-nitrogen bond in imidazolone-5-propanoate to form N-formimidoyl-L-glutamate. This reaction represents the third step of the universal histidine degradation pathway. In addition to its metabolic role, functions as a tumor suppressor by promoting TGF-beta signaling. Mechanistically, inhibits ubiquitination and proteasomal degradation of SMAD4, thereby stabilizing the protein. Enhances SMAD2/3 phosphorylation and increases TGF-beta-dependent transcriptional responses. Consequently, promotes apoptosis and induces cell cycle arrest in tumor cells (PubMed:39143229)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "39143229"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016812",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050480",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:imidazolonepropionase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006548",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:L-histidine catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019556",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:L-histidine catabolic process to glutamate and formamide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-UniPathway"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019557",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:L-histidine catabolic process to glutamate and formate"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-UniPathway"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013D70B"
+      }
+    }
+  ]
+}

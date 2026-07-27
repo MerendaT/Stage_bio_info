@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : VPS72
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : VPS72
+Identifiant STRING officiel : `9606.ENSP00000346464`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| YEATS4 | **ZNHIT1** | 0.951 |
+| YEATS4 | **CFDP1** | 0.96 |
+| YEATS4 | **H2AZ1** | 0.976 |
+| YEATS4 | **SRCAP** | 0.989 |
+| YEATS4 | **TRRAP** | 0.997 |
+| YEATS4 | **VPS72** | 0.998 |
+| YEATS4 | **RUVBL2** | 0.998 |
+| YEATS4 | **MRGBP** | 0.998 |
+| YEATS4 | **BRD8** | 0.998 |
+| YEATS4 | **KAT5** | 0.999 |
+| YEATS4 | **DMAP1** | 0.999 |
+| YEATS4 | **MORF4L1** | 0.999 |
+| YEATS4 | **RUVBL1** | 0.999 |
+| YEATS4 | **MEAF6** | 0.999 |
+| YEATS4 | **EP400** | 0.999 |
+| BRD8 | **ZNHIT1** | 0.569 |
+| BRD8 | **CFDP1** | 0.623 |
+| BRD8 | **SRCAP** | 0.826 |
+| BRD8 | **H2AZ1** | 0.901 |
+| BRD8 | **VPS72** | 0.987 |
+| BRD8 | **MRGBP** | 0.994 |
+| BRD8 | **RUVBL1** | 0.995 |
+| BRD8 | **RUVBL2** | 0.997 |
+| BRD8 | **MEAF6** | 0.998 |
+| BRD8 | **TRRAP** | 0.998 |
+| BRD8 | **KAT5** | 0.998 |
+| BRD8 | **MORF4L1** | 0.998 |
+| BRD8 | **EP400** | 0.999 |
+| BRD8 | **DMAP1** | 0.999 |
+| SRCAP | **MORF4L1** | 0.636 |
+| SRCAP | **MRGBP** | 0.707 |
+| SRCAP | **EP400** | 0.903 |
+| SRCAP | **TRRAP** | 0.93 |
+| SRCAP | **CFDP1** | 0.97 |
+| SRCAP | **KAT5** | 0.984 |
+| SRCAP | **DMAP1** | 0.992 |
+| SRCAP | **ZNHIT1** | 0.995 |
+| SRCAP | **VPS72** | 0.997 |
+| SRCAP | **H2AZ1** | 0.998 |
+| SRCAP | **RUVBL2** | 0.999 |
+| SRCAP | **RUVBL1** | 0.999 |
+| CFDP1 | **MRGBP** | 0.426 |
+| CFDP1 | **TRRAP** | 0.559 |
+| CFDP1 | **KAT5** | 0.63 |
+| CFDP1 | **ZNHIT1** | 0.871 |
+| CFDP1 | **EP400** | 0.897 |
+| CFDP1 | **H2AZ1** | 0.923 |
+| CFDP1 | **RUVBL2** | 0.969 |
+| CFDP1 | **VPS72** | 0.98 |
+| CFDP1 | **RUVBL1** | 0.98 |
+| CFDP1 | **DMAP1** | 0.989 |
+| H2AZ1 | **MEAF6** | 0.779 |
+| H2AZ1 | **MRGBP** | 0.913 |
+| H2AZ1 | **MORF4L1** | 0.93 |
+| H2AZ1 | **TRRAP** | 0.941 |
+| H2AZ1 | **RUVBL2** | 0.956 |
+| H2AZ1 | **DMAP1** | 0.959 |
+| H2AZ1 | **ZNHIT1** | 0.976 |
+| H2AZ1 | **RUVBL1** | 0.984 |
+| H2AZ1 | **KAT5** | 0.986 |
+| H2AZ1 | **EP400** | 0.991 |
+| H2AZ1 | **VPS72** | 0.998 |
+| ZNHIT1 | **MORF4L1** | 0.419 |
+| ZNHIT1 | **TRRAP** | 0.592 |
+| ZNHIT1 | **KAT5** | 0.68 |
+| ZNHIT1 | **MRGBP** | 0.764 |
+| ZNHIT1 | **DMAP1** | 0.95 |
+| ZNHIT1 | **EP400** | 0.959 |
+| ZNHIT1 | **VPS72** | 0.993 |
+| ZNHIT1 | **RUVBL2** | 0.997 |
+| ZNHIT1 | **RUVBL1** | 0.998 |
+| RUVBL1 | **MEAF6** | 0.982 |
+| RUVBL1 | **MRGBP** | 0.99 |
+| RUVBL1 | **MORF4L1** | 0.993 |
+| RUVBL1 | **TRRAP** | 0.999 |
+| RUVBL1 | **VPS72** | 0.999 |
+| RUVBL1 | **KAT5** | 0.999 |
+| RUVBL1 | **DMAP1** | 0.999 |
+| RUVBL1 | **RUVBL2** | 0.999 |
+| RUVBL1 | **EP400** | 0.999 |
+| MORF4L1 | **VPS72** | 0.991 |
+| MORF4L1 | **RUVBL2** | 0.996 |
+| MORF4L1 | **EP400** | 0.997 |
+| MORF4L1 | **DMAP1** | 0.998 |
+| MORF4L1 | **TRRAP** | 0.998 |
+| MORF4L1 | **MEAF6** | 0.999 |
+| MORF4L1 | **KAT5** | 0.999 |
+| MORF4L1 | **MRGBP** | 0.999 |
+| KAT5 | **VPS72** | 0.996 |
+| KAT5 | **MRGBP** | 0.997 |
+| KAT5 | **EP400** | 0.999 |
+| KAT5 | **MEAF6** | 0.999 |
+| KAT5 | **DMAP1** | 0.999 |
+| KAT5 | **RUVBL2** | 0.999 |
+| KAT5 | **TRRAP** | 0.999 |
+| VPS72 | **MEAF6** | 0.981 |
+| VPS72 | **EP400** | 0.988 |
+| VPS72 | **MRGBP** | 0.991 |
+| VPS72 | **TRRAP** | 0.996 |
+| VPS72 | **RUVBL2** | 0.998 |
+| VPS72 | **DMAP1** | 0.999 |
+| TRRAP | **RUVBL2** | 0.999 |
+| TRRAP | **DMAP1** | 0.999 |
+| TRRAP | **MRGBP** | 0.999 |
+| TRRAP | **MEAF6** | 0.999 |
+| TRRAP | **EP400** | 0.999 |
+| MRGBP | **EP400** | 0.988 |
+| MRGBP | **RUVBL2** | 0.989 |
+| MRGBP | **MEAF6** | 0.997 |
+| MRGBP | **DMAP1** | 0.999 |
+| DMAP1 | **RUVBL2** | 0.999 |
+| DMAP1 | **MEAF6** | 0.999 |
+| DMAP1 | **EP400** | 0.999 |
+| MEAF6 | **RUVBL2** | 0.982 |
+| MEAF6 | **EP400** | 0.994 |
+| EP400 | **RUVBL2** | 0.999 |
+

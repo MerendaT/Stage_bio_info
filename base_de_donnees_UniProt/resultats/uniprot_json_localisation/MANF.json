@@ -1,0 +1,391 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P55145",
+      "uniProtkbId": "MANF_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:15461"
+              }
+            ],
+            "value": "MANF"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P0C5H9"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9CXI5"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12794311"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18561914"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22637475"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "29497057"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36739529"
+                }
+              ],
+              "value": "Selectively promotes the survival of dopaminergic neurons of the ventral mid-brain (PubMed:12794311). Modulates GABAergic transmission to the dopaminergic neurons of the substantia nigra (By similarity). Enhances spontaneous, as well as evoked, GABAergic inhibitory postsynaptic currents in dopaminergic neurons (By similarity). Inhibits cell proliferation and endoplasmic reticulum (ER) stress-induced cell death (PubMed:18561914, PubMed:22637475, PubMed:29497057, PubMed:36739529). Retained in the ER/sarcoplasmic reticulum (SR) through association with the endoplasmic reticulum chaperone protein HSPA5 under normal conditions (PubMed:22637475). Stabilizes HSPA5/BiP in its substrate-bound ADP state, which facilitates HSPA5/BiP incorporation into chaperone-client complexes during endoplasmic reticulum stress, its interaction with HSPA5/BiP inhibits ATP binding to HSPA5/BiP and subsequent nucleotide exchange (By similarity). As a result acts as a repressor of the unfolded protein response (UPR) pathway (By similarity). Up-regulated and secreted by the ER/SR in response to ER stress and hypoxia (PubMed:22637475). Following secretion by the ER/SR, directly binds to 3-O-sulfogalactosylceramide, a lipid sulfatide in the outer cell membrane of target cells (PubMed:29497057). Sulfatide binding promotes its cellular uptake by endocytosis, and is required for its role in alleviating ER stress and cell toxicity under hypoxic and ER stress conditions (PubMed:29497057). Essential for embryonic lung development (By similarity). Required for the correct postnatal temporal and structural development of splenic white pulp (By similarity). Required for the repair-associated myeloid response in skeletal muscle, acts as a regulator of phenotypic transition towards prorepair macrophages in response to muscle injury and as a result limits excessive proinflammatory signaling (By similarity). Represses RELA expression and therefore NF-kB signaling in the myocardium, as a result limits macrophage infiltration of injured tissue and M1 macrophage differentiation in response to myocardial injury (By similarity). Required for endochondral ossification in long bones and the skull during postnatal development (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22637475"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "29497057"
+                  }
+                ],
+                "value": "Retained in the endoplasmic reticulum (ER), and sarcoplasmic reticulum (SR) under normal conditions (PubMed:22637475). Up-regulated and secreted by the ER/SR in response to ER stress and hypoxia (PubMed:22637475, PubMed:29497057)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12794311"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "18561914"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22637475"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "29497057"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "29497057"
+                  }
+                ],
+                "value": "Endoplasmic reticulum lumen",
+                "id": "SL-0096"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22637475"
+                  }
+                ],
+                "value": "Sarcoplasmic reticulum lumen",
+                "id": "SL-0240"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "29497057"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21630459"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033018",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:sarcoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008083",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:growth factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003723",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22658674"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0120146",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sulfatide binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:WormBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "29497057"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036500",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ATF6-mediated unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:WormBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27984733"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071542",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:dopaminergic neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031175",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron projection development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "29497057"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000169E96"
+      }
+    }
+  ]
+}

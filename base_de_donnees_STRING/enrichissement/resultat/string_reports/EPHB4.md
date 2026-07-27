@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : EPHB4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EPHB4
+Identifiant STRING officiel : `9606.ENSP00000350896`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EFNB1 | **EPO** | 0.447 |
+| EFNB1 | **NGEF** | 0.644 |
+| EFNB1 | **EFNA1** | 0.66 |
+| EFNB1 | **EFNA2** | 0.683 |
+| EFNB1 | **EFNA5** | 0.69 |
+| EFNB1 | **EFNA3** | 0.747 |
+| EFNB1 | **EFNA4** | 0.781 |
+| EFNB1 | **EFNB3** | 0.922 |
+| EFNB1 | **EPHA2** | 0.932 |
+| EFNB1 | **EFNB2** | 0.949 |
+| EFNB1 | **EPHB6** | 0.999 |
+| EFNB1 | **EPHB4** | 0.999 |
+| EFNB1 | **EPHB2** | 0.999 |
+| EFNA2 | **EPO** | 0.417 |
+| EFNA2 | **EFNA3** | 0.477 |
+| EFNA2 | **EFNA4** | 0.489 |
+| EFNA2 | **EFNA5** | 0.648 |
+| EFNA2 | **EFNA1** | 0.667 |
+| EFNA2 | **NGEF** | 0.768 |
+| EFNA2 | **EFNB2** | 0.769 |
+| EFNA2 | **EFNB3** | 0.789 |
+| EFNA2 | **EPHB4** | 0.884 |
+| EFNA2 | **EPHB6** | 0.896 |
+| EFNA2 | **EPHB2** | 0.903 |
+| EFNA2 | **RASA1** | 0.917 |
+| EFNA2 | **EPHA2** | 0.999 |
+| EFNB3 | **EPO** | 0.42 |
+| EFNB3 | **NGEF** | 0.677 |
+| EFNB3 | **EFNA1** | 0.776 |
+| EFNB3 | **EFNA5** | 0.789 |
+| EFNB3 | **EFNA3** | 0.824 |
+| EFNB3 | **EFNA4** | 0.838 |
+| EFNB3 | **EFNB2** | 0.928 |
+| EFNB3 | **EPHA2** | 0.944 |
+| EFNB3 | **EPHB4** | 0.997 |
+| EFNB3 | **EPHB6** | 0.999 |
+| EFNB3 | **EPHB2** | 0.999 |
+| EPO | **EPHB2** | 0.4 |
+| EPO | **EFNA3** | 0.406 |
+| EPO | **EFNA5** | 0.415 |
+| EPO | **EFNA4** | 0.432 |
+| EPO | **EPHB6** | 0.433 |
+| EPO | **ABL1** | 0.497 |
+| EPO | **EFNA1** | 0.536 |
+| EPO | **EPHA2** | 0.589 |
+| EPO | **EFNB2** | 0.701 |
+| EPO | **EPHB4** | 0.826 |
+| NGEF | **EFNB2** | 0.638 |
+| NGEF | **EFNA5** | 0.727 |
+| NGEF | **EFNA3** | 0.761 |
+| NGEF | **EFNA4** | 0.776 |
+| NGEF | **EFNA1** | 0.798 |
+| NGEF | **EPHB6** | 0.919 |
+| NGEF | **EPHB4** | 0.926 |
+| NGEF | **EPHA2** | 0.937 |
+| NGEF | **EPHB2** | 0.958 |
+| RASA1 | **ABL1** | 0.474 |
+| RASA1 | **EPHB6** | 0.91 |
+| RASA1 | **EFNA4** | 0.917 |
+| RASA1 | **EPHA2** | 0.927 |
+| RASA1 | **EFNA3** | 0.929 |
+| RASA1 | **EFNA1** | 0.95 |
+| RASA1 | **EFNA5** | 0.962 |
+| RASA1 | **EPHB4** | 0.963 |
+| RASA1 | **EPHB2** | 0.977 |
+| EFNA5 | **EFNA4** | 0.462 |
+| EFNA5 | **EFNA1** | 0.503 |
+| EFNA5 | **ABL1** | 0.59 |
+| EFNA5 | **EFNA3** | 0.65 |
+| EFNA5 | **EFNB2** | 0.706 |
+| EFNA5 | **EPHB6** | 0.913 |
+| EFNA5 | **EPHB4** | 0.919 |
+| EFNA5 | **EPHA2** | 0.999 |
+| EFNA5 | **EPHB2** | 0.999 |
+| EPHB4 | **EPHA2** | 0.808 |
+| EPHB4 | **EPHB2** | 0.812 |
+| EPHB4 | **EPHB6** | 0.814 |
+| EPHB4 | **EFNA3** | 0.865 |
+| EPHB4 | **EFNA4** | 0.877 |
+| EPHB4 | **EFNA1** | 0.883 |
+| EPHB4 | **ABL1** | 0.947 |
+| EPHB4 | **EFNB2** | 0.999 |
+| EPHA2 | **EPHB6** | 0.725 |
+| EPHA2 | **EPHB2** | 0.851 |
+| EPHA2 | **ABL1** | 0.951 |
+| EPHA2 | **EFNB2** | 0.973 |
+| EPHA2 | **EFNA4** | 0.997 |
+| EPHA2 | **EFNA3** | 0.997 |
+| EPHA2 | **EFNA1** | 0.999 |
+| EFNA1 | **EFNA4** | 0.544 |
+| EFNA1 | **EFNA3** | 0.673 |
+| EFNA1 | **EFNB2** | 0.775 |
+| EFNA1 | **EPHB6** | 0.921 |
+| EFNA1 | **EPHB2** | 0.939 |
+| EFNA3 | **EFNA4** | 0.576 |
+| EFNA3 | **EFNB2** | 0.695 |
+| EFNA3 | **EPHB6** | 0.907 |
+| EFNA3 | **EPHB2** | 0.921 |
+| ABL1 | **EPHB6** | 0.907 |
+| ABL1 | **EPHB2** | 0.958 |
+| EPHB2 | **EPHB6** | 0.671 |
+| EPHB2 | **EFNA4** | 0.921 |
+| EPHB2 | **EFNB2** | 0.999 |
+| EFNA4 | **EFNB2** | 0.742 |
+| EFNA4 | **EPHB6** | 0.904 |
+| EPHB6 | **EFNB2** | 0.999 |
+

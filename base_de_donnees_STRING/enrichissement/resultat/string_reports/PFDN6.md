@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PFDN6
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PFDN6
+Identifiant STRING officiel : `9606.ENSP00000378563`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPAP3 | **CCT4** | 0.6 |
+| RPAP3 | **CCT8** | 0.603 |
+| RPAP3 | **URI1** | 0.977 |
+| RPAP3 | **PFDN2** | 0.986 |
+| RPAP3 | **PDRG1** | 0.987 |
+| RPAP3 | **POLR2E** | 0.988 |
+| RPAP3 | **UXT** | 0.989 |
+| RPAP3 | **WDR92** | 0.995 |
+| RPAP3 | **PFDN6** | 0.996 |
+| RPAP3 | **RUVBL1** | 0.999 |
+| RPAP3 | **RUVBL2** | 0.999 |
+| PDRG1 | **CCT8** | 0.551 |
+| PDRG1 | **CCT4** | 0.551 |
+| PDRG1 | **PFDN1** | 0.754 |
+| PDRG1 | **PFDN5** | 0.766 |
+| PDRG1 | **VBP1** | 0.815 |
+| PDRG1 | **PFDN4** | 0.904 |
+| PDRG1 | **RUVBL2** | 0.908 |
+| PDRG1 | **RUVBL1** | 0.936 |
+| PDRG1 | **URI1** | 0.973 |
+| PDRG1 | **POLR2E** | 0.985 |
+| PDRG1 | **WDR92** | 0.995 |
+| PDRG1 | **PFDN6** | 0.999 |
+| PDRG1 | **PFDN2** | 0.999 |
+| PDRG1 | **UXT** | 0.999 |
+| PFDN1 | **RUVBL2** | 0.468 |
+| PFDN1 | **POLR2E** | 0.516 |
+| PFDN1 | **URI1** | 0.539 |
+| PFDN1 | **RUVBL1** | 0.541 |
+| PFDN1 | **UXT** | 0.611 |
+| PFDN1 | **CCT8** | 0.969 |
+| PFDN1 | **CCT4** | 0.975 |
+| PFDN1 | **PFDN2** | 0.999 |
+| PFDN1 | **PFDN6** | 0.999 |
+| PFDN1 | **PFDN4** | 0.999 |
+| PFDN1 | **VBP1** | 0.999 |
+| PFDN1 | **PFDN5** | 0.999 |
+| VBP1 | **RUVBL1** | 0.486 |
+| VBP1 | **URI1** | 0.499 |
+| VBP1 | **UXT** | 0.602 |
+| VBP1 | **CCT4** | 0.972 |
+| VBP1 | **CCT8** | 0.982 |
+| VBP1 | **PFDN6** | 0.999 |
+| VBP1 | **PFDN2** | 0.999 |
+| VBP1 | **PFDN5** | 0.999 |
+| VBP1 | **PFDN4** | 0.999 |
+| CCT8 | **UXT** | 0.567 |
+| CCT8 | **URI1** | 0.583 |
+| CCT8 | **RUVBL2** | 0.776 |
+| CCT8 | **RUVBL1** | 0.802 |
+| CCT8 | **PFDN4** | 0.967 |
+| CCT8 | **PFDN2** | 0.968 |
+| CCT8 | **PFDN5** | 0.976 |
+| CCT8 | **PFDN6** | 0.978 |
+| CCT8 | **CCT4** | 0.999 |
+| WDR92 | **RUVBL1** | 0.959 |
+| WDR92 | **RUVBL2** | 0.966 |
+| WDR92 | **URI1** | 0.968 |
+| WDR92 | **PFDN6** | 0.994 |
+| WDR92 | **POLR2E** | 0.996 |
+| WDR92 | **PFDN2** | 0.997 |
+| WDR92 | **UXT** | 0.998 |
+| RUVBL1 | **PFDN5** | 0.606 |
+| RUVBL1 | **PFDN4** | 0.786 |
+| RUVBL1 | **CCT4** | 0.841 |
+| RUVBL1 | **UXT** | 0.955 |
+| RUVBL1 | **POLR2E** | 0.975 |
+| RUVBL1 | **PFDN2** | 0.977 |
+| RUVBL1 | **PFDN6** | 0.983 |
+| RUVBL1 | **URI1** | 0.986 |
+| RUVBL1 | **RUVBL2** | 0.999 |
+| UXT | **CCT4** | 0.579 |
+| UXT | **PFDN4** | 0.66 |
+| UXT | **PFDN5** | 0.813 |
+| UXT | **RUVBL2** | 0.969 |
+| UXT | **URI1** | 0.991 |
+| UXT | **POLR2E** | 0.994 |
+| UXT | **PFDN6** | 0.999 |
+| UXT | **PFDN2** | 0.999 |
+| PFDN2 | **CCT4** | 0.974 |
+| PFDN2 | **RUVBL2** | 0.978 |
+| PFDN2 | **URI1** | 0.997 |
+| PFDN2 | **POLR2E** | 0.998 |
+| PFDN2 | **PFDN5** | 0.999 |
+| PFDN2 | **PFDN4** | 0.999 |
+| PFDN2 | **PFDN6** | 0.999 |
+| PFDN4 | **RUVBL2** | 0.756 |
+| PFDN4 | **POLR2E** | 0.861 |
+| PFDN4 | **URI1** | 0.888 |
+| PFDN4 | **CCT4** | 0.974 |
+| PFDN4 | **PFDN6** | 0.999 |
+| PFDN4 | **PFDN5** | 0.999 |
+| URI1 | **CCT4** | 0.65 |
+| URI1 | **PFDN5** | 0.698 |
+| URI1 | **RUVBL2** | 0.978 |
+| URI1 | **PFDN6** | 0.982 |
+| URI1 | **POLR2E** | 0.999 |
+| CCT4 | **POLR2E** | 0.492 |
+| CCT4 | **RUVBL2** | 0.746 |
+| CCT4 | **PFDN6** | 0.98 |
+| CCT4 | **PFDN5** | 0.995 |
+| PFDN6 | **RUVBL2** | 0.977 |
+| PFDN6 | **POLR2E** | 0.988 |
+| PFDN6 | **PFDN5** | 0.999 |
+| PFDN5 | **POLR2E** | 0.421 |
+| PFDN5 | **RUVBL2** | 0.485 |
+| RUVBL2 | **POLR2E** | 0.979 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CWC25
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CWC25
+Identifiant STRING officiel : `9606.ENSP00000478070`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBM22 | **ISY1-RAB43** | 0.969 |
+| RBM22 | **EIF4A3** | 0.975 |
+| RBM22 | **CWC25** | 0.983 |
+| RBM22 | **YJU2** | 0.991 |
+| RBM22 | **ISY1** | 0.993 |
+| RBM22 | **DHX38** | 0.994 |
+| RBM22 | **SNRNP200** | 0.998 |
+| RBM22 | **CWC22** | 0.998 |
+| RBM22 | **BUD31** | 0.999 |
+| RBM22 | **CDC5L** | 0.999 |
+| RBM22 | **PRPF8** | 0.999 |
+| RBM22 | **SNRPA1** | 0.999 |
+| RBM22 | **PRPF19** | 0.999 |
+| RBM22 | **CDC40** | 0.999 |
+| RBM22 | **EFTUD2** | 0.999 |
+| PRPF19 | **EIF4A3** | 0.985 |
+| PRPF19 | **ISY1-RAB43** | 0.992 |
+| PRPF19 | **DHX38** | 0.996 |
+| PRPF19 | **CWC25** | 0.997 |
+| PRPF19 | **ISY1** | 0.998 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **YJU2** | 0.999 |
+| PRPF19 | **BUD31** | 0.999 |
+| PRPF19 | **SNRNP200** | 0.999 |
+| PRPF19 | **EFTUD2** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **PRPF8** | 0.999 |
+| PRPF19 | **CWC22** | 0.999 |
+| SNRPA1 | **EIF4A3** | 0.881 |
+| SNRPA1 | **ISY1-RAB43** | 0.985 |
+| SNRPA1 | **CWC25** | 0.985 |
+| SNRPA1 | **YJU2** | 0.989 |
+| SNRPA1 | **DHX38** | 0.993 |
+| SNRPA1 | **ISY1** | 0.995 |
+| SNRPA1 | **CWC22** | 0.998 |
+| SNRPA1 | **SNRNP200** | 0.999 |
+| SNRPA1 | **BUD31** | 0.999 |
+| SNRPA1 | **CDC5L** | 0.999 |
+| SNRPA1 | **PRPF8** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| SNRPA1 | **EFTUD2** | 0.999 |
+| YJU2 | **EIF4A3** | 0.983 |
+| YJU2 | **EFTUD2** | 0.993 |
+| YJU2 | **BUD31** | 0.996 |
+| YJU2 | **CDC40** | 0.997 |
+| YJU2 | **ISY1** | 0.998 |
+| YJU2 | **ISY1-RAB43** | 0.998 |
+| YJU2 | **DHX38** | 0.998 |
+| YJU2 | **SNRNP200** | 0.999 |
+| YJU2 | **CWC22** | 0.999 |
+| YJU2 | **PRPF8** | 0.999 |
+| YJU2 | **CDC5L** | 0.999 |
+| YJU2 | **CWC25** | 0.999 |
+| DHX38 | **EIF4A3** | 0.945 |
+| DHX38 | **ISY1-RAB43** | 0.972 |
+| DHX38 | **ISY1** | 0.972 |
+| DHX38 | **BUD31** | 0.995 |
+| DHX38 | **EFTUD2** | 0.996 |
+| DHX38 | **CDC5L** | 0.997 |
+| DHX38 | **CWC25** | 0.998 |
+| DHX38 | **CWC22** | 0.998 |
+| DHX38 | **PRPF8** | 0.998 |
+| DHX38 | **CDC40** | 0.999 |
+| DHX38 | **SNRNP200** | 0.999 |
+| ISY1 | **ISY1-RAB43** | 0.9 |
+| ISY1 | **EIF4A3** | 0.981 |
+| ISY1 | **EFTUD2** | 0.986 |
+| ISY1 | **CWC25** | 0.993 |
+| ISY1 | **CDC40** | 0.993 |
+| ISY1 | **CWC22** | 0.994 |
+| ISY1 | **BUD31** | 0.996 |
+| ISY1 | **CDC5L** | 0.996 |
+| ISY1 | **SNRNP200** | 0.997 |
+| ISY1 | **PRPF8** | 0.998 |
+| SNRNP200 | **BUD31** | 0.995 |
+| SNRNP200 | **EIF4A3** | 0.996 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **ISY1-RAB43** | 0.997 |
+| SNRNP200 | **CDC5L** | 0.998 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **CWC22** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **CWC25** | 0.999 |
+| CDC40 | **EIF4A3** | 0.984 |
+| CDC40 | **ISY1-RAB43** | 0.987 |
+| CDC40 | **CWC25** | 0.997 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **EFTUD2** | 0.999 |
+| CDC5L | **EIF4A3** | 0.976 |
+| CDC5L | **ISY1-RAB43** | 0.991 |
+| CDC5L | **CWC25** | 0.998 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **EFTUD2** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| BUD31 | **EIF4A3** | 0.842 |
+| BUD31 | **ISY1-RAB43** | 0.983 |
+| BUD31 | **CWC25** | 0.996 |
+| BUD31 | **CWC22** | 0.999 |
+| BUD31 | **PRPF8** | 0.999 |
+| BUD31 | **EFTUD2** | 0.999 |
+| CWC22 | **ISY1-RAB43** | 0.993 |
+| CWC22 | **CWC25** | 0.997 |
+| CWC22 | **EIF4A3** | 0.999 |
+| CWC22 | **PRPF8** | 0.999 |
+| CWC22 | **EFTUD2** | 0.999 |
+| EFTUD2 | **ISY1-RAB43** | 0.976 |
+| EFTUD2 | **CWC25** | 0.986 |
+| EFTUD2 | **EIF4A3** | 0.992 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| ISY1-RAB43 | **EIF4A3** | 0.982 |
+| ISY1-RAB43 | **CWC25** | 0.993 |
+| ISY1-RAB43 | **PRPF8** | 0.999 |
+| PRPF8 | **EIF4A3** | 0.997 |
+| PRPF8 | **CWC25** | 0.998 |
+| CWC25 | **EIF4A3** | 0.982 |
+

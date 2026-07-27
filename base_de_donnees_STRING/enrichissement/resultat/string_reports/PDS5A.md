@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PDS5A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PDS5A
+Identifiant STRING officiel : `9606.ENSP00000303427`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| STAG2 | **CHTF18** | 0.458 |
+| STAG2 | **MAU2** | 0.827 |
+| STAG2 | **ESCO1** | 0.839 |
+| STAG2 | **ESCO2** | 0.841 |
+| STAG2 | **CDCA5** | 0.977 |
+| STAG2 | **NIPBL** | 0.982 |
+| STAG2 | **ESPL1** | 0.987 |
+| STAG2 | **REC8** | 0.993 |
+| STAG2 | **PDS5B** | 0.996 |
+| STAG2 | **STAG1** | 0.996 |
+| STAG2 | **WAPL** | 0.997 |
+| STAG2 | **SMC3** | 0.999 |
+| STAG2 | **RAD21** | 0.999 |
+| STAG2 | **PDS5A** | 0.999 |
+| STAG2 | **SMC1A** | 0.999 |
+| ESPL1 | **MAU2** | 0.725 |
+| ESPL1 | **PDS5B** | 0.804 |
+| ESPL1 | **CHTF18** | 0.834 |
+| ESPL1 | **ESCO1** | 0.87 |
+| ESPL1 | **ESCO2** | 0.874 |
+| ESPL1 | **NIPBL** | 0.887 |
+| ESPL1 | **CDCA5** | 0.93 |
+| ESPL1 | **PDS5A** | 0.947 |
+| ESPL1 | **WAPL** | 0.959 |
+| ESPL1 | **SMC1A** | 0.975 |
+| ESPL1 | **STAG1** | 0.989 |
+| ESPL1 | **REC8** | 0.993 |
+| ESPL1 | **SMC3** | 0.994 |
+| ESPL1 | **RAD21** | 0.997 |
+| CHTF18 | **PDS5B** | 0.412 |
+| CHTF18 | **REC8** | 0.418 |
+| CHTF18 | **CDCA5** | 0.517 |
+| CHTF18 | **MAU2** | 0.571 |
+| CHTF18 | **SMC1A** | 0.585 |
+| CHTF18 | **NIPBL** | 0.641 |
+| CHTF18 | **STAG1** | 0.697 |
+| CHTF18 | **RAD21** | 0.89 |
+| CHTF18 | **WAPL** | 0.915 |
+| CHTF18 | **PDS5A** | 0.943 |
+| CHTF18 | **SMC3** | 0.947 |
+| CHTF18 | **ESCO2** | 0.948 |
+| CHTF18 | **ESCO1** | 0.964 |
+| MAU2 | **REC8** | 0.708 |
+| MAU2 | **ESCO2** | 0.824 |
+| MAU2 | **ESCO1** | 0.869 |
+| MAU2 | **SMC1A** | 0.883 |
+| MAU2 | **RAD21** | 0.902 |
+| MAU2 | **STAG1** | 0.911 |
+| MAU2 | **CDCA5** | 0.917 |
+| MAU2 | **PDS5B** | 0.922 |
+| MAU2 | **SMC3** | 0.942 |
+| MAU2 | **WAPL** | 0.982 |
+| MAU2 | **PDS5A** | 0.988 |
+| MAU2 | **NIPBL** | 0.999 |
+| ESCO1 | **REC8** | 0.688 |
+| ESCO1 | **ESCO2** | 0.721 |
+| ESCO1 | **CDCA5** | 0.725 |
+| ESCO1 | **NIPBL** | 0.853 |
+| ESCO1 | **SMC1A** | 0.858 |
+| ESCO1 | **PDS5B** | 0.891 |
+| ESCO1 | **STAG1** | 0.952 |
+| ESCO1 | **RAD21** | 0.959 |
+| ESCO1 | **WAPL** | 0.982 |
+| ESCO1 | **PDS5A** | 0.994 |
+| ESCO1 | **SMC3** | 0.997 |
+| CDCA5 | **REC8** | 0.682 |
+| CDCA5 | **ESCO2** | 0.777 |
+| CDCA5 | **NIPBL** | 0.97 |
+| CDCA5 | **SMC1A** | 0.973 |
+| CDCA5 | **STAG1** | 0.975 |
+| CDCA5 | **RAD21** | 0.988 |
+| CDCA5 | **PDS5B** | 0.99 |
+| CDCA5 | **SMC3** | 0.994 |
+| CDCA5 | **WAPL** | 0.998 |
+| CDCA5 | **PDS5A** | 0.999 |
+| NIPBL | **ESCO2** | 0.893 |
+| NIPBL | **REC8** | 0.956 |
+| NIPBL | **PDS5B** | 0.989 |
+| NIPBL | **STAG1** | 0.997 |
+| NIPBL | **PDS5A** | 0.998 |
+| NIPBL | **WAPL** | 0.998 |
+| NIPBL | **SMC3** | 0.999 |
+| NIPBL | **RAD21** | 0.999 |
+| NIPBL | **SMC1A** | 0.999 |
+| RAD21 | **ESCO2** | 0.963 |
+| RAD21 | **REC8** | 0.965 |
+| RAD21 | **PDS5B** | 0.998 |
+| RAD21 | **STAG1** | 0.999 |
+| RAD21 | **WAPL** | 0.999 |
+| RAD21 | **SMC1A** | 0.999 |
+| RAD21 | **SMC3** | 0.999 |
+| RAD21 | **PDS5A** | 0.999 |
+| WAPL | **REC8** | 0.81 |
+| WAPL | **ESCO2** | 0.973 |
+| WAPL | **SMC1A** | 0.993 |
+| WAPL | **PDS5A** | 0.999 |
+| WAPL | **SMC3** | 0.999 |
+| WAPL | **STAG1** | 0.999 |
+| WAPL | **PDS5B** | 0.999 |
+| PDS5A | **PDS5B** | 0.971 |
+| PDS5A | **REC8** | 0.972 |
+| PDS5A | **ESCO2** | 0.986 |
+| PDS5A | **SMC1A** | 0.998 |
+| PDS5A | **STAG1** | 0.999 |
+| PDS5A | **SMC3** | 0.999 |
+| ESCO2 | **REC8** | 0.644 |
+| ESCO2 | **STAG1** | 0.881 |
+| ESCO2 | **PDS5B** | 0.882 |
+| ESCO2 | **SMC1A** | 0.92 |
+| ESCO2 | **SMC3** | 0.998 |
+| PDS5B | **REC8** | 0.885 |
+| PDS5B | **STAG1** | 0.99 |
+| PDS5B | **SMC1A** | 0.997 |
+| PDS5B | **SMC3** | 0.997 |
+| SMC1A | **REC8** | 0.996 |
+| SMC1A | **STAG1** | 0.999 |
+| SMC1A | **SMC3** | 0.999 |
+| SMC3 | **REC8** | 0.999 |
+| SMC3 | **STAG1** | 0.999 |
+| STAG1 | **REC8** | 0.994 |
+

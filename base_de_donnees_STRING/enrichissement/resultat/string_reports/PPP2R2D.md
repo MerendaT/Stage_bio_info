@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PPP2R2D
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PPP2R2D
+Identifiant STRING officiel : `9606.ENSP00000399970`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PPP2CB | **MASTL** | 0.567 |
+| PPP2CB | **ARPP19** | 0.649 |
+| PPP2CB | **ENSA** | 0.683 |
+| PPP2CB | **PPP2R3A** | 0.865 |
+| PPP2CB | **TNNI3** | 0.904 |
+| PPP2CB | **PPP2R2C** | 0.977 |
+| PPP2CB | **PPP2CA** | 0.986 |
+| PPP2CB | **PPP2R5A** | 0.992 |
+| PPP2CB | **PPP2R2D** | 0.994 |
+| PPP2CB | **PPP2R5C** | 0.995 |
+| PPP2CB | **PPP2R2B** | 0.997 |
+| PPP2CB | **PPP2R1A** | 0.999 |
+| PPP2CB | **PPP2R2A** | 0.999 |
+| PPP2CB | **PPP2R5D** | 0.999 |
+| PPP2CB | **PPP2R1B** | 0.999 |
+| PPP2R5A | **ENSA** | 0.413 |
+| PPP2R5A | **ARPP19** | 0.415 |
+| PPP2R5A | **PPP2R2B** | 0.831 |
+| PPP2R5A | **PPP2R2C** | 0.839 |
+| PPP2R5A | **TNNI3** | 0.915 |
+| PPP2R5A | **PPP2R3A** | 0.928 |
+| PPP2R5A | **PPP2R5D** | 0.935 |
+| PPP2R5A | **PPP2R5C** | 0.969 |
+| PPP2R5A | **PPP2R2D** | 0.973 |
+| PPP2R5A | **PPP2R2A** | 0.993 |
+| PPP2R5A | **PPP2CA** | 0.999 |
+| PPP2R5A | **PPP2R1B** | 0.999 |
+| PPP2R5A | **PPP2R1A** | 0.999 |
+| PPP2R3A | **MASTL** | 0.405 |
+| PPP2R3A | **PPP2R2C** | 0.795 |
+| PPP2R3A | **PPP2R5D** | 0.871 |
+| PPP2R3A | **PPP2R2B** | 0.875 |
+| PPP2R3A | **TNNI3** | 0.905 |
+| PPP2R3A | **PPP2R2D** | 0.922 |
+| PPP2R3A | **PPP2R1B** | 0.939 |
+| PPP2R3A | **PPP2R2A** | 0.951 |
+| PPP2R3A | **PPP2R5C** | 0.955 |
+| PPP2R3A | **PPP2R1A** | 0.993 |
+| PPP2R3A | **PPP2CA** | 0.996 |
+| PPP2R1B | **MASTL** | 0.597 |
+| PPP2R1B | **ARPP19** | 0.624 |
+| PPP2R1B | **ENSA** | 0.636 |
+| PPP2R1B | **TNNI3** | 0.9 |
+| PPP2R1B | **PPP2R2D** | 0.991 |
+| PPP2R1B | **PPP2R5D** | 0.992 |
+| PPP2R1B | **PPP2R2B** | 0.995 |
+| PPP2R1B | **PPP2R5C** | 0.998 |
+| PPP2R1B | **PPP2R1A** | 0.999 |
+| PPP2R1B | **PPP2R2C** | 0.999 |
+| PPP2R1B | **PPP2R2A** | 0.999 |
+| PPP2R1B | **PPP2CA** | 0.999 |
+| PPP2R1A | **MASTL** | 0.836 |
+| PPP2R1A | **ARPP19** | 0.86 |
+| PPP2R1A | **ENSA** | 0.89 |
+| PPP2R1A | **TNNI3** | 0.935 |
+| PPP2R1A | **PPP2R2B** | 0.998 |
+| PPP2R1A | **PPP2R2D** | 0.999 |
+| PPP2R1A | **PPP2CA** | 0.999 |
+| PPP2R1A | **PPP2R5D** | 0.999 |
+| PPP2R1A | **PPP2R5C** | 0.999 |
+| PPP2R1A | **PPP2R2C** | 0.999 |
+| PPP2R1A | **PPP2R2A** | 0.999 |
+| PPP2R2A | **MASTL** | 0.661 |
+| PPP2R2A | **ARPP19** | 0.805 |
+| PPP2R2A | **ENSA** | 0.854 |
+| PPP2R2A | **TNNI3** | 0.902 |
+| PPP2R2A | **PPP2R2C** | 0.927 |
+| PPP2R2A | **PPP2R2B** | 0.951 |
+| PPP2R2A | **PPP2R5D** | 0.967 |
+| PPP2R2A | **PPP2R2D** | 0.995 |
+| PPP2R2A | **PPP2R5C** | 0.995 |
+| PPP2R2A | **PPP2CA** | 0.999 |
+| ENSA | **PPP2R5C** | 0.423 |
+| ENSA | **TNNI3** | 0.424 |
+| ENSA | **PPP2R5D** | 0.442 |
+| ENSA | **ARPP19** | 0.565 |
+| ENSA | **PPP2R2B** | 0.613 |
+| ENSA | **PPP2CA** | 0.862 |
+| ENSA | **PPP2R2D** | 0.988 |
+| ENSA | **MASTL** | 0.995 |
+| TNNI3 | **ARPP19** | 0.424 |
+| TNNI3 | **MASTL** | 0.426 |
+| TNNI3 | **PPP2R2B** | 0.9 |
+| TNNI3 | **PPP2R2C** | 0.901 |
+| TNNI3 | **PPP2R5C** | 0.902 |
+| TNNI3 | **PPP2R5D** | 0.905 |
+| TNNI3 | **PPP2CA** | 0.913 |
+| TNNI3 | **PPP2R2D** | 0.939 |
+| MASTL | **PPP2R5D** | 0.433 |
+| MASTL | **PPP2R2B** | 0.436 |
+| MASTL | **PPP2CA** | 0.81 |
+| MASTL | **PPP2R2D** | 0.978 |
+| MASTL | **ARPP19** | 0.994 |
+| PPP2R2C | **PPP2R5D** | 0.778 |
+| PPP2R2C | **PPP2R5C** | 0.873 |
+| PPP2R2C | **PPP2R2D** | 0.948 |
+| PPP2R2C | **PPP2R2B** | 0.957 |
+| PPP2R2C | **PPP2CA** | 0.995 |
+| PPP2R2B | **ARPP19** | 0.65 |
+| PPP2R2B | **PPP2R5D** | 0.811 |
+| PPP2R2B | **PPP2R5C** | 0.819 |
+| PPP2R2B | **PPP2R2D** | 0.935 |
+| PPP2R2B | **PPP2CA** | 0.998 |
+| PPP2R2D | **PPP2R5C** | 0.925 |
+| PPP2R2D | **PPP2R5D** | 0.959 |
+| PPP2R2D | **ARPP19** | 0.984 |
+| PPP2R2D | **PPP2CA** | 0.999 |
+| PPP2R5C | **PPP2R5D** | 0.849 |
+| PPP2R5C | **PPP2CA** | 0.999 |
+| PPP2R5D | **ARPP19** | 0.48 |
+| PPP2R5D | **PPP2CA** | 0.999 |
+| PPP2CA | **ARPP19** | 0.851 |
+

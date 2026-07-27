@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SRRM2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRRM2
+Identifiant STRING officiel : `9606.ENSP00000301740`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SF3A2 | **SYF2** | 0.837 |
+| SF3A2 | **SRRM1** | 0.933 |
+| SF3A2 | **CDC40** | 0.972 |
+| SF3A2 | **BUD31** | 0.986 |
+| SF3A2 | **PLRG1** | 0.992 |
+| SF3A2 | **SNIP1** | 0.995 |
+| SF3A2 | **CWC22** | 0.995 |
+| SF3A2 | **RBMX2** | 0.996 |
+| SF3A2 | **PRPF19** | 0.997 |
+| SF3A2 | **SRRM2** | 0.998 |
+| SF3A2 | **CDC5L** | 0.998 |
+| SF3A2 | **EFTUD2** | 0.998 |
+| SF3A2 | **SNRNP200** | 0.999 |
+| SF3A2 | **PRPF8** | 0.999 |
+| SF3A2 | **SNRPA1** | 0.999 |
+| PRPF19 | **SRRM1** | 0.852 |
+| PRPF19 | **SNIP1** | 0.968 |
+| PRPF19 | **RBMX2** | 0.992 |
+| PRPF19 | **SRRM2** | 0.997 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BUD31** | 0.999 |
+| PRPF19 | **SNRNP200** | 0.999 |
+| PRPF19 | **EFTUD2** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **PLRG1** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **PRPF8** | 0.999 |
+| PRPF19 | **CWC22** | 0.999 |
+| SYF2 | **SNIP1** | 0.797 |
+| SYF2 | **SRRM1** | 0.845 |
+| SYF2 | **RBMX2** | 0.919 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **SNRNP200** | 0.995 |
+| SYF2 | **SRRM2** | 0.997 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **PLRG1** | 0.999 |
+| SYF2 | **EFTUD2** | 0.999 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **BUD31** | 0.999 |
+| SNRPA1 | **SRRM1** | 0.874 |
+| SNRPA1 | **SNIP1** | 0.993 |
+| SNRPA1 | **RBMX2** | 0.997 |
+| SNRPA1 | **SRRM2** | 0.998 |
+| SNRPA1 | **CWC22** | 0.998 |
+| SNRPA1 | **SNRNP200** | 0.999 |
+| SNRPA1 | **BUD31** | 0.999 |
+| SNRPA1 | **CDC5L** | 0.999 |
+| SNRPA1 | **PRPF8** | 0.999 |
+| SNRPA1 | **PLRG1** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| SNRPA1 | **EFTUD2** | 0.999 |
+| SNIP1 | **SRRM1** | 0.859 |
+| SNIP1 | **BUD31** | 0.934 |
+| SNIP1 | **PLRG1** | 0.957 |
+| SNIP1 | **CDC5L** | 0.958 |
+| SNIP1 | **CDC40** | 0.959 |
+| SNIP1 | **EFTUD2** | 0.995 |
+| SNIP1 | **PRPF8** | 0.996 |
+| SNIP1 | **SRRM2** | 0.997 |
+| SNIP1 | **CWC22** | 0.998 |
+| SNIP1 | **RBMX2** | 0.999 |
+| SNIP1 | **SNRNP200** | 0.999 |
+| SRRM2 | **PLRG1** | 0.997 |
+| SRRM2 | **RBMX2** | 0.997 |
+| SRRM2 | **CDC40** | 0.998 |
+| SRRM2 | **BUD31** | 0.998 |
+| SRRM2 | **SNRNP200** | 0.998 |
+| SRRM2 | **EFTUD2** | 0.999 |
+| SRRM2 | **CWC22** | 0.999 |
+| SRRM2 | **PRPF8** | 0.999 |
+| SRRM2 | **SRRM1** | 0.999 |
+| SRRM2 | **CDC5L** | 0.999 |
+| SNRNP200 | **SRRM1** | 0.878 |
+| SNRNP200 | **BUD31** | 0.995 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **PLRG1** | 0.996 |
+| SNRNP200 | **CDC5L** | 0.998 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **CWC22** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **RBMX2** | 0.999 |
+| SRRM1 | **RBMX2** | 0.8 |
+| SRRM1 | **BUD31** | 0.823 |
+| SRRM1 | **PLRG1** | 0.83 |
+| SRRM1 | **EFTUD2** | 0.885 |
+| SRRM1 | **CDC5L** | 0.945 |
+| SRRM1 | **PRPF8** | 0.948 |
+| SRRM1 | **CDC40** | 0.967 |
+| SRRM1 | **CWC22** | 0.968 |
+| RBMX2 | **PLRG1** | 0.925 |
+| RBMX2 | **BUD31** | 0.934 |
+| RBMX2 | **CDC40** | 0.937 |
+| RBMX2 | **PRPF8** | 0.992 |
+| RBMX2 | **CDC5L** | 0.994 |
+| RBMX2 | **EFTUD2** | 0.994 |
+| RBMX2 | **CWC22** | 0.996 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **EFTUD2** | 0.999 |
+| CDC40 | **PLRG1** | 0.999 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **EFTUD2** | 0.999 |
+| CDC5L | **PLRG1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| BUD31 | **CWC22** | 0.999 |
+| BUD31 | **PRPF8** | 0.999 |
+| BUD31 | **PLRG1** | 0.999 |
+| BUD31 | **EFTUD2** | 0.999 |
+| CWC22 | **PLRG1** | 0.998 |
+| CWC22 | **PRPF8** | 0.999 |
+| CWC22 | **EFTUD2** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| EFTUD2 | **PLRG1** | 0.999 |
+| PLRG1 | **PRPF8** | 0.999 |
+

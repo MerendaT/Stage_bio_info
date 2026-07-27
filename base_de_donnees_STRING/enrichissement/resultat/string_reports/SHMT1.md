@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SHMT1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SHMT1
+Identifiant STRING officiel : `9606.ENSP00000318868`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ATIC | **PSPH** | 0.598 |
+| ATIC | **GLDC** | 0.756 |
+| ATIC | **MTHFR** | 0.787 |
+| ATIC | **TYMS** | 0.857 |
+| ATIC | **AMT** | 0.964 |
+| ATIC | **MTR** | 0.972 |
+| ATIC | **DHFR2** | 0.974 |
+| ATIC | **DHFR** | 0.987 |
+| ATIC | **MTHFD2L** | 0.989 |
+| ATIC | **MTHFD2** | 0.992 |
+| ATIC | **MTHFD1L** | 0.994 |
+| ATIC | **MTHFD1** | 0.998 |
+| ATIC | **SHMT1** | 0.998 |
+| ATIC | **GART** | 0.999 |
+| AMT | **DHFR2** | 0.956 |
+| AMT | **DHFR** | 0.958 |
+| AMT | **MTHFD1L** | 0.96 |
+| AMT | **GART** | 0.961 |
+| AMT | **MTHFD1** | 0.965 |
+| AMT | **MTR** | 0.966 |
+| AMT | **AGXT** | 0.97 |
+| AMT | **TYMS** | 0.975 |
+| AMT | **MTHFR** | 0.982 |
+| AMT | **SHMT1** | 0.989 |
+| AMT | **MTHFD2L** | 0.99 |
+| AMT | **MTHFD2** | 0.99 |
+| AMT | **GLDC** | 0.999 |
+| AGXT | **MTR** | 0.708 |
+| AGXT | **GART** | 0.805 |
+| AGXT | **GLDC** | 0.957 |
+| AGXT | **PSPH** | 0.991 |
+| AGXT | **SHMT1** | 0.994 |
+| TYMS | **PSPH** | 0.471 |
+| TYMS | **MTHFD1L** | 0.757 |
+| TYMS | **MTR** | 0.824 |
+| TYMS | **GART** | 0.895 |
+| TYMS | **GLDC** | 0.919 |
+| TYMS | **MTHFD1** | 0.986 |
+| TYMS | **MTHFD2L** | 0.991 |
+| TYMS | **MTHFR** | 0.991 |
+| TYMS | **MTHFD2** | 0.994 |
+| TYMS | **SHMT1** | 0.997 |
+| TYMS | **DHFR2** | 0.999 |
+| TYMS | **DHFR** | 0.999 |
+| SHMT1 | **DHFR2** | 0.992 |
+| SHMT1 | **MTR** | 0.994 |
+| SHMT1 | **MTHFD1L** | 0.995 |
+| SHMT1 | **DHFR** | 0.995 |
+| SHMT1 | **PSPH** | 0.996 |
+| SHMT1 | **MTHFD2L** | 0.996 |
+| SHMT1 | **MTHFD2** | 0.997 |
+| SHMT1 | **MTHFR** | 0.998 |
+| SHMT1 | **GLDC** | 0.998 |
+| SHMT1 | **MTHFD1** | 0.999 |
+| SHMT1 | **GART** | 0.999 |
+| DHFR2 | **MTHFD2L** | 0.598 |
+| DHFR2 | **MTHFD2** | 0.639 |
+| DHFR2 | **MTHFR** | 0.794 |
+| DHFR2 | **GLDC** | 0.884 |
+| DHFR2 | **DHFR** | 0.909 |
+| DHFR2 | **MTHFD1L** | 0.968 |
+| DHFR2 | **MTR** | 0.972 |
+| DHFR2 | **MTHFD1** | 0.985 |
+| DHFR2 | **GART** | 0.989 |
+| MTR | **PSPH** | 0.417 |
+| MTR | **MTHFD2L** | 0.723 |
+| MTR | **MTHFD2** | 0.769 |
+| MTR | **GLDC** | 0.846 |
+| MTR | **GART** | 0.961 |
+| MTR | **DHFR** | 0.978 |
+| MTR | **MTHFD1L** | 0.98 |
+| MTR | **MTHFD1** | 0.997 |
+| MTR | **MTHFR** | 0.999 |
+| MTHFR | **PSPH** | 0.452 |
+| MTHFR | **GART** | 0.737 |
+| MTHFR | **DHFR** | 0.843 |
+| MTHFR | **MTHFD1L** | 0.845 |
+| MTHFR | **GLDC** | 0.93 |
+| MTHFR | **MTHFD2L** | 0.991 |
+| MTHFR | **MTHFD2** | 0.993 |
+| MTHFR | **MTHFD1** | 0.996 |
+| GLDC | **PSPH** | 0.704 |
+| GLDC | **DHFR** | 0.9 |
+| GLDC | **MTHFD1** | 0.908 |
+| GLDC | **MTHFD1L** | 0.919 |
+| GLDC | **GART** | 0.968 |
+| GLDC | **MTHFD2L** | 0.97 |
+| GLDC | **MTHFD2** | 0.972 |
+| GART | **PSPH** | 0.728 |
+| GART | **DHFR** | 0.989 |
+| GART | **MTHFD2** | 0.999 |
+| GART | **MTHFD1L** | 0.999 |
+| GART | **MTHFD1** | 0.999 |
+| GART | **MTHFD2L** | 0.999 |
+| MTHFD2 | **PSPH** | 0.695 |
+| MTHFD2 | **DHFR** | 0.742 |
+| MTHFD2 | **MTHFD1** | 0.979 |
+| MTHFD2 | **MTHFD2L** | 0.985 |
+| MTHFD2 | **MTHFD1L** | 0.99 |
+| PSPH | **DHFR** | 0.457 |
+| PSPH | **MTHFD2L** | 0.544 |
+| PSPH | **MTHFD1** | 0.638 |
+| PSPH | **MTHFD1L** | 0.695 |
+| MTHFD2L | **DHFR** | 0.649 |
+| MTHFD2L | **MTHFD1** | 0.986 |
+| MTHFD2L | **MTHFD1L** | 0.988 |
+| DHFR | **MTHFD1L** | 0.972 |
+| DHFR | **MTHFD1** | 0.99 |
+| MTHFD1L | **MTHFD1** | 0.944 |
+

@@ -1,0 +1,102 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : DHRS11
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DHRS11
+Identifiant STRING officiel : `9606.ENSP00000482704`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HSD17B10 | **HSD17B7** | 0.417 |
+| HSD17B10 | **HSD17B8** | 0.453 |
+| HSD17B10 | **HSD17B6** | 0.531 |
+| HSD17B10 | **HSD17B4** | 0.589 |
+| HSD17B10 | **HSD17B1** | 0.608 |
+| HSD17B10 | **DHRS11** | 0.884 |
+| HSD17B10 | **FSIP1** | 0.982 |
+| HSD17B2 | **CYP11A1** | 0.572 |
+| HSD17B2 | **HSD17B6** | 0.92 |
+| HSD17B2 | **HSD17B4** | 0.928 |
+| HSD17B2 | **HSD17B12** | 0.934 |
+| HSD17B2 | **HSD17B8** | 0.935 |
+| HSD17B2 | **HSD17B7** | 0.961 |
+| HSD17B2 | **HSD3B1** | 0.964 |
+| HSD17B2 | **CYP19A1** | 0.966 |
+| HSD17B2 | **HSD3B2** | 0.97 |
+| HSD17B2 | **CYP17A1** | 0.972 |
+| HSD17B2 | **DHRS11** | 0.995 |
+| HSD17B2 | **HSD17B1** | 0.999 |
+| HSD17B1 | **HSD11B2** | 0.422 |
+| HSD17B1 | **HSD3B2** | 0.64 |
+| HSD17B1 | **CYP11A1** | 0.835 |
+| HSD17B1 | **CYP17A1** | 0.852 |
+| HSD17B1 | **HSD3B1** | 0.88 |
+| HSD17B1 | **HSD17B6** | 0.938 |
+| HSD17B1 | **HSD17B4** | 0.943 |
+| HSD17B1 | **HSD17B8** | 0.959 |
+| HSD17B1 | **HSD17B12** | 0.968 |
+| HSD17B1 | **CYP19A1** | 0.984 |
+| HSD17B1 | **HSD17B7** | 0.991 |
+| HSD17B1 | **DHRS11** | 0.997 |
+| HSD17B7 | **HSD17B4** | 0.426 |
+| HSD17B7 | **CYP17A1** | 0.554 |
+| HSD17B7 | **CYP11A1** | 0.563 |
+| HSD17B7 | **HSD3B2** | 0.858 |
+| HSD17B7 | **HSD3B1** | 0.881 |
+| HSD17B7 | **HSD17B6** | 0.934 |
+| HSD17B7 | **HSD17B8** | 0.957 |
+| HSD17B7 | **CYP19A1** | 0.961 |
+| HSD17B7 | **HSD17B12** | 0.971 |
+| HSD17B7 | **DHRS11** | 0.989 |
+| CYP11A1 | **HSD17B12** | 0.403 |
+| CYP11A1 | **HSD17B4** | 0.454 |
+| CYP11A1 | **HSD17B6** | 0.507 |
+| CYP11A1 | **CYP19A1** | 0.601 |
+| CYP11A1 | **DHRS11** | 0.765 |
+| CYP11A1 | **HSD11B2** | 0.854 |
+| CYP11A1 | **CYP17A1** | 0.965 |
+| CYP11A1 | **HSD3B2** | 0.994 |
+| CYP11A1 | **HSD3B1** | 0.997 |
+| HSD17B12 | **CYP17A1** | 0.429 |
+| HSD17B12 | **HSD17B4** | 0.512 |
+| HSD17B12 | **HSD17B6** | 0.916 |
+| HSD17B12 | **DHRS11** | 0.941 |
+| HSD17B12 | **CYP19A1** | 0.956 |
+| HSD17B12 | **HSD17B8** | 0.973 |
+| FSIP1 | **DHRS11** | 0.886 |
+| HSD11B2 | **CYP19A1** | 0.655 |
+| HSD11B2 | **DHRS11** | 0.812 |
+| HSD11B2 | **CYP17A1** | 0.867 |
+| HSD11B2 | **HSD3B2** | 0.949 |
+| HSD11B2 | **HSD3B1** | 0.959 |
+| HSD3B1 | **HSD17B4** | 0.557 |
+| HSD3B1 | **DHRS11** | 0.886 |
+| HSD3B1 | **HSD17B8** | 0.929 |
+| HSD3B1 | **HSD17B6** | 0.952 |
+| HSD3B1 | **HSD3B2** | 0.965 |
+| HSD3B1 | **CYP19A1** | 0.988 |
+| HSD3B1 | **CYP17A1** | 0.995 |
+| CYP17A1 | **HSD17B4** | 0.496 |
+| CYP17A1 | **DHRS11** | 0.865 |
+| CYP17A1 | **HSD17B8** | 0.935 |
+| CYP17A1 | **HSD17B6** | 0.97 |
+| CYP17A1 | **CYP19A1** | 0.971 |
+| CYP17A1 | **HSD3B2** | 0.994 |
+| HSD17B8 | **HSD17B4** | 0.435 |
+| HSD17B8 | **HSD17B6** | 0.918 |
+| HSD17B8 | **HSD3B2** | 0.923 |
+| HSD17B8 | **CYP19A1** | 0.932 |
+| HSD17B8 | **DHRS11** | 0.936 |
+| CYP19A1 | **HSD17B4** | 0.442 |
+| CYP19A1 | **DHRS11** | 0.875 |
+| CYP19A1 | **HSD17B6** | 0.936 |
+| CYP19A1 | **HSD3B2** | 0.979 |
+| HSD17B4 | **HSD3B2** | 0.475 |
+| HSD17B4 | **DHRS11** | 0.938 |
+| HSD3B2 | **DHRS11** | 0.816 |
+| HSD3B2 | **HSD17B6** | 0.952 |
+| HSD17B6 | **DHRS11** | 0.946 |
+

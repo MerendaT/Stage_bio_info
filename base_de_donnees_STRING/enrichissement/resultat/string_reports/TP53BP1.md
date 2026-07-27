@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TP53BP1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TP53BP1
+Identifiant STRING officiel : `9606.ENSP00000371475`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| USP28 | **BRCA1** | 0.42 |
+| USP28 | **MDC1** | 0.526 |
+| USP28 | **ATM** | 0.593 |
+| USP28 | **TP53** | 0.806 |
+| USP28 | **CHEK2** | 0.852 |
+| USP28 | **TP53BP1** | 0.998 |
+| H4C6 | **TOPBP1** | 0.411 |
+| H4C6 | **RNF8** | 0.733 |
+| H4C6 | **PAXIP1** | 0.752 |
+| H4C6 | **ATM** | 0.772 |
+| H4C6 | **CHEK2** | 0.81 |
+| H4C6 | **RNF168** | 0.812 |
+| H4C6 | **BRCA1** | 0.867 |
+| H4C6 | **MDC1** | 0.913 |
+| H4C6 | **TP53** | 0.947 |
+| H4C6 | **H2AX** | 0.998 |
+| H4C6 | **H2AC20** | 0.999 |
+| H4C6 | **H3C12** | 0.999 |
+| H4C6 | **H2AC18** | 0.999 |
+| H4C6 | **TP53BP1** | 0.999 |
+| TOPBP1 | **H3C12** | 0.401 |
+| TOPBP1 | **H2AC20** | 0.454 |
+| TOPBP1 | **H2AC18** | 0.456 |
+| TOPBP1 | **H2AX** | 0.584 |
+| TOPBP1 | **RNF168** | 0.668 |
+| TOPBP1 | **RNF8** | 0.672 |
+| TOPBP1 | **PAXIP1** | 0.785 |
+| TOPBP1 | **CHEK2** | 0.827 |
+| TOPBP1 | **TP53** | 0.949 |
+| TOPBP1 | **ATM** | 0.954 |
+| TOPBP1 | **MDC1** | 0.995 |
+| TOPBP1 | **TP53BP1** | 0.999 |
+| TOPBP1 | **BRCA1** | 0.999 |
+| TP53 | **RNF168** | 0.441 |
+| TP53 | **RNF8** | 0.454 |
+| TP53 | **PAXIP1** | 0.568 |
+| TP53 | **H2AC20** | 0.583 |
+| TP53 | **H2AC18** | 0.583 |
+| TP53 | **MDC1** | 0.853 |
+| TP53 | **H2AX** | 0.892 |
+| TP53 | **H3C12** | 0.971 |
+| TP53 | **ATM** | 0.999 |
+| TP53 | **CHEK2** | 0.999 |
+| TP53 | **BRCA1** | 0.999 |
+| TP53 | **TP53BP1** | 0.999 |
+| ATM | **H3C12** | 0.766 |
+| ATM | **H2AC20** | 0.801 |
+| ATM | **H2AC18** | 0.801 |
+| ATM | **RNF168** | 0.906 |
+| ATM | **RNF8** | 0.926 |
+| ATM | **PAXIP1** | 0.963 |
+| ATM | **H2AX** | 0.998 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **CHEK2** | 0.999 |
+| ATM | **MDC1** | 0.999 |
+| ATM | **TP53BP1** | 0.999 |
+| RNF168 | **CHEK2** | 0.751 |
+| RNF168 | **PAXIP1** | 0.808 |
+| RNF168 | **H2AC18** | 0.961 |
+| RNF168 | **H2AX** | 0.978 |
+| RNF168 | **BRCA1** | 0.982 |
+| RNF168 | **H2AC20** | 0.983 |
+| RNF168 | **TP53BP1** | 0.997 |
+| RNF168 | **MDC1** | 0.997 |
+| RNF168 | **RNF8** | 0.997 |
+| H2AC20 | **CHEK2** | 0.603 |
+| H2AC20 | **H2AX** | 0.648 |
+| H2AC20 | **MDC1** | 0.759 |
+| H2AC20 | **PAXIP1** | 0.842 |
+| H2AC20 | **RNF8** | 0.928 |
+| H2AC20 | **H2AC18** | 0.938 |
+| H2AC20 | **BRCA1** | 0.955 |
+| H2AC20 | **TP53BP1** | 0.993 |
+| H2AC20 | **H3C12** | 0.999 |
+| H3C12 | **RNF8** | 0.439 |
+| H3C12 | **MDC1** | 0.504 |
+| H3C12 | **CHEK2** | 0.748 |
+| H3C12 | **BRCA1** | 0.759 |
+| H3C12 | **PAXIP1** | 0.846 |
+| H3C12 | **H2AX** | 0.992 |
+| H3C12 | **TP53BP1** | 0.997 |
+| H3C12 | **H2AC18** | 0.999 |
+| H2AC18 | **H2AX** | 0.423 |
+| H2AC18 | **CHEK2** | 0.603 |
+| H2AC18 | **MDC1** | 0.759 |
+| H2AC18 | **PAXIP1** | 0.843 |
+| H2AC18 | **RNF8** | 0.859 |
+| H2AC18 | **BRCA1** | 0.885 |
+| H2AC18 | **TP53BP1** | 0.999 |
+| RNF8 | **PAXIP1** | 0.793 |
+| RNF8 | **CHEK2** | 0.897 |
+| RNF8 | **BRCA1** | 0.97 |
+| RNF8 | **H2AX** | 0.985 |
+| RNF8 | **TP53BP1** | 0.996 |
+| RNF8 | **MDC1** | 0.999 |
+| MDC1 | **PAXIP1** | 0.639 |
+| MDC1 | **CHEK2** | 0.99 |
+| MDC1 | **H2AX** | 0.999 |
+| MDC1 | **BRCA1** | 0.999 |
+| MDC1 | **TP53BP1** | 0.999 |
+| TP53BP1 | **CHEK2** | 0.996 |
+| TP53BP1 | **PAXIP1** | 0.999 |
+| TP53BP1 | **H2AX** | 0.999 |
+| TP53BP1 | **BRCA1** | 0.999 |
+| CHEK2 | **PAXIP1** | 0.47 |
+| CHEK2 | **H2AX** | 0.957 |
+| CHEK2 | **BRCA1** | 0.999 |
+| PAXIP1 | **BRCA1** | 0.836 |
+| PAXIP1 | **H2AX** | 0.908 |
+| BRCA1 | **H2AX** | 0.999 |
+

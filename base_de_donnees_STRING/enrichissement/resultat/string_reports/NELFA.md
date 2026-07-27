@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NELFA
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NELFA
+Identifiant STRING officiel : `9606.ENSP00000445757`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| POLR2C | **CCNT1** | 0.632 |
+| POLR2C | **NELFE** | 0.856 |
+| POLR2C | **TCEA2** | 0.922 |
+| POLR2C | **NELFCD** | 0.931 |
+| POLR2C | **NELFB** | 0.947 |
+| POLR2C | **NELFA** | 0.953 |
+| POLR2C | **CTR9** | 0.983 |
+| POLR2C | **RTF1** | 0.984 |
+| POLR2C | **SUPT4H1** | 0.998 |
+| POLR2C | **POLR2B** | 0.999 |
+| POLR2C | **POLR2H** | 0.999 |
+| POLR2C | **SUPT5H** | 0.999 |
+| POLR2C | **POLR2A** | 0.999 |
+| POLR2C | **POLR2J** | 0.999 |
+| POLR2C | **POLR2I** | 0.999 |
+| POLR2I | **CCNT1** | 0.576 |
+| POLR2I | **NELFE** | 0.791 |
+| POLR2I | **NELFCD** | 0.904 |
+| POLR2I | **CTR9** | 0.917 |
+| POLR2I | **RTF1** | 0.934 |
+| POLR2I | **NELFA** | 0.942 |
+| POLR2I | **NELFB** | 0.948 |
+| POLR2I | **TCEA2** | 0.965 |
+| POLR2I | **SUPT4H1** | 0.998 |
+| POLR2I | **SUPT5H** | 0.998 |
+| POLR2I | **POLR2B** | 0.999 |
+| POLR2I | **POLR2H** | 0.999 |
+| POLR2I | **POLR2J** | 0.999 |
+| POLR2I | **POLR2A** | 0.999 |
+| SUPT4H1 | **CCNT1** | 0.97 |
+| SUPT4H1 | **POLR2J** | 0.991 |
+| SUPT4H1 | **TCEA2** | 0.993 |
+| SUPT4H1 | **NELFA** | 0.993 |
+| SUPT4H1 | **POLR2H** | 0.995 |
+| SUPT4H1 | **CTR9** | 0.996 |
+| SUPT4H1 | **NELFCD** | 0.996 |
+| SUPT4H1 | **NELFB** | 0.996 |
+| SUPT4H1 | **NELFE** | 0.997 |
+| SUPT4H1 | **RTF1** | 0.998 |
+| SUPT4H1 | **POLR2B** | 0.999 |
+| SUPT4H1 | **SUPT5H** | 0.999 |
+| SUPT4H1 | **POLR2A** | 0.999 |
+| CCNT1 | **POLR2H** | 0.519 |
+| CCNT1 | **POLR2J** | 0.544 |
+| CCNT1 | **POLR2B** | 0.606 |
+| CCNT1 | **NELFCD** | 0.916 |
+| CCNT1 | **TCEA2** | 0.939 |
+| CCNT1 | **NELFA** | 0.939 |
+| CCNT1 | **NELFB** | 0.94 |
+| CCNT1 | **POLR2A** | 0.942 |
+| CCNT1 | **RTF1** | 0.945 |
+| CCNT1 | **CTR9** | 0.964 |
+| CCNT1 | **NELFE** | 0.968 |
+| CCNT1 | **SUPT5H** | 0.99 |
+| POLR2J | **NELFE** | 0.73 |
+| POLR2J | **TCEA2** | 0.797 |
+| POLR2J | **RTF1** | 0.895 |
+| POLR2J | **NELFCD** | 0.908 |
+| POLR2J | **CTR9** | 0.915 |
+| POLR2J | **NELFA** | 0.941 |
+| POLR2J | **NELFB** | 0.943 |
+| POLR2J | **SUPT5H** | 0.995 |
+| POLR2J | **POLR2B** | 0.999 |
+| POLR2J | **POLR2H** | 0.999 |
+| POLR2J | **POLR2A** | 0.999 |
+| NELFB | **TCEA2** | 0.924 |
+| NELFB | **POLR2H** | 0.928 |
+| NELFB | **POLR2B** | 0.931 |
+| NELFB | **RTF1** | 0.943 |
+| NELFB | **POLR2A** | 0.948 |
+| NELFB | **CTR9** | 0.949 |
+| NELFB | **NELFE** | 0.999 |
+| NELFB | **NELFA** | 0.999 |
+| NELFB | **SUPT5H** | 0.999 |
+| NELFB | **NELFCD** | 0.999 |
+| TCEA2 | **POLR2H** | 0.878 |
+| TCEA2 | **NELFCD** | 0.909 |
+| TCEA2 | **NELFE** | 0.928 |
+| TCEA2 | **POLR2A** | 0.936 |
+| TCEA2 | **NELFA** | 0.938 |
+| TCEA2 | **POLR2B** | 0.957 |
+| TCEA2 | **CTR9** | 0.96 |
+| TCEA2 | **RTF1** | 0.97 |
+| TCEA2 | **SUPT5H** | 0.995 |
+| CTR9 | **NELFCD** | 0.907 |
+| CTR9 | **NELFA** | 0.935 |
+| CTR9 | **NELFE** | 0.939 |
+| CTR9 | **POLR2H** | 0.958 |
+| CTR9 | **POLR2B** | 0.971 |
+| CTR9 | **POLR2A** | 0.998 |
+| CTR9 | **SUPT5H** | 0.999 |
+| CTR9 | **RTF1** | 0.999 |
+| NELFE | **POLR2H** | 0.786 |
+| NELFE | **POLR2B** | 0.809 |
+| NELFE | **RTF1** | 0.925 |
+| NELFE | **POLR2A** | 0.955 |
+| NELFE | **SUPT5H** | 0.998 |
+| NELFE | **NELFA** | 0.999 |
+| NELFE | **NELFCD** | 0.999 |
+| POLR2B | **NELFCD** | 0.931 |
+| POLR2B | **NELFA** | 0.957 |
+| POLR2B | **RTF1** | 0.982 |
+| POLR2B | **POLR2A** | 0.999 |
+| POLR2B | **POLR2H** | 0.999 |
+| POLR2B | **SUPT5H** | 0.999 |
+| RTF1 | **POLR2H** | 0.898 |
+| RTF1 | **NELFCD** | 0.903 |
+| RTF1 | **NELFA** | 0.933 |
+| RTF1 | **POLR2A** | 0.993 |
+| RTF1 | **SUPT5H** | 0.999 |
+| POLR2H | **NELFCD** | 0.907 |
+| POLR2H | **NELFA** | 0.942 |
+| POLR2H | **SUPT5H** | 0.998 |
+| POLR2H | **POLR2A** | 0.999 |
+| NELFA | **POLR2A** | 0.964 |
+| NELFA | **SUPT5H** | 0.999 |
+| NELFA | **NELFCD** | 0.999 |
+| POLR2A | **NELFCD** | 0.956 |
+| POLR2A | **SUPT5H** | 0.999 |
+| SUPT5H | **NELFCD** | 0.998 |
+

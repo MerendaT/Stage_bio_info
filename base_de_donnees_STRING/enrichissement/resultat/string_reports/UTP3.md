@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UTP3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UTP3
+Identifiant STRING officiel : `9606.ENSP00000254803`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **FCF1** | 0.995 |
+| UTP18 | **IMP3** | 0.997 |
+| UTP18 | **NOP58** | 0.998 |
+| UTP18 | **IMP4** | 0.998 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **NOC4L** | 0.999 |
+| UTP18 | **BMS1** | 0.999 |
+| UTP18 | **UTP11** | 0.999 |
+| UTP18 | **UTP3** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| UTP18 | **NOL6** | 0.999 |
+| KRR1 | **IMP4** | 0.998 |
+| KRR1 | **NOL6** | 0.998 |
+| KRR1 | **BMS1** | 0.999 |
+| KRR1 | **UTP11** | 0.999 |
+| KRR1 | **UTP3** | 0.999 |
+| KRR1 | **WDR3** | 0.999 |
+| KRR1 | **FCF1** | 0.999 |
+| KRR1 | **MPHOSPH10** | 0.999 |
+| KRR1 | **UTP4** | 0.999 |
+| KRR1 | **UTP6** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| KRR1 | **IMP3** | 0.999 |
+| KRR1 | **NOP58** | 0.999 |
+| KRR1 | **NOC4L** | 0.999 |
+| BYSL | **FCF1** | 0.996 |
+| BYSL | **IMP3** | 0.997 |
+| BYSL | **NOP58** | 0.998 |
+| BYSL | **UTP11** | 0.998 |
+| BYSL | **MPHOSPH10** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **NOC4L** | 0.999 |
+| BYSL | **BMS1** | 0.999 |
+| BYSL | **UTP3** | 0.999 |
+| BYSL | **WDR3** | 0.999 |
+| BYSL | **IMP4** | 0.999 |
+| BYSL | **NOL6** | 0.999 |
+| MPHOSPH10 | **FCF1** | 0.996 |
+| MPHOSPH10 | **NOC4L** | 0.998 |
+| MPHOSPH10 | **UTP11** | 0.998 |
+| MPHOSPH10 | **IMP3** | 0.999 |
+| MPHOSPH10 | **NOP58** | 0.999 |
+| MPHOSPH10 | **UTP4** | 0.999 |
+| MPHOSPH10 | **UTP6** | 0.999 |
+| MPHOSPH10 | **WDR3** | 0.999 |
+| MPHOSPH10 | **IMP4** | 0.999 |
+| MPHOSPH10 | **NOL6** | 0.999 |
+| MPHOSPH10 | **BMS1** | 0.999 |
+| MPHOSPH10 | **UTP3** | 0.999 |
+| UTP3 | **NOC4L** | 0.999 |
+| UTP3 | **NOP58** | 0.999 |
+| UTP3 | **IMP3** | 0.999 |
+| UTP3 | **UTP6** | 0.999 |
+| UTP3 | **UTP4** | 0.999 |
+| UTP3 | **NOL6** | 0.999 |
+| UTP3 | **IMP4** | 0.999 |
+| UTP3 | **WDR3** | 0.999 |
+| UTP3 | **FCF1** | 0.999 |
+| UTP3 | **UTP11** | 0.999 |
+| UTP3 | **BMS1** | 0.999 |
+| IMP4 | **FCF1** | 0.992 |
+| IMP4 | **WDR3** | 0.998 |
+| IMP4 | **NOL6** | 0.998 |
+| IMP4 | **UTP11** | 0.998 |
+| IMP4 | **NOP58** | 0.998 |
+| IMP4 | **BMS1** | 0.999 |
+| IMP4 | **NOC4L** | 0.999 |
+| IMP4 | **IMP3** | 0.999 |
+| IMP4 | **UTP4** | 0.999 |
+| IMP4 | **UTP6** | 0.999 |
+| UTP6 | **FCF1** | 0.995 |
+| UTP6 | **NOP58** | 0.998 |
+| UTP6 | **NOC4L** | 0.998 |
+| UTP6 | **IMP3** | 0.998 |
+| UTP6 | **UTP11** | 0.998 |
+| UTP6 | **UTP4** | 0.999 |
+| UTP6 | **WDR3** | 0.999 |
+| UTP6 | **NOL6** | 0.999 |
+| UTP6 | **BMS1** | 0.999 |
+| NOP58 | **IMP3** | 0.997 |
+| NOP58 | **NOC4L** | 0.998 |
+| NOP58 | **UTP11** | 0.998 |
+| NOP58 | **FCF1** | 0.998 |
+| NOP58 | **UTP4** | 0.999 |
+| NOP58 | **BMS1** | 0.999 |
+| NOP58 | **WDR3** | 0.999 |
+| NOP58 | **NOL6** | 0.999 |
+| NOL6 | **UTP11** | 0.993 |
+| NOL6 | **IMP3** | 0.996 |
+| NOL6 | **FCF1** | 0.997 |
+| NOL6 | **NOC4L** | 0.998 |
+| NOL6 | **UTP4** | 0.999 |
+| NOL6 | **WDR3** | 0.999 |
+| NOL6 | **BMS1** | 0.999 |
+| WDR3 | **IMP3** | 0.993 |
+| WDR3 | **FCF1** | 0.995 |
+| WDR3 | **UTP11** | 0.996 |
+| WDR3 | **BMS1** | 0.999 |
+| WDR3 | **NOC4L** | 0.999 |
+| WDR3 | **UTP4** | 0.999 |
+| IMP3 | **UTP4** | 0.995 |
+| IMP3 | **NOC4L** | 0.997 |
+| IMP3 | **BMS1** | 0.997 |
+| IMP3 | **UTP11** | 0.998 |
+| IMP3 | **FCF1** | 0.998 |
+| UTP4 | **FCF1** | 0.995 |
+| UTP4 | **UTP11** | 0.998 |
+| UTP4 | **NOC4L** | 0.999 |
+| UTP4 | **BMS1** | 0.999 |
+| NOC4L | **FCF1** | 0.997 |
+| NOC4L | **UTP11** | 0.998 |
+| NOC4L | **BMS1** | 0.998 |
+| FCF1 | **BMS1** | 0.998 |
+| FCF1 | **UTP11** | 0.999 |
+| UTP11 | **BMS1** | 0.997 |
+

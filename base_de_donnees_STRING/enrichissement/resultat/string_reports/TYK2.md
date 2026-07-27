@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : TYK2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TYK2
+Identifiant STRING officiel : `9606.ENSP00000431885`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| IL10RA | **IL12RB2** | 0.404 |
+| IL10RA | **IFNAR1** | 0.54 |
+| IL10RA | **IL12RB1** | 0.587 |
+| IL10RA | **SOCS3** | 0.653 |
+| IL10RA | **IFNAR2** | 0.688 |
+| IL10RA | **IL13RA1** | 0.726 |
+| IL10RA | **JAK2** | 0.778 |
+| IL10RA | **IFNA1** | 0.787 |
+| IL10RA | **STAT1** | 0.861 |
+| IL10RA | **STAT3** | 0.984 |
+| IL10RA | **TYK2** | 0.997 |
+| IL10RA | **IL10RB** | 0.999 |
+| IL10RA | **JAK1** | 0.999 |
+| IL12RB2 | **SOCS1** | 0.415 |
+| IL12RB2 | **IL10RB** | 0.577 |
+| IL12RB2 | **IL13RA1** | 0.581 |
+| IL12RB2 | **SOCS3** | 0.763 |
+| IL12RB2 | **IFNA1** | 0.781 |
+| IL12RB2 | **STAT3** | 0.85 |
+| IL12RB2 | **JAK1** | 0.876 |
+| IL12RB2 | **STAT1** | 0.879 |
+| IL12RB2 | **TYK2** | 0.994 |
+| IL12RB2 | **JAK2** | 0.998 |
+| IL12RB2 | **IL12RB1** | 0.999 |
+| STAT3 | **IFNAR2** | 0.469 |
+| STAT3 | **IFNA1** | 0.696 |
+| STAT3 | **IL13RA1** | 0.807 |
+| STAT3 | **IFNAR1** | 0.906 |
+| STAT3 | **IL10RB** | 0.933 |
+| STAT3 | **SOCS1** | 0.944 |
+| STAT3 | **STAT2** | 0.954 |
+| STAT3 | **IL12RB1** | 0.976 |
+| STAT3 | **SOCS3** | 0.994 |
+| STAT3 | **TYK2** | 0.997 |
+| STAT3 | **JAK1** | 0.999 |
+| STAT3 | **JAK2** | 0.999 |
+| STAT3 | **STAT1** | 0.999 |
+| IFNAR1 | **IL10RB** | 0.482 |
+| IFNAR1 | **IL12RB1** | 0.614 |
+| IFNAR1 | **SOCS3** | 0.884 |
+| IFNAR1 | **JAK2** | 0.965 |
+| IFNAR1 | **SOCS1** | 0.988 |
+| IFNAR1 | **STAT1** | 0.998 |
+| IFNAR1 | **TYK2** | 0.999 |
+| IFNAR1 | **IFNAR2** | 0.999 |
+| IFNAR1 | **JAK1** | 0.999 |
+| IFNAR1 | **STAT2** | 0.999 |
+| IFNAR1 | **IFNA1** | 0.999 |
+| IFNA1 | **IL13RA1** | 0.718 |
+| IFNA1 | **SOCS3** | 0.784 |
+| IFNA1 | **SOCS1** | 0.799 |
+| IFNA1 | **IL12RB1** | 0.862 |
+| IFNA1 | **JAK2** | 0.876 |
+| IFNA1 | **IL10RB** | 0.907 |
+| IFNA1 | **STAT2** | 0.959 |
+| IFNA1 | **STAT1** | 0.96 |
+| IFNA1 | **JAK1** | 0.992 |
+| IFNA1 | **TYK2** | 0.992 |
+| IFNA1 | **IFNAR2** | 0.999 |
+| IL10RB | **SOCS3** | 0.458 |
+| IL10RB | **IL12RB1** | 0.488 |
+| IL10RB | **IL13RA1** | 0.661 |
+| IL10RB | **STAT2** | 0.797 |
+| IL10RB | **JAK2** | 0.884 |
+| IL10RB | **STAT1** | 0.902 |
+| IL10RB | **IFNAR2** | 0.947 |
+| IL10RB | **JAK1** | 0.998 |
+| IL10RB | **TYK2** | 0.999 |
+| STAT2 | **IL12RB1** | 0.403 |
+| STAT2 | **SOCS1** | 0.909 |
+| STAT2 | **SOCS3** | 0.977 |
+| STAT2 | **JAK2** | 0.991 |
+| STAT2 | **JAK1** | 0.996 |
+| STAT2 | **IFNAR2** | 0.997 |
+| STAT2 | **TYK2** | 0.998 |
+| STAT2 | **STAT1** | 0.999 |
+| SOCS3 | **IFNAR2** | 0.694 |
+| SOCS3 | **IL12RB1** | 0.742 |
+| SOCS3 | **SOCS1** | 0.969 |
+| SOCS3 | **STAT1** | 0.988 |
+| SOCS3 | **JAK2** | 0.999 |
+| SOCS3 | **JAK1** | 0.999 |
+| SOCS3 | **TYK2** | 0.999 |
+| IFNAR2 | **SOCS1** | 0.719 |
+| IFNAR2 | **JAK2** | 0.968 |
+| IFNAR2 | **STAT1** | 0.998 |
+| IFNAR2 | **TYK2** | 0.999 |
+| IFNAR2 | **JAK1** | 0.999 |
+| STAT1 | **IL13RA1** | 0.692 |
+| STAT1 | **IL12RB1** | 0.812 |
+| STAT1 | **SOCS1** | 0.966 |
+| STAT1 | **TYK2** | 0.997 |
+| STAT1 | **JAK1** | 0.999 |
+| STAT1 | **JAK2** | 0.999 |
+| IL13RA1 | **SOCS1** | 0.785 |
+| IL13RA1 | **JAK1** | 0.973 |
+| IL13RA1 | **JAK2** | 0.992 |
+| IL13RA1 | **TYK2** | 0.998 |
+| JAK2 | **TYK2** | 0.997 |
+| JAK2 | **IL12RB1** | 0.998 |
+| JAK2 | **JAK1** | 0.999 |
+| JAK2 | **SOCS1** | 0.999 |
+| TYK2 | **JAK1** | 0.998 |
+| TYK2 | **IL12RB1** | 0.999 |
+| TYK2 | **SOCS1** | 0.999 |
+| IL12RB1 | **SOCS1** | 0.424 |
+| IL12RB1 | **JAK1** | 0.962 |
+| SOCS1 | **JAK1** | 0.999 |
+

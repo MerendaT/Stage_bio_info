@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : HAUS6
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HAUS6
+Identifiant STRING officiel : `9606.ENSP00000369871`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HAUS4 | **CEP72** | 0.5 |
+| HAUS4 | **CEP192** | 0.526 |
+| HAUS4 | **PCNT** | 0.584 |
+| HAUS4 | **PLK1** | 0.607 |
+| HAUS4 | **NEDD1** | 0.637 |
+| HAUS4 | **NUMA1** | 0.693 |
+| HAUS4 | **TUBG1** | 0.84 |
+| HAUS4 | **HAUS2** | 0.998 |
+| HAUS4 | **HAUS8** | 0.998 |
+| HAUS4 | **HAUS7** | 0.998 |
+| HAUS4 | **HAUS6** | 0.999 |
+| HAUS4 | **HAUS5** | 0.999 |
+| HAUS4 | **HAUS1** | 0.999 |
+| HAUS4 | **HAUS3** | 0.999 |
+| HAUS3 | **NDC80** | 0.49 |
+| HAUS3 | **CEP72** | 0.507 |
+| HAUS3 | **PCNT** | 0.558 |
+| HAUS3 | **PLK1** | 0.587 |
+| HAUS3 | **CEP192** | 0.656 |
+| HAUS3 | **NUMA1** | 0.755 |
+| HAUS3 | **TUBG1** | 0.839 |
+| HAUS3 | **NEDD1** | 0.869 |
+| HAUS3 | **HAUS7** | 0.998 |
+| HAUS3 | **HAUS1** | 0.999 |
+| HAUS3 | **HAUS5** | 0.999 |
+| HAUS3 | **HAUS6** | 0.999 |
+| HAUS3 | **HAUS8** | 0.999 |
+| HAUS3 | **HAUS2** | 0.999 |
+| TUBG1 | **NDC80** | 0.451 |
+| TUBG1 | **CEP192** | 0.59 |
+| TUBG1 | **HAUS7** | 0.816 |
+| TUBG1 | **NUMA1** | 0.824 |
+| TUBG1 | **HAUS2** | 0.841 |
+| TUBG1 | **HAUS5** | 0.852 |
+| TUBG1 | **HAUS8** | 0.874 |
+| TUBG1 | **HAUS1** | 0.889 |
+| TUBG1 | **PCNT** | 0.894 |
+| TUBG1 | **HAUS6** | 0.941 |
+| TUBG1 | **PLK1** | 0.943 |
+| TUBG1 | **NEDD1** | 0.988 |
+| HAUS8 | **CEP72** | 0.52 |
+| HAUS8 | **CEP192** | 0.616 |
+| HAUS8 | **PLK1** | 0.647 |
+| HAUS8 | **PCNT** | 0.688 |
+| HAUS8 | **NUMA1** | 0.703 |
+| HAUS8 | **NEDD1** | 0.831 |
+| HAUS8 | **NDC80** | 0.838 |
+| HAUS8 | **HAUS1** | 0.999 |
+| HAUS8 | **HAUS2** | 0.999 |
+| HAUS8 | **HAUS6** | 0.999 |
+| HAUS8 | **HAUS7** | 0.999 |
+| HAUS8 | **HAUS5** | 0.999 |
+| HAUS2 | **PLK1** | 0.517 |
+| HAUS2 | **CEP72** | 0.566 |
+| HAUS2 | **CEP192** | 0.636 |
+| HAUS2 | **NEDD1** | 0.647 |
+| HAUS2 | **NUMA1** | 0.67 |
+| HAUS2 | **PCNT** | 0.737 |
+| HAUS2 | **HAUS1** | 0.999 |
+| HAUS2 | **HAUS7** | 0.999 |
+| HAUS2 | **HAUS6** | 0.999 |
+| HAUS2 | **HAUS5** | 0.999 |
+| NDC80 | **HAUS1** | 0.4 |
+| NDC80 | **PCNT** | 0.556 |
+| NDC80 | **NUMA1** | 0.663 |
+| NDC80 | **HAUS6** | 0.862 |
+| NDC80 | **PLK1** | 0.951 |
+| CEP72 | **NEDD1** | 0.402 |
+| CEP72 | **CEP192** | 0.506 |
+| CEP72 | **HAUS7** | 0.509 |
+| CEP72 | **HAUS1** | 0.518 |
+| CEP72 | **HAUS5** | 0.545 |
+| CEP72 | **PCNT** | 0.564 |
+| CEP72 | **HAUS6** | 0.758 |
+| CEP72 | **PLK1** | 0.844 |
+| HAUS1 | **CEP192** | 0.55 |
+| HAUS1 | **PLK1** | 0.619 |
+| HAUS1 | **PCNT** | 0.627 |
+| HAUS1 | **NUMA1** | 0.714 |
+| HAUS1 | **NEDD1** | 0.832 |
+| HAUS1 | **HAUS5** | 0.999 |
+| HAUS1 | **HAUS6** | 0.999 |
+| HAUS1 | **HAUS7** | 0.999 |
+| PLK1 | **HAUS7** | 0.504 |
+| PLK1 | **HAUS5** | 0.569 |
+| PLK1 | **NUMA1** | 0.747 |
+| PLK1 | **HAUS6** | 0.81 |
+| PLK1 | **CEP192** | 0.926 |
+| PLK1 | **PCNT** | 0.965 |
+| PLK1 | **NEDD1** | 0.977 |
+| PCNT | **HAUS7** | 0.561 |
+| PCNT | **HAUS5** | 0.626 |
+| PCNT | **NUMA1** | 0.647 |
+| PCNT | **HAUS6** | 0.752 |
+| PCNT | **NEDD1** | 0.854 |
+| PCNT | **CEP192** | 0.944 |
+| HAUS7 | **CEP192** | 0.5 |
+| HAUS7 | **NUMA1** | 0.639 |
+| HAUS7 | **NEDD1** | 0.698 |
+| HAUS7 | **HAUS6** | 0.999 |
+| HAUS7 | **HAUS5** | 0.999 |
+| HAUS6 | **CEP192** | 0.834 |
+| HAUS6 | **NUMA1** | 0.924 |
+| HAUS6 | **NEDD1** | 0.993 |
+| HAUS6 | **HAUS5** | 0.999 |
+| NUMA1 | **NEDD1** | 0.686 |
+| NUMA1 | **HAUS5** | 0.741 |
+| CEP192 | **HAUS5** | 0.627 |
+| CEP192 | **NEDD1** | 0.907 |
+| HAUS5 | **NEDD1** | 0.869 |
+

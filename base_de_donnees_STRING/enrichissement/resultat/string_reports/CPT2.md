@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CPT2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CPT2
+Identifiant STRING officiel : `9606.ENSP00000360541`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AASDH | **ACAA2** | 0.546 |
+| AASDH | **HADHA** | 0.547 |
+| AASDH | **PPARA** | 0.572 |
+| AASDH | **ACADVL** | 0.645 |
+| AASDH | **ACADS** | 0.664 |
+| AASDH | **ACADL** | 0.682 |
+| AASDH | **ACADM** | 0.714 |
+| AASDH | **ACOX1** | 0.816 |
+| AASDH | **CPT1B** | 0.827 |
+| AASDH | **CPT1C** | 0.83 |
+| AASDH | **ACOX3** | 0.846 |
+| AASDH | **CPT1A** | 0.873 |
+| AASDH | **SLC25A20** | 0.917 |
+| AASDH | **CPT2** | 0.921 |
+| ACADL | **HSD17B4** | 0.553 |
+| ACADL | **ACADM** | 0.581 |
+| ACADL | **SLC25A20** | 0.626 |
+| ACADL | **CPT1C** | 0.671 |
+| ACADL | **PPARA** | 0.685 |
+| ACADL | **CPT1B** | 0.705 |
+| ACADL | **CPT1A** | 0.762 |
+| ACADL | **ACADS** | 0.935 |
+| ACADL | **ACADVL** | 0.951 |
+| ACADL | **ACOX3** | 0.961 |
+| ACADL | **ACOX1** | 0.972 |
+| ACADL | **ACAA2** | 0.979 |
+| ACADL | **CPT2** | 0.982 |
+| ACADL | **HADHA** | 0.992 |
+| ACADS | **ACADM** | 0.449 |
+| ACADS | **ACADVL** | 0.481 |
+| ACADS | **PPARA** | 0.486 |
+| ACADS | **CPT1C** | 0.489 |
+| ACADS | **CPT1B** | 0.529 |
+| ACADS | **CPT1A** | 0.605 |
+| ACADS | **HSD17B4** | 0.723 |
+| ACADS | **SLC25A20** | 0.79 |
+| ACADS | **CPT2** | 0.922 |
+| ACADS | **ACOX3** | 0.925 |
+| ACADS | **ACOX1** | 0.951 |
+| ACADS | **ACAA2** | 0.982 |
+| ACADS | **HADHA** | 0.992 |
+| CPT1A | **ACOX3** | 0.704 |
+| CPT1A | **ACADVL** | 0.708 |
+| CPT1A | **ACADM** | 0.756 |
+| CPT1A | **ACAA2** | 0.784 |
+| CPT1A | **HADHA** | 0.812 |
+| CPT1A | **ACOX1** | 0.837 |
+| CPT1A | **CPT1C** | 0.906 |
+| CPT1A | **CPT1B** | 0.911 |
+| CPT1A | **PPARA** | 0.92 |
+| CPT1A | **SLC25A20** | 0.926 |
+| CPT1A | **CPT2** | 0.963 |
+| ACAA2 | **PPARA** | 0.495 |
+| ACAA2 | **CPT1C** | 0.549 |
+| ACAA2 | **CPT1B** | 0.555 |
+| ACAA2 | **HSD17B4** | 0.664 |
+| ACAA2 | **SLC25A20** | 0.671 |
+| ACAA2 | **CPT2** | 0.822 |
+| ACAA2 | **ACADM** | 0.937 |
+| ACAA2 | **ACADVL** | 0.983 |
+| ACAA2 | **ACOX3** | 0.986 |
+| ACAA2 | **ACOX1** | 0.989 |
+| ACAA2 | **HADHA** | 0.998 |
+| ACOX1 | **SLC25A20** | 0.63 |
+| ACOX1 | **CPT1C** | 0.636 |
+| ACOX1 | **CPT1B** | 0.668 |
+| ACOX1 | **ACADM** | 0.824 |
+| ACOX1 | **ACOX3** | 0.938 |
+| ACOX1 | **PPARA** | 0.944 |
+| ACOX1 | **ACADVL** | 0.971 |
+| ACOX1 | **HADHA** | 0.98 |
+| ACOX1 | **CPT2** | 0.982 |
+| ACOX1 | **HSD17B4** | 0.998 |
+| SLC25A20 | **PPARA** | 0.715 |
+| SLC25A20 | **HADHA** | 0.72 |
+| SLC25A20 | **ACADM** | 0.721 |
+| SLC25A20 | **HSD17B4** | 0.749 |
+| SLC25A20 | **ACADVL** | 0.776 |
+| SLC25A20 | **CPT1C** | 0.925 |
+| SLC25A20 | **CPT1B** | 0.926 |
+| SLC25A20 | **CPT2** | 0.996 |
+| ACOX3 | **CPT1C** | 0.452 |
+| ACOX3 | **CPT1B** | 0.529 |
+| ACOX3 | **ACADM** | 0.735 |
+| ACOX3 | **PPARA** | 0.821 |
+| ACOX3 | **ACADVL** | 0.934 |
+| ACOX3 | **CPT2** | 0.961 |
+| ACOX3 | **HADHA** | 0.969 |
+| ACOX3 | **HSD17B4** | 0.989 |
+| ACADM | **CPT1C** | 0.687 |
+| ACADM | **ACADVL** | 0.713 |
+| ACADM | **CPT1B** | 0.732 |
+| ACADM | **HSD17B4** | 0.754 |
+| ACADM | **CPT2** | 0.853 |
+| ACADM | **PPARA** | 0.855 |
+| ACADM | **HADHA** | 0.934 |
+| CPT2 | **HADHA** | 0.841 |
+| CPT2 | **PPARA** | 0.859 |
+| CPT2 | **HSD17B4** | 0.89 |
+| CPT2 | **CPT1B** | 0.942 |
+| CPT2 | **CPT1C** | 0.942 |
+| CPT2 | **ACADVL** | 0.995 |
+| HADHA | **PPARA** | 0.512 |
+| HADHA | **CPT1C** | 0.565 |
+| HADHA | **CPT1B** | 0.584 |
+| HADHA | **HSD17B4** | 0.729 |
+| HADHA | **ACADVL** | 0.995 |
+| CPT1C | **ACADVL** | 0.632 |
+| CPT1C | **PPARA** | 0.681 |
+| CPT1C | **CPT1B** | 0.906 |
+| CPT1B | **ACADVL** | 0.684 |
+| CPT1B | **PPARA** | 0.724 |
+| PPARA | **ACADVL** | 0.627 |
+| HSD17B4 | **ACADVL** | 0.592 |
+

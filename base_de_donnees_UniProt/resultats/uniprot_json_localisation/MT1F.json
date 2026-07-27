@@ -1,0 +1,192 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P04733",
+      "uniProtkbId": "MT1F_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "MT1F"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Metallothioneins have a high content of cysteine residues that bind various heavy metals; these proteins are transcriptionally regulated by both heavy metals and glucocorticoids"
+            }
+          ],
+          "commentType": "FUNCTION"
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8619255"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8619255"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071276",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to cadmium ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "16827180"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071280",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to copper ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071294",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to zinc ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010273",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:detoxification of copper ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006882",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular zinc ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045926",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012F6D8"
+      }
+    }
+  ]
+}

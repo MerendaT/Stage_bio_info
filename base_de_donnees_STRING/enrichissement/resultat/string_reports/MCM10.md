@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MCM10
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MCM10
+Identifiant STRING officiel : `9606.ENSP00000418268`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDC6 | **RECQL4** | 0.678 |
+| CDC6 | **TOPBP1** | 0.793 |
+| CDC6 | **CLSPN** | 0.867 |
+| CDC6 | **WDHD1** | 0.916 |
+| CDC6 | **CDC7** | 0.977 |
+| CDC6 | **CDC45** | 0.994 |
+| CDC6 | **MCM10** | 0.998 |
+| CDC6 | **MCM5** | 0.999 |
+| CDC6 | **MCM4** | 0.999 |
+| CDC6 | **MCM7** | 0.999 |
+| CDC6 | **MCM3** | 0.999 |
+| CDC6 | **MCM6** | 0.999 |
+| CDC6 | **MCM2** | 0.999 |
+| CDC6 | **CDT1** | 0.999 |
+| CDC6 | **ORC2** | 0.999 |
+| MCM5 | **RECQL4** | 0.811 |
+| MCM5 | **CLSPN** | 0.958 |
+| MCM5 | **TOPBP1** | 0.985 |
+| MCM5 | **MCM10** | 0.997 |
+| MCM5 | **MCM4** | 0.999 |
+| MCM5 | **MCM7** | 0.999 |
+| MCM5 | **CDC7** | 0.999 |
+| MCM5 | **CDT1** | 0.999 |
+| MCM5 | **ORC2** | 0.999 |
+| MCM5 | **MCM6** | 0.999 |
+| MCM5 | **MCM2** | 0.999 |
+| MCM5 | **MCM3** | 0.999 |
+| MCM5 | **WDHD1** | 0.999 |
+| MCM5 | **CDC45** | 0.999 |
+| ORC2 | **TOPBP1** | 0.414 |
+| ORC2 | **WDHD1** | 0.429 |
+| ORC2 | **CLSPN** | 0.669 |
+| ORC2 | **RECQL4** | 0.734 |
+| ORC2 | **CDC7** | 0.861 |
+| ORC2 | **CDC45** | 0.982 |
+| ORC2 | **MCM6** | 0.986 |
+| ORC2 | **MCM4** | 0.988 |
+| ORC2 | **MCM10** | 0.995 |
+| ORC2 | **MCM7** | 0.997 |
+| ORC2 | **MCM3** | 0.998 |
+| ORC2 | **MCM2** | 0.999 |
+| ORC2 | **CDT1** | 0.999 |
+| TOPBP1 | **MCM7** | 0.577 |
+| TOPBP1 | **MCM2** | 0.592 |
+| TOPBP1 | **MCM6** | 0.722 |
+| TOPBP1 | **MCM4** | 0.792 |
+| TOPBP1 | **CDT1** | 0.792 |
+| TOPBP1 | **WDHD1** | 0.816 |
+| TOPBP1 | **CDC7** | 0.878 |
+| TOPBP1 | **RECQL4** | 0.948 |
+| TOPBP1 | **MCM10** | 0.979 |
+| TOPBP1 | **MCM3** | 0.98 |
+| TOPBP1 | **CLSPN** | 0.995 |
+| TOPBP1 | **CDC45** | 0.999 |
+| MCM4 | **RECQL4** | 0.81 |
+| MCM4 | **CLSPN** | 0.971 |
+| MCM4 | **MCM10** | 0.999 |
+| MCM4 | **MCM2** | 0.999 |
+| MCM4 | **MCM6** | 0.999 |
+| MCM4 | **CDT1** | 0.999 |
+| MCM4 | **CDC45** | 0.999 |
+| MCM4 | **WDHD1** | 0.999 |
+| MCM4 | **MCM3** | 0.999 |
+| MCM4 | **CDC7** | 0.999 |
+| MCM4 | **MCM7** | 0.999 |
+| MCM6 | **RECQL4** | 0.752 |
+| MCM6 | **CLSPN** | 0.953 |
+| MCM6 | **WDHD1** | 0.998 |
+| MCM6 | **MCM10** | 0.999 |
+| MCM6 | **CDC7** | 0.999 |
+| MCM6 | **MCM7** | 0.999 |
+| MCM6 | **MCM3** | 0.999 |
+| MCM6 | **CDC45** | 0.999 |
+| MCM6 | **CDT1** | 0.999 |
+| MCM6 | **MCM2** | 0.999 |
+| MCM2 | **RECQL4** | 0.838 |
+| MCM2 | **CLSPN** | 0.976 |
+| MCM2 | **MCM10** | 0.997 |
+| MCM2 | **WDHD1** | 0.998 |
+| MCM2 | **CDT1** | 0.999 |
+| MCM2 | **CDC45** | 0.999 |
+| MCM2 | **MCM3** | 0.999 |
+| MCM2 | **MCM7** | 0.999 |
+| MCM2 | **CDC7** | 0.999 |
+| CDT1 | **CLSPN** | 0.722 |
+| CDT1 | **RECQL4** | 0.792 |
+| CDT1 | **WDHD1** | 0.874 |
+| CDT1 | **CDC7** | 0.948 |
+| CDT1 | **CDC45** | 0.994 |
+| CDT1 | **MCM10** | 0.997 |
+| CDT1 | **MCM7** | 0.999 |
+| CDT1 | **MCM3** | 0.999 |
+| MCM7 | **RECQL4** | 0.778 |
+| MCM7 | **CLSPN** | 0.956 |
+| MCM7 | **WDHD1** | 0.996 |
+| MCM7 | **CDC45** | 0.999 |
+| MCM7 | **MCM3** | 0.999 |
+| MCM7 | **CDC7** | 0.999 |
+| MCM7 | **MCM10** | 0.999 |
+| CLSPN | **RECQL4** | 0.731 |
+| CLSPN | **CDC7** | 0.94 |
+| CLSPN | **MCM3** | 0.952 |
+| CLSPN | **MCM10** | 0.977 |
+| CLSPN | **CDC45** | 0.995 |
+| CLSPN | **WDHD1** | 0.998 |
+| WDHD1 | **CDC7** | 0.794 |
+| WDHD1 | **RECQL4** | 0.81 |
+| WDHD1 | **MCM10** | 0.998 |
+| WDHD1 | **CDC45** | 0.999 |
+| WDHD1 | **MCM3** | 0.999 |
+| CDC7 | **RECQL4** | 0.479 |
+| CDC7 | **MCM10** | 0.989 |
+| CDC7 | **CDC45** | 0.991 |
+| CDC7 | **MCM3** | 0.999 |
+| CDC45 | **RECQL4** | 0.982 |
+| CDC45 | **MCM3** | 0.999 |
+| CDC45 | **MCM10** | 0.999 |
+| MCM10 | **RECQL4** | 0.989 |
+| MCM10 | **MCM3** | 0.999 |
+| MCM3 | **RECQL4** | 0.7 |
+

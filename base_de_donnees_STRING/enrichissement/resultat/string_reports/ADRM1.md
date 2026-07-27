@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ADRM1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ADRM1
+Identifiant STRING officiel : `9606.ENSP00000478877`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PSMC4 | **PSMD1** | 0.999 |
+| PSMC4 | **PSMD14** | 0.999 |
+| PSMC4 | **PSMC1** | 0.999 |
+| PSMC4 | **PSMD8** | 0.999 |
+| PSMC4 | **PSMD12** | 0.999 |
+| PSMC4 | **PSMD13** | 0.999 |
+| PSMC4 | **PSMD5** | 0.999 |
+| PSMC4 | **PSMD7** | 0.999 |
+| PSMC4 | **PSMD2** | 0.999 |
+| PSMC4 | **UCHL5** | 0.999 |
+| PSMC4 | **ADRM1** | 0.999 |
+| PSMC4 | **PSMD11** | 0.999 |
+| PSMC4 | **PSMC2** | 0.999 |
+| PSMC4 | **PSMD4** | 0.999 |
+| PSMC4 | **PSMD3** | 0.999 |
+| PSMD5 | **UCHL5** | 0.941 |
+| PSMD5 | **PSMD11** | 0.988 |
+| PSMD5 | **ADRM1** | 0.999 |
+| PSMD5 | **PSMD4** | 0.999 |
+| PSMD5 | **PSMC2** | 0.999 |
+| PSMD5 | **PSMD3** | 0.999 |
+| PSMD5 | **PSMD8** | 0.999 |
+| PSMD5 | **PSMD1** | 0.999 |
+| PSMD5 | **PSMC1** | 0.999 |
+| PSMD5 | **PSMD14** | 0.999 |
+| PSMD5 | **PSMD2** | 0.999 |
+| PSMD5 | **PSMD12** | 0.999 |
+| PSMD5 | **PSMD13** | 0.999 |
+| PSMD5 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMC1** | 0.999 |
+| PSMD8 | **PSMD14** | 0.999 |
+| PSMD8 | **PSMD1** | 0.999 |
+| PSMD8 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMD13** | 0.999 |
+| PSMD8 | **PSMD12** | 0.999 |
+| PSMD8 | **PSMD2** | 0.999 |
+| PSMD8 | **UCHL5** | 0.999 |
+| PSMD8 | **ADRM1** | 0.999 |
+| PSMD8 | **PSMD11** | 0.999 |
+| PSMD8 | **PSMD3** | 0.999 |
+| PSMD8 | **PSMD4** | 0.999 |
+| PSMD8 | **PSMC2** | 0.999 |
+| PSMD7 | **ADRM1** | 0.999 |
+| PSMD7 | **UCHL5** | 0.999 |
+| PSMD7 | **PSMD4** | 0.999 |
+| PSMD7 | **PSMC2** | 0.999 |
+| PSMD7 | **PSMD3** | 0.999 |
+| PSMD7 | **PSMD11** | 0.999 |
+| PSMD7 | **PSMD1** | 0.999 |
+| PSMD7 | **PSMC1** | 0.999 |
+| PSMD7 | **PSMD14** | 0.999 |
+| PSMD7 | **PSMD2** | 0.999 |
+| PSMD7 | **PSMD12** | 0.999 |
+| PSMD7 | **PSMD13** | 0.999 |
+| PSMC1 | **UCHL5** | 0.998 |
+| PSMC1 | **PSMD1** | 0.999 |
+| PSMC1 | **PSMD14** | 0.999 |
+| PSMC1 | **PSMD12** | 0.999 |
+| PSMC1 | **PSMD13** | 0.999 |
+| PSMC1 | **PSMD2** | 0.999 |
+| PSMC1 | **ADRM1** | 0.999 |
+| PSMC1 | **PSMD11** | 0.999 |
+| PSMC1 | **PSMD4** | 0.999 |
+| PSMC1 | **PSMC2** | 0.999 |
+| PSMC1 | **PSMD3** | 0.999 |
+| PSMD11 | **UCHL5** | 0.998 |
+| PSMD11 | **PSMD14** | 0.999 |
+| PSMD11 | **PSMD1** | 0.999 |
+| PSMD11 | **PSMD2** | 0.999 |
+| PSMD11 | **PSMD13** | 0.999 |
+| PSMD11 | **PSMD12** | 0.999 |
+| PSMD11 | **ADRM1** | 0.999 |
+| PSMD11 | **PSMD3** | 0.999 |
+| PSMD11 | **PSMD4** | 0.999 |
+| PSMD11 | **PSMC2** | 0.999 |
+| PSMD3 | **UCHL5** | 0.998 |
+| PSMD3 | **ADRM1** | 0.999 |
+| PSMD3 | **PSMD4** | 0.999 |
+| PSMD3 | **PSMC2** | 0.999 |
+| PSMD3 | **PSMD1** | 0.999 |
+| PSMD3 | **PSMD14** | 0.999 |
+| PSMD3 | **PSMD2** | 0.999 |
+| PSMD3 | **PSMD12** | 0.999 |
+| PSMD3 | **PSMD13** | 0.999 |
+| PSMD1 | **UCHL5** | 0.975 |
+| PSMD1 | **ADRM1** | 0.999 |
+| PSMD1 | **PSMC2** | 0.999 |
+| PSMD1 | **PSMD4** | 0.999 |
+| PSMD1 | **PSMD14** | 0.999 |
+| PSMD1 | **PSMD2** | 0.999 |
+| PSMD1 | **PSMD12** | 0.999 |
+| PSMD1 | **PSMD13** | 0.999 |
+| PSMD2 | **UCHL5** | 0.998 |
+| PSMD2 | **PSMD12** | 0.999 |
+| PSMD2 | **PSMD13** | 0.999 |
+| PSMD2 | **PSMD14** | 0.999 |
+| PSMD2 | **PSMD4** | 0.999 |
+| PSMD2 | **PSMC2** | 0.999 |
+| PSMD2 | **ADRM1** | 0.999 |
+| PSMD12 | **UCHL5** | 0.998 |
+| PSMD12 | **ADRM1** | 0.999 |
+| PSMD12 | **PSMC2** | 0.999 |
+| PSMD12 | **PSMD4** | 0.999 |
+| PSMD12 | **PSMD14** | 0.999 |
+| PSMD12 | **PSMD13** | 0.999 |
+| UCHL5 | **PSMC2** | 0.998 |
+| UCHL5 | **PSMD13** | 0.998 |
+| UCHL5 | **PSMD4** | 0.999 |
+| UCHL5 | **ADRM1** | 0.999 |
+| UCHL5 | **PSMD14** | 0.999 |
+| PSMD4 | **PSMD13** | 0.999 |
+| PSMD4 | **PSMD14** | 0.999 |
+| PSMD4 | **PSMC2** | 0.999 |
+| PSMD4 | **ADRM1** | 0.999 |
+| PSMD14 | **PSMC2** | 0.999 |
+| PSMD14 | **ADRM1** | 0.999 |
+| PSMD14 | **PSMD13** | 0.999 |
+| PSMC2 | **PSMD13** | 0.999 |
+| PSMC2 | **ADRM1** | 0.999 |
+| PSMD13 | **ADRM1** | 0.999 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UQCRQ
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UQCRQ
+Identifiant STRING officiel : `9606.ENSP00000367939`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UQCRC1 | **COX6B1** | 0.989 |
+| UQCRC1 | **NDUFB7** | 0.991 |
+| UQCRC1 | **COX7C** | 0.994 |
+| UQCRC1 | **COX4I1** | 0.998 |
+| UQCRC1 | **UQCR10** | 0.999 |
+| UQCRC1 | **UQCR11** | 0.999 |
+| UQCRC1 | **UQCRH** | 0.999 |
+| UQCRC1 | **UQCRFS1** | 0.999 |
+| UQCRC1 | **COX5B** | 0.999 |
+| UQCRC1 | **UQCRC2** | 0.999 |
+| UQCRC1 | **CYC1** | 0.999 |
+| UQCRC1 | **UQCRB** | 0.999 |
+| UQCRC1 | **UQCRQ** | 0.999 |
+| UQCRC1 | **MT-CYB** | 0.999 |
+| UQCRC1 | **COX5A** | 0.999 |
+| NDUFB7 | **MT-CYB** | 0.94 |
+| NDUFB7 | **UQCRC2** | 0.963 |
+| NDUFB7 | **COX4I1** | 0.967 |
+| NDUFB7 | **COX6B1** | 0.972 |
+| NDUFB7 | **COX7C** | 0.977 |
+| NDUFB7 | **COX5A** | 0.985 |
+| NDUFB7 | **UQCRB** | 0.994 |
+| NDUFB7 | **COX5B** | 0.995 |
+| NDUFB7 | **CYC1** | 0.996 |
+| NDUFB7 | **UQCRFS1** | 0.996 |
+| NDUFB7 | **UQCRH** | 0.997 |
+| NDUFB7 | **UQCR11** | 0.997 |
+| NDUFB7 | **UQCR10** | 0.998 |
+| NDUFB7 | **UQCRQ** | 0.999 |
+| COX5B | **MT-CYB** | 0.992 |
+| COX5B | **UQCRH** | 0.998 |
+| COX5B | **COX7C** | 0.999 |
+| COX5B | **UQCR10** | 0.999 |
+| COX5B | **UQCR11** | 0.999 |
+| COX5B | **COX6B1** | 0.999 |
+| COX5B | **UQCRFS1** | 0.999 |
+| COX5B | **UQCRC2** | 0.999 |
+| COX5B | **CYC1** | 0.999 |
+| COX5B | **COX4I1** | 0.999 |
+| COX5B | **UQCRB** | 0.999 |
+| COX5B | **UQCRQ** | 0.999 |
+| COX5B | **COX5A** | 0.999 |
+| UQCRC2 | **COX6B1** | 0.997 |
+| UQCRC2 | **UQCRFS1** | 0.999 |
+| UQCRC2 | **CYC1** | 0.999 |
+| UQCRC2 | **COX4I1** | 0.999 |
+| UQCRC2 | **COX7C** | 0.999 |
+| UQCRC2 | **UQCR10** | 0.999 |
+| UQCRC2 | **UQCR11** | 0.999 |
+| UQCRC2 | **UQCRH** | 0.999 |
+| UQCRC2 | **UQCRQ** | 0.999 |
+| UQCRC2 | **MT-CYB** | 0.999 |
+| UQCRC2 | **COX5A** | 0.999 |
+| UQCRC2 | **UQCRB** | 0.999 |
+| UQCRFS1 | **COX6B1** | 0.997 |
+| UQCRFS1 | **MT-CYB** | 0.999 |
+| UQCRFS1 | **COX5A** | 0.999 |
+| UQCRFS1 | **UQCRQ** | 0.999 |
+| UQCRFS1 | **UQCRB** | 0.999 |
+| UQCRFS1 | **CYC1** | 0.999 |
+| UQCRFS1 | **COX4I1** | 0.999 |
+| UQCRFS1 | **UQCRH** | 0.999 |
+| UQCRFS1 | **UQCR10** | 0.999 |
+| UQCRFS1 | **UQCR11** | 0.999 |
+| UQCRFS1 | **COX7C** | 0.999 |
+| UQCRH | **COX6B1** | 0.992 |
+| UQCRH | **COX5A** | 0.995 |
+| UQCRH | **COX4I1** | 0.997 |
+| UQCRH | **COX7C** | 0.997 |
+| UQCRH | **MT-CYB** | 0.998 |
+| UQCRH | **CYC1** | 0.999 |
+| UQCRH | **UQCR11** | 0.999 |
+| UQCRH | **UQCR10** | 0.999 |
+| UQCRH | **UQCRQ** | 0.999 |
+| UQCRH | **UQCRB** | 0.999 |
+| CYC1 | **COX6B1** | 0.994 |
+| CYC1 | **COX7C** | 0.997 |
+| CYC1 | **UQCR11** | 0.999 |
+| CYC1 | **UQCR10** | 0.999 |
+| CYC1 | **COX4I1** | 0.999 |
+| CYC1 | **UQCRB** | 0.999 |
+| CYC1 | **UQCRQ** | 0.999 |
+| CYC1 | **COX5A** | 0.999 |
+| CYC1 | **MT-CYB** | 0.999 |
+| COX5A | **MT-CYB** | 0.988 |
+| COX5A | **UQCR11** | 0.998 |
+| COX5A | **COX4I1** | 0.999 |
+| COX5A | **COX7C** | 0.999 |
+| COX5A | **COX6B1** | 0.999 |
+| COX5A | **UQCR10** | 0.999 |
+| COX5A | **UQCRQ** | 0.999 |
+| COX5A | **UQCRB** | 0.999 |
+| UQCR10 | **COX4I1** | 0.996 |
+| UQCR10 | **COX6B1** | 0.999 |
+| UQCR10 | **UQCR11** | 0.999 |
+| UQCR10 | **COX7C** | 0.999 |
+| UQCR10 | **UQCRB** | 0.999 |
+| UQCR10 | **MT-CYB** | 0.999 |
+| UQCR10 | **UQCRQ** | 0.999 |
+| MT-CYB | **COX6B1** | 0.975 |
+| MT-CYB | **COX7C** | 0.982 |
+| MT-CYB | **COX4I1** | 0.986 |
+| MT-CYB | **UQCR11** | 0.998 |
+| MT-CYB | **UQCRQ** | 0.999 |
+| MT-CYB | **UQCRB** | 0.999 |
+| UQCRQ | **COX4I1** | 0.999 |
+| UQCRQ | **UQCR11** | 0.999 |
+| UQCRQ | **COX6B1** | 0.999 |
+| UQCRQ | **COX7C** | 0.999 |
+| UQCRQ | **UQCRB** | 0.999 |
+| COX7C | **UQCR11** | 0.995 |
+| COX7C | **COX6B1** | 0.999 |
+| COX7C | **COX4I1** | 0.999 |
+| COX7C | **UQCRB** | 0.999 |
+| UQCRB | **COX4I1** | 0.998 |
+| UQCRB | **UQCR11** | 0.999 |
+| UQCRB | **COX6B1** | 0.999 |
+| COX4I1 | **UQCR11** | 0.991 |
+| COX4I1 | **COX6B1** | 0.999 |
+| COX6B1 | **UQCR11** | 0.997 |
+

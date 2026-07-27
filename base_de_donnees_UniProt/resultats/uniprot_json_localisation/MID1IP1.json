@@ -1,0 +1,262 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9NPA3",
+      "uniProtkbId": "M1IP1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "MID1IP1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "Plays a role in the regulation of lipogenesis in liver. Up-regulates ACACA enzyme activity. Required for efficient lipid biosynthesis, including triacylglycerol, diacylglycerol and phospholipid. Involved in stabilization of microtubules (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9CQ20"
+                  }
+                ],
+                "value": "Associated with microtubules"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9CQ20"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9CQ20"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9CQ20"
+                  }
+                ],
+                "value": "Cytoplasm, cytoskeleton",
+                "id": "SL-0090"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005874",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:microtubule"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015630",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:microtubule cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008047",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:enzyme activator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:lipid metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007026",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of microtubule depolymerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045723",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of fatty acid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of ligase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051258",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein polymerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046890",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of lipid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000035824"
+      }
+    }
+  ]
+}

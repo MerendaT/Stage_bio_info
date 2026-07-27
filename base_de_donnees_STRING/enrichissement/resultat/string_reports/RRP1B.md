@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RRP1B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RRP1B
+Identifiant STRING officiel : `9606.ENSP00000339145`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| WDR12 | **RRS1** | 0.974 |
+| WDR12 | **RRP1B** | 0.979 |
+| WDR12 | **RPF1** | 0.992 |
+| WDR12 | **GTPBP4** | 0.997 |
+| WDR12 | **NOC2L** | 0.997 |
+| WDR12 | **DDX18** | 0.997 |
+| WDR12 | **MRTO4** | 0.997 |
+| WDR12 | **WDR74** | 0.998 |
+| WDR12 | **BRIX1** | 0.998 |
+| WDR12 | **NIFK** | 0.998 |
+| WDR12 | **EBNA1BP2** | 0.998 |
+| WDR12 | **MAK16** | 0.998 |
+| WDR12 | **RSL1D1** | 0.998 |
+| WDR12 | **PES1** | 0.999 |
+| WDR12 | **BOP1** | 0.999 |
+| DDX18 | **RRS1** | 0.814 |
+| DDX18 | **RRP1B** | 0.968 |
+| DDX18 | **RPF1** | 0.989 |
+| DDX18 | **EBNA1BP2** | 0.99 |
+| DDX18 | **MAK16** | 0.994 |
+| DDX18 | **WDR74** | 0.994 |
+| DDX18 | **MRTO4** | 0.996 |
+| DDX18 | **NOC2L** | 0.996 |
+| DDX18 | **PES1** | 0.997 |
+| DDX18 | **BRIX1** | 0.997 |
+| DDX18 | **GTPBP4** | 0.997 |
+| DDX18 | **NIFK** | 0.999 |
+| DDX18 | **RSL1D1** | 0.999 |
+| DDX18 | **BOP1** | 0.999 |
+| NIFK | **RRP1B** | 0.979 |
+| NIFK | **WDR74** | 0.987 |
+| NIFK | **BOP1** | 0.99 |
+| NIFK | **PES1** | 0.996 |
+| NIFK | **NOC2L** | 0.998 |
+| NIFK | **GTPBP4** | 0.998 |
+| NIFK | **MAK16** | 0.998 |
+| NIFK | **MRTO4** | 0.998 |
+| NIFK | **RPF1** | 0.999 |
+| NIFK | **BRIX1** | 0.999 |
+| NIFK | **RSL1D1** | 0.999 |
+| NIFK | **RRS1** | 0.999 |
+| NIFK | **EBNA1BP2** | 0.999 |
+| NOC2L | **RRP1B** | 0.968 |
+| NOC2L | **RRS1** | 0.977 |
+| NOC2L | **WDR74** | 0.98 |
+| NOC2L | **MAK16** | 0.99 |
+| NOC2L | **RPF1** | 0.993 |
+| NOC2L | **BRIX1** | 0.996 |
+| NOC2L | **GTPBP4** | 0.997 |
+| NOC2L | **EBNA1BP2** | 0.998 |
+| NOC2L | **MRTO4** | 0.998 |
+| NOC2L | **RSL1D1** | 0.998 |
+| NOC2L | **BOP1** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| RRS1 | **WDR74** | 0.908 |
+| RRS1 | **MAK16** | 0.957 |
+| RRS1 | **RPF1** | 0.958 |
+| RRS1 | **BOP1** | 0.962 |
+| RRS1 | **RRP1B** | 0.973 |
+| RRS1 | **BRIX1** | 0.977 |
+| RRS1 | **PES1** | 0.981 |
+| RRS1 | **GTPBP4** | 0.99 |
+| RRS1 | **MRTO4** | 0.992 |
+| RRS1 | **RSL1D1** | 0.992 |
+| RRS1 | **EBNA1BP2** | 0.996 |
+| BRIX1 | **RRP1B** | 0.986 |
+| BRIX1 | **WDR74** | 0.99 |
+| BRIX1 | **PES1** | 0.993 |
+| BRIX1 | **BOP1** | 0.996 |
+| BRIX1 | **MAK16** | 0.997 |
+| BRIX1 | **RSL1D1** | 0.997 |
+| BRIX1 | **MRTO4** | 0.997 |
+| BRIX1 | **RPF1** | 0.997 |
+| BRIX1 | **GTPBP4** | 0.998 |
+| BRIX1 | **EBNA1BP2** | 0.999 |
+| RRP1B | **GTPBP4** | 0.973 |
+| RRP1B | **MRTO4** | 0.979 |
+| RRP1B | **RPF1** | 0.984 |
+| RRP1B | **PES1** | 0.984 |
+| RRP1B | **MAK16** | 0.985 |
+| RRP1B | **WDR74** | 0.986 |
+| RRP1B | **BOP1** | 0.987 |
+| RRP1B | **RSL1D1** | 0.987 |
+| RRP1B | **EBNA1BP2** | 0.992 |
+| PES1 | **RPF1** | 0.993 |
+| PES1 | **MAK16** | 0.994 |
+| PES1 | **RSL1D1** | 0.996 |
+| PES1 | **WDR74** | 0.997 |
+| PES1 | **GTPBP4** | 0.999 |
+| PES1 | **MRTO4** | 0.999 |
+| PES1 | **BOP1** | 0.999 |
+| PES1 | **EBNA1BP2** | 0.999 |
+| MAK16 | **BOP1** | 0.989 |
+| MAK16 | **MRTO4** | 0.99 |
+| MAK16 | **RSL1D1** | 0.992 |
+| MAK16 | **WDR74** | 0.997 |
+| MAK16 | **GTPBP4** | 0.997 |
+| MAK16 | **RPF1** | 0.998 |
+| MAK16 | **EBNA1BP2** | 0.999 |
+| GTPBP4 | **RPF1** | 0.984 |
+| GTPBP4 | **WDR74** | 0.994 |
+| GTPBP4 | **RSL1D1** | 0.996 |
+| GTPBP4 | **BOP1** | 0.996 |
+| GTPBP4 | **EBNA1BP2** | 0.997 |
+| GTPBP4 | **MRTO4** | 0.999 |
+| RPF1 | **BOP1** | 0.992 |
+| RPF1 | **RSL1D1** | 0.993 |
+| RPF1 | **MRTO4** | 0.994 |
+| RPF1 | **WDR74** | 0.997 |
+| RPF1 | **EBNA1BP2** | 0.997 |
+| MRTO4 | **RSL1D1** | 0.996 |
+| MRTO4 | **WDR74** | 0.997 |
+| MRTO4 | **BOP1** | 0.997 |
+| MRTO4 | **EBNA1BP2** | 0.998 |
+| EBNA1BP2 | **BOP1** | 0.996 |
+| EBNA1BP2 | **WDR74** | 0.998 |
+| EBNA1BP2 | **RSL1D1** | 0.998 |
+| WDR74 | **RSL1D1** | 0.983 |
+| WDR74 | **BOP1** | 0.999 |
+| BOP1 | **RSL1D1** | 0.998 |
+

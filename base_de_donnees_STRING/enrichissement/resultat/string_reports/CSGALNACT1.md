@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CSGALNACT1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CSGALNACT1
+Identifiant STRING officiel : `9606.ENSP00000411816`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| B4GALT7 | **CHST15** | 0.447 |
+| B4GALT7 | **CHST12** | 0.451 |
+| B4GALT7 | **CHSY3** | 0.454 |
+| B4GALT7 | **CHST13** | 0.46 |
+| B4GALT7 | **CHST7** | 0.462 |
+| B4GALT7 | **BCAN** | 0.484 |
+| B4GALT7 | **CHST3** | 0.52 |
+| B4GALT7 | **CHPF** | 0.606 |
+| B4GALT7 | **CSGALNACT2** | 0.656 |
+| B4GALT7 | **CHPF2** | 0.656 |
+| B4GALT7 | **CHSY1** | 0.662 |
+| B4GALT7 | **CSGALNACT1** | 0.665 |
+| B4GALT7 | **B3GAT3** | 0.882 |
+| B4GALT7 | **XYLT1** | 0.978 |
+| CHPF2 | **CHST11** | 0.427 |
+| CHPF2 | **CHST7** | 0.439 |
+| CHPF2 | **BCAN** | 0.505 |
+| CHPF2 | **XYLT1** | 0.506 |
+| CHPF2 | **CHST3** | 0.508 |
+| CHPF2 | **CHST15** | 0.535 |
+| CHPF2 | **CHST12** | 0.545 |
+| CHPF2 | **CHST13** | 0.598 |
+| CHPF2 | **B3GAT3** | 0.659 |
+| CHPF2 | **CHSY1** | 0.802 |
+| CHPF2 | **CHSY3** | 0.847 |
+| CHPF2 | **CHPF** | 0.894 |
+| CHPF2 | **CSGALNACT1** | 0.933 |
+| CHPF2 | **CSGALNACT2** | 0.936 |
+| CHPF | **CHST7** | 0.532 |
+| CHPF | **CHST11** | 0.537 |
+| CHPF | **BCAN** | 0.589 |
+| CHPF | **CHST13** | 0.598 |
+| CHPF | **CHST12** | 0.599 |
+| CHPF | **XYLT1** | 0.6 |
+| CHPF | **CHST15** | 0.604 |
+| CHPF | **CHST3** | 0.614 |
+| CHPF | **B3GAT3** | 0.665 |
+| CHPF | **CHSY3** | 0.949 |
+| CHPF | **CSGALNACT2** | 0.959 |
+| CHPF | **CSGALNACT1** | 0.961 |
+| CHPF | **CHSY1** | 0.99 |
+| CHSY1 | **CHST15** | 0.562 |
+| CHSY1 | **BCAN** | 0.563 |
+| CHSY1 | **CHST7** | 0.564 |
+| CHSY1 | **B3GAT3** | 0.6 |
+| CHSY1 | **CHST13** | 0.603 |
+| CHSY1 | **CHST12** | 0.606 |
+| CHSY1 | **CHST3** | 0.635 |
+| CHSY1 | **XYLT1** | 0.64 |
+| CHSY1 | **CHST11** | 0.667 |
+| CHSY1 | **CSGALNACT1** | 0.932 |
+| CHSY1 | **CSGALNACT2** | 0.943 |
+| CHSY1 | **CHSY3** | 0.979 |
+| XYLT1 | **CHST15** | 0.409 |
+| XYLT1 | **CHST12** | 0.414 |
+| XYLT1 | **CHSY3** | 0.426 |
+| XYLT1 | **CHST13** | 0.437 |
+| XYLT1 | **CHST7** | 0.441 |
+| XYLT1 | **BCAN** | 0.543 |
+| XYLT1 | **CSGALNACT2** | 0.549 |
+| XYLT1 | **CHST3** | 0.552 |
+| XYLT1 | **CHST11** | 0.633 |
+| XYLT1 | **CSGALNACT1** | 0.634 |
+| XYLT1 | **B3GAT3** | 0.782 |
+| B3GAT3 | **CHSY3** | 0.4 |
+| B3GAT3 | **CHST11** | 0.436 |
+| B3GAT3 | **BCAN** | 0.436 |
+| B3GAT3 | **CHST15** | 0.467 |
+| B3GAT3 | **CHST7** | 0.476 |
+| B3GAT3 | **CHST12** | 0.49 |
+| B3GAT3 | **CHST13** | 0.5 |
+| B3GAT3 | **CHST3** | 0.553 |
+| B3GAT3 | **CSGALNACT1** | 0.961 |
+| B3GAT3 | **CSGALNACT2** | 0.967 |
+| CHST7 | **BCAN** | 0.5 |
+| CHST7 | **CSGALNACT1** | 0.665 |
+| CHST7 | **CHST11** | 0.673 |
+| CHST7 | **CSGALNACT2** | 0.702 |
+| CHST7 | **CHST15** | 0.772 |
+| CHST7 | **CHST12** | 0.811 |
+| CHST7 | **CHST13** | 0.811 |
+| CHST7 | **CHST3** | 0.928 |
+| CHSY3 | **BCAN** | 0.405 |
+| CHSY3 | **CHST11** | 0.416 |
+| CHSY3 | **CSGALNACT2** | 0.924 |
+| CHSY3 | **CSGALNACT1** | 0.924 |
+| CHST11 | **BCAN** | 0.512 |
+| CHST11 | **CSGALNACT2** | 0.644 |
+| CHST11 | **CSGALNACT1** | 0.663 |
+| CHST11 | **CHST15** | 0.73 |
+| CHST11 | **CHST3** | 0.739 |
+| CHST11 | **CHST13** | 0.907 |
+| CHST11 | **CHST12** | 0.914 |
+| CHST13 | **BCAN** | 0.476 |
+| CHST13 | **CSGALNACT1** | 0.607 |
+| CHST13 | **CSGALNACT2** | 0.686 |
+| CHST13 | **CHST3** | 0.737 |
+| CHST13 | **CHST15** | 0.782 |
+| CHST13 | **CHST12** | 0.914 |
+| BCAN | **CSGALNACT2** | 0.5 |
+| BCAN | **CHST15** | 0.511 |
+| BCAN | **CHST12** | 0.523 |
+| BCAN | **CHST3** | 0.582 |
+| BCAN | **CSGALNACT1** | 0.613 |
+| CHST15 | **CSGALNACT1** | 0.662 |
+| CHST15 | **CSGALNACT2** | 0.67 |
+| CHST15 | **CHST3** | 0.732 |
+| CHST15 | **CHST12** | 0.756 |
+| CHST3 | **CSGALNACT1** | 0.608 |
+| CHST3 | **CSGALNACT2** | 0.609 |
+| CHST3 | **CHST12** | 0.744 |
+| CSGALNACT2 | **CHST12** | 0.693 |
+| CSGALNACT2 | **CSGALNACT1** | 0.944 |
+| CSGALNACT1 | **CHST12** | 0.665 |
+

@@ -1,0 +1,113 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : POLB
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : POLB
+Identifiant STRING officiel : `9606.ENSP00000265421`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| APEX1 | **APLF** | 0.402 |
+| APEX1 | **NEIL2** | 0.714 |
+| APEX1 | **NEIL1** | 0.793 |
+| APEX1 | **PARP2** | 0.866 |
+| APEX1 | **APTX** | 0.881 |
+| APEX1 | **TDP1** | 0.904 |
+| APEX1 | **PNKP** | 0.936 |
+| APEX1 | **PARP1** | 0.967 |
+| APEX1 | **LIG3** | 0.973 |
+| APEX1 | **OGG1** | 0.986 |
+| APEX1 | **LIG1** | 0.996 |
+| APEX1 | **POLB** | 0.998 |
+| APEX1 | **FEN1** | 0.998 |
+| APEX1 | **XRCC1** | 0.999 |
+| PARP2 | **NEIL1** | 0.436 |
+| PARP2 | **OGG1** | 0.465 |
+| PARP2 | **TDP1** | 0.547 |
+| PARP2 | **LIG1** | 0.598 |
+| PARP2 | **PNKP** | 0.677 |
+| PARP2 | **APTX** | 0.772 |
+| PARP2 | **FEN1** | 0.848 |
+| PARP2 | **APLF** | 0.887 |
+| PARP2 | **PARP1** | 0.965 |
+| PARP2 | **LIG3** | 0.991 |
+| PARP2 | **XRCC1** | 0.994 |
+| PARP2 | **POLB** | 0.995 |
+| XRCC1 | **FEN1** | 0.946 |
+| XRCC1 | **NEIL1** | 0.984 |
+| XRCC1 | **TDP1** | 0.989 |
+| XRCC1 | **NEIL2** | 0.993 |
+| XRCC1 | **OGG1** | 0.997 |
+| XRCC1 | **LIG1** | 0.997 |
+| XRCC1 | **LIG3** | 0.999 |
+| XRCC1 | **APLF** | 0.999 |
+| XRCC1 | **APTX** | 0.999 |
+| XRCC1 | **PNKP** | 0.999 |
+| XRCC1 | **PARP1** | 0.999 |
+| XRCC1 | **POLB** | 0.999 |
+| LIG1 | **NEIL2** | 0.434 |
+| LIG1 | **NEIL1** | 0.609 |
+| LIG1 | **PNKP** | 0.643 |
+| LIG1 | **TDP1** | 0.664 |
+| LIG1 | **PARP1** | 0.703 |
+| LIG1 | **APTX** | 0.704 |
+| LIG1 | **LIG3** | 0.785 |
+| LIG1 | **OGG1** | 0.867 |
+| LIG1 | **POLB** | 0.996 |
+| LIG1 | **FEN1** | 0.999 |
+| POLB | **NEIL2** | 0.863 |
+| POLB | **APLF** | 0.888 |
+| POLB | **OGG1** | 0.89 |
+| POLB | **APTX** | 0.9 |
+| POLB | **USP47** | 0.954 |
+| POLB | **NEIL1** | 0.957 |
+| POLB | **TDP1** | 0.963 |
+| POLB | **FEN1** | 0.987 |
+| POLB | **PNKP** | 0.995 |
+| POLB | **PARP1** | 0.996 |
+| POLB | **LIG3** | 0.999 |
+| NEIL2 | **APLF** | 0.412 |
+| NEIL2 | **APTX** | 0.413 |
+| NEIL2 | **TDP1** | 0.516 |
+| NEIL2 | **FEN1** | 0.752 |
+| NEIL2 | **LIG3** | 0.76 |
+| NEIL2 | **PNKP** | 0.883 |
+| NEIL2 | **OGG1** | 0.988 |
+| NEIL2 | **NEIL1** | 0.997 |
+| FEN1 | **PNKP** | 0.695 |
+| FEN1 | **APTX** | 0.734 |
+| FEN1 | **TDP1** | 0.786 |
+| FEN1 | **OGG1** | 0.832 |
+| FEN1 | **LIG3** | 0.914 |
+| FEN1 | **PARP1** | 0.941 |
+| FEN1 | **NEIL1** | 0.961 |
+| OGG1 | **TDP1** | 0.712 |
+| OGG1 | **PARP1** | 0.809 |
+| OGG1 | **PNKP** | 0.849 |
+| OGG1 | **APTX** | 0.865 |
+| OGG1 | **LIG3** | 0.903 |
+| OGG1 | **NEIL1** | 0.986 |
+| APLF | **PNKP** | 0.868 |
+| APLF | **TDP1** | 0.905 |
+| APLF | **PARP1** | 0.919 |
+| APLF | **LIG3** | 0.969 |
+| APLF | **APTX** | 0.992 |
+| PNKP | **PARP1** | 0.749 |
+| PNKP | **APTX** | 0.759 |
+| PNKP | **NEIL1** | 0.902 |
+| PNKP | **TDP1** | 0.929 |
+| PNKP | **LIG3** | 0.997 |
+| TDP1 | **NEIL1** | 0.679 |
+| TDP1 | **PARP1** | 0.909 |
+| TDP1 | **APTX** | 0.964 |
+| TDP1 | **LIG3** | 0.992 |
+| NEIL1 | **APTX** | 0.519 |
+| NEIL1 | **PARP1** | 0.76 |
+| NEIL1 | **LIG3** | 0.861 |
+| PARP1 | **APTX** | 0.917 |
+| PARP1 | **LIG3** | 0.99 |
+| LIG3 | **APTX** | 0.975 |
+

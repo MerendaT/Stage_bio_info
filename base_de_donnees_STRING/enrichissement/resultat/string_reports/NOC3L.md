@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NOC3L
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NOC3L
+Identifiant STRING officiel : `9606.ENSP00000360412`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NIP7 | **NOC3L** | 0.979 |
+| NIP7 | **MAK16** | 0.993 |
+| NIP7 | **DDX18** | 0.993 |
+| NIP7 | **FTSJ3** | 0.995 |
+| NIP7 | **PES1** | 0.995 |
+| NIP7 | **BOP1** | 0.995 |
+| NIP7 | **GTPBP4** | 0.996 |
+| NIP7 | **NOC2L** | 0.996 |
+| NIP7 | **RSL1D1** | 0.996 |
+| NIP7 | **NOP2** | 0.997 |
+| NIP7 | **BRIX1** | 0.999 |
+| NIP7 | **WDR12** | 0.999 |
+| NIP7 | **EBNA1BP2** | 0.999 |
+| NIP7 | **NIFK** | 0.999 |
+| NIP7 | **MRTO4** | 0.999 |
+| WDR12 | **NOP2** | 0.975 |
+| WDR12 | **NOC3L** | 0.992 |
+| WDR12 | **FTSJ3** | 0.996 |
+| WDR12 | **GTPBP4** | 0.997 |
+| WDR12 | **NOC2L** | 0.997 |
+| WDR12 | **DDX18** | 0.997 |
+| WDR12 | **MRTO4** | 0.997 |
+| WDR12 | **BRIX1** | 0.998 |
+| WDR12 | **NIFK** | 0.998 |
+| WDR12 | **EBNA1BP2** | 0.998 |
+| WDR12 | **MAK16** | 0.998 |
+| WDR12 | **RSL1D1** | 0.998 |
+| WDR12 | **PES1** | 0.999 |
+| WDR12 | **BOP1** | 0.999 |
+| DDX18 | **NOP2** | 0.983 |
+| DDX18 | **NOC3L** | 0.985 |
+| DDX18 | **EBNA1BP2** | 0.99 |
+| DDX18 | **MAK16** | 0.994 |
+| DDX18 | **MRTO4** | 0.996 |
+| DDX18 | **FTSJ3** | 0.996 |
+| DDX18 | **NOC2L** | 0.996 |
+| DDX18 | **PES1** | 0.997 |
+| DDX18 | **BRIX1** | 0.997 |
+| DDX18 | **GTPBP4** | 0.997 |
+| DDX18 | **NIFK** | 0.999 |
+| DDX18 | **RSL1D1** | 0.999 |
+| DDX18 | **BOP1** | 0.999 |
+| NIFK | **BOP1** | 0.99 |
+| NIFK | **NOP2** | 0.994 |
+| NIFK | **NOC3L** | 0.995 |
+| NIFK | **PES1** | 0.996 |
+| NIFK | **FTSJ3** | 0.997 |
+| NIFK | **NOC2L** | 0.998 |
+| NIFK | **GTPBP4** | 0.998 |
+| NIFK | **MAK16** | 0.998 |
+| NIFK | **MRTO4** | 0.998 |
+| NIFK | **BRIX1** | 0.999 |
+| NIFK | **RSL1D1** | 0.999 |
+| NIFK | **EBNA1BP2** | 0.999 |
+| NOC2L | **MAK16** | 0.99 |
+| NOC2L | **NOP2** | 0.993 |
+| NOC2L | **BRIX1** | 0.996 |
+| NOC2L | **GTPBP4** | 0.997 |
+| NOC2L | **EBNA1BP2** | 0.998 |
+| NOC2L | **MRTO4** | 0.998 |
+| NOC2L | **RSL1D1** | 0.998 |
+| NOC2L | **BOP1** | 0.998 |
+| NOC2L | **NOC3L** | 0.998 |
+| NOC2L | **FTSJ3** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| BRIX1 | **FTSJ3** | 0.97 |
+| BRIX1 | **NOP2** | 0.986 |
+| BRIX1 | **PES1** | 0.993 |
+| BRIX1 | **BOP1** | 0.996 |
+| BRIX1 | **MAK16** | 0.997 |
+| BRIX1 | **RSL1D1** | 0.997 |
+| BRIX1 | **MRTO4** | 0.997 |
+| BRIX1 | **NOC3L** | 0.997 |
+| BRIX1 | **GTPBP4** | 0.998 |
+| BRIX1 | **EBNA1BP2** | 0.999 |
+| PES1 | **NOP2** | 0.983 |
+| PES1 | **NOC3L** | 0.992 |
+| PES1 | **MAK16** | 0.994 |
+| PES1 | **RSL1D1** | 0.996 |
+| PES1 | **FTSJ3** | 0.998 |
+| PES1 | **GTPBP4** | 0.999 |
+| PES1 | **MRTO4** | 0.999 |
+| PES1 | **BOP1** | 0.999 |
+| PES1 | **EBNA1BP2** | 0.999 |
+| MAK16 | **NOP2** | 0.954 |
+| MAK16 | **BOP1** | 0.989 |
+| MAK16 | **MRTO4** | 0.99 |
+| MAK16 | **RSL1D1** | 0.992 |
+| MAK16 | **NOC3L** | 0.997 |
+| MAK16 | **GTPBP4** | 0.997 |
+| MAK16 | **FTSJ3** | 0.997 |
+| MAK16 | **EBNA1BP2** | 0.999 |
+| GTPBP4 | **NOP2** | 0.993 |
+| GTPBP4 | **NOC3L** | 0.994 |
+| GTPBP4 | **FTSJ3** | 0.995 |
+| GTPBP4 | **RSL1D1** | 0.996 |
+| GTPBP4 | **BOP1** | 0.996 |
+| GTPBP4 | **EBNA1BP2** | 0.997 |
+| GTPBP4 | **MRTO4** | 0.999 |
+| NOC3L | **NOP2** | 0.978 |
+| NOC3L | **FTSJ3** | 0.988 |
+| NOC3L | **MRTO4** | 0.988 |
+| NOC3L | **RSL1D1** | 0.991 |
+| NOC3L | **EBNA1BP2** | 0.992 |
+| NOC3L | **BOP1** | 0.996 |
+| MRTO4 | **NOP2** | 0.988 |
+| MRTO4 | **FTSJ3** | 0.996 |
+| MRTO4 | **RSL1D1** | 0.996 |
+| MRTO4 | **BOP1** | 0.997 |
+| MRTO4 | **EBNA1BP2** | 0.998 |
+| NOP2 | **RSL1D1** | 0.982 |
+| NOP2 | **BOP1** | 0.99 |
+| NOP2 | **FTSJ3** | 0.997 |
+| NOP2 | **EBNA1BP2** | 0.997 |
+| FTSJ3 | **RSL1D1** | 0.99 |
+| FTSJ3 | **BOP1** | 0.998 |
+| FTSJ3 | **EBNA1BP2** | 0.999 |
+| EBNA1BP2 | **BOP1** | 0.996 |
+| EBNA1BP2 | **RSL1D1** | 0.998 |
+| BOP1 | **RSL1D1** | 0.998 |
+

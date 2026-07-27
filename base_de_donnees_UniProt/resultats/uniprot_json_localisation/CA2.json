@@ -1,0 +1,712 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P00918",
+      "uniProtkbId": "CAH2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CA2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10550681"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11015219"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11327835"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11802772"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11831900"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12056894"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12171926"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "1336460"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "14736236"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15300855"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15453828"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15667203"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15865431"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15990874"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16106378"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16214338"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16290146"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16686544"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16759856"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16807956"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17127057"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17251017"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17314045"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17330962"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17346964"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17540563"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17588751"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17705204"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18024029"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18162396"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18266323"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18374572"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18481843"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18618712"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18640037"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18942852"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "1909891"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "1910042"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19170619"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19186056"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19206230"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19520834"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19778001"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7761440"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7901850"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8218160"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8262987"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8399159"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8451242"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8485129"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8639494"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9265618"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9398308"
+                }
+              ],
+              "value": "Catalyzes the reversible hydration of carbon dioxide (PubMed:11327835, PubMed:11802772, PubMed:11831900, PubMed:12056894, PubMed:12171926, PubMed:1336460, PubMed:14736236, PubMed:15300855, PubMed:15453828, PubMed:15667203, PubMed:15865431, PubMed:16106378, PubMed:16214338, PubMed:16290146, PubMed:16686544, PubMed:16759856, PubMed:16807956, PubMed:17127057, PubMed:17251017, PubMed:17314045, PubMed:17330962, PubMed:17346964, PubMed:17540563, PubMed:17588751, PubMed:17705204, PubMed:18024029, PubMed:18162396, PubMed:18266323, PubMed:18374572, PubMed:18481843, PubMed:18618712, PubMed:18640037, PubMed:18942852, PubMed:1909891, PubMed:1910042, PubMed:19170619, PubMed:19186056, PubMed:19206230, PubMed:19520834, PubMed:19778001, PubMed:7761440, PubMed:7901850, PubMed:8218160, PubMed:8262987, PubMed:8399159, PubMed:8451242, PubMed:8485129, PubMed:8639494, PubMed:9265618, PubMed:9398308). Can also hydrate cyanamide to urea (PubMed:10550681, PubMed:11015219). Stimulates the chloride-bicarbonate exchange activity of SLC26A6 (PubMed:15990874). Essential for bone resorption and osteoclast differentiation (PubMed:15300855). Involved in the regulation of fluid secretion into the anterior chamber of the eye. Contributes to intracellular pH regulation in the duodenal upper villous epithelium during proton-coupled peptide absorption"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15990874"
+                  }
+                ],
+                "value": "Colocalized with SLC26A6 at the surface of the cell membrane in order to form a bicarbonate transport metabolon. Displaced from the cytosolic surface of the cell membrane by PKC in phorbol myristate acetate (PMA)-induced cells"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15990874"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15990874"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0045177",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical part of cell"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14675051"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "114507"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15990874"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19056867"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15990874"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004064",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:arylesterase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CACAO"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "3126084"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004089",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:carbonate dehydratase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "11015219"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "11802772"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "11831900"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "1336460"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "14736236"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16290146"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16686544"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16759856"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16807956"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17127057"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17540563"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17588751"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17705204"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18024029"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18162396"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18266323"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18374572"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18481843"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18640037"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19170619"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19206230"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19778001"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0018820",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cyanamide hydratase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-EC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "3151020"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0038166",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:angiotensin-activated signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15990874"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015670",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:carbon dioxide transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2001150",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of dipeptide transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051453",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of intracellular pH"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044070",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of monoatomic anion transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15990874"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000110BA2"
+      }
+    }
+  ]
+}

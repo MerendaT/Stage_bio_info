@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : FOS
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : FOS
+Identifiant STRING officiel : `9606.ENSP00000306245`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MAPK1 | **FOSB** | 0.453 |
+| MAPK1 | **ATF3** | 0.46 |
+| MAPK1 | **FOSL2** | 0.47 |
+| MAPK1 | **JUND** | 0.535 |
+| MAPK1 | **FOSL1** | 0.569 |
+| MAPK1 | **NFATC2** | 0.921 |
+| MAPK1 | **EGR1** | 0.946 |
+| MAPK1 | **CREB1** | 0.962 |
+| MAPK1 | **ESR1** | 0.987 |
+| MAPK1 | **FOS** | 0.992 |
+| MAPK1 | **MAPK3** | 0.994 |
+| MAPK1 | **STAT3** | 0.996 |
+| MAPK1 | **JUN** | 0.998 |
+| EGR1 | **NFATC2** | 0.512 |
+| EGR1 | **ESR1** | 0.679 |
+| EGR1 | **STAT3** | 0.761 |
+| EGR1 | **FOSL2** | 0.828 |
+| EGR1 | **FOSL1** | 0.862 |
+| EGR1 | **ATF3** | 0.873 |
+| EGR1 | **CREB1** | 0.953 |
+| EGR1 | **JUND** | 0.962 |
+| EGR1 | **MAPK3** | 0.963 |
+| EGR1 | **JUNB** | 0.97 |
+| EGR1 | **FOSB** | 0.987 |
+| EGR1 | **JUN** | 0.99 |
+| EGR1 | **FOS** | 0.995 |
+| FOSB | **MAPK3** | 0.53 |
+| FOSB | **ESR1** | 0.653 |
+| FOSB | **MAF** | 0.812 |
+| FOSB | **CREB1** | 0.9 |
+| FOSB | **ATF3** | 0.941 |
+| FOSB | **FOSL1** | 0.998 |
+| FOSB | **FOSL2** | 0.998 |
+| FOSB | **JUN** | 0.999 |
+| FOSB | **JUNB** | 0.999 |
+| FOSB | **JUND** | 0.999 |
+| FOSB | **FOS** | 0.999 |
+| JUND | **MAPK3** | 0.441 |
+| JUND | **MAF** | 0.57 |
+| JUND | **ESR1** | 0.668 |
+| JUND | **STAT3** | 0.677 |
+| JUND | **NFATC2** | 0.686 |
+| JUND | **CREB1** | 0.965 |
+| JUND | **ATF3** | 0.994 |
+| JUND | **FOSL1** | 0.999 |
+| JUND | **JUNB** | 0.999 |
+| JUND | **JUN** | 0.999 |
+| JUND | **FOS** | 0.999 |
+| JUND | **FOSL2** | 0.999 |
+| MAPK3 | **FOSL2** | 0.489 |
+| MAPK3 | **ATF3** | 0.544 |
+| MAPK3 | **FOSL1** | 0.622 |
+| MAPK3 | **STAT3** | 0.87 |
+| MAPK3 | **NFATC2** | 0.93 |
+| MAPK3 | **ESR1** | 0.981 |
+| MAPK3 | **JUN** | 0.987 |
+| MAPK3 | **CREB1** | 0.987 |
+| MAPK3 | **FOS** | 0.994 |
+| STAT3 | **FOSL1** | 0.476 |
+| STAT3 | **FOSL2** | 0.494 |
+| STAT3 | **MAF** | 0.585 |
+| STAT3 | **NFATC2** | 0.62 |
+| STAT3 | **ATF3** | 0.729 |
+| STAT3 | **JUNB** | 0.773 |
+| STAT3 | **CREB1** | 0.924 |
+| STAT3 | **ESR1** | 0.93 |
+| STAT3 | **FOS** | 0.995 |
+| STAT3 | **JUN** | 0.995 |
+| FOSL2 | **ESR1** | 0.507 |
+| FOSL2 | **CREB1** | 0.667 |
+| FOSL2 | **ATF3** | 0.672 |
+| FOSL2 | **MAF** | 0.796 |
+| FOSL2 | **FOS** | 0.998 |
+| FOSL2 | **FOSL1** | 0.998 |
+| FOSL2 | **JUNB** | 0.999 |
+| FOSL2 | **JUN** | 0.999 |
+| JUNB | **NFATC2** | 0.732 |
+| JUNB | **MAF** | 0.741 |
+| JUNB | **CREB1** | 0.752 |
+| JUNB | **ATF3** | 0.964 |
+| JUNB | **JUN** | 0.999 |
+| JUNB | **FOSL1** | 0.999 |
+| JUNB | **FOS** | 0.999 |
+| FOS | **ATF3** | 0.994 |
+| FOS | **MAF** | 0.998 |
+| FOS | **NFATC2** | 0.998 |
+| FOS | **CREB1** | 0.998 |
+| FOS | **FOSL1** | 0.998 |
+| FOS | **JUN** | 0.999 |
+| FOS | **ESR1** | 0.999 |
+| FOSL1 | **ESR1** | 0.409 |
+| FOSL1 | **NFATC2** | 0.507 |
+| FOSL1 | **CREB1** | 0.848 |
+| FOSL1 | **MAF** | 0.849 |
+| FOSL1 | **ATF3** | 0.88 |
+| FOSL1 | **JUN** | 0.999 |
+| MAF | **NFATC2** | 0.409 |
+| MAF | **ATF3** | 0.523 |
+| MAF | **CREB1** | 0.893 |
+| MAF | **JUN** | 0.993 |
+| ATF3 | **NFATC2** | 0.434 |
+| ATF3 | **ESR1** | 0.576 |
+| ATF3 | **CREB1** | 0.841 |
+| ATF3 | **JUN** | 0.999 |
+| JUN | **NFATC2** | 0.998 |
+| JUN | **CREB1** | 0.998 |
+| JUN | **ESR1** | 0.999 |
+| NFATC2 | **CREB1** | 0.962 |
+| CREB1 | **ESR1** | 0.757 |
+

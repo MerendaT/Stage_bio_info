@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q4G0X4",
+      "uniProtkbId": "KCD21_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "KCTD21"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21472142"
+                }
+              ],
+              "value": "Probable substrate-specific adapter of a BCR (BTB-CUL3-RBX1) E3 ubiquitin-protein ligase complex mediating the ubiquitination and subsequent proteasomal degradation of target proteins. Promotes the ubiquitination of HDAC1. Can function as antagonist of the Hedgehog pathway by affecting the nuclear transfer of transcription factor GLI1; the function probably occurs via HDAC1 down-regulation, keeping GLI1 acetylated and inactive. Inhibits cell growth and tumorigenicity of medulloblastoma (MDB) (PubMed:21472142)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0097602",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cullin family protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21472142"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042826",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:histone deacetylase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21472142"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "21472142"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "32296183"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045879",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of smoothened signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21472142"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051260",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein homooligomerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016567",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein ubiquitination"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-UniPathway"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21472142"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000016193F"
+      }
+    }
+  ]
+}

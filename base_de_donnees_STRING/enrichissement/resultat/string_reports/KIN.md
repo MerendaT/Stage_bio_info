@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : KIN
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KIN
+Identifiant STRING officiel : `9606.ENSP00000368881`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SF3A2 | **KIN** | 0.896 |
+| SF3A2 | **CRNKL1** | 0.948 |
+| SF3A2 | **CDC40** | 0.972 |
+| SF3A2 | **XAB2** | 0.976 |
+| SF3A2 | **PRPF38A** | 0.988 |
+| SF3A2 | **ZMAT2** | 0.995 |
+| SF3A2 | **RBMX2** | 0.996 |
+| SF3A2 | **BUD13** | 0.998 |
+| SF3A2 | **EFTUD2** | 0.998 |
+| SF3A2 | **SF3B3** | 0.999 |
+| SF3A2 | **SNRNP200** | 0.999 |
+| SF3A2 | **SNRPB** | 0.999 |
+| SF3A2 | **SF3A3** | 0.999 |
+| SF3A2 | **SF3B1** | 0.999 |
+| PRPF38A | **KIN** | 0.868 |
+| PRPF38A | **CRNKL1** | 0.914 |
+| PRPF38A | **XAB2** | 0.931 |
+| PRPF38A | **CDC40** | 0.974 |
+| PRPF38A | **RBMX2** | 0.981 |
+| PRPF38A | **SNRPB** | 0.984 |
+| PRPF38A | **BUD13** | 0.985 |
+| PRPF38A | **SF3B3** | 0.986 |
+| PRPF38A | **SF3B1** | 0.988 |
+| PRPF38A | **SNRNP200** | 0.991 |
+| PRPF38A | **EFTUD2** | 0.991 |
+| PRPF38A | **SF3A3** | 0.996 |
+| PRPF38A | **ZMAT2** | 0.999 |
+| BUD13 | **KIN** | 0.879 |
+| BUD13 | **XAB2** | 0.952 |
+| BUD13 | **CRNKL1** | 0.98 |
+| BUD13 | **SNRPB** | 0.989 |
+| BUD13 | **CDC40** | 0.989 |
+| BUD13 | **ZMAT2** | 0.991 |
+| BUD13 | **SF3B3** | 0.995 |
+| BUD13 | **EFTUD2** | 0.996 |
+| BUD13 | **SF3A3** | 0.996 |
+| BUD13 | **SF3B1** | 0.998 |
+| BUD13 | **SNRNP200** | 0.999 |
+| BUD13 | **RBMX2** | 0.999 |
+| ZMAT2 | **KIN** | 0.862 |
+| ZMAT2 | **CRNKL1** | 0.914 |
+| ZMAT2 | **XAB2** | 0.915 |
+| ZMAT2 | **CDC40** | 0.97 |
+| ZMAT2 | **SF3B1** | 0.99 |
+| ZMAT2 | **SNRPB** | 0.993 |
+| ZMAT2 | **SF3B3** | 0.993 |
+| ZMAT2 | **RBMX2** | 0.994 |
+| ZMAT2 | **SF3A3** | 0.995 |
+| ZMAT2 | **EFTUD2** | 0.998 |
+| ZMAT2 | **SNRNP200** | 0.999 |
+| SF3B3 | **KIN** | 0.91 |
+| SF3B3 | **XAB2** | 0.977 |
+| SF3B3 | **CDC40** | 0.981 |
+| SF3B3 | **CRNKL1** | 0.994 |
+| SF3B3 | **SNRPB** | 0.995 |
+| SF3B3 | **EFTUD2** | 0.999 |
+| SF3B3 | **SF3B1** | 0.999 |
+| SF3B3 | **SF3A3** | 0.999 |
+| SF3B3 | **RBMX2** | 0.999 |
+| SF3B3 | **SNRNP200** | 0.999 |
+| SNRNP200 | **KIN** | 0.866 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **CRNKL1** | 0.997 |
+| SNRNP200 | **XAB2** | 0.997 |
+| SNRNP200 | **SF3A3** | 0.999 |
+| SNRNP200 | **SF3B1** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **RBMX2** | 0.999 |
+| SNRNP200 | **SNRPB** | 0.999 |
+| SF3B1 | **KIN** | 0.904 |
+| SF3B1 | **XAB2** | 0.965 |
+| SF3B1 | **CDC40** | 0.981 |
+| SF3B1 | **CRNKL1** | 0.995 |
+| SF3B1 | **SNRPB** | 0.997 |
+| SF3B1 | **RBMX2** | 0.999 |
+| SF3B1 | **EFTUD2** | 0.999 |
+| SF3B1 | **SF3A3** | 0.999 |
+| RBMX2 | **KIN** | 0.919 |
+| RBMX2 | **CDC40** | 0.937 |
+| RBMX2 | **CRNKL1** | 0.939 |
+| RBMX2 | **XAB2** | 0.945 |
+| RBMX2 | **SNRPB** | 0.985 |
+| RBMX2 | **SF3A3** | 0.994 |
+| RBMX2 | **EFTUD2** | 0.994 |
+| XAB2 | **KIN** | 0.843 |
+| XAB2 | **SF3A3** | 0.99 |
+| XAB2 | **SNRPB** | 0.994 |
+| XAB2 | **CDC40** | 0.999 |
+| XAB2 | **EFTUD2** | 0.999 |
+| XAB2 | **CRNKL1** | 0.999 |
+| CDC40 | **KIN** | 0.835 |
+| CDC40 | **SF3A3** | 0.992 |
+| CDC40 | **SNRPB** | 0.997 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC40 | **EFTUD2** | 0.999 |
+| SF3A3 | **KIN** | 0.908 |
+| SF3A3 | **CRNKL1** | 0.965 |
+| SF3A3 | **EFTUD2** | 0.998 |
+| SF3A3 | **SNRPB** | 0.999 |
+| CRNKL1 | **KIN** | 0.837 |
+| CRNKL1 | **SNRPB** | 0.995 |
+| CRNKL1 | **EFTUD2** | 0.999 |
+| KIN | **SNRPB** | 0.835 |
+| KIN | **EFTUD2** | 0.856 |
+| KIN | **METTL22** | 0.986 |
+| EFTUD2 | **SNRPB** | 0.999 |
+

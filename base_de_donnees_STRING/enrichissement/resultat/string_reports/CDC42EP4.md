@@ -1,0 +1,90 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CDC42EP4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CDC42EP4
+Identifiant STRING officiel : `9606.ENSP00000338258`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BAIAP2L1 | **CDC42EP1** | 0.411 |
+| BAIAP2L1 | **CDC42EP4** | 0.629 |
+| BAIAP2L1 | **CDC42** | 0.871 |
+| RHOQ | **CDC42** | 0.59 |
+| RHOQ | **CDC42EP1** | 0.911 |
+| RHOQ | **CDC42EP4** | 0.977 |
+| CDC42EP1 | **CDC42EP4** | 0.616 |
+| CDC42EP1 | **CDC42** | 0.952 |
+| CDC42EP4 | **SEPTIN14** | 0.823 |
+| CDC42EP4 | **SEPTIN2** | 0.852 |
+| CDC42EP4 | **SEPTIN10** | 0.871 |
+| CDC42EP4 | **SEPTIN5** | 0.878 |
+| CDC42EP4 | **SEPTIN9** | 0.882 |
+| CDC42EP4 | **SEPTIN4** | 0.883 |
+| CDC42EP4 | **SEPTIN11** | 0.885 |
+| CDC42EP4 | **SEPTIN3** | 0.887 |
+| CDC42EP4 | **SEPTIN8** | 0.895 |
+| CDC42EP4 | **SEPTIN6** | 0.896 |
+| CDC42EP4 | **SEPTIN7** | 0.902 |
+| CDC42EP4 | **CDC42** | 0.942 |
+| SEPTIN6 | **SEPTIN14** | 0.924 |
+| SEPTIN6 | **SEPTIN10** | 0.957 |
+| SEPTIN6 | **SEPTIN8** | 0.96 |
+| SEPTIN6 | **SEPTIN3** | 0.977 |
+| SEPTIN6 | **SEPTIN11** | 0.996 |
+| SEPTIN6 | **SEPTIN5** | 0.996 |
+| SEPTIN6 | **SEPTIN2** | 0.999 |
+| SEPTIN6 | **SEPTIN7** | 0.999 |
+| SEPTIN6 | **SEPTIN4** | 0.999 |
+| SEPTIN6 | **SEPTIN9** | 0.999 |
+| SEPTIN10 | **SEPTIN14** | 0.935 |
+| SEPTIN10 | **SEPTIN3** | 0.94 |
+| SEPTIN10 | **SEPTIN9** | 0.963 |
+| SEPTIN10 | **SEPTIN8** | 0.963 |
+| SEPTIN10 | **SEPTIN2** | 0.975 |
+| SEPTIN10 | **SEPTIN5** | 0.975 |
+| SEPTIN10 | **SEPTIN7** | 0.979 |
+| SEPTIN10 | **SEPTIN11** | 0.979 |
+| SEPTIN10 | **SEPTIN4** | 0.979 |
+| SEPTIN4 | **SEPTIN14** | 0.917 |
+| SEPTIN4 | **SEPTIN8** | 0.981 |
+| SEPTIN4 | **SEPTIN5** | 0.986 |
+| SEPTIN4 | **SEPTIN9** | 0.991 |
+| SEPTIN4 | **SEPTIN2** | 0.993 |
+| SEPTIN4 | **SEPTIN3** | 0.995 |
+| SEPTIN4 | **SEPTIN7** | 0.998 |
+| SEPTIN4 | **SEPTIN11** | 0.998 |
+| SEPTIN8 | **SEPTIN9** | 0.866 |
+| SEPTIN8 | **SEPTIN14** | 0.885 |
+| SEPTIN8 | **SEPTIN3** | 0.953 |
+| SEPTIN8 | **SEPTIN11** | 0.953 |
+| SEPTIN8 | **SEPTIN7** | 0.989 |
+| SEPTIN8 | **SEPTIN5** | 0.99 |
+| SEPTIN8 | **SEPTIN2** | 0.997 |
+| SEPTIN14 | **SEPTIN11** | 0.862 |
+| SEPTIN14 | **SEPTIN5** | 0.905 |
+| SEPTIN14 | **SEPTIN2** | 0.921 |
+| SEPTIN14 | **SEPTIN9** | 0.928 |
+| SEPTIN14 | **SEPTIN3** | 0.937 |
+| SEPTIN14 | **SEPTIN7** | 0.955 |
+| SEPTIN9 | **SEPTIN5** | 0.942 |
+| SEPTIN9 | **SEPTIN3** | 0.962 |
+| SEPTIN9 | **SEPTIN11** | 0.996 |
+| SEPTIN9 | **SEPTIN2** | 0.997 |
+| SEPTIN9 | **SEPTIN7** | 0.999 |
+| SEPTIN5 | **SEPTIN2** | 0.973 |
+| SEPTIN5 | **SEPTIN3** | 0.989 |
+| SEPTIN5 | **SEPTIN7** | 0.993 |
+| SEPTIN5 | **SEPTIN11** | 0.997 |
+| SEPTIN7 | **CDC42** | 0.6 |
+| SEPTIN7 | **SEPTIN3** | 0.988 |
+| SEPTIN7 | **SEPTIN2** | 0.999 |
+| SEPTIN7 | **SEPTIN11** | 0.999 |
+| SEPTIN11 | **SEPTIN3** | 0.978 |
+| SEPTIN11 | **SEPTIN2** | 0.999 |
+| SEPTIN2 | **CDC42** | 0.478 |
+| SEPTIN2 | **SEPTIN3** | 0.98 |
+

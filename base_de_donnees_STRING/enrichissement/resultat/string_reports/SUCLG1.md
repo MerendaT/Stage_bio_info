@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SUCLG1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SUCLG1
+Identifiant STRING officiel : `9606.ENSP00000377446`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLD | **SDHC** | 0.573 |
+| DLD | **SDHD** | 0.641 |
+| DLD | **ACLY** | 0.682 |
+| DLD | **SDHB** | 0.745 |
+| DLD | **SDHA** | 0.815 |
+| DLD | **ETFA** | 0.833 |
+| DLD | **SUCLG2** | 0.862 |
+| DLD | **SUCLG1** | 0.947 |
+| DLD | **SUCLA2** | 0.986 |
+| DLD | **DHTKD1** | 0.992 |
+| DLD | **OGDHL** | 0.998 |
+| DLD | **DLST** | 0.999 |
+| DLD | **DBT** | 0.999 |
+| DLD | **OGDH** | 0.999 |
+| DLD | **DLAT** | 0.999 |
+| DHTKD1 | **OGDH** | 0.511 |
+| DHTKD1 | **SUCLG2** | 0.821 |
+| DHTKD1 | **ACLY** | 0.827 |
+| DHTKD1 | **SUCLA2** | 0.828 |
+| DHTKD1 | **SDHC** | 0.828 |
+| DHTKD1 | **SDHB** | 0.832 |
+| DHTKD1 | **SDHA** | 0.867 |
+| DHTKD1 | **DBT** | 0.928 |
+| DHTKD1 | **DLAT** | 0.934 |
+| DHTKD1 | **SUCLG1** | 0.95 |
+| DHTKD1 | **DLST** | 0.999 |
+| SDHA | **ETFA** | 0.706 |
+| SDHA | **DBT** | 0.714 |
+| SDHA | **DLST** | 0.841 |
+| SDHA | **DLAT** | 0.852 |
+| SDHA | **OGDHL** | 0.885 |
+| SDHA | **OGDH** | 0.955 |
+| SDHA | **ACLY** | 0.964 |
+| SDHA | **SUCLG2** | 0.997 |
+| SDHA | **SUCLA2** | 0.998 |
+| SDHA | **SDHD** | 0.999 |
+| SDHA | **SDHB** | 0.999 |
+| SDHA | **SDHC** | 0.999 |
+| SDHA | **SUCLG1** | 0.999 |
+| DLAT | **SDHD** | 0.586 |
+| DLAT | **SDHC** | 0.619 |
+| DLAT | **ETFA** | 0.625 |
+| DLAT | **DBT** | 0.675 |
+| DLAT | **SDHB** | 0.856 |
+| DLAT | **OGDHL** | 0.913 |
+| DLAT | **DLST** | 0.942 |
+| DLAT | **SUCLG2** | 0.967 |
+| DLAT | **SUCLA2** | 0.982 |
+| DLAT | **ACLY** | 0.988 |
+| DLAT | **OGDH** | 0.989 |
+| DLAT | **SUCLG1** | 0.99 |
+| DLST | **ETFA** | 0.548 |
+| DLST | **SDHC** | 0.733 |
+| DLST | **DBT** | 0.78 |
+| DLST | **SDHD** | 0.811 |
+| DLST | **ACLY** | 0.841 |
+| DLST | **SDHB** | 0.883 |
+| DLST | **SUCLG2** | 0.981 |
+| DLST | **SUCLA2** | 0.989 |
+| DLST | **SUCLG1** | 0.995 |
+| DLST | **OGDH** | 0.999 |
+| DLST | **OGDHL** | 0.999 |
+| SDHC | **DBT** | 0.609 |
+| SDHC | **ETFA** | 0.641 |
+| SDHC | **OGDHL** | 0.808 |
+| SDHC | **OGDH** | 0.87 |
+| SDHC | **ACLY** | 0.95 |
+| SDHC | **SUCLG2** | 0.994 |
+| SDHC | **SUCLA2** | 0.995 |
+| SDHC | **SDHB** | 0.999 |
+| SDHC | **SUCLG1** | 0.999 |
+| SDHC | **SDHD** | 0.999 |
+| DBT | **ETFA** | 0.511 |
+| DBT | **ACLY** | 0.763 |
+| DBT | **SDHB** | 0.764 |
+| DBT | **SUCLG2** | 0.89 |
+| DBT | **SUCLA2** | 0.901 |
+| DBT | **OGDHL** | 0.935 |
+| DBT | **SUCLG1** | 0.956 |
+| DBT | **OGDH** | 0.961 |
+| OGDHL | **SDHD** | 0.517 |
+| OGDHL | **SDHB** | 0.858 |
+| OGDHL | **ACLY** | 0.868 |
+| OGDHL | **SUCLG2** | 0.932 |
+| OGDHL | **SUCLA2** | 0.96 |
+| OGDHL | **OGDH** | 0.975 |
+| OGDHL | **SUCLG1** | 0.986 |
+| SDHB | **ETFA** | 0.751 |
+| SDHB | **OGDH** | 0.919 |
+| SDHB | **ACLY** | 0.953 |
+| SDHB | **SUCLG2** | 0.993 |
+| SDHB | **SUCLA2** | 0.997 |
+| SDHB | **SUCLG1** | 0.999 |
+| SDHB | **SDHD** | 0.999 |
+| SDHD | **ETFA** | 0.497 |
+| SDHD | **ACLY** | 0.513 |
+| SDHD | **OGDH** | 0.681 |
+| SDHD | **SUCLG2** | 0.957 |
+| SDHD | **SUCLA2** | 0.972 |
+| SDHD | **SUCLG1** | 0.988 |
+| SUCLG1 | **ETFA** | 0.956 |
+| SUCLG1 | **ACLY** | 0.991 |
+| SUCLG1 | **OGDH** | 0.997 |
+| SUCLG1 | **SUCLG2** | 0.999 |
+| SUCLG1 | **SUCLA2** | 0.999 |
+| OGDH | **ACLY** | 0.915 |
+| OGDH | **SUCLG2** | 0.957 |
+| OGDH | **SUCLA2** | 0.978 |
+| SUCLG2 | **ETFA** | 0.637 |
+| SUCLG2 | **SUCLA2** | 0.928 |
+| ETFA | **ACLY** | 0.528 |
+| ETFA | **SUCLA2** | 0.699 |
+| ACLY | **SUCLA2** | 0.513 |
+

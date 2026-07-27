@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : POLE2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : POLE2
+Identifiant STRING officiel : `9606.ENSP00000216367`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MCM5 | **POLE4** | 0.689 |
+| MCM5 | **POLE3** | 0.859 |
+| MCM5 | **POLA1** | 0.958 |
+| MCM5 | **POLD1** | 0.969 |
+| MCM5 | **POLE** | 0.997 |
+| MCM5 | **POLE2** | 0.998 |
+| MCM5 | **MCM4** | 0.999 |
+| MCM5 | **GINS4** | 0.999 |
+| MCM5 | **GINS1** | 0.999 |
+| MCM5 | **MCM6** | 0.999 |
+| MCM5 | **MCM2** | 0.999 |
+| MCM5 | **MCM3** | 0.999 |
+| MCM5 | **GINS2** | 0.999 |
+| MCM5 | **WDHD1** | 0.999 |
+| MCM5 | **CDC45** | 0.999 |
+| POLE2 | **MCM2** | 0.992 |
+| POLE2 | **POLD1** | 0.992 |
+| POLE2 | **GINS4** | 0.993 |
+| POLE2 | **MCM6** | 0.995 |
+| POLE2 | **WDHD1** | 0.995 |
+| POLE2 | **POLA1** | 0.996 |
+| POLE2 | **GINS2** | 0.996 |
+| POLE2 | **GINS1** | 0.996 |
+| POLE2 | **MCM4** | 0.998 |
+| POLE2 | **MCM3** | 0.999 |
+| POLE2 | **CDC45** | 0.999 |
+| POLE2 | **POLE3** | 0.999 |
+| POLE2 | **POLE** | 0.999 |
+| POLE2 | **POLE4** | 0.999 |
+| GINS2 | **POLE4** | 0.442 |
+| GINS2 | **POLE3** | 0.518 |
+| GINS2 | **POLD1** | 0.606 |
+| GINS2 | **POLA1** | 0.798 |
+| GINS2 | **POLE** | 0.952 |
+| GINS2 | **WDHD1** | 0.997 |
+| GINS2 | **MCM2** | 0.998 |
+| GINS2 | **MCM6** | 0.998 |
+| GINS2 | **MCM4** | 0.999 |
+| GINS2 | **GINS4** | 0.999 |
+| GINS2 | **CDC45** | 0.999 |
+| GINS2 | **MCM3** | 0.999 |
+| GINS2 | **GINS1** | 0.999 |
+| MCM4 | **POLE4** | 0.676 |
+| MCM4 | **POLE3** | 0.869 |
+| MCM4 | **POLD1** | 0.872 |
+| MCM4 | **POLA1** | 0.978 |
+| MCM4 | **POLE** | 0.995 |
+| MCM4 | **GINS4** | 0.999 |
+| MCM4 | **MCM2** | 0.999 |
+| MCM4 | **MCM6** | 0.999 |
+| MCM4 | **CDC45** | 0.999 |
+| MCM4 | **WDHD1** | 0.999 |
+| MCM4 | **MCM3** | 0.999 |
+| MCM4 | **GINS1** | 0.999 |
+| GINS1 | **POLE4** | 0.601 |
+| GINS1 | **POLE3** | 0.604 |
+| GINS1 | **POLD1** | 0.697 |
+| GINS1 | **POLA1** | 0.838 |
+| GINS1 | **POLE** | 0.989 |
+| GINS1 | **WDHD1** | 0.996 |
+| GINS1 | **MCM6** | 0.998 |
+| GINS1 | **CDC45** | 0.999 |
+| GINS1 | **MCM3** | 0.999 |
+| GINS1 | **MCM2** | 0.999 |
+| GINS1 | **GINS4** | 0.999 |
+| MCM6 | **POLE4** | 0.626 |
+| MCM6 | **POLE3** | 0.826 |
+| MCM6 | **POLD1** | 0.84 |
+| MCM6 | **POLA1** | 0.956 |
+| MCM6 | **POLE** | 0.98 |
+| MCM6 | **WDHD1** | 0.998 |
+| MCM6 | **GINS4** | 0.999 |
+| MCM6 | **MCM3** | 0.999 |
+| MCM6 | **CDC45** | 0.999 |
+| MCM6 | **MCM2** | 0.999 |
+| MCM2 | **POLE4** | 0.638 |
+| MCM2 | **POLE3** | 0.8 |
+| MCM2 | **POLD1** | 0.959 |
+| MCM2 | **POLA1** | 0.977 |
+| MCM2 | **POLE** | 0.997 |
+| MCM2 | **WDHD1** | 0.998 |
+| MCM2 | **CDC45** | 0.999 |
+| MCM2 | **MCM3** | 0.999 |
+| MCM2 | **GINS4** | 0.999 |
+| GINS4 | **POLE4** | 0.588 |
+| GINS4 | **POLE3** | 0.673 |
+| GINS4 | **POLD1** | 0.794 |
+| GINS4 | **POLA1** | 0.942 |
+| GINS4 | **POLE** | 0.994 |
+| GINS4 | **WDHD1** | 0.999 |
+| GINS4 | **CDC45** | 0.999 |
+| GINS4 | **MCM3** | 0.999 |
+| POLE | **WDHD1** | 0.992 |
+| POLE | **CDC45** | 0.995 |
+| POLE | **MCM3** | 0.996 |
+| POLE | **POLA1** | 0.997 |
+| POLE | **POLE3** | 0.999 |
+| POLE | **POLD1** | 0.999 |
+| POLE | **POLE4** | 0.999 |
+| WDHD1 | **POLE4** | 0.418 |
+| WDHD1 | **POLE3** | 0.462 |
+| WDHD1 | **POLD1** | 0.855 |
+| WDHD1 | **POLA1** | 0.998 |
+| WDHD1 | **CDC45** | 0.999 |
+| WDHD1 | **MCM3** | 0.999 |
+| POLE3 | **CDC45** | 0.82 |
+| POLE3 | **MCM3** | 0.874 |
+| POLE3 | **POLD1** | 0.985 |
+| POLE3 | **POLA1** | 0.985 |
+| POLE3 | **POLE4** | 0.999 |
+| POLA1 | **CDC45** | 0.964 |
+| POLA1 | **POLE4** | 0.985 |
+| POLA1 | **MCM3** | 0.988 |
+| POLA1 | **POLD1** | 0.989 |
+| CDC45 | **POLE4** | 0.796 |
+| CDC45 | **POLD1** | 0.886 |
+| CDC45 | **MCM3** | 0.999 |
+| POLE4 | **MCM3** | 0.777 |
+| POLE4 | **POLD1** | 0.968 |
+| POLD1 | **MCM3** | 0.985 |
+

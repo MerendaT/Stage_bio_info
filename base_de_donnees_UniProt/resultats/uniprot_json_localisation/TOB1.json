@@ -1,0 +1,309 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P50616",
+      "uniProtkbId": "TOB1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "TOB1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21336257"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23236473"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8632892"
+                }
+              ],
+              "value": "Anti-proliferative protein; the function is mediated by association with deadenylase subunits of the CCR4-NOT complex (PubMed:23236473, PubMed:8632892). Mediates CPEB3-accelerated mRNA deadenylation by binding to CPEB3 and recruiting CNOT7 which leads to target mRNA deadenylation and decay (PubMed:21336257)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Only a small fraction localizes to the cytoplasm except in late S-phase where more than half of proteins become cytoplasmic"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0030014",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:CCR4-NOT complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21336257"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030971",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor tyrosine kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8632892"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046332",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:SMAD binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003714",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription corepressor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008285",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19276069"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8632892"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060212",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of nuclear-transcribed mRNA poly(A) tail shortening"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18377426"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017148",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of translation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23236473"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900153",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21336257"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060213",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of nuclear-transcribed mRNA poly(A) tail shortening"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21336257"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010468",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001370FB"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LTV1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LTV1
+Identifiant STRING officiel : `9606.ENSP00000356548`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KRR1 | **RIOK1** | 0.656 |
+| KRR1 | **TSR1** | 0.754 |
+| KRR1 | **RPS2** | 0.916 |
+| KRR1 | **NOB1** | 0.922 |
+| KRR1 | **RPS12** | 0.962 |
+| KRR1 | **RPS3** | 0.975 |
+| KRR1 | **PNO1** | 0.985 |
+| KRR1 | **LTV1** | 0.994 |
+| KRR1 | **RIOK2** | 0.996 |
+| KRR1 | **RPS14** | 0.997 |
+| KRR1 | **RPS6** | 0.997 |
+| KRR1 | **RPS9** | 0.998 |
+| KRR1 | **BYSL** | 0.999 |
+| RPS12 | **RIOK1** | 0.805 |
+| RPS12 | **PNO1** | 0.921 |
+| RPS12 | **TSR1** | 0.938 |
+| RPS12 | **NOB1** | 0.966 |
+| RPS12 | **RIOK2** | 0.992 |
+| RPS12 | **BYSL** | 0.995 |
+| RPS12 | **LTV1** | 0.996 |
+| RPS12 | **RPS14** | 0.999 |
+| RPS12 | **RPS9** | 0.999 |
+| RPS12 | **RPS3** | 0.999 |
+| RPS12 | **RPS20** | 0.999 |
+| RPS12 | **RPS6** | 0.999 |
+| RPS12 | **RPS15** | 0.999 |
+| RPS12 | **RPS2** | 0.999 |
+| BYSL | **RIOK1** | 0.955 |
+| BYSL | **RPS20** | 0.989 |
+| BYSL | **RPS15** | 0.996 |
+| BYSL | **RPS14** | 0.996 |
+| BYSL | **RPS2** | 0.998 |
+| BYSL | **RPS3** | 0.998 |
+| BYSL | **RPS9** | 0.998 |
+| BYSL | **RPS6** | 0.999 |
+| BYSL | **PNO1** | 0.999 |
+| BYSL | **TSR1** | 0.999 |
+| BYSL | **RIOK2** | 0.999 |
+| BYSL | **NOB1** | 0.999 |
+| BYSL | **LTV1** | 0.999 |
+| PNO1 | **RPS15** | 0.924 |
+| PNO1 | **RPS20** | 0.949 |
+| PNO1 | **RPS3** | 0.958 |
+| PNO1 | **RIOK1** | 0.98 |
+| PNO1 | **RPS2** | 0.98 |
+| PNO1 | **RPS6** | 0.988 |
+| PNO1 | **RPS9** | 0.989 |
+| PNO1 | **RPS14** | 0.994 |
+| PNO1 | **RIOK2** | 0.996 |
+| PNO1 | **TSR1** | 0.998 |
+| PNO1 | **LTV1** | 0.998 |
+| PNO1 | **NOB1** | 0.999 |
+| NOB1 | **RPS6** | 0.981 |
+| NOB1 | **RPS20** | 0.981 |
+| NOB1 | **RPS9** | 0.983 |
+| NOB1 | **RPS3** | 0.985 |
+| NOB1 | **RPS15** | 0.99 |
+| NOB1 | **RPS2** | 0.99 |
+| NOB1 | **RPS14** | 0.995 |
+| NOB1 | **RIOK1** | 0.997 |
+| NOB1 | **TSR1** | 0.999 |
+| NOB1 | **LTV1** | 0.999 |
+| NOB1 | **RIOK2** | 0.999 |
+| RPS3 | **RIOK1** | 0.945 |
+| RPS3 | **TSR1** | 0.983 |
+| RPS3 | **RIOK2** | 0.996 |
+| RPS3 | **RPS6** | 0.999 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPS15** | 0.999 |
+| RPS3 | **RPS20** | 0.999 |
+| RPS3 | **RPS9** | 0.999 |
+| RPS3 | **RPS14** | 0.999 |
+| RPS3 | **LTV1** | 0.999 |
+| RIOK2 | **RIOK1** | 0.985 |
+| RIOK2 | **RPS9** | 0.994 |
+| RIOK2 | **RPS14** | 0.994 |
+| RIOK2 | **RPS6** | 0.994 |
+| RIOK2 | **RPS20** | 0.995 |
+| RIOK2 | **RPS15** | 0.997 |
+| RIOK2 | **TSR1** | 0.999 |
+| RIOK2 | **LTV1** | 0.999 |
+| RIOK2 | **RPS2** | 0.999 |
+| TSR1 | **RIOK1** | 0.943 |
+| TSR1 | **RPS20** | 0.972 |
+| TSR1 | **RPS9** | 0.985 |
+| TSR1 | **RPS6** | 0.99 |
+| TSR1 | **RPS2** | 0.992 |
+| TSR1 | **RPS14** | 0.993 |
+| TSR1 | **RPS15** | 0.993 |
+| TSR1 | **LTV1** | 0.999 |
+| RPS2 | **RIOK1** | 0.989 |
+| RPS2 | **LTV1** | 0.999 |
+| RPS2 | **RPS9** | 0.999 |
+| RPS2 | **RPS14** | 0.999 |
+| RPS2 | **RPS6** | 0.999 |
+| RPS2 | **RPS15** | 0.999 |
+| RPS2 | **RPS20** | 0.999 |
+| LTV1 | **RPS9** | 0.994 |
+| LTV1 | **RPS6** | 0.996 |
+| LTV1 | **RPS14** | 0.996 |
+| LTV1 | **RPS20** | 0.997 |
+| LTV1 | **RPS15** | 0.997 |
+| LTV1 | **RIOK1** | 0.999 |
+| RIOK1 | **RPS20** | 0.885 |
+| RIOK1 | **RPS15** | 0.937 |
+| RIOK1 | **RPS9** | 0.965 |
+| RIOK1 | **RPS6** | 0.967 |
+| RIOK1 | **RPS14** | 0.986 |
+| RPS6 | **RPS20** | 0.999 |
+| RPS6 | **RPS15** | 0.999 |
+| RPS6 | **RPS14** | 0.999 |
+| RPS6 | **RPS9** | 0.999 |
+| RPS9 | **RPS20** | 0.999 |
+| RPS9 | **RPS15** | 0.999 |
+| RPS9 | **RPS14** | 0.999 |
+| RPS14 | **RPS20** | 0.999 |
+| RPS14 | **RPS15** | 0.999 |
+| RPS20 | **RPS15** | 0.999 |
+

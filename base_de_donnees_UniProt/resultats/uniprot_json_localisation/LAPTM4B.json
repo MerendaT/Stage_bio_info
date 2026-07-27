@@ -1,0 +1,612 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q86VI4",
+      "uniProtkbId": "LAP4B_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:13646"
+              }
+            ],
+            "value": "LAPTM4B"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21224396"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25588945"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25998567"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26126825"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26280656"
+                }
+              ],
+              "value": "Required for optimal lysosomal function (PubMed:21224396). Blocks EGF-stimulated EGFR intraluminal sorting and degradation. Conversely by binding with the phosphatidylinositol 4,5-bisphosphate, regulates its PIP5K1C interaction, inhibits HGS ubiquitination and relieves LAPTM4B inhibition of EGFR degradation (PubMed:25588945). Recruits SLC3A2 and SLC7A5 (the Leu transporter) to the lysosome, promoting entry of leucine and other essential amino acid (EAA) into the lysosome, stimulating activation of proton-transporting vacuolar (V)-ATPase protein pump (V-ATPase) and hence mTORC1 activation (PubMed:25998567). Plays a role as negative regulator of TGFB1 production in regulatory T cells (PubMed:26126825). Binds ceramide and facilitates its exit from late endosome in order to control cell death pathways (PubMed:26280656)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12902989"
+                  }
+                ],
+                "value": "Endomembrane system",
+                "id": "SL-0147"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12902989"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21224396"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22096579"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25588945"
+                  }
+                ],
+                "value": "Late endosome membrane",
+                "id": "SL-0151"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22096579"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22096579"
+                  }
+                ],
+                "value": "Cell projection",
+                "id": "SL-0280"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21224396"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22096579"
+                  }
+                ],
+                "value": "Lysosome membrane",
+                "id": "SL-0157"
+              }
+            },
+            {
+              "location": {
+                "value": "Endosome membrane",
+                "id": "SL-0100"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26280656"
+                  }
+                ],
+                "value": "Endosome, multivesicular body membrane",
+                "id": "SL-0175"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26280656"
+                  }
+                ],
+                "value": "Endosome, multivesicular body lumen",
+                "id": "SL-0340"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0042995",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell projection"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22096579"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005769",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:early endosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005768",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031902",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:late endosome membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21224396"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22096579"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005765",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:lysosomal membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21224396"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22096579"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005764",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:lysosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032585",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:multivesicular body membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26280656"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097487",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:multivesicular body, internal vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26280656"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22096579"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097001",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ceramide binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26280656"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019900",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902936",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:phosphatidylinositol bisphosphate binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031625",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin protein ligase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007032",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endosome organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21224396"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endosome transport via multivesicular body sorting pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905166",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of lysosomal protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25588945"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032911",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transforming growth factor beta1 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26126825"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097213",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of lysosomal membrane permeability"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26280656"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905671",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of lysosome organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26280656"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000018F5E2"
+      }
+    }
+  ]
+}

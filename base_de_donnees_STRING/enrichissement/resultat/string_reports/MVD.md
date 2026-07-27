@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MVD
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MVD
+Identifiant STRING officiel : `9606.ENSP00000301012`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MVK | **HAO2** | 0.532 |
+| MVK | **LSS** | 0.817 |
+| MVK | **SREBF2** | 0.82 |
+| MVK | **IDI2** | 0.83 |
+| MVK | **HMGCS2** | 0.83 |
+| MVK | **SQLE** | 0.859 |
+| MVK | **GGPS1** | 0.872 |
+| MVK | **IDI1** | 0.879 |
+| MVK | **ACAT2** | 0.885 |
+| MVK | **FDFT1** | 0.895 |
+| MVK | **FDPS** | 0.911 |
+| MVK | **HMGCS1** | 0.92 |
+| MVK | **PMVK** | 0.994 |
+| MVK | **HMGCR** | 0.999 |
+| MVK | **MVD** | 0.999 |
+| SQLE | **PMVK** | 0.753 |
+| SQLE | **GGPS1** | 0.787 |
+| SQLE | **ACAT2** | 0.797 |
+| SQLE | **IDI2** | 0.876 |
+| SQLE | **SREBF2** | 0.892 |
+| SQLE | **MVD** | 0.906 |
+| SQLE | **HMGCS2** | 0.916 |
+| SQLE | **FDPS** | 0.942 |
+| SQLE | **IDI1** | 0.957 |
+| SQLE | **HMGCR** | 0.973 |
+| SQLE | **HMGCS1** | 0.986 |
+| SQLE | **LSS** | 0.999 |
+| SQLE | **FDFT1** | 0.999 |
+| IDI2 | **ACAT2** | 0.711 |
+| IDI2 | **HMGCS2** | 0.784 |
+| IDI2 | **FDFT1** | 0.796 |
+| IDI2 | **HMGCR** | 0.816 |
+| IDI2 | **PMVK** | 0.822 |
+| IDI2 | **HMGCS1** | 0.899 |
+| IDI2 | **IDI1** | 0.904 |
+| IDI2 | **LSS** | 0.953 |
+| IDI2 | **GGPS1** | 0.986 |
+| IDI2 | **FDPS** | 0.988 |
+| IDI2 | **MVD** | 0.997 |
+| GGPS1 | **HAO2** | 0.468 |
+| GGPS1 | **ACAT2** | 0.703 |
+| GGPS1 | **PMVK** | 0.777 |
+| GGPS1 | **SREBF2** | 0.78 |
+| GGPS1 | **HMGCS2** | 0.795 |
+| GGPS1 | **LSS** | 0.837 |
+| GGPS1 | **HMGCS1** | 0.846 |
+| GGPS1 | **HMGCR** | 0.886 |
+| GGPS1 | **FDFT1** | 0.986 |
+| GGPS1 | **IDI1** | 0.987 |
+| GGPS1 | **MVD** | 0.992 |
+| GGPS1 | **FDPS** | 0.996 |
+| HMGCR | **HAO2** | 0.402 |
+| HMGCR | **LSS** | 0.801 |
+| HMGCR | **MVD** | 0.896 |
+| HMGCR | **ACAT2** | 0.9 |
+| HMGCR | **PMVK** | 0.913 |
+| HMGCR | **IDI1** | 0.926 |
+| HMGCR | **FDFT1** | 0.954 |
+| HMGCR | **FDPS** | 0.967 |
+| HMGCR | **SREBF2** | 0.985 |
+| HMGCR | **HMGCS1** | 0.999 |
+| HMGCR | **HMGCS2** | 0.999 |
+| MVD | **HAO2** | 0.873 |
+| MVD | **FDFT1** | 0.873 |
+| MVD | **HMGCS2** | 0.877 |
+| MVD | **ACAT2** | 0.883 |
+| MVD | **SREBF2** | 0.894 |
+| MVD | **LSS** | 0.918 |
+| MVD | **HMGCS1** | 0.948 |
+| MVD | **PMVK** | 0.994 |
+| MVD | **FDPS** | 0.995 |
+| MVD | **IDI1** | 0.998 |
+| HMGCS1 | **HAO2** | 0.479 |
+| HMGCS1 | **PMVK** | 0.818 |
+| HMGCS1 | **LSS** | 0.896 |
+| HMGCS1 | **HMGCS2** | 0.917 |
+| HMGCS1 | **SREBF2** | 0.959 |
+| HMGCS1 | **IDI1** | 0.972 |
+| HMGCS1 | **FDFT1** | 0.988 |
+| HMGCS1 | **FDPS** | 0.997 |
+| HMGCS1 | **ACAT2** | 0.998 |
+| FDPS | **HAO2** | 0.485 |
+| FDPS | **ACAT2** | 0.829 |
+| FDPS | **LSS** | 0.894 |
+| FDPS | **SREBF2** | 0.896 |
+| FDPS | **PMVK** | 0.901 |
+| FDPS | **HMGCS2** | 0.982 |
+| FDPS | **IDI1** | 0.994 |
+| FDPS | **FDFT1** | 0.995 |
+| HAO2 | **LSS** | 0.592 |
+| HAO2 | **HMGCS2** | 0.625 |
+| SREBF2 | **ACAT2** | 0.511 |
+| SREBF2 | **PMVK** | 0.743 |
+| SREBF2 | **IDI1** | 0.804 |
+| SREBF2 | **HMGCS2** | 0.833 |
+| SREBF2 | **FDFT1** | 0.888 |
+| SREBF2 | **LSS** | 0.914 |
+| ACAT2 | **PMVK** | 0.693 |
+| ACAT2 | **LSS** | 0.758 |
+| ACAT2 | **FDFT1** | 0.822 |
+| ACAT2 | **IDI1** | 0.828 |
+| ACAT2 | **HMGCS2** | 0.993 |
+| PMVK | **HMGCS2** | 0.727 |
+| PMVK | **LSS** | 0.736 |
+| PMVK | **FDFT1** | 0.769 |
+| PMVK | **IDI1** | 0.852 |
+| HMGCS2 | **LSS** | 0.734 |
+| HMGCS2 | **IDI1** | 0.813 |
+| HMGCS2 | **FDFT1** | 0.962 |
+| IDI1 | **FDFT1** | 0.94 |
+| IDI1 | **LSS** | 0.966 |
+| LSS | **FDFT1** | 0.989 |
+

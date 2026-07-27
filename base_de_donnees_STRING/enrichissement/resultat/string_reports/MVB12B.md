@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MVB12B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MVB12B
+Identifiant STRING officiel : `9606.ENSP00000354772`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TSG101 | **CHMP7** | 0.946 |
+| TSG101 | **SNF8** | 0.984 |
+| TSG101 | **CHMP2A** | 0.988 |
+| TSG101 | **CHMP3** | 0.988 |
+| TSG101 | **VPS25** | 0.994 |
+| TSG101 | **VPS37D** | 0.994 |
+| TSG101 | **CHMP6** | 0.996 |
+| TSG101 | **VPS36** | 0.997 |
+| TSG101 | **MVB12A** | 0.999 |
+| TSG101 | **VPS28** | 0.999 |
+| TSG101 | **UBAP1** | 0.999 |
+| TSG101 | **MVB12B** | 0.999 |
+| TSG101 | **VPS37B** | 0.999 |
+| TSG101 | **VPS37C** | 0.999 |
+| TSG101 | **VPS37A** | 0.999 |
+| VPS25 | **VPS37D** | 0.943 |
+| VPS25 | **UBAP1** | 0.953 |
+| VPS25 | **MVB12B** | 0.954 |
+| VPS25 | **VPS37C** | 0.956 |
+| VPS25 | **MVB12A** | 0.978 |
+| VPS25 | **VPS37A** | 0.979 |
+| VPS25 | **VPS37B** | 0.985 |
+| VPS25 | **CHMP7** | 0.992 |
+| VPS25 | **CHMP3** | 0.993 |
+| VPS25 | **CHMP2A** | 0.996 |
+| VPS25 | **VPS28** | 0.998 |
+| VPS25 | **VPS36** | 0.999 |
+| VPS25 | **SNF8** | 0.999 |
+| VPS25 | **CHMP6** | 0.999 |
+| CHMP3 | **VPS37C** | 0.94 |
+| CHMP3 | **VPS37D** | 0.943 |
+| CHMP3 | **MVB12B** | 0.946 |
+| CHMP3 | **UBAP1** | 0.949 |
+| CHMP3 | **MVB12A** | 0.952 |
+| CHMP3 | **VPS37A** | 0.962 |
+| CHMP3 | **VPS37B** | 0.964 |
+| CHMP3 | **SNF8** | 0.979 |
+| CHMP3 | **VPS28** | 0.986 |
+| CHMP3 | **CHMP7** | 0.989 |
+| CHMP3 | **VPS36** | 0.99 |
+| CHMP3 | **CHMP6** | 0.999 |
+| CHMP3 | **CHMP2A** | 0.999 |
+| VPS37B | **VPS37D** | 0.911 |
+| VPS37B | **VPS37C** | 0.919 |
+| VPS37B | **VPS37A** | 0.931 |
+| VPS37B | **CHMP7** | 0.941 |
+| VPS37B | **SNF8** | 0.946 |
+| VPS37B | **CHMP2A** | 0.955 |
+| VPS37B | **CHMP6** | 0.957 |
+| VPS37B | **VPS36** | 0.957 |
+| VPS37B | **UBAP1** | 0.99 |
+| VPS37B | **MVB12B** | 0.997 |
+| VPS37B | **MVB12A** | 0.999 |
+| VPS37B | **VPS28** | 0.999 |
+| VPS37C | **CHMP7** | 0.912 |
+| VPS37C | **VPS37D** | 0.913 |
+| VPS37C | **VPS37A** | 0.924 |
+| VPS37C | **CHMP6** | 0.951 |
+| VPS37C | **CHMP2A** | 0.957 |
+| VPS37C | **UBAP1** | 0.965 |
+| VPS37C | **SNF8** | 0.968 |
+| VPS37C | **VPS36** | 0.972 |
+| VPS37C | **MVB12B** | 0.978 |
+| VPS37C | **MVB12A** | 0.985 |
+| VPS37C | **VPS28** | 0.999 |
+| CHMP6 | **VPS37D** | 0.931 |
+| CHMP6 | **MVB12B** | 0.951 |
+| CHMP6 | **UBAP1** | 0.956 |
+| CHMP6 | **MVB12A** | 0.956 |
+| CHMP6 | **VPS37A** | 0.956 |
+| CHMP6 | **CHMP7** | 0.969 |
+| CHMP6 | **VPS28** | 0.998 |
+| CHMP6 | **CHMP2A** | 0.999 |
+| CHMP6 | **SNF8** | 0.999 |
+| CHMP6 | **VPS36** | 0.999 |
+| VPS37A | **VPS37D** | 0.918 |
+| VPS37A | **CHMP7** | 0.952 |
+| VPS37A | **SNF8** | 0.953 |
+| VPS37A | **VPS36** | 0.977 |
+| VPS37A | **CHMP2A** | 0.978 |
+| VPS37A | **MVB12B** | 0.992 |
+| VPS37A | **MVB12A** | 0.995 |
+| VPS37A | **VPS28** | 0.999 |
+| VPS37A | **UBAP1** | 0.999 |
+| VPS37D | **CHMP7** | 0.91 |
+| VPS37D | **CHMP2A** | 0.94 |
+| VPS37D | **SNF8** | 0.943 |
+| VPS37D | **VPS36** | 0.952 |
+| VPS37D | **UBAP1** | 0.956 |
+| VPS37D | **MVB12B** | 0.975 |
+| VPS37D | **MVB12A** | 0.975 |
+| VPS37D | **VPS28** | 0.991 |
+| MVB12A | **MVB12B** | 0.936 |
+| MVB12A | **CHMP7** | 0.942 |
+| MVB12A | **SNF8** | 0.949 |
+| MVB12A | **CHMP2A** | 0.954 |
+| MVB12A | **VPS36** | 0.972 |
+| MVB12A | **UBAP1** | 0.976 |
+| MVB12A | **VPS28** | 0.999 |
+| MVB12B | **CHMP2A** | 0.945 |
+| MVB12B | **CHMP7** | 0.948 |
+| MVB12B | **SNF8** | 0.954 |
+| MVB12B | **VPS36** | 0.957 |
+| MVB12B | **UBAP1** | 0.966 |
+| MVB12B | **VPS28** | 0.999 |
+| VPS28 | **CHMP7** | 0.959 |
+| VPS28 | **CHMP2A** | 0.985 |
+| VPS28 | **SNF8** | 0.992 |
+| VPS28 | **VPS36** | 0.999 |
+| VPS28 | **UBAP1** | 0.999 |
+| VPS36 | **CHMP7** | 0.957 |
+| VPS36 | **UBAP1** | 0.963 |
+| VPS36 | **CHMP2A** | 0.99 |
+| VPS36 | **SNF8** | 0.999 |
+| CHMP7 | **UBAP1** | 0.941 |
+| CHMP7 | **SNF8** | 0.942 |
+| CHMP7 | **CHMP2A** | 0.99 |
+| SNF8 | **UBAP1** | 0.948 |
+| SNF8 | **CHMP2A** | 0.98 |
+| CHMP2A | **UBAP1** | 0.942 |
+

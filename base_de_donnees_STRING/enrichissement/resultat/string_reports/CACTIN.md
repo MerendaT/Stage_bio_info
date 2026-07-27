@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CACTIN
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CACTIN
+Identifiant STRING officiel : `9606.ENSP00000415078`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SYF2 | **PSME3IP1** | 0.804 |
+| SYF2 | **CACTIN** | 0.961 |
+| SYF2 | **PRKRIP1** | 0.963 |
+| SYF2 | **SDE2** | 0.963 |
+| SYF2 | **FAM32A** | 0.977 |
+| SYF2 | **SLU7** | 0.995 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **DHX8** | 0.997 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **PPIL1** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **SNW1** | 0.999 |
+| SYF2 | **BUD31** | 0.999 |
+| DHX8 | **PSME3IP1** | 0.837 |
+| DHX8 | **SDE2** | 0.844 |
+| DHX8 | **FAM32A** | 0.859 |
+| DHX8 | **PRKRIP1** | 0.88 |
+| DHX8 | **CACTIN** | 0.947 |
+| DHX8 | **PPIL1** | 0.985 |
+| DHX8 | **CWC22** | 0.996 |
+| DHX8 | **BUD31** | 0.997 |
+| DHX8 | **PRPF8** | 0.997 |
+| DHX8 | **SNW1** | 0.999 |
+| DHX8 | **CDC5L** | 0.999 |
+| DHX8 | **CRNKL1** | 0.999 |
+| DHX8 | **CDC40** | 0.999 |
+| DHX8 | **SLU7** | 0.999 |
+| FAM32A | **SNW1** | 0.806 |
+| FAM32A | **BUD31** | 0.82 |
+| FAM32A | **CDC5L** | 0.839 |
+| FAM32A | **CRNKL1** | 0.858 |
+| FAM32A | **PSME3IP1** | 0.867 |
+| FAM32A | **PRPF8** | 0.9 |
+| FAM32A | **SDE2** | 0.911 |
+| FAM32A | **CACTIN** | 0.918 |
+| FAM32A | **PRKRIP1** | 0.93 |
+| FAM32A | **PPIL1** | 0.958 |
+| FAM32A | **CDC40** | 0.972 |
+| FAM32A | **SLU7** | 0.992 |
+| FAM32A | **CWC22** | 0.998 |
+| SDE2 | **CWC22** | 0.814 |
+| SDE2 | **SNW1** | 0.814 |
+| SDE2 | **PRPF8** | 0.815 |
+| SDE2 | **BUD31** | 0.894 |
+| SDE2 | **CRNKL1** | 0.896 |
+| SDE2 | **CACTIN** | 0.915 |
+| SDE2 | **PRKRIP1** | 0.915 |
+| SDE2 | **CDC5L** | 0.94 |
+| SDE2 | **PPIL1** | 0.958 |
+| SDE2 | **SLU7** | 0.979 |
+| SDE2 | **CDC40** | 0.98 |
+| SLU7 | **PSME3IP1** | 0.833 |
+| SLU7 | **SNW1** | 0.969 |
+| SLU7 | **PPIL1** | 0.969 |
+| SLU7 | **CACTIN** | 0.975 |
+| SLU7 | **PRKRIP1** | 0.983 |
+| SLU7 | **BUD31** | 0.996 |
+| SLU7 | **CDC5L** | 0.997 |
+| SLU7 | **CRNKL1** | 0.997 |
+| SLU7 | **PRPF8** | 0.999 |
+| SLU7 | **CWC22** | 0.999 |
+| SLU7 | **CDC40** | 0.999 |
+| PSME3IP1 | **CDC40** | 0.801 |
+| PSME3IP1 | **BUD31** | 0.801 |
+| PSME3IP1 | **PPIL1** | 0.804 |
+| PSME3IP1 | **CRNKL1** | 0.804 |
+| PSME3IP1 | **CWC22** | 0.804 |
+| PSME3IP1 | **SNW1** | 0.805 |
+| PSME3IP1 | **PRKRIP1** | 0.857 |
+| PSME3IP1 | **PRPF8** | 0.901 |
+| PSME3IP1 | **CDC5L** | 0.902 |
+| PSME3IP1 | **CACTIN** | 0.922 |
+| CDC40 | **CACTIN** | 0.968 |
+| CDC40 | **PRKRIP1** | 0.987 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **SNW1** | 0.999 |
+| CDC40 | **PPIL1** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC5L | **PRKRIP1** | 0.854 |
+| CDC5L | **CACTIN** | 0.937 |
+| CDC5L | **PPIL1** | 0.999 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **SNW1** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| PPIL1 | **PRKRIP1** | 0.958 |
+| PPIL1 | **CACTIN** | 0.958 |
+| PPIL1 | **CWC22** | 0.982 |
+| PPIL1 | **CRNKL1** | 0.995 |
+| PPIL1 | **BUD31** | 0.998 |
+| PPIL1 | **SNW1** | 0.999 |
+| PPIL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **PRKRIP1** | 0.899 |
+| CRNKL1 | **CACTIN** | 0.944 |
+| CRNKL1 | **SNW1** | 0.999 |
+| CRNKL1 | **BUD31** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **CWC22** | 0.999 |
+| BUD31 | **PRKRIP1** | 0.831 |
+| BUD31 | **CACTIN** | 0.89 |
+| BUD31 | **CWC22** | 0.999 |
+| BUD31 | **PRPF8** | 0.999 |
+| BUD31 | **SNW1** | 0.999 |
+| CWC22 | **CACTIN** | 0.858 |
+| CWC22 | **PRKRIP1** | 0.873 |
+| CWC22 | **PRPF8** | 0.999 |
+| CWC22 | **SNW1** | 0.999 |
+| CACTIN | **SNW1** | 0.885 |
+| CACTIN | **PRPF8** | 0.932 |
+| CACTIN | **PRKRIP1** | 0.948 |
+| PRKRIP1 | **SNW1** | 0.805 |
+| PRKRIP1 | **PRPF8** | 0.9 |
+| SNW1 | **PRPF8** | 0.999 |
+

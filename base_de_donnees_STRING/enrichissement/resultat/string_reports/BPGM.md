@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : BPGM
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BPGM
+Identifiant STRING officiel : `9606.ENSP00000376840`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GAPDHS | **PGAM1** | 0.624 |
+| GAPDHS | **PGAM4** | 0.644 |
+| GAPDHS | **PGAM2** | 0.675 |
+| GAPDHS | **ENO2** | 0.718 |
+| GAPDHS | **ENO3** | 0.731 |
+| GAPDHS | **ENO4** | 0.743 |
+| GAPDHS | **ENO1** | 0.754 |
+| GAPDHS | **GLYCTK** | 0.812 |
+| GAPDHS | **GAPDH** | 0.936 |
+| GAPDHS | **BPGM** | 0.954 |
+| GAPDHS | **GPI** | 0.962 |
+| GAPDHS | **PGK1** | 0.991 |
+| GAPDHS | **PGK2** | 0.994 |
+| GAPDHS | **TPI1** | 0.999 |
+| TPI1 | **GLYCTK** | 0.856 |
+| TPI1 | **ENO4** | 0.906 |
+| TPI1 | **BPGM** | 0.927 |
+| TPI1 | **PGAM2** | 0.955 |
+| TPI1 | **ENO2** | 0.959 |
+| TPI1 | **ENO3** | 0.963 |
+| TPI1 | **PGAM4** | 0.974 |
+| TPI1 | **PGAM1** | 0.989 |
+| TPI1 | **ENO1** | 0.998 |
+| TPI1 | **PGK2** | 0.998 |
+| TPI1 | **GAPDH** | 0.999 |
+| TPI1 | **PGK1** | 0.999 |
+| TPI1 | **GPI** | 0.999 |
+| PGAM2 | **GAPDH** | 0.762 |
+| PGAM2 | **MINPP1** | 0.907 |
+| PGAM2 | **GLYCTK** | 0.928 |
+| PGAM2 | **GPI** | 0.962 |
+| PGAM2 | **BPGM** | 0.968 |
+| PGAM2 | **ENO2** | 0.975 |
+| PGAM2 | **ENO4** | 0.976 |
+| PGAM2 | **ENO1** | 0.98 |
+| PGAM2 | **PGAM4** | 0.985 |
+| PGAM2 | **PGK2** | 0.986 |
+| PGAM2 | **PGK1** | 0.988 |
+| PGAM2 | **PGAM1** | 0.989 |
+| PGAM2 | **ENO3** | 0.989 |
+| PGK2 | **ENO4** | 0.882 |
+| PGK2 | **ENO2** | 0.93 |
+| PGK2 | **ENO3** | 0.93 |
+| PGK2 | **ENO1** | 0.937 |
+| PGK2 | **PGK1** | 0.96 |
+| PGK2 | **GPI** | 0.964 |
+| PGK2 | **BPGM** | 0.981 |
+| PGK2 | **PGAM4** | 0.981 |
+| PGK2 | **PGAM1** | 0.984 |
+| PGK2 | **GAPDH** | 0.999 |
+| ENO3 | **ENO4** | 0.709 |
+| ENO3 | **GAPDH** | 0.849 |
+| ENO3 | **MINPP1** | 0.904 |
+| ENO3 | **ENO1** | 0.925 |
+| ENO3 | **PGK1** | 0.939 |
+| ENO3 | **GLYCTK** | 0.942 |
+| ENO3 | **ENO2** | 0.956 |
+| ENO3 | **BPGM** | 0.978 |
+| ENO3 | **GPI** | 0.982 |
+| ENO3 | **PGAM4** | 0.986 |
+| ENO3 | **PGAM1** | 0.989 |
+| ENO4 | **ENO2** | 0.686 |
+| ENO4 | **ENO1** | 0.697 |
+| ENO4 | **GAPDH** | 0.743 |
+| ENO4 | **PGK1** | 0.855 |
+| ENO4 | **MINPP1** | 0.913 |
+| ENO4 | **GLYCTK** | 0.938 |
+| ENO4 | **PGAM4** | 0.958 |
+| ENO4 | **BPGM** | 0.96 |
+| ENO4 | **PGAM1** | 0.973 |
+| ENO4 | **GPI** | 0.973 |
+| PGAM1 | **PGAM4** | 0.902 |
+| PGAM1 | **MINPP1** | 0.911 |
+| PGAM1 | **GAPDH** | 0.928 |
+| PGAM1 | **GLYCTK** | 0.93 |
+| PGAM1 | **BPGM** | 0.966 |
+| PGAM1 | **GPI** | 0.969 |
+| PGAM1 | **ENO2** | 0.989 |
+| PGAM1 | **ENO1** | 0.996 |
+| PGAM1 | **PGK1** | 0.998 |
+| MINPP1 | **GLYCTK** | 0.806 |
+| MINPP1 | **GPI** | 0.82 |
+| MINPP1 | **ENO1** | 0.9 |
+| MINPP1 | **ENO2** | 0.907 |
+| MINPP1 | **PGAM4** | 0.912 |
+| MINPP1 | **BPGM** | 0.931 |
+| PGK1 | **ENO2** | 0.962 |
+| PGK1 | **GPI** | 0.971 |
+| PGK1 | **BPGM** | 0.983 |
+| PGK1 | **PGAM4** | 0.994 |
+| PGK1 | **ENO1** | 0.996 |
+| PGK1 | **GAPDH** | 0.999 |
+| BPGM | **GLYCTK** | 0.935 |
+| BPGM | **PGAM4** | 0.94 |
+| BPGM | **GPI** | 0.945 |
+| BPGM | **GAPDH** | 0.961 |
+| BPGM | **ENO2** | 0.971 |
+| BPGM | **ENO1** | 0.977 |
+| GAPDH | **GLYCTK** | 0.826 |
+| GAPDH | **PGAM4** | 0.837 |
+| GAPDH | **ENO2** | 0.871 |
+| GAPDH | **GPI** | 0.995 |
+| GAPDH | **ENO1** | 0.998 |
+| GLYCTK | **GPI** | 0.875 |
+| GLYCTK | **PGAM4** | 0.921 |
+| GLYCTK | **ENO2** | 0.941 |
+| GLYCTK | **ENO1** | 0.945 |
+| GPI | **PGAM4** | 0.955 |
+| GPI | **ENO2** | 0.976 |
+| GPI | **ENO1** | 0.994 |
+| PGAM4 | **ENO2** | 0.985 |
+| PGAM4 | **ENO1** | 0.992 |
+| ENO2 | **ENO1** | 0.954 |
+

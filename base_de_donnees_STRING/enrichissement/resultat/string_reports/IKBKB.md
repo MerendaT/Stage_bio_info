@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : IKBKB
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IKBKB
+Identifiant STRING officiel : `9606.ENSP00000430684`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TNFRSF1A | **NFKBIB** | 0.401 |
+| TNFRSF1A | **BCL10** | 0.517 |
+| TNFRSF1A | **MAVS** | 0.609 |
+| TNFRSF1A | **NFKBIA** | 0.809 |
+| TNFRSF1A | **RELA** | 0.826 |
+| TNFRSF1A | **TAB1** | 0.835 |
+| TNFRSF1A | **NFKB1** | 0.848 |
+| TNFRSF1A | **TRAF6** | 0.996 |
+| TNFRSF1A | **IKBKB** | 0.999 |
+| TNFRSF1A | **TNF** | 0.999 |
+| TNFRSF1A | **CHUK** | 0.999 |
+| TNFRSF1A | **TRAF2** | 0.999 |
+| TNFRSF1A | **IKBKG** | 0.999 |
+| TNFRSF1A | **MAP3K7** | 0.999 |
+| TAB1 | **BCL10** | 0.581 |
+| TAB1 | **RELA** | 0.73 |
+| TAB1 | **NFKB1** | 0.737 |
+| TAB1 | **NFKBIA** | 0.801 |
+| TAB1 | **MAVS** | 0.935 |
+| TAB1 | **TRAF2** | 0.975 |
+| TAB1 | **CHUK** | 0.993 |
+| TAB1 | **IKBKB** | 0.994 |
+| TAB1 | **TNF** | 0.998 |
+| TAB1 | **MAP3K7** | 0.999 |
+| TAB1 | **IKBKG** | 0.999 |
+| TAB1 | **TRAF6** | 0.999 |
+| NFKBIA | **KEAP1** | 0.527 |
+| NFKBIA | **TRAF2** | 0.761 |
+| NFKBIA | **MAVS** | 0.812 |
+| NFKBIA | **MAP3K7** | 0.855 |
+| NFKBIA | **BCL10** | 0.888 |
+| NFKBIA | **TRAF6** | 0.966 |
+| NFKBIA | **TNF** | 0.967 |
+| NFKBIA | **IKBKG** | 0.999 |
+| NFKBIA | **NFKBIB** | 0.999 |
+| NFKBIA | **CHUK** | 0.999 |
+| NFKBIA | **IKBKB** | 0.999 |
+| NFKBIA | **NFKB1** | 0.999 |
+| NFKBIA | **RELA** | 0.999 |
+| NFKB1 | **TRAF2** | 0.718 |
+| NFKB1 | **KEAP1** | 0.733 |
+| NFKB1 | **MAP3K7** | 0.769 |
+| NFKB1 | **MAVS** | 0.903 |
+| NFKB1 | **BCL10** | 0.929 |
+| NFKB1 | **TRAF6** | 0.951 |
+| NFKB1 | **NFKBIB** | 0.998 |
+| NFKB1 | **TNF** | 0.999 |
+| NFKB1 | **CHUK** | 0.999 |
+| NFKB1 | **IKBKB** | 0.999 |
+| NFKB1 | **RELA** | 0.999 |
+| NFKB1 | **IKBKG** | 0.999 |
+| TRAF2 | **NFKBIB** | 0.689 |
+| TRAF2 | **RELA** | 0.732 |
+| TRAF2 | **BCL10** | 0.875 |
+| TRAF2 | **MAP3K7** | 0.988 |
+| TRAF2 | **IKBKB** | 0.994 |
+| TRAF2 | **CHUK** | 0.995 |
+| TRAF2 | **TRAF6** | 0.995 |
+| TRAF2 | **TNF** | 0.999 |
+| TRAF2 | **MAVS** | 0.999 |
+| TRAF2 | **IKBKG** | 0.999 |
+| NFKBIB | **MAVS** | 0.59 |
+| NFKBIB | **MAP3K7** | 0.682 |
+| NFKBIB | **TNF** | 0.713 |
+| NFKBIB | **BCL10** | 0.753 |
+| NFKBIB | **TRAF6** | 0.885 |
+| NFKBIB | **IKBKG** | 0.994 |
+| NFKBIB | **CHUK** | 0.997 |
+| NFKBIB | **IKBKB** | 0.997 |
+| NFKBIB | **RELA** | 0.999 |
+| MAP3K7 | **RELA** | 0.897 |
+| MAP3K7 | **MAVS** | 0.948 |
+| MAP3K7 | **BCL10** | 0.972 |
+| MAP3K7 | **CHUK** | 0.994 |
+| MAP3K7 | **IKBKB** | 0.996 |
+| MAP3K7 | **IKBKG** | 0.999 |
+| MAP3K7 | **TRAF6** | 0.999 |
+| MAP3K7 | **TNF** | 0.999 |
+| CHUK | **KEAP1** | 0.661 |
+| CHUK | **BCL10** | 0.994 |
+| CHUK | **MAVS** | 0.994 |
+| CHUK | **RELA** | 0.999 |
+| CHUK | **TNF** | 0.999 |
+| CHUK | **IKBKB** | 0.999 |
+| CHUK | **TRAF6** | 0.999 |
+| CHUK | **IKBKG** | 0.999 |
+| KEAP1 | **TRAF6** | 0.443 |
+| KEAP1 | **TNF** | 0.591 |
+| KEAP1 | **IKBKG** | 0.619 |
+| KEAP1 | **RELA** | 0.956 |
+| KEAP1 | **IKBKB** | 0.997 |
+| RELA | **MAVS** | 0.718 |
+| RELA | **BCL10** | 0.864 |
+| RELA | **TRAF6** | 0.867 |
+| RELA | **IKBKG** | 0.996 |
+| RELA | **TNF** | 0.997 |
+| RELA | **IKBKB** | 0.999 |
+| TNF | **MAVS** | 0.59 |
+| TNF | **BCL10** | 0.684 |
+| TNF | **TRAF6** | 0.998 |
+| TNF | **IKBKB** | 0.999 |
+| TNF | **IKBKG** | 0.999 |
+| MAVS | **BCL10** | 0.611 |
+| MAVS | **IKBKG** | 0.993 |
+| MAVS | **IKBKB** | 0.996 |
+| MAVS | **TRAF6** | 0.999 |
+| IKBKB | **BCL10** | 0.996 |
+| IKBKB | **TRAF6** | 0.999 |
+| IKBKB | **IKBKG** | 0.999 |
+| TRAF6 | **IKBKG** | 0.999 |
+| TRAF6 | **BCL10** | 0.999 |
+| IKBKG | **BCL10** | 0.999 |
+

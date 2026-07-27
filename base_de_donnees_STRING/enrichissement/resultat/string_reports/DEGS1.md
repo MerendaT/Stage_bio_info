@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DEGS1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DEGS1
+Identifiant STRING officiel : `9606.ENSP00000316476`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CERK | **SPHK2** | 0.405 |
+| CERK | **SPHK1** | 0.453 |
+| CERK | **KDSR** | 0.746 |
+| CERK | **SGMS2** | 0.956 |
+| CERK | **CERS3** | 0.957 |
+| CERK | **DEGS1** | 0.959 |
+| CERK | **CERS5** | 0.962 |
+| CERK | **SMPD2** | 0.964 |
+| CERK | **CERS4** | 0.965 |
+| CERK | **CERS2** | 0.967 |
+| CERK | **SGMS1** | 0.967 |
+| CERK | **SMPD1** | 0.968 |
+| CERK | **CERS6** | 0.969 |
+| CERK | **UGCG** | 0.977 |
+| CERK | **ASAH1** | 0.979 |
+| CERS4 | **CERS3** | 0.911 |
+| CERS4 | **CERS6** | 0.928 |
+| CERS4 | **CERS5** | 0.935 |
+| CERS4 | **CERS2** | 0.94 |
+| CERS4 | **SGMS2** | 0.957 |
+| CERS4 | **SPHK2** | 0.957 |
+| CERS4 | **SPHK1** | 0.961 |
+| CERS4 | **SGMS1** | 0.961 |
+| CERS4 | **SMPD1** | 0.962 |
+| CERS4 | **ASAH1** | 0.964 |
+| CERS4 | **UGCG** | 0.964 |
+| CERS4 | **KDSR** | 0.965 |
+| CERS4 | **SMPD2** | 0.966 |
+| CERS4 | **DEGS1** | 0.97 |
+| SMPD2 | **KDSR** | 0.519 |
+| SMPD2 | **SPHK2** | 0.697 |
+| SMPD2 | **SPHK1** | 0.709 |
+| SMPD2 | **ASAH1** | 0.895 |
+| SMPD2 | **CERS3** | 0.956 |
+| SMPD2 | **DEGS1** | 0.96 |
+| SMPD2 | **CERS5** | 0.965 |
+| SMPD2 | **CERS2** | 0.967 |
+| SMPD2 | **CERS6** | 0.968 |
+| SMPD2 | **SGMS1** | 0.968 |
+| SMPD2 | **SGMS2** | 0.969 |
+| SMPD2 | **UGCG** | 0.973 |
+| SMPD2 | **SMPD1** | 0.994 |
+| CERS2 | **CERS3** | 0.906 |
+| CERS2 | **CERS5** | 0.94 |
+| CERS2 | **CERS6** | 0.946 |
+| CERS2 | **SGMS2** | 0.96 |
+| CERS2 | **SPHK1** | 0.962 |
+| CERS2 | **SPHK2** | 0.962 |
+| CERS2 | **SGMS1** | 0.964 |
+| CERS2 | **SMPD1** | 0.968 |
+| CERS2 | **UGCG** | 0.97 |
+| CERS2 | **KDSR** | 0.974 |
+| CERS2 | **DEGS1** | 0.974 |
+| CERS2 | **ASAH1** | 0.975 |
+| CERS3 | **CERS5** | 0.927 |
+| CERS3 | **CERS6** | 0.927 |
+| CERS3 | **SPHK1** | 0.95 |
+| CERS3 | **SPHK2** | 0.95 |
+| CERS3 | **SGMS2** | 0.951 |
+| CERS3 | **SMPD1** | 0.959 |
+| CERS3 | **ASAH1** | 0.96 |
+| CERS3 | **UGCG** | 0.964 |
+| CERS3 | **DEGS1** | 0.965 |
+| CERS3 | **KDSR** | 0.969 |
+| CERS3 | **SGMS1** | 0.975 |
+| SPHK1 | **SGMS2** | 0.484 |
+| SPHK1 | **SGMS1** | 0.522 |
+| SPHK1 | **UGCG** | 0.675 |
+| SPHK1 | **SMPD1** | 0.704 |
+| SPHK1 | **SPHK2** | 0.937 |
+| SPHK1 | **DEGS1** | 0.96 |
+| SPHK1 | **CERS5** | 0.962 |
+| SPHK1 | **KDSR** | 0.963 |
+| SPHK1 | **CERS6** | 0.966 |
+| SPHK1 | **ASAH1** | 0.98 |
+| DEGS1 | **SMPD1** | 0.953 |
+| DEGS1 | **SGMS2** | 0.953 |
+| DEGS1 | **ASAH1** | 0.959 |
+| DEGS1 | **SPHK2** | 0.96 |
+| DEGS1 | **SGMS1** | 0.962 |
+| DEGS1 | **CERS5** | 0.971 |
+| DEGS1 | **UGCG** | 0.972 |
+| DEGS1 | **KDSR** | 0.974 |
+| DEGS1 | **CERS6** | 0.977 |
+| CERS5 | **CERS6** | 0.937 |
+| CERS5 | **SGMS2** | 0.949 |
+| CERS5 | **SGMS1** | 0.951 |
+| CERS5 | **SPHK2** | 0.956 |
+| CERS5 | **ASAH1** | 0.963 |
+| CERS5 | **UGCG** | 0.964 |
+| CERS5 | **SMPD1** | 0.964 |
+| CERS5 | **KDSR** | 0.967 |
+| SMPD1 | **KDSR** | 0.547 |
+| SMPD1 | **SPHK2** | 0.661 |
+| SMPD1 | **CERS6** | 0.968 |
+| SMPD1 | **UGCG** | 0.969 |
+| SMPD1 | **ASAH1** | 0.969 |
+| SMPD1 | **SGMS2** | 0.972 |
+| SMPD1 | **SGMS1** | 0.975 |
+| SGMS1 | **SPHK2** | 0.477 |
+| SGMS1 | **KDSR** | 0.634 |
+| SGMS1 | **SGMS2** | 0.909 |
+| SGMS1 | **CERS6** | 0.961 |
+| SGMS1 | **ASAH1** | 0.962 |
+| SGMS1 | **UGCG** | 0.963 |
+| UGCG | **SPHK2** | 0.635 |
+| UGCG | **KDSR** | 0.681 |
+| UGCG | **SGMS2** | 0.961 |
+| UGCG | **ASAH1** | 0.971 |
+| UGCG | **CERS6** | 0.972 |
+| ASAH1 | **SGMS2** | 0.955 |
+| ASAH1 | **KDSR** | 0.956 |
+| ASAH1 | **CERS6** | 0.973 |
+| ASAH1 | **SPHK2** | 0.978 |
+| CERS6 | **SGMS2** | 0.96 |
+| CERS6 | **SPHK2** | 0.963 |
+| CERS6 | **KDSR** | 0.975 |
+| SGMS2 | **SPHK2** | 0.448 |
+| SGMS2 | **KDSR** | 0.554 |
+| SPHK2 | **KDSR** | 0.963 |
+

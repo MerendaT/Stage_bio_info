@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : XRCC4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : XRCC4
+Identifiant STRING officiel : `9606.ENSP00000421491`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ERCC1 | **POLL** | 0.545 |
+| ERCC1 | **APTX** | 0.586 |
+| ERCC1 | **PNKP** | 0.596 |
+| ERCC1 | **PAXX** | 0.926 |
+| ERCC1 | **DCLRE1C** | 0.943 |
+| ERCC1 | **NHEJ1** | 0.943 |
+| ERCC1 | **PRKDC** | 0.958 |
+| ERCC1 | **XRCC4** | 0.962 |
+| ERCC1 | **LIG4** | 0.966 |
+| ERCC1 | **XRCC6** | 0.972 |
+| ERCC1 | **ATM** | 0.975 |
+| ERCC1 | **XRCC5** | 0.982 |
+| ERCC1 | **MSH2** | 0.992 |
+| MSH2 | **POLL** | 0.409 |
+| MSH2 | **PAXX** | 0.918 |
+| MSH2 | **NHEJ1** | 0.932 |
+| MSH2 | **DCLRE1C** | 0.944 |
+| MSH2 | **XRCC4** | 0.953 |
+| MSH2 | **PRKDC** | 0.957 |
+| MSH2 | **LIG4** | 0.964 |
+| MSH2 | **XRCC5** | 0.973 |
+| MSH2 | **XRCC6** | 0.979 |
+| MSH2 | **ATM** | 0.999 |
+| ATM | **APLF** | 0.432 |
+| ATM | **POLL** | 0.533 |
+| ATM | **PNKP** | 0.563 |
+| ATM | **APTX** | 0.574 |
+| ATM | **PAXX** | 0.946 |
+| ATM | **DCLRE1C** | 0.956 |
+| ATM | **PRKDC** | 0.971 |
+| ATM | **XRCC4** | 0.98 |
+| ATM | **NHEJ1** | 0.982 |
+| ATM | **LIG4** | 0.987 |
+| ATM | **XRCC6** | 0.997 |
+| ATM | **XRCC5** | 0.998 |
+| APLF | **POLL** | 0.522 |
+| APLF | **PAXX** | 0.721 |
+| APLF | **PRKDC** | 0.778 |
+| APLF | **PNKP** | 0.868 |
+| APLF | **NHEJ1** | 0.879 |
+| APLF | **LIG4** | 0.935 |
+| APLF | **APTX** | 0.992 |
+| APLF | **XRCC6** | 0.992 |
+| APLF | **XRCC4** | 0.999 |
+| APLF | **XRCC5** | 0.999 |
+| PRKDC | **IFFO1** | 0.412 |
+| PRKDC | **APTX** | 0.733 |
+| PRKDC | **PNKP** | 0.8 |
+| PRKDC | **POLL** | 0.872 |
+| PRKDC | **PAXX** | 0.996 |
+| PRKDC | **XRCC5** | 0.999 |
+| PRKDC | **XRCC6** | 0.999 |
+| PRKDC | **DCLRE1C** | 0.999 |
+| PRKDC | **NHEJ1** | 0.999 |
+| PRKDC | **XRCC4** | 0.999 |
+| PRKDC | **LIG4** | 0.999 |
+| PNKP | **DCLRE1C** | 0.444 |
+| PNKP | **POLL** | 0.673 |
+| PNKP | **NHEJ1** | 0.736 |
+| PNKP | **APTX** | 0.759 |
+| PNKP | **XRCC5** | 0.8 |
+| PNKP | **LIG4** | 0.833 |
+| PNKP | **PAXX** | 0.841 |
+| PNKP | **XRCC6** | 0.847 |
+| PNKP | **XRCC4** | 0.993 |
+| NHEJ1 | **IFFO1** | 0.567 |
+| NHEJ1 | **APTX** | 0.806 |
+| NHEJ1 | **POLL** | 0.856 |
+| NHEJ1 | **DCLRE1C** | 0.992 |
+| NHEJ1 | **XRCC6** | 0.999 |
+| NHEJ1 | **XRCC5** | 0.999 |
+| NHEJ1 | **XRCC4** | 0.999 |
+| NHEJ1 | **LIG4** | 0.999 |
+| NHEJ1 | **PAXX** | 0.999 |
+| XRCC6 | **IFFO1** | 0.552 |
+| XRCC6 | **APTX** | 0.714 |
+| XRCC6 | **POLL** | 0.905 |
+| XRCC6 | **DCLRE1C** | 0.997 |
+| XRCC6 | **PAXX** | 0.998 |
+| XRCC6 | **LIG4** | 0.999 |
+| XRCC6 | **XRCC4** | 0.999 |
+| XRCC6 | **XRCC5** | 0.999 |
+| POLL | **APTX** | 0.591 |
+| POLL | **PAXX** | 0.602 |
+| POLL | **DCLRE1C** | 0.67 |
+| POLL | **XRCC5** | 0.887 |
+| POLL | **LIG4** | 0.906 |
+| POLL | **XRCC4** | 0.949 |
+| PAXX | **APTX** | 0.833 |
+| PAXX | **DCLRE1C** | 0.928 |
+| PAXX | **LIG4** | 0.988 |
+| PAXX | **XRCC5** | 0.997 |
+| PAXX | **XRCC4** | 0.999 |
+| DCLRE1C | **APTX** | 0.43 |
+| DCLRE1C | **XRCC4** | 0.983 |
+| DCLRE1C | **LIG4** | 0.997 |
+| DCLRE1C | **XRCC5** | 0.998 |
+| APTX | **XRCC5** | 0.802 |
+| APTX | **LIG4** | 0.826 |
+| APTX | **XRCC4** | 0.998 |
+| XRCC5 | **IFFO1** | 0.641 |
+| XRCC5 | **LIG4** | 0.999 |
+| XRCC5 | **XRCC4** | 0.999 |
+| XRCC4 | **IFFO1** | 0.994 |
+| XRCC4 | **LIG4** | 0.999 |
+| IFFO1 | **LIG4** | 0.531 |
+

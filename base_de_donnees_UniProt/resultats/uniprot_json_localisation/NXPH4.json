@@ -1,0 +1,129 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O95158",
+      "uniProtkbId": "NXPH4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "NXPH4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "May be signaling molecules that resemble neuropeptides and that act by binding to alpha-neurexins and possibly other receptors"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098982",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:GABA-ergic synapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050804",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:modulation of chemical synaptic transmission"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007218",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuropeptide signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "9570794"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004C619"
+      }
+    }
+  ]
+}

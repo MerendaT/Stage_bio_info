@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : HNRNPA2B1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HNRNPA2B1
+Identifiant STRING officiel : `9606.ENSP00000346694`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HNRNPL | **TARDBP** | 0.837 |
+| HNRNPL | **FUS** | 0.927 |
+| HNRNPL | **SRSF1** | 0.945 |
+| HNRNPL | **HNRNPF** | 0.95 |
+| HNRNPL | **SRSF3** | 0.952 |
+| HNRNPL | **HNRNPU** | 0.974 |
+| HNRNPL | **HNRNPM** | 0.974 |
+| HNRNPL | **HNRNPH1** | 0.982 |
+| HNRNPL | **HNRNPC** | 0.99 |
+| HNRNPL | **HNRNPK** | 0.99 |
+| HNRNPL | **PTBP1** | 0.993 |
+| HNRNPL | **HNRNPA1** | 0.993 |
+| HNRNPL | **ILF3** | 0.995 |
+| HNRNPL | **HNRNPA2B1** | 0.999 |
+| TARDBP | **DGCR8** | 0.522 |
+| TARDBP | **ILF3** | 0.851 |
+| TARDBP | **HNRNPF** | 0.864 |
+| TARDBP | **HNRNPU** | 0.874 |
+| TARDBP | **HNRNPM** | 0.901 |
+| TARDBP | **SRSF1** | 0.912 |
+| TARDBP | **SRSF3** | 0.921 |
+| TARDBP | **HNRNPH1** | 0.947 |
+| TARDBP | **HNRNPK** | 0.949 |
+| TARDBP | **PTBP1** | 0.963 |
+| TARDBP | **HNRNPC** | 0.981 |
+| TARDBP | **HNRNPA1** | 0.997 |
+| TARDBP | **HNRNPA2B1** | 0.998 |
+| TARDBP | **FUS** | 0.999 |
+| FUS | **DGCR8** | 0.69 |
+| FUS | **HNRNPF** | 0.794 |
+| FUS | **SRSF3** | 0.827 |
+| FUS | **PTBP1** | 0.852 |
+| FUS | **SRSF1** | 0.868 |
+| FUS | **HNRNPK** | 0.927 |
+| FUS | **HNRNPH1** | 0.941 |
+| FUS | **HNRNPM** | 0.947 |
+| FUS | **HNRNPU** | 0.95 |
+| FUS | **HNRNPA1** | 0.975 |
+| FUS | **HNRNPC** | 0.976 |
+| FUS | **ILF3** | 0.982 |
+| FUS | **HNRNPA2B1** | 0.99 |
+| SRSF1 | **ILF3** | 0.787 |
+| SRSF1 | **HNRNPU** | 0.951 |
+| SRSF1 | **HNRNPM** | 0.956 |
+| SRSF1 | **HNRNPK** | 0.966 |
+| SRSF1 | **HNRNPF** | 0.97 |
+| SRSF1 | **HNRNPA2B1** | 0.972 |
+| SRSF1 | **HNRNPC** | 0.977 |
+| SRSF1 | **PTBP1** | 0.983 |
+| SRSF1 | **HNRNPH1** | 0.986 |
+| SRSF1 | **HNRNPA1** | 0.993 |
+| SRSF1 | **SRSF3** | 0.994 |
+| DGCR8 | **HNRNPH1** | 0.433 |
+| DGCR8 | **ILF3** | 0.628 |
+| DGCR8 | **HNRNPA1** | 0.648 |
+| DGCR8 | **HNRNPC** | 0.805 |
+| DGCR8 | **HNRNPA2B1** | 0.991 |
+| HNRNPM | **SRSF3** | 0.956 |
+| HNRNPM | **ILF3** | 0.97 |
+| HNRNPM | **HNRNPF** | 0.981 |
+| HNRNPM | **PTBP1** | 0.981 |
+| HNRNPM | **HNRNPK** | 0.981 |
+| HNRNPM | **HNRNPU** | 0.985 |
+| HNRNPM | **HNRNPA2B1** | 0.987 |
+| HNRNPM | **HNRNPC** | 0.99 |
+| HNRNPM | **HNRNPH1** | 0.993 |
+| HNRNPM | **HNRNPA1** | 0.993 |
+| HNRNPA1 | **ILF3** | 0.96 |
+| HNRNPA1 | **SRSF3** | 0.97 |
+| HNRNPA1 | **HNRNPF** | 0.983 |
+| HNRNPA1 | **HNRNPU** | 0.992 |
+| HNRNPA1 | **HNRNPK** | 0.995 |
+| HNRNPA1 | **HNRNPH1** | 0.998 |
+| HNRNPA1 | **HNRNPA2B1** | 0.998 |
+| HNRNPA1 | **PTBP1** | 0.998 |
+| HNRNPA1 | **HNRNPC** | 0.999 |
+| HNRNPA2B1 | **SRSF3** | 0.976 |
+| HNRNPA2B1 | **HNRNPU** | 0.979 |
+| HNRNPA2B1 | **HNRNPK** | 0.983 |
+| HNRNPA2B1 | **HNRNPF** | 0.985 |
+| HNRNPA2B1 | **HNRNPH1** | 0.991 |
+| HNRNPA2B1 | **PTBP1** | 0.993 |
+| HNRNPA2B1 | **ILF3** | 0.994 |
+| HNRNPA2B1 | **HNRNPC** | 0.999 |
+| HNRNPH1 | **SRSF3** | 0.972 |
+| HNRNPH1 | **HNRNPK** | 0.975 |
+| HNRNPH1 | **PTBP1** | 0.978 |
+| HNRNPH1 | **ILF3** | 0.98 |
+| HNRNPH1 | **HNRNPC** | 0.981 |
+| HNRNPH1 | **HNRNPU** | 0.986 |
+| HNRNPH1 | **HNRNPF** | 0.994 |
+| PTBP1 | **ILF3** | 0.901 |
+| PTBP1 | **HNRNPF** | 0.942 |
+| PTBP1 | **HNRNPU** | 0.943 |
+| PTBP1 | **SRSF3** | 0.948 |
+| PTBP1 | **HNRNPC** | 0.996 |
+| PTBP1 | **HNRNPK** | 0.997 |
+| SRSF3 | **ILF3** | 0.87 |
+| SRSF3 | **HNRNPU** | 0.896 |
+| SRSF3 | **HNRNPF** | 0.941 |
+| SRSF3 | **HNRNPK** | 0.962 |
+| SRSF3 | **HNRNPC** | 0.981 |
+| HNRNPK | **ILF3** | 0.936 |
+| HNRNPK | **HNRNPF** | 0.971 |
+| HNRNPK | **HNRNPC** | 0.982 |
+| HNRNPK | **HNRNPU** | 0.991 |
+| HNRNPF | **ILF3** | 0.711 |
+| HNRNPF | **HNRNPU** | 0.951 |
+| HNRNPF | **HNRNPC** | 0.971 |
+| ILF3 | **HNRNPU** | 0.901 |
+| ILF3 | **HNRNPC** | 0.985 |
+| HNRNPC | **HNRNPU** | 0.996 |
+

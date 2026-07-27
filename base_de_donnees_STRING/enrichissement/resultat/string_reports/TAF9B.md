@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TAF9B
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TAF9B
+Identifiant STRING officiel : `9606.ENSP00000339917`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TAF4 | **TADA3** | 0.912 |
+| TAF4 | **SUPT3H** | 0.941 |
+| TAF4 | **SGF29** | 0.95 |
+| TAF4 | **TRRAP** | 0.982 |
+| TAF4 | **TAF6L** | 0.986 |
+| TAF4 | **TAF5L** | 0.991 |
+| TAF4 | **TAF9B** | 0.998 |
+| TAF4 | **TAF7** | 0.999 |
+| TAF4 | **TAF6** | 0.999 |
+| TAF4 | **TAF8** | 0.999 |
+| TAF4 | **TAF11** | 0.999 |
+| TAF4 | **TAF1** | 0.999 |
+| TAF4 | **TAF10** | 0.999 |
+| TAF4 | **TAF12** | 0.999 |
+| TAF4 | **TAF5** | 0.999 |
+| TAF5L | **TAF11** | 0.632 |
+| TAF5L | **TAF1** | 0.859 |
+| TAF5L | **TAF8** | 0.937 |
+| TAF5L | **TAF5** | 0.952 |
+| TAF5L | **TAF7** | 0.987 |
+| TAF5L | **TAF6** | 0.996 |
+| TAF5L | **SGF29** | 0.997 |
+| TAF5L | **TAF10** | 0.999 |
+| TAF5L | **TAF12** | 0.999 |
+| TAF5L | **SUPT3H** | 0.999 |
+| TAF5L | **TADA3** | 0.999 |
+| TAF5L | **TAF9B** | 0.999 |
+| TAF5L | **TRRAP** | 0.999 |
+| TAF5L | **TAF6L** | 0.999 |
+| TAF12 | **TAF1** | 0.999 |
+| TAF12 | **TAF9B** | 0.999 |
+| TAF12 | **TAF11** | 0.999 |
+| TAF12 | **TADA3** | 0.999 |
+| TAF12 | **SUPT3H** | 0.999 |
+| TAF12 | **TAF10** | 0.999 |
+| TAF12 | **TAF5** | 0.999 |
+| TAF12 | **TAF6L** | 0.999 |
+| TAF12 | **SGF29** | 0.999 |
+| TAF12 | **TRRAP** | 0.999 |
+| TAF12 | **TAF6** | 0.999 |
+| TAF12 | **TAF8** | 0.999 |
+| TAF12 | **TAF7** | 0.999 |
+| TAF6L | **TAF11** | 0.717 |
+| TAF6L | **TAF1** | 0.889 |
+| TAF6L | **TAF6** | 0.934 |
+| TAF6L | **TAF8** | 0.955 |
+| TAF6L | **TAF5** | 0.977 |
+| TAF6L | **TAF7** | 0.986 |
+| TAF6L | **SGF29** | 0.997 |
+| TAF6L | **TAF9B** | 0.998 |
+| TAF6L | **TRRAP** | 0.999 |
+| TAF6L | **TADA3** | 0.999 |
+| TAF6L | **TAF10** | 0.999 |
+| TAF6L | **SUPT3H** | 0.999 |
+| TAF10 | **TAF9B** | 0.998 |
+| TAF10 | **TAF7** | 0.999 |
+| TAF10 | **TAF8** | 0.999 |
+| TAF10 | **TRRAP** | 0.999 |
+| TAF10 | **TAF6** | 0.999 |
+| TAF10 | **SGF29** | 0.999 |
+| TAF10 | **TAF5** | 0.999 |
+| TAF10 | **SUPT3H** | 0.999 |
+| TAF10 | **TADA3** | 0.999 |
+| TAF10 | **TAF11** | 0.999 |
+| TAF10 | **TAF1** | 0.999 |
+| TADA3 | **TAF7** | 0.917 |
+| TADA3 | **TAF5** | 0.997 |
+| TADA3 | **TAF9B** | 0.998 |
+| TADA3 | **TAF6** | 0.999 |
+| TADA3 | **TRRAP** | 0.999 |
+| TADA3 | **SGF29** | 0.999 |
+| TADA3 | **SUPT3H** | 0.999 |
+| TAF7 | **SGF29** | 0.911 |
+| TAF7 | **SUPT3H** | 0.932 |
+| TAF7 | **TRRAP** | 0.969 |
+| TAF7 | **TAF1** | 0.999 |
+| TAF7 | **TAF11** | 0.999 |
+| TAF7 | **TAF9B** | 0.999 |
+| TAF7 | **TAF5** | 0.999 |
+| TAF7 | **TAF6** | 0.999 |
+| TAF7 | **TAF8** | 0.999 |
+| SGF29 | **TAF5** | 0.99 |
+| SGF29 | **TAF6** | 0.995 |
+| SGF29 | **TAF9B** | 0.997 |
+| SGF29 | **SUPT3H** | 0.999 |
+| SGF29 | **TRRAP** | 0.999 |
+| TAF9B | **SUPT3H** | 0.995 |
+| TAF9B | **TAF8** | 0.996 |
+| TAF9B | **TAF5** | 0.996 |
+| TAF9B | **TRRAP** | 0.997 |
+| TAF9B | **TAF6** | 0.999 |
+| TAF9B | **TAF11** | 0.999 |
+| TAF9B | **TAF1** | 0.999 |
+| TRRAP | **TAF1** | 0.431 |
+| TRRAP | **TAF8** | 0.614 |
+| TRRAP | **TAF5** | 0.996 |
+| TRRAP | **TAF6** | 0.999 |
+| TRRAP | **SUPT3H** | 0.999 |
+| TAF11 | **TAF8** | 0.999 |
+| TAF11 | **TAF6** | 0.999 |
+| TAF11 | **TAF1** | 0.999 |
+| TAF11 | **TAF5** | 0.999 |
+| TAF5 | **SUPT3H** | 0.994 |
+| TAF5 | **TAF6** | 0.999 |
+| TAF5 | **TAF8** | 0.999 |
+| TAF5 | **TAF1** | 0.999 |
+| SUPT3H | **TAF1** | 0.419 |
+| SUPT3H | **TAF8** | 0.769 |
+| SUPT3H | **TAF6** | 0.998 |
+| TAF8 | **TAF1** | 0.999 |
+| TAF8 | **TAF6** | 0.999 |
+| TAF6 | **TAF1** | 0.999 |
+

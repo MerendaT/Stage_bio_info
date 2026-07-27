@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RNF40
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RNF40
+Identifiant STRING officiel : `9606.ENSP00000325677`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PAF1 | **H2BC21** | 0.508 |
+| PAF1 | **UBE2B** | 0.614 |
+| PAF1 | **UBE2A** | 0.62 |
+| PAF1 | **WAC** | 0.633 |
+| PAF1 | **H2BC1** | 0.756 |
+| PAF1 | **H2BC13** | 0.757 |
+| PAF1 | **H2BC14** | 0.757 |
+| PAF1 | **H2BC17** | 0.759 |
+| PAF1 | **H2BC12** | 0.76 |
+| PAF1 | **RNF40** | 0.932 |
+| PAF1 | **H2BC11** | 0.957 |
+| PAF1 | **RNF20** | 0.976 |
+| PAF1 | **CDC73** | 0.999 |
+| UBE2B | **H2BC21** | 0.524 |
+| UBE2B | **WAC** | 0.658 |
+| UBE2B | **H2BC12** | 0.695 |
+| UBE2B | **H2BC17** | 0.697 |
+| UBE2B | **H2BC11** | 0.697 |
+| UBE2B | **H2BC13** | 0.697 |
+| UBE2B | **H2BC14** | 0.697 |
+| UBE2B | **H2BC1** | 0.714 |
+| UBE2B | **CDC73** | 0.736 |
+| UBE2B | **UBE2N** | 0.929 |
+| UBE2B | **UBE2A** | 0.975 |
+| UBE2B | **UBE2V1** | 0.979 |
+| UBE2B | **RNF40** | 0.997 |
+| UBE2B | **RNF20** | 0.998 |
+| H2BC1 | **H2BC14** | 0.426 |
+| H2BC1 | **H2BC21** | 0.439 |
+| H2BC1 | **H2BC12** | 0.46 |
+| H2BC1 | **H2BC17** | 0.556 |
+| H2BC1 | **H2BC11** | 0.558 |
+| H2BC1 | **UBE2N** | 0.608 |
+| H2BC1 | **WAC** | 0.641 |
+| H2BC1 | **UBE2A** | 0.714 |
+| H2BC1 | **CDC73** | 0.813 |
+| H2BC1 | **RNF40** | 0.891 |
+| H2BC1 | **H2BC13** | 0.913 |
+| H2BC1 | **RNF20** | 0.92 |
+| UBE2N | **H2BC11** | 0.607 |
+| UBE2N | **H2BC14** | 0.609 |
+| UBE2N | **H2BC12** | 0.609 |
+| UBE2N | **H2BC13** | 0.609 |
+| UBE2N | **H2BC17** | 0.614 |
+| UBE2N | **H2BC21** | 0.694 |
+| UBE2N | **UBE2A** | 0.93 |
+| UBE2N | **RNF40** | 0.948 |
+| UBE2N | **RNF20** | 0.952 |
+| UBE2N | **UBE2V1** | 0.999 |
+| RNF40 | **H2BC14** | 0.891 |
+| RNF40 | **H2BC11** | 0.891 |
+| RNF40 | **H2BC12** | 0.891 |
+| RNF40 | **H2BC13** | 0.891 |
+| RNF40 | **H2BC17** | 0.895 |
+| RNF40 | **UBE2V1** | 0.908 |
+| RNF40 | **CDC73** | 0.94 |
+| RNF40 | **H2BC21** | 0.943 |
+| RNF40 | **WAC** | 0.964 |
+| RNF40 | **UBE2A** | 0.998 |
+| RNF40 | **RNF20** | 0.999 |
+| UBE2V1 | **RNF20** | 0.907 |
+| UBE2V1 | **UBE2A** | 0.968 |
+| WAC | **CDC73** | 0.618 |
+| WAC | **H2BC12** | 0.641 |
+| WAC | **H2BC11** | 0.642 |
+| WAC | **H2BC13** | 0.643 |
+| WAC | **H2BC14** | 0.643 |
+| WAC | **H2BC17** | 0.646 |
+| WAC | **UBE2A** | 0.737 |
+| WAC | **RNF20** | 0.968 |
+| H2BC12 | **H2BC14** | 0.49 |
+| H2BC12 | **H2BC13** | 0.524 |
+| H2BC12 | **UBE2A** | 0.72 |
+| H2BC12 | **CDC73** | 0.813 |
+| H2BC12 | **H2BC17** | 0.897 |
+| H2BC12 | **RNF20** | 0.919 |
+| H2BC12 | **H2BC21** | 0.929 |
+| H2BC12 | **H2BC11** | 0.973 |
+| CDC73 | **H2BC21** | 0.671 |
+| CDC73 | **UBE2A** | 0.782 |
+| CDC73 | **H2BC13** | 0.814 |
+| CDC73 | **H2BC14** | 0.815 |
+| CDC73 | **H2BC17** | 0.826 |
+| CDC73 | **H2BC11** | 0.961 |
+| CDC73 | **RNF20** | 0.982 |
+| H2BC21 | **H2BC13** | 0.533 |
+| H2BC21 | **UBE2A** | 0.761 |
+| H2BC21 | **H2BC14** | 0.907 |
+| H2BC21 | **H2BC17** | 0.928 |
+| H2BC21 | **H2BC11** | 0.938 |
+| H2BC21 | **RNF20** | 0.976 |
+| UBE2A | **H2BC11** | 0.71 |
+| UBE2A | **H2BC14** | 0.714 |
+| UBE2A | **H2BC13** | 0.714 |
+| UBE2A | **H2BC17** | 0.721 |
+| UBE2A | **RNF20** | 0.999 |
+| H2BC13 | **H2BC11** | 0.561 |
+| H2BC13 | **H2BC17** | 0.661 |
+| H2BC13 | **H2BC14** | 0.727 |
+| H2BC13 | **RNF20** | 0.924 |
+| RNF20 | **H2BC11** | 0.921 |
+| RNF20 | **H2BC14** | 0.924 |
+| RNF20 | **H2BC17** | 0.926 |
+| H2BC11 | **H2BC14** | 0.552 |
+| H2BC11 | **H2BC17** | 0.78 |
+| H2BC17 | **H2BC14** | 0.971 |
+

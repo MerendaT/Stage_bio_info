@@ -1,0 +1,189 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P22692",
+      "uniProtkbId": "IBP4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "IGFBP4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "IGF-binding proteins prolong the half-life of the IGFs and have been shown to either inhibit or stimulate the growth promoting effects of the IGFs on cell culture. They alter the interaction of IGFs with their cell surface receptors"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031994",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:insulin-like growth factor I binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031995",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:insulin-like growth factor II binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "24431302"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090090",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of canonical Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "24431302"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043567",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of insulin-like growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "1377672"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000035977"
+      }
+    }
+  ]
+}

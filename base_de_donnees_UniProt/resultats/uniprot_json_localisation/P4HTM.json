@@ -1,0 +1,210 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9NXG6",
+      "uniProtkbId": "P4HTM_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "P4HTM"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17726031"
+                }
+              ],
+              "value": "Catalyzes the post-translational formation of 4-hydroxyproline in hypoxia-inducible factor (HIF) alpha proteins. Hydroxylates HIF1A at 'Pro-402' and 'Pro-564'. May function as a cellular oxygen sensor and, under normoxic conditions, may target HIF through the hydroxylation for proteasomal degradation via the von Hippel-Lindau ubiquitination complex"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12163023"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17726031"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12163023"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17726031"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016706",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:2-oxoglutarate-dependent dioxygenase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22955912"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0160082",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hypoxia-inducible factor-proline dioxygenase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-EC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005506",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:iron ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031418",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:L-ascorbic acid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004656",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:procollagen-proline 4-dioxygenase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045646",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of erythrocyte differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000185F98"
+      }
+    }
+  ]
+}

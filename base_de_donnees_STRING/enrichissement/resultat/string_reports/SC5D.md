@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SC5D
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SC5D
+Identifiant STRING officiel : `9606.ENSP00000264027`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CYP51A1 | **EBP** | 0.714 |
+| CYP51A1 | **FAXDC2** | 0.972 |
+| CYP51A1 | **CH25H** | 0.976 |
+| CYP51A1 | **DHCR7** | 0.978 |
+| CYP51A1 | **SC5D** | 0.987 |
+| CYP51A1 | **NSDHL** | 0.989 |
+| CYP51A1 | **DHCR24** | 0.992 |
+| CYP51A1 | **LBR** | 0.993 |
+| CYP51A1 | **ERG28** | 0.995 |
+| CYP51A1 | **HSD17B7** | 0.996 |
+| CYP51A1 | **TM7SF2** | 0.996 |
+| CYP51A1 | **MSMO1** | 0.996 |
+| CYP51A1 | **FDFT1** | 0.997 |
+| CYP51A1 | **LSS** | 0.999 |
+| HSD17B7 | **LBR** | 0.9 |
+| HSD17B7 | **FAXDC2** | 0.912 |
+| HSD17B7 | **CH25H** | 0.918 |
+| HSD17B7 | **TM7SF2** | 0.946 |
+| HSD17B7 | **DHCR7** | 0.947 |
+| HSD17B7 | **EBP** | 0.961 |
+| HSD17B7 | **DHCR24** | 0.978 |
+| HSD17B7 | **ERG28** | 0.988 |
+| HSD17B7 | **LSS** | 0.992 |
+| HSD17B7 | **FDFT1** | 0.993 |
+| HSD17B7 | **NSDHL** | 0.996 |
+| HSD17B7 | **SC5D** | 0.997 |
+| HSD17B7 | **MSMO1** | 0.998 |
+| ERG28 | **EBP** | 0.58 |
+| ERG28 | **DHCR24** | 0.594 |
+| ERG28 | **CH25H** | 0.859 |
+| ERG28 | **FAXDC2** | 0.859 |
+| ERG28 | **LBR** | 0.897 |
+| ERG28 | **NSDHL** | 0.912 |
+| ERG28 | **TM7SF2** | 0.914 |
+| ERG28 | **DHCR7** | 0.915 |
+| ERG28 | **LSS** | 0.977 |
+| ERG28 | **FDFT1** | 0.984 |
+| ERG28 | **SC5D** | 0.989 |
+| ERG28 | **MSMO1** | 0.994 |
+| MSMO1 | **FADS1** | 0.67 |
+| MSMO1 | **EBP** | 0.74 |
+| MSMO1 | **DHCR7** | 0.925 |
+| MSMO1 | **LSS** | 0.958 |
+| MSMO1 | **LBR** | 0.976 |
+| MSMO1 | **DHCR24** | 0.987 |
+| MSMO1 | **TM7SF2** | 0.987 |
+| MSMO1 | **SC5D** | 0.991 |
+| MSMO1 | **FDFT1** | 0.991 |
+| MSMO1 | **NSDHL** | 0.997 |
+| SC5D | **LBR** | 0.941 |
+| SC5D | **FAXDC2** | 0.965 |
+| SC5D | **CH25H** | 0.969 |
+| SC5D | **TM7SF2** | 0.974 |
+| SC5D | **NSDHL** | 0.975 |
+| SC5D | **FADS1** | 0.976 |
+| SC5D | **DHCR24** | 0.984 |
+| SC5D | **LSS** | 0.989 |
+| SC5D | **EBP** | 0.995 |
+| SC5D | **FDFT1** | 0.996 |
+| SC5D | **DHCR7** | 0.998 |
+| TM7SF2 | **DHCR7** | 0.402 |
+| TM7SF2 | **CH25H** | 0.692 |
+| TM7SF2 | **FAXDC2** | 0.755 |
+| TM7SF2 | **FDFT1** | 0.766 |
+| TM7SF2 | **LSS** | 0.779 |
+| TM7SF2 | **NSDHL** | 0.869 |
+| TM7SF2 | **LBR** | 0.906 |
+| TM7SF2 | **DHCR24** | 0.976 |
+| TM7SF2 | **EBP** | 0.991 |
+| FAXDC2 | **DHCR24** | 0.503 |
+| FAXDC2 | **FADS1** | 0.58 |
+| FAXDC2 | **LBR** | 0.645 |
+| FAXDC2 | **DHCR7** | 0.679 |
+| FAXDC2 | **NSDHL** | 0.79 |
+| FAXDC2 | **LSS** | 0.876 |
+| FAXDC2 | **FDFT1** | 0.885 |
+| FADS1 | **FDFT1** | 0.475 |
+| FADS1 | **DHCR7** | 0.492 |
+| FADS1 | **CH25H** | 0.544 |
+| FADS1 | **EBP** | 0.833 |
+| LBR | **FDFT1** | 0.556 |
+| LBR | **LSS** | 0.57 |
+| LBR | **CH25H** | 0.646 |
+| LBR | **NSDHL** | 0.718 |
+| LBR | **EBP** | 0.759 |
+| LBR | **DHCR24** | 0.95 |
+| DHCR7 | **LSS** | 0.925 |
+| DHCR7 | **FDFT1** | 0.938 |
+| DHCR7 | **CH25H** | 0.958 |
+| DHCR7 | **EBP** | 0.966 |
+| DHCR7 | **NSDHL** | 0.966 |
+| DHCR7 | **DHCR24** | 0.996 |
+| NSDHL | **CH25H** | 0.768 |
+| NSDHL | **DHCR24** | 0.858 |
+| NSDHL | **LSS** | 0.957 |
+| NSDHL | **FDFT1** | 0.961 |
+| NSDHL | **EBP** | 0.964 |
+| DHCR24 | **FDFT1** | 0.831 |
+| DHCR24 | **CH25H** | 0.93 |
+| DHCR24 | **EBP** | 0.981 |
+| DHCR24 | **LSS** | 0.982 |
+| CH25H | **LSS** | 0.9 |
+| CH25H | **FDFT1** | 0.902 |
+| LSS | **EBP** | 0.733 |
+| LSS | **FDFT1** | 0.989 |
+| EBP | **FDFT1** | 0.783 |
+

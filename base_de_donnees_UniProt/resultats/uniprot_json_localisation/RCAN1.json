@@ -1,0 +1,218 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P53805",
+      "uniProtkbId": "RCAN1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "RCAN1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9JHG6"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12809556"
+                }
+              ],
+              "value": "Inhibits calcineurin-dependent transcriptional responses by binding to the catalytic domain of calcineurin A (PubMed:12809556). Could play a role during central nervous system development (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008597",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium-dependent protein serine/threonine phosphatase regulator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003676",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nucleic acid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004864",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein phosphatase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019722",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:calcium-mediated signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070885",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of calcineurin-NFAT signaling cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "12809556"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051151",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of smooth muscle cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043627",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to estrogen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to mechanical stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007519",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:skeletal muscle tissue development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001B4EA7"
+      }
+    }
+  ]
+}

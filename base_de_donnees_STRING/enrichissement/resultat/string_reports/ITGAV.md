@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ITGAV
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ITGAV
+Identifiant STRING officiel : `9606.ENSP00000261023`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TGFB1 | **IBSP** | 0.475 |
+| TGFB1 | **PTK2** | 0.521 |
+| TGFB1 | **VWF** | 0.586 |
+| TGFB1 | **ITGB2** | 0.697 |
+| TGFB1 | **SPP1** | 0.716 |
+| TGFB1 | **ITGB3** | 0.764 |
+| TGFB1 | **VTN** | 0.787 |
+| TGFB1 | **ITGB5** | 0.791 |
+| TGFB1 | **ITGB1** | 0.885 |
+| TGFB1 | **FN1** | 0.969 |
+| TGFB1 | **ITGB8** | 0.983 |
+| TGFB1 | **THBS1** | 0.985 |
+| TGFB1 | **ITGB6** | 0.986 |
+| TGFB1 | **ITGAV** | 0.994 |
+| ITGB8 | **IBSP** | 0.666 |
+| ITGB8 | **VWF** | 0.69 |
+| ITGB8 | **SPP1** | 0.732 |
+| ITGB8 | **THBS1** | 0.775 |
+| ITGB8 | **ITGB2** | 0.911 |
+| ITGB8 | **FN1** | 0.93 |
+| ITGB8 | **ITGB6** | 0.932 |
+| ITGB8 | **PTK2** | 0.933 |
+| ITGB8 | **VTN** | 0.936 |
+| ITGB8 | **ITGB1** | 0.94 |
+| ITGB8 | **ITGB5** | 0.945 |
+| ITGB8 | **ITGB3** | 0.947 |
+| ITGB8 | **ITGAV** | 0.999 |
+| VTN | **MFGE8** | 0.575 |
+| VTN | **ITGB6** | 0.785 |
+| VTN | **THBS1** | 0.826 |
+| VTN | **IBSP** | 0.837 |
+| VTN | **ITGB2** | 0.862 |
+| VTN | **PTK2** | 0.903 |
+| VTN | **SPP1** | 0.964 |
+| VTN | **VWF** | 0.966 |
+| VTN | **ITGB1** | 0.986 |
+| VTN | **ITGB5** | 0.995 |
+| VTN | **ITGB3** | 0.999 |
+| VTN | **ITGAV** | 0.999 |
+| VTN | **FN1** | 0.999 |
+| IBSP | **ITGB6** | 0.686 |
+| IBSP | **PTK2** | 0.709 |
+| IBSP | **FN1** | 0.778 |
+| IBSP | **ITGB1** | 0.786 |
+| IBSP | **ITGB5** | 0.909 |
+| IBSP | **ITGB3** | 0.923 |
+| IBSP | **ITGAV** | 0.983 |
+| IBSP | **SPP1** | 0.991 |
+| THBS1 | **MFGE8** | 0.626 |
+| THBS1 | **SPP1** | 0.731 |
+| THBS1 | **PTK2** | 0.764 |
+| THBS1 | **VWF** | 0.771 |
+| THBS1 | **ITGB6** | 0.775 |
+| THBS1 | **ITGB5** | 0.859 |
+| THBS1 | **ITGAV** | 0.981 |
+| THBS1 | **ITGB3** | 0.984 |
+| THBS1 | **ITGB1** | 0.989 |
+| THBS1 | **FN1** | 0.999 |
+| ITGAV | **PTK2** | 0.984 |
+| ITGAV | **MFGE8** | 0.985 |
+| ITGAV | **VWF** | 0.986 |
+| ITGAV | **ITGB2** | 0.99 |
+| ITGAV | **ITGB3** | 0.999 |
+| ITGAV | **ITGB6** | 0.999 |
+| ITGAV | **ITGB1** | 0.999 |
+| ITGAV | **FN1** | 0.999 |
+| ITGAV | **SPP1** | 0.999 |
+| ITGAV | **ITGB5** | 0.999 |
+| VWF | **ITGB2** | 0.528 |
+| VWF | **ITGB6** | 0.705 |
+| VWF | **PTK2** | 0.738 |
+| VWF | **ITGB5** | 0.739 |
+| VWF | **SPP1** | 0.807 |
+| VWF | **ITGB1** | 0.834 |
+| VWF | **ITGB3** | 0.998 |
+| VWF | **FN1** | 0.998 |
+| MFGE8 | **ITGB3** | 0.735 |
+| MFGE8 | **ITGB5** | 0.91 |
+| ITGB6 | **SPP1** | 0.715 |
+| ITGB6 | **ITGB5** | 0.927 |
+| ITGB6 | **PTK2** | 0.932 |
+| ITGB6 | **ITGB3** | 0.935 |
+| ITGB6 | **ITGB2** | 0.943 |
+| ITGB6 | **ITGB1** | 0.979 |
+| ITGB6 | **FN1** | 0.986 |
+| ITGB5 | **ITGB2** | 0.943 |
+| ITGB5 | **ITGB3** | 0.954 |
+| ITGB5 | **ITGB1** | 0.96 |
+| ITGB5 | **SPP1** | 0.968 |
+| ITGB5 | **PTK2** | 0.972 |
+| ITGB5 | **FN1** | 0.995 |
+| PTK2 | **ITGB2** | 0.786 |
+| PTK2 | **SPP1** | 0.817 |
+| PTK2 | **FN1** | 0.937 |
+| PTK2 | **ITGB3** | 0.99 |
+| PTK2 | **ITGB1** | 0.997 |
+| FN1 | **ITGB2** | 0.976 |
+| FN1 | **SPP1** | 0.996 |
+| FN1 | **ITGB3** | 0.999 |
+| FN1 | **ITGB1** | 0.999 |
+| SPP1 | **ITGB2** | 0.531 |
+| SPP1 | **ITGB3** | 0.994 |
+| SPP1 | **ITGB1** | 0.996 |
+| ITGB1 | **ITGB2** | 0.985 |
+| ITGB1 | **ITGB3** | 0.987 |
+| ITGB2 | **ITGB3** | 0.973 |
+

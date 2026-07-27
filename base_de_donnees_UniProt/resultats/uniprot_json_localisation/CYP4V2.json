@@ -1,0 +1,215 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q6ZWL3",
+      "uniProtkbId": "CP4V2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CYP4V2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19661213"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22772592"
+                }
+              ],
+              "value": "A cytochrome P450 monooxygenase involved in fatty acid metabolism in the eye. Catalyzes the omega-hydroxylation of polyunsaturated fatty acids (PUFAs) docosahexaenoate (DHA) and its precursor eicosapentaenoate (EPA), and may contribute to the homeostasis of these retinal PUFAs (PubMed:22772592). Omega hydroxylates saturated fatty acids such as laurate, myristate and palmitate, the catalytic efficiency decreasing in the following order: myristate > laurate > palmitate (C14>C12>C16) (PubMed:19661213). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22772592"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Single-pass membrane protein",
+                "id": "SL-9904"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22772592"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0020037",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005506",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:iron ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0102033",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:long-chain fatty acid omega-hydroxylase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-EC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016709",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010430",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fatty acid omega-oxidation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19661213"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22772592"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001523",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retinoid metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016125",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sterol metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007601",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:visual perception"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00002372FE"
+      }
+    }
+  ]
+}

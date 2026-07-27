@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : KNTC1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KNTC1
+Identifiant STRING officiel : `9606.ENSP00000328236`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ZW10 | **KIF11** | 0.663 |
+| ZW10 | **CDC20** | 0.801 |
+| ZW10 | **MAD2L1** | 0.811 |
+| ZW10 | **ESPL1** | 0.84 |
+| ZW10 | **BUB1** | 0.883 |
+| ZW10 | **INCENP** | 0.911 |
+| ZW10 | **BUB1B** | 0.928 |
+| ZW10 | **ZWINT** | 0.997 |
+| ZW10 | **ZWILCH** | 0.999 |
+| ZW10 | **KNTC1** | 0.999 |
+| ESPL1 | **BRCA1** | 0.427 |
+| ESPL1 | **SMC2** | 0.593 |
+| ESPL1 | **ZWINT** | 0.846 |
+| ESPL1 | **ASPM** | 0.857 |
+| ESPL1 | **KNTC1** | 0.859 |
+| ESPL1 | **ZWILCH** | 0.872 |
+| ESPL1 | **MAD2L1** | 0.941 |
+| ESPL1 | **INCENP** | 0.944 |
+| ESPL1 | **TTK** | 0.945 |
+| ESPL1 | **KIF11** | 0.947 |
+| ESPL1 | **CDCA8** | 0.972 |
+| ESPL1 | **CDC20** | 0.988 |
+| ESPL1 | **BUB1B** | 0.989 |
+| ESPL1 | **BUB1** | 0.99 |
+| KIF11 | **BRCA1** | 0.571 |
+| KIF11 | **ZWILCH** | 0.857 |
+| KIF11 | **INCENP** | 0.913 |
+| KIF11 | **KNTC1** | 0.915 |
+| KIF11 | **ZWINT** | 0.928 |
+| KIF11 | **CDCA8** | 0.964 |
+| KIF11 | **SMC2** | 0.967 |
+| KIF11 | **MAD2L1** | 0.973 |
+| KIF11 | **TTK** | 0.984 |
+| KIF11 | **BUB1** | 0.985 |
+| KIF11 | **CDC20** | 0.987 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **BUB1B** | 0.994 |
+| SMC2 | **CDCA8** | 0.434 |
+| SMC2 | **ZWINT** | 0.461 |
+| SMC2 | **BRCA1** | 0.498 |
+| SMC2 | **CDC20** | 0.581 |
+| SMC2 | **BUB1** | 0.662 |
+| SMC2 | **BUB1B** | 0.668 |
+| SMC2 | **INCENP** | 0.672 |
+| SMC2 | **ZWILCH** | 0.698 |
+| SMC2 | **TTK** | 0.733 |
+| SMC2 | **MAD2L1** | 0.754 |
+| SMC2 | **ASPM** | 0.838 |
+| SMC2 | **KNTC1** | 0.846 |
+| BUB1B | **BRCA1** | 0.905 |
+| BUB1B | **INCENP** | 0.912 |
+| BUB1B | **KNTC1** | 0.921 |
+| BUB1B | **ZWILCH** | 0.953 |
+| BUB1B | **ASPM** | 0.974 |
+| BUB1B | **TTK** | 0.991 |
+| BUB1B | **CDCA8** | 0.994 |
+| BUB1B | **ZWINT** | 0.996 |
+| BUB1B | **BUB1** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **MAD2L1** | 0.999 |
+| MAD2L1 | **BRCA1** | 0.522 |
+| MAD2L1 | **INCENP** | 0.795 |
+| MAD2L1 | **ASPM** | 0.812 |
+| MAD2L1 | **ZWILCH** | 0.852 |
+| MAD2L1 | **KNTC1** | 0.873 |
+| MAD2L1 | **ZWINT** | 0.899 |
+| MAD2L1 | **CDCA8** | 0.935 |
+| MAD2L1 | **TTK** | 0.995 |
+| MAD2L1 | **BUB1** | 0.999 |
+| MAD2L1 | **CDC20** | 0.999 |
+| BUB1 | **BRCA1** | 0.733 |
+| BUB1 | **KNTC1** | 0.826 |
+| BUB1 | **INCENP** | 0.864 |
+| BUB1 | **ZWILCH** | 0.879 |
+| BUB1 | **CDCA8** | 0.971 |
+| BUB1 | **ASPM** | 0.976 |
+| BUB1 | **ZWINT** | 0.991 |
+| BUB1 | **TTK** | 0.999 |
+| BUB1 | **CDC20** | 0.999 |
+| ZWILCH | **BRCA1** | 0.405 |
+| ZWILCH | **ASPM** | 0.548 |
+| ZWILCH | **INCENP** | 0.684 |
+| ZWILCH | **CDCA8** | 0.779 |
+| ZWILCH | **TTK** | 0.807 |
+| ZWILCH | **CDC20** | 0.895 |
+| ZWILCH | **ZWINT** | 0.939 |
+| ZWILCH | **KNTC1** | 0.999 |
+| KNTC1 | **INCENP** | 0.824 |
+| KNTC1 | **CDCA8** | 0.842 |
+| KNTC1 | **TTK** | 0.847 |
+| KNTC1 | **BRCA1** | 0.849 |
+| KNTC1 | **CDC20** | 0.882 |
+| KNTC1 | **ZWINT** | 0.927 |
+| KNTC1 | **ASPM** | 0.931 |
+| ASPM | **INCENP** | 0.59 |
+| ASPM | **BRCA1** | 0.641 |
+| ASPM | **ZWINT** | 0.818 |
+| ASPM | **CDCA8** | 0.95 |
+| ASPM | **TTK** | 0.957 |
+| ASPM | **CDC20** | 0.972 |
+| TTK | **INCENP** | 0.588 |
+| TTK | **BRCA1** | 0.627 |
+| TTK | **ZWINT** | 0.766 |
+| TTK | **CDCA8** | 0.946 |
+| TTK | **CDC20** | 0.99 |
+| CDC20 | **BRCA1** | 0.766 |
+| CDC20 | **INCENP** | 0.964 |
+| CDC20 | **ZWINT** | 0.968 |
+| CDC20 | **CDCA8** | 0.992 |
+| CDCA8 | **ZWINT** | 0.78 |
+| CDCA8 | **INCENP** | 0.999 |
+| ZWINT | **BRCA1** | 0.403 |
+| ZWINT | **INCENP** | 0.866 |
+| INCENP | **BRCA1** | 0.621 |
+

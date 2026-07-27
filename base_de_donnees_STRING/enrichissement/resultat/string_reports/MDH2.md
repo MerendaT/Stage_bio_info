@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MDH2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MDH2
+Identifiant STRING officiel : `9606.ENSP00000327070`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PCK2 | **SDHB** | 0.454 |
+| PCK2 | **IDH1** | 0.474 |
+| PCK2 | **IDH2** | 0.497 |
+| PCK2 | **FH** | 0.547 |
+| PCK2 | **ME1** | 0.553 |
+| PCK2 | **ME3** | 0.567 |
+| PCK2 | **ME2** | 0.609 |
+| PCK2 | **GOT1L1** | 0.831 |
+| PCK2 | **GOT1** | 0.859 |
+| PCK2 | **GOT2** | 0.898 |
+| PCK2 | **PCK1** | 0.932 |
+| PCK2 | **ACLY** | 0.957 |
+| PCK2 | **CS** | 0.958 |
+| PCK2 | **MDH2** | 0.964 |
+| PCK2 | **PC** | 0.986 |
+| GOT2 | **ME2** | 0.452 |
+| GOT2 | **ME3** | 0.469 |
+| GOT2 | **ME1** | 0.575 |
+| GOT2 | **PCK1** | 0.902 |
+| GOT2 | **ACLY** | 0.909 |
+| GOT2 | **SDHB** | 0.912 |
+| GOT2 | **PC** | 0.933 |
+| GOT2 | **CS** | 0.952 |
+| GOT2 | **IDH1** | 0.952 |
+| GOT2 | **IDH2** | 0.96 |
+| GOT2 | **GOT1L1** | 0.964 |
+| GOT2 | **FH** | 0.979 |
+| GOT2 | **GOT1** | 0.982 |
+| GOT2 | **MDH2** | 0.999 |
+| GOT1L1 | **ME1** | 0.47 |
+| GOT1L1 | **ME2** | 0.5 |
+| GOT1L1 | **ME3** | 0.522 |
+| GOT1L1 | **PCK1** | 0.82 |
+| GOT1L1 | **ACLY** | 0.839 |
+| GOT1L1 | **SDHB** | 0.873 |
+| GOT1L1 | **PC** | 0.879 |
+| GOT1L1 | **IDH1** | 0.883 |
+| GOT1L1 | **IDH2** | 0.885 |
+| GOT1L1 | **CS** | 0.9 |
+| GOT1L1 | **GOT1** | 0.938 |
+| GOT1L1 | **FH** | 0.958 |
+| GOT1L1 | **MDH2** | 0.978 |
+| PCK1 | **IDH1** | 0.439 |
+| PCK1 | **ME2** | 0.452 |
+| PCK1 | **IDH2** | 0.457 |
+| PCK1 | **FH** | 0.503 |
+| PCK1 | **ME3** | 0.506 |
+| PCK1 | **ME1** | 0.548 |
+| PCK1 | **GOT1** | 0.839 |
+| PCK1 | **CS** | 0.955 |
+| PCK1 | **MDH2** | 0.956 |
+| PCK1 | **ACLY** | 0.959 |
+| PCK1 | **PC** | 0.978 |
+| ME2 | **SDHB** | 0.502 |
+| ME2 | **GOT1** | 0.533 |
+| ME2 | **IDH1** | 0.538 |
+| ME2 | **IDH2** | 0.544 |
+| ME2 | **ACLY** | 0.612 |
+| ME2 | **ME3** | 0.906 |
+| ME2 | **ME1** | 0.906 |
+| ME2 | **CS** | 0.975 |
+| ME2 | **MDH2** | 0.977 |
+| ME2 | **PC** | 0.983 |
+| ME2 | **FH** | 0.989 |
+| MDH2 | **IDH1** | 0.97 |
+| MDH2 | **SDHB** | 0.971 |
+| MDH2 | **ME1** | 0.98 |
+| MDH2 | **ME3** | 0.981 |
+| MDH2 | **ACLY** | 0.981 |
+| MDH2 | **IDH2** | 0.985 |
+| MDH2 | **PC** | 0.986 |
+| MDH2 | **GOT1** | 0.99 |
+| MDH2 | **FH** | 0.998 |
+| MDH2 | **CS** | 0.999 |
+| IDH2 | **ME3** | 0.654 |
+| IDH2 | **ME1** | 0.678 |
+| IDH2 | **PC** | 0.769 |
+| IDH2 | **SDHB** | 0.885 |
+| IDH2 | **ACLY** | 0.9 |
+| IDH2 | **GOT1** | 0.916 |
+| IDH2 | **FH** | 0.934 |
+| IDH2 | **IDH1** | 0.961 |
+| IDH2 | **CS** | 0.994 |
+| CS | **GOT1** | 0.908 |
+| CS | **ME3** | 0.968 |
+| CS | **ME1** | 0.972 |
+| CS | **PC** | 0.987 |
+| CS | **IDH1** | 0.993 |
+| CS | **FH** | 0.993 |
+| CS | **SDHB** | 0.996 |
+| CS | **ACLY** | 0.998 |
+| FH | **PC** | 0.763 |
+| FH | **ACLY** | 0.81 |
+| FH | **IDH1** | 0.957 |
+| FH | **GOT1** | 0.978 |
+| FH | **ME3** | 0.986 |
+| FH | **ME1** | 0.989 |
+| FH | **SDHB** | 0.999 |
+| ME1 | **SDHB** | 0.486 |
+| ME1 | **GOT1** | 0.656 |
+| ME1 | **IDH1** | 0.752 |
+| ME1 | **ACLY** | 0.761 |
+| ME1 | **ME3** | 0.902 |
+| ME1 | **PC** | 0.997 |
+| GOT1 | **ME3** | 0.516 |
+| GOT1 | **ACLY** | 0.888 |
+| GOT1 | **SDHB** | 0.889 |
+| GOT1 | **IDH1** | 0.929 |
+| GOT1 | **PC** | 0.943 |
+| SDHB | **ME3** | 0.441 |
+| SDHB | **PC** | 0.526 |
+| SDHB | **IDH1** | 0.887 |
+| SDHB | **ACLY** | 0.953 |
+| IDH1 | **ME3** | 0.629 |
+| IDH1 | **PC** | 0.761 |
+| IDH1 | **ACLY** | 0.935 |
+| ME3 | **ACLY** | 0.682 |
+| ME3 | **PC** | 0.986 |
+| ACLY | **PC** | 0.974 |
+

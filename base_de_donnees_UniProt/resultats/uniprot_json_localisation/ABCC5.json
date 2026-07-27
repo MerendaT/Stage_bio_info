@@ -1,0 +1,824 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O15440",
+      "uniProtkbId": "MRP5_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "ABCC5"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9R1X5"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10840050"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10893247"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12435799"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12637526"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12695538"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15899835"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17229149"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "24836561"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25964343"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26515061"
+                }
+              ],
+              "value": "ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes physiological compounds, and xenobiotics from cells. Mediates ATP-dependent transport of endogenous metabolites such as cAMP and cGMP, folic acid and N-lactoyl-amino acids (in vitro) (PubMed:10893247, PubMed:12637526, PubMed:12695538, PubMed:15899835, PubMed:17229149, PubMed:25964343). Also acts as a general glutamate conjugate and analog transporter that can limit the brain levels of endogenous metabolites, drugs, and toxins (PubMed:26515061). Confers resistance to the antiviral agent PMEA (PubMed:12695538). Able to transport several anticancer drugs including methotrexate, and nucleotide analogs in vitro, however it does with low affinity, thus the exact role of ABCC5 in mediating resistance still needs to be elucidated (PubMed:10840050, PubMed:12435799, PubMed:12695538, PubMed:15899835). Acts as a heme transporter required for the translocation of cytosolic heme to the secretory pathway (PubMed:24836561). May play a role in energy metabolism by regulating the glucagon-like peptide 1 (GLP-1) secretion from enteroendocrine cells (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15501592"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "24836561"
+                  }
+                ],
+                "value": "In most cells, routes to the basolateral plasma membrane, but in the brain capillary endothelial cells that form the blood-brain barrier, resides in the apical membrane"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "24836561"
+                  }
+                ],
+                "value": "Basolateral cell membrane",
+                "id": "SL-0026"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "24836561"
+                  }
+                ],
+                "value": "Golgi apparatus lumen",
+                "id": "SL-0133"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "24836561"
+                  }
+                ],
+                "value": "Endosome membrane",
+                "id": "SL-0100"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9R1X5"
+                  }
+                ],
+                "value": "Cytoplasmic granule",
+                "id": "SL-0281"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15501592"
+                  }
+                ],
+                "value": "Apical cell membrane",
+                "id": "SL-0015"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0016324",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15501592"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016323",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:basolateral plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31791063"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010008",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endosome membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005796",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15297306"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18619525"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28112518"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140359",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ABC-type transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15345330"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008559",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ABC-type xenobiotic transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "12695538"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15899835"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9325169"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016887",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP hydrolysis activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042626",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATPase-coupled transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:efflux transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glutathione transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015232",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heme transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "24836561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015216",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:purine nucleotide transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022857",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042910",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:xenobiotic transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070730",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cAMP transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10893247"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1901264",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:carbohydrate derivative transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070731",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cGMP transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10893247"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140115",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:export across plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098838",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:folate transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15899835"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034775",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glutathione transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:heme transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "24836561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030213",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hyaluronan biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15345330"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015865",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:purine nucleotide transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055085",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0150104",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transport across blood-brain barrier"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "26590417"
+            },
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "30280653"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990961",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:xenobiotic detoxification by transmembrane export across the plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "25344911"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006805",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:xenobiotic metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006855",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:xenobiotic transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042908",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:xenobiotic transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10840050"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004A33C"
+      }
+    }
+  ]
+}

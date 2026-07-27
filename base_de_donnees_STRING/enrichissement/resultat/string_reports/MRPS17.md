@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRPS17
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRPS17
+Identifiant STRING officiel : `9606.ENSP00000285298`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPS10 | **MRPS26** | 0.992 |
+| MRPS10 | **MRPS17** | 0.993 |
+| MRPS10 | **MRPS33** | 0.995 |
+| MRPS10 | **MRPS22** | 0.997 |
+| MRPS10 | **MRPS25** | 0.998 |
+| MRPS10 | **MRPS27** | 0.998 |
+| MRPS10 | **MRPS18B** | 0.998 |
+| MRPS10 | **MRPS6** | 0.999 |
+| MRPS10 | **MRPS16** | 0.999 |
+| MRPS10 | **MRPS12** | 0.999 |
+| MRPS10 | **MRPS2** | 0.999 |
+| MRPS10 | **MRPS5** | 0.999 |
+| MRPS10 | **MRPS7** | 0.999 |
+| MRPS10 | **MRPS14** | 0.999 |
+| MRPS10 | **MRPS15** | 0.999 |
+| MRPS7 | **MRPS26** | 0.991 |
+| MRPS7 | **MRPS17** | 0.994 |
+| MRPS7 | **MRPS22** | 0.995 |
+| MRPS7 | **MRPS33** | 0.995 |
+| MRPS7 | **MRPS27** | 0.997 |
+| MRPS7 | **MRPS25** | 0.998 |
+| MRPS7 | **MRPS18B** | 0.998 |
+| MRPS7 | **MRPS6** | 0.999 |
+| MRPS7 | **MRPS12** | 0.999 |
+| MRPS7 | **MRPS16** | 0.999 |
+| MRPS7 | **MRPS5** | 0.999 |
+| MRPS7 | **MRPS2** | 0.999 |
+| MRPS7 | **MRPS14** | 0.999 |
+| MRPS7 | **MRPS15** | 0.999 |
+| MRPS25 | **MRPS33** | 0.991 |
+| MRPS25 | **MRPS18B** | 0.992 |
+| MRPS25 | **MRPS17** | 0.995 |
+| MRPS25 | **MRPS26** | 0.997 |
+| MRPS25 | **MRPS27** | 0.997 |
+| MRPS25 | **MRPS6** | 0.997 |
+| MRPS25 | **MRPS22** | 0.998 |
+| MRPS25 | **MRPS2** | 0.998 |
+| MRPS25 | **MRPS16** | 0.999 |
+| MRPS25 | **MRPS12** | 0.999 |
+| MRPS25 | **MRPS14** | 0.999 |
+| MRPS25 | **MRPS15** | 0.999 |
+| MRPS25 | **MRPS5** | 0.999 |
+| MRPS18B | **MRPS12** | 0.99 |
+| MRPS18B | **MRPS15** | 0.996 |
+| MRPS18B | **MRPS14** | 0.996 |
+| MRPS18B | **MRPS17** | 0.996 |
+| MRPS18B | **MRPS26** | 0.996 |
+| MRPS18B | **MRPS5** | 0.997 |
+| MRPS18B | **MRPS6** | 0.997 |
+| MRPS18B | **MRPS2** | 0.998 |
+| MRPS18B | **MRPS16** | 0.998 |
+| MRPS18B | **MRPS33** | 0.998 |
+| MRPS18B | **MRPS27** | 0.999 |
+| MRPS18B | **MRPS22** | 0.999 |
+| MRPS5 | **MRPS17** | 0.995 |
+| MRPS5 | **MRPS26** | 0.996 |
+| MRPS5 | **MRPS33** | 0.998 |
+| MRPS5 | **MRPS22** | 0.998 |
+| MRPS5 | **MRPS14** | 0.999 |
+| MRPS5 | **MRPS15** | 0.999 |
+| MRPS5 | **MRPS2** | 0.999 |
+| MRPS5 | **MRPS16** | 0.999 |
+| MRPS5 | **MRPS27** | 0.999 |
+| MRPS5 | **MRPS12** | 0.999 |
+| MRPS5 | **MRPS6** | 0.999 |
+| MRPS17 | **MRPS6** | 0.993 |
+| MRPS17 | **MRPS2** | 0.993 |
+| MRPS17 | **MRPS33** | 0.994 |
+| MRPS17 | **MRPS27** | 0.995 |
+| MRPS17 | **MRPS26** | 0.995 |
+| MRPS17 | **MRPS16** | 0.995 |
+| MRPS17 | **MRPS22** | 0.995 |
+| MRPS17 | **MRPS12** | 0.997 |
+| MRPS17 | **MRPS14** | 0.997 |
+| MRPS17 | **MRPS15** | 0.998 |
+| MRPS33 | **MRPS26** | 0.991 |
+| MRPS33 | **MRPS12** | 0.992 |
+| MRPS33 | **MRPS16** | 0.993 |
+| MRPS33 | **MRPS22** | 0.993 |
+| MRPS33 | **MRPS6** | 0.995 |
+| MRPS33 | **MRPS27** | 0.996 |
+| MRPS33 | **MRPS15** | 0.997 |
+| MRPS33 | **MRPS14** | 0.997 |
+| MRPS33 | **MRPS2** | 0.997 |
+| MRPS2 | **MRPS26** | 0.991 |
+| MRPS2 | **MRPS27** | 0.998 |
+| MRPS2 | **MRPS12** | 0.999 |
+| MRPS2 | **MRPS16** | 0.999 |
+| MRPS2 | **MRPS22** | 0.999 |
+| MRPS2 | **MRPS6** | 0.999 |
+| MRPS2 | **MRPS14** | 0.999 |
+| MRPS2 | **MRPS15** | 0.999 |
+| MRPS16 | **MRPS26** | 0.997 |
+| MRPS16 | **MRPS27** | 0.998 |
+| MRPS16 | **MRPS15** | 0.999 |
+| MRPS16 | **MRPS14** | 0.999 |
+| MRPS16 | **MRPS12** | 0.999 |
+| MRPS16 | **MRPS22** | 0.999 |
+| MRPS16 | **MRPS6** | 0.999 |
+| MRPS15 | **MRPS26** | 0.997 |
+| MRPS15 | **MRPS22** | 0.998 |
+| MRPS15 | **MRPS6** | 0.999 |
+| MRPS15 | **MRPS27** | 0.999 |
+| MRPS15 | **MRPS12** | 0.999 |
+| MRPS15 | **MRPS14** | 0.999 |
+| MRPS26 | **MRPS12** | 0.988 |
+| MRPS26 | **MRPS14** | 0.989 |
+| MRPS26 | **MRPS6** | 0.994 |
+| MRPS26 | **MRPS27** | 0.995 |
+| MRPS26 | **MRPS22** | 0.998 |
+| MRPS6 | **MRPS22** | 0.994 |
+| MRPS6 | **MRPS27** | 0.995 |
+| MRPS6 | **MRPS14** | 0.999 |
+| MRPS6 | **MRPS12** | 0.999 |
+| MRPS12 | **MRPS27** | 0.989 |
+| MRPS12 | **MRPS22** | 0.992 |
+| MRPS12 | **MRPS14** | 0.999 |
+| MRPS22 | **MRPS14** | 0.994 |
+| MRPS22 | **MRPS27** | 0.999 |
+| MRPS14 | **MRPS27** | 0.998 |
+

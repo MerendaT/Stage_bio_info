@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SUZ12
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SUZ12
+Identifiant STRING officiel : `9606.ENSP00000316578`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CBX7 | **MTF2** | 0.63 |
+| CBX7 | **PHF19** | 0.641 |
+| CBX7 | **YY1** | 0.704 |
+| CBX7 | **JARID2** | 0.79 |
+| CBX7 | **ASXL1** | 0.914 |
+| CBX7 | **RBBP4** | 0.934 |
+| CBX7 | **RBBP7** | 0.935 |
+| CBX7 | **AEBP2** | 0.938 |
+| CBX7 | **EZH1** | 0.952 |
+| CBX7 | **EED** | 0.967 |
+| CBX7 | **HDAC2** | 0.994 |
+| CBX7 | **SUZ12** | 0.995 |
+| CBX7 | **EZH2** | 0.996 |
+| CBX7 | **RNF2** | 0.999 |
+| CBX7 | **BMI1** | 0.999 |
+| YY1 | **PHF19** | 0.493 |
+| YY1 | **MTF2** | 0.546 |
+| YY1 | **JARID2** | 0.627 |
+| YY1 | **AEBP2** | 0.733 |
+| YY1 | **RBBP7** | 0.743 |
+| YY1 | **EZH1** | 0.76 |
+| YY1 | **RBBP4** | 0.813 |
+| YY1 | **ASXL1** | 0.833 |
+| YY1 | **RNF2** | 0.891 |
+| YY1 | **EED** | 0.892 |
+| YY1 | **BMI1** | 0.96 |
+| YY1 | **SUZ12** | 0.993 |
+| YY1 | **EZH2** | 0.998 |
+| YY1 | **HDAC2** | 0.999 |
+| SUZ12 | **ASXL1** | 0.995 |
+| SUZ12 | **HDAC2** | 0.995 |
+| SUZ12 | **BMI1** | 0.997 |
+| SUZ12 | **PHF19** | 0.998 |
+| SUZ12 | **EED** | 0.999 |
+| SUZ12 | **RNF2** | 0.999 |
+| SUZ12 | **RBBP7** | 0.999 |
+| SUZ12 | **RBBP4** | 0.999 |
+| SUZ12 | **EZH2** | 0.999 |
+| SUZ12 | **MTF2** | 0.999 |
+| SUZ12 | **AEBP2** | 0.999 |
+| SUZ12 | **EZH1** | 0.999 |
+| SUZ12 | **JARID2** | 0.999 |
+| EZH2 | **PHF19** | 0.989 |
+| EZH2 | **RNF2** | 0.998 |
+| EZH2 | **MTF2** | 0.998 |
+| EZH2 | **ASXL1** | 0.998 |
+| EZH2 | **RBBP7** | 0.999 |
+| EZH2 | **RBBP4** | 0.999 |
+| EZH2 | **EED** | 0.999 |
+| EZH2 | **BMI1** | 0.999 |
+| EZH2 | **HDAC2** | 0.999 |
+| EZH2 | **AEBP2** | 0.999 |
+| EZH2 | **JARID2** | 0.999 |
+| EZH2 | **EZH1** | 0.999 |
+| EED | **ASXL1** | 0.939 |
+| EED | **MTF2** | 0.961 |
+| EED | **PHF19** | 0.972 |
+| EED | **HDAC2** | 0.988 |
+| EED | **BMI1** | 0.989 |
+| EED | **RNF2** | 0.997 |
+| EED | **EZH1** | 0.999 |
+| EED | **JARID2** | 0.999 |
+| EED | **AEBP2** | 0.999 |
+| EED | **RBBP4** | 0.999 |
+| EED | **RBBP7** | 0.999 |
+| JARID2 | **ASXL1** | 0.705 |
+| JARID2 | **HDAC2** | 0.713 |
+| JARID2 | **RNF2** | 0.748 |
+| JARID2 | **BMI1** | 0.775 |
+| JARID2 | **RBBP7** | 0.995 |
+| JARID2 | **PHF19** | 0.995 |
+| JARID2 | **MTF2** | 0.998 |
+| JARID2 | **EZH1** | 0.998 |
+| JARID2 | **AEBP2** | 0.999 |
+| JARID2 | **RBBP4** | 0.999 |
+| RNF2 | **PHF19** | 0.602 |
+| RNF2 | **MTF2** | 0.678 |
+| RNF2 | **HDAC2** | 0.941 |
+| RNF2 | **ASXL1** | 0.945 |
+| RNF2 | **AEBP2** | 0.951 |
+| RNF2 | **RBBP7** | 0.954 |
+| RNF2 | **RBBP4** | 0.955 |
+| RNF2 | **EZH1** | 0.974 |
+| RNF2 | **BMI1** | 0.999 |
+| MTF2 | **ASXL1** | 0.44 |
+| MTF2 | **BMI1** | 0.619 |
+| MTF2 | **HDAC2** | 0.642 |
+| MTF2 | **EZH1** | 0.965 |
+| MTF2 | **AEBP2** | 0.969 |
+| MTF2 | **RBBP4** | 0.971 |
+| MTF2 | **PHF19** | 0.975 |
+| MTF2 | **RBBP7** | 0.978 |
+| RBBP4 | **BMI1** | 0.963 |
+| RBBP4 | **ASXL1** | 0.973 |
+| RBBP4 | **PHF19** | 0.991 |
+| RBBP4 | **RBBP7** | 0.999 |
+| RBBP4 | **EZH1** | 0.999 |
+| RBBP4 | **HDAC2** | 0.999 |
+| RBBP4 | **AEBP2** | 0.999 |
+| ASXL1 | **PHF19** | 0.408 |
+| ASXL1 | **RBBP7** | 0.911 |
+| ASXL1 | **HDAC2** | 0.917 |
+| ASXL1 | **AEBP2** | 0.917 |
+| ASXL1 | **EZH1** | 0.924 |
+| ASXL1 | **BMI1** | 0.944 |
+| BMI1 | **PHF19** | 0.57 |
+| BMI1 | **AEBP2** | 0.928 |
+| BMI1 | **RBBP7** | 0.964 |
+| BMI1 | **EZH1** | 0.969 |
+| BMI1 | **HDAC2** | 0.977 |
+| RBBP7 | **PHF19** | 0.94 |
+| RBBP7 | **HDAC2** | 0.999 |
+| RBBP7 | **AEBP2** | 0.999 |
+| RBBP7 | **EZH1** | 0.999 |
+| AEBP2 | **HDAC2** | 0.921 |
+| AEBP2 | **PHF19** | 0.952 |
+| AEBP2 | **EZH1** | 0.999 |
+| EZH1 | **HDAC2** | 0.943 |
+| EZH1 | **PHF19** | 0.971 |
+| HDAC2 | **PHF19** | 0.496 |
+

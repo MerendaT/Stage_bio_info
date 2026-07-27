@@ -1,0 +1,371 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P01215",
+      "uniProtkbId": "GLHA_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CGA"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "24692546"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2494176"
+                }
+              ],
+              "value": "Shared alpha chain of the active heterodimeric glycoprotein hormones thyrotropin/thyroid stimulating hormone/TSH, lutropin/luteinizing hormone/LH, follitropin/follicle stimulating hormone/FSH and choriogonadotropin/CG. These hormones bind specific receptors on target cells that in turn activate downstream signaling pathways"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "24692546"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "2494176"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24692546"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2494176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016914",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:follicle-stimulating hormone complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24692546"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2494176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005796",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016913",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:follicle-stimulating hormone activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24692546"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2494176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hormone activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:AgBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "11207219"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042699",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:follicle-stimulating hormone signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "11222739"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007186",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:G protein-coupled receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24692546"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009755",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hormone-mediated signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "25280580"
+            },
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "29935915"
+            },
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "7922031"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030335",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "20613903"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "20613903"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of steroid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2494176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "20613903"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010469",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of signaling receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24692546"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003FF94"
+      }
+    }
+  ]
+}

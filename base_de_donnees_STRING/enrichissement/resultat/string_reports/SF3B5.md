@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SF3B5
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SF3B5
+Identifiant STRING officiel : `9606.ENSP00000356541`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SF3A1 | **SF3B6** | 0.984 |
+| SF3A1 | **SNRPF** | 0.997 |
+| SF3A1 | **PHF5A** | 0.998 |
+| SF3A1 | **SNRPD2** | 0.998 |
+| SF3A1 | **SF3B3** | 0.999 |
+| SF3A1 | **SNRNP200** | 0.999 |
+| SF3A1 | **SF3B2** | 0.999 |
+| SF3A1 | **SART1** | 0.999 |
+| SF3A1 | **SNRPG** | 0.999 |
+| SF3A1 | **SF3B5** | 0.999 |
+| SF3A1 | **SF3A2** | 0.999 |
+| SF3A1 | **SNRPA1** | 0.999 |
+| SF3A1 | **SF3A3** | 0.999 |
+| SF3A1 | **SF3B1** | 0.999 |
+| SF3A1 | **SF3B4** | 0.999 |
+| PHF5A | **SNRPD2** | 0.997 |
+| PHF5A | **SNRPA1** | 0.998 |
+| PHF5A | **SNRPF** | 0.998 |
+| PHF5A | **SF3B1** | 0.999 |
+| PHF5A | **SF3A3** | 0.999 |
+| PHF5A | **SF3B6** | 0.999 |
+| PHF5A | **SF3B4** | 0.999 |
+| PHF5A | **SF3B5** | 0.999 |
+| PHF5A | **SNRPG** | 0.999 |
+| PHF5A | **SF3A2** | 0.999 |
+| PHF5A | **SART1** | 0.999 |
+| PHF5A | **SNRNP200** | 0.999 |
+| PHF5A | **SF3B3** | 0.999 |
+| PHF5A | **SF3B2** | 0.999 |
+| SF3A2 | **SNRPF** | 0.998 |
+| SF3A2 | **SF3B3** | 0.999 |
+| SF3A2 | **SNRNP200** | 0.999 |
+| SF3A2 | **SF3B2** | 0.999 |
+| SF3A2 | **SART1** | 0.999 |
+| SF3A2 | **SF3B5** | 0.999 |
+| SF3A2 | **SNRPG** | 0.999 |
+| SF3A2 | **SNRPA1** | 0.999 |
+| SF3A2 | **SF3B6** | 0.999 |
+| SF3A2 | **SF3A3** | 0.999 |
+| SF3A2 | **SF3B1** | 0.999 |
+| SF3A2 | **SF3B4** | 0.999 |
+| SF3A2 | **SNRPD2** | 0.999 |
+| SF3B6 | **SART1** | 0.855 |
+| SF3B6 | **SNRNP200** | 0.874 |
+| SF3B6 | **SNRPA1** | 0.989 |
+| SF3B6 | **SNRPF** | 0.995 |
+| SF3B6 | **SNRPD2** | 0.996 |
+| SF3B6 | **SF3A3** | 0.996 |
+| SF3B6 | **SNRPG** | 0.997 |
+| SF3B6 | **SF3B4** | 0.999 |
+| SF3B6 | **SF3B1** | 0.999 |
+| SF3B6 | **SF3B5** | 0.999 |
+| SF3B6 | **SF3B2** | 0.999 |
+| SF3B6 | **SF3B3** | 0.999 |
+| SNRPA1 | **SF3B2** | 0.999 |
+| SNRPA1 | **SF3B3** | 0.999 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **SNRNP200** | 0.999 |
+| SNRPA1 | **SART1** | 0.999 |
+| SNRPA1 | **SF3B5** | 0.999 |
+| SNRPA1 | **SNRPG** | 0.999 |
+| SNRPA1 | **SNRPD2** | 0.999 |
+| SNRPA1 | **SF3B4** | 0.999 |
+| SNRPA1 | **SF3B1** | 0.999 |
+| SNRPA1 | **SF3A3** | 0.999 |
+| SNRPF | **SF3B4** | 0.996 |
+| SNRPF | **SART1** | 0.999 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **SF3B3** | 0.999 |
+| SNRPF | **SF3B2** | 0.999 |
+| SNRPF | **SF3B1** | 0.999 |
+| SNRPF | **SF3A3** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SF3B5** | 0.999 |
+| SNRPF | **SNRPG** | 0.999 |
+| SF3B4 | **SNRPG** | 0.995 |
+| SF3B4 | **SNRPD2** | 0.996 |
+| SF3B4 | **SNRNP200** | 0.999 |
+| SF3B4 | **SF3B3** | 0.999 |
+| SF3B4 | **SF3B2** | 0.999 |
+| SF3B4 | **SART1** | 0.999 |
+| SF3B4 | **SF3B5** | 0.999 |
+| SF3B4 | **SF3B1** | 0.999 |
+| SF3B4 | **SF3A3** | 0.999 |
+| SF3B3 | **SNRPD2** | 0.998 |
+| SF3B3 | **SF3B1** | 0.999 |
+| SF3B3 | **SF3A3** | 0.999 |
+| SF3B3 | **SF3B5** | 0.999 |
+| SF3B3 | **SNRPG** | 0.999 |
+| SF3B3 | **SART1** | 0.999 |
+| SF3B3 | **SNRNP200** | 0.999 |
+| SF3B3 | **SF3B2** | 0.999 |
+| SART1 | **SNRPD2** | 0.999 |
+| SART1 | **SF3A3** | 0.999 |
+| SART1 | **SF3B1** | 0.999 |
+| SART1 | **SF3B5** | 0.999 |
+| SART1 | **SNRPG** | 0.999 |
+| SART1 | **SF3B2** | 0.999 |
+| SART1 | **SNRNP200** | 0.999 |
+| SNRNP200 | **SF3B5** | 0.999 |
+| SNRNP200 | **SNRPG** | 0.999 |
+| SNRNP200 | **SF3A3** | 0.999 |
+| SNRNP200 | **SF3B1** | 0.999 |
+| SNRNP200 | **SNRPD2** | 0.999 |
+| SNRNP200 | **SF3B2** | 0.999 |
+| SF3B2 | **SNRPG** | 0.999 |
+| SF3B2 | **SF3B5** | 0.999 |
+| SF3B2 | **SNRPD2** | 0.999 |
+| SF3B2 | **SF3A3** | 0.999 |
+| SF3B2 | **SF3B1** | 0.999 |
+| SF3B1 | **SNRPD2** | 0.998 |
+| SF3B1 | **SF3B5** | 0.999 |
+| SF3B1 | **SNRPG** | 0.999 |
+| SF3B1 | **SF3A3** | 0.999 |
+| SNRPD2 | **SNRPG** | 0.999 |
+| SNRPD2 | **SF3B5** | 0.999 |
+| SNRPD2 | **SF3A3** | 0.999 |
+| SF3B5 | **SF3A3** | 0.999 |
+| SF3B5 | **SNRPG** | 0.999 |
+| SF3A3 | **SNRPG** | 0.999 |
+

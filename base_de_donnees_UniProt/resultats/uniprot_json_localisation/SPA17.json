@@ -1,0 +1,285 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q15506",
+      "uniProtkbId": "SP17_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SPA17"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "Sperm surface zona pellucida binding protein. Helps to bind spermatozoa to the zona pellucida with high affinity. Might function in binding zona pellucida and carbohydrates (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005929",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cilium"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18421703"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18421703"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:external side of plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:GOC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031514",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:motile cilium"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18421703"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035686",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:sperm fibrous sheath"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19604394"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:sperm principal piece"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15257753"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005516",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calmodulin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007339",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:binding of sperm to zona pellucida"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:epithelial cilium movement involved in extracellular fluid movement"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "18421703"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007338",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:single fertilization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8688458"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007283",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:spermatogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8688458"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000001617"
+      }
+    }
+  ]
+}

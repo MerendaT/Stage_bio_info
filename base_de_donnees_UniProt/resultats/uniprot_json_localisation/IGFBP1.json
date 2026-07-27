@@ -1,0 +1,300 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P08833",
+      "uniProtkbId": "IBP1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "IGFBP1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P21743"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11397844"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15972819"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "3419931"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7504269"
+                }
+              ],
+              "value": "Multifunctional protein that plays a critical role in regulating the availability of IGFs such as IGF1 and IGF2 to their receptors and thereby regulates IGF-mediated cellular processes including cell migration, proliferation, differentiation or apoptosis in a cell-type specific manner (PubMed:11397844, PubMed:15972819). Also plays a positive role in cell migration by interacting with integrin ITGA5:ITGB1 through its RGD motif (PubMed:7504269). Mechanistically, binding to integrins leads to activation of focal adhesion kinase/PTK2 and stimulation of the mitogen-activated protein kinase (MAPK) pathway (PubMed:11397844). Regulates cardiomyocyte apoptosis by suppressing HIF-1alpha/HIF1A ubiquitination and subsequent degradation (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "38246959"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005520",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:insulin-like growth factor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "2454104"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031994",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:insulin-like growth factor I binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21550830"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031995",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:insulin-like growth factor II binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21550830"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "24431302"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008286",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:insulin receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090090",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of canonical Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "24431302"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030307",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043567",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of insulin-like growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "2454104"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042246",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:tissue regeneration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012D10E"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TMEM186
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TMEM186
+Identifiant STRING officiel : `9606.ENSP00000331640`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NDUFAF7 | **MT-ND2** | 0.579 |
+| NDUFAF7 | **MT-ND3** | 0.588 |
+| NDUFAF7 | **COA1** | 0.65 |
+| NDUFAF7 | **TMEM186** | 0.714 |
+| NDUFAF7 | **TIMMDC1** | 0.719 |
+| NDUFAF7 | **NDUFAF3** | 0.732 |
+| NDUFAF7 | **NDUFAF4** | 0.74 |
+| NDUFAF7 | **ACAD9** | 0.746 |
+| NDUFAF7 | **ECSIT** | 0.76 |
+| NDUFAF7 | **NDUFAF1** | 0.799 |
+| NDUFAF7 | **TMEM126B** | 0.82 |
+| NDUFAF7 | **NDUFAF6** | 0.841 |
+| NDUFAF7 | **NDUFAF5** | 0.92 |
+| NDUFAF1 | **DMAC2** | 0.577 |
+| NDUFAF1 | **TMEM70** | 0.65 |
+| NDUFAF1 | **COA1** | 0.737 |
+| NDUFAF1 | **NDUFAF5** | 0.905 |
+| NDUFAF1 | **TMEM186** | 0.934 |
+| NDUFAF1 | **NDUFAF6** | 0.958 |
+| NDUFAF1 | **NDUFAF4** | 0.988 |
+| NDUFAF1 | **MT-ND3** | 0.995 |
+| NDUFAF1 | **MT-ND2** | 0.997 |
+| NDUFAF1 | **TMEM126B** | 0.999 |
+| NDUFAF1 | **ACAD9** | 0.999 |
+| NDUFAF1 | **ECSIT** | 0.999 |
+| NDUFAF1 | **NDUFAF3** | 0.999 |
+| NDUFAF1 | **TIMMDC1** | 0.999 |
+| ECSIT | **DMAC2** | 0.546 |
+| ECSIT | **MT-ND3** | 0.63 |
+| ECSIT | **COA1** | 0.764 |
+| ECSIT | **NDUFAF6** | 0.767 |
+| ECSIT | **NDUFAF5** | 0.775 |
+| ECSIT | **MT-ND2** | 0.794 |
+| ECSIT | **NDUFAF4** | 0.948 |
+| ECSIT | **TMEM186** | 0.961 |
+| ECSIT | **TMEM70** | 0.996 |
+| ECSIT | **NDUFAF3** | 0.998 |
+| ECSIT | **TMEM126B** | 0.999 |
+| ECSIT | **ACAD9** | 0.999 |
+| ECSIT | **TIMMDC1** | 0.999 |
+| TMEM70 | **NDUFAF5** | 0.434 |
+| TMEM70 | **NDUFAF6** | 0.544 |
+| TMEM70 | **ACAD9** | 0.605 |
+| TMEM70 | **TMEM126B** | 0.619 |
+| TMEM70 | **TIMMDC1** | 0.631 |
+| TMEM70 | **NDUFAF4** | 0.643 |
+| TMEM70 | **NDUFAF3** | 0.644 |
+| TMEM70 | **TMEM186** | 0.692 |
+| TMEM70 | **DMAC2** | 0.795 |
+| ACAD9 | **DMAC2** | 0.461 |
+| ACAD9 | **MT-ND3** | 0.682 |
+| ACAD9 | **MT-ND2** | 0.811 |
+| ACAD9 | **NDUFAF6** | 0.814 |
+| ACAD9 | **COA1** | 0.864 |
+| ACAD9 | **NDUFAF5** | 0.867 |
+| ACAD9 | **TMEM186** | 0.885 |
+| ACAD9 | **NDUFAF4** | 0.935 |
+| ACAD9 | **NDUFAF3** | 0.998 |
+| ACAD9 | **TMEM126B** | 0.999 |
+| ACAD9 | **TIMMDC1** | 0.999 |
+| NDUFAF3 | **DMAC2** | 0.41 |
+| NDUFAF3 | **COA1** | 0.577 |
+| NDUFAF3 | **TMEM186** | 0.741 |
+| NDUFAF3 | **NDUFAF6** | 0.905 |
+| NDUFAF3 | **TMEM126B** | 0.906 |
+| NDUFAF3 | **MT-ND3** | 0.915 |
+| NDUFAF3 | **MT-ND2** | 0.928 |
+| NDUFAF3 | **TIMMDC1** | 0.999 |
+| NDUFAF3 | **NDUFAF4** | 0.999 |
+| NDUFAF3 | **NDUFAF5** | 0.999 |
+| TMEM186 | **NDUFAF5** | 0.684 |
+| TMEM186 | **MT-ND2** | 0.686 |
+| TMEM186 | **DMAC2** | 0.729 |
+| TMEM186 | **NDUFAF4** | 0.746 |
+| TMEM186 | **NDUFAF6** | 0.757 |
+| TMEM186 | **COA1** | 0.794 |
+| TMEM186 | **TIMMDC1** | 0.83 |
+| TMEM186 | **MT-ND3** | 0.934 |
+| TMEM186 | **TMEM126B** | 0.949 |
+| TMEM126B | **DMAC2** | 0.533 |
+| TMEM126B | **COA1** | 0.688 |
+| TMEM126B | **MT-ND3** | 0.784 |
+| TMEM126B | **MT-ND2** | 0.82 |
+| TMEM126B | **NDUFAF5** | 0.831 |
+| TMEM126B | **NDUFAF6** | 0.845 |
+| TMEM126B | **NDUFAF4** | 0.919 |
+| TMEM126B | **TIMMDC1** | 0.999 |
+| MT-ND2 | **NDUFAF6** | 0.767 |
+| MT-ND2 | **NDUFAF5** | 0.811 |
+| MT-ND2 | **TIMMDC1** | 0.877 |
+| MT-ND2 | **COA1** | 0.92 |
+| MT-ND2 | **NDUFAF4** | 0.927 |
+| MT-ND2 | **MT-ND3** | 0.999 |
+| MT-ND3 | **COA1** | 0.564 |
+| MT-ND3 | **TIMMDC1** | 0.606 |
+| MT-ND3 | **NDUFAF6** | 0.779 |
+| MT-ND3 | **NDUFAF5** | 0.827 |
+| MT-ND3 | **NDUFAF4** | 0.924 |
+| NDUFAF4 | **DMAC2** | 0.526 |
+| NDUFAF4 | **COA1** | 0.649 |
+| NDUFAF4 | **NDUFAF6** | 0.926 |
+| NDUFAF4 | **NDUFAF5** | 0.953 |
+| NDUFAF4 | **TIMMDC1** | 0.999 |
+| NDUFAF5 | **COA1** | 0.778 |
+| NDUFAF5 | **TIMMDC1** | 0.82 |
+| NDUFAF5 | **NDUFAF6** | 0.988 |
+| COA1 | **NDUFAF6** | 0.532 |
+| COA1 | **TIMMDC1** | 0.615 |
+| NDUFAF6 | **DMAC2** | 0.464 |
+| NDUFAF6 | **TIMMDC1** | 0.755 |
+| DMAC2 | **TIMMDC1** | 0.55 |
+

@@ -1,0 +1,252 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P37268",
+      "uniProtkbId": "FDFT_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "FDFT1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10896663"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "24531458"
+                }
+              ],
+              "value": "Catalyzes the condensation of 2 farnesyl pyrophosphate (FPP) moieties to form squalene. Proceeds in two distinct steps. In the first half-reaction, two molecules of FPP react to form the stable presqualene diphosphate intermediate (PSQPP), with concomitant release of a proton and a molecule of inorganic diphosphate. In the second half-reaction, PSQPP undergoes heterolysis, isomerization, and reduction with NADPH or NADH to form squalene. It is the first committed enzyme of the sterol biosynthesis pathway"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q02769"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0098554",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasmic side of endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8474436"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051996",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:squalene synthase [NAD(P)H] activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006695",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cholesterol biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033489",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cholesterol biosynthetic process via desmosterol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033490",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cholesterol biosynthetic process via lathosterol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045338",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:farnesyl diphosphate metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006694",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:steroid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8474436"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036197",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:zymosterol biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012A5D5"
+      }
+    }
+  ]
+}

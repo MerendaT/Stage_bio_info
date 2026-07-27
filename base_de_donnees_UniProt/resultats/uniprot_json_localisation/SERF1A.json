@@ -1,0 +1,225 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O75920",
+      "uniProtkbId": "SERF1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SERF1A"
+          }
+        },
+        {
+          "geneName": {
+            "value": "SERF1B"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20723760"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22854022"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31034892"
+                }
+              ],
+              "value": "Positive regulator of amyloid protein aggregation and proteotoxicity (PubMed:20723760, PubMed:22854022, PubMed:31034892). Induces conformational changes in amyloid proteins, such as APP, HTT, and SNCA, driving them into compact formations preceding the formation of aggregates (PubMed:20723760, PubMed:22854022, PubMed:31034892)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31034892"
+                  }
+                ],
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31034892"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31034892"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31034892"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032991",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:protein-containing complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31034892"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990000",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:amyloid fibril formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22854022"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31034892"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007399",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:nervous system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9731538"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031648",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein destabilization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20723760"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22854022"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "31034892"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000135807"
+      }
+    }
+  ]
+}

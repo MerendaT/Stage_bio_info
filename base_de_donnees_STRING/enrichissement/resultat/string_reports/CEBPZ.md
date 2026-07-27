@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CEBPZ
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CEBPZ
+Identifiant STRING officiel : `9606.ENSP00000234170`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBM28 | **UTP20** | 0.824 |
+| RBM28 | **MPHOSPH10** | 0.925 |
+| RBM28 | **DDX56** | 0.931 |
+| RBM28 | **PES1** | 0.955 |
+| RBM28 | **DDX18** | 0.962 |
+| RBM28 | **RPF2** | 0.969 |
+| RBM28 | **EBNA1BP2** | 0.972 |
+| RBM28 | **PUM3** | 0.972 |
+| RBM28 | **NOC2L** | 0.973 |
+| RBM28 | **GTPBP4** | 0.975 |
+| RBM28 | **RBM34** | 0.975 |
+| RBM28 | **PDCD11** | 0.976 |
+| RBM28 | **RRP12** | 0.977 |
+| RBM28 | **CEBPZ** | 0.984 |
+| RBM28 | **NOP2** | 0.99 |
+| CEBPZ | **DDX18** | 0.958 |
+| CEBPZ | **RBM34** | 0.959 |
+| CEBPZ | **NOP2** | 0.963 |
+| CEBPZ | **UTP20** | 0.968 |
+| CEBPZ | **EBNA1BP2** | 0.968 |
+| CEBPZ | **PES1** | 0.968 |
+| CEBPZ | **RRP12** | 0.972 |
+| CEBPZ | **PUM3** | 0.972 |
+| CEBPZ | **RPF2** | 0.975 |
+| CEBPZ | **MPHOSPH10** | 0.977 |
+| CEBPZ | **DDX56** | 0.979 |
+| CEBPZ | **GTPBP4** | 0.983 |
+| CEBPZ | **NOC2L** | 0.999 |
+| CEBPZ | **PDCD11** | 0.999 |
+| MPHOSPH10 | **RBM34** | 0.685 |
+| MPHOSPH10 | **RRP12** | 0.74 |
+| MPHOSPH10 | **NOP2** | 0.766 |
+| MPHOSPH10 | **RPF2** | 0.806 |
+| MPHOSPH10 | **DDX56** | 0.849 |
+| MPHOSPH10 | **PUM3** | 0.861 |
+| MPHOSPH10 | **PES1** | 0.889 |
+| MPHOSPH10 | **NOC2L** | 0.922 |
+| MPHOSPH10 | **EBNA1BP2** | 0.932 |
+| MPHOSPH10 | **GTPBP4** | 0.933 |
+| MPHOSPH10 | **DDX18** | 0.988 |
+| MPHOSPH10 | **PDCD11** | 0.997 |
+| MPHOSPH10 | **UTP20** | 0.997 |
+| DDX56 | **UTP20** | 0.486 |
+| DDX56 | **RRP12** | 0.742 |
+| DDX56 | **PDCD11** | 0.853 |
+| DDX56 | **PUM3** | 0.929 |
+| DDX56 | **NOP2** | 0.937 |
+| DDX56 | **RBM34** | 0.947 |
+| DDX56 | **DDX18** | 0.95 |
+| DDX56 | **PES1** | 0.97 |
+| DDX56 | **EBNA1BP2** | 0.971 |
+| DDX56 | **NOC2L** | 0.971 |
+| DDX56 | **GTPBP4** | 0.978 |
+| DDX56 | **RPF2** | 0.987 |
+| UTP20 | **NOP2** | 0.633 |
+| UTP20 | **RPF2** | 0.703 |
+| UTP20 | **DDX18** | 0.749 |
+| UTP20 | **PUM3** | 0.812 |
+| UTP20 | **GTPBP4** | 0.824 |
+| UTP20 | **PES1** | 0.827 |
+| UTP20 | **NOC2L** | 0.929 |
+| UTP20 | **RRP12** | 0.964 |
+| UTP20 | **PDCD11** | 0.999 |
+| DDX18 | **RBM34** | 0.861 |
+| DDX18 | **RRP12** | 0.901 |
+| DDX18 | **PDCD11** | 0.929 |
+| DDX18 | **PUM3** | 0.977 |
+| DDX18 | **NOP2** | 0.983 |
+| DDX18 | **EBNA1BP2** | 0.99 |
+| DDX18 | **RPF2** | 0.992 |
+| DDX18 | **NOC2L** | 0.996 |
+| DDX18 | **PES1** | 0.997 |
+| DDX18 | **GTPBP4** | 0.997 |
+| NOC2L | **RBM34** | 0.9 |
+| NOC2L | **PUM3** | 0.958 |
+| NOC2L | **RRP12** | 0.982 |
+| NOC2L | **PDCD11** | 0.99 |
+| NOC2L | **NOP2** | 0.993 |
+| NOC2L | **RPF2** | 0.996 |
+| NOC2L | **GTPBP4** | 0.997 |
+| NOC2L | **EBNA1BP2** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| PES1 | **RBM34** | 0.874 |
+| PES1 | **PUM3** | 0.935 |
+| PES1 | **RRP12** | 0.935 |
+| PES1 | **PDCD11** | 0.969 |
+| PES1 | **NOP2** | 0.983 |
+| PES1 | **RPF2** | 0.995 |
+| PES1 | **GTPBP4** | 0.999 |
+| PES1 | **EBNA1BP2** | 0.999 |
+| GTPBP4 | **RBM34** | 0.896 |
+| GTPBP4 | **PDCD11** | 0.928 |
+| GTPBP4 | **RRP12** | 0.981 |
+| GTPBP4 | **PUM3** | 0.99 |
+| GTPBP4 | **NOP2** | 0.993 |
+| GTPBP4 | **EBNA1BP2** | 0.997 |
+| GTPBP4 | **RPF2** | 0.999 |
+| PDCD11 | **RBM34** | 0.709 |
+| PDCD11 | **EBNA1BP2** | 0.922 |
+| PDCD11 | **NOP2** | 0.927 |
+| PDCD11 | **PUM3** | 0.956 |
+| PDCD11 | **RPF2** | 0.976 |
+| PDCD11 | **RRP12** | 0.984 |
+| NOP2 | **RRP12** | 0.844 |
+| NOP2 | **RBM34** | 0.845 |
+| NOP2 | **PUM3** | 0.973 |
+| NOP2 | **RPF2** | 0.989 |
+| NOP2 | **EBNA1BP2** | 0.997 |
+| PUM3 | **RRP12** | 0.837 |
+| PUM3 | **RBM34** | 0.873 |
+| PUM3 | **RPF2** | 0.991 |
+| PUM3 | **EBNA1BP2** | 0.995 |
+| RBM34 | **EBNA1BP2** | 0.929 |
+| RBM34 | **RPF2** | 0.968 |
+| RPF2 | **RRP12** | 0.904 |
+| RPF2 | **EBNA1BP2** | 0.999 |
+| EBNA1BP2 | **RRP12** | 0.69 |
+

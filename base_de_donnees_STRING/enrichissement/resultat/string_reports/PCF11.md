@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PCF11
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PCF11
+Identifiant STRING officiel : `9606.ENSP00000298281`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CPSF3 | **POLR2A** | 0.746 |
+| CPSF3 | **SCAF8** | 0.778 |
+| CPSF3 | **CLP1** | 0.85 |
+| CPSF3 | **CSTF2T** | 0.978 |
+| CPSF3 | **SSU72** | 0.985 |
+| CPSF3 | **CPSF6** | 0.988 |
+| CPSF3 | **CSTF3** | 0.993 |
+| CPSF3 | **PCF11** | 0.998 |
+| CPSF3 | **CPSF2** | 0.999 |
+| CPSF3 | **WDR33** | 0.999 |
+| CPSF3 | **CPSF4** | 0.999 |
+| CPSF3 | **CPSF1** | 0.999 |
+| CPSF3 | **CSTF2** | 0.999 |
+| CPSF3 | **FIP1L1** | 0.999 |
+| CPSF3 | **SYMPK** | 0.999 |
+| SYMPK | **POLR2A** | 0.443 |
+| SYMPK | **SCAF8** | 0.703 |
+| SYMPK | **CLP1** | 0.738 |
+| SYMPK | **CPSF6** | 0.963 |
+| SYMPK | **CSTF2T** | 0.983 |
+| SYMPK | **PCF11** | 0.995 |
+| SYMPK | **SSU72** | 0.998 |
+| SYMPK | **FIP1L1** | 0.999 |
+| SYMPK | **CSTF2** | 0.999 |
+| SYMPK | **CSTF3** | 0.999 |
+| SYMPK | **CPSF2** | 0.999 |
+| SYMPK | **CPSF1** | 0.999 |
+| SYMPK | **CPSF4** | 0.999 |
+| SYMPK | **WDR33** | 0.999 |
+| CPSF6 | **SCAF8** | 0.671 |
+| CPSF6 | **SSU72** | 0.776 |
+| CPSF6 | **CSTF2T** | 0.863 |
+| CPSF6 | **CSTF3** | 0.867 |
+| CPSF6 | **FIP1L1** | 0.873 |
+| CPSF6 | **WDR33** | 0.893 |
+| CPSF6 | **CLP1** | 0.936 |
+| CPSF6 | **PCF11** | 0.962 |
+| CPSF6 | **CPSF4** | 0.978 |
+| CPSF6 | **CPSF2** | 0.982 |
+| CPSF6 | **CPSF1** | 0.987 |
+| CPSF6 | **CSTF2** | 0.992 |
+| SSU72 | **CLP1** | 0.573 |
+| SSU72 | **CSTF3** | 0.671 |
+| SSU72 | **SCAF8** | 0.784 |
+| SSU72 | **CSTF2T** | 0.831 |
+| SSU72 | **FIP1L1** | 0.911 |
+| SSU72 | **CPSF4** | 0.923 |
+| SSU72 | **CPSF1** | 0.925 |
+| SSU72 | **POLR2A** | 0.942 |
+| SSU72 | **CSTF2** | 0.945 |
+| SSU72 | **CPSF2** | 0.965 |
+| SSU72 | **WDR33** | 0.971 |
+| SSU72 | **PCF11** | 0.974 |
+| CPSF4 | **SCAF8** | 0.604 |
+| CPSF4 | **CLP1** | 0.933 |
+| CPSF4 | **CSTF2T** | 0.944 |
+| CPSF4 | **PCF11** | 0.953 |
+| CPSF4 | **CSTF3** | 0.995 |
+| CPSF4 | **CSTF2** | 0.997 |
+| CPSF4 | **FIP1L1** | 0.999 |
+| CPSF4 | **WDR33** | 0.999 |
+| CPSF4 | **CPSF1** | 0.999 |
+| CPSF4 | **CPSF2** | 0.999 |
+| PCF11 | **POLR2A** | 0.952 |
+| PCF11 | **CSTF2T** | 0.954 |
+| PCF11 | **WDR33** | 0.955 |
+| PCF11 | **SCAF8** | 0.964 |
+| PCF11 | **FIP1L1** | 0.976 |
+| PCF11 | **CSTF2** | 0.991 |
+| PCF11 | **CPSF1** | 0.996 |
+| PCF11 | **CPSF2** | 0.998 |
+| PCF11 | **CSTF3** | 0.998 |
+| PCF11 | **CLP1** | 0.999 |
+| CPSF2 | **POLR2A** | 0.568 |
+| CPSF2 | **SCAF8** | 0.745 |
+| CPSF2 | **CLP1** | 0.83 |
+| CPSF2 | **CSTF2T** | 0.967 |
+| CPSF2 | **CSTF3** | 0.978 |
+| CPSF2 | **CPSF1** | 0.999 |
+| CPSF2 | **WDR33** | 0.999 |
+| CPSF2 | **FIP1L1** | 0.999 |
+| CPSF2 | **CSTF2** | 0.999 |
+| CSTF3 | **SCAF8** | 0.422 |
+| CSTF3 | **POLR2A** | 0.842 |
+| CSTF3 | **CLP1** | 0.904 |
+| CSTF3 | **CSTF2T** | 0.998 |
+| CSTF3 | **WDR33** | 0.998 |
+| CSTF3 | **CPSF1** | 0.999 |
+| CSTF3 | **FIP1L1** | 0.999 |
+| CSTF3 | **CSTF2** | 0.999 |
+| WDR33 | **CLP1** | 0.703 |
+| WDR33 | **SCAF8** | 0.769 |
+| WDR33 | **CSTF2T** | 0.956 |
+| WDR33 | **CSTF2** | 0.99 |
+| WDR33 | **CPSF1** | 0.999 |
+| WDR33 | **FIP1L1** | 0.999 |
+| CSTF2T | **SCAF8** | 0.627 |
+| CSTF2T | **CLP1** | 0.918 |
+| CSTF2T | **CPSF1** | 0.964 |
+| CSTF2T | **FIP1L1** | 0.985 |
+| CSTF2T | **CSTF2** | 0.989 |
+| FIP1L1 | **SCAF8** | 0.653 |
+| FIP1L1 | **CLP1** | 0.923 |
+| FIP1L1 | **CSTF2** | 0.99 |
+| FIP1L1 | **CPSF1** | 0.999 |
+| CSTF2 | **POLR2A** | 0.558 |
+| CSTF2 | **SCAF8** | 0.694 |
+| CSTF2 | **CLP1** | 0.977 |
+| CSTF2 | **CPSF1** | 0.998 |
+| SCAF8 | **CLP1** | 0.441 |
+| SCAF8 | **CPSF1** | 0.689 |
+| SCAF8 | **POLR2A** | 0.897 |
+| CLP1 | **CPSF1** | 0.925 |
+| POLR2A | **CPSF1** | 0.728 |
+

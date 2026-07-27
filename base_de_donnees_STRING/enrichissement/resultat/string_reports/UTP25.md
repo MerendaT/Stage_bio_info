@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UTP25
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UTP25
+Identifiant STRING officiel : `9606.ENSP00000419005`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **DDX49** | 0.898 |
+| UTP18 | **UTP25** | 0.929 |
+| UTP18 | **ABT1** | 0.978 |
+| UTP18 | **RRP36** | 0.987 |
+| UTP18 | **PDCD11** | 0.993 |
+| UTP18 | **IMP3** | 0.997 |
+| UTP18 | **NOP14** | 0.997 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **IMP4** | 0.998 |
+| UTP18 | **NGDN** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **WDR36** | 0.999 |
+| UTP18 | **UTP3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| UTP18 | **NOL6** | 0.999 |
+| RRP9 | **ABT1** | 0.625 |
+| RRP9 | **DDX49** | 0.752 |
+| RRP9 | **UTP25** | 0.94 |
+| RRP9 | **RRP36** | 0.992 |
+| RRP9 | **PDCD11** | 0.995 |
+| RRP9 | **IMP3** | 0.998 |
+| RRP9 | **NGDN** | 0.998 |
+| RRP9 | **UTP3** | 0.998 |
+| RRP9 | **NOP14** | 0.998 |
+| RRP9 | **WDR46** | 0.999 |
+| RRP9 | **WDR36** | 0.999 |
+| RRP9 | **NOL6** | 0.999 |
+| RRP9 | **MPHOSPH10** | 0.999 |
+| RRP9 | **IMP4** | 0.999 |
+| MPHOSPH10 | **DDX49** | 0.574 |
+| MPHOSPH10 | **ABT1** | 0.666 |
+| MPHOSPH10 | **RRP36** | 0.715 |
+| MPHOSPH10 | **PDCD11** | 0.997 |
+| MPHOSPH10 | **NGDN** | 0.998 |
+| MPHOSPH10 | **UTP25** | 0.998 |
+| MPHOSPH10 | **NOP14** | 0.998 |
+| MPHOSPH10 | **WDR46** | 0.999 |
+| MPHOSPH10 | **IMP3** | 0.999 |
+| MPHOSPH10 | **IMP4** | 0.999 |
+| MPHOSPH10 | **NOL6** | 0.999 |
+| MPHOSPH10 | **WDR36** | 0.999 |
+| MPHOSPH10 | **UTP3** | 0.999 |
+| RRP36 | **WDR36** | 0.673 |
+| RRP36 | **NGDN** | 0.738 |
+| RRP36 | **IMP4** | 0.74 |
+| RRP36 | **WDR46** | 0.745 |
+| RRP36 | **IMP3** | 0.767 |
+| RRP36 | **DDX49** | 0.778 |
+| RRP36 | **NOP14** | 0.86 |
+| RRP36 | **PDCD11** | 0.864 |
+| RRP36 | **NOL6** | 0.899 |
+| RRP36 | **UTP25** | 0.992 |
+| RRP36 | **ABT1** | 0.995 |
+| RRP36 | **UTP3** | 0.996 |
+| DDX49 | **IMP3** | 0.527 |
+| DDX49 | **WDR36** | 0.545 |
+| DDX49 | **IMP4** | 0.766 |
+| DDX49 | **NGDN** | 0.847 |
+| DDX49 | **NOP14** | 0.921 |
+| DDX49 | **PDCD11** | 0.944 |
+| DDX49 | **UTP25** | 0.961 |
+| DDX49 | **WDR46** | 0.962 |
+| DDX49 | **NOL6** | 0.988 |
+| DDX49 | **UTP3** | 0.995 |
+| DDX49 | **ABT1** | 0.998 |
+| UTP3 | **ABT1** | 0.537 |
+| UTP3 | **PDCD11** | 0.995 |
+| UTP3 | **UTP25** | 0.998 |
+| UTP3 | **IMP3** | 0.999 |
+| UTP3 | **NGDN** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **NOL6** | 0.999 |
+| UTP3 | **IMP4** | 0.999 |
+| UTP3 | **NOP14** | 0.999 |
+| UTP3 | **WDR36** | 0.999 |
+| IMP4 | **ABT1** | 0.426 |
+| IMP4 | **UTP25** | 0.987 |
+| IMP4 | **PDCD11** | 0.991 |
+| IMP4 | **NOP14** | 0.997 |
+| IMP4 | **NOL6** | 0.998 |
+| IMP4 | **WDR46** | 0.998 |
+| IMP4 | **NGDN** | 0.998 |
+| IMP4 | **WDR36** | 0.999 |
+| IMP4 | **IMP3** | 0.999 |
+| ABT1 | **WDR46** | 0.44 |
+| ABT1 | **NOL6** | 0.441 |
+| ABT1 | **IMP3** | 0.483 |
+| ABT1 | **WDR36** | 0.686 |
+| ABT1 | **PDCD11** | 0.727 |
+| ABT1 | **NGDN** | 0.941 |
+| ABT1 | **NOP14** | 0.983 |
+| ABT1 | **UTP25** | 0.989 |
+| NOL6 | **NGDN** | 0.994 |
+| NOL6 | **IMP3** | 0.996 |
+| NOL6 | **UTP25** | 0.996 |
+| NOL6 | **WDR46** | 0.999 |
+| NOL6 | **NOP14** | 0.999 |
+| NOL6 | **WDR36** | 0.999 |
+| NOL6 | **PDCD11** | 0.999 |
+| IMP3 | **UTP25** | 0.941 |
+| IMP3 | **NOP14** | 0.992 |
+| IMP3 | **PDCD11** | 0.996 |
+| IMP3 | **WDR36** | 0.997 |
+| IMP3 | **WDR46** | 0.998 |
+| IMP3 | **NGDN** | 0.998 |
+| PDCD11 | **UTP25** | 0.973 |
+| PDCD11 | **NGDN** | 0.988 |
+| PDCD11 | **WDR36** | 0.998 |
+| PDCD11 | **NOP14** | 0.999 |
+| PDCD11 | **WDR46** | 0.999 |
+| WDR46 | **UTP25** | 0.936 |
+| WDR46 | **WDR36** | 0.999 |
+| WDR46 | **NOP14** | 0.999 |
+| WDR46 | **NGDN** | 0.999 |
+| NGDN | **UTP25** | 0.991 |
+| NGDN | **NOP14** | 0.994 |
+| NGDN | **WDR36** | 0.999 |
+| NOP14 | **UTP25** | 0.984 |
+| NOP14 | **WDR36** | 0.997 |
+| UTP25 | **WDR36** | 0.997 |
+

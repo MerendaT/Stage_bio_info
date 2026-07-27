@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : FANCD2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : FANCD2
+Identifiant STRING officiel : `9606.ENSP00000287647`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| FANCE | **FAN1** | 0.712 |
+| FANCE | **USP1** | 0.717 |
+| FANCE | **RAD51** | 0.821 |
+| FANCE | **BRIP1** | 0.895 |
+| FANCE | **BRCA2** | 0.899 |
+| FANCE | **BRCA1** | 0.92 |
+| FANCE | **UBE2T** | 0.993 |
+| FANCE | **FANCB** | 0.999 |
+| FANCE | **FANCC** | 0.999 |
+| FANCE | **FANCF** | 0.999 |
+| FANCE | **FANCG** | 0.999 |
+| FANCE | **FANCD2** | 0.999 |
+| FANCE | **FANCA** | 0.999 |
+| FANCE | **FANCI** | 0.999 |
+| FANCE | **FANCL** | 0.999 |
+| BRIP1 | **USP1** | 0.578 |
+| BRIP1 | **FAN1** | 0.585 |
+| BRIP1 | **UBE2T** | 0.742 |
+| BRIP1 | **FANCF** | 0.882 |
+| BRIP1 | **FANCG** | 0.885 |
+| BRIP1 | **FANCA** | 0.907 |
+| BRIP1 | **FANCL** | 0.912 |
+| BRIP1 | **FANCC** | 0.913 |
+| BRIP1 | **FANCB** | 0.921 |
+| BRIP1 | **RAD51** | 0.951 |
+| BRIP1 | **FANCI** | 0.994 |
+| BRIP1 | **FANCD2** | 0.997 |
+| BRIP1 | **BRCA2** | 0.998 |
+| BRIP1 | **BRCA1** | 0.999 |
+| FANCD2 | **RAD51** | 0.998 |
+| FANCD2 | **USP1** | 0.998 |
+| FANCD2 | **FAN1** | 0.999 |
+| FANCD2 | **FANCB** | 0.999 |
+| FANCD2 | **FANCC** | 0.999 |
+| FANCD2 | **UBE2T** | 0.999 |
+| FANCD2 | **FANCF** | 0.999 |
+| FANCD2 | **FANCA** | 0.999 |
+| FANCD2 | **BRCA1** | 0.999 |
+| FANCD2 | **FANCG** | 0.999 |
+| FANCD2 | **BRCA2** | 0.999 |
+| FANCD2 | **FANCI** | 0.999 |
+| FANCD2 | **FANCL** | 0.999 |
+| FANCC | **FAN1** | 0.699 |
+| FANCC | **USP1** | 0.748 |
+| FANCC | **RAD51** | 0.882 |
+| FANCC | **BRCA2** | 0.919 |
+| FANCC | **BRCA1** | 0.926 |
+| FANCC | **UBE2T** | 0.993 |
+| FANCC | **FANCI** | 0.999 |
+| FANCC | **FANCL** | 0.999 |
+| FANCC | **FANCF** | 0.999 |
+| FANCC | **FANCA** | 0.999 |
+| FANCC | **FANCG** | 0.999 |
+| FANCC | **FANCB** | 0.999 |
+| FANCI | **RAD51** | 0.949 |
+| FANCI | **USP1** | 0.992 |
+| FANCI | **BRCA1** | 0.993 |
+| FANCI | **FAN1** | 0.995 |
+| FANCI | **BRCA2** | 0.996 |
+| FANCI | **UBE2T** | 0.997 |
+| FANCI | **FANCF** | 0.998 |
+| FANCI | **FANCA** | 0.999 |
+| FANCI | **FANCG** | 0.999 |
+| FANCI | **FANCL** | 0.999 |
+| FANCI | **FANCB** | 0.999 |
+| FANCF | **FAN1** | 0.695 |
+| FANCF | **USP1** | 0.73 |
+| FANCF | **RAD51** | 0.783 |
+| FANCF | **BRCA1** | 0.887 |
+| FANCF | **BRCA2** | 0.908 |
+| FANCF | **UBE2T** | 0.993 |
+| FANCF | **FANCG** | 0.999 |
+| FANCF | **FANCB** | 0.999 |
+| FANCF | **FANCA** | 0.999 |
+| FANCF | **FANCL** | 0.999 |
+| USP1 | **RAD51** | 0.516 |
+| USP1 | **BRCA2** | 0.605 |
+| USP1 | **FAN1** | 0.625 |
+| USP1 | **FANCB** | 0.681 |
+| USP1 | **BRCA1** | 0.682 |
+| USP1 | **UBE2T** | 0.696 |
+| USP1 | **FANCG** | 0.713 |
+| USP1 | **FANCA** | 0.797 |
+| USP1 | **FANCL** | 0.972 |
+| FAN1 | **RAD51** | 0.41 |
+| FAN1 | **BRCA2** | 0.43 |
+| FAN1 | **UBE2T** | 0.629 |
+| FAN1 | **FANCB** | 0.692 |
+| FAN1 | **FANCA** | 0.726 |
+| FAN1 | **FANCG** | 0.787 |
+| FAN1 | **FANCL** | 0.798 |
+| FANCG | **RAD51** | 0.862 |
+| FANCG | **BRCA1** | 0.939 |
+| FANCG | **UBE2T** | 0.996 |
+| FANCG | **BRCA2** | 0.997 |
+| FANCG | **FANCL** | 0.999 |
+| FANCG | **FANCB** | 0.999 |
+| FANCG | **FANCA** | 0.999 |
+| BRCA2 | **UBE2T** | 0.643 |
+| BRCA2 | **FANCL** | 0.902 |
+| BRCA2 | **FANCB** | 0.91 |
+| BRCA2 | **FANCA** | 0.968 |
+| BRCA2 | **RAD51** | 0.999 |
+| BRCA2 | **BRCA1** | 0.999 |
+| FANCA | **RAD51** | 0.936 |
+| FANCA | **BRCA1** | 0.995 |
+| FANCA | **UBE2T** | 0.998 |
+| FANCA | **FANCB** | 0.999 |
+| FANCA | **FANCL** | 0.999 |
+| FANCL | **RAD51** | 0.747 |
+| FANCL | **BRCA1** | 0.83 |
+| FANCL | **FANCB** | 0.999 |
+| FANCL | **UBE2T** | 0.999 |
+| BRCA1 | **FANCB** | 0.791 |
+| BRCA1 | **UBE2T** | 0.849 |
+| BRCA1 | **RAD51** | 0.999 |
+| RAD51 | **FANCB** | 0.606 |
+| RAD51 | **UBE2T** | 0.728 |
+| UBE2T | **FANCB** | 0.996 |
+

@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SDAD1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SDAD1
+Identifiant STRING officiel : `9606.ENSP00000348596`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MPHOSPH10 | **MRTO4** | 0.419 |
+| MPHOSPH10 | **WDR18** | 0.602 |
+| MPHOSPH10 | **NOP53** | 0.702 |
+| MPHOSPH10 | **GNL3L** | 0.743 |
+| MPHOSPH10 | **GNL2** | 0.81 |
+| MPHOSPH10 | **GNL3** | 0.824 |
+| MPHOSPH10 | **PES1** | 0.889 |
+| MPHOSPH10 | **NIFK** | 0.915 |
+| MPHOSPH10 | **NOC2L** | 0.922 |
+| MPHOSPH10 | **GTPBP4** | 0.933 |
+| MPHOSPH10 | **SDAD1** | 0.968 |
+| NOP53 | **WDR18** | 0.621 |
+| NOP53 | **ZNF593** | 0.807 |
+| NOP53 | **MRTO4** | 0.868 |
+| NOP53 | **GNL3L** | 0.869 |
+| NOP53 | **NOC2L** | 0.872 |
+| NOP53 | **GNL3** | 0.895 |
+| NOP53 | **NSA2** | 0.954 |
+| NOP53 | **PA2G4** | 0.98 |
+| NOP53 | **NLE1** | 0.985 |
+| NOP53 | **PES1** | 0.988 |
+| NOP53 | **NIFK** | 0.989 |
+| NOP53 | **SDAD1** | 0.995 |
+| NOP53 | **GTPBP4** | 0.996 |
+| NOP53 | **GNL2** | 0.996 |
+| NIFK | **NLE1** | 0.898 |
+| NIFK | **WDR18** | 0.9 |
+| NIFK | **SDAD1** | 0.971 |
+| NIFK | **PA2G4** | 0.978 |
+| NIFK | **ZNF593** | 0.982 |
+| NIFK | **GNL3L** | 0.983 |
+| NIFK | **GNL2** | 0.992 |
+| NIFK | **GNL3** | 0.996 |
+| NIFK | **NSA2** | 0.996 |
+| NIFK | **PES1** | 0.996 |
+| NIFK | **NOC2L** | 0.998 |
+| NIFK | **GTPBP4** | 0.998 |
+| NIFK | **MRTO4** | 0.998 |
+| PA2G4 | **NOC2L** | 0.788 |
+| PA2G4 | **GNL3L** | 0.961 |
+| PA2G4 | **GNL3** | 0.963 |
+| PA2G4 | **ZNF593** | 0.965 |
+| PA2G4 | **NLE1** | 0.978 |
+| PA2G4 | **SDAD1** | 0.981 |
+| PA2G4 | **NSA2** | 0.986 |
+| PA2G4 | **WDR18** | 0.986 |
+| PA2G4 | **MRTO4** | 0.988 |
+| PA2G4 | **GNL2** | 0.993 |
+| PA2G4 | **PES1** | 0.994 |
+| PA2G4 | **GTPBP4** | 0.996 |
+| NOC2L | **ZNF593** | 0.641 |
+| NOC2L | **WDR18** | 0.812 |
+| NOC2L | **NLE1** | 0.907 |
+| NOC2L | **GNL2** | 0.945 |
+| NOC2L | **SDAD1** | 0.969 |
+| NOC2L | **GNL3L** | 0.979 |
+| NOC2L | **GNL3** | 0.98 |
+| NOC2L | **NSA2** | 0.993 |
+| NOC2L | **GTPBP4** | 0.997 |
+| NOC2L | **MRTO4** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| PES1 | **NLE1** | 0.924 |
+| PES1 | **WDR18** | 0.939 |
+| PES1 | **ZNF593** | 0.959 |
+| PES1 | **SDAD1** | 0.976 |
+| PES1 | **GNL3L** | 0.987 |
+| PES1 | **GNL2** | 0.995 |
+| PES1 | **GNL3** | 0.997 |
+| PES1 | **GTPBP4** | 0.999 |
+| PES1 | **MRTO4** | 0.999 |
+| PES1 | **NSA2** | 0.999 |
+| SDAD1 | **ZNF593** | 0.97 |
+| SDAD1 | **WDR18** | 0.976 |
+| SDAD1 | **GNL3** | 0.976 |
+| SDAD1 | **GNL3L** | 0.978 |
+| SDAD1 | **MRTO4** | 0.978 |
+| SDAD1 | **NSA2** | 0.984 |
+| SDAD1 | **NLE1** | 0.987 |
+| SDAD1 | **GNL2** | 0.992 |
+| SDAD1 | **GTPBP4** | 0.997 |
+| GTPBP4 | **WDR18** | 0.947 |
+| GTPBP4 | **NLE1** | 0.983 |
+| GTPBP4 | **GNL3L** | 0.991 |
+| GTPBP4 | **GNL3** | 0.992 |
+| GTPBP4 | **ZNF593** | 0.995 |
+| GTPBP4 | **MRTO4** | 0.999 |
+| GTPBP4 | **NSA2** | 0.999 |
+| GTPBP4 | **GNL2** | 0.999 |
+| GNL3L | **WDR18** | 0.813 |
+| GNL3L | **ZNF593** | 0.912 |
+| GNL3L | **GNL3** | 0.922 |
+| GNL3L | **NLE1** | 0.953 |
+| GNL3L | **NSA2** | 0.969 |
+| GNL3L | **MRTO4** | 0.983 |
+| GNL3L | **GNL2** | 0.997 |
+| GNL2 | **NLE1** | 0.987 |
+| GNL2 | **WDR18** | 0.992 |
+| GNL2 | **MRTO4** | 0.995 |
+| GNL2 | **GNL3** | 0.997 |
+| GNL2 | **ZNF593** | 0.997 |
+| GNL2 | **NSA2** | 0.999 |
+| ZNF593 | **GNL3** | 0.915 |
+| ZNF593 | **WDR18** | 0.946 |
+| ZNF593 | **NLE1** | 0.963 |
+| ZNF593 | **NSA2** | 0.965 |
+| ZNF593 | **MRTO4** | 0.993 |
+| MRTO4 | **WDR18** | 0.906 |
+| MRTO4 | **NLE1** | 0.973 |
+| MRTO4 | **GNL3** | 0.981 |
+| MRTO4 | **NSA2** | 0.999 |
+| GNL3 | **WDR18** | 0.888 |
+| GNL3 | **NLE1** | 0.958 |
+| GNL3 | **NSA2** | 0.969 |
+| NLE1 | **WDR18** | 0.986 |
+| NLE1 | **NSA2** | 0.992 |
+| WDR18 | **NSA2** | 0.878 |
+

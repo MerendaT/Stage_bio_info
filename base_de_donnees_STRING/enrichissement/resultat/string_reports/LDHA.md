@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : LDHA
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LDHA
+Identifiant STRING officiel : `9606.ENSP00000445175`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GOT2 | **ME2** | 0.452 |
+| GOT2 | **PKLR** | 0.456 |
+| GOT2 | **ALDOA** | 0.458 |
+| GOT2 | **G6PD** | 0.472 |
+| GOT2 | **PKM** | 0.553 |
+| GOT2 | **H6PD** | 0.561 |
+| GOT2 | **ME1** | 0.575 |
+| GOT2 | **PDHB** | 0.576 |
+| GOT2 | **GAPDH** | 0.754 |
+| GOT2 | **GPI** | 0.764 |
+| GOT2 | **PC** | 0.933 |
+| GOT2 | **GOT1L1** | 0.964 |
+| GOT2 | **LDHC** | 0.97 |
+| GOT2 | **LDHA** | 0.972 |
+| GOT2 | **GOT1** | 0.982 |
+| GOT1L1 | **G6PD** | 0.4 |
+| GOT1L1 | **GAPDH** | 0.462 |
+| GOT1L1 | **PKLR** | 0.464 |
+| GOT1L1 | **ME1** | 0.47 |
+| GOT1L1 | **H6PD** | 0.475 |
+| GOT1L1 | **ME2** | 0.5 |
+| GOT1L1 | **GPI** | 0.568 |
+| GOT1L1 | **PC** | 0.879 |
+| GOT1L1 | **GOT1** | 0.938 |
+| GOT1L1 | **LDHA** | 0.969 |
+| GOT1L1 | **LDHC** | 0.98 |
+| PDHB | **GOT1** | 0.504 |
+| PDHB | **GAPDH** | 0.815 |
+| PDHB | **G6PD** | 0.878 |
+| PDHB | **H6PD** | 0.891 |
+| PDHB | **ALDOA** | 0.93 |
+| PDHB | **LDHC** | 0.942 |
+| PDHB | **ME2** | 0.948 |
+| PDHB | **ME1** | 0.951 |
+| PDHB | **PC** | 0.959 |
+| PDHB | **LDHA** | 0.961 |
+| PDHB | **PKLR** | 0.966 |
+| PDHB | **GPI** | 0.981 |
+| PDHB | **PKM** | 0.983 |
+| PKM | **GOT1** | 0.49 |
+| PKM | **PKLR** | 0.919 |
+| PKM | **G6PD** | 0.941 |
+| PKM | **GAPDH** | 0.956 |
+| PKM | **H6PD** | 0.958 |
+| PKM | **ME2** | 0.962 |
+| PKM | **PC** | 0.967 |
+| PKM | **ME1** | 0.974 |
+| PKM | **ALDOA** | 0.983 |
+| PKM | **LDHC** | 0.983 |
+| PKM | **GPI** | 0.986 |
+| PKM | **LDHA** | 0.997 |
+| ME2 | **GPI** | 0.465 |
+| ME2 | **G6PD** | 0.5 |
+| ME2 | **GOT1** | 0.533 |
+| ME2 | **H6PD** | 0.578 |
+| ME2 | **ME1** | 0.906 |
+| ME2 | **LDHC** | 0.952 |
+| ME2 | **PKLR** | 0.966 |
+| ME2 | **LDHA** | 0.982 |
+| ME2 | **PC** | 0.983 |
+| PKLR | **GOT1** | 0.437 |
+| PKLR | **GAPDH** | 0.805 |
+| PKLR | **G6PD** | 0.927 |
+| PKLR | **ALDOA** | 0.928 |
+| PKLR | **H6PD** | 0.949 |
+| PKLR | **PC** | 0.964 |
+| PKLR | **ME1** | 0.969 |
+| PKLR | **GPI** | 0.979 |
+| PKLR | **LDHC** | 0.986 |
+| PKLR | **LDHA** | 0.986 |
+| ME1 | **GAPDH** | 0.453 |
+| ME1 | **GPI** | 0.625 |
+| ME1 | **GOT1** | 0.656 |
+| ME1 | **G6PD** | 0.794 |
+| ME1 | **H6PD** | 0.81 |
+| ME1 | **LDHC** | 0.951 |
+| ME1 | **LDHA** | 0.958 |
+| ME1 | **PC** | 0.997 |
+| GOT1 | **G6PD** | 0.454 |
+| GOT1 | **H6PD** | 0.548 |
+| GOT1 | **GAPDH** | 0.569 |
+| GOT1 | **GPI** | 0.609 |
+| GOT1 | **PC** | 0.943 |
+| GOT1 | **LDHA** | 0.972 |
+| GOT1 | **LDHC** | 0.977 |
+| G6PD | **PC** | 0.795 |
+| G6PD | **ALDOA** | 0.894 |
+| G6PD | **LDHC** | 0.911 |
+| G6PD | **LDHA** | 0.963 |
+| G6PD | **GAPDH** | 0.97 |
+| G6PD | **H6PD** | 0.985 |
+| G6PD | **GPI** | 0.999 |
+| GAPDH | **PC** | 0.586 |
+| GAPDH | **LDHC** | 0.859 |
+| GAPDH | **LDHA** | 0.967 |
+| GAPDH | **H6PD** | 0.978 |
+| GAPDH | **GPI** | 0.995 |
+| GAPDH | **ALDOA** | 0.999 |
+| GPI | **PC** | 0.644 |
+| GPI | **LDHC** | 0.927 |
+| GPI | **LDHA** | 0.976 |
+| GPI | **ALDOA** | 0.987 |
+| GPI | **H6PD** | 0.999 |
+| LDHC | **ALDOA** | 0.897 |
+| LDHC | **H6PD** | 0.926 |
+| LDHC | **PC** | 0.966 |
+| LDHC | **LDHA** | 0.985 |
+| LDHA | **H6PD** | 0.966 |
+| LDHA | **ALDOA** | 0.973 |
+| LDHA | **PC** | 0.978 |
+| H6PD | **PC** | 0.673 |
+| H6PD | **ALDOA** | 0.905 |
+| ALDOA | **PC** | 0.431 |
+

@@ -1,0 +1,240 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q16585",
+      "uniProtkbId": "SGCB_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SGCB"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Component of the sarcoglycan complex, a subcomplex of the dystrophin-glycoprotein complex which forms a link between the F-actin cytoskeleton and the extracellular matrix"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Cell membrane, sarcolemma",
+                "id": "SL-0238"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Cytoplasm, cytoskeleton",
+                "id": "SL-0090"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005856",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016010",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:dystrophin-associated glycoprotein complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17993586"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031594",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neuromuscular junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "19899002"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:sarcoglycan complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042383",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:sarcolemma"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043010",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:camera-type eye development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "19899002"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007517",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:muscle organ development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "7581448"
+            },
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8968749"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013590B"
+      }
+    }
+  ]
+}

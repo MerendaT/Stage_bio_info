@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : BAG2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BAG2
+Identifiant STRING officiel : `9606.ENSP00000359727`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| STUB1 | **HSPA4L** | 0.486 |
+| STUB1 | **HSPH1** | 0.532 |
+| STUB1 | **DNAJC7** | 0.713 |
+| STUB1 | **BAG4** | 0.853 |
+| STUB1 | **BAG5** | 0.919 |
+| STUB1 | **HSPBP1** | 0.962 |
+| STUB1 | **BAG1** | 0.963 |
+| STUB1 | **DNAJB1** | 0.979 |
+| STUB1 | **HSPA1B** | 0.979 |
+| STUB1 | **BAG2** | 0.997 |
+| STUB1 | **HSPA8** | 0.999 |
+| STUB1 | **HSP90AB1** | 0.999 |
+| STUB1 | **HSPA4** | 0.999 |
+| STUB1 | **BAG3** | 0.999 |
+| SGTA | **BAG4** | 0.401 |
+| SGTA | **HSPA4L** | 0.416 |
+| SGTA | **HSPA1B** | 0.429 |
+| SGTA | **HSPBP1** | 0.483 |
+| SGTA | **BAG1** | 0.497 |
+| SGTA | **DNAJB1** | 0.656 |
+| SGTA | **HSP90AB1** | 0.867 |
+| SGTA | **BAG2** | 0.931 |
+| SGTA | **HSPH1** | 0.987 |
+| SGTA | **HSPA4** | 0.988 |
+| SGTA | **HSPA8** | 0.998 |
+| DNAJB1 | **BAG4** | 0.594 |
+| DNAJB1 | **DNAJC7** | 0.762 |
+| DNAJB1 | **BAG5** | 0.85 |
+| DNAJB1 | **BAG2** | 0.879 |
+| DNAJB1 | **BAG3** | 0.891 |
+| DNAJB1 | **HSPA4L** | 0.952 |
+| DNAJB1 | **HSPBP1** | 0.954 |
+| DNAJB1 | **HSPH1** | 0.99 |
+| DNAJB1 | **BAG1** | 0.991 |
+| DNAJB1 | **HSPA1B** | 0.998 |
+| DNAJB1 | **HSPA8** | 0.999 |
+| DNAJB1 | **HSP90AB1** | 0.999 |
+| DNAJB1 | **HSPA4** | 0.999 |
+| HSPBP1 | **BAG4** | 0.407 |
+| HSPBP1 | **BAG3** | 0.527 |
+| HSPBP1 | **DNAJC7** | 0.567 |
+| HSPBP1 | **BAG5** | 0.62 |
+| HSPBP1 | **HSP90AB1** | 0.902 |
+| HSPBP1 | **HSPA4L** | 0.947 |
+| HSPBP1 | **BAG2** | 0.958 |
+| HSPBP1 | **HSPH1** | 0.963 |
+| HSPBP1 | **BAG1** | 0.973 |
+| HSPBP1 | **HSPA1B** | 0.995 |
+| HSPBP1 | **HSPA8** | 0.998 |
+| HSPBP1 | **HSPA4** | 0.998 |
+| BAG4 | **HSPA4L** | 0.516 |
+| BAG4 | **HSPH1** | 0.533 |
+| BAG4 | **BAG5** | 0.605 |
+| BAG4 | **DNAJC7** | 0.624 |
+| BAG4 | **BAG3** | 0.624 |
+| BAG4 | **HSPA1B** | 0.798 |
+| BAG4 | **BAG1** | 0.9 |
+| BAG4 | **BAG2** | 0.907 |
+| BAG4 | **HSPA4** | 0.913 |
+| BAG4 | **HSPA8** | 0.964 |
+| HSPA4L | **BAG5** | 0.556 |
+| HSPA4L | **BAG3** | 0.65 |
+| HSPA4L | **HSPA4** | 0.695 |
+| HSPA4L | **HSPA1B** | 0.749 |
+| HSPA4L | **DNAJC7** | 0.808 |
+| HSPA4L | **HSP90AB1** | 0.829 |
+| HSPA4L | **HSPH1** | 0.916 |
+| HSPA4L | **BAG1** | 0.936 |
+| HSPA4L | **BAG2** | 0.938 |
+| HSPA4L | **HSPA8** | 0.95 |
+| HSPA4 | **HSPH1** | 0.935 |
+| HSPA4 | **HSPA1B** | 0.939 |
+| HSPA4 | **BAG5** | 0.96 |
+| HSPA4 | **DNAJC7** | 0.983 |
+| HSPA4 | **BAG2** | 0.997 |
+| HSPA4 | **HSPA8** | 0.999 |
+| HSPA4 | **HSP90AB1** | 0.999 |
+| HSPA4 | **BAG1** | 0.999 |
+| HSPA4 | **BAG3** | 0.999 |
+| BAG5 | **BAG3** | 0.711 |
+| BAG5 | **HSPH1** | 0.737 |
+| BAG5 | **DNAJC7** | 0.83 |
+| BAG5 | **BAG1** | 0.918 |
+| BAG5 | **BAG2** | 0.955 |
+| BAG5 | **HSPA8** | 0.979 |
+| BAG5 | **HSPA1B** | 0.991 |
+| BAG3 | **HSPH1** | 0.74 |
+| BAG3 | **HSP90AB1** | 0.96 |
+| BAG3 | **BAG1** | 0.967 |
+| BAG3 | **BAG2** | 0.977 |
+| BAG3 | **HSPA1B** | 0.983 |
+| BAG3 | **HSPA8** | 0.999 |
+| BAG2 | **DNAJC7** | 0.841 |
+| BAG2 | **HSP90AB1** | 0.842 |
+| BAG2 | **HSPA1B** | 0.914 |
+| BAG2 | **HSPH1** | 0.995 |
+| BAG2 | **BAG1** | 0.997 |
+| BAG2 | **HSPA8** | 0.999 |
+| HSP90AB1 | **BAG1** | 0.876 |
+| HSP90AB1 | **DNAJC7** | 0.896 |
+| HSP90AB1 | **HSPH1** | 0.916 |
+| HSP90AB1 | **HSPA1B** | 0.991 |
+| HSP90AB1 | **HSPA8** | 0.999 |
+| HSPA1B | **DNAJC7** | 0.939 |
+| HSPA1B | **HSPA8** | 0.947 |
+| HSPA1B | **HSPH1** | 0.953 |
+| HSPA1B | **BAG1** | 0.971 |
+| DNAJC7 | **HSPH1** | 0.587 |
+| DNAJC7 | **HSPA8** | 0.961 |
+| HSPA8 | **HSPH1** | 0.998 |
+| HSPA8 | **BAG1** | 0.999 |
+| HSPH1 | **BAG1** | 0.954 |
+

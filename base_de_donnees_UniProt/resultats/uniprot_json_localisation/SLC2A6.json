@@ -1,0 +1,273 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9UGQ3",
+      "uniProtkbId": "GTR6_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:11011"
+              }
+            ],
+            "value": "SLC2A6"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30431159"
+                },
+                {
+                  "evidenceCode": "ECO:0000305",
+                  "source": "PubMed",
+                  "id": "30431159"
+                }
+              ],
+              "value": "Probable sugar transporter that acts as a regulator of glycolysis in macrophages (Probable). Does not transport glucose (PubMed:30431159)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "30431159"
+                  }
+                ],
+                "value": "Lysosome membrane",
+                "id": "SL-0157"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005765",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:lysosomal membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30431159"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055056",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:D-glucose transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033300",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:dehydroascorbic acid transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005353",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:fructose transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022857",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904659",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:D-glucose transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:dehydroascorbic acid transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015755",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fructose transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008645",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hexose transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006110",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of glycolytic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "30431159"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055085",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000001BE8"
+      }
+    }
+  ]
+}

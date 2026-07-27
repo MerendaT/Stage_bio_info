@@ -1,0 +1,782 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P23769",
+      "uniProtkbId": "GATA2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "GATA2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Transcriptional activator which regulates endothelin-1 gene expression in endothelial cells. Binds to the consensus sequence 5'-AGATAG-3'"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005667",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:transcription regulator complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070742",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:C2H2 zinc finger domain binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12483298"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003682",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:chromatin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19242469"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription activator activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20206639"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II-specific DNA-binding transcription factor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "15016828"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001223",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription coactivator binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001221",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription coregulator binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12483298"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell fate commitment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cochlea development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035854",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:eosinophil fate commitment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12045236"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045444",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fat cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20705609"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000352",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endothelial cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21788589"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000178",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of neural precursor cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16672344"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045746",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of Notch signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16672344"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001764",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006909",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:phagocytosis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045766",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19242469"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043536",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of blood vessel endothelial cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22499991"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903589",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090050",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration involved in sprouting angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007204",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cytosolic calcium ion concentration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22499991"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043306",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of mast cell degranulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902895",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of miRNA transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27780851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045666",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050766",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phagocytosis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060100",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phagocytosis, engulfment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20206639"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033993",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to lipid"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061042",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:vascular wound healing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22499991"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00000730CD"
+      }
+    }
+  ]
+}

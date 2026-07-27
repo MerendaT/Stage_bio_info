@@ -1,0 +1,1326 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P04156",
+      "uniProtkbId": "PRIO_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "PRNP"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P04925"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12732622"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19936054"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20564047"
+                },
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "Its primary physiological function is unclear. May play a role in neuronal development and synaptic plasticity. May be required for neuronal myelin sheath maintenance. May promote myelin homeostasis through acting as an agonist for ADGRG6 receptor. May play a role in iron uptake and iron homeostasis. Soluble oligomers are toxic to cultured neuroblastoma cells and induce apoptosis (in vitro) (By similarity). Association with GPC1 (via its heparan sulfate chains) targets PRNP to lipid rafts. Also provides Cu(2+) or Zn(2+) for the ascorbate-mediated GPC1 deaminase degradation of its heparan sulfate side chains (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19936054"
+                  }
+                ],
+                "value": "Targeted to lipid rafts via association with the heparan sulfate chains of GPC1. Colocates, in the presence of Cu(2+), to vesicles in para- and perinuclear regions, where both proteins undergo internalization. Heparin displaces PRNP from lipid rafts and promotes endocytosis"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19936054"
+                  }
+                ],
+                "value": "Lipid-anchor, GPI-anchor",
+                "id": "SL-9902"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "P04925"
+                  }
+                ],
+                "value": "Golgi apparatus",
+                "id": "SL-0132"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18419754"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "16004966"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030425",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:dendrite"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24012003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:external side of plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "22293988"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19056867"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019898",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extrinsic component of membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "16004966"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016234",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:inclusion body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20564047"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045121",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane raft"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16254249"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18419754"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:postsynapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "26224839"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0014069",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:postsynaptic density"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043195",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:terminal bouton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001540",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:amyloid-beta binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24012003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019828",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:aspartic-type endopeptidase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043008",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP-dependent protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005507",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:copper ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11900542"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903135",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cupric ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903136",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cuprous ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20564047"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005539",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glycosaminoglycan binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "16286452"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "18025469"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "18436646"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19204296"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19278656"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19927125"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "21920025"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "32284600"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "32514176"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "34516876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005521",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:lamin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008017",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:microtubule binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16004966"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060090",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:molecular adaptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:DisProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30401430"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140693",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:molecular condensate scaffold activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:DisProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30401430"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140677",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:molecular function activator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protease binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044877",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-containing complex binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "23386614"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-folding chaperone binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0038023",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044325",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane transporter binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015631",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:tubulin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16004966"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:type 5 metabotropic glutamate receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904646",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to amyloid-beta"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "24012003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071280",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to copper ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16254249"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:dendritic spine maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "25707991"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006878",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular copper ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "16004966"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035556",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22820466"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007611",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:learning or memory"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007616",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:long-term memory"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "19242475"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046007",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of activated T cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902992",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of amyloid precursor protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902430",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of amyloid-beta formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070885",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of calcineurin-NFAT signaling cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902951",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of dendritic spine maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of interleukin-17 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032703",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of interleukin-2 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900272",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of long-term synaptic potentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010955",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of protein processing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "23386614"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050860",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of T cell receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032689",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of type II interferon production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990535",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron projection maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050850",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of calcium-mediated signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "24012003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900451",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of glutamate receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "24012003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043525",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of neuron apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20564047"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903078",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein localization to plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090314",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein targeting to membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031648",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein destabilization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20564047"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051260",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein homooligomerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905664",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of calcium ion import across plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051726",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900449",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of glutamate receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904645",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to amyloid-beta"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046686",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to cadmium ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006979",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to oxidative stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000033C27"
+      }
+    }
+  ]
+}

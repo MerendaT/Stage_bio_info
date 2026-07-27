@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RANBP2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RANBP2
+Identifiant STRING officiel : `9606.ENSP00000283195`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NUP107 | **SUMO2** | 0.616 |
+| NUP107 | **SUMO1** | 0.729 |
+| NUP107 | **UBE2I** | 0.782 |
+| NUP107 | **RAN** | 0.832 |
+| NUP107 | **RANGAP1** | 0.965 |
+| NUP107 | **NUP88** | 0.994 |
+| NUP107 | **NUP35** | 0.994 |
+| NUP107 | **NUP62** | 0.997 |
+| NUP107 | **NUP54** | 0.998 |
+| NUP107 | **RANBP2** | 0.998 |
+| NUP107 | **NUP214** | 0.999 |
+| NUP107 | **NUP155** | 0.999 |
+| NUP107 | **NUP93** | 0.999 |
+| NUP107 | **NUP133** | 0.999 |
+| NUP107 | **NUP98** | 0.999 |
+| NUP155 | **SUMO2** | 0.446 |
+| NUP155 | **SUMO1** | 0.492 |
+| NUP155 | **RAN** | 0.665 |
+| NUP155 | **UBE2I** | 0.763 |
+| NUP155 | **RANGAP1** | 0.836 |
+| NUP155 | **NUP88** | 0.995 |
+| NUP155 | **NUP62** | 0.997 |
+| NUP155 | **NUP214** | 0.998 |
+| NUP155 | **NUP133** | 0.998 |
+| NUP155 | **NUP54** | 0.999 |
+| NUP155 | **RANBP2** | 0.999 |
+| NUP155 | **NUP93** | 0.999 |
+| NUP155 | **NUP35** | 0.999 |
+| NUP155 | **NUP98** | 0.999 |
+| NUP133 | **SUMO2** | 0.498 |
+| NUP133 | **SUMO1** | 0.626 |
+| NUP133 | **UBE2I** | 0.673 |
+| NUP133 | **RAN** | 0.697 |
+| NUP133 | **RANGAP1** | 0.851 |
+| NUP133 | **NUP35** | 0.985 |
+| NUP133 | **NUP88** | 0.986 |
+| NUP133 | **NUP62** | 0.995 |
+| NUP133 | **NUP54** | 0.996 |
+| NUP133 | **RANBP2** | 0.997 |
+| NUP133 | **NUP93** | 0.998 |
+| NUP133 | **NUP98** | 0.999 |
+| NUP133 | **NUP214** | 0.999 |
+| NUP54 | **SUMO2** | 0.435 |
+| NUP54 | **SUMO1** | 0.563 |
+| NUP54 | **UBE2I** | 0.66 |
+| NUP54 | **RANGAP1** | 0.77 |
+| NUP54 | **RAN** | 0.782 |
+| NUP54 | **NUP88** | 0.984 |
+| NUP54 | **NUP35** | 0.993 |
+| NUP54 | **NUP214** | 0.995 |
+| NUP54 | **NUP98** | 0.999 |
+| NUP54 | **RANBP2** | 0.999 |
+| NUP54 | **NUP93** | 0.999 |
+| NUP54 | **NUP62** | 0.999 |
+| RANBP2 | **NUP62** | 0.997 |
+| RANBP2 | **NUP35** | 0.997 |
+| RANBP2 | **SUMO2** | 0.998 |
+| RANBP2 | **NUP93** | 0.998 |
+| RANBP2 | **RAN** | 0.999 |
+| RANBP2 | **RANGAP1** | 0.999 |
+| RANBP2 | **NUP214** | 0.999 |
+| RANBP2 | **UBE2I** | 0.999 |
+| RANBP2 | **NUP88** | 0.999 |
+| RANBP2 | **NUP98** | 0.999 |
+| RANBP2 | **SUMO1** | 0.999 |
+| NUP35 | **SUMO2** | 0.452 |
+| NUP35 | **SUMO1** | 0.486 |
+| NUP35 | **RAN** | 0.693 |
+| NUP35 | **UBE2I** | 0.787 |
+| NUP35 | **RANGAP1** | 0.842 |
+| NUP35 | **NUP214** | 0.992 |
+| NUP35 | **NUP62** | 0.995 |
+| NUP35 | **NUP88** | 0.996 |
+| NUP35 | **NUP98** | 0.997 |
+| NUP35 | **NUP93** | 0.999 |
+| NUP93 | **SUMO2** | 0.537 |
+| NUP93 | **SUMO1** | 0.615 |
+| NUP93 | **RAN** | 0.759 |
+| NUP93 | **UBE2I** | 0.787 |
+| NUP93 | **RANGAP1** | 0.858 |
+| NUP93 | **NUP88** | 0.995 |
+| NUP93 | **NUP98** | 0.999 |
+| NUP93 | **NUP62** | 0.999 |
+| NUP93 | **NUP214** | 0.999 |
+| NUP98 | **SUMO2** | 0.529 |
+| NUP98 | **SUMO1** | 0.606 |
+| NUP98 | **UBE2I** | 0.764 |
+| NUP98 | **RAN** | 0.795 |
+| NUP98 | **RANGAP1** | 0.846 |
+| NUP98 | **NUP62** | 0.998 |
+| NUP98 | **NUP214** | 0.999 |
+| NUP98 | **NUP88** | 0.999 |
+| UBE2I | **NUP88** | 0.589 |
+| UBE2I | **NUP62** | 0.633 |
+| UBE2I | **NUP214** | 0.785 |
+| UBE2I | **RAN** | 0.942 |
+| UBE2I | **SUMO1** | 0.999 |
+| UBE2I | **SUMO2** | 0.999 |
+| UBE2I | **RANGAP1** | 0.999 |
+| NUP214 | **SUMO1** | 0.525 |
+| NUP214 | **SUMO2** | 0.598 |
+| NUP214 | **RANGAP1** | 0.848 |
+| NUP214 | **RAN** | 0.973 |
+| NUP214 | **NUP62** | 0.999 |
+| NUP214 | **NUP88** | 0.999 |
+| SUMO1 | **NUP88** | 0.514 |
+| SUMO1 | **NUP62** | 0.575 |
+| SUMO1 | **RAN** | 0.758 |
+| SUMO1 | **SUMO2** | 0.994 |
+| SUMO1 | **RANGAP1** | 0.999 |
+| RANGAP1 | **NUP62** | 0.838 |
+| RANGAP1 | **NUP88** | 0.874 |
+| RANGAP1 | **RAN** | 0.999 |
+| RANGAP1 | **SUMO2** | 0.999 |
+| SUMO2 | **NUP88** | 0.463 |
+| SUMO2 | **NUP62** | 0.527 |
+| SUMO2 | **RAN** | 0.574 |
+| RAN | **NUP88** | 0.684 |
+| RAN | **NUP62** | 0.802 |
+| NUP88 | **NUP62** | 0.999 |
+

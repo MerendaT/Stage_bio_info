@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SRSF3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRSF3
+Identifiant STRING officiel : `9606.ENSP00000362820`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SRSF6 | **RBM8A** | 0.678 |
+| SRSF6 | **PCBP2** | 0.7 |
+| SRSF6 | **MAGOH** | 0.856 |
+| SRSF6 | **EIF4A3** | 0.858 |
+| SRSF6 | **NXF1** | 0.859 |
+| SRSF6 | **HNRNPC** | 0.862 |
+| SRSF6 | **HNRNPA2B1** | 0.875 |
+| SRSF6 | **SRSF2** | 0.927 |
+| SRSF6 | **SRSF7** | 0.978 |
+| SRSF6 | **U2AF2** | 0.981 |
+| SRSF6 | **SRSF1** | 0.987 |
+| SRSF6 | **TRA2B** | 0.987 |
+| SRSF6 | **SRPK1** | 0.988 |
+| SRSF6 | **SRSF3** | 0.991 |
+| SRSF1 | **PCBP2** | 0.805 |
+| SRSF1 | **YTHDC1** | 0.878 |
+| SRSF1 | **HNRNPA2B1** | 0.972 |
+| SRSF1 | **HNRNPC** | 0.977 |
+| SRSF1 | **NXF1** | 0.992 |
+| SRSF1 | **SRSF3** | 0.994 |
+| SRSF1 | **SRSF7** | 0.997 |
+| SRSF1 | **TRA2B** | 0.997 |
+| SRSF1 | **SRSF2** | 0.997 |
+| SRSF1 | **RBM8A** | 0.998 |
+| SRSF1 | **U2AF2** | 0.998 |
+| SRSF1 | **SRPK1** | 0.999 |
+| SRSF1 | **MAGOH** | 0.999 |
+| SRSF1 | **EIF4A3** | 0.999 |
+| U2AF2 | **PCBP2** | 0.585 |
+| U2AF2 | **RBM8A** | 0.637 |
+| U2AF2 | **NXF1** | 0.705 |
+| U2AF2 | **MAGOH** | 0.743 |
+| U2AF2 | **HNRNPA2B1** | 0.869 |
+| U2AF2 | **EIF4A3** | 0.898 |
+| U2AF2 | **SRPK1** | 0.915 |
+| U2AF2 | **TRA2B** | 0.947 |
+| U2AF2 | **HNRNPC** | 0.954 |
+| U2AF2 | **SRSF7** | 0.978 |
+| U2AF2 | **SRSF3** | 0.988 |
+| U2AF2 | **SRSF2** | 0.996 |
+| SRSF7 | **PCBP2** | 0.69 |
+| SRSF7 | **RBM8A** | 0.736 |
+| SRSF7 | **YTHDC1** | 0.892 |
+| SRSF7 | **MAGOH** | 0.9 |
+| SRSF7 | **EIF4A3** | 0.908 |
+| SRSF7 | **HNRNPA2B1** | 0.947 |
+| SRSF7 | **HNRNPC** | 0.951 |
+| SRSF7 | **SRSF2** | 0.961 |
+| SRSF7 | **NXF1** | 0.962 |
+| SRSF7 | **SRPK1** | 0.965 |
+| SRSF7 | **TRA2B** | 0.995 |
+| SRSF7 | **SRSF3** | 0.997 |
+| HNRNPA2B1 | **SRPK1** | 0.421 |
+| HNRNPA2B1 | **NXF1** | 0.572 |
+| HNRNPA2B1 | **MAGOH** | 0.575 |
+| HNRNPA2B1 | **EIF4A3** | 0.6 |
+| HNRNPA2B1 | **RBM8A** | 0.632 |
+| HNRNPA2B1 | **PCBP2** | 0.896 |
+| HNRNPA2B1 | **YTHDC1** | 0.935 |
+| HNRNPA2B1 | **TRA2B** | 0.953 |
+| HNRNPA2B1 | **SRSF2** | 0.954 |
+| HNRNPA2B1 | **SRSF3** | 0.976 |
+| HNRNPA2B1 | **HNRNPC** | 0.999 |
+| PCBP2 | **TRA2B** | 0.753 |
+| PCBP2 | **SRSF2** | 0.778 |
+| PCBP2 | **HNRNPC** | 0.914 |
+| PCBP2 | **SRSF3** | 0.996 |
+| MAGOH | **YTHDC1** | 0.625 |
+| MAGOH | **NXF1** | 0.755 |
+| MAGOH | **TRA2B** | 0.841 |
+| MAGOH | **SRSF2** | 0.883 |
+| MAGOH | **HNRNPC** | 0.893 |
+| MAGOH | **SRSF3** | 0.998 |
+| MAGOH | **RBM8A** | 0.999 |
+| MAGOH | **EIF4A3** | 0.999 |
+| SRSF3 | **SRPK1** | 0.975 |
+| SRSF3 | **HNRNPC** | 0.981 |
+| SRSF3 | **YTHDC1** | 0.995 |
+| SRSF3 | **NXF1** | 0.997 |
+| SRSF3 | **TRA2B** | 0.998 |
+| SRSF3 | **EIF4A3** | 0.998 |
+| SRSF3 | **RBM8A** | 0.998 |
+| SRSF3 | **SRSF2** | 0.999 |
+| SRPK1 | **YTHDC1** | 0.447 |
+| SRPK1 | **RBM8A** | 0.556 |
+| SRPK1 | **EIF4A3** | 0.562 |
+| SRPK1 | **TRA2B** | 0.789 |
+| SRPK1 | **HNRNPC** | 0.895 |
+| SRPK1 | **SRSF2** | 0.994 |
+| SRSF2 | **RBM8A** | 0.674 |
+| SRSF2 | **YTHDC1** | 0.775 |
+| SRSF2 | **NXF1** | 0.896 |
+| SRSF2 | **HNRNPC** | 0.9 |
+| SRSF2 | **EIF4A3** | 0.919 |
+| SRSF2 | **TRA2B** | 0.998 |
+| TRA2B | **RBM8A** | 0.484 |
+| TRA2B | **NXF1** | 0.531 |
+| TRA2B | **YTHDC1** | 0.769 |
+| TRA2B | **EIF4A3** | 0.8 |
+| TRA2B | **HNRNPC** | 0.968 |
+| NXF1 | **HNRNPC** | 0.811 |
+| NXF1 | **YTHDC1** | 0.92 |
+| NXF1 | **EIF4A3** | 0.967 |
+| NXF1 | **RBM8A** | 0.998 |
+| HNRNPC | **RBM8A** | 0.861 |
+| HNRNPC | **EIF4A3** | 0.918 |
+| HNRNPC | **YTHDC1** | 0.945 |
+| RBM8A | **EIF4A3** | 0.999 |
+| YTHDC1 | **EIF4A3** | 0.68 |
+

@@ -1,0 +1,456 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P55017",
+      "uniProtkbId": "S12A3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "8812482"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:10912"
+              }
+            ],
+            "value": "SLC12A3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P59158"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18270262"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21613606"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22009145"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36351028"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36792826"
+                }
+              ],
+              "value": "Electroneutral sodium and chloride ion cotransporter, which acts as a key mediator of sodium and chloride reabsorption in kidney distal convoluted tubules (PubMed:18270262, PubMed:21613606, PubMed:22009145, PubMed:36351028, PubMed:36792826). Also acts as a receptor for the pro-inflammatory cytokine IL18, thereby contributing to IL18-induced cytokine production, including IFNG, IL6, IL18 and CCL2 (By similarity). May act either independently of IL18R1, or in a complex with IL18R1 (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22009145"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "36370249"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "36351028"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "36792826"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "P59158"
+                  }
+                ],
+                "value": "Apical cell membrane",
+                "id": "SL-0015"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "36351028"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "36792826"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0016324",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21397062"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21082674"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8670281"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36370249"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015378",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sodium:chloride symporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36351028"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36792826"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sodium:potassium:chloride symporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006884",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell volume homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055064",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chloride ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902476",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chloride transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055075",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:potassium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990573",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:potassium ion import across plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070294",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:renal sodium ion absorption"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18270262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904044",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to aldosterone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902074",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to salt"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055078",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sodium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035725",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sodium ion transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006814",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sodium ion transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00005782C2"
+      }
+    }
+  ]
+}

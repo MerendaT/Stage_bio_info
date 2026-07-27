@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ARFRP1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ARFRP1
+Identifiant STRING officiel : `9606.ENSP00000483486`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SYS1 | **NAA30** | 0.502 |
+| SYS1 | **STX6** | 0.529 |
+| SYS1 | **COG8** | 0.551 |
+| SYS1 | **STX16** | 0.577 |
+| SYS1 | **COG6** | 0.589 |
+| SYS1 | **VPS51** | 0.598 |
+| SYS1 | **RAB6B** | 0.637 |
+| SYS1 | **VPS53** | 0.645 |
+| SYS1 | **GOLGA1** | 0.652 |
+| SYS1 | **GCC1** | 0.655 |
+| SYS1 | **GOLGA4** | 0.661 |
+| SYS1 | **RAB6A** | 0.678 |
+| SYS1 | **VPS52** | 0.693 |
+| SYS1 | **RIC1** | 0.731 |
+| SYS1 | **ARFRP1** | 0.99 |
+| STX6 | **RIC1** | 0.585 |
+| STX6 | **RAB6B** | 0.668 |
+| STX6 | **ARFRP1** | 0.673 |
+| STX6 | **GOLGA4** | 0.724 |
+| STX6 | **GOLGA1** | 0.757 |
+| STX6 | **GCC1** | 0.759 |
+| STX6 | **RAB6A** | 0.81 |
+| STX6 | **COG8** | 0.862 |
+| STX6 | **VPS52** | 0.873 |
+| STX6 | **COG6** | 0.914 |
+| STX6 | **VPS53** | 0.94 |
+| STX6 | **VPS51** | 0.992 |
+| STX6 | **STX16** | 0.999 |
+| VPS51 | **RAB6B** | 0.571 |
+| VPS51 | **RIC1** | 0.585 |
+| VPS51 | **GOLGA4** | 0.652 |
+| VPS51 | **GCC1** | 0.658 |
+| VPS51 | **GOLGA1** | 0.66 |
+| VPS51 | **ARFRP1** | 0.683 |
+| VPS51 | **RAB6A** | 0.721 |
+| VPS51 | **COG6** | 0.753 |
+| VPS51 | **COG8** | 0.869 |
+| VPS51 | **STX16** | 0.887 |
+| VPS51 | **VPS53** | 0.999 |
+| VPS51 | **VPS52** | 0.999 |
+| RAB6B | **GOLGA4** | 0.56 |
+| RAB6B | **GOLGA1** | 0.587 |
+| RAB6B | **GCC1** | 0.618 |
+| RAB6B | **COG8** | 0.631 |
+| RAB6B | **ARFRP1** | 0.685 |
+| RAB6B | **STX16** | 0.699 |
+| RAB6B | **VPS53** | 0.724 |
+| RAB6B | **VPS52** | 0.737 |
+| RAB6B | **COG6** | 0.737 |
+| RAB6B | **RIC1** | 0.867 |
+| RAB6B | **RAB6A** | 0.869 |
+| RAB6A | **COG8** | 0.735 |
+| RAB6A | **ARFRP1** | 0.735 |
+| RAB6A | **GOLGA4** | 0.752 |
+| RAB6A | **STX16** | 0.843 |
+| RAB6A | **GCC1** | 0.849 |
+| RAB6A | **COG6** | 0.849 |
+| RAB6A | **VPS52** | 0.884 |
+| RAB6A | **GOLGA1** | 0.895 |
+| RAB6A | **RIC1** | 0.898 |
+| RAB6A | **VPS53** | 0.942 |
+| GCC1 | **RIC1** | 0.539 |
+| GCC1 | **COG8** | 0.571 |
+| GCC1 | **COG6** | 0.573 |
+| GCC1 | **ARFRP1** | 0.676 |
+| GCC1 | **VPS52** | 0.684 |
+| GCC1 | **VPS53** | 0.687 |
+| GCC1 | **STX16** | 0.732 |
+| GCC1 | **GOLGA1** | 0.868 |
+| GCC1 | **GOLGA4** | 0.958 |
+| GOLGA4 | **COG6** | 0.601 |
+| GOLGA4 | **RIC1** | 0.622 |
+| GOLGA4 | **VPS52** | 0.656 |
+| GOLGA4 | **STX16** | 0.688 |
+| GOLGA4 | **VPS53** | 0.689 |
+| GOLGA4 | **COG8** | 0.69 |
+| GOLGA4 | **ARFRP1** | 0.731 |
+| GOLGA4 | **GOLGA1** | 0.921 |
+| STX16 | **RIC1** | 0.606 |
+| STX16 | **ARFRP1** | 0.695 |
+| STX16 | **GOLGA1** | 0.755 |
+| STX16 | **COG6** | 0.86 |
+| STX16 | **VPS52** | 0.89 |
+| STX16 | **COG8** | 0.929 |
+| STX16 | **VPS53** | 0.953 |
+| GOLGA1 | **RIC1** | 0.61 |
+| GOLGA1 | **COG8** | 0.648 |
+| GOLGA1 | **COG6** | 0.67 |
+| GOLGA1 | **VPS53** | 0.676 |
+| GOLGA1 | **VPS52** | 0.716 |
+| GOLGA1 | **ARFRP1** | 0.735 |
+| COG6 | **RIC1** | 0.694 |
+| COG6 | **ARFRP1** | 0.744 |
+| COG6 | **VPS53** | 0.834 |
+| COG6 | **VPS52** | 0.891 |
+| COG6 | **COG8** | 0.999 |
+| VPS53 | **RIC1** | 0.624 |
+| VPS53 | **ARFRP1** | 0.731 |
+| VPS53 | **COG8** | 0.864 |
+| VPS53 | **VPS52** | 0.999 |
+| VPS52 | **RIC1** | 0.619 |
+| VPS52 | **ARFRP1** | 0.719 |
+| VPS52 | **COG8** | 0.846 |
+| RIC1 | **ARFRP1** | 0.72 |
+| RIC1 | **COG8** | 0.907 |
+| NAA30 | **ARFRP1** | 0.675 |
+| ARFRP1 | **COG8** | 0.746 |
+

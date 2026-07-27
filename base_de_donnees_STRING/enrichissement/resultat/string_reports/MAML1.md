@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MAML1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MAML1
+Identifiant STRING officiel : `9606.ENSP00000292599`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KAT2A | **NOTCH3** | 0.549 |
+| KAT2A | **NOTCH4** | 0.551 |
+| KAT2A | **HEY1** | 0.552 |
+| KAT2A | **NOTCH2** | 0.559 |
+| KAT2A | **NOTCH1** | 0.767 |
+| KAT2A | **MAML3** | 0.831 |
+| KAT2A | **MAML2** | 0.831 |
+| KAT2A | **RBPJL** | 0.91 |
+| KAT2A | **MAML1** | 0.937 |
+| KAT2A | **CREBBP** | 0.964 |
+| KAT2A | **KAT2B** | 0.969 |
+| KAT2A | **RBPJ** | 0.988 |
+| KAT2A | **EP300** | 0.994 |
+| JAG1 | **RBPJL** | 0.558 |
+| JAG1 | **ANK1** | 0.608 |
+| JAG1 | **MAML3** | 0.753 |
+| JAG1 | **MAML2** | 0.803 |
+| JAG1 | **MAML1** | 0.877 |
+| JAG1 | **HEY1** | 0.926 |
+| JAG1 | **RBPJ** | 0.938 |
+| JAG1 | **NOTCH4** | 0.999 |
+| JAG1 | **NOTCH2** | 0.999 |
+| JAG1 | **NOTCH3** | 0.999 |
+| JAG1 | **NOTCH1** | 0.999 |
+| NOTCH2 | **KAT2B** | 0.56 |
+| NOTCH2 | **NOTCH3** | 0.777 |
+| NOTCH2 | **HEY1** | 0.788 |
+| NOTCH2 | **EP300** | 0.814 |
+| NOTCH2 | **CREBBP** | 0.818 |
+| NOTCH2 | **NOTCH4** | 0.823 |
+| NOTCH2 | **NOTCH1** | 0.932 |
+| NOTCH2 | **RBPJL** | 0.95 |
+| NOTCH2 | **MAML3** | 0.966 |
+| NOTCH2 | **MAML2** | 0.968 |
+| NOTCH2 | **MAML1** | 0.991 |
+| NOTCH2 | **RBPJ** | 0.998 |
+| CREBBP | **HEY1** | 0.564 |
+| CREBBP | **NOTCH4** | 0.595 |
+| CREBBP | **NOTCH3** | 0.67 |
+| CREBBP | **NOTCH1** | 0.783 |
+| CREBBP | **MAML3** | 0.851 |
+| CREBBP | **MAML2** | 0.888 |
+| CREBBP | **MAML1** | 0.903 |
+| CREBBP | **RBPJL** | 0.926 |
+| CREBBP | **RBPJ** | 0.939 |
+| CREBBP | **KAT2B** | 0.999 |
+| CREBBP | **EP300** | 0.999 |
+| EP300 | **NOTCH3** | 0.656 |
+| EP300 | **HEY1** | 0.73 |
+| EP300 | **NOTCH4** | 0.742 |
+| EP300 | **RBPJL** | 0.925 |
+| EP300 | **MAML3** | 0.934 |
+| EP300 | **NOTCH1** | 0.94 |
+| EP300 | **MAML2** | 0.95 |
+| EP300 | **RBPJ** | 0.98 |
+| EP300 | **MAML1** | 0.997 |
+| EP300 | **KAT2B** | 0.999 |
+| NOTCH3 | **KAT2B** | 0.568 |
+| NOTCH3 | **NOTCH1** | 0.811 |
+| NOTCH3 | **NOTCH4** | 0.828 |
+| NOTCH3 | **HEY1** | 0.892 |
+| NOTCH3 | **RBPJL** | 0.949 |
+| NOTCH3 | **MAML2** | 0.978 |
+| NOTCH3 | **MAML3** | 0.986 |
+| NOTCH3 | **MAML1** | 0.988 |
+| NOTCH3 | **RBPJ** | 0.998 |
+| KAT2B | **NOTCH4** | 0.556 |
+| KAT2B | **HEY1** | 0.588 |
+| KAT2B | **NOTCH1** | 0.835 |
+| KAT2B | **MAML3** | 0.841 |
+| KAT2B | **MAML2** | 0.843 |
+| KAT2B | **RBPJL** | 0.916 |
+| KAT2B | **MAML1** | 0.938 |
+| KAT2B | **RBPJ** | 0.992 |
+| ANK1 | **NOTCH1** | 0.528 |
+| ANK1 | **MAML2** | 0.763 |
+| ANK1 | **MAML3** | 0.872 |
+| ANK1 | **RBPJ** | 0.875 |
+| ANK1 | **MAML1** | 0.879 |
+| MAML1 | **HEY1** | 0.871 |
+| MAML1 | **MAML3** | 0.938 |
+| MAML1 | **MAML2** | 0.95 |
+| MAML1 | **RBPJL** | 0.975 |
+| MAML1 | **NOTCH4** | 0.984 |
+| MAML1 | **RBPJ** | 0.999 |
+| MAML1 | **NOTCH1** | 0.999 |
+| HEY1 | **RBPJL** | 0.409 |
+| HEY1 | **MAML3** | 0.797 |
+| HEY1 | **MAML2** | 0.802 |
+| HEY1 | **NOTCH4** | 0.911 |
+| HEY1 | **RBPJ** | 0.919 |
+| HEY1 | **NOTCH1** | 0.965 |
+| RBPJL | **RBPJ** | 0.93 |
+| RBPJL | **NOTCH4** | 0.933 |
+| RBPJL | **NOTCH1** | 0.942 |
+| RBPJL | **MAML3** | 0.946 |
+| RBPJL | **MAML2** | 0.959 |
+| RBPJ | **NOTCH4** | 0.988 |
+| RBPJ | **MAML3** | 0.999 |
+| RBPJ | **MAML2** | 0.999 |
+| RBPJ | **NOTCH1** | 0.999 |
+| NOTCH4 | **NOTCH1** | 0.846 |
+| NOTCH4 | **MAML2** | 0.971 |
+| NOTCH4 | **MAML3** | 0.981 |
+| MAML3 | **MAML2** | 0.937 |
+| MAML3 | **NOTCH1** | 0.999 |
+| MAML2 | **NOTCH1** | 0.999 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PBK
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PBK
+Identifiant STRING officiel : `9606.ENSP00000428489`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLGAP5 | **MAD2L1** | 0.906 |
+| DLGAP5 | **CDK1** | 0.957 |
+| DLGAP5 | **NUF2** | 0.964 |
+| DLGAP5 | **NUSAP1** | 0.965 |
+| DLGAP5 | **CCNB1** | 0.965 |
+| DLGAP5 | **BIRC5** | 0.967 |
+| DLGAP5 | **KIF20A** | 0.97 |
+| DLGAP5 | **TTK** | 0.977 |
+| DLGAP5 | **TOP2A** | 0.978 |
+| DLGAP5 | **PBK** | 0.979 |
+| DLGAP5 | **CDC20** | 0.981 |
+| DLGAP5 | **MELK** | 0.982 |
+| DLGAP5 | **ASPM** | 0.994 |
+| DLGAP5 | **KIF11** | 0.997 |
+| DLGAP5 | **CEP55** | 0.999 |
+| CCNB1 | **NUSAP1** | 0.923 |
+| CCNB1 | **TTK** | 0.936 |
+| CCNB1 | **CEP55** | 0.94 |
+| CCNB1 | **ASPM** | 0.952 |
+| CCNB1 | **KIF20A** | 0.954 |
+| CCNB1 | **PBK** | 0.962 |
+| CCNB1 | **KIF11** | 0.966 |
+| CCNB1 | **NUF2** | 0.967 |
+| CCNB1 | **MELK** | 0.972 |
+| CCNB1 | **MAD2L1** | 0.988 |
+| CCNB1 | **TOP2A** | 0.989 |
+| CCNB1 | **BIRC5** | 0.993 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| KIF11 | **MELK** | 0.941 |
+| KIF11 | **PBK** | 0.955 |
+| KIF11 | **BIRC5** | 0.957 |
+| KIF11 | **MAD2L1** | 0.973 |
+| KIF11 | **NUSAP1** | 0.974 |
+| KIF11 | **NUF2** | 0.975 |
+| KIF11 | **TOP2A** | 0.975 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **TTK** | 0.984 |
+| KIF11 | **CDC20** | 0.987 |
+| KIF11 | **CDK1** | 0.987 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **CEP55** | 0.997 |
+| NUF2 | **NUSAP1** | 0.911 |
+| NUF2 | **TOP2A** | 0.936 |
+| NUF2 | **MELK** | 0.936 |
+| NUF2 | **CEP55** | 0.947 |
+| NUF2 | **BIRC5** | 0.949 |
+| NUF2 | **KIF20A** | 0.955 |
+| NUF2 | **CDK1** | 0.957 |
+| NUF2 | **PBK** | 0.96 |
+| NUF2 | **CDC20** | 0.962 |
+| NUF2 | **ASPM** | 0.98 |
+| NUF2 | **MAD2L1** | 0.981 |
+| NUF2 | **TTK** | 0.989 |
+| MAD2L1 | **CEP55** | 0.73 |
+| MAD2L1 | **ASPM** | 0.812 |
+| MAD2L1 | **NUSAP1** | 0.847 |
+| MAD2L1 | **TOP2A** | 0.89 |
+| MAD2L1 | **KIF20A** | 0.913 |
+| MAD2L1 | **MELK** | 0.946 |
+| MAD2L1 | **PBK** | 0.952 |
+| MAD2L1 | **BIRC5** | 0.981 |
+| MAD2L1 | **CDK1** | 0.992 |
+| MAD2L1 | **TTK** | 0.995 |
+| MAD2L1 | **CDC20** | 0.999 |
+| MELK | **CDK1** | 0.902 |
+| MELK | **KIF20A** | 0.929 |
+| MELK | **NUSAP1** | 0.93 |
+| MELK | **TTK** | 0.931 |
+| MELK | **ASPM** | 0.946 |
+| MELK | **TOP2A** | 0.955 |
+| MELK | **CEP55** | 0.956 |
+| MELK | **PBK** | 0.963 |
+| MELK | **CDC20** | 0.964 |
+| MELK | **BIRC5** | 0.965 |
+| BIRC5 | **ASPM** | 0.879 |
+| BIRC5 | **CEP55** | 0.913 |
+| BIRC5 | **TTK** | 0.936 |
+| BIRC5 | **NUSAP1** | 0.953 |
+| BIRC5 | **KIF20A** | 0.973 |
+| BIRC5 | **TOP2A** | 0.976 |
+| BIRC5 | **PBK** | 0.978 |
+| BIRC5 | **CDC20** | 0.995 |
+| BIRC5 | **CDK1** | 0.997 |
+| ASPM | **NUSAP1** | 0.94 |
+| ASPM | **CDK1** | 0.942 |
+| ASPM | **CEP55** | 0.95 |
+| ASPM | **PBK** | 0.951 |
+| ASPM | **TTK** | 0.957 |
+| ASPM | **CDC20** | 0.972 |
+| ASPM | **KIF20A** | 0.975 |
+| ASPM | **TOP2A** | 0.996 |
+| TTK | **CDK1** | 0.905 |
+| TTK | **KIF20A** | 0.923 |
+| TTK | **NUSAP1** | 0.926 |
+| TTK | **CEP55** | 0.945 |
+| TTK | **TOP2A** | 0.958 |
+| TTK | **PBK** | 0.969 |
+| TTK | **CDC20** | 0.99 |
+| CEP55 | **TOP2A** | 0.928 |
+| CEP55 | **NUSAP1** | 0.93 |
+| CEP55 | **CDC20** | 0.95 |
+| CEP55 | **CDK1** | 0.957 |
+| CEP55 | **PBK** | 0.957 |
+| CEP55 | **KIF20A** | 0.962 |
+| CDC20 | **NUSAP1** | 0.946 |
+| CDC20 | **PBK** | 0.959 |
+| CDC20 | **TOP2A** | 0.98 |
+| CDC20 | **KIF20A** | 0.981 |
+| CDC20 | **CDK1** | 0.999 |
+| KIF20A | **PBK** | 0.955 |
+| KIF20A | **NUSAP1** | 0.956 |
+| KIF20A | **CDK1** | 0.958 |
+| KIF20A | **TOP2A** | 0.974 |
+| CDK1 | **NUSAP1** | 0.946 |
+| CDK1 | **PBK** | 0.988 |
+| CDK1 | **TOP2A** | 0.997 |
+| TOP2A | **PBK** | 0.958 |
+| TOP2A | **NUSAP1** | 0.999 |
+| PBK | **NUSAP1** | 0.954 |
+

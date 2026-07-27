@@ -1,0 +1,954 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O75581",
+      "uniProtkbId": "LRP6_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "LRP6"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "O88572"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11357136"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11448771"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15778503"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16341017"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16513652"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17326769"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17400545"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19107203"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19293931"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19801552"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28341812"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "34896607"
+                }
+              ],
+              "value": "Component of the Wnt-Fzd-LRP5-LRP6 complex that triggers beta-catenin signaling through inducing aggregation of receptor-ligand complexes into ribosome-sized signalosomes (PubMed:11357136, PubMed:11448771, PubMed:15778503, PubMed:16341017, PubMed:16513652, PubMed:17326769, PubMed:17400545, PubMed:19107203, PubMed:19293931, PubMed:19801552, PubMed:28341812, PubMed:34896607). Cell-surface coreceptor of Wnt/beta-catenin signaling, which plays a pivotal role in various processes including retinal angiogenesis and bone formation (PubMed:11357136, PubMed:11448771, PubMed:15778503, PubMed:16341017, PubMed:16513652, PubMed:17326769, PubMed:17400545, PubMed:19107203, PubMed:19293931, PubMed:19801552, PubMed:28341812, PubMed:34896607). The Wnt-induced Fzd/LRP6 coreceptor complex recruits DVL1 polymers to the plasma membrane which, in turn, recruits the AXIN1/GSK3B-complex to the cell surface promoting the formation of signalosomes and inhibiting AXIN1/GSK3-mediated phosphorylation and destruction of beta-catenin (PubMed:16513652). Required for posterior patterning of the epiblast during gastrulation (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "O88572"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23572575"
+                  }
+                ],
+                "value": "On Wnt signaling, undergoes a cycle of caveolin- or clathrin-mediated endocytosis and plasma membrane location. Released from the endoplasmic reticulum on palmitoylation. Mono-ubiquitination retains it in the endoplasmic reticulum in the absence of palmitoylation. On Wnt signaling, phosphorylated, aggregates and colocalizes with AXIN1 and GSK3B at the plasma membrane in LRP6-signalosomes (By similarity). Chaperoned to the plasma membrane by HSP90B1 and MESD (PubMed:23572575)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21375506"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23572575"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26387593"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26387593"
+                  }
+                ],
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23987510"
+                  }
+                ],
+                "value": "Membrane raft",
+                "id": "SL-0370"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12897152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasmic vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20093472"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:early endosome membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045121",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane raft"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043025",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neuronal cell body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21375506"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23572575"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045202",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:synapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:GOC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990909",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Wnt signalosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22899650"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990851",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Wnt-Frizzled-LRP5/6 complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20093360"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015026",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:coreceptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11029007"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005109",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:frizzled binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "11029007"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12897152"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "21984209"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019210",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:kinase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16365045"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005041",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:low-density lipoprotein particle receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16263759"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12897152"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030291",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein serine/threonine kinase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19107203"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "14739301"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019534",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:toxin transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16564009"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042813",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:Wnt receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11357136"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017147",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:Wnt-protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "11029007"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12897152"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "20093360"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060070",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:canonical Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20059949"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098609",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell-cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071397",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to cholesterol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16890161"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007268",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chemical synaptic transmission"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071542",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:dopaminergic neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endocytosis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904948",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:midbrain dopaminergic neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22988876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034392",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of smooth muscle cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15271658"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007399",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:nervous system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0014033",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neural crest cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11029007"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0014029",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neural crest formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11029007"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045787",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15271658"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007204",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cytosolic calcium ion concentration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18215320"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12857724"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14739301"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072659",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein localization to plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "22899650"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043434",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to peptide hormone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016055",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11357136"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001FB66C"
+      }
+    }
+  ]
+}

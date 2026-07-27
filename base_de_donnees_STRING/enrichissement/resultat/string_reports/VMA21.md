@@ -1,0 +1,105 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : VMA21
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : VMA21
+Identifiant STRING officiel : `9606.ENSP00000359386`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ATP6V0A1 | **KIAA2013** | 0.516 |
+| ATP6V0A1 | **VMA21** | 0.65 |
+| ATP6V0A1 | **ATP6V0A4** | 0.937 |
+| ATP6V0A1 | **TMEM199** | 0.955 |
+| ATP6V0A1 | **TCIRG1** | 0.96 |
+| ATP6V0A1 | **ATP6V0A2** | 0.977 |
+| ATP6V0A1 | **ATP6V0E1** | 0.995 |
+| ATP6V0A1 | **ATP6AP2** | 0.998 |
+| ATP6V0A1 | **ATP6V1F** | 0.999 |
+| ATP6V0A1 | **ATP6V0D1** | 0.999 |
+| ATP6V0A1 | **ATP6V0C** | 0.999 |
+| ATP6V0A1 | **ATP6V0B** | 0.999 |
+| ATP6V0A1 | **ATP6V0D2** | 0.999 |
+| TCIRG1 | **VMA21** | 0.708 |
+| TCIRG1 | **ATP6V0E1** | 0.835 |
+| TCIRG1 | **TMEM199** | 0.885 |
+| TCIRG1 | **ATP6V0A4** | 0.94 |
+| TCIRG1 | **ATP6V0A2** | 0.95 |
+| TCIRG1 | **ATP6AP2** | 0.977 |
+| TCIRG1 | **ATP6V1F** | 0.995 |
+| TCIRG1 | **ATP6V0B** | 0.996 |
+| TCIRG1 | **ATP6V0C** | 0.998 |
+| TCIRG1 | **ATP6V0D1** | 0.998 |
+| TCIRG1 | **ATP6V0D2** | 0.999 |
+| ATP6V0D2 | **KIAA2013** | 0.666 |
+| ATP6V0D2 | **ATP6V0E1** | 0.947 |
+| ATP6V0D2 | **VMA21** | 0.959 |
+| ATP6V0D2 | **ATP6V0D1** | 0.971 |
+| ATP6V0D2 | **TMEM199** | 0.986 |
+| ATP6V0D2 | **ATP6AP2** | 0.992 |
+| ATP6V0D2 | **ATP6V0A2** | 0.998 |
+| ATP6V0D2 | **ATP6V0B** | 0.998 |
+| ATP6V0D2 | **ATP6V0C** | 0.999 |
+| ATP6V0D2 | **ATP6V0A4** | 0.999 |
+| ATP6V0D2 | **ATP6V1F** | 0.999 |
+| ATP6V0D1 | **KIAA2013** | 0.603 |
+| ATP6V0D1 | **VMA21** | 0.942 |
+| ATP6V0D1 | **TMEM199** | 0.987 |
+| ATP6V0D1 | **ATP6V0E1** | 0.99 |
+| ATP6V0D1 | **ATP6V0A2** | 0.999 |
+| ATP6V0D1 | **ATP6V0B** | 0.999 |
+| ATP6V0D1 | **ATP6V0C** | 0.999 |
+| ATP6V0D1 | **ATP6V0A4** | 0.999 |
+| ATP6V0D1 | **ATP6V1F** | 0.999 |
+| ATP6V0D1 | **ATP6AP2** | 0.999 |
+| TMEM199 | **KIAA2013** | 0.683 |
+| TMEM199 | **VMA21** | 0.831 |
+| TMEM199 | **ATP6V0B** | 0.85 |
+| TMEM199 | **ATP6V0E1** | 0.855 |
+| TMEM199 | **ATP6V0A4** | 0.944 |
+| TMEM199 | **ATP6V0C** | 0.953 |
+| TMEM199 | **ATP6V0A2** | 0.96 |
+| TMEM199 | **ATP6AP2** | 0.961 |
+| TMEM199 | **ATP6V1F** | 0.962 |
+| ATP6V0A4 | **VMA21** | 0.741 |
+| ATP6V0A4 | **ATP6V0A2** | 0.963 |
+| ATP6V0A4 | **ATP6V0E1** | 0.989 |
+| ATP6V0A4 | **ATP6AP2** | 0.995 |
+| ATP6V0A4 | **ATP6V0C** | 0.999 |
+| ATP6V0A4 | **ATP6V0B** | 0.999 |
+| ATP6V0A4 | **ATP6V1F** | 0.999 |
+| ATP6V0C | **KIAA2013** | 0.636 |
+| ATP6V0C | **VMA21** | 0.965 |
+| ATP6V0C | **ATP6AP2** | 0.998 |
+| ATP6V0C | **ATP6V0E1** | 0.998 |
+| ATP6V0C | **ATP6V1F** | 0.999 |
+| ATP6V0C | **ATP6V0B** | 0.999 |
+| ATP6V0C | **ATP6V0A2** | 0.999 |
+| ATP6V0A2 | **LAMP2** | 0.421 |
+| ATP6V0A2 | **KIAA2013** | 0.528 |
+| ATP6V0A2 | **VMA21** | 0.881 |
+| ATP6V0A2 | **ATP6V0E1** | 0.95 |
+| ATP6V0A2 | **ATP6AP2** | 0.983 |
+| ATP6V0A2 | **ATP6V0B** | 0.997 |
+| ATP6V0A2 | **ATP6V1F** | 0.998 |
+| EMD | **VMA21** | 0.776 |
+| VMA21 | **LAMP2** | 0.602 |
+| VMA21 | **ATP6V1F** | 0.663 |
+| VMA21 | **KIAA2013** | 0.675 |
+| VMA21 | **ATP6V0E1** | 0.698 |
+| VMA21 | **ATP6AP2** | 0.846 |
+| VMA21 | **ATP6V0B** | 0.864 |
+| KIAA2013 | **ATP6V1F** | 0.522 |
+| KIAA2013 | **ATP6AP2** | 0.654 |
+| LAMP2 | **ATP6V0E1** | 0.401 |
+| LAMP2 | **ATP6AP2** | 0.575 |
+| ATP6V1F | **ATP6AP2** | 0.996 |
+| ATP6V1F | **ATP6V0E1** | 0.998 |
+| ATP6V1F | **ATP6V0B** | 0.999 |
+| ATP6V0E1 | **ATP6AP2** | 0.995 |
+| ATP6V0E1 | **ATP6V0B** | 0.998 |
+| ATP6V0B | **ATP6AP2** | 0.999 |
+

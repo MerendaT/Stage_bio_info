@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SP1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SP1
+Identifiant STRING officiel : `9606.ENSP00000329357`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MAPK1 | **HDAC1** | 0.534 |
+| MAPK1 | **MAPK8** | 0.747 |
+| MAPK1 | **CREBBP** | 0.803 |
+| MAPK1 | **EP300** | 0.818 |
+| MAPK1 | **ESR2** | 0.948 |
+| MAPK1 | **SMAD3** | 0.962 |
+| MAPK1 | **SMAD2** | 0.967 |
+| MAPK1 | **SP1** | 0.969 |
+| MAPK1 | **MYC** | 0.983 |
+| MAPK1 | **ESR1** | 0.987 |
+| MAPK1 | **MAPK3** | 0.994 |
+| MAPK1 | **TP53** | 0.998 |
+| MAPK1 | **JUN** | 0.998 |
+| TBP | **ESR2** | 0.512 |
+| TBP | **CREBBP** | 0.616 |
+| TBP | **JUN** | 0.777 |
+| TBP | **E2F1** | 0.786 |
+| TBP | **HDAC1** | 0.865 |
+| TBP | **EP300** | 0.946 |
+| TBP | **ESR1** | 0.949 |
+| TBP | **MYC** | 0.953 |
+| TBP | **SP1** | 0.994 |
+| TBP | **TP53** | 0.997 |
+| SMAD2 | **MAPK8** | 0.493 |
+| SMAD2 | **ESR1** | 0.83 |
+| SMAD2 | **JUN** | 0.925 |
+| SMAD2 | **SP1** | 0.959 |
+| SMAD2 | **MAPK3** | 0.979 |
+| SMAD2 | **HDAC1** | 0.98 |
+| SMAD2 | **MYC** | 0.982 |
+| SMAD2 | **CREBBP** | 0.986 |
+| SMAD2 | **EP300** | 0.987 |
+| SMAD2 | **TP53** | 0.993 |
+| SMAD2 | **SMAD3** | 0.999 |
+| CREBBP | **ESR2** | 0.492 |
+| CREBBP | **MAPK8** | 0.694 |
+| CREBBP | **MAPK3** | 0.701 |
+| CREBBP | **E2F1** | 0.882 |
+| CREBBP | **MYC** | 0.945 |
+| CREBBP | **HDAC1** | 0.96 |
+| CREBBP | **SP1** | 0.992 |
+| CREBBP | **ESR1** | 0.993 |
+| CREBBP | **JUN** | 0.994 |
+| CREBBP | **SMAD3** | 0.995 |
+| CREBBP | **TP53** | 0.999 |
+| CREBBP | **EP300** | 0.999 |
+| MAPK3 | **E2F1** | 0.452 |
+| MAPK3 | **HDAC1** | 0.48 |
+| MAPK3 | **MAPK8** | 0.505 |
+| MAPK3 | **EP300** | 0.655 |
+| MAPK3 | **ESR2** | 0.955 |
+| MAPK3 | **SMAD3** | 0.964 |
+| MAPK3 | **SP1** | 0.972 |
+| MAPK3 | **ESR1** | 0.981 |
+| MAPK3 | **MYC** | 0.986 |
+| MAPK3 | **JUN** | 0.987 |
+| MAPK3 | **TP53** | 0.994 |
+| EP300 | **MAPK8** | 0.7 |
+| EP300 | **ESR2** | 0.811 |
+| EP300 | **E2F1** | 0.973 |
+| EP300 | **ESR1** | 0.997 |
+| EP300 | **TP53** | 0.999 |
+| EP300 | **JUN** | 0.999 |
+| EP300 | **HDAC1** | 0.999 |
+| EP300 | **SMAD3** | 0.999 |
+| EP300 | **MYC** | 0.999 |
+| EP300 | **SP1** | 0.999 |
+| TP53 | **ESR2** | 0.783 |
+| TP53 | **SMAD3** | 0.963 |
+| TP53 | **E2F1** | 0.986 |
+| TP53 | **ESR1** | 0.992 |
+| TP53 | **SP1** | 0.994 |
+| TP53 | **JUN** | 0.997 |
+| TP53 | **MYC** | 0.997 |
+| TP53 | **MAPK8** | 0.997 |
+| TP53 | **HDAC1** | 0.999 |
+| SP1 | **MAPK8** | 0.962 |
+| SP1 | **MYC** | 0.974 |
+| SP1 | **SMAD3** | 0.978 |
+| SP1 | **E2F1** | 0.983 |
+| SP1 | **ESR2** | 0.988 |
+| SP1 | **HDAC1** | 0.991 |
+| SP1 | **JUN** | 0.996 |
+| SP1 | **ESR1** | 0.999 |
+| SMAD3 | **ESR2** | 0.553 |
+| SMAD3 | **E2F1** | 0.728 |
+| SMAD3 | **ESR1** | 0.84 |
+| SMAD3 | **MAPK8** | 0.977 |
+| SMAD3 | **HDAC1** | 0.98 |
+| SMAD3 | **MYC** | 0.993 |
+| SMAD3 | **JUN** | 0.997 |
+| ESR2 | **MYC** | 0.518 |
+| ESR2 | **MAPK8** | 0.923 |
+| ESR2 | **JUN** | 0.967 |
+| ESR2 | **ESR1** | 0.998 |
+| E2F1 | **ESR1** | 0.713 |
+| E2F1 | **JUN** | 0.743 |
+| E2F1 | **MYC** | 0.995 |
+| E2F1 | **HDAC1** | 0.999 |
+| JUN | **HDAC1** | 0.967 |
+| JUN | **MYC** | 0.97 |
+| JUN | **MAPK8** | 0.999 |
+| JUN | **ESR1** | 0.999 |
+| HDAC1 | **MAPK8** | 0.488 |
+| HDAC1 | **MYC** | 0.991 |
+| HDAC1 | **ESR1** | 0.998 |
+| MAPK8 | **MYC** | 0.666 |
+| MAPK8 | **ESR1** | 0.964 |
+| ESR1 | **MYC** | 0.982 |
+

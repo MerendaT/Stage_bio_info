@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PIK3CD
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PIK3CD
+Identifiant STRING officiel : `9606.ENSP00000366563`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PIK3R2 | **RRAS2** | 0.734 |
+| PIK3R2 | **PLCG2** | 0.91 |
+| PIK3R2 | **RRAS** | 0.914 |
+| PIK3R2 | **BTK** | 0.925 |
+| PIK3R2 | **KRAS** | 0.946 |
+| PIK3R2 | **SYK** | 0.964 |
+| PIK3R2 | **AKT1** | 0.971 |
+| PIK3R2 | **PIK3R5** | 0.98 |
+| PIK3R2 | **PTEN** | 0.985 |
+| PIK3R2 | **PIK3R3** | 0.999 |
+| PIK3R2 | **PIK3R1** | 0.999 |
+| PIK3R2 | **PIK3CB** | 0.999 |
+| PIK3R2 | **PIK3CD** | 0.999 |
+| PIK3R2 | **PIK3CA** | 0.999 |
+| PIK3R2 | **PIK3CG** | 0.999 |
+| RRAS | **AKT1** | 0.761 |
+| RRAS | **RRAS2** | 0.905 |
+| RRAS | **PIK3R3** | 0.915 |
+| RRAS | **PIK3R1** | 0.927 |
+| RRAS | **PIK3CB** | 0.944 |
+| RRAS | **PIK3CG** | 0.978 |
+| RRAS | **PIK3CA** | 0.997 |
+| RRAS | **PIK3CD** | 0.997 |
+| KRAS | **BTK** | 0.535 |
+| KRAS | **AKT1** | 0.904 |
+| KRAS | **PIK3R5** | 0.921 |
+| KRAS | **PTEN** | 0.936 |
+| KRAS | **SYK** | 0.936 |
+| KRAS | **PIK3R3** | 0.952 |
+| KRAS | **PIK3R1** | 0.963 |
+| KRAS | **PIK3CG** | 0.968 |
+| KRAS | **PIK3CB** | 0.973 |
+| KRAS | **PIK3CD** | 0.974 |
+| KRAS | **PIK3CA** | 0.998 |
+| RRAS2 | **AKT1** | 0.409 |
+| RRAS2 | **PIK3R3** | 0.707 |
+| RRAS2 | **PIK3R1** | 0.794 |
+| RRAS2 | **PIK3CB** | 0.828 |
+| RRAS2 | **PIK3CG** | 0.978 |
+| RRAS2 | **PIK3CA** | 0.988 |
+| RRAS2 | **PIK3CD** | 0.989 |
+| PIK3R3 | **PLCG2** | 0.909 |
+| PIK3R3 | **BTK** | 0.927 |
+| PIK3R3 | **SYK** | 0.937 |
+| PIK3R3 | **PTEN** | 0.955 |
+| PIK3R3 | **AKT1** | 0.962 |
+| PIK3R3 | **PIK3R5** | 0.981 |
+| PIK3R3 | **PIK3R1** | 0.997 |
+| PIK3R3 | **PIK3CA** | 0.999 |
+| PIK3R3 | **PIK3CG** | 0.999 |
+| PIK3R3 | **PIK3CD** | 0.999 |
+| PIK3R3 | **PIK3CB** | 0.999 |
+| PIK3CA | **PLCG2** | 0.928 |
+| PIK3CA | **SYK** | 0.935 |
+| PIK3CA | **BTK** | 0.946 |
+| PIK3CA | **PTEN** | 0.995 |
+| PIK3CA | **PIK3CG** | 0.997 |
+| PIK3CA | **PIK3CD** | 0.998 |
+| PIK3CA | **PIK3CB** | 0.998 |
+| PIK3CA | **AKT1** | 0.998 |
+| PIK3CA | **PIK3R5** | 0.999 |
+| PIK3CA | **PIK3R1** | 0.999 |
+| PTEN | **SYK** | 0.465 |
+| PTEN | **BTK** | 0.513 |
+| PTEN | **PIK3R5** | 0.607 |
+| PTEN | **PIK3CG** | 0.836 |
+| PTEN | **PLCG2** | 0.931 |
+| PTEN | **PIK3CD** | 0.973 |
+| PTEN | **PIK3CB** | 0.984 |
+| PTEN | **AKT1** | 0.988 |
+| PTEN | **PIK3R1** | 0.997 |
+| SYK | **AKT1** | 0.628 |
+| SYK | **PIK3R5** | 0.639 |
+| SYK | **PIK3CG** | 0.882 |
+| SYK | **PIK3CB** | 0.938 |
+| SYK | **PIK3CD** | 0.976 |
+| SYK | **PIK3R1** | 0.98 |
+| SYK | **BTK** | 0.999 |
+| SYK | **PLCG2** | 0.999 |
+| PIK3CD | **PLCG2** | 0.974 |
+| PIK3CD | **AKT1** | 0.976 |
+| PIK3CD | **BTK** | 0.978 |
+| PIK3CD | **PIK3CG** | 0.994 |
+| PIK3CD | **PIK3CB** | 0.998 |
+| PIK3CD | **PIK3R5** | 0.999 |
+| PIK3CD | **PIK3R1** | 0.999 |
+| PIK3R5 | **BTK** | 0.471 |
+| PIK3R5 | **PLCG2** | 0.491 |
+| PIK3R5 | **AKT1** | 0.945 |
+| PIK3R5 | **PIK3R1** | 0.966 |
+| PIK3R5 | **PIK3CB** | 0.999 |
+| PIK3R5 | **PIK3CG** | 0.999 |
+| PIK3CG | **BTK** | 0.665 |
+| PIK3CG | **PLCG2** | 0.808 |
+| PIK3CG | **AKT1** | 0.994 |
+| PIK3CG | **PIK3CB** | 0.997 |
+| PIK3CG | **PIK3R1** | 0.999 |
+| PIK3R1 | **BTK** | 0.947 |
+| PIK3R1 | **PLCG2** | 0.979 |
+| PIK3R1 | **AKT1** | 0.995 |
+| PIK3R1 | **PIK3CB** | 0.999 |
+| AKT1 | **BTK** | 0.61 |
+| AKT1 | **PLCG2** | 0.771 |
+| AKT1 | **PIK3CB** | 0.992 |
+| PLCG2 | **PIK3CB** | 0.938 |
+| PLCG2 | **BTK** | 0.999 |
+| BTK | **PIK3CB** | 0.943 |
+

@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UIMC1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UIMC1
+Identifiant STRING officiel : `9606.ENSP00000421926`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BARD1 | **SUMO2** | 0.721 |
+| BARD1 | **H2AX** | 0.867 |
+| BARD1 | **TP53BP1** | 0.868 |
+| BARD1 | **H2AC20** | 0.869 |
+| BARD1 | **RNF8** | 0.908 |
+| BARD1 | **RPS27A** | 0.953 |
+| BARD1 | **UBA52** | 0.953 |
+| BARD1 | **MDC1** | 0.954 |
+| BARD1 | **UBC** | 0.97 |
+| BARD1 | **BABAM1** | 0.998 |
+| BARD1 | **UIMC1** | 0.999 |
+| BARD1 | **ABRAXAS1** | 0.999 |
+| BARD1 | **BRCA1** | 0.999 |
+| BARD1 | **BABAM2** | 0.999 |
+| BARD1 | **BRCC3** | 0.999 |
+| RPS27A | **ABRAXAS1** | 0.503 |
+| RPS27A | **BABAM1** | 0.527 |
+| RPS27A | **BABAM2** | 0.535 |
+| RPS27A | **MDC1** | 0.665 |
+| RPS27A | **BRCA1** | 0.725 |
+| RPS27A | **H2AC20** | 0.754 |
+| RPS27A | **BRCC3** | 0.797 |
+| RPS27A | **SUMO2** | 0.82 |
+| RPS27A | **RNF8** | 0.917 |
+| RPS27A | **TP53BP1** | 0.962 |
+| RPS27A | **H2AX** | 0.967 |
+| RPS27A | **UIMC1** | 0.97 |
+| RPS27A | **UBC** | 0.998 |
+| RPS27A | **UBA52** | 0.999 |
+| H2AC20 | **H2AX** | 0.648 |
+| H2AC20 | **BABAM2** | 0.658 |
+| H2AC20 | **ABRAXAS1** | 0.66 |
+| H2AC20 | **BABAM1** | 0.674 |
+| H2AC20 | **BRCC3** | 0.728 |
+| H2AC20 | **UBC** | 0.754 |
+| H2AC20 | **MDC1** | 0.759 |
+| H2AC20 | **UBA52** | 0.778 |
+| H2AC20 | **RNF8** | 0.928 |
+| H2AC20 | **BRCA1** | 0.955 |
+| H2AC20 | **UIMC1** | 0.966 |
+| H2AC20 | **TP53BP1** | 0.993 |
+| BABAM2 | **UBA52** | 0.515 |
+| BABAM2 | **TP53BP1** | 0.534 |
+| BABAM2 | **RNF8** | 0.641 |
+| BABAM2 | **MDC1** | 0.651 |
+| BABAM2 | **UBC** | 0.689 |
+| BABAM2 | **SUMO2** | 0.785 |
+| BABAM2 | **BRCC3** | 0.999 |
+| BABAM2 | **BABAM1** | 0.999 |
+| BABAM2 | **BRCA1** | 0.999 |
+| BABAM2 | **ABRAXAS1** | 0.999 |
+| BABAM2 | **UIMC1** | 0.999 |
+| BABAM1 | **UBA52** | 0.543 |
+| BABAM1 | **UBC** | 0.558 |
+| BABAM1 | **SUMO2** | 0.576 |
+| BABAM1 | **TP53BP1** | 0.621 |
+| BABAM1 | **RNF8** | 0.628 |
+| BABAM1 | **MDC1** | 0.72 |
+| BABAM1 | **UIMC1** | 0.999 |
+| BABAM1 | **ABRAXAS1** | 0.999 |
+| BABAM1 | **BRCA1** | 0.999 |
+| BABAM1 | **BRCC3** | 0.999 |
+| BRCC3 | **H2AX** | 0.616 |
+| BRCC3 | **TP53BP1** | 0.66 |
+| BRCC3 | **UBA52** | 0.702 |
+| BRCC3 | **RNF8** | 0.796 |
+| BRCC3 | **SUMO2** | 0.813 |
+| BRCC3 | **UBC** | 0.862 |
+| BRCC3 | **MDC1** | 0.872 |
+| BRCC3 | **UIMC1** | 0.999 |
+| BRCC3 | **ABRAXAS1** | 0.999 |
+| BRCC3 | **BRCA1** | 0.999 |
+| RNF8 | **ABRAXAS1** | 0.846 |
+| RNF8 | **SUMO2** | 0.873 |
+| RNF8 | **UBA52** | 0.896 |
+| RNF8 | **UBC** | 0.908 |
+| RNF8 | **BRCA1** | 0.97 |
+| RNF8 | **UIMC1** | 0.973 |
+| RNF8 | **H2AX** | 0.985 |
+| RNF8 | **TP53BP1** | 0.996 |
+| RNF8 | **MDC1** | 0.999 |
+| MDC1 | **UBA52** | 0.514 |
+| MDC1 | **UBC** | 0.541 |
+| MDC1 | **SUMO2** | 0.857 |
+| MDC1 | **ABRAXAS1** | 0.923 |
+| MDC1 | **UIMC1** | 0.997 |
+| MDC1 | **H2AX** | 0.999 |
+| MDC1 | **BRCA1** | 0.999 |
+| MDC1 | **TP53BP1** | 0.999 |
+| ABRAXAS1 | **UBA52** | 0.499 |
+| ABRAXAS1 | **UBC** | 0.674 |
+| ABRAXAS1 | **SUMO2** | 0.768 |
+| ABRAXAS1 | **H2AX** | 0.777 |
+| ABRAXAS1 | **TP53BP1** | 0.789 |
+| ABRAXAS1 | **UIMC1** | 0.999 |
+| ABRAXAS1 | **BRCA1** | 0.999 |
+| TP53BP1 | **SUMO2** | 0.939 |
+| TP53BP1 | **UBA52** | 0.947 |
+| TP53BP1 | **UBC** | 0.964 |
+| TP53BP1 | **UIMC1** | 0.985 |
+| TP53BP1 | **H2AX** | 0.999 |
+| TP53BP1 | **BRCA1** | 0.999 |
+| UBA52 | **BRCA1** | 0.534 |
+| UBA52 | **SUMO2** | 0.722 |
+| UBA52 | **H2AX** | 0.941 |
+| UBA52 | **UIMC1** | 0.971 |
+| UBA52 | **UBC** | 0.999 |
+| SUMO2 | **H2AX** | 0.633 |
+| SUMO2 | **UBC** | 0.811 |
+| SUMO2 | **BRCA1** | 0.912 |
+| SUMO2 | **UIMC1** | 0.995 |
+| BRCA1 | **UBC** | 0.888 |
+| BRCA1 | **H2AX** | 0.999 |
+| BRCA1 | **UIMC1** | 0.999 |
+| UIMC1 | **H2AX** | 0.973 |
+| UIMC1 | **UBC** | 0.996 |
+| H2AX | **UBC** | 0.948 |
+

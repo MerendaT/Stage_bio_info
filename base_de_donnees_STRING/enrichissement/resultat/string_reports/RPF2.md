@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RPF2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RPF2
+Identifiant STRING officiel : `9606.ENSP00000402338`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NOP53 | **MRTO4** | 0.868 |
+| NOP53 | **NOC2L** | 0.872 |
+| NOP53 | **NIP7** | 0.914 |
+| NOP53 | **RRS1** | 0.932 |
+| NOP53 | **NSA2** | 0.954 |
+| NOP53 | **EBNA1BP2** | 0.97 |
+| NOP53 | **RSL24D1** | 0.978 |
+| NOP53 | **RPL11** | 0.987 |
+| NOP53 | **PES1** | 0.988 |
+| NOP53 | **NIFK** | 0.989 |
+| NOP53 | **RPL5** | 0.992 |
+| NOP53 | **RSL1D1** | 0.993 |
+| NOP53 | **RPF2** | 0.994 |
+| NOP53 | **GTPBP4** | 0.996 |
+| NOP53 | **GNL2** | 0.996 |
+| NIP7 | **RPL11** | 0.508 |
+| NIP7 | **RPL5** | 0.539 |
+| NIP7 | **GNL2** | 0.944 |
+| NIP7 | **RRS1** | 0.987 |
+| NIP7 | **PES1** | 0.995 |
+| NIP7 | **GTPBP4** | 0.996 |
+| NIP7 | **NOC2L** | 0.996 |
+| NIP7 | **RPF2** | 0.996 |
+| NIP7 | **RSL1D1** | 0.996 |
+| NIP7 | **RSL24D1** | 0.997 |
+| NIP7 | **NSA2** | 0.997 |
+| NIP7 | **EBNA1BP2** | 0.999 |
+| NIP7 | **NIFK** | 0.999 |
+| NIP7 | **MRTO4** | 0.999 |
+| RSL24D1 | **RRS1** | 0.976 |
+| RSL24D1 | **NOC2L** | 0.99 |
+| RSL24D1 | **RSL1D1** | 0.992 |
+| RSL24D1 | **EBNA1BP2** | 0.993 |
+| RSL24D1 | **PES1** | 0.995 |
+| RSL24D1 | **RPL11** | 0.996 |
+| RSL24D1 | **RPL5** | 0.997 |
+| RSL24D1 | **NIFK** | 0.997 |
+| RSL24D1 | **MRTO4** | 0.999 |
+| RSL24D1 | **NSA2** | 0.999 |
+| RSL24D1 | **GNL2** | 0.999 |
+| RSL24D1 | **RPF2** | 0.999 |
+| RSL24D1 | **GTPBP4** | 0.999 |
+| NIFK | **RPL11** | 0.806 |
+| NIFK | **RPL5** | 0.896 |
+| NIFK | **GNL2** | 0.992 |
+| NIFK | **NSA2** | 0.996 |
+| NIFK | **PES1** | 0.996 |
+| NIFK | **NOC2L** | 0.998 |
+| NIFK | **GTPBP4** | 0.998 |
+| NIFK | **MRTO4** | 0.998 |
+| NIFK | **RPF2** | 0.999 |
+| NIFK | **RSL1D1** | 0.999 |
+| NIFK | **RRS1** | 0.999 |
+| NIFK | **EBNA1BP2** | 0.999 |
+| NOC2L | **GNL2** | 0.945 |
+| NOC2L | **RRS1** | 0.977 |
+| NOC2L | **NSA2** | 0.993 |
+| NOC2L | **RPF2** | 0.996 |
+| NOC2L | **GTPBP4** | 0.997 |
+| NOC2L | **EBNA1BP2** | 0.998 |
+| NOC2L | **MRTO4** | 0.998 |
+| NOC2L | **RSL1D1** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| RRS1 | **NSA2** | 0.979 |
+| RRS1 | **PES1** | 0.981 |
+| RRS1 | **RPL5** | 0.988 |
+| RRS1 | **GTPBP4** | 0.99 |
+| RRS1 | **GNL2** | 0.99 |
+| RRS1 | **MRTO4** | 0.992 |
+| RRS1 | **RPL11** | 0.992 |
+| RRS1 | **RSL1D1** | 0.992 |
+| RRS1 | **EBNA1BP2** | 0.996 |
+| RRS1 | **RPF2** | 0.999 |
+| PES1 | **RPL11** | 0.941 |
+| PES1 | **RPL5** | 0.983 |
+| PES1 | **RPF2** | 0.995 |
+| PES1 | **GNL2** | 0.995 |
+| PES1 | **RSL1D1** | 0.996 |
+| PES1 | **GTPBP4** | 0.999 |
+| PES1 | **MRTO4** | 0.999 |
+| PES1 | **NSA2** | 0.999 |
+| PES1 | **EBNA1BP2** | 0.999 |
+| GTPBP4 | **RPL11** | 0.947 |
+| GTPBP4 | **RPL5** | 0.986 |
+| GTPBP4 | **RSL1D1** | 0.996 |
+| GTPBP4 | **EBNA1BP2** | 0.997 |
+| GTPBP4 | **MRTO4** | 0.999 |
+| GTPBP4 | **NSA2** | 0.999 |
+| GTPBP4 | **GNL2** | 0.999 |
+| GTPBP4 | **RPF2** | 0.999 |
+| RPL5 | **EBNA1BP2** | 0.655 |
+| RPL5 | **RSL1D1** | 0.914 |
+| RPL5 | **MRTO4** | 0.989 |
+| RPL5 | **GNL2** | 0.989 |
+| RPL5 | **NSA2** | 0.991 |
+| RPL5 | **RPF2** | 0.996 |
+| RPL5 | **RPL11** | 0.999 |
+| GNL2 | **RPL11** | 0.967 |
+| GNL2 | **EBNA1BP2** | 0.972 |
+| GNL2 | **RSL1D1** | 0.994 |
+| GNL2 | **MRTO4** | 0.995 |
+| GNL2 | **RPF2** | 0.999 |
+| GNL2 | **NSA2** | 0.999 |
+| MRTO4 | **RPL11** | 0.988 |
+| MRTO4 | **RSL1D1** | 0.996 |
+| MRTO4 | **EBNA1BP2** | 0.998 |
+| MRTO4 | **RPF2** | 0.999 |
+| MRTO4 | **NSA2** | 0.999 |
+| RPF2 | **RPL11** | 0.996 |
+| RPF2 | **RSL1D1** | 0.996 |
+| RPF2 | **NSA2** | 0.999 |
+| RPF2 | **EBNA1BP2** | 0.999 |
+| EBNA1BP2 | **RPL11** | 0.719 |
+| EBNA1BP2 | **NSA2** | 0.997 |
+| EBNA1BP2 | **RSL1D1** | 0.998 |
+| RSL1D1 | **RPL11** | 0.651 |
+| RSL1D1 | **NSA2** | 0.985 |
+| NSA2 | **RPL11** | 0.984 |
+

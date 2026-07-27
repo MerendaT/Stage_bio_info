@@ -1,0 +1,447 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q53EL6",
+      "uniProtkbId": "PDCD4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "PDCD4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16357133"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16449643"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17053147"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18296639"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19153607"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19204291"
+                }
+              ],
+              "value": "Inhibits translation initiation and cap-dependent translation. May excert its function by hindering the interaction between EIF4A1 and EIF4G. Inhibits the helicase activity of EIF4A. Modulates the activation of JUN kinase. Down-regulates the expression of MAP4K1, thus inhibiting events important in driving invasion, namely, MAPK85 activation and consequent JUN-dependent transcription. May play a role in apoptosis. Tumor suppressor. Inhibits tumor promoter-induced neoplastic transformation. Binds RNA (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16357133"
+                  }
+                ],
+                "value": "Shuttles between the nucleus and cytoplasm (By similarity). Predominantly nuclear under normal growth conditions, and when phosphorylated at Ser-457 (PubMed:16357133)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q61823"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q61823"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16357133"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12054647"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "16357133"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003723",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006915",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8543179"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:BMP signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18548003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071222",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to lipopolysaccharide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060940",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:epithelial to mesenchymal transition involved in cardiac fibroblast development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900016",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cytokine production involved in inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045892",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16357133"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of JUN kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904761",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of myofibroblast differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "20533548"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905064",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of vascular associated smooth muscle cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18548003"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904706",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of vascular associated smooth muscle cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "28522568"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000353",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of endothelial cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "24732886"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050729",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1901224",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of non-canonical NF-kappaB signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19946272"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905461",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular associated smooth muscle cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "28522568"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013FD3F"
+      }
+    }
+  ]
+}

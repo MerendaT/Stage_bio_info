@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRPS7
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRPS7
+Identifiant STRING officiel : `9606.ENSP00000245539`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPS10 | **MRPL17** | 0.998 |
+| MRPS10 | **MRPS25** | 0.998 |
+| MRPS10 | **TUFM** | 0.998 |
+| MRPS10 | **MRPL27** | 0.998 |
+| MRPS10 | **MRPS6** | 0.999 |
+| MRPS10 | **MRPS9** | 0.999 |
+| MRPS10 | **MRPS16** | 0.999 |
+| MRPS10 | **MRPS11** | 0.999 |
+| MRPS10 | **MRPS12** | 0.999 |
+| MRPS10 | **MRPS2** | 0.999 |
+| MRPS10 | **DAP3** | 0.999 |
+| MRPS10 | **MRPS5** | 0.999 |
+| MRPS10 | **MRPS7** | 0.999 |
+| MRPS10 | **MRPS14** | 0.999 |
+| MRPS10 | **MRPS15** | 0.999 |
+| MRPL27 | **MRPS25** | 0.985 |
+| MRPL27 | **MRPS2** | 0.992 |
+| MRPL27 | **DAP3** | 0.994 |
+| MRPL27 | **MRPS14** | 0.998 |
+| MRPL27 | **MRPS11** | 0.998 |
+| MRPL27 | **MRPS5** | 0.999 |
+| MRPL27 | **MRPS7** | 0.999 |
+| MRPL27 | **MRPS15** | 0.999 |
+| MRPL27 | **MRPS9** | 0.999 |
+| MRPL27 | **MRPL17** | 0.999 |
+| MRPL27 | **MRPS6** | 0.999 |
+| MRPL27 | **MRPS16** | 0.999 |
+| MRPL27 | **MRPS12** | 0.999 |
+| MRPL27 | **TUFM** | 0.999 |
+| MRPS7 | **MRPS25** | 0.998 |
+| MRPS7 | **MRPL17** | 0.999 |
+| MRPS7 | **MRPS6** | 0.999 |
+| MRPS7 | **MRPS9** | 0.999 |
+| MRPS7 | **MRPS11** | 0.999 |
+| MRPS7 | **MRPS12** | 0.999 |
+| MRPS7 | **TUFM** | 0.999 |
+| MRPS7 | **MRPS16** | 0.999 |
+| MRPS7 | **MRPS5** | 0.999 |
+| MRPS7 | **DAP3** | 0.999 |
+| MRPS7 | **MRPS2** | 0.999 |
+| MRPS7 | **MRPS14** | 0.999 |
+| MRPS7 | **MRPS15** | 0.999 |
+| MRPS25 | **TUFM** | 0.92 |
+| MRPS25 | **MRPL17** | 0.981 |
+| MRPS25 | **MRPS6** | 0.997 |
+| MRPS25 | **MRPS9** | 0.998 |
+| MRPS25 | **MRPS2** | 0.998 |
+| MRPS25 | **DAP3** | 0.998 |
+| MRPS25 | **MRPS16** | 0.999 |
+| MRPS25 | **MRPS12** | 0.999 |
+| MRPS25 | **MRPS11** | 0.999 |
+| MRPS25 | **MRPS14** | 0.999 |
+| MRPS25 | **MRPS15** | 0.999 |
+| MRPS25 | **MRPS5** | 0.999 |
+| MRPS9 | **MRPS14** | 0.999 |
+| MRPS9 | **MRPS15** | 0.999 |
+| MRPS9 | **MRPS5** | 0.999 |
+| MRPS9 | **DAP3** | 0.999 |
+| MRPS9 | **MRPS2** | 0.999 |
+| MRPS9 | **TUFM** | 0.999 |
+| MRPS9 | **MRPS12** | 0.999 |
+| MRPS9 | **MRPS11** | 0.999 |
+| MRPS9 | **MRPS16** | 0.999 |
+| MRPS9 | **MRPL17** | 0.999 |
+| MRPS9 | **MRPS6** | 0.999 |
+| MRPS5 | **TUFM** | 0.998 |
+| MRPS5 | **MRPS14** | 0.999 |
+| MRPS5 | **MRPS15** | 0.999 |
+| MRPS5 | **MRPS2** | 0.999 |
+| MRPS5 | **DAP3** | 0.999 |
+| MRPS5 | **MRPS16** | 0.999 |
+| MRPS5 | **MRPS11** | 0.999 |
+| MRPS5 | **MRPS12** | 0.999 |
+| MRPS5 | **MRPL17** | 0.999 |
+| MRPS5 | **MRPS6** | 0.999 |
+| MRPL17 | **DAP3** | 0.993 |
+| MRPL17 | **MRPS2** | 0.994 |
+| MRPL17 | **MRPS6** | 0.999 |
+| MRPL17 | **TUFM** | 0.999 |
+| MRPL17 | **MRPS12** | 0.999 |
+| MRPL17 | **MRPS11** | 0.999 |
+| MRPL17 | **MRPS16** | 0.999 |
+| MRPL17 | **MRPS14** | 0.999 |
+| MRPL17 | **MRPS15** | 0.999 |
+| MRPS11 | **TUFM** | 0.997 |
+| MRPS11 | **MRPS12** | 0.999 |
+| MRPS11 | **MRPS16** | 0.999 |
+| MRPS11 | **MRPS6** | 0.999 |
+| MRPS11 | **MRPS15** | 0.999 |
+| MRPS11 | **MRPS14** | 0.999 |
+| MRPS11 | **DAP3** | 0.999 |
+| MRPS11 | **MRPS2** | 0.999 |
+| TUFM | **DAP3** | 0.949 |
+| TUFM | **MRPS2** | 0.993 |
+| TUFM | **MRPS15** | 0.995 |
+| TUFM | **MRPS14** | 0.996 |
+| TUFM | **MRPS12** | 0.998 |
+| TUFM | **MRPS16** | 0.999 |
+| TUFM | **MRPS6** | 0.999 |
+| DAP3 | **MRPS12** | 0.998 |
+| DAP3 | **MRPS6** | 0.998 |
+| DAP3 | **MRPS14** | 0.998 |
+| DAP3 | **MRPS16** | 0.999 |
+| DAP3 | **MRPS15** | 0.999 |
+| DAP3 | **MRPS2** | 0.999 |
+| MRPS2 | **MRPS12** | 0.999 |
+| MRPS2 | **MRPS16** | 0.999 |
+| MRPS2 | **MRPS6** | 0.999 |
+| MRPS2 | **MRPS14** | 0.999 |
+| MRPS2 | **MRPS15** | 0.999 |
+| MRPS16 | **MRPS15** | 0.999 |
+| MRPS16 | **MRPS14** | 0.999 |
+| MRPS16 | **MRPS12** | 0.999 |
+| MRPS16 | **MRPS6** | 0.999 |
+| MRPS15 | **MRPS6** | 0.999 |
+| MRPS15 | **MRPS12** | 0.999 |
+| MRPS15 | **MRPS14** | 0.999 |
+| MRPS6 | **MRPS14** | 0.999 |
+| MRPS6 | **MRPS12** | 0.999 |
+| MRPS12 | **MRPS14** | 0.999 |
+

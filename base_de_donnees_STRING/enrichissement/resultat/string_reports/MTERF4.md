@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MTERF4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MTERF4
+Identifiant STRING officiel : `9606.ENSP00000480378`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRM2 | **MIEF1-2** | 0.8 |
+| MRM2 | **MRPL14** | 0.819 |
+| MRM2 | **NDUFAB1** | 0.822 |
+| MRM2 | **MRPL2** | 0.839 |
+| MRM2 | **MRPL53** | 0.847 |
+| MRM2 | **MRPS18A** | 0.863 |
+| MRM2 | **MRPL58** | 0.875 |
+| MRM2 | **MRPL36** | 0.882 |
+| MRM2 | **MRPL12** | 0.89 |
+| MRM2 | **MRPL24** | 0.904 |
+| MRM2 | **MTERF4** | 0.94 |
+| MRM2 | **MALSU1** | 0.948 |
+| MRM2 | **MTG2** | 0.963 |
+| MRM2 | **NSUN4** | 0.965 |
+| MRM2 | **MTG1** | 0.973 |
+| MRPL53 | **MIEF1-2** | 0.8 |
+| MRPL53 | **NSUN4** | 0.801 |
+| MRPL53 | **MTG1** | 0.816 |
+| MRPL53 | **MTG2** | 0.838 |
+| MRPL53 | **MTERF4** | 0.856 |
+| MRPL53 | **MALSU1** | 0.869 |
+| MRPL53 | **MRPL14** | 0.871 |
+| MRPL53 | **MRPL36** | 0.88 |
+| MRPL53 | **MRPL58** | 0.911 |
+| MRPL53 | **MRPL24** | 0.923 |
+| MRPL53 | **MRPL2** | 0.926 |
+| MRPL53 | **NDUFAB1** | 0.942 |
+| MRPL53 | **MRPL12** | 0.952 |
+| MRPL53 | **MRPS18A** | 0.973 |
+| MRPL58 | **MIEF1-2** | 0.811 |
+| MRPL58 | **NSUN4** | 0.893 |
+| MRPL58 | **MTG1** | 0.903 |
+| MRPL58 | **MTERF4** | 0.905 |
+| MRPL58 | **MTG2** | 0.909 |
+| MRPL58 | **MRPS18A** | 0.926 |
+| MRPL58 | **MRPL14** | 0.95 |
+| MRPL58 | **NDUFAB1** | 0.951 |
+| MRPL58 | **MALSU1** | 0.97 |
+| MRPL58 | **MRPL24** | 0.981 |
+| MRPL58 | **MRPL2** | 0.988 |
+| MRPL58 | **MRPL36** | 0.99 |
+| MRPL58 | **MRPL12** | 0.999 |
+| MTG1 | **MRPL36** | 0.86 |
+| MTG1 | **MIEF1-2** | 0.861 |
+| MTG1 | **MRPL14** | 0.875 |
+| MTG1 | **MRPL2** | 0.883 |
+| MTG1 | **MRPL12** | 0.899 |
+| MTG1 | **MRPS18A** | 0.918 |
+| MTG1 | **NDUFAB1** | 0.953 |
+| MTG1 | **MTERF4** | 0.964 |
+| MTG1 | **NSUN4** | 0.972 |
+| MTG1 | **MTG2** | 0.976 |
+| MTG1 | **MRPL24** | 0.981 |
+| MTG1 | **MALSU1** | 0.997 |
+| MRPL12 | **MIEF1-2** | 0.822 |
+| MRPL12 | **NSUN4** | 0.88 |
+| MRPL12 | **MTG2** | 0.897 |
+| MRPL12 | **MTERF4** | 0.909 |
+| MRPL12 | **MALSU1** | 0.926 |
+| MRPL12 | **MRPL14** | 0.932 |
+| MRPL12 | **MRPS18A** | 0.939 |
+| MRPL12 | **NDUFAB1** | 0.961 |
+| MRPL12 | **MRPL2** | 0.995 |
+| MRPL12 | **MRPL24** | 0.996 |
+| MRPL12 | **MRPL36** | 0.999 |
+| MRPL24 | **MIEF1-2** | 0.817 |
+| MRPL24 | **NSUN4** | 0.869 |
+| MRPL24 | **MTERF4** | 0.881 |
+| MRPL24 | **MTG2** | 0.894 |
+| MRPL24 | **MRPL14** | 0.917 |
+| MRPL24 | **MRPS18A** | 0.975 |
+| MRPL24 | **NDUFAB1** | 0.987 |
+| MRPL24 | **MALSU1** | 0.992 |
+| MRPL24 | **MRPL2** | 0.997 |
+| MRPL24 | **MRPL36** | 0.997 |
+| MTG2 | **MRPS18A** | 0.809 |
+| MTG2 | **MIEF1-2** | 0.83 |
+| MTG2 | **MRPL14** | 0.862 |
+| MTG2 | **NDUFAB1** | 0.864 |
+| MTG2 | **MRPL2** | 0.885 |
+| MTG2 | **MRPL36** | 0.895 |
+| MTG2 | **NSUN4** | 0.943 |
+| MTG2 | **MTERF4** | 0.946 |
+| MTG2 | **MALSU1** | 0.987 |
+| MRPL14 | **MIEF1-2** | 0.811 |
+| MRPL14 | **NSUN4** | 0.866 |
+| MRPL14 | **MTERF4** | 0.882 |
+| MRPL14 | **MRPS18A** | 0.912 |
+| MRPL14 | **MRPL2** | 0.943 |
+| MRPL14 | **NDUFAB1** | 0.949 |
+| MRPL14 | **MRPL36** | 0.977 |
+| MRPL14 | **MALSU1** | 0.981 |
+| MRPS18A | **MIEF1-2** | 0.811 |
+| MRPS18A | **NSUN4** | 0.813 |
+| MRPS18A | **MTERF4** | 0.868 |
+| MRPS18A | **MALSU1** | 0.884 |
+| MRPS18A | **NDUFAB1** | 0.948 |
+| MRPS18A | **MRPL2** | 0.985 |
+| MRPS18A | **MRPL36** | 0.989 |
+| MRPL2 | **MIEF1-2** | 0.8 |
+| MRPL2 | **NSUN4** | 0.906 |
+| MRPL2 | **MTERF4** | 0.909 |
+| MRPL2 | **NDUFAB1** | 0.943 |
+| MRPL2 | **MALSU1** | 0.954 |
+| MRPL2 | **MRPL36** | 0.998 |
+| MALSU1 | **MRPL36** | 0.937 |
+| MALSU1 | **MIEF1-2** | 0.94 |
+| MALSU1 | **MTERF4** | 0.964 |
+| MALSU1 | **NSUN4** | 0.968 |
+| MALSU1 | **NDUFAB1** | 0.991 |
+| NSUN4 | **MRPL36** | 0.83 |
+| NSUN4 | **MIEF1-2** | 0.852 |
+| NSUN4 | **NDUFAB1** | 0.854 |
+| NSUN4 | **MTERF4** | 0.999 |
+| MRPL36 | **MIEF1-2** | 0.811 |
+| MRPL36 | **MTERF4** | 0.855 |
+| MRPL36 | **NDUFAB1** | 0.97 |
+| NDUFAB1 | **MTERF4** | 0.856 |
+| NDUFAB1 | **MIEF1-2** | 0.965 |
+| MTERF4 | **MIEF1-2** | 0.864 |
+

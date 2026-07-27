@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : IFT46
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IFT46
+Identifiant STRING officiel : `9606.ENSP00000264020`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HSPB11 | **IFT80** | 0.985 |
+| HSPB11 | **CLUAP1** | 0.986 |
+| HSPB11 | **IFT172** | 0.989 |
+| HSPB11 | **IFT20** | 0.989 |
+| HSPB11 | **TTC26** | 0.992 |
+| HSPB11 | **TRAF3IP1** | 0.996 |
+| HSPB11 | **TTC30B** | 0.996 |
+| HSPB11 | **IFT57** | 0.997 |
+| HSPB11 | **IFT81** | 0.998 |
+| HSPB11 | **IFT74** | 0.998 |
+| HSPB11 | **IFT88** | 0.998 |
+| HSPB11 | **IFT27** | 0.999 |
+| HSPB11 | **IFT46** | 0.999 |
+| HSPB11 | **IFT22** | 0.999 |
+| HSPB11 | **IFT52** | 0.999 |
+| IFT81 | **IFT20** | 0.959 |
+| IFT81 | **CLUAP1** | 0.991 |
+| IFT81 | **TTC26** | 0.993 |
+| IFT81 | **TRAF3IP1** | 0.997 |
+| IFT81 | **IFT80** | 0.998 |
+| IFT81 | **IFT172** | 0.998 |
+| IFT81 | **TTC30B** | 0.998 |
+| IFT81 | **IFT57** | 0.999 |
+| IFT81 | **IFT46** | 0.999 |
+| IFT81 | **IFT27** | 0.999 |
+| IFT81 | **IFT88** | 0.999 |
+| IFT81 | **IFT74** | 0.999 |
+| IFT81 | **IFT22** | 0.999 |
+| IFT81 | **IFT52** | 0.999 |
+| IFT172 | **TTC30B** | 0.989 |
+| IFT172 | **TTC26** | 0.989 |
+| IFT172 | **IFT22** | 0.992 |
+| IFT172 | **IFT74** | 0.993 |
+| IFT172 | **IFT27** | 0.995 |
+| IFT172 | **IFT20** | 0.996 |
+| IFT172 | **IFT52** | 0.997 |
+| IFT172 | **CLUAP1** | 0.998 |
+| IFT172 | **IFT46** | 0.998 |
+| IFT172 | **IFT88** | 0.999 |
+| IFT172 | **IFT80** | 0.999 |
+| IFT172 | **IFT57** | 0.999 |
+| IFT172 | **TRAF3IP1** | 0.999 |
+| IFT46 | **IFT20** | 0.991 |
+| IFT46 | **CLUAP1** | 0.995 |
+| IFT46 | **TRAF3IP1** | 0.998 |
+| IFT46 | **IFT80** | 0.998 |
+| IFT46 | **IFT57** | 0.999 |
+| IFT46 | **IFT27** | 0.999 |
+| IFT46 | **TTC26** | 0.999 |
+| IFT46 | **IFT74** | 0.999 |
+| IFT46 | **TTC30B** | 0.999 |
+| IFT46 | **IFT22** | 0.999 |
+| IFT46 | **IFT52** | 0.999 |
+| IFT46 | **IFT88** | 0.999 |
+| IFT57 | **TTC30B** | 0.995 |
+| IFT57 | **TTC26** | 0.995 |
+| IFT57 | **IFT22** | 0.998 |
+| IFT57 | **IFT27** | 0.998 |
+| IFT57 | **IFT74** | 0.998 |
+| IFT57 | **IFT52** | 0.999 |
+| IFT57 | **CLUAP1** | 0.999 |
+| IFT57 | **TRAF3IP1** | 0.999 |
+| IFT57 | **IFT20** | 0.999 |
+| IFT57 | **IFT88** | 0.999 |
+| IFT57 | **IFT80** | 0.999 |
+| IFT80 | **IFT22** | 0.99 |
+| IFT80 | **TTC26** | 0.99 |
+| IFT80 | **IFT27** | 0.994 |
+| IFT80 | **IFT74** | 0.995 |
+| IFT80 | **TTC30B** | 0.996 |
+| IFT80 | **IFT20** | 0.997 |
+| IFT80 | **TRAF3IP1** | 0.999 |
+| IFT80 | **IFT88** | 0.999 |
+| IFT80 | **IFT52** | 0.999 |
+| IFT80 | **CLUAP1** | 0.999 |
+| IFT22 | **IFT20** | 0.979 |
+| IFT22 | **CLUAP1** | 0.991 |
+| IFT22 | **TTC26** | 0.993 |
+| IFT22 | **IFT88** | 0.995 |
+| IFT22 | **TRAF3IP1** | 0.997 |
+| IFT22 | **TTC30B** | 0.997 |
+| IFT22 | **IFT74** | 0.999 |
+| IFT22 | **IFT52** | 0.999 |
+| IFT22 | **IFT27** | 0.999 |
+| IFT88 | **IFT20** | 0.992 |
+| IFT88 | **TRAF3IP1** | 0.993 |
+| IFT88 | **TTC26** | 0.997 |
+| IFT88 | **IFT27** | 0.999 |
+| IFT88 | **IFT74** | 0.999 |
+| IFT88 | **CLUAP1** | 0.999 |
+| IFT88 | **TTC30B** | 0.999 |
+| IFT88 | **IFT52** | 0.999 |
+| CLUAP1 | **IFT74** | 0.971 |
+| CLUAP1 | **TTC30B** | 0.991 |
+| CLUAP1 | **TTC26** | 0.992 |
+| CLUAP1 | **IFT27** | 0.992 |
+| CLUAP1 | **IFT20** | 0.995 |
+| CLUAP1 | **TRAF3IP1** | 0.999 |
+| CLUAP1 | **IFT52** | 0.999 |
+| IFT52 | **IFT20** | 0.995 |
+| IFT52 | **TRAF3IP1** | 0.996 |
+| IFT52 | **TTC26** | 0.997 |
+| IFT52 | **IFT74** | 0.999 |
+| IFT52 | **TTC30B** | 0.999 |
+| IFT52 | **IFT27** | 0.999 |
+| TRAF3IP1 | **TTC26** | 0.991 |
+| TRAF3IP1 | **IFT74** | 0.995 |
+| TRAF3IP1 | **TTC30B** | 0.997 |
+| TRAF3IP1 | **IFT27** | 0.998 |
+| TRAF3IP1 | **IFT20** | 0.999 |
+| TTC30B | **IFT20** | 0.969 |
+| TTC30B | **TTC26** | 0.997 |
+| TTC30B | **IFT74** | 0.998 |
+| TTC30B | **IFT27** | 0.999 |
+| IFT27 | **IFT20** | 0.99 |
+| IFT27 | **TTC26** | 0.994 |
+| IFT27 | **IFT74** | 0.999 |
+| IFT74 | **IFT20** | 0.983 |
+| IFT74 | **TTC26** | 0.984 |
+| TTC26 | **IFT20** | 0.947 |
+

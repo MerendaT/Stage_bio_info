@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : OAS3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : OAS3
+Identifiant STRING officiel : `9606.ENSP00000228928`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| OAS3 | **IFI44L** | 0.922 |
+| OAS3 | **IFIT2** | 0.926 |
+| OAS3 | **IFI44** | 0.929 |
+| OAS3 | **ISG15** | 0.941 |
+| OAS3 | **RSAD2** | 0.941 |
+| OAS3 | **IFIT3** | 0.942 |
+| OAS3 | **DDX58** | 0.943 |
+| OAS3 | **IFI6** | 0.946 |
+| OAS3 | **RNASEL** | 0.956 |
+| OAS3 | **STAT1** | 0.959 |
+| OAS3 | **EIF2AK2** | 0.959 |
+| OAS3 | **IFIT1** | 0.965 |
+| OAS3 | **MX1** | 0.967 |
+| OAS3 | **OAS1** | 0.986 |
+| OAS3 | **OAS2** | 0.999 |
+| EIF2AK2 | **IFI6** | 0.811 |
+| EIF2AK2 | **IFIT2** | 0.87 |
+| EIF2AK2 | **RNASEL** | 0.911 |
+| EIF2AK2 | **IFI44L** | 0.927 |
+| EIF2AK2 | **OAS1** | 0.929 |
+| EIF2AK2 | **OAS2** | 0.934 |
+| EIF2AK2 | **IFIT3** | 0.943 |
+| EIF2AK2 | **IFI44** | 0.951 |
+| EIF2AK2 | **RSAD2** | 0.953 |
+| EIF2AK2 | **MX1** | 0.979 |
+| EIF2AK2 | **STAT1** | 0.98 |
+| EIF2AK2 | **DDX58** | 0.991 |
+| EIF2AK2 | **ISG15** | 0.991 |
+| EIF2AK2 | **IFIT1** | 0.993 |
+| OAS2 | **RNASEL** | 0.933 |
+| OAS2 | **IFI44L** | 0.935 |
+| OAS2 | **IFIT2** | 0.94 |
+| OAS2 | **IFI44** | 0.941 |
+| OAS2 | **IFIT3** | 0.947 |
+| OAS2 | **DDX58** | 0.949 |
+| OAS2 | **RSAD2** | 0.95 |
+| OAS2 | **IFI6** | 0.951 |
+| OAS2 | **ISG15** | 0.951 |
+| OAS2 | **IFIT1** | 0.966 |
+| OAS2 | **STAT1** | 0.972 |
+| OAS2 | **MX1** | 0.978 |
+| OAS2 | **OAS1** | 0.999 |
+| IFI6 | **RNASEL** | 0.405 |
+| IFI6 | **DDX58** | 0.747 |
+| IFI6 | **IFIT2** | 0.869 |
+| IFI6 | **RSAD2** | 0.926 |
+| IFI6 | **IFIT1** | 0.932 |
+| IFI6 | **STAT1** | 0.934 |
+| IFI6 | **IFIT3** | 0.957 |
+| IFI6 | **OAS1** | 0.959 |
+| IFI6 | **ISG15** | 0.959 |
+| IFI6 | **IFI44** | 0.959 |
+| IFI6 | **MX1** | 0.96 |
+| IFI6 | **IFI44L** | 0.968 |
+| STAT1 | **RNASEL** | 0.804 |
+| STAT1 | **IFI44L** | 0.87 |
+| STAT1 | **IFI44** | 0.915 |
+| STAT1 | **MX1** | 0.942 |
+| STAT1 | **IFIT1** | 0.945 |
+| STAT1 | **RSAD2** | 0.949 |
+| STAT1 | **IFIT2** | 0.963 |
+| STAT1 | **OAS1** | 0.966 |
+| STAT1 | **IFIT3** | 0.985 |
+| STAT1 | **ISG15** | 0.987 |
+| STAT1 | **DDX58** | 0.994 |
+| RNASEL | **IFIT3** | 0.582 |
+| RNASEL | **RSAD2** | 0.646 |
+| RNASEL | **IFIT2** | 0.652 |
+| RNASEL | **IFIT1** | 0.696 |
+| RNASEL | **ISG15** | 0.703 |
+| RNASEL | **MX1** | 0.722 |
+| RNASEL | **DDX58** | 0.859 |
+| RNASEL | **OAS1** | 0.964 |
+| IFI44 | **DDX58** | 0.913 |
+| IFI44 | **OAS1** | 0.961 |
+| IFI44 | **ISG15** | 0.964 |
+| IFI44 | **IFIT2** | 0.964 |
+| IFI44 | **MX1** | 0.967 |
+| IFI44 | **IFIT1** | 0.974 |
+| IFI44 | **RSAD2** | 0.983 |
+| IFI44 | **IFIT3** | 0.984 |
+| IFI44 | **IFI44L** | 0.999 |
+| IFI44L | **DDX58** | 0.866 |
+| IFI44L | **IFIT2** | 0.921 |
+| IFI44L | **OAS1** | 0.955 |
+| IFI44L | **ISG15** | 0.963 |
+| IFI44L | **MX1** | 0.965 |
+| IFI44L | **IFIT1** | 0.967 |
+| IFI44L | **IFIT3** | 0.982 |
+| IFI44L | **RSAD2** | 0.999 |
+| IFIT1 | **OAS1** | 0.96 |
+| IFIT1 | **RSAD2** | 0.97 |
+| IFIT1 | **IFIT2** | 0.982 |
+| IFIT1 | **MX1** | 0.989 |
+| IFIT1 | **ISG15** | 0.993 |
+| IFIT1 | **DDX58** | 0.995 |
+| IFIT1 | **IFIT3** | 0.999 |
+| IFIT3 | **OAS1** | 0.947 |
+| IFIT3 | **DDX58** | 0.966 |
+| IFIT3 | **MX1** | 0.972 |
+| IFIT3 | **ISG15** | 0.976 |
+| IFIT3 | **RSAD2** | 0.999 |
+| IFIT3 | **IFIT2** | 0.999 |
+| DDX58 | **OAS1** | 0.944 |
+| DDX58 | **RSAD2** | 0.953 |
+| DDX58 | **MX1** | 0.971 |
+| DDX58 | **IFIT2** | 0.982 |
+| DDX58 | **ISG15** | 0.999 |
+| RSAD2 | **IFIT2** | 0.962 |
+| RSAD2 | **OAS1** | 0.967 |
+| RSAD2 | **ISG15** | 0.978 |
+| RSAD2 | **MX1** | 0.983 |
+| MX1 | **IFIT2** | 0.968 |
+| MX1 | **OAS1** | 0.985 |
+| MX1 | **ISG15** | 0.994 |
+| OAS1 | **IFIT2** | 0.943 |
+| OAS1 | **ISG15** | 0.983 |
+| IFIT2 | **ISG15** | 0.975 |
+

@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NT5C2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NT5C2
+Identifiant STRING officiel : `9606.ENSP00000339479`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NT5C1A | **NT5C1B** | 0.905 |
+| NT5C1A | **NT5C1B-RDH14** | 0.905 |
+| NT5C1A | **ADA** | 0.919 |
+| NT5C1A | **IMPDH1** | 0.923 |
+| NT5C1A | **IMPDH2** | 0.924 |
+| NT5C1A | **ADK** | 0.927 |
+| NT5C1A | **CDA** | 0.928 |
+| NT5C1A | **DCTD** | 0.938 |
+| NT5C1A | **PNP** | 0.94 |
+| NT5C1A | **NT5C3B** | 0.946 |
+| NT5C1A | **DCK** | 0.947 |
+| NT5C1A | **NT5C3A** | 0.957 |
+| NT5C1A | **NT5M** | 0.963 |
+| NT5C1A | **NT5C2** | 0.967 |
+| NT5C1A | **NT5C** | 0.967 |
+| NT5C | **NT5M** | 0.905 |
+| NT5C | **ADK** | 0.923 |
+| NT5C | **CDA** | 0.927 |
+| NT5C | **IMPDH1** | 0.941 |
+| NT5C | **DCTD** | 0.942 |
+| NT5C | **IMPDH2** | 0.944 |
+| NT5C | **ADA** | 0.945 |
+| NT5C | **NT5C3B** | 0.946 |
+| NT5C | **NT5C1B-RDH14** | 0.948 |
+| NT5C | **DCK** | 0.948 |
+| NT5C | **NT5C1B** | 0.958 |
+| NT5C | **NT5C2** | 0.963 |
+| NT5C | **PNP** | 0.966 |
+| NT5C | **NT5C3A** | 0.995 |
+| DCK | **IMPDH1** | 0.409 |
+| DCK | **ADK** | 0.582 |
+| DCK | **NT5C3B** | 0.921 |
+| DCK | **NT5C1B-RDH14** | 0.93 |
+| DCK | **NT5C1B** | 0.933 |
+| DCK | **NT5M** | 0.944 |
+| DCK | **NT5C3A** | 0.947 |
+| DCK | **ADA** | 0.95 |
+| DCK | **PNP** | 0.951 |
+| DCK | **NT5C2** | 0.967 |
+| DCK | **DCTD** | 0.985 |
+| DCK | **CDA** | 0.996 |
+| IMPDH2 | **ADK** | 0.635 |
+| IMPDH2 | **ADA** | 0.656 |
+| IMPDH2 | **PNP** | 0.753 |
+| IMPDH2 | **NT5C3A** | 0.902 |
+| IMPDH2 | **NT5C3B** | 0.907 |
+| IMPDH2 | **NT5C1B** | 0.915 |
+| IMPDH2 | **NT5C1B-RDH14** | 0.915 |
+| IMPDH2 | **NT5M** | 0.934 |
+| IMPDH2 | **NT5C2** | 0.945 |
+| IMPDH2 | **IMPDH1** | 0.984 |
+| NT5C2 | **ADK** | 0.937 |
+| NT5C2 | **IMPDH1** | 0.937 |
+| NT5C2 | **CDA** | 0.937 |
+| NT5C2 | **ADA** | 0.937 |
+| NT5C2 | **NT5C3B** | 0.941 |
+| NT5C2 | **NT5C1B-RDH14** | 0.947 |
+| NT5C2 | **DCTD** | 0.949 |
+| NT5C2 | **NT5C1B** | 0.95 |
+| NT5C2 | **PNP** | 0.956 |
+| NT5C2 | **NT5M** | 0.958 |
+| NT5C2 | **NT5C3A** | 0.961 |
+| IMPDH1 | **ADK** | 0.519 |
+| IMPDH1 | **ADA** | 0.594 |
+| IMPDH1 | **PNP** | 0.667 |
+| IMPDH1 | **NT5C3B** | 0.901 |
+| IMPDH1 | **NT5C3A** | 0.902 |
+| IMPDH1 | **NT5C1B-RDH14** | 0.915 |
+| IMPDH1 | **NT5C1B** | 0.915 |
+| IMPDH1 | **NT5M** | 0.935 |
+| DCTD | **NT5C1B-RDH14** | 0.904 |
+| DCTD | **NT5C3B** | 0.908 |
+| DCTD | **NT5C1B** | 0.92 |
+| DCTD | **CDA** | 0.921 |
+| DCTD | **NT5M** | 0.929 |
+| DCTD | **NT5C3A** | 0.93 |
+| NT5C1B | **NT5C1B-RDH14** | 0.9 |
+| NT5C1B | **CDA** | 0.907 |
+| NT5C1B | **ADA** | 0.909 |
+| NT5C1B | **PNP** | 0.915 |
+| NT5C1B | **ADK** | 0.919 |
+| NT5C1B | **NT5C3A** | 0.947 |
+| NT5C1B | **NT5C3B** | 0.958 |
+| NT5C1B | **NT5M** | 0.961 |
+| PNP | **NT5C1B-RDH14** | 0.915 |
+| PNP | **NT5C3B** | 0.915 |
+| PNP | **NT5C3A** | 0.919 |
+| PNP | **CDA** | 0.947 |
+| PNP | **NT5M** | 0.962 |
+| PNP | **ADK** | 0.986 |
+| PNP | **ADA** | 0.998 |
+| ADA | **CDA** | 0.69 |
+| ADA | **NT5C1B-RDH14** | 0.909 |
+| ADA | **NT5C3A** | 0.921 |
+| ADA | **NT5C3B** | 0.922 |
+| ADA | **NT5M** | 0.943 |
+| ADA | **ADK** | 0.992 |
+| CDA | **NT5C1B-RDH14** | 0.902 |
+| CDA | **NT5M** | 0.914 |
+| CDA | **NT5C3B** | 0.918 |
+| CDA | **NT5C3A** | 0.933 |
+| NT5M | **ADK** | 0.91 |
+| NT5M | **NT5C3B** | 0.956 |
+| NT5M | **NT5C1B-RDH14** | 0.957 |
+| NT5M | **NT5C3A** | 0.976 |
+| NT5C3B | **NT5C3A** | 0.904 |
+| NT5C3B | **ADK** | 0.918 |
+| NT5C3B | **NT5C1B-RDH14** | 0.951 |
+| NT5C1B-RDH14 | **ADK** | 0.92 |
+| NT5C1B-RDH14 | **NT5C3A** | 0.943 |
+| ADK | **NT5C3A** | 0.919 |
+

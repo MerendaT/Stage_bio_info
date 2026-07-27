@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : FAU
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : FAU
+Identifiant STRING officiel : `9606.ENSP00000431822`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL18A | **RPS4Y1** | 0.992 |
+| RPL18A | **RPS23** | 0.999 |
+| RPL18A | **RPL38** | 0.999 |
+| RPL18A | **RPL29** | 0.999 |
+| RPL18A | **FAU** | 0.999 |
+| RPL18A | **RPS27A** | 0.999 |
+| RPL18A | **RPS3** | 0.999 |
+| RPL18A | **RPS11** | 0.999 |
+| RPL18A | **RPL37** | 0.999 |
+| RPL18A | **RPL8** | 0.999 |
+| RPL18A | **RPL13** | 0.999 |
+| RPL18A | **RPL35** | 0.999 |
+| RPL18A | **RPL15** | 0.999 |
+| RPL18A | **RPL19** | 0.999 |
+| RPL18A | **RPS12** | 0.999 |
+| RPL19 | **RPS4Y1** | 0.994 |
+| RPL19 | **RPL8** | 0.999 |
+| RPL19 | **RPL35** | 0.999 |
+| RPL19 | **RPL15** | 0.999 |
+| RPL19 | **RPS12** | 0.999 |
+| RPL19 | **RPL13** | 0.999 |
+| RPL19 | **FAU** | 0.999 |
+| RPL19 | **RPL29** | 0.999 |
+| RPL19 | **RPS27A** | 0.999 |
+| RPL19 | **RPS3** | 0.999 |
+| RPL19 | **RPL38** | 0.999 |
+| RPL19 | **RPS23** | 0.999 |
+| RPL19 | **RPS11** | 0.999 |
+| RPL19 | **RPL37** | 0.999 |
+| RPS12 | **RPS4Y1** | 0.995 |
+| RPS12 | **RPS11** | 0.999 |
+| RPS12 | **RPL37** | 0.999 |
+| RPS12 | **RPS23** | 0.999 |
+| RPS12 | **RPL38** | 0.999 |
+| RPS12 | **RPL29** | 0.999 |
+| RPS12 | **FAU** | 0.999 |
+| RPS12 | **RPS3** | 0.999 |
+| RPS12 | **RPS27A** | 0.999 |
+| RPS12 | **RPL13** | 0.999 |
+| RPS12 | **RPL35** | 0.999 |
+| RPS12 | **RPL15** | 0.999 |
+| RPS12 | **RPL8** | 0.999 |
+| RPS4Y1 | **RPL29** | 0.987 |
+| RPS4Y1 | **RPL38** | 0.987 |
+| RPS4Y1 | **RPL37** | 0.99 |
+| RPS4Y1 | **RPL13** | 0.993 |
+| RPS4Y1 | **RPL8** | 0.994 |
+| RPS4Y1 | **RPL15** | 0.994 |
+| RPS4Y1 | **RPS27A** | 0.995 |
+| RPS4Y1 | **RPL35** | 0.995 |
+| RPS4Y1 | **RPS23** | 0.997 |
+| RPS4Y1 | **RPS3** | 0.998 |
+| RPS4Y1 | **RPS11** | 0.998 |
+| RPS4Y1 | **FAU** | 0.999 |
+| RPL35 | **RPL8** | 0.999 |
+| RPL35 | **RPL13** | 0.999 |
+| RPL35 | **RPL15** | 0.999 |
+| RPL35 | **RPS23** | 0.999 |
+| RPL35 | **RPL38** | 0.999 |
+| RPL35 | **RPS27A** | 0.999 |
+| RPL35 | **RPS3** | 0.999 |
+| RPL35 | **RPL29** | 0.999 |
+| RPL35 | **FAU** | 0.999 |
+| RPL35 | **RPL37** | 0.999 |
+| RPL35 | **RPS11** | 0.999 |
+| RPL8 | **RPL13** | 0.999 |
+| RPL8 | **RPL15** | 0.999 |
+| RPL8 | **RPL38** | 0.999 |
+| RPL8 | **RPS23** | 0.999 |
+| RPL8 | **RPS27A** | 0.999 |
+| RPL8 | **RPS3** | 0.999 |
+| RPL8 | **FAU** | 0.999 |
+| RPL8 | **RPL29** | 0.999 |
+| RPL8 | **RPL37** | 0.999 |
+| RPL8 | **RPS11** | 0.999 |
+| RPS11 | **RPL13** | 0.999 |
+| RPS11 | **RPL15** | 0.999 |
+| RPS11 | **RPL37** | 0.999 |
+| RPS11 | **RPS23** | 0.999 |
+| RPS11 | **RPL38** | 0.999 |
+| RPS11 | **RPS27A** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS11 | **RPL29** | 0.999 |
+| RPS11 | **FAU** | 0.999 |
+| RPS27A | **RPL13** | 0.999 |
+| RPS27A | **RPL15** | 0.999 |
+| RPS27A | **RPL37** | 0.999 |
+| RPS27A | **RPS23** | 0.999 |
+| RPS27A | **RPL38** | 0.999 |
+| RPS27A | **RPL29** | 0.999 |
+| RPS27A | **FAU** | 0.999 |
+| RPS27A | **RPS3** | 0.999 |
+| RPL37 | **RPS3** | 0.999 |
+| RPL37 | **RPL29** | 0.999 |
+| RPL37 | **FAU** | 0.999 |
+| RPL37 | **RPS23** | 0.999 |
+| RPL37 | **RPL38** | 0.999 |
+| RPL37 | **RPL15** | 0.999 |
+| RPL37 | **RPL13** | 0.999 |
+| RPS3 | **RPL15** | 0.999 |
+| RPS3 | **RPL13** | 0.999 |
+| RPS3 | **RPL29** | 0.999 |
+| RPS3 | **FAU** | 0.999 |
+| RPS3 | **RPS23** | 0.999 |
+| RPS3 | **RPL38** | 0.999 |
+| RPL29 | **RPL15** | 0.999 |
+| RPL29 | **RPL13** | 0.999 |
+| RPL29 | **FAU** | 0.999 |
+| RPL29 | **RPL38** | 0.999 |
+| RPL29 | **RPS23** | 0.999 |
+| RPS23 | **RPL15** | 0.999 |
+| RPS23 | **RPL13** | 0.999 |
+| RPS23 | **FAU** | 0.999 |
+| RPS23 | **RPL38** | 0.999 |
+| RPL13 | **RPL15** | 0.999 |
+| RPL13 | **RPL38** | 0.999 |
+| RPL13 | **FAU** | 0.999 |
+| RPL15 | **RPL38** | 0.999 |
+| RPL15 | **FAU** | 0.999 |
+| RPL38 | **FAU** | 0.999 |
+

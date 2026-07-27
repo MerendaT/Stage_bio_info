@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PWWP3A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PWWP3A
+Identifiant STRING officiel : `9606.ENSP00000498656`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NDUFS3 | **PWWP3A** | 0.974 |
+| NDUFS3 | **MT-ND1** | 0.999 |
+| NDUFS3 | **NDUFV1** | 0.999 |
+| NDUFS3 | **NDUFB9** | 0.999 |
+| NDUFS3 | **CYC1** | 0.999 |
+| NDUFS3 | **NDUFS8** | 0.999 |
+| NDUFS3 | **NDUFA8** | 0.999 |
+| NDUFS3 | **NDUFS2** | 0.999 |
+| NDUFS3 | **NDUFB10** | 0.999 |
+| NDUFS3 | **MT-ND4** | 0.999 |
+| NDUFS3 | **MT-ND3** | 0.999 |
+| NDUFS3 | **NDUFS1** | 0.999 |
+| NDUFS3 | **NDUFV2** | 0.999 |
+| NDUFS3 | **NDUFB8** | 0.999 |
+| NDUFS3 | **NDUFA12** | 0.999 |
+| NDUFB10 | **PWWP3A** | 0.926 |
+| NDUFB10 | **CYC1** | 0.995 |
+| NDUFB10 | **NDUFS2** | 0.999 |
+| NDUFB10 | **NDUFA8** | 0.999 |
+| NDUFB10 | **NDUFS8** | 0.999 |
+| NDUFB10 | **NDUFB9** | 0.999 |
+| NDUFB10 | **MT-ND1** | 0.999 |
+| NDUFB10 | **NDUFV1** | 0.999 |
+| NDUFB10 | **NDUFA12** | 0.999 |
+| NDUFB10 | **NDUFB8** | 0.999 |
+| NDUFB10 | **NDUFV2** | 0.999 |
+| NDUFB10 | **NDUFS1** | 0.999 |
+| NDUFB10 | **MT-ND4** | 0.999 |
+| NDUFB10 | **MT-ND3** | 0.999 |
+| NDUFB9 | **PWWP3A** | 0.931 |
+| NDUFB9 | **CYC1** | 0.997 |
+| NDUFB9 | **NDUFV2** | 0.999 |
+| NDUFB9 | **NDUFS1** | 0.999 |
+| NDUFB9 | **MT-ND4** | 0.999 |
+| NDUFB9 | **MT-ND3** | 0.999 |
+| NDUFB9 | **NDUFA12** | 0.999 |
+| NDUFB9 | **NDUFB8** | 0.999 |
+| NDUFB9 | **MT-ND1** | 0.999 |
+| NDUFB9 | **NDUFV1** | 0.999 |
+| NDUFB9 | **NDUFA8** | 0.999 |
+| NDUFB9 | **NDUFS2** | 0.999 |
+| NDUFB9 | **NDUFS8** | 0.999 |
+| NDUFB8 | **PWWP3A** | 0.93 |
+| NDUFB8 | **CYC1** | 0.994 |
+| NDUFB8 | **NDUFS1** | 0.999 |
+| NDUFB8 | **NDUFV2** | 0.999 |
+| NDUFB8 | **MT-ND4** | 0.999 |
+| NDUFB8 | **MT-ND3** | 0.999 |
+| NDUFB8 | **NDUFA12** | 0.999 |
+| NDUFB8 | **NDUFV1** | 0.999 |
+| NDUFB8 | **MT-ND1** | 0.999 |
+| NDUFB8 | **NDUFA8** | 0.999 |
+| NDUFB8 | **NDUFS2** | 0.999 |
+| NDUFB8 | **NDUFS8** | 0.999 |
+| NDUFS8 | **PWWP3A** | 0.975 |
+| NDUFS8 | **NDUFA8** | 0.999 |
+| NDUFS8 | **NDUFS2** | 0.999 |
+| NDUFS8 | **MT-ND1** | 0.999 |
+| NDUFS8 | **NDUFV1** | 0.999 |
+| NDUFS8 | **CYC1** | 0.999 |
+| NDUFS8 | **NDUFA12** | 0.999 |
+| NDUFS8 | **MT-ND3** | 0.999 |
+| NDUFS8 | **MT-ND4** | 0.999 |
+| NDUFS8 | **NDUFS1** | 0.999 |
+| NDUFS8 | **NDUFV2** | 0.999 |
+| CYC1 | **PWWP3A** | 0.945 |
+| CYC1 | **MT-ND1** | 0.995 |
+| CYC1 | **MT-ND3** | 0.995 |
+| CYC1 | **MT-ND4** | 0.996 |
+| CYC1 | **NDUFA8** | 0.998 |
+| CYC1 | **NDUFA12** | 0.998 |
+| CYC1 | **NDUFS2** | 0.999 |
+| CYC1 | **NDUFV1** | 0.999 |
+| CYC1 | **NDUFS1** | 0.999 |
+| CYC1 | **NDUFV2** | 0.999 |
+| NDUFV2 | **PWWP3A** | 0.975 |
+| NDUFV2 | **NDUFA8** | 0.999 |
+| NDUFV2 | **NDUFS2** | 0.999 |
+| NDUFV2 | **NDUFV1** | 0.999 |
+| NDUFV2 | **MT-ND1** | 0.999 |
+| NDUFV2 | **NDUFA12** | 0.999 |
+| NDUFV2 | **MT-ND4** | 0.999 |
+| NDUFV2 | **MT-ND3** | 0.999 |
+| NDUFV2 | **NDUFS1** | 0.999 |
+| NDUFA12 | **PWWP3A** | 0.938 |
+| NDUFA12 | **MT-ND4** | 0.999 |
+| NDUFA12 | **MT-ND3** | 0.999 |
+| NDUFA12 | **NDUFS1** | 0.999 |
+| NDUFA12 | **MT-ND1** | 0.999 |
+| NDUFA12 | **NDUFV1** | 0.999 |
+| NDUFA12 | **NDUFA8** | 0.999 |
+| NDUFA12 | **NDUFS2** | 0.999 |
+| MT-ND1 | **PWWP3A** | 0.975 |
+| MT-ND1 | **MT-ND4** | 0.999 |
+| MT-ND1 | **MT-ND3** | 0.999 |
+| MT-ND1 | **NDUFS1** | 0.999 |
+| MT-ND1 | **NDUFS2** | 0.999 |
+| MT-ND1 | **NDUFA8** | 0.999 |
+| MT-ND1 | **NDUFV1** | 0.999 |
+| MT-ND4 | **PWWP3A** | 0.975 |
+| MT-ND4 | **NDUFS1** | 0.999 |
+| MT-ND4 | **MT-ND3** | 0.999 |
+| MT-ND4 | **NDUFV1** | 0.999 |
+| MT-ND4 | **NDUFA8** | 0.999 |
+| MT-ND4 | **NDUFS2** | 0.999 |
+| MT-ND3 | **PWWP3A** | 0.975 |
+| MT-ND3 | **NDUFS2** | 0.999 |
+| MT-ND3 | **NDUFA8** | 0.999 |
+| MT-ND3 | **NDUFS1** | 0.999 |
+| MT-ND3 | **NDUFV1** | 0.999 |
+| NDUFS2 | **PWWP3A** | 0.974 |
+| NDUFS2 | **NDUFS1** | 0.999 |
+| NDUFS2 | **NDUFV1** | 0.999 |
+| NDUFS2 | **NDUFA8** | 0.999 |
+| NDUFA8 | **PWWP3A** | 0.943 |
+| NDUFA8 | **NDUFV1** | 0.999 |
+| NDUFA8 | **NDUFS1** | 0.999 |
+| NDUFS1 | **PWWP3A** | 0.975 |
+| NDUFS1 | **NDUFV1** | 0.999 |
+| NDUFV1 | **PWWP3A** | 0.975 |
+

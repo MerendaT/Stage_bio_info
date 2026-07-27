@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PRIM1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PRIM1
+Identifiant STRING officiel : `9606.ENSP00000350491`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| POLE2 | **RPA2** | 0.678 |
+| POLE2 | **RPA3** | 0.72 |
+| POLE2 | **RPA1** | 0.737 |
+| POLE2 | **POLG** | 0.926 |
+| POLE2 | **RFC4** | 0.935 |
+| POLE2 | **REV3L** | 0.973 |
+| POLE2 | **PRIM2** | 0.986 |
+| POLE2 | **PRIM1** | 0.986 |
+| POLE2 | **POLD2** | 0.987 |
+| POLE2 | **POLA2** | 0.991 |
+| POLE2 | **POLD1** | 0.992 |
+| POLE2 | **POLA1** | 0.996 |
+| POLE2 | **POLE3** | 0.999 |
+| POLE2 | **POLE** | 0.999 |
+| RPA3 | **REV3L** | 0.576 |
+| RPA3 | **POLE3** | 0.602 |
+| RPA3 | **POLE** | 0.661 |
+| RPA3 | **RFC4** | 0.912 |
+| RPA3 | **POLA1** | 0.927 |
+| RPA3 | **POLA2** | 0.931 |
+| RPA3 | **PRIM2** | 0.935 |
+| RPA3 | **PRIM1** | 0.968 |
+| RPA3 | **POLD2** | 0.97 |
+| RPA3 | **POLD1** | 0.98 |
+| RPA3 | **STN1** | 0.997 |
+| RPA3 | **RPA1** | 0.999 |
+| RPA3 | **RPA2** | 0.999 |
+| STN1 | **RFC4** | 0.68 |
+| STN1 | **POLA2** | 0.969 |
+| STN1 | **PRIM2** | 0.975 |
+| STN1 | **PRIM1** | 0.976 |
+| STN1 | **POLA1** | 0.978 |
+| STN1 | **RPA1** | 0.998 |
+| RPA1 | **POLE3** | 0.631 |
+| RPA1 | **REV3L** | 0.706 |
+| RPA1 | **POLE** | 0.826 |
+| RPA1 | **RFC4** | 0.852 |
+| RPA1 | **POLD2** | 0.938 |
+| RPA1 | **POLA2** | 0.939 |
+| RPA1 | **PRIM2** | 0.959 |
+| RPA1 | **PRIM1** | 0.961 |
+| RPA1 | **POLA1** | 0.979 |
+| RPA1 | **POLD1** | 0.989 |
+| RPA1 | **RPA2** | 0.999 |
+| POLA2 | **RFC4** | 0.899 |
+| POLA2 | **POLG** | 0.917 |
+| POLA2 | **RPA2** | 0.94 |
+| POLA2 | **POLE3** | 0.97 |
+| POLA2 | **REV3L** | 0.985 |
+| POLA2 | **POLD2** | 0.987 |
+| POLA2 | **POLE** | 0.993 |
+| POLA2 | **POLD1** | 0.994 |
+| POLA2 | **PRIM2** | 0.999 |
+| POLA2 | **POLA1** | 0.999 |
+| POLA2 | **PRIM1** | 0.999 |
+| POLE | **RPA2** | 0.64 |
+| POLE | **RFC4** | 0.799 |
+| POLE | **POLG** | 0.966 |
+| POLE | **PRIM2** | 0.988 |
+| POLE | **REV3L** | 0.989 |
+| POLE | **PRIM1** | 0.99 |
+| POLE | **POLD2** | 0.991 |
+| POLE | **POLA1** | 0.997 |
+| POLE | **POLE3** | 0.999 |
+| POLE | **POLD1** | 0.999 |
+| PRIM1 | **POLG** | 0.949 |
+| PRIM1 | **POLE3** | 0.95 |
+| PRIM1 | **POLD2** | 0.961 |
+| PRIM1 | **RFC4** | 0.968 |
+| PRIM1 | **RPA2** | 0.971 |
+| PRIM1 | **REV3L** | 0.972 |
+| PRIM1 | **POLD1** | 0.99 |
+| PRIM1 | **PRIM2** | 0.999 |
+| PRIM1 | **POLA1** | 0.999 |
+| REV3L | **RFC4** | 0.641 |
+| REV3L | **RPA2** | 0.656 |
+| REV3L | **POLG** | 0.94 |
+| REV3L | **POLA1** | 0.946 |
+| REV3L | **POLE3** | 0.974 |
+| REV3L | **PRIM2** | 0.98 |
+| REV3L | **POLD1** | 0.984 |
+| REV3L | **POLD2** | 0.999 |
+| RPA2 | **POLE3** | 0.657 |
+| RPA2 | **RFC4** | 0.788 |
+| RPA2 | **POLD2** | 0.932 |
+| RPA2 | **POLA1** | 0.939 |
+| RPA2 | **POLD1** | 0.971 |
+| RPA2 | **PRIM2** | 0.971 |
+| POLE3 | **RFC4** | 0.718 |
+| POLE3 | **POLG** | 0.904 |
+| POLE3 | **PRIM2** | 0.967 |
+| POLE3 | **POLD2** | 0.97 |
+| POLE3 | **POLD1** | 0.985 |
+| POLE3 | **POLA1** | 0.985 |
+| POLA1 | **RFC4** | 0.846 |
+| POLA1 | **POLG** | 0.929 |
+| POLA1 | **POLD1** | 0.989 |
+| POLA1 | **POLD2** | 0.993 |
+| POLA1 | **PRIM2** | 0.999 |
+| RFC4 | **POLD2** | 0.878 |
+| RFC4 | **POLD1** | 0.916 |
+| RFC4 | **PRIM2** | 0.929 |
+| POLG | **PRIM2** | 0.912 |
+| POLG | **POLD2** | 0.916 |
+| POLG | **POLD1** | 0.966 |
+| POLD1 | **PRIM2** | 0.992 |
+| POLD1 | **POLD2** | 0.999 |
+| POLD2 | **PRIM2** | 0.969 |
+

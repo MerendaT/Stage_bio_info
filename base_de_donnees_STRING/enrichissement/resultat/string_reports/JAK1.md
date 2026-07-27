@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : JAK1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : JAK1
+Identifiant STRING officiel : `9606.ENSP00000499900`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| IL10RA | **IFNAR1** | 0.54 |
+| IL10RA | **SOCS3** | 0.653 |
+| IL10RA | **IL2RG** | 0.683 |
+| IL10RA | **IFNAR2** | 0.688 |
+| IL10RA | **STAT5B** | 0.767 |
+| IL10RA | **IFNGR1** | 0.777 |
+| IL10RA | **JAK2** | 0.778 |
+| IL10RA | **JAK3** | 0.779 |
+| IL10RA | **IL4R** | 0.802 |
+| IL10RA | **STAT1** | 0.861 |
+| IL10RA | **STAT5A** | 0.864 |
+| IL10RA | **IFNLR1** | 0.93 |
+| IL10RA | **STAT3** | 0.984 |
+| IL10RA | **JAK1** | 0.999 |
+| STAT3 | **IFNAR2** | 0.469 |
+| STAT3 | **IFNLR1** | 0.647 |
+| STAT3 | **IL4R** | 0.809 |
+| STAT3 | **IFNGR1** | 0.832 |
+| STAT3 | **IFNAR1** | 0.906 |
+| STAT3 | **SOCS1** | 0.944 |
+| STAT3 | **IL2RG** | 0.947 |
+| STAT3 | **SOCS3** | 0.994 |
+| STAT3 | **STAT5A** | 0.997 |
+| STAT3 | **STAT5B** | 0.998 |
+| STAT3 | **JAK3** | 0.998 |
+| STAT3 | **JAK1** | 0.999 |
+| STAT3 | **JAK2** | 0.999 |
+| STAT3 | **STAT1** | 0.999 |
+| IFNAR1 | **STAT5A** | 0.414 |
+| IFNAR1 | **STAT5B** | 0.449 |
+| IFNAR1 | **IL4R** | 0.697 |
+| IFNAR1 | **SOCS3** | 0.884 |
+| IFNAR1 | **JAK3** | 0.933 |
+| IFNAR1 | **JAK2** | 0.965 |
+| IFNAR1 | **IFNLR1** | 0.966 |
+| IFNAR1 | **SOCS1** | 0.988 |
+| IFNAR1 | **IFNGR1** | 0.992 |
+| IFNAR1 | **STAT1** | 0.998 |
+| IFNAR1 | **IFNAR2** | 0.999 |
+| IFNAR1 | **JAK1** | 0.999 |
+| STAT5B | **IFNLR1** | 0.583 |
+| STAT5B | **IFNGR1** | 0.622 |
+| STAT5B | **IL4R** | 0.66 |
+| STAT5B | **SOCS3** | 0.9 |
+| STAT5B | **SOCS1** | 0.926 |
+| STAT5B | **STAT5A** | 0.949 |
+| STAT5B | **STAT1** | 0.958 |
+| STAT5B | **IL2RG** | 0.976 |
+| STAT5B | **JAK3** | 0.997 |
+| STAT5B | **JAK2** | 0.999 |
+| STAT5B | **JAK1** | 0.999 |
+| IFNLR1 | **STAT5A** | 0.584 |
+| IFNLR1 | **IFNGR1** | 0.671 |
+| IFNLR1 | **JAK3** | 0.712 |
+| IFNLR1 | **IFNAR2** | 0.828 |
+| IFNLR1 | **JAK2** | 0.859 |
+| IFNLR1 | **STAT1** | 0.923 |
+| IFNLR1 | **JAK1** | 0.999 |
+| SOCS3 | **IL4R** | 0.543 |
+| SOCS3 | **IFNAR2** | 0.694 |
+| SOCS3 | **IFNGR1** | 0.818 |
+| SOCS3 | **STAT5A** | 0.9 |
+| SOCS3 | **JAK3** | 0.939 |
+| SOCS3 | **SOCS1** | 0.969 |
+| SOCS3 | **STAT1** | 0.988 |
+| SOCS3 | **JAK2** | 0.999 |
+| SOCS3 | **JAK1** | 0.999 |
+| STAT5A | **IFNGR1** | 0.627 |
+| STAT5A | **IL4R** | 0.671 |
+| STAT5A | **SOCS1** | 0.927 |
+| STAT5A | **STAT1** | 0.969 |
+| STAT5A | **IL2RG** | 0.977 |
+| STAT5A | **JAK3** | 0.998 |
+| STAT5A | **JAK1** | 0.999 |
+| STAT5A | **JAK2** | 0.999 |
+| IFNAR2 | **SOCS1** | 0.719 |
+| IFNAR2 | **JAK3** | 0.935 |
+| IFNAR2 | **JAK2** | 0.968 |
+| IFNAR2 | **IFNGR1** | 0.992 |
+| IFNAR2 | **STAT1** | 0.998 |
+| IFNAR2 | **JAK1** | 0.999 |
+| STAT1 | **IL4R** | 0.778 |
+| STAT1 | **IL2RG** | 0.82 |
+| STAT1 | **SOCS1** | 0.966 |
+| STAT1 | **JAK3** | 0.992 |
+| STAT1 | **IFNGR1** | 0.999 |
+| STAT1 | **JAK1** | 0.999 |
+| STAT1 | **JAK2** | 0.999 |
+| IFNGR1 | **IL2RG** | 0.533 |
+| IFNGR1 | **IL4R** | 0.732 |
+| IFNGR1 | **JAK3** | 0.937 |
+| IFNGR1 | **SOCS1** | 0.972 |
+| IFNGR1 | **JAK2** | 0.999 |
+| IFNGR1 | **JAK1** | 0.999 |
+| IL2RG | **JAK2** | 0.958 |
+| IL2RG | **IL4R** | 0.999 |
+| IL2RG | **JAK3** | 0.999 |
+| IL2RG | **JAK1** | 0.999 |
+| JAK2 | **JAK3** | 0.975 |
+| JAK2 | **IL4R** | 0.977 |
+| JAK2 | **JAK1** | 0.999 |
+| JAK2 | **SOCS1** | 0.999 |
+| IL4R | **SOCS1** | 0.742 |
+| IL4R | **JAK3** | 0.988 |
+| IL4R | **JAK1** | 0.999 |
+| JAK3 | **SOCS1** | 0.966 |
+| JAK3 | **JAK1** | 0.999 |
+| SOCS1 | **JAK1** | 0.999 |
+

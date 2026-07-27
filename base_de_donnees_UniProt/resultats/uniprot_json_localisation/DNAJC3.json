@@ -1,0 +1,429 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q13217",
+      "uniProtkbId": "DNJC3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "DNAJC3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q27968"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q91YW3"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12601012"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8576172"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9447982"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9920933"
+                }
+              ],
+              "value": "Involved in the unfolded protein response (UPR) during endoplasmic reticulum (ER) stress. Acts as a negative regulator of the EIF2AK4/GCN2 kinase activity by preventing the phosphorylation of eIF-2-alpha at 'Ser-52' and hence attenuating general protein synthesis under ER stress, hypothermic and amino acid starving stress conditions (By similarity). Co-chaperone of HSPA8/HSC70, it stimulates its ATPase activity. May inhibit both the autophosphorylation of EIF2AK2/PKR and the ability of EIF2AK2 to catalyze phosphorylation of the EIF2A. May inhibit EIF2AK3/PERK activity"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0035578",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:azurophil granule lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8666242"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19199708"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903561",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "24769233"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19946888"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051787",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:misfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004860",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-folding chaperone binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070417",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to cold"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051607",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:defense response to virus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22064321"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903912",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902010",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of translation in response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22064321"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036494",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of translation initiation in response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034975",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein folding in endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051603",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:proteolysis involved in protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to unfolded protein"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006F088"
+      }
+    }
+  ]
+}

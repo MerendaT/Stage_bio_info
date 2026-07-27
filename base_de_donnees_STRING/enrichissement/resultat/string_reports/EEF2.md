@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : EEF2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EEF2
+Identifiant STRING officiel : `9606.ENSP00000307940`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL18A | **RPS23** | 0.999 |
+| RPL18A | **RPS3A** | 0.999 |
+| RPL18A | **RPS3** | 0.999 |
+| RPL18A | **RPS11** | 0.999 |
+| RPL18A | **RPL3** | 0.999 |
+| RPL18A | **EEF2** | 0.999 |
+| RPL18A | **RPL4** | 0.999 |
+| RPL18A | **RPL8** | 0.999 |
+| RPL18A | **RPS2** | 0.999 |
+| RPL18A | **RPL13** | 0.999 |
+| RPL18A | **RPL27A** | 0.999 |
+| RPL18A | **RPL35** | 0.999 |
+| RPL18A | **RPL15** | 0.999 |
+| RPL18A | **RPL19** | 0.999 |
+| RPL19 | **RPL8** | 0.999 |
+| RPL19 | **RPS2** | 0.999 |
+| RPL19 | **RPL4** | 0.999 |
+| RPL19 | **RPL35** | 0.999 |
+| RPL19 | **RPL15** | 0.999 |
+| RPL19 | **RPL13** | 0.999 |
+| RPL19 | **RPL27A** | 0.999 |
+| RPL19 | **RPS3A** | 0.999 |
+| RPL19 | **RPS3** | 0.999 |
+| RPL19 | **RPS23** | 0.999 |
+| RPL19 | **EEF2** | 0.999 |
+| RPL19 | **RPS11** | 0.999 |
+| RPL19 | **RPL3** | 0.999 |
+| RPL35 | **RPL4** | 0.999 |
+| RPL35 | **RPS2** | 0.999 |
+| RPL35 | **RPL8** | 0.999 |
+| RPL35 | **RPL13** | 0.999 |
+| RPL35 | **RPL27A** | 0.999 |
+| RPL35 | **RPL15** | 0.999 |
+| RPL35 | **RPS23** | 0.999 |
+| RPL35 | **RPS3A** | 0.999 |
+| RPL35 | **RPS3** | 0.999 |
+| RPL35 | **RPL3** | 0.999 |
+| RPL35 | **RPS11** | 0.999 |
+| RPL35 | **EEF2** | 0.999 |
+| RPL8 | **RPL4** | 0.999 |
+| RPL8 | **RPS2** | 0.999 |
+| RPL8 | **RPL13** | 0.999 |
+| RPL8 | **RPL27A** | 0.999 |
+| RPL8 | **RPL15** | 0.999 |
+| RPL8 | **RPS23** | 0.999 |
+| RPL8 | **RPS3A** | 0.999 |
+| RPL8 | **RPS3** | 0.999 |
+| RPL8 | **RPL3** | 0.999 |
+| RPL8 | **RPS11** | 0.999 |
+| RPL8 | **EEF2** | 0.999 |
+| EEF2K | **EEF2** | 0.999 |
+| RPS11 | **RPL13** | 0.999 |
+| RPS11 | **RPL27A** | 0.999 |
+| RPS11 | **RPL15** | 0.999 |
+| RPS11 | **RPL4** | 0.999 |
+| RPS11 | **RPS2** | 0.999 |
+| RPS11 | **RPL3** | 0.999 |
+| RPS11 | **EEF2** | 0.999 |
+| RPS11 | **RPS23** | 0.999 |
+| RPS11 | **RPS3A** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPL4** | 0.999 |
+| RPS3 | **RPL15** | 0.999 |
+| RPS3 | **RPL27A** | 0.999 |
+| RPS3 | **RPL13** | 0.999 |
+| RPS3 | **RPS3A** | 0.999 |
+| RPS3 | **RPS23** | 0.999 |
+| RPS3 | **EEF2** | 0.999 |
+| RPS3 | **RPL3** | 0.999 |
+| RPS23 | **RPL15** | 0.999 |
+| RPS23 | **RPL13** | 0.999 |
+| RPS23 | **RPL27A** | 0.999 |
+| RPS23 | **RPS2** | 0.999 |
+| RPS23 | **RPL4** | 0.999 |
+| RPS23 | **EEF2** | 0.999 |
+| RPS23 | **RPL3** | 0.999 |
+| RPS23 | **RPS3A** | 0.999 |
+| RPL13 | **RPL27A** | 0.999 |
+| RPL13 | **RPL15** | 0.999 |
+| RPL13 | **RPL4** | 0.999 |
+| RPL13 | **RPS2** | 0.999 |
+| RPL13 | **RPL3** | 0.999 |
+| RPL13 | **EEF2** | 0.999 |
+| RPL13 | **RPS3A** | 0.999 |
+| EEF2 | **RPS2** | 0.999 |
+| EEF2 | **RPL4** | 0.999 |
+| EEF2 | **RPL15** | 0.999 |
+| EEF2 | **RPL27A** | 0.999 |
+| EEF2 | **RPS3A** | 0.999 |
+| EEF2 | **RPL3** | 0.999 |
+| RPL15 | **RPL27A** | 0.999 |
+| RPL15 | **RPL4** | 0.999 |
+| RPL15 | **RPS2** | 0.999 |
+| RPL15 | **RPL3** | 0.999 |
+| RPL15 | **RPS3A** | 0.999 |
+| RPL4 | **RPL3** | 0.999 |
+| RPL4 | **RPS3A** | 0.999 |
+| RPL4 | **RPL27A** | 0.999 |
+| RPL4 | **RPS2** | 0.999 |
+| RPS2 | **RPL3** | 0.999 |
+| RPS2 | **RPS3A** | 0.999 |
+| RPS2 | **RPL27A** | 0.999 |
+| RPL3 | **RPS3A** | 0.999 |
+| RPL3 | **RPL27A** | 0.999 |
+| RPL27A | **RPS3A** | 0.999 |
+

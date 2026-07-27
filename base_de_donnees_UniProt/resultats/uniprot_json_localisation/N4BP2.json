@@ -1,0 +1,206 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q86UW6",
+      "uniProtkbId": "N4BP2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "N4BP2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12730195"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "40441874"
+                }
+              ],
+              "value": "Has 5'-polynucleotide kinase and nicking endonuclease activity. May play a role in DNA repair or recombination (PubMed:12730195). May play a role in the non-stop mRNA decay pathway (NSD), which specifically targets and degrades mRNAs that lack a proper stop codon (PubMed:40441874)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12730195"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046404",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12730195"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004520",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA endonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12730195"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004519",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:endonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12730195"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016787",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hydrolase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043130",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070481",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:nuclear-transcribed mRNA catabolic process, non-stop decay"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "40441874"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001A962C"
+      }
+    }
+  ]
+}

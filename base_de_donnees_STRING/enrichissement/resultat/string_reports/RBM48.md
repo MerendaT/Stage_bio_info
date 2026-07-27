@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RBM48
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RBM48
+Identifiant STRING officiel : `9606.ENSP00000265732`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CRIPT | **EFTUD2** | 0.8 |
+| CRIPT | **SNIP1** | 0.8 |
+| CRIPT | **SNRNP40** | 0.8 |
+| CRIPT | **CDC5L** | 0.801 |
+| CRIPT | **CWC22** | 0.803 |
+| CRIPT | **CWC27** | 0.805 |
+| CRIPT | **DHX16** | 0.833 |
+| CRIPT | **CRNKL1** | 0.836 |
+| CRIPT | **PPIL2** | 0.851 |
+| CRIPT | **SCNM1** | 0.854 |
+| CRIPT | **RBM48** | 0.865 |
+| CRIPT | **SF3B3** | 0.9 |
+| CRIPT | **RNF113A** | 0.9 |
+| CRIPT | **PRPF8** | 0.9 |
+| CRIPT | **ARMC7** | 0.942 |
+| ARMC7 | **CWC27** | 0.922 |
+| ARMC7 | **CDC5L** | 0.922 |
+| ARMC7 | **SNRNP40** | 0.922 |
+| ARMC7 | **PRPF8** | 0.922 |
+| ARMC7 | **CWC22** | 0.922 |
+| ARMC7 | **CRNKL1** | 0.922 |
+| ARMC7 | **SNIP1** | 0.922 |
+| ARMC7 | **SF3B3** | 0.922 |
+| ARMC7 | **EFTUD2** | 0.923 |
+| ARMC7 | **RNF113A** | 0.924 |
+| ARMC7 | **DHX16** | 0.925 |
+| ARMC7 | **PPIL2** | 0.943 |
+| ARMC7 | **SCNM1** | 0.949 |
+| ARMC7 | **RBM48** | 0.996 |
+| SNRNP40 | **SCNM1** | 0.801 |
+| SNRNP40 | **RNF113A** | 0.819 |
+| SNRNP40 | **PPIL2** | 0.838 |
+| SNRNP40 | **SF3B3** | 0.852 |
+| SNRNP40 | **DHX16** | 0.858 |
+| SNRNP40 | **CWC27** | 0.867 |
+| SNRNP40 | **SNIP1** | 0.877 |
+| SNRNP40 | **RBM48** | 0.901 |
+| SNRNP40 | **CWC22** | 0.983 |
+| SNRNP40 | **CRNKL1** | 0.998 |
+| SNRNP40 | **EFTUD2** | 0.999 |
+| SNRNP40 | **PRPF8** | 0.999 |
+| SNRNP40 | **CDC5L** | 0.999 |
+| RBM48 | **CWC22** | 0.81 |
+| RBM48 | **DHX16** | 0.811 |
+| RBM48 | **CDC5L** | 0.811 |
+| RBM48 | **CRNKL1** | 0.812 |
+| RBM48 | **SF3B3** | 0.812 |
+| RBM48 | **EFTUD2** | 0.819 |
+| RBM48 | **SNIP1** | 0.82 |
+| RBM48 | **RNF113A** | 0.825 |
+| RBM48 | **CWC27** | 0.831 |
+| RBM48 | **PPIL2** | 0.861 |
+| RBM48 | **SCNM1** | 0.881 |
+| RBM48 | **PRPF8** | 0.9 |
+| SNIP1 | **SCNM1** | 0.8 |
+| SNIP1 | **PPIL2** | 0.844 |
+| SNIP1 | **CDC5L** | 0.958 |
+| SNIP1 | **CRNKL1** | 0.963 |
+| SNIP1 | **EFTUD2** | 0.995 |
+| SNIP1 | **RNF113A** | 0.996 |
+| SNIP1 | **PRPF8** | 0.996 |
+| SNIP1 | **CWC27** | 0.997 |
+| SNIP1 | **DHX16** | 0.997 |
+| SNIP1 | **SF3B3** | 0.997 |
+| SNIP1 | **CWC22** | 0.998 |
+| SF3B3 | **PPIL2** | 0.835 |
+| SF3B3 | **SCNM1** | 0.92 |
+| SF3B3 | **CWC27** | 0.993 |
+| SF3B3 | **CWC22** | 0.994 |
+| SF3B3 | **CRNKL1** | 0.994 |
+| SF3B3 | **RNF113A** | 0.996 |
+| SF3B3 | **CDC5L** | 0.997 |
+| SF3B3 | **EFTUD2** | 0.999 |
+| SF3B3 | **DHX16** | 0.999 |
+| SF3B3 | **PRPF8** | 0.999 |
+| SCNM1 | **CWC22** | 0.801 |
+| SCNM1 | **EFTUD2** | 0.801 |
+| SCNM1 | **DHX16** | 0.803 |
+| SCNM1 | **CWC27** | 0.817 |
+| SCNM1 | **PPIL2** | 0.841 |
+| SCNM1 | **CRNKL1** | 0.842 |
+| SCNM1 | **PRPF8** | 0.9 |
+| SCNM1 | **CDC5L** | 0.9 |
+| SCNM1 | **RNF113A** | 0.908 |
+| RNF113A | **CRNKL1** | 0.958 |
+| RNF113A | **PPIL2** | 0.974 |
+| RNF113A | **EFTUD2** | 0.993 |
+| RNF113A | **PRPF8** | 0.995 |
+| RNF113A | **CDC5L** | 0.998 |
+| RNF113A | **DHX16** | 0.998 |
+| RNF113A | **CWC27** | 0.999 |
+| RNF113A | **CWC22** | 0.999 |
+| CDC5L | **PPIL2** | 0.956 |
+| CDC5L | **DHX16** | 0.997 |
+| CDC5L | **CWC27** | 0.997 |
+| CDC5L | **EFTUD2** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| DHX16 | **PPIL2** | 0.973 |
+| DHX16 | **CRNKL1** | 0.991 |
+| DHX16 | **CWC27** | 0.998 |
+| DHX16 | **CWC22** | 0.998 |
+| DHX16 | **EFTUD2** | 0.999 |
+| DHX16 | **PRPF8** | 0.999 |
+| CRNKL1 | **PPIL2** | 0.91 |
+| CRNKL1 | **CWC27** | 0.959 |
+| CRNKL1 | **EFTUD2** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **CWC22** | 0.999 |
+| CWC27 | **PPIL2** | 0.971 |
+| CWC27 | **EFTUD2** | 0.995 |
+| CWC27 | **PRPF8** | 0.997 |
+| CWC27 | **CWC22** | 0.999 |
+| CWC22 | **PPIL2** | 0.964 |
+| CWC22 | **PRPF8** | 0.999 |
+| CWC22 | **EFTUD2** | 0.999 |
+| EFTUD2 | **PPIL2** | 0.925 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| PRPF8 | **PPIL2** | 0.952 |
+

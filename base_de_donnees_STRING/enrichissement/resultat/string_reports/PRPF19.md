@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PRPF19
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PRPF19
+Identifiant STRING officiel : `9606.ENSP00000227524`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AQR | **CTNNBL1** | 0.813 |
+| AQR | **YJU2** | 0.942 |
+| AQR | **SNRNP200** | 0.994 |
+| AQR | **SYF2** | 0.996 |
+| AQR | **SNRPD2** | 0.996 |
+| AQR | **SNRPD3** | 0.997 |
+| AQR | **SNRPF** | 0.997 |
+| AQR | **SNRPD1** | 0.997 |
+| AQR | **SNRNP40** | 0.997 |
+| AQR | **XAB2** | 0.999 |
+| AQR | **RBM22** | 0.999 |
+| AQR | **BCAS2** | 0.999 |
+| AQR | **PRPF19** | 0.999 |
+| AQR | **CDC40** | 0.999 |
+| AQR | **SNRPA1** | 0.999 |
+| RBM22 | **CTNNBL1** | 0.953 |
+| RBM22 | **YJU2** | 0.991 |
+| RBM22 | **BCAS2** | 0.996 |
+| RBM22 | **SNRPD3** | 0.997 |
+| RBM22 | **SNRNP40** | 0.997 |
+| RBM22 | **SNRPD2** | 0.997 |
+| RBM22 | **SNRPD1** | 0.997 |
+| RBM22 | **SNRNP200** | 0.998 |
+| RBM22 | **SNRPF** | 0.999 |
+| RBM22 | **SYF2** | 0.999 |
+| RBM22 | **XAB2** | 0.999 |
+| RBM22 | **SNRPA1** | 0.999 |
+| RBM22 | **PRPF19** | 0.999 |
+| RBM22 | **CDC40** | 0.999 |
+| SNRPD3 | **CTNNBL1** | 0.901 |
+| SNRPD3 | **YJU2** | 0.924 |
+| SNRPD3 | **SYF2** | 0.991 |
+| SNRPD3 | **BCAS2** | 0.992 |
+| SNRPD3 | **SNRNP40** | 0.993 |
+| SNRPD3 | **XAB2** | 0.998 |
+| SNRPD3 | **SNRPA1** | 0.999 |
+| SNRPD3 | **CDC40** | 0.999 |
+| SNRPD3 | **PRPF19** | 0.999 |
+| SNRPD3 | **SNRPD1** | 0.999 |
+| SNRPD3 | **SNRPD2** | 0.999 |
+| SNRPD3 | **SNRNP200** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| PRPF19 | **YJU2** | 0.999 |
+| PRPF19 | **XAB2** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BCAS2** | 0.999 |
+| PRPF19 | **SNRPF** | 0.999 |
+| PRPF19 | **SNRNP200** | 0.999 |
+| PRPF19 | **CTNNBL1** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **SNRPD1** | 0.999 |
+| PRPF19 | **SNRPD2** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **SNRNP40** | 0.999 |
+| SYF2 | **CTNNBL1** | 0.724 |
+| SYF2 | **SNRNP40** | 0.989 |
+| SYF2 | **SNRPD1** | 0.991 |
+| SYF2 | **SNRPD2** | 0.991 |
+| SYF2 | **SNRPF** | 0.992 |
+| SYF2 | **YJU2** | 0.994 |
+| SYF2 | **SNRNP200** | 0.995 |
+| SYF2 | **BCAS2** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SYF2 | **XAB2** | 0.999 |
+| SNRPA1 | **CTNNBL1** | 0.901 |
+| SNRPA1 | **YJU2** | 0.989 |
+| SNRPA1 | **SNRNP40** | 0.997 |
+| SNRPA1 | **BCAS2** | 0.998 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **SNRNP200** | 0.999 |
+| SNRPA1 | **XAB2** | 0.999 |
+| SNRPA1 | **SNRPD1** | 0.999 |
+| SNRPA1 | **SNRPD2** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| YJU2 | **SNRNP40** | 0.822 |
+| YJU2 | **SNRPD2** | 0.916 |
+| YJU2 | **SNRPF** | 0.922 |
+| YJU2 | **SNRPD1** | 0.922 |
+| YJU2 | **BCAS2** | 0.965 |
+| YJU2 | **CDC40** | 0.997 |
+| YJU2 | **SNRNP200** | 0.999 |
+| YJU2 | **XAB2** | 0.999 |
+| SNRNP40 | **CTNNBL1** | 0.88 |
+| SNRNP40 | **XAB2** | 0.994 |
+| SNRNP40 | **SNRPD1** | 0.996 |
+| SNRNP40 | **SNRPD2** | 0.998 |
+| SNRNP40 | **SNRPF** | 0.998 |
+| SNRNP40 | **CDC40** | 0.999 |
+| SNRNP40 | **SNRNP200** | 0.999 |
+| SNRNP40 | **BCAS2** | 0.999 |
+| SNRPF | **CTNNBL1** | 0.94 |
+| SNRPF | **BCAS2** | 0.994 |
+| SNRPF | **XAB2** | 0.998 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **CDC40** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SNRPD1** | 0.999 |
+| SNRPD1 | **CTNNBL1** | 0.881 |
+| SNRPD1 | **BCAS2** | 0.994 |
+| SNRPD1 | **XAB2** | 0.999 |
+| SNRPD1 | **SNRNP200** | 0.999 |
+| SNRPD1 | **CDC40** | 0.999 |
+| SNRPD1 | **SNRPD2** | 0.999 |
+| SNRNP200 | **CTNNBL1** | 0.865 |
+| SNRNP200 | **BCAS2** | 0.993 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **XAB2** | 0.997 |
+| SNRNP200 | **SNRPD2** | 0.999 |
+| SNRPD2 | **CTNNBL1** | 0.929 |
+| SNRPD2 | **BCAS2** | 0.991 |
+| SNRPD2 | **XAB2** | 0.998 |
+| SNRPD2 | **CDC40** | 0.999 |
+| XAB2 | **CTNNBL1** | 0.974 |
+| XAB2 | **BCAS2** | 0.999 |
+| XAB2 | **CDC40** | 0.999 |
+| CTNNBL1 | **CDC40** | 0.86 |
+| CTNNBL1 | **BCAS2** | 0.995 |
+| CDC40 | **BCAS2** | 0.999 |
+

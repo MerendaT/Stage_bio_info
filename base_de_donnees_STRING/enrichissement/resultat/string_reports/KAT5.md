@@ -1,0 +1,113 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : KAT5
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KAT5
+Identifiant STRING officiel : `9606.ENSP00000340330`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| YEATS4 | **MORF4L2** | 0.992 |
+| YEATS4 | **TRRAP** | 0.997 |
+| YEATS4 | **RUVBL2** | 0.998 |
+| YEATS4 | **EPC1** | 0.998 |
+| YEATS4 | **MRGBP** | 0.998 |
+| YEATS4 | **BRD8** | 0.998 |
+| YEATS4 | **ING3** | 0.998 |
+| YEATS4 | **KAT5** | 0.999 |
+| YEATS4 | **DMAP1** | 0.999 |
+| YEATS4 | **MORF4L1** | 0.999 |
+| YEATS4 | **RUVBL1** | 0.999 |
+| YEATS4 | **MEAF6** | 0.999 |
+| YEATS4 | **EP400** | 0.999 |
+| BRD8 | **EPC1** | 0.957 |
+| BRD8 | **MORF4L2** | 0.991 |
+| BRD8 | **MRGBP** | 0.994 |
+| BRD8 | **RUVBL1** | 0.995 |
+| BRD8 | **ING3** | 0.997 |
+| BRD8 | **RUVBL2** | 0.997 |
+| BRD8 | **MEAF6** | 0.998 |
+| BRD8 | **TRRAP** | 0.998 |
+| BRD8 | **KAT5** | 0.998 |
+| BRD8 | **MORF4L1** | 0.998 |
+| BRD8 | **EP400** | 0.999 |
+| BRD8 | **DMAP1** | 0.999 |
+| EPC1 | **EP400** | 0.976 |
+| EPC1 | **RUVBL2** | 0.985 |
+| EPC1 | **MORF4L2** | 0.985 |
+| EPC1 | **RUVBL1** | 0.986 |
+| EPC1 | **MRGBP** | 0.995 |
+| EPC1 | **ING3** | 0.996 |
+| EPC1 | **KAT5** | 0.997 |
+| EPC1 | **MORF4L1** | 0.997 |
+| EPC1 | **TRRAP** | 0.998 |
+| EPC1 | **DMAP1** | 0.999 |
+| EPC1 | **MEAF6** | 0.999 |
+| ATM | **RUVBL1** | 0.445 |
+| ATM | **APBB1** | 0.566 |
+| ATM | **EP400** | 0.689 |
+| ATM | **RUVBL2** | 0.699 |
+| ATM | **TRRAP** | 0.772 |
+| ATM | **KAT5** | 0.997 |
+| RUVBL1 | **MORF4L2** | 0.966 |
+| RUVBL1 | **MEAF6** | 0.982 |
+| RUVBL1 | **MRGBP** | 0.99 |
+| RUVBL1 | **MORF4L1** | 0.993 |
+| RUVBL1 | **ING3** | 0.995 |
+| RUVBL1 | **TRRAP** | 0.999 |
+| RUVBL1 | **KAT5** | 0.999 |
+| RUVBL1 | **DMAP1** | 0.999 |
+| RUVBL1 | **RUVBL2** | 0.999 |
+| RUVBL1 | **EP400** | 0.999 |
+| ING3 | **MORF4L2** | 0.983 |
+| ING3 | **EP400** | 0.989 |
+| ING3 | **MRGBP** | 0.993 |
+| ING3 | **RUVBL2** | 0.995 |
+| ING3 | **MEAF6** | 0.998 |
+| ING3 | **DMAP1** | 0.998 |
+| ING3 | **TRRAP** | 0.998 |
+| ING3 | **KAT5** | 0.999 |
+| ING3 | **MORF4L1** | 0.999 |
+| MORF4L1 | **MORF4L2** | 0.987 |
+| MORF4L1 | **RUVBL2** | 0.996 |
+| MORF4L1 | **EP400** | 0.997 |
+| MORF4L1 | **DMAP1** | 0.998 |
+| MORF4L1 | **TRRAP** | 0.998 |
+| MORF4L1 | **MEAF6** | 0.999 |
+| MORF4L1 | **KAT5** | 0.999 |
+| MORF4L1 | **MRGBP** | 0.999 |
+| KAT5 | **MRGBP** | 0.997 |
+| KAT5 | **MORF4L2** | 0.997 |
+| KAT5 | **EP400** | 0.999 |
+| KAT5 | **APBB1** | 0.999 |
+| KAT5 | **MEAF6** | 0.999 |
+| KAT5 | **DMAP1** | 0.999 |
+| KAT5 | **RUVBL2** | 0.999 |
+| KAT5 | **TRRAP** | 0.999 |
+| TRRAP | **APBB1** | 0.484 |
+| TRRAP | **MORF4L2** | 0.997 |
+| TRRAP | **RUVBL2** | 0.999 |
+| TRRAP | **DMAP1** | 0.999 |
+| TRRAP | **MRGBP** | 0.999 |
+| TRRAP | **MEAF6** | 0.999 |
+| TRRAP | **EP400** | 0.999 |
+| MRGBP | **EP400** | 0.988 |
+| MRGBP | **RUVBL2** | 0.989 |
+| MRGBP | **MEAF6** | 0.997 |
+| MRGBP | **MORF4L2** | 0.999 |
+| MRGBP | **DMAP1** | 0.999 |
+| DMAP1 | **MORF4L2** | 0.986 |
+| DMAP1 | **RUVBL2** | 0.999 |
+| DMAP1 | **MEAF6** | 0.999 |
+| DMAP1 | **EP400** | 0.999 |
+| MEAF6 | **RUVBL2** | 0.982 |
+| MEAF6 | **MORF4L2** | 0.986 |
+| MEAF6 | **EP400** | 0.994 |
+| EP400 | **MORF4L2** | 0.978 |
+| EP400 | **RUVBL2** | 0.999 |
+| MORF4L2 | **RUVBL2** | 0.962 |
+| RUVBL2 | **APBB1** | 0.403 |
+

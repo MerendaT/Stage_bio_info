@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NRBF2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NRBF2
+Identifiant STRING officiel : `9606.ENSP00000277746`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RB1CC1 | **RUBCN** | 0.629 |
+| RB1CC1 | **UVRAG** | 0.789 |
+| RB1CC1 | **AMBRA1** | 0.876 |
+| RB1CC1 | **ATG3** | 0.936 |
+| RB1CC1 | **BECN2** | 0.954 |
+| RB1CC1 | **PIK3R4** | 0.986 |
+| RB1CC1 | **PIK3C3** | 0.989 |
+| RB1CC1 | **BECN1** | 0.999 |
+| RB1CC1 | **ULK2** | 0.999 |
+| RB1CC1 | **ULK1** | 0.999 |
+| RB1CC1 | **ATG14** | 0.999 |
+| RB1CC1 | **NRBF2** | 0.999 |
+| RB1CC1 | **ATG101** | 0.999 |
+| RB1CC1 | **ATG13** | 0.999 |
+| ATG14 | **ATG3** | 0.864 |
+| ATG14 | **RUBCN** | 0.984 |
+| ATG14 | **ULK2** | 0.985 |
+| ATG14 | **ATG13** | 0.989 |
+| ATG14 | **ATG101** | 0.994 |
+| ATG14 | **AMBRA1** | 0.998 |
+| ATG14 | **BECN2** | 0.999 |
+| ATG14 | **PIK3R4** | 0.999 |
+| ATG14 | **NRBF2** | 0.999 |
+| ATG14 | **ULK1** | 0.999 |
+| ATG14 | **PIK3C3** | 0.999 |
+| ATG14 | **UVRAG** | 0.999 |
+| ATG14 | **BECN1** | 0.999 |
+| PIK3C3 | **ATG3** | 0.933 |
+| PIK3C3 | **ATG13** | 0.985 |
+| PIK3C3 | **ATG101** | 0.989 |
+| PIK3C3 | **ULK2** | 0.997 |
+| PIK3C3 | **RUBCN** | 0.997 |
+| PIK3C3 | **BECN1** | 0.999 |
+| PIK3C3 | **ULK1** | 0.999 |
+| PIK3C3 | **BECN2** | 0.999 |
+| PIK3C3 | **UVRAG** | 0.999 |
+| PIK3C3 | **NRBF2** | 0.999 |
+| PIK3C3 | **AMBRA1** | 0.999 |
+| PIK3C3 | **PIK3R4** | 0.999 |
+| NRBF2 | **SOGA3** | 0.566 |
+| NRBF2 | **ATG3** | 0.578 |
+| NRBF2 | **RUBCN** | 0.607 |
+| NRBF2 | **ATG13** | 0.623 |
+| NRBF2 | **AMBRA1** | 0.923 |
+| NRBF2 | **BECN2** | 0.934 |
+| NRBF2 | **ULK2** | 0.942 |
+| NRBF2 | **UVRAG** | 0.943 |
+| NRBF2 | **ATG101** | 0.962 |
+| NRBF2 | **BECN1** | 0.999 |
+| NRBF2 | **ULK1** | 0.999 |
+| NRBF2 | **PIK3R4** | 0.999 |
+| ATG3 | **RUBCN** | 0.492 |
+| ATG3 | **BECN2** | 0.677 |
+| ATG3 | **AMBRA1** | 0.753 |
+| ATG3 | **UVRAG** | 0.809 |
+| ATG3 | **ATG101** | 0.857 |
+| ATG3 | **ATG13** | 0.86 |
+| ATG3 | **PIK3R4** | 0.92 |
+| ATG3 | **ULK2** | 0.964 |
+| ATG3 | **BECN1** | 0.991 |
+| ATG3 | **ULK1** | 0.994 |
+| RUBCN | **ULK2** | 0.421 |
+| RUBCN | **ATG101** | 0.488 |
+| RUBCN | **ULK1** | 0.503 |
+| RUBCN | **ATG13** | 0.553 |
+| RUBCN | **BECN2** | 0.647 |
+| RUBCN | **AMBRA1** | 0.843 |
+| RUBCN | **PIK3R4** | 0.991 |
+| RUBCN | **BECN1** | 0.999 |
+| RUBCN | **UVRAG** | 0.999 |
+| ULK1 | **UVRAG** | 0.782 |
+| ULK1 | **AMBRA1** | 0.969 |
+| ULK1 | **BECN2** | 0.987 |
+| ULK1 | **ULK2** | 0.997 |
+| ULK1 | **PIK3R4** | 0.997 |
+| ULK1 | **BECN1** | 0.999 |
+| ULK1 | **ATG101** | 0.999 |
+| ULK1 | **ATG13** | 0.999 |
+| ATG101 | **UVRAG** | 0.853 |
+| ATG101 | **AMBRA1** | 0.866 |
+| ATG101 | **BECN2** | 0.947 |
+| ATG101 | **PIK3R4** | 0.985 |
+| ATG101 | **BECN1** | 0.988 |
+| ATG101 | **ATG13** | 0.999 |
+| ATG101 | **ULK2** | 0.999 |
+| UVRAG | **ULK2** | 0.736 |
+| UVRAG | **ATG13** | 0.82 |
+| UVRAG | **BECN2** | 0.974 |
+| UVRAG | **AMBRA1** | 0.996 |
+| UVRAG | **BECN1** | 0.999 |
+| UVRAG | **PIK3R4** | 0.999 |
+| PIK3R4 | **ATG13** | 0.957 |
+| PIK3R4 | **ULK2** | 0.996 |
+| PIK3R4 | **AMBRA1** | 0.998 |
+| PIK3R4 | **BECN1** | 0.999 |
+| PIK3R4 | **BECN2** | 0.999 |
+| BECN1 | **BECN2** | 0.972 |
+| BECN1 | **ATG13** | 0.986 |
+| BECN1 | **ULK2** | 0.997 |
+| BECN1 | **AMBRA1** | 0.999 |
+| ULK2 | **AMBRA1** | 0.787 |
+| ULK2 | **BECN2** | 0.984 |
+| ULK2 | **ATG13** | 0.998 |
+| AMBRA1 | **BECN2** | 0.685 |
+| AMBRA1 | **ATG13** | 0.938 |
+| ATG13 | **BECN2** | 0.575 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CENPT
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CENPT
+Identifiant STRING officiel : `9606.ENSP00000457810`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CENPM | **CENPX** | 0.989 |
+| CENPM | **ITGB3BP** | 0.994 |
+| CENPM | **CENPW** | 0.995 |
+| CENPM | **CENPS** | 0.997 |
+| CENPM | **CENPP** | 0.998 |
+| CENPM | **CENPU** | 0.999 |
+| CENPM | **CENPA** | 0.999 |
+| CENPM | **CENPO** | 0.999 |
+| CENPM | **CENPK** | 0.999 |
+| CENPM | **CENPT** | 0.999 |
+| CENPM | **CENPQ** | 0.999 |
+| CENPM | **CENPH** | 0.999 |
+| CENPM | **CENPN** | 0.999 |
+| CENPM | **CENPC** | 0.999 |
+| CENPM | **CENPI** | 0.999 |
+| CENPC | **ITGB3BP** | 0.989 |
+| CENPC | **CENPX** | 0.995 |
+| CENPC | **CENPQ** | 0.995 |
+| CENPC | **CENPP** | 0.996 |
+| CENPC | **CENPO** | 0.997 |
+| CENPC | **CENPW** | 0.997 |
+| CENPC | **CENPI** | 0.998 |
+| CENPC | **CENPK** | 0.998 |
+| CENPC | **CENPS** | 0.999 |
+| CENPC | **CENPN** | 0.999 |
+| CENPC | **CENPT** | 0.999 |
+| CENPC | **CENPA** | 0.999 |
+| CENPC | **CENPH** | 0.999 |
+| CENPC | **CENPU** | 0.999 |
+| CENPU | **CENPX** | 0.995 |
+| CENPU | **CENPW** | 0.997 |
+| CENPU | **CENPS** | 0.998 |
+| CENPU | **CENPA** | 0.998 |
+| CENPU | **CENPT** | 0.999 |
+| CENPU | **CENPI** | 0.999 |
+| CENPU | **CENPN** | 0.999 |
+| CENPU | **CENPO** | 0.999 |
+| CENPU | **CENPP** | 0.999 |
+| CENPU | **CENPQ** | 0.999 |
+| CENPU | **ITGB3BP** | 0.999 |
+| CENPU | **CENPH** | 0.999 |
+| CENPU | **CENPK** | 0.999 |
+| CENPH | **CENPX** | 0.995 |
+| CENPH | **ITGB3BP** | 0.997 |
+| CENPH | **CENPW** | 0.997 |
+| CENPH | **CENPS** | 0.998 |
+| CENPH | **CENPQ** | 0.999 |
+| CENPH | **CENPK** | 0.999 |
+| CENPH | **CENPT** | 0.999 |
+| CENPH | **CENPI** | 0.999 |
+| CENPH | **CENPN** | 0.999 |
+| CENPH | **CENPP** | 0.999 |
+| CENPH | **CENPO** | 0.999 |
+| CENPH | **CENPA** | 0.999 |
+| CENPS | **CENPA** | 0.993 |
+| CENPS | **CENPI** | 0.994 |
+| CENPS | **ITGB3BP** | 0.995 |
+| CENPS | **CENPP** | 0.996 |
+| CENPS | **CENPN** | 0.997 |
+| CENPS | **CENPO** | 0.998 |
+| CENPS | **CENPQ** | 0.998 |
+| CENPS | **CENPK** | 0.998 |
+| CENPS | **CENPT** | 0.999 |
+| CENPS | **CENPX** | 0.999 |
+| CENPS | **CENPW** | 0.999 |
+| CENPA | **ITGB3BP** | 0.946 |
+| CENPA | **CENPX** | 0.972 |
+| CENPA | **CENPP** | 0.985 |
+| CENPA | **CENPO** | 0.991 |
+| CENPA | **CENPQ** | 0.991 |
+| CENPA | **CENPW** | 0.991 |
+| CENPA | **CENPT** | 0.997 |
+| CENPA | **CENPK** | 0.997 |
+| CENPA | **CENPN** | 0.999 |
+| CENPA | **CENPI** | 0.999 |
+| CENPQ | **CENPX** | 0.993 |
+| CENPQ | **CENPW** | 0.994 |
+| CENPQ | **CENPT** | 0.998 |
+| CENPQ | **CENPP** | 0.999 |
+| CENPQ | **CENPO** | 0.999 |
+| CENPQ | **CENPK** | 0.999 |
+| CENPQ | **ITGB3BP** | 0.999 |
+| CENPQ | **CENPN** | 0.999 |
+| CENPQ | **CENPI** | 0.999 |
+| CENPW | **CENPO** | 0.993 |
+| CENPW | **ITGB3BP** | 0.993 |
+| CENPW | **CENPP** | 0.994 |
+| CENPW | **CENPI** | 0.996 |
+| CENPW | **CENPK** | 0.996 |
+| CENPW | **CENPT** | 0.999 |
+| CENPW | **CENPN** | 0.999 |
+| CENPW | **CENPX** | 0.999 |
+| ITGB3BP | **CENPX** | 0.988 |
+| ITGB3BP | **CENPT** | 0.997 |
+| ITGB3BP | **CENPN** | 0.997 |
+| ITGB3BP | **CENPI** | 0.998 |
+| ITGB3BP | **CENPK** | 0.998 |
+| ITGB3BP | **CENPP** | 0.999 |
+| ITGB3BP | **CENPO** | 0.999 |
+| CENPI | **CENPX** | 0.996 |
+| CENPI | **CENPT** | 0.999 |
+| CENPI | **CENPN** | 0.999 |
+| CENPI | **CENPP** | 0.999 |
+| CENPI | **CENPO** | 0.999 |
+| CENPI | **CENPK** | 0.999 |
+| CENPP | **CENPX** | 0.99 |
+| CENPP | **CENPT** | 0.997 |
+| CENPP | **CENPK** | 0.998 |
+| CENPP | **CENPO** | 0.999 |
+| CENPP | **CENPN** | 0.999 |
+| CENPO | **CENPX** | 0.994 |
+| CENPO | **CENPK** | 0.999 |
+| CENPO | **CENPT** | 0.999 |
+| CENPO | **CENPN** | 0.999 |
+| CENPN | **CENPX** | 0.993 |
+| CENPN | **CENPT** | 0.999 |
+| CENPN | **CENPK** | 0.999 |
+| CENPK | **CENPX** | 0.995 |
+| CENPK | **CENPT** | 0.998 |
+| CENPT | **CENPX** | 0.999 |
+

@@ -1,0 +1,580 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P13726",
+      "uniProtkbId": "TF_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "F3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12652293"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "271951"
+                }
+              ],
+              "value": "Initiates blood coagulation by forming a complex with circulating factor VII or VIIa. The [TF:VIIa] complex activates factors IX or X by specific limited proteolysis. TF plays a role in normal hemostasis by initiating the cell-surface assembly and propagation of the coagulation protease cascade"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 1",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12652293"
+                  }
+                ],
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12652293"
+                  }
+                ],
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 2",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12652293"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17898544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:external side of plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17469850"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2704749"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19065458"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "3037536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905286",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:serine-type peptidase complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "24998411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004896",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cytokine receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005543",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:phospholipid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17469850"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protease binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "3455766"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002543",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:activation of blood coagulation via clotting cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17469850"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002541",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:activation of plasma proteins involved in acute inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17469850"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24998411"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8632006"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019221",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cytokine-mediated signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045766",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17898544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030335",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "18612547"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000353",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of endothelial cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17898544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001938",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of endothelial cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17898544"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22556343"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032757",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of interleukin-8 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22556343"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010641",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of platelet-derived growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17991872"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050927",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of positive chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17991872"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032008",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of TOR signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18612547"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016485",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein processing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24998411"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000002CD0D"
+      }
+    }
+  ]
+}

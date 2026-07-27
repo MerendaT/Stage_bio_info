@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : TIMM50
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TIMM50
+Identifiant STRING officiel : `9606.ENSP00000445806`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TIMM21 | **TIMM13** | 0.625 |
+| TIMM21 | **TOMM70** | 0.829 |
+| TIMM21 | **TIMM22** | 0.834 |
+| TIMM21 | **TOMM40** | 0.86 |
+| TIMM21 | **HSPA9** | 0.891 |
+| TIMM21 | **TIMM23B** | 0.928 |
+| TIMM21 | **PAM16** | 0.948 |
+| TIMM21 | **TIMM17B** | 0.952 |
+| TIMM21 | **TOMM22** | 0.964 |
+| TIMM21 | **DNAJC19** | 0.964 |
+| TIMM21 | **TIMM44** | 0.969 |
+| TIMM21 | **TIMM10** | 0.97 |
+| TIMM21 | **TIMM23** | 0.993 |
+| TIMM21 | **TIMM17A** | 0.997 |
+| TIMM21 | **TIMM50** | 0.999 |
+| TIMM13 | **TIMM17B** | 0.591 |
+| TIMM13 | **PAM16** | 0.611 |
+| TIMM13 | **TIMM23B** | 0.623 |
+| TIMM13 | **DNAJC19** | 0.667 |
+| TIMM13 | **HSPA9** | 0.684 |
+| TIMM13 | **TOMM70** | 0.712 |
+| TIMM13 | **TIMM44** | 0.788 |
+| TIMM13 | **TIMM17A** | 0.804 |
+| TIMM13 | **TOMM22** | 0.861 |
+| TIMM13 | **TIMM50** | 0.863 |
+| TIMM13 | **TIMM22** | 0.863 |
+| TIMM13 | **TOMM40** | 0.928 |
+| TIMM13 | **TIMM23** | 0.985 |
+| TIMM13 | **TIMM10** | 0.999 |
+| TOMM22 | **TIMM17B** | 0.598 |
+| TOMM22 | **TIMM23B** | 0.678 |
+| TOMM22 | **TIMM22** | 0.756 |
+| TOMM22 | **PAM16** | 0.763 |
+| TOMM22 | **DNAJC19** | 0.783 |
+| TOMM22 | **TIMM10** | 0.869 |
+| TOMM22 | **TIMM17A** | 0.891 |
+| TOMM22 | **TIMM44** | 0.911 |
+| TOMM22 | **HSPA9** | 0.915 |
+| TOMM22 | **TIMM50** | 0.939 |
+| TOMM22 | **TIMM23** | 0.946 |
+| TOMM22 | **TOMM70** | 0.999 |
+| TOMM22 | **TOMM40** | 0.999 |
+| TIMM10 | **TIMM23B** | 0.712 |
+| TIMM10 | **HSPA9** | 0.742 |
+| TIMM10 | **PAM16** | 0.865 |
+| TIMM10 | **DNAJC19** | 0.882 |
+| TIMM10 | **TOMM70** | 0.888 |
+| TIMM10 | **TIMM17B** | 0.893 |
+| TIMM10 | **TOMM40** | 0.906 |
+| TIMM10 | **TIMM50** | 0.945 |
+| TIMM10 | **TIMM44** | 0.959 |
+| TIMM10 | **TIMM23** | 0.972 |
+| TIMM10 | **TIMM17A** | 0.985 |
+| TIMM10 | **TIMM22** | 0.998 |
+| TIMM44 | **TIMM22** | 0.87 |
+| TIMM44 | **TOMM70** | 0.93 |
+| TIMM44 | **TIMM17B** | 0.931 |
+| TIMM44 | **TIMM23B** | 0.954 |
+| TIMM44 | **TOMM40** | 0.958 |
+| TIMM44 | **TIMM50** | 0.985 |
+| TIMM44 | **TIMM23** | 0.989 |
+| TIMM44 | **PAM16** | 0.999 |
+| TIMM44 | **TIMM17A** | 0.999 |
+| TIMM44 | **DNAJC19** | 0.999 |
+| TIMM44 | **HSPA9** | 0.999 |
+| TOMM70 | **TIMM23B** | 0.498 |
+| TOMM70 | **PAM16** | 0.645 |
+| TOMM70 | **DNAJC19** | 0.65 |
+| TOMM70 | **TIMM22** | 0.76 |
+| TOMM70 | **TIMM17B** | 0.807 |
+| TOMM70 | **TIMM23** | 0.844 |
+| TOMM70 | **TIMM50** | 0.913 |
+| TOMM70 | **HSPA9** | 0.942 |
+| TOMM70 | **TIMM17A** | 0.947 |
+| TOMM70 | **TOMM40** | 0.999 |
+| HSPA9 | **TIMM22** | 0.671 |
+| HSPA9 | **TIMM50** | 0.891 |
+| HSPA9 | **TOMM40** | 0.915 |
+| HSPA9 | **TIMM23B** | 0.917 |
+| HSPA9 | **TIMM17B** | 0.942 |
+| HSPA9 | **TIMM23** | 0.966 |
+| HSPA9 | **PAM16** | 0.988 |
+| HSPA9 | **TIMM17A** | 0.988 |
+| HSPA9 | **DNAJC19** | 0.998 |
+| PAM16 | **TIMM22** | 0.801 |
+| PAM16 | **TOMM40** | 0.829 |
+| PAM16 | **TIMM23B** | 0.928 |
+| PAM16 | **TIMM17B** | 0.955 |
+| PAM16 | **TIMM23** | 0.96 |
+| PAM16 | **TIMM50** | 0.972 |
+| PAM16 | **TIMM17A** | 0.992 |
+| PAM16 | **DNAJC19** | 0.999 |
+| TIMM22 | **TIMM23B** | 0.5 |
+| TIMM22 | **DNAJC19** | 0.8 |
+| TIMM22 | **TOMM40** | 0.816 |
+| TIMM22 | **TIMM17B** | 0.83 |
+| TIMM22 | **TIMM17A** | 0.862 |
+| TIMM22 | **TIMM50** | 0.908 |
+| TIMM22 | **TIMM23** | 0.961 |
+| TIMM17A | **TIMM17B** | 0.823 |
+| TIMM17A | **TIMM23B** | 0.939 |
+| TIMM17A | **TOMM40** | 0.947 |
+| TIMM17A | **DNAJC19** | 0.989 |
+| TIMM17A | **TIMM23** | 0.999 |
+| TIMM17A | **TIMM50** | 0.999 |
+| TIMM23B | **TIMM23** | 0.545 |
+| TIMM23B | **TOMM40** | 0.602 |
+| TIMM23B | **DNAJC19** | 0.792 |
+| TIMM23B | **TIMM17B** | 0.923 |
+| TIMM23B | **TIMM50** | 0.946 |
+| DNAJC19 | **TOMM40** | 0.822 |
+| DNAJC19 | **TIMM23** | 0.909 |
+| DNAJC19 | **TIMM17B** | 0.921 |
+| DNAJC19 | **TIMM50** | 0.973 |
+| TIMM17B | **TOMM40** | 0.809 |
+| TIMM17B | **TIMM50** | 0.996 |
+| TIMM17B | **TIMM23** | 0.999 |
+| TOMM40 | **TIMM23** | 0.965 |
+| TOMM40 | **TIMM50** | 0.971 |
+| TIMM50 | **TIMM23** | 0.999 |
+

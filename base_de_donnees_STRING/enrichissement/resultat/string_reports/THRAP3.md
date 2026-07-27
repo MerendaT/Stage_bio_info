@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : THRAP3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : THRAP3
+Identifiant STRING officiel : `9606.ENSP00000346634`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MED17 | **BCLAF1** | 0.571 |
+| MED17 | **THRAP3** | 0.906 |
+| MED17 | **MED13** | 0.996 |
+| MED17 | **MED30** | 0.999 |
+| MED17 | **MED12** | 0.999 |
+| MED17 | **MED8** | 0.999 |
+| MED17 | **MED4** | 0.999 |
+| MED17 | **MED1** | 0.999 |
+| MED17 | **MED6** | 0.999 |
+| MED17 | **MED11** | 0.999 |
+| MED17 | **MED14** | 0.999 |
+| MED17 | **MED16** | 0.999 |
+| MED17 | **CDK8** | 0.999 |
+| MED17 | **MED18** | 0.999 |
+| MED17 | **MED26** | 0.999 |
+| MED4 | **BCLAF1** | 0.603 |
+| MED4 | **THRAP3** | 0.911 |
+| MED4 | **CDK8** | 0.992 |
+| MED4 | **MED13** | 0.994 |
+| MED4 | **MED16** | 0.998 |
+| MED4 | **MED18** | 0.999 |
+| MED4 | **MED26** | 0.999 |
+| MED4 | **MED12** | 0.999 |
+| MED4 | **MED30** | 0.999 |
+| MED4 | **MED8** | 0.999 |
+| MED4 | **MED6** | 0.999 |
+| MED4 | **MED11** | 0.999 |
+| MED4 | **MED1** | 0.999 |
+| MED4 | **MED14** | 0.999 |
+| MED26 | **BCLAF1** | 0.557 |
+| MED26 | **THRAP3** | 0.904 |
+| MED26 | **MED13** | 0.994 |
+| MED26 | **MED12** | 0.994 |
+| MED26 | **CDK8** | 0.996 |
+| MED26 | **MED16** | 0.997 |
+| MED26 | **MED8** | 0.997 |
+| MED26 | **MED11** | 0.998 |
+| MED26 | **MED18** | 0.999 |
+| MED26 | **MED1** | 0.999 |
+| MED26 | **MED6** | 0.999 |
+| MED26 | **MED14** | 0.999 |
+| MED26 | **MED30** | 0.999 |
+| MED8 | **BCLAF1** | 0.587 |
+| MED8 | **THRAP3** | 0.91 |
+| MED8 | **MED13** | 0.988 |
+| MED8 | **CDK8** | 0.998 |
+| MED8 | **MED16** | 0.998 |
+| MED8 | **MED14** | 0.999 |
+| MED8 | **MED18** | 0.999 |
+| MED8 | **MED1** | 0.999 |
+| MED8 | **MED6** | 0.999 |
+| MED8 | **MED11** | 0.999 |
+| MED8 | **MED12** | 0.999 |
+| MED8 | **MED30** | 0.999 |
+| MED11 | **BCLAF1** | 0.568 |
+| MED11 | **THRAP3** | 0.902 |
+| MED11 | **MED13** | 0.984 |
+| MED11 | **CDK8** | 0.986 |
+| MED11 | **MED1** | 0.997 |
+| MED11 | **MED16** | 0.998 |
+| MED11 | **MED30** | 0.999 |
+| MED11 | **MED12** | 0.999 |
+| MED11 | **MED14** | 0.999 |
+| MED11 | **MED6** | 0.999 |
+| MED11 | **MED18** | 0.999 |
+| MED30 | **BCLAF1** | 0.572 |
+| MED30 | **THRAP3** | 0.907 |
+| MED30 | **MED13** | 0.991 |
+| MED30 | **CDK8** | 0.997 |
+| MED30 | **MED16** | 0.997 |
+| MED30 | **MED14** | 0.999 |
+| MED30 | **MED18** | 0.999 |
+| MED30 | **MED6** | 0.999 |
+| MED30 | **MED1** | 0.999 |
+| MED30 | **MED12** | 0.999 |
+| MED1 | **BCLAF1** | 0.673 |
+| MED1 | **THRAP3** | 0.954 |
+| MED1 | **CDK8** | 0.998 |
+| MED1 | **MED18** | 0.999 |
+| MED1 | **MED16** | 0.999 |
+| MED1 | **MED6** | 0.999 |
+| MED1 | **MED14** | 0.999 |
+| MED1 | **MED13** | 0.999 |
+| MED1 | **MED12** | 0.999 |
+| MED14 | **BCLAF1** | 0.627 |
+| MED14 | **THRAP3** | 0.942 |
+| MED14 | **CDK8** | 0.999 |
+| MED14 | **MED16** | 0.999 |
+| MED14 | **MED18** | 0.999 |
+| MED14 | **MED13** | 0.999 |
+| MED14 | **MED6** | 0.999 |
+| MED14 | **MED12** | 0.999 |
+| MED16 | **BCLAF1** | 0.698 |
+| MED16 | **THRAP3** | 0.948 |
+| MED16 | **MED13** | 0.995 |
+| MED16 | **CDK8** | 0.997 |
+| MED16 | **MED6** | 0.998 |
+| MED16 | **MED12** | 0.999 |
+| MED16 | **MED18** | 0.999 |
+| THRAP3 | **MED18** | 0.902 |
+| THRAP3 | **MED13** | 0.909 |
+| THRAP3 | **MED6** | 0.91 |
+| THRAP3 | **MED12** | 0.924 |
+| THRAP3 | **CDK8** | 0.93 |
+| THRAP3 | **BCLAF1** | 0.993 |
+| MED18 | **BCLAF1** | 0.551 |
+| MED18 | **CDK8** | 0.998 |
+| MED18 | **MED12** | 0.999 |
+| MED18 | **MED13** | 0.999 |
+| MED18 | **MED6** | 0.999 |
+| MED12 | **BCLAF1** | 0.579 |
+| MED12 | **MED13** | 0.999 |
+| MED12 | **MED6** | 0.999 |
+| MED12 | **CDK8** | 0.999 |
+| CDK8 | **BCLAF1** | 0.549 |
+| CDK8 | **MED6** | 0.999 |
+| CDK8 | **MED13** | 0.999 |
+| MED13 | **BCLAF1** | 0.588 |
+| MED13 | **MED6** | 0.992 |
+| BCLAF1 | **MED6** | 0.559 |
+

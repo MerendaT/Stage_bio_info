@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : KAT2A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KAT2A
+Identifiant STRING officiel : `9606.ENSP00000225916`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KAT2A | **MYC** | 0.996 |
+| KAT2A | **TADA1** | 0.996 |
+| KAT2A | **TADA2B** | 0.996 |
+| KAT2A | **ENY2** | 0.997 |
+| KAT2A | **ATXN7** | 0.997 |
+| KAT2A | **USP22** | 0.998 |
+| KAT2A | **TAF12** | 0.998 |
+| KAT2A | **TRRAP** | 0.999 |
+| KAT2A | **TADA2A** | 0.999 |
+| KAT2A | **TAF9** | 0.999 |
+| KAT2A | **SGF29** | 0.999 |
+| KAT2A | **WDR5** | 0.999 |
+| KAT2A | **TAF10** | 0.999 |
+| KAT2A | **SUPT3H** | 0.999 |
+| KAT2A | **TADA3** | 0.999 |
+| USP22 | **WDR5** | 0.755 |
+| USP22 | **MYC** | 0.809 |
+| USP22 | **TADA2B** | 0.976 |
+| USP22 | **TADA1** | 0.984 |
+| USP22 | **TAF9** | 0.987 |
+| USP22 | **TAF12** | 0.991 |
+| USP22 | **TADA2A** | 0.992 |
+| USP22 | **SUPT3H** | 0.995 |
+| USP22 | **TAF10** | 0.997 |
+| USP22 | **TADA3** | 0.997 |
+| USP22 | **TRRAP** | 0.998 |
+| USP22 | **SGF29** | 0.998 |
+| USP22 | **ENY2** | 0.999 |
+| USP22 | **ATXN7** | 0.999 |
+| TAF12 | **MYC** | 0.672 |
+| TAF12 | **WDR5** | 0.747 |
+| TAF12 | **ENY2** | 0.996 |
+| TAF12 | **TADA2B** | 0.997 |
+| TAF12 | **TADA2A** | 0.997 |
+| TAF12 | **TADA3** | 0.999 |
+| TAF12 | **TADA1** | 0.999 |
+| TAF12 | **SUPT3H** | 0.999 |
+| TAF12 | **ATXN7** | 0.999 |
+| TAF12 | **TAF10** | 0.999 |
+| TAF12 | **SGF29** | 0.999 |
+| TAF12 | **TRRAP** | 0.999 |
+| TAF12 | **TAF9** | 0.999 |
+| ATXN7 | **WDR5** | 0.577 |
+| ATXN7 | **TADA2A** | 0.927 |
+| ATXN7 | **TADA2B** | 0.977 |
+| ATXN7 | **SGF29** | 0.996 |
+| ATXN7 | **TADA3** | 0.996 |
+| ATXN7 | **SUPT3H** | 0.998 |
+| ATXN7 | **TADA1** | 0.998 |
+| ATXN7 | **TAF10** | 0.999 |
+| ATXN7 | **TAF9** | 0.999 |
+| ATXN7 | **TRRAP** | 0.999 |
+| ATXN7 | **ENY2** | 0.999 |
+| TAF10 | **WDR5** | 0.758 |
+| TAF10 | **TADA2A** | 0.995 |
+| TAF10 | **TADA2B** | 0.997 |
+| TAF10 | **ENY2** | 0.998 |
+| TAF10 | **TAF9** | 0.999 |
+| TAF10 | **TRRAP** | 0.999 |
+| TAF10 | **SGF29** | 0.999 |
+| TAF10 | **SUPT3H** | 0.999 |
+| TAF10 | **TADA1** | 0.999 |
+| TAF10 | **TADA3** | 0.999 |
+| TADA3 | **WDR5** | 0.972 |
+| TADA3 | **ENY2** | 0.998 |
+| TADA3 | **TADA1** | 0.998 |
+| TADA3 | **TAF9** | 0.999 |
+| TADA3 | **TADA2A** | 0.999 |
+| TADA3 | **TRRAP** | 0.999 |
+| TADA3 | **SGF29** | 0.999 |
+| TADA3 | **SUPT3H** | 0.999 |
+| TADA3 | **TADA2B** | 0.999 |
+| TADA2B | **WDR5** | 0.779 |
+| TADA2B | **TADA2A** | 0.892 |
+| TADA2B | **TADA1** | 0.988 |
+| TADA2B | **ENY2** | 0.994 |
+| TADA2B | **TRRAP** | 0.998 |
+| TADA2B | **SUPT3H** | 0.999 |
+| TADA2B | **SGF29** | 0.999 |
+| TADA2B | **TAF9** | 0.999 |
+| SGF29 | **WDR5** | 0.982 |
+| SGF29 | **TADA1** | 0.997 |
+| SGF29 | **SUPT3H** | 0.999 |
+| SGF29 | **TAF9** | 0.999 |
+| SGF29 | **TADA2A** | 0.999 |
+| SGF29 | **TRRAP** | 0.999 |
+| SGF29 | **ENY2** | 0.999 |
+| WDR5 | **SUPT3H** | 0.731 |
+| WDR5 | **TADA1** | 0.76 |
+| WDR5 | **ENY2** | 0.762 |
+| WDR5 | **TRRAP** | 0.881 |
+| WDR5 | **TAF9** | 0.937 |
+| WDR5 | **MYC** | 0.98 |
+| WDR5 | **TADA2A** | 0.982 |
+| TRRAP | **TADA2A** | 0.998 |
+| TRRAP | **ENY2** | 0.998 |
+| TRRAP | **TAF9** | 0.999 |
+| TRRAP | **MYC** | 0.999 |
+| TRRAP | **SUPT3H** | 0.999 |
+| TRRAP | **TADA1** | 0.999 |
+| TADA1 | **MYC** | 0.481 |
+| TADA1 | **TADA2A** | 0.969 |
+| TADA1 | **ENY2** | 0.989 |
+| TADA1 | **TAF9** | 0.999 |
+| TADA1 | **SUPT3H** | 0.999 |
+| SUPT3H | **MYC** | 0.643 |
+| SUPT3H | **ENY2** | 0.993 |
+| SUPT3H | **TADA2A** | 0.999 |
+| SUPT3H | **TAF9** | 0.999 |
+| TAF9 | **MYC** | 0.496 |
+| TAF9 | **ENY2** | 0.994 |
+| TAF9 | **TADA2A** | 0.997 |
+| ENY2 | **TADA2A** | 0.991 |
+

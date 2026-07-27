@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : VPS26C
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : VPS26C
+Identifiant STRING officiel : `9606.ENSP00000311399`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VPS35L | **SH3GLB1** | 0.489 |
+| VPS35L | **STMN2** | 0.606 |
+| VPS35L | **COMMD9** | 0.692 |
+| VPS35L | **COMMD8** | 0.793 |
+| VPS35L | **COMMD10** | 0.876 |
+| VPS35L | **COMMD4** | 0.908 |
+| VPS35L | **COMMD3** | 0.909 |
+| VPS35L | **COMMD2** | 0.913 |
+| VPS35L | **DENND10** | 0.919 |
+| VPS35L | **COMMD6** | 0.95 |
+| VPS35L | **COMMD1** | 0.988 |
+| VPS35L | **CCDC93** | 0.995 |
+| VPS35L | **CCDC22** | 0.996 |
+| VPS35L | **VPS26C** | 0.998 |
+| VPS35L | **VPS29** | 0.999 |
+| COMMD9 | **STMN2** | 0.603 |
+| COMMD9 | **VPS26C** | 0.817 |
+| COMMD9 | **DENND10** | 0.853 |
+| COMMD9 | **VPS29** | 0.926 |
+| COMMD9 | **COMMD8** | 0.955 |
+| COMMD9 | **CCDC93** | 0.964 |
+| COMMD9 | **COMMD3** | 0.971 |
+| COMMD9 | **CCDC22** | 0.973 |
+| COMMD9 | **COMMD2** | 0.974 |
+| COMMD9 | **COMMD10** | 0.976 |
+| COMMD9 | **COMMD4** | 0.976 |
+| COMMD9 | **COMMD1** | 0.977 |
+| COMMD9 | **COMMD6** | 0.999 |
+| COMMD4 | **STMN2** | 0.609 |
+| COMMD4 | **DENND10** | 0.869 |
+| COMMD4 | **VPS29** | 0.882 |
+| COMMD4 | **CCDC93** | 0.917 |
+| COMMD4 | **VPS26C** | 0.941 |
+| COMMD4 | **COMMD10** | 0.957 |
+| COMMD4 | **COMMD6** | 0.968 |
+| COMMD4 | **COMMD8** | 0.968 |
+| COMMD4 | **COMMD1** | 0.976 |
+| COMMD4 | **COMMD3** | 0.978 |
+| COMMD4 | **CCDC22** | 0.981 |
+| COMMD4 | **COMMD2** | 0.987 |
+| COMMD10 | **STMN2** | 0.596 |
+| COMMD10 | **DENND10** | 0.827 |
+| COMMD10 | **VPS26C** | 0.862 |
+| COMMD10 | **VPS29** | 0.864 |
+| COMMD10 | **COMMD8** | 0.97 |
+| COMMD10 | **COMMD3** | 0.971 |
+| COMMD10 | **CCDC93** | 0.971 |
+| COMMD10 | **COMMD6** | 0.978 |
+| COMMD10 | **CCDC22** | 0.979 |
+| COMMD10 | **COMMD1** | 0.98 |
+| COMMD10 | **COMMD2** | 0.987 |
+| COMMD1 | **SH3GLB1** | 0.48 |
+| COMMD1 | **STMN2** | 0.485 |
+| COMMD1 | **VPS29** | 0.894 |
+| COMMD1 | **DENND10** | 0.926 |
+| COMMD1 | **VPS26C** | 0.953 |
+| COMMD1 | **COMMD8** | 0.958 |
+| COMMD1 | **COMMD3** | 0.966 |
+| COMMD1 | **COMMD2** | 0.974 |
+| COMMD1 | **CCDC93** | 0.988 |
+| COMMD1 | **COMMD6** | 0.995 |
+| COMMD1 | **CCDC22** | 0.996 |
+| VPS26C | **SH3GLB1** | 0.81 |
+| VPS26C | **STMN2** | 0.817 |
+| VPS26C | **COMMD8** | 0.845 |
+| VPS26C | **COMMD3** | 0.911 |
+| VPS26C | **COMMD2** | 0.925 |
+| VPS26C | **COMMD6** | 0.926 |
+| VPS26C | **DENND10** | 0.931 |
+| VPS26C | **CCDC93** | 0.984 |
+| VPS26C | **CCDC22** | 0.984 |
+| VPS26C | **VPS29** | 0.999 |
+| COMMD6 | **STMN2** | 0.605 |
+| COMMD6 | **DENND10** | 0.877 |
+| COMMD6 | **VPS29** | 0.881 |
+| COMMD6 | **COMMD8** | 0.955 |
+| COMMD6 | **CCDC93** | 0.963 |
+| COMMD6 | **COMMD2** | 0.972 |
+| COMMD6 | **COMMD3** | 0.975 |
+| COMMD6 | **CCDC22** | 0.976 |
+| DENND10 | **STMN2** | 0.641 |
+| DENND10 | **COMMD8** | 0.827 |
+| DENND10 | **COMMD2** | 0.864 |
+| DENND10 | **COMMD3** | 0.891 |
+| DENND10 | **CCDC93** | 0.912 |
+| DENND10 | **CCDC22** | 0.938 |
+| DENND10 | **VPS29** | 0.956 |
+| CCDC22 | **STMN2** | 0.44 |
+| CCDC22 | **SH3GLB1** | 0.641 |
+| CCDC22 | **VPS29** | 0.939 |
+| CCDC22 | **COMMD3** | 0.98 |
+| CCDC22 | **COMMD2** | 0.984 |
+| CCDC22 | **COMMD8** | 0.986 |
+| CCDC22 | **CCDC93** | 0.999 |
+| CCDC93 | **SH3GLB1** | 0.402 |
+| CCDC93 | **STMN2** | 0.596 |
+| CCDC93 | **COMMD8** | 0.921 |
+| CCDC93 | **COMMD3** | 0.929 |
+| CCDC93 | **COMMD2** | 0.934 |
+| CCDC93 | **VPS29** | 0.938 |
+| COMMD3 | **STMN2** | 0.482 |
+| COMMD3 | **SH3GLB1** | 0.635 |
+| COMMD3 | **VPS29** | 0.868 |
+| COMMD3 | **COMMD8** | 0.955 |
+| COMMD3 | **COMMD2** | 0.989 |
+| COMMD8 | **STMN2** | 0.532 |
+| COMMD8 | **VPS29** | 0.814 |
+| COMMD8 | **COMMD2** | 0.972 |
+| COMMD2 | **STMN2** | 0.575 |
+| COMMD2 | **VPS29** | 0.893 |
+

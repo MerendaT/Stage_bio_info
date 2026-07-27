@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DEPDC1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DEPDC1
+Identifiant STRING officiel : `9606.ENSP00000412292`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLGAP5 | **DEPDC1** | 0.881 |
+| DLGAP5 | **KIF14** | 0.933 |
+| DLGAP5 | **KIF15** | 0.937 |
+| DLGAP5 | **CENPA** | 0.945 |
+| DLGAP5 | **KIF18A** | 0.945 |
+| DLGAP5 | **KIF23** | 0.951 |
+| DLGAP5 | **NUF2** | 0.964 |
+| DLGAP5 | **CCNB1** | 0.965 |
+| DLGAP5 | **CCNA2** | 0.97 |
+| DLGAP5 | **KIF20A** | 0.97 |
+| DLGAP5 | **TTK** | 0.977 |
+| DLGAP5 | **TPX2** | 0.978 |
+| DLGAP5 | **ASPM** | 0.994 |
+| DLGAP5 | **HMMR** | 0.999 |
+| DLGAP5 | **CEP55** | 0.999 |
+| CCNB1 | **KIF18A** | 0.835 |
+| CCNB1 | **KIF14** | 0.861 |
+| CCNB1 | **DEPDC1** | 0.871 |
+| CCNB1 | **KIF15** | 0.916 |
+| CCNB1 | **KIF23** | 0.922 |
+| CCNB1 | **TTK** | 0.936 |
+| CCNB1 | **CEP55** | 0.94 |
+| CCNB1 | **HMMR** | 0.942 |
+| CCNB1 | **TPX2** | 0.949 |
+| CCNB1 | **ASPM** | 0.952 |
+| CCNB1 | **CENPA** | 0.953 |
+| CCNB1 | **KIF20A** | 0.954 |
+| CCNB1 | **NUF2** | 0.967 |
+| CCNB1 | **CCNA2** | 0.995 |
+| KIF23 | **TTK** | 0.833 |
+| KIF23 | **DEPDC1** | 0.865 |
+| KIF23 | **CENPA** | 0.865 |
+| KIF23 | **HMMR** | 0.889 |
+| KIF23 | **KIF15** | 0.893 |
+| KIF23 | **TPX2** | 0.906 |
+| KIF23 | **NUF2** | 0.912 |
+| KIF23 | **CCNA2** | 0.914 |
+| KIF23 | **KIF18A** | 0.921 |
+| KIF23 | **KIF20A** | 0.958 |
+| KIF23 | **KIF14** | 0.958 |
+| KIF23 | **CEP55** | 0.975 |
+| KIF23 | **ASPM** | 0.987 |
+| KIF18A | **HMMR** | 0.69 |
+| KIF18A | **TPX2** | 0.711 |
+| KIF18A | **CCNA2** | 0.742 |
+| KIF18A | **CEP55** | 0.793 |
+| KIF18A | **CENPA** | 0.809 |
+| KIF18A | **DEPDC1** | 0.851 |
+| KIF18A | **ASPM** | 0.865 |
+| KIF18A | **KIF20A** | 0.922 |
+| KIF18A | **TTK** | 0.927 |
+| KIF18A | **KIF15** | 0.943 |
+| KIF18A | **KIF14** | 0.945 |
+| KIF18A | **NUF2** | 0.946 |
+| NUF2 | **KIF14** | 0.872 |
+| NUF2 | **HMMR** | 0.886 |
+| NUF2 | **DEPDC1** | 0.898 |
+| NUF2 | **KIF15** | 0.936 |
+| NUF2 | **CENPA** | 0.936 |
+| NUF2 | **CCNA2** | 0.94 |
+| NUF2 | **CEP55** | 0.947 |
+| NUF2 | **TPX2** | 0.947 |
+| NUF2 | **KIF20A** | 0.955 |
+| NUF2 | **ASPM** | 0.98 |
+| NUF2 | **TTK** | 0.989 |
+| TPX2 | **CENPA** | 0.882 |
+| TPX2 | **KIF14** | 0.903 |
+| TPX2 | **DEPDC1** | 0.903 |
+| TPX2 | **TTK** | 0.935 |
+| TPX2 | **CEP55** | 0.944 |
+| TPX2 | **KIF15** | 0.948 |
+| TPX2 | **ASPM** | 0.949 |
+| TPX2 | **CCNA2** | 0.954 |
+| TPX2 | **KIF20A** | 0.972 |
+| TPX2 | **HMMR** | 0.979 |
+| KIF15 | **DEPDC1** | 0.854 |
+| KIF15 | **CENPA** | 0.865 |
+| KIF15 | **CCNA2** | 0.873 |
+| KIF15 | **CEP55** | 0.893 |
+| KIF15 | **HMMR** | 0.901 |
+| KIF15 | **KIF14** | 0.931 |
+| KIF15 | **KIF20A** | 0.942 |
+| KIF15 | **TTK** | 0.961 |
+| KIF15 | **ASPM** | 0.971 |
+| CENPA | **KIF14** | 0.812 |
+| CENPA | **DEPDC1** | 0.858 |
+| CENPA | **ASPM** | 0.865 |
+| CENPA | **HMMR** | 0.87 |
+| CENPA | **TTK** | 0.905 |
+| CENPA | **KIF20A** | 0.913 |
+| CENPA | **CEP55** | 0.92 |
+| CENPA | **CCNA2** | 0.99 |
+| KIF14 | **CCNA2** | 0.85 |
+| KIF14 | **HMMR** | 0.853 |
+| KIF14 | **DEPDC1** | 0.873 |
+| KIF14 | **TTK** | 0.904 |
+| KIF14 | **CEP55** | 0.943 |
+| KIF14 | **ASPM** | 0.963 |
+| KIF14 | **KIF20A** | 0.973 |
+| ASPM | **DEPDC1** | 0.861 |
+| ASPM | **HMMR** | 0.928 |
+| ASPM | **CCNA2** | 0.944 |
+| ASPM | **CEP55** | 0.95 |
+| ASPM | **TTK** | 0.957 |
+| ASPM | **KIF20A** | 0.975 |
+| TTK | **HMMR** | 0.881 |
+| TTK | **KIF20A** | 0.923 |
+| TTK | **DEPDC1** | 0.931 |
+| TTK | **CCNA2** | 0.939 |
+| TTK | **CEP55** | 0.945 |
+| CEP55 | **DEPDC1** | 0.877 |
+| CEP55 | **CCNA2** | 0.923 |
+| CEP55 | **HMMR** | 0.926 |
+| CEP55 | **KIF20A** | 0.962 |
+| HMMR | **DEPDC1** | 0.907 |
+| HMMR | **KIF20A** | 0.909 |
+| HMMR | **CCNA2** | 0.921 |
+| KIF20A | **DEPDC1** | 0.9 |
+| KIF20A | **CCNA2** | 0.974 |
+| DEPDC1 | **CCNA2** | 0.894 |
+

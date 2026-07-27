@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : XPA
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : XPA
+Identifiant STRING officiel : `9606.ENSP00000364270`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ERCC1 | **XAB2** | 0.499 |
+| ERCC1 | **GTF2H4** | 0.728 |
+| ERCC1 | **RPA2** | 0.817 |
+| ERCC1 | **GTF2H5** | 0.833 |
+| ERCC1 | **DDB2** | 0.859 |
+| ERCC1 | **GTF2H1** | 0.894 |
+| ERCC1 | **RPA1** | 0.898 |
+| ERCC1 | **ERCC6** | 0.926 |
+| ERCC1 | **XPC** | 0.994 |
+| ERCC1 | **ERCC3** | 0.994 |
+| ERCC1 | **ERCC2** | 0.996 |
+| ERCC1 | **ERCC5** | 0.997 |
+| ERCC1 | **RAD23B** | 0.998 |
+| ERCC1 | **ERCC4** | 0.999 |
+| ERCC1 | **XPA** | 0.999 |
+| RPA1 | **GTF2H4** | 0.578 |
+| RPA1 | **GTF2H5** | 0.653 |
+| RPA1 | **ERCC2** | 0.691 |
+| RPA1 | **ERCC5** | 0.712 |
+| RPA1 | **ERCC3** | 0.723 |
+| RPA1 | **GTF2H1** | 0.76 |
+| RPA1 | **RAD23B** | 0.798 |
+| RPA1 | **XPC** | 0.819 |
+| RPA1 | **DDB2** | 0.826 |
+| RPA1 | **ERCC4** | 0.917 |
+| RPA1 | **XPA** | 0.984 |
+| RPA1 | **RPA2** | 0.999 |
+| DDB2 | **ERCC6** | 0.696 |
+| DDB2 | **GTF2H4** | 0.703 |
+| DDB2 | **GTF2H1** | 0.709 |
+| DDB2 | **XAB2** | 0.723 |
+| DDB2 | **RPA2** | 0.726 |
+| DDB2 | **GTF2H5** | 0.779 |
+| DDB2 | **ERCC4** | 0.81 |
+| DDB2 | **ERCC5** | 0.843 |
+| DDB2 | **ERCC3** | 0.877 |
+| DDB2 | **ERCC2** | 0.915 |
+| DDB2 | **RAD23B** | 0.929 |
+| DDB2 | **XPC** | 0.982 |
+| DDB2 | **XPA** | 0.989 |
+| GTF2H4 | **RPA2** | 0.546 |
+| GTF2H4 | **ERCC6** | 0.676 |
+| GTF2H4 | **RAD23B** | 0.756 |
+| GTF2H4 | **ERCC4** | 0.759 |
+| GTF2H4 | **XPC** | 0.844 |
+| GTF2H4 | **ERCC5** | 0.92 |
+| GTF2H4 | **XPA** | 0.974 |
+| GTF2H4 | **ERCC2** | 0.999 |
+| GTF2H4 | **GTF2H1** | 0.999 |
+| GTF2H4 | **GTF2H5** | 0.999 |
+| GTF2H4 | **ERCC3** | 0.999 |
+| GTF2H1 | **RPA2** | 0.691 |
+| GTF2H1 | **ERCC6** | 0.758 |
+| GTF2H1 | **ERCC4** | 0.784 |
+| GTF2H1 | **RAD23B** | 0.846 |
+| GTF2H1 | **XPA** | 0.984 |
+| GTF2H1 | **XPC** | 0.992 |
+| GTF2H1 | **ERCC2** | 0.999 |
+| GTF2H1 | **ERCC5** | 0.999 |
+| GTF2H1 | **ERCC3** | 0.999 |
+| GTF2H1 | **GTF2H5** | 0.999 |
+| XPC | **XAB2** | 0.545 |
+| XPC | **GTF2H5** | 0.683 |
+| XPC | **ERCC6** | 0.758 |
+| XPC | **RPA2** | 0.9 |
+| XPC | **ERCC2** | 0.926 |
+| XPC | **ERCC5** | 0.971 |
+| XPC | **ERCC3** | 0.972 |
+| XPC | **XPA** | 0.981 |
+| XPC | **ERCC4** | 0.983 |
+| XPC | **RAD23B** | 0.999 |
+| ERCC3 | **RPA2** | 0.665 |
+| ERCC3 | **XAB2** | 0.759 |
+| ERCC3 | **RAD23B** | 0.968 |
+| ERCC3 | **ERCC6** | 0.976 |
+| ERCC3 | **ERCC4** | 0.987 |
+| ERCC3 | **GTF2H5** | 0.999 |
+| ERCC3 | **XPA** | 0.999 |
+| ERCC3 | **ERCC2** | 0.999 |
+| ERCC3 | **ERCC5** | 0.999 |
+| ERCC4 | **XAB2** | 0.599 |
+| ERCC4 | **RPA2** | 0.744 |
+| ERCC4 | **GTF2H5** | 0.75 |
+| ERCC4 | **ERCC6** | 0.934 |
+| ERCC4 | **ERCC2** | 0.988 |
+| ERCC4 | **RAD23B** | 0.99 |
+| ERCC4 | **ERCC5** | 0.998 |
+| ERCC4 | **XPA** | 0.999 |
+| ERCC6 | **GTF2H5** | 0.765 |
+| ERCC6 | **RAD23B** | 0.834 |
+| ERCC6 | **XAB2** | 0.896 |
+| ERCC6 | **ERCC2** | 0.973 |
+| ERCC6 | **XPA** | 0.99 |
+| ERCC6 | **ERCC5** | 0.999 |
+| RAD23B | **XAB2** | 0.615 |
+| RAD23B | **RPA2** | 0.691 |
+| RAD23B | **GTF2H5** | 0.924 |
+| RAD23B | **ERCC2** | 0.975 |
+| RAD23B | **ERCC5** | 0.981 |
+| RAD23B | **XPA** | 0.997 |
+| XAB2 | **ERCC5** | 0.518 |
+| XAB2 | **ERCC2** | 0.726 |
+| XAB2 | **XPA** | 0.98 |
+| RPA2 | **ERCC5** | 0.63 |
+| RPA2 | **ERCC2** | 0.646 |
+| RPA2 | **GTF2H5** | 0.677 |
+| RPA2 | **XPA** | 0.995 |
+| XPA | **GTF2H5** | 0.98 |
+| XPA | **ERCC5** | 0.992 |
+| XPA | **ERCC2** | 0.999 |
+| ERCC2 | **GTF2H5** | 0.999 |
+| ERCC2 | **ERCC5** | 0.999 |
+| GTF2H5 | **ERCC5** | 0.799 |
+

@@ -1,0 +1,176 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "A0A0B4J1U7",
+      "uniProtkbId": "HV601_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "11340299"
+              },
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "Reference",
+                "id": "Ref.3"
+              }
+            ],
+            "value": "IGHV6-1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "17576170"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "20176268"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "22158414"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "24600447"
+                }
+              ],
+              "value": "V region of the variable domain of immunoglobulin heavy chains that participates in the antigen recognition (PubMed:24600447). Immunoglobulins, also known as antibodies, are membrane-bound or secreted glycoproteins produced by B lymphocytes. In the recognition phase of humoral immunity, the membrane-bound immunoglobulins serve as receptors which, upon binding of a specific antigen, trigger the clonal expansion and differentiation of B lymphocytes into immunoglobulins-secreting plasma cells. Secreted immunoglobulins mediate the effector phase of humoral immunity, which results in the elimination of bound antigens (PubMed:20176268, PubMed:22158414). The antigen binding site is formed by the variable domain of one heavy chain, together with that of its associated light chain. Thus, each immunoglobulin has two antigen binding sites with remarkable affinity for a particular antigen. The variable domains are assembled by a process called V-(D)-J rearrangement and can then be subjected to somatic hypermutations which, after exposure to antigen and selection, allow affinity maturation for a particular antigen (PubMed:17576170, PubMed:20176268)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "20176268"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "22158414"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "20176268"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "22158414"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019814",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:immunoglobulin complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003823",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:antigen binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016064",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:immunoglobulin mediated immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000113C49"
+      }
+    }
+  ]
+}

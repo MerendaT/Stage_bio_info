@@ -1,0 +1,265 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9Y3R4",
+      "uniProtkbId": "NEUR2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:7759"
+              }
+            ],
+            "value": "NEU2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "14613940"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22228546"
+                }
+              ],
+              "value": "Exo-alpha-sialidase that catalyzes the hydrolytic cleavage of the terminal sialic acid (N-acetylneuraminic acid, Neu5Ac) of a glycan moiety in the catabolism of glycolipids, glycoproteins and oligosaccharides (PubMed:14613940, PubMed:22228546). Recognizes sialyl linkage positions of the glycan moiety as well as the supramolecular organization of the sialoglycoconjugate. Displays preference for alpha-(2->3)-sialylated GD1a and GT1B gangliosides over alpha-(2->8)-sialylated GD1b, in both monomeric forms and micelles. Hydrolyzes monomeric GM1 ganglioside, but has no activity toward the miscellar form (PubMed:14613940). Has lower sialidase activity for glycoproteins such as fetuin and TF/transferrin that carry a mixture of alpha-(2->3) and alpha-(2->6)-sialyl linkages. Cleaves milk oligosaccharide alpha-(2->3)-sialyllactose, but is inactive toward alpha-(2->6)-sialyllactose isomer. Has no activity toward colominic acid, a homomer of alpha-(2->8)-linked Neu5Ac residues (PubMed:14613940)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10561456"
+                  }
+                ],
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:1902494",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:catalytic complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26193330"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10561456"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005764",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:lysosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004308",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:exo-alpha-sialidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14613940"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22228546"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006689",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ganglioside catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14613940"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22228546"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006516",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glycoprotein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14613940"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046479",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glycosphingolipid catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009313",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:oligosaccharide catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14613940"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22228546"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013C98F"
+      }
+    }
+  ]
+}

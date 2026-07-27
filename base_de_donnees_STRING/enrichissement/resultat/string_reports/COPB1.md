@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : COPB1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : COPB1
+Identifiant STRING officiel : `9606.ENSP00000249923`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| COPB1 | **KDELR2** | 0.921 |
+| COPB1 | **GOLPH3** | 0.922 |
+| COPB1 | **COG3** | 0.927 |
+| COPB1 | **ARFGAP3** | 0.961 |
+| COPB1 | **KDELR1** | 0.961 |
+| COPB1 | **ARFGAP2** | 0.961 |
+| COPB1 | **COPZ2** | 0.977 |
+| COPB1 | **ARF1** | 0.992 |
+| COPB1 | **COPG2** | 0.998 |
+| COPB1 | **COPZ1** | 0.999 |
+| COPB1 | **COPG1** | 0.999 |
+| COPB1 | **COPA** | 0.999 |
+| COPB1 | **COPE** | 0.999 |
+| COPB1 | **COPB2** | 0.999 |
+| COPB1 | **ARCN1** | 0.999 |
+| COG3 | **COPA** | 0.446 |
+| COG3 | **GOLPH3** | 0.466 |
+| KDELR2 | **ARFGAP2** | 0.551 |
+| KDELR2 | **COPG2** | 0.604 |
+| KDELR2 | **COPZ2** | 0.61 |
+| KDELR2 | **ARF1** | 0.611 |
+| KDELR2 | **COPE** | 0.634 |
+| KDELR2 | **ARFGAP3** | 0.635 |
+| KDELR2 | **COPA** | 0.67 |
+| KDELR2 | **COPG1** | 0.693 |
+| KDELR2 | **COPZ1** | 0.709 |
+| KDELR2 | **ARCN1** | 0.711 |
+| KDELR2 | **COPB2** | 0.717 |
+| KDELR2 | **GOLPH3** | 0.745 |
+| KDELR2 | **KDELR1** | 0.915 |
+| ARFGAP3 | **GOLPH3** | 0.43 |
+| ARFGAP3 | **KDELR1** | 0.632 |
+| ARFGAP3 | **COPE** | 0.655 |
+| ARFGAP3 | **COPZ2** | 0.676 |
+| ARFGAP3 | **COPZ1** | 0.741 |
+| ARFGAP3 | **ARFGAP2** | 0.765 |
+| ARFGAP3 | **COPG2** | 0.794 |
+| ARFGAP3 | **COPG1** | 0.8 |
+| ARFGAP3 | **ARCN1** | 0.876 |
+| ARFGAP3 | **COPA** | 0.903 |
+| ARFGAP3 | **COPB2** | 0.938 |
+| ARFGAP3 | **ARF1** | 0.94 |
+| ARCN1 | **KDELR1** | 0.757 |
+| ARCN1 | **ARF1** | 0.816 |
+| ARCN1 | **ARFGAP2** | 0.878 |
+| ARCN1 | **GOLPH3** | 0.887 |
+| ARCN1 | **COPZ2** | 0.979 |
+| ARCN1 | **COPG2** | 0.99 |
+| ARCN1 | **COPZ1** | 0.999 |
+| ARCN1 | **COPG1** | 0.999 |
+| ARCN1 | **COPE** | 0.999 |
+| ARCN1 | **COPB2** | 0.999 |
+| ARCN1 | **COPA** | 0.999 |
+| GOLPH3 | **COPG1** | 0.42 |
+| GOLPH3 | **COPG2** | 0.422 |
+| GOLPH3 | **ARFGAP2** | 0.439 |
+| GOLPH3 | **COPZ1** | 0.493 |
+| GOLPH3 | **COPE** | 0.62 |
+| GOLPH3 | **COPB2** | 0.748 |
+| GOLPH3 | **KDELR1** | 0.813 |
+| GOLPH3 | **COPA** | 0.849 |
+| GOLPH3 | **ARF1** | 0.944 |
+| COPG1 | **KDELR1** | 0.632 |
+| COPG1 | **ARFGAP2** | 0.828 |
+| COPG1 | **ARF1** | 0.842 |
+| COPG1 | **COPG2** | 0.977 |
+| COPG1 | **COPZ2** | 0.991 |
+| COPG1 | **COPE** | 0.996 |
+| COPG1 | **COPA** | 0.998 |
+| COPG1 | **COPZ1** | 0.998 |
+| COPG1 | **COPB2** | 0.999 |
+| COPB2 | **KDELR1** | 0.723 |
+| COPB2 | **ARF1** | 0.818 |
+| COPB2 | **ARFGAP2** | 0.95 |
+| COPB2 | **COPZ2** | 0.992 |
+| COPB2 | **COPA** | 0.999 |
+| COPB2 | **COPE** | 0.999 |
+| COPB2 | **COPZ1** | 0.999 |
+| COPB2 | **COPG2** | 0.999 |
+| KDELR1 | **COPG2** | 0.569 |
+| KDELR1 | **COPZ2** | 0.597 |
+| KDELR1 | **ARFGAP2** | 0.611 |
+| KDELR1 | **COPA** | 0.702 |
+| KDELR1 | **COPZ1** | 0.711 |
+| KDELR1 | **COPE** | 0.714 |
+| KDELR1 | **ARF1** | 0.825 |
+| COPA | **ARF1** | 0.859 |
+| COPA | **ARFGAP2** | 0.906 |
+| COPA | **COPZ2** | 0.992 |
+| COPA | **COPG2** | 0.996 |
+| COPA | **COPE** | 0.999 |
+| COPA | **COPZ1** | 0.999 |
+| COPG2 | **ARF1** | 0.729 |
+| COPG2 | **ARFGAP2** | 0.792 |
+| COPG2 | **COPZ2** | 0.982 |
+| COPG2 | **COPE** | 0.988 |
+| COPG2 | **COPZ1** | 0.997 |
+| ARFGAP2 | **COPZ2** | 0.686 |
+| ARFGAP2 | **COPE** | 0.748 |
+| ARFGAP2 | **COPZ1** | 0.84 |
+| ARFGAP2 | **ARF1** | 0.93 |
+| ARF1 | **COPZ2** | 0.681 |
+| ARF1 | **COPE** | 0.89 |
+| ARF1 | **COPZ1** | 0.927 |
+| COPZ1 | **COPZ2** | 0.936 |
+| COPZ1 | **COPE** | 0.999 |
+| COPE | **COPZ2** | 0.981 |
+

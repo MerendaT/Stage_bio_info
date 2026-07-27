@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SRD5A3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRD5A3
+Identifiant STRING officiel : `9606.ENSP00000264228`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HSD17B2 | **AKR1C1** | 0.515 |
+| HSD17B2 | **AKR1C2** | 0.517 |
+| HSD17B2 | **HSD17B6** | 0.92 |
+| HSD17B2 | **AKR1D1** | 0.931 |
+| HSD17B2 | **CYP11B1** | 0.938 |
+| HSD17B2 | **SRD5A3** | 0.953 |
+| HSD17B2 | **SRD5A2** | 0.958 |
+| HSD17B2 | **HSD3B1** | 0.964 |
+| HSD17B2 | **HSD3B2** | 0.97 |
+| HSD17B2 | **CYP17A1** | 0.972 |
+| HSD17B2 | **SRD5A1** | 0.977 |
+| HSD17B2 | **AKR1C3** | 0.982 |
+| HSD17B2 | **HSD17B3** | 0.998 |
+| AKR1D1 | **AKR1C2** | 0.405 |
+| AKR1D1 | **AKR1C4** | 0.908 |
+| AKR1D1 | **HSD17B3** | 0.933 |
+| AKR1D1 | **HSD17B6** | 0.934 |
+| AKR1D1 | **CYP17A1** | 0.936 |
+| AKR1D1 | **HSD3B1** | 0.941 |
+| AKR1D1 | **SRD5A3** | 0.941 |
+| AKR1D1 | **HSD3B2** | 0.943 |
+| AKR1D1 | **CYP11B1** | 0.946 |
+| AKR1D1 | **SRD5A2** | 0.957 |
+| AKR1D1 | **AKR1C3** | 0.983 |
+| AKR1D1 | **AKR1C1** | 0.983 |
+| AKR1D1 | **SRD5A1** | 0.988 |
+| SRD5A3 | **CYP11B1** | 0.93 |
+| SRD5A3 | **HSD3B1** | 0.935 |
+| SRD5A3 | **HSD17B6** | 0.939 |
+| SRD5A3 | **HSD17B3** | 0.95 |
+| SRD5A3 | **AKR1C1** | 0.951 |
+| SRD5A3 | **SRD5A2** | 0.955 |
+| SRD5A3 | **CYP17A1** | 0.958 |
+| SRD5A3 | **AKR1C2** | 0.96 |
+| SRD5A3 | **HSD3B2** | 0.962 |
+| SRD5A3 | **AKR1C4** | 0.963 |
+| SRD5A3 | **AKR1C3** | 0.965 |
+| SRD5A3 | **DOLK** | 0.981 |
+| SRD5A3 | **SRD5A1** | 0.996 |
+| SRD5A1 | **SRD5A2** | 0.935 |
+| SRD5A1 | **CYP11B1** | 0.945 |
+| SRD5A1 | **AKR1C4** | 0.961 |
+| SRD5A1 | **HSD3B1** | 0.971 |
+| SRD5A1 | **AKR1C1** | 0.975 |
+| SRD5A1 | **HSD17B6** | 0.976 |
+| SRD5A1 | **AKR1C2** | 0.977 |
+| SRD5A1 | **HSD17B3** | 0.978 |
+| SRD5A1 | **HSD3B2** | 0.98 |
+| SRD5A1 | **AKR1C3** | 0.986 |
+| SRD5A1 | **CYP17A1** | 0.992 |
+| CYP11B1 | **AKR1C4** | 0.409 |
+| CYP11B1 | **AKR1C1** | 0.918 |
+| CYP11B1 | **HSD17B6** | 0.93 |
+| CYP11B1 | **AKR1C3** | 0.947 |
+| CYP11B1 | **SRD5A2** | 0.951 |
+| CYP11B1 | **CYP17A1** | 0.964 |
+| CYP11B1 | **HSD17B3** | 0.97 |
+| CYP11B1 | **HSD3B1** | 0.984 |
+| CYP11B1 | **HSD3B2** | 0.992 |
+| HSD3B1 | **AKR1C4** | 0.52 |
+| HSD3B1 | **AKR1C2** | 0.545 |
+| HSD3B1 | **AKR1C1** | 0.949 |
+| HSD3B1 | **HSD17B6** | 0.952 |
+| HSD3B1 | **SRD5A2** | 0.963 |
+| HSD3B1 | **HSD3B2** | 0.965 |
+| HSD3B1 | **AKR1C3** | 0.971 |
+| HSD3B1 | **HSD17B3** | 0.983 |
+| HSD3B1 | **CYP17A1** | 0.995 |
+| CYP17A1 | **AKR1C4** | 0.464 |
+| CYP17A1 | **AKR1C2** | 0.668 |
+| CYP17A1 | **AKR1C1** | 0.955 |
+| CYP17A1 | **HSD17B6** | 0.97 |
+| CYP17A1 | **AKR1C3** | 0.979 |
+| CYP17A1 | **SRD5A2** | 0.986 |
+| CYP17A1 | **HSD17B3** | 0.991 |
+| CYP17A1 | **HSD3B2** | 0.994 |
+| DOLK | **AKR1C2** | 0.4 |
+| DOLK | **HSD3B2** | 0.408 |
+| DOLK | **HSD17B6** | 0.416 |
+| DOLK | **AKR1C3** | 0.429 |
+| DOLK | **AKR1C1** | 0.442 |
+| HSD17B3 | **AKR1C4** | 0.548 |
+| HSD17B3 | **AKR1C1** | 0.687 |
+| HSD17B3 | **AKR1C2** | 0.758 |
+| HSD17B3 | **HSD17B6** | 0.954 |
+| HSD17B3 | **SRD5A2** | 0.979 |
+| HSD17B3 | **AKR1C3** | 0.986 |
+| HSD17B3 | **HSD3B2** | 0.987 |
+| AKR1C4 | **HSD17B6** | 0.599 |
+| AKR1C4 | **HSD3B2** | 0.685 |
+| AKR1C4 | **AKR1C2** | 0.863 |
+| AKR1C4 | **AKR1C3** | 0.883 |
+| AKR1C4 | **SRD5A2** | 0.959 |
+| AKR1C3 | **SRD5A2** | 0.969 |
+| AKR1C3 | **HSD17B6** | 0.978 |
+| AKR1C3 | **HSD3B2** | 0.981 |
+| AKR1C3 | **AKR1C1** | 0.995 |
+| AKR1C3 | **AKR1C2** | 0.997 |
+| AKR1C2 | **HSD3B2** | 0.579 |
+| AKR1C2 | **HSD17B6** | 0.63 |
+| AKR1C2 | **SRD5A2** | 0.964 |
+| AKR1C2 | **AKR1C1** | 0.998 |
+| AKR1C1 | **HSD17B6** | 0.539 |
+| AKR1C1 | **SRD5A2** | 0.949 |
+| AKR1C1 | **HSD3B2** | 0.957 |
+| HSD3B2 | **HSD17B6** | 0.952 |
+| HSD3B2 | **SRD5A2** | 0.971 |
+| HSD17B6 | **SRD5A2** | 0.953 |
+

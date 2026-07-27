@@ -1,0 +1,352 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P08263",
+      "uniProtkbId": "GSTA1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "GSTA1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11152686"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16624487"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9084911"
+                },
+                {
+                  "evidenceCode": "ECO:0000305",
+                  "source": "PubMed",
+                  "id": "20606271"
+                }
+              ],
+              "value": "Glutathione S-transferase that catalyzes the nucleophilic attack of the sulfur atom of glutathione on the electrophilic groups of a wide range of exogenous and endogenous compounds (Probable). Involved in the formation of glutathione conjugates of both prostaglandin A2 (PGA2) and prostaglandin J2 (PGJ2) (PubMed:9084911). It also catalyzes the isomerization of D5-androstene-3,17-dione (AD) into D4-androstene-3,17-dione and may therefore play an important role in hormone biosynthesis (PubMed:11152686). Through its glutathione-dependent peroxidase activity toward the fatty acid hydroperoxide (13S)-hydroperoxy-(9Z,11E)-octadecadienoate/13-HPODE it is also involved in the metabolism of oxidized linoleic acid (PubMed:16624487)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19056867"
+            },
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005504",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:fatty acid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "16624487"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004602",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glutathione peroxidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16624487"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004364",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glutathione transferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20606271"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9084911"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140104",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:molecular carrier activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "EXP:Reactome"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "4980931"
+            },
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "7372607"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004769",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:steroid Delta-isomerase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11152686"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030855",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:epithelial cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "21492153"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1901687",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glutathione derivative biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9084911"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006749",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glutathione metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20606271"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042167",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:heme catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043651",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:linoleic acid metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16624487"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006693",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:prostaglandin metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9084911"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006805",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:xenobiotic metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013DA34"
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q96HD1",
+      "uniProtkbId": "CREL1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CRELD1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q91XD7"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9CYA0"
+                }
+              ],
+              "value": "Protein disulfide isomerase (By similarity). Promotes the localization of acetylcholine receptors (AChRs) to the plasma membrane (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0031012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "28675934"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:glutamatergic synapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003756",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein disulfide isomerase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-EC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003279",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cardiac septum development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "18076106"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003197",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endocardial cushion development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "18076106"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013E2E5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9BWT1",
+      "uniProtkbId": "CDCA7_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:14628"
+              }
+            ],
+            "value": "CDCA7"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11598121"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15994934"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16580749"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23166294"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30307408"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "39178260"
+                }
+              ],
+              "value": "Participates in MYC-mediated cell transformation and apoptosis; induces anchorage-independent growth and clonogenicity in lymphoblastoid cells. Insufficient to induce tumorigenicity when overexpressed but contributes to MYC-mediated tumorigenesis (PubMed:11598121, PubMed:15994934, PubMed:23166294). Also functions as a critical cofactor for the chromatin remodeler HELLS, facilitating its recruitment to specific genomic regions to maintain DNA methylation patterns and heterochromatin integrity. Recognizes hemimethylated CpG within nucleosomes where it recruits HELLS to remodel chromatin and facilitate access of de novo DNA methyltransferases to heterochromatic regions, enabling proper establishment of DNA methylation patterns (PubMed:30307408, PubMed:39178260). May play a role as transcriptional regulator (PubMed:16580749)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23166294"
+                  }
+                ],
+                "value": "Predominantly nuclear with some expression also seen in the cytoplasm. Predominantly cytoplasmic when phosphorylated at Thr-163"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11598121"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23166294"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23166294"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "30307408"
+                  }
+                ],
+                "value": "Chromosome",
+                "id": "SL-0468"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005694",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11598121"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044729",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hemi-methylated DNA-binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "39178260"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006915",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042127",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11598121"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006355",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006F0C1"
+      }
+    }
+  ]
+}

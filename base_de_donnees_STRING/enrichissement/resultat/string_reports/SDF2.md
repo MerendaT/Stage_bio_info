@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SDF2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SDF2
+Identifiant STRING officiel : `9606.ENSP00000247020`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PPP5C | **SDF2L1** | 0.72 |
+| PPP5C | **SDF2** | 0.724 |
+| PPP5C | **BAG3** | 0.738 |
+| PPP5C | **DNAJB11** | 0.749 |
+| PPP5C | **PSMG2** | 0.901 |
+| PPP5C | **CCT7** | 0.908 |
+| PPP5C | **CCT5** | 0.908 |
+| PPP5C | **DNAJC9** | 0.909 |
+| PPP5C | **CCT8** | 0.917 |
+| PPP5C | **TCP1** | 0.917 |
+| PPP5C | **TSC1** | 0.958 |
+| PPP5C | **STIP1** | 0.962 |
+| PPP5C | **CDC37** | 0.995 |
+| PPP5C | **HSP90AB1** | 0.997 |
+| CDC37 | **SDF2** | 0.742 |
+| CDC37 | **SDF2L1** | 0.746 |
+| CDC37 | **DNAJB11** | 0.756 |
+| CDC37 | **BAG3** | 0.8 |
+| CDC37 | **PSMG2** | 0.9 |
+| CDC37 | **DNAJC9** | 0.91 |
+| CDC37 | **CCT5** | 0.928 |
+| CDC37 | **CCT8** | 0.929 |
+| CDC37 | **TCP1** | 0.929 |
+| CDC37 | **CCT7** | 0.931 |
+| CDC37 | **TSC1** | 0.958 |
+| CDC37 | **STIP1** | 0.995 |
+| CDC37 | **HSP90AB1** | 0.999 |
+| SDF2 | **CCT8** | 0.724 |
+| SDF2 | **CCT7** | 0.724 |
+| SDF2 | **CCT5** | 0.724 |
+| SDF2 | **PSMG2** | 0.727 |
+| SDF2 | **TCP1** | 0.73 |
+| SDF2 | **BAG3** | 0.731 |
+| SDF2 | **DNAJC9** | 0.738 |
+| SDF2 | **TSC1** | 0.744 |
+| SDF2 | **STIP1** | 0.757 |
+| SDF2 | **HSP90AB1** | 0.775 |
+| SDF2 | **SDF2L1** | 0.778 |
+| SDF2 | **KDELR1** | 0.859 |
+| SDF2 | **DNAJB11** | 0.988 |
+| SDF2L1 | **CCT5** | 0.72 |
+| SDF2L1 | **PSMG2** | 0.72 |
+| SDF2L1 | **CCT8** | 0.721 |
+| SDF2L1 | **CCT7** | 0.726 |
+| SDF2L1 | **BAG3** | 0.729 |
+| SDF2L1 | **STIP1** | 0.733 |
+| SDF2L1 | **TCP1** | 0.74 |
+| SDF2L1 | **TSC1** | 0.741 |
+| SDF2L1 | **DNAJC9** | 0.745 |
+| SDF2L1 | **HSP90AB1** | 0.774 |
+| SDF2L1 | **KDELR1** | 0.877 |
+| SDF2L1 | **DNAJB11** | 0.99 |
+| CCT7 | **DNAJB11** | 0.814 |
+| CCT7 | **BAG3** | 0.843 |
+| CCT7 | **PSMG2** | 0.912 |
+| CCT7 | **TSC1** | 0.943 |
+| CCT7 | **DNAJC9** | 0.946 |
+| CCT7 | **HSP90AB1** | 0.956 |
+| CCT7 | **STIP1** | 0.964 |
+| CCT7 | **CCT5** | 0.999 |
+| CCT7 | **TCP1** | 0.999 |
+| CCT7 | **CCT8** | 0.999 |
+| CCT5 | **BAG3** | 0.765 |
+| CCT5 | **DNAJB11** | 0.857 |
+| CCT5 | **PSMG2** | 0.903 |
+| CCT5 | **DNAJC9** | 0.942 |
+| CCT5 | **TSC1** | 0.944 |
+| CCT5 | **HSP90AB1** | 0.959 |
+| CCT5 | **STIP1** | 0.978 |
+| CCT5 | **TCP1** | 0.999 |
+| CCT5 | **CCT8** | 0.999 |
+| CCT8 | **BAG3** | 0.732 |
+| CCT8 | **DNAJB11** | 0.801 |
+| CCT8 | **PSMG2** | 0.913 |
+| CCT8 | **TSC1** | 0.929 |
+| CCT8 | **DNAJC9** | 0.93 |
+| CCT8 | **HSP90AB1** | 0.947 |
+| CCT8 | **STIP1** | 0.969 |
+| CCT8 | **TCP1** | 0.999 |
+| TSC1 | **HSP90AB1** | 0.79 |
+| TSC1 | **BAG3** | 0.806 |
+| TSC1 | **DNAJB11** | 0.827 |
+| TSC1 | **PSMG2** | 0.91 |
+| TSC1 | **DNAJC9** | 0.937 |
+| TSC1 | **TCP1** | 0.948 |
+| TSC1 | **STIP1** | 0.987 |
+| TCP1 | **BAG3** | 0.771 |
+| TCP1 | **DNAJB11** | 0.825 |
+| TCP1 | **PSMG2** | 0.913 |
+| TCP1 | **DNAJC9** | 0.943 |
+| TCP1 | **HSP90AB1** | 0.956 |
+| TCP1 | **STIP1** | 0.968 |
+| PSMG2 | **BAG3** | 0.726 |
+| PSMG2 | **DNAJB11** | 0.73 |
+| PSMG2 | **HSP90AB1** | 0.75 |
+| PSMG2 | **STIP1** | 0.901 |
+| PSMG2 | **DNAJC9** | 0.906 |
+| STIP1 | **DNAJB11** | 0.826 |
+| STIP1 | **BAG3** | 0.876 |
+| STIP1 | **DNAJC9** | 0.911 |
+| STIP1 | **HSP90AB1** | 0.999 |
+| BAG3 | **DNAJC9** | 0.745 |
+| BAG3 | **DNAJB11** | 0.789 |
+| BAG3 | **HSP90AB1** | 0.96 |
+| HSP90AB1 | **DNAJC9** | 0.856 |
+| HSP90AB1 | **DNAJB11** | 0.892 |
+| DNAJC9 | **DNAJB11** | 0.765 |
+

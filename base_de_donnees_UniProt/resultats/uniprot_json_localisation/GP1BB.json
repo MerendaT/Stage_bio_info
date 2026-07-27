@@ -1,0 +1,242 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P13224",
+      "uniProtkbId": "GP1BB_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "GP1BB"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Gp-Ib, a surface membrane protein of platelets, participates in the formation of platelet plugs by binding to von Willebrand factor, which is already bound to the subendothelium"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "18674540"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004888",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane signaling receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "3353370"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007597",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood coagulation, intrinsic pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "10501658"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007155",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007166",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell surface receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "3353370"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035855",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:megakaryocyte development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "16293600"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030168",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:platelet activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "12871509"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010572",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of platelet activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1939645"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051209",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:release of sequestered calcium ion into cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1939645"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012B963"
+      }
+    }
+  ]
+}

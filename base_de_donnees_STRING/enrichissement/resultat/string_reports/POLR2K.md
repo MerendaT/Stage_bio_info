@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : POLR2K
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : POLR2K
+Identifiant STRING officiel : `9606.ENSP00000342889`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| POLR2C | **ZNRD1** | 0.806 |
+| POLR2C | **TWISTNB** | 0.934 |
+| POLR2C | **POLR3B** | 0.94 |
+| POLR2C | **POLR1B** | 0.944 |
+| POLR2C | **POLR1A** | 0.963 |
+| POLR2C | **POLR1D** | 0.997 |
+| POLR2C | **POLR2B** | 0.999 |
+| POLR2C | **POLR2L** | 0.999 |
+| POLR2C | **POLR2K** | 0.999 |
+| POLR2C | **POLR2D** | 0.999 |
+| POLR2C | **POLR2H** | 0.999 |
+| POLR2C | **POLR2F** | 0.999 |
+| POLR2C | **POLR2J** | 0.999 |
+| POLR2C | **POLR2G** | 0.999 |
+| POLR2C | **POLR2I** | 0.999 |
+| POLR2I | **POLR1A** | 0.718 |
+| POLR2I | **POLR3B** | 0.729 |
+| POLR2I | **TWISTNB** | 0.823 |
+| POLR2I | **ZNRD1** | 0.85 |
+| POLR2I | **POLR1D** | 0.88 |
+| POLR2I | **POLR1B** | 0.899 |
+| POLR2I | **POLR2G** | 0.999 |
+| POLR2I | **POLR2K** | 0.999 |
+| POLR2I | **POLR2L** | 0.999 |
+| POLR2I | **POLR2B** | 0.999 |
+| POLR2I | **POLR2D** | 0.999 |
+| POLR2I | **POLR2H** | 0.999 |
+| POLR2I | **POLR2J** | 0.999 |
+| POLR2I | **POLR2F** | 0.999 |
+| TWISTNB | **POLR2J** | 0.476 |
+| TWISTNB | **POLR2G** | 0.656 |
+| TWISTNB | **POLR2D** | 0.767 |
+| TWISTNB | **POLR3B** | 0.881 |
+| TWISTNB | **POLR2B** | 0.893 |
+| TWISTNB | **POLR1B** | 0.999 |
+| TWISTNB | **POLR1D** | 0.999 |
+| TWISTNB | **ZNRD1** | 0.999 |
+| TWISTNB | **POLR2L** | 0.999 |
+| TWISTNB | **POLR2K** | 0.999 |
+| TWISTNB | **POLR2H** | 0.999 |
+| TWISTNB | **POLR2F** | 0.999 |
+| TWISTNB | **POLR1A** | 0.999 |
+| POLR3B | **POLR2J** | 0.602 |
+| POLR3B | **ZNRD1** | 0.714 |
+| POLR3B | **POLR2G** | 0.868 |
+| POLR3B | **POLR2D** | 0.885 |
+| POLR3B | **POLR1B** | 0.913 |
+| POLR3B | **POLR1A** | 0.99 |
+| POLR3B | **POLR2K** | 0.999 |
+| POLR3B | **POLR2L** | 0.999 |
+| POLR3B | **POLR2H** | 0.999 |
+| POLR3B | **POLR2F** | 0.999 |
+| POLR3B | **POLR1D** | 0.999 |
+| POLR1A | **POLR2J** | 0.518 |
+| POLR1A | **POLR2D** | 0.547 |
+| POLR1A | **POLR2B** | 0.98 |
+| POLR1A | **POLR2H** | 0.999 |
+| POLR1A | **POLR2F** | 0.999 |
+| POLR1A | **POLR2L** | 0.999 |
+| POLR1A | **POLR2K** | 0.999 |
+| POLR1A | **ZNRD1** | 0.999 |
+| POLR1A | **POLR1B** | 0.999 |
+| POLR1A | **POLR1D** | 0.999 |
+| POLR2D | **POLR1D** | 0.675 |
+| POLR2D | **ZNRD1** | 0.838 |
+| POLR2D | **POLR1B** | 0.917 |
+| POLR2D | **POLR2G** | 0.999 |
+| POLR2D | **POLR2J** | 0.999 |
+| POLR2D | **POLR2F** | 0.999 |
+| POLR2D | **POLR2H** | 0.999 |
+| POLR2D | **POLR2K** | 0.999 |
+| POLR2D | **POLR2B** | 0.999 |
+| POLR2D | **POLR2L** | 0.999 |
+| POLR2J | **POLR1D** | 0.609 |
+| POLR2J | **ZNRD1** | 0.729 |
+| POLR2J | **POLR1B** | 0.766 |
+| POLR2J | **POLR2B** | 0.999 |
+| POLR2J | **POLR2L** | 0.999 |
+| POLR2J | **POLR2K** | 0.999 |
+| POLR2J | **POLR2H** | 0.999 |
+| POLR2J | **POLR2F** | 0.999 |
+| POLR2J | **POLR2G** | 0.999 |
+| POLR2G | **POLR1D** | 0.665 |
+| POLR2G | **ZNRD1** | 0.825 |
+| POLR2G | **POLR1B** | 0.874 |
+| POLR2G | **POLR2H** | 0.999 |
+| POLR2G | **POLR2F** | 0.999 |
+| POLR2G | **POLR2B** | 0.999 |
+| POLR2G | **POLR2L** | 0.999 |
+| POLR2G | **POLR2K** | 0.999 |
+| POLR1D | **POLR2B** | 0.918 |
+| POLR1D | **ZNRD1** | 0.999 |
+| POLR1D | **POLR1B** | 0.999 |
+| POLR1D | **POLR2H** | 0.999 |
+| POLR1D | **POLR2F** | 0.999 |
+| POLR1D | **POLR2L** | 0.999 |
+| POLR1D | **POLR2K** | 0.999 |
+| POLR2L | **POLR1B** | 0.999 |
+| POLR2L | **ZNRD1** | 0.999 |
+| POLR2L | **POLR2B** | 0.999 |
+| POLR2L | **POLR2K** | 0.999 |
+| POLR2L | **POLR2F** | 0.999 |
+| POLR2L | **POLR2H** | 0.999 |
+| ZNRD1 | **POLR2B** | 0.769 |
+| ZNRD1 | **POLR1B** | 0.999 |
+| ZNRD1 | **POLR2F** | 0.999 |
+| ZNRD1 | **POLR2H** | 0.999 |
+| ZNRD1 | **POLR2K** | 0.999 |
+| POLR2K | **POLR2B** | 0.999 |
+| POLR2K | **POLR2F** | 0.999 |
+| POLR2K | **POLR2H** | 0.999 |
+| POLR2K | **POLR1B** | 0.999 |
+| POLR2B | **POLR1B** | 0.71 |
+| POLR2B | **POLR2F** | 0.999 |
+| POLR2B | **POLR2H** | 0.999 |
+| POLR2F | **POLR1B** | 0.999 |
+| POLR2F | **POLR2H** | 0.999 |
+| POLR2H | **POLR1B** | 0.999 |
+

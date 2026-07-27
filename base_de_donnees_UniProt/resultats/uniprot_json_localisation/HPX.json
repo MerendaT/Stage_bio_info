@@ -1,0 +1,250 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P02790",
+      "uniProtkbId": "HEMO_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "HPX"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Binds heme and transports it to the liver for breakdown and iron recovery, after which the free hemopexin returns to the circulation"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0072562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:blood microparticle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22516433"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071682",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endocytic vesicle lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19056867"
+            },
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "28675934"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19433579"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015232",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heme transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "3855550"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042168",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:heme metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:heme transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "3855550"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006879",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular iron ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "3855550"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012C5AF"
+      }
+    }
+  ]
+}

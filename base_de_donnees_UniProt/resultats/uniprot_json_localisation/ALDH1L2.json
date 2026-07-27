@@ -1,0 +1,234 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q3SY69",
+      "uniProtkbId": "AL1L2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "21238436"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:26777"
+              }
+            ],
+            "value": "ALDH1L2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21238436"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "38193334"
+                }
+              ],
+              "value": "Mitochondrial 10-formyltetrahydrofolate dehydrogenase that catalyzes the NADP(+)-dependent conversion of 10-formyltetrahydrofolate to tetrahydrofolate and carbon dioxide"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20498374"
+                  }
+                ],
+                "value": "Mitochondrion",
+                "id": "SL-0173"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005759",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20498374"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004029",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:aldehyde dehydrogenase (NAD+) activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016155",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:formyltetrahydrofolate dehydrogenase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21238436"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009258",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:10-formyltetrahydrofolate catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21238436"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046655",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:folic acid metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006740",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:NADPH regeneration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21238436"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006730",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:one-carbon metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00000477A9"
+      }
+    }
+  ]
+}

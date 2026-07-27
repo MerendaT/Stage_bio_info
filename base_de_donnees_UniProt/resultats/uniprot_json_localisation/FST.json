@@ -1,0 +1,334 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P19883",
+      "uniProtkbId": "FST_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:3971"
+              }
+            ],
+            "value": "FST"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P47931"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11279126"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16482217"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18535106"
+                }
+              ],
+              "value": "Multifunctional regulatory protein whose primary function is to antagonize members of the transforming growth factor beta (TGF-beta) superfamily including activin, myostatin, GDF11 or bone morphogenetic proteins (BMPs) (PubMed:11279126, PubMed:16482217, PubMed:18535106). Mechanistically, binds to these ligands in the extracellular space, blocking their type II receptor-binding site to inhibit downstream signaling (PubMed:16482217). Plays an essential role in muscle fiber formation and growth both by preventing the repressive effects of myostatin and through SMAD3/AKT/mTOR signaling independently of myostatin (By similarity). Also promotes neural differentiation by antagonizing the action BMP4 (By similarity). Acts as a specific inhibitor of the biosynthesis and secretion of pituitary follicle stimulating hormone (FSH) by sequestering activin A/INHBA (PubMed:11279126). On the other hand, translocates into the nucleus where it down-regulates rRNA synthesis and ribosome biogenesis to maintain cellular energy homeostasis by binding to rDNA"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11279126"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20843798"
+                  }
+                ],
+                "value": "Nucleus, nucleolus",
+                "id": "SL-0188"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005730",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleolus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048185",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:activin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12697670"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0038102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:activin receptor antagonist activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "12702211"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043395",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heparan sulfate proteoglycan binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071363",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002244",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hematopoietic progenitor cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15451575"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032926",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of activin receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11948405"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12697670"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12702211"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051798",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of hair follicle development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12514121"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030510",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of BMP signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012AC56"
+      }
+    }
+  ]
+}

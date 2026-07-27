@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : AP2B1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : AP2B1
+Identifiant STRING officiel : `9606.ENSP00000483185`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CLTB | **ARRB1** | 0.53 |
+| CLTB | **ARRB2** | 0.534 |
+| CLTB | **AP4M1** | 0.543 |
+| CLTB | **LDLRAP1** | 0.56 |
+| CLTB | **ITSN1** | 0.68 |
+| CLTB | **AP1G1** | 0.772 |
+| CLTB | **NECAP2** | 0.784 |
+| CLTB | **AP1S1** | 0.785 |
+| CLTB | **AP2M1** | 0.942 |
+| CLTB | **AP2S1** | 0.96 |
+| CLTB | **AP2A2** | 0.968 |
+| CLTB | **AP2B1** | 0.979 |
+| CLTB | **AP2A1** | 0.992 |
+| CLTB | **CLTCL1** | 0.999 |
+| CLTB | **CLTC** | 0.999 |
+| AP2A2 | **ARRB1** | 0.507 |
+| AP2A2 | **ARRB2** | 0.523 |
+| AP2A2 | **AP1G1** | 0.545 |
+| AP2A2 | **LDLRAP1** | 0.551 |
+| AP2A2 | **AP4M1** | 0.916 |
+| AP2A2 | **AP1S1** | 0.92 |
+| AP2A2 | **ITSN1** | 0.923 |
+| AP2A2 | **CLTCL1** | 0.93 |
+| AP2A2 | **AP2A1** | 0.955 |
+| AP2A2 | **NECAP2** | 0.957 |
+| AP2A2 | **CLTC** | 0.976 |
+| AP2A2 | **AP2B1** | 0.999 |
+| AP2A2 | **AP2M1** | 0.999 |
+| AP2A2 | **AP2S1** | 0.999 |
+| AP1S1 | **ARRB1** | 0.511 |
+| AP1S1 | **CLTCL1** | 0.696 |
+| AP1S1 | **NECAP2** | 0.724 |
+| AP1S1 | **AP2S1** | 0.921 |
+| AP1S1 | **CLTC** | 0.934 |
+| AP1S1 | **AP2A1** | 0.944 |
+| AP1S1 | **AP2M1** | 0.965 |
+| AP1S1 | **AP4M1** | 0.969 |
+| AP1S1 | **AP2B1** | 0.991 |
+| AP1S1 | **AP1G1** | 0.998 |
+| AP2A1 | **LDLRAP1** | 0.619 |
+| AP2A1 | **ARRB2** | 0.697 |
+| AP2A1 | **ARRB1** | 0.707 |
+| AP2A1 | **AP1G1** | 0.739 |
+| AP2A1 | **ITSN1** | 0.829 |
+| AP2A1 | **AP4M1** | 0.973 |
+| AP2A1 | **CLTCL1** | 0.98 |
+| AP2A1 | **CLTC** | 0.989 |
+| AP2A1 | **NECAP2** | 0.99 |
+| AP2A1 | **AP2S1** | 0.999 |
+| AP2A1 | **AP2B1** | 0.999 |
+| AP2A1 | **AP2M1** | 0.999 |
+| LDLRAP1 | **NECAP2** | 0.52 |
+| LDLRAP1 | **ITSN1** | 0.574 |
+| LDLRAP1 | **ARRB2** | 0.576 |
+| LDLRAP1 | **AP2S1** | 0.576 |
+| LDLRAP1 | **ARRB1** | 0.594 |
+| LDLRAP1 | **AP2M1** | 0.634 |
+| LDLRAP1 | **CLTCL1** | 0.636 |
+| LDLRAP1 | **CLTC** | 0.853 |
+| LDLRAP1 | **AP2B1** | 0.993 |
+| ITSN1 | **ARRB2** | 0.553 |
+| ITSN1 | **ARRB1** | 0.574 |
+| ITSN1 | **CLTCL1** | 0.825 |
+| ITSN1 | **CLTC** | 0.912 |
+| ITSN1 | **NECAP2** | 0.914 |
+| ITSN1 | **AP2M1** | 0.927 |
+| ITSN1 | **AP2S1** | 0.93 |
+| ITSN1 | **AP2B1** | 0.992 |
+| AP1G1 | **ARRB1** | 0.531 |
+| AP1G1 | **AP2S1** | 0.873 |
+| AP1G1 | **CLTCL1** | 0.885 |
+| AP1G1 | **NECAP2** | 0.904 |
+| AP1G1 | **AP4M1** | 0.928 |
+| AP1G1 | **CLTC** | 0.961 |
+| AP1G1 | **AP2M1** | 0.968 |
+| AP1G1 | **AP2B1** | 0.976 |
+| NECAP2 | **ARRB1** | 0.503 |
+| NECAP2 | **ARRB2** | 0.507 |
+| NECAP2 | **CLTCL1** | 0.629 |
+| NECAP2 | **CLTC** | 0.775 |
+| NECAP2 | **AP2S1** | 0.955 |
+| NECAP2 | **AP2M1** | 0.97 |
+| NECAP2 | **AP2B1** | 0.975 |
+| AP2M1 | **ARRB1** | 0.611 |
+| AP2M1 | **ARRB2** | 0.717 |
+| AP2M1 | **CLTCL1** | 0.876 |
+| AP2M1 | **AP4M1** | 0.925 |
+| AP2M1 | **CLTC** | 0.988 |
+| AP2M1 | **AP2B1** | 0.999 |
+| AP2M1 | **AP2S1** | 0.999 |
+| AP4M1 | **CLTCL1** | 0.54 |
+| AP4M1 | **CLTC** | 0.557 |
+| AP4M1 | **AP2S1** | 0.934 |
+| AP4M1 | **AP2B1** | 0.979 |
+| ARRB2 | **AP2S1** | 0.659 |
+| ARRB2 | **CLTCL1** | 0.856 |
+| ARRB2 | **CLTC** | 0.933 |
+| ARRB2 | **ARRB1** | 0.986 |
+| ARRB2 | **AP2B1** | 0.992 |
+| ARRB1 | **AP2S1** | 0.629 |
+| ARRB1 | **CLTCL1** | 0.864 |
+| ARRB1 | **CLTC** | 0.958 |
+| ARRB1 | **AP2B1** | 0.998 |
+| CLTCL1 | **CLTC** | 0.937 |
+| CLTCL1 | **AP2S1** | 0.955 |
+| CLTCL1 | **AP2B1** | 0.992 |
+| AP2S1 | **CLTC** | 0.958 |
+| AP2S1 | **AP2B1** | 0.999 |
+| CLTC | **AP2B1** | 0.997 |
+

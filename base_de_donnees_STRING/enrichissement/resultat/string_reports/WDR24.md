@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : WDR24
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : WDR24
+Identifiant STRING officiel : `9606.ENSP00000293883`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ITFG2 | **SESN2** | 0.709 |
+| ITFG2 | **RRAGC** | 0.727 |
+| ITFG2 | **RRAGB** | 0.73 |
+| ITFG2 | **SEC13** | 0.763 |
+| ITFG2 | **SEH1L** | 0.809 |
+| ITFG2 | **MIOS** | 0.825 |
+| ITFG2 | **NPRL3** | 0.873 |
+| ITFG2 | **LAMP1** | 0.994 |
+| ITFG2 | **WDR24** | 0.998 |
+| ITFG2 | **WDR59** | 0.998 |
+| ITFG2 | **DEPDC5** | 0.999 |
+| ITFG2 | **SZT2** | 0.999 |
+| ITFG2 | **NPRL2** | 0.999 |
+| ITFG2 | **C12orf66** | 0.999 |
+| ITFG2 | **KPTN** | 0.999 |
+| NPRL2 | **SESN2** | 0.848 |
+| NPRL2 | **RRAGC** | 0.983 |
+| NPRL2 | **RRAGB** | 0.989 |
+| NPRL2 | **SEC13** | 0.994 |
+| NPRL2 | **LAMP1** | 0.996 |
+| NPRL2 | **SZT2** | 0.998 |
+| NPRL2 | **KPTN** | 0.999 |
+| NPRL2 | **NPRL3** | 0.999 |
+| NPRL2 | **WDR59** | 0.999 |
+| NPRL2 | **WDR24** | 0.999 |
+| NPRL2 | **C12orf66** | 0.999 |
+| NPRL2 | **SEH1L** | 0.999 |
+| NPRL2 | **DEPDC5** | 0.999 |
+| NPRL2 | **MIOS** | 0.999 |
+| SESN2 | **KPTN** | 0.687 |
+| SESN2 | **C12orf66** | 0.692 |
+| SESN2 | **RRAGC** | 0.791 |
+| SESN2 | **RRAGB** | 0.803 |
+| SESN2 | **SZT2** | 0.906 |
+| SESN2 | **NPRL3** | 0.91 |
+| SESN2 | **SEC13** | 0.965 |
+| SESN2 | **SEH1L** | 0.966 |
+| SESN2 | **WDR59** | 0.986 |
+| SESN2 | **MIOS** | 0.99 |
+| SESN2 | **WDR24** | 0.995 |
+| SESN2 | **DEPDC5** | 0.998 |
+| WDR59 | **RRAGC** | 0.848 |
+| WDR59 | **RRAGB** | 0.865 |
+| WDR59 | **LAMP1** | 0.994 |
+| WDR59 | **SZT2** | 0.998 |
+| WDR59 | **KPTN** | 0.998 |
+| WDR59 | **C12orf66** | 0.998 |
+| WDR59 | **SEH1L** | 0.999 |
+| WDR59 | **MIOS** | 0.999 |
+| WDR59 | **DEPDC5** | 0.999 |
+| WDR59 | **NPRL3** | 0.999 |
+| WDR59 | **WDR24** | 0.999 |
+| WDR59 | **SEC13** | 0.999 |
+| RRAGB | **LAMP1** | 0.538 |
+| RRAGB | **SZT2** | 0.703 |
+| RRAGB | **KPTN** | 0.713 |
+| RRAGB | **C12orf66** | 0.744 |
+| RRAGB | **SEC13** | 0.823 |
+| RRAGB | **SEH1L** | 0.842 |
+| RRAGB | **MIOS** | 0.856 |
+| RRAGB | **NPRL3** | 0.974 |
+| RRAGB | **DEPDC5** | 0.985 |
+| RRAGB | **RRAGC** | 0.999 |
+| RRAGB | **WDR24** | 0.999 |
+| WDR24 | **LAMP1** | 0.995 |
+| WDR24 | **SZT2** | 0.998 |
+| WDR24 | **C12orf66** | 0.998 |
+| WDR24 | **SEH1L** | 0.999 |
+| WDR24 | **NPRL3** | 0.999 |
+| WDR24 | **KPTN** | 0.999 |
+| WDR24 | **DEPDC5** | 0.999 |
+| WDR24 | **MIOS** | 0.999 |
+| WDR24 | **RRAGC** | 0.999 |
+| WDR24 | **SEC13** | 0.999 |
+| C12orf66 | **RRAGC** | 0.742 |
+| C12orf66 | **SEC13** | 0.752 |
+| C12orf66 | **SEH1L** | 0.82 |
+| C12orf66 | **MIOS** | 0.829 |
+| C12orf66 | **NPRL3** | 0.856 |
+| C12orf66 | **DEPDC5** | 0.999 |
+| C12orf66 | **SZT2** | 0.999 |
+| C12orf66 | **KPTN** | 0.999 |
+| LAMP1 | **RRAGC** | 0.48 |
+| LAMP1 | **KPTN** | 0.994 |
+| LAMP1 | **MIOS** | 0.994 |
+| LAMP1 | **DEPDC5** | 0.994 |
+| LAMP1 | **SZT2** | 0.994 |
+| LAMP1 | **SEH1L** | 0.994 |
+| LAMP1 | **SEC13** | 0.995 |
+| LAMP1 | **NPRL3** | 0.995 |
+| KPTN | **RRAGC** | 0.725 |
+| KPTN | **SEC13** | 0.735 |
+| KPTN | **SEH1L** | 0.998 |
+| KPTN | **MIOS** | 0.998 |
+| KPTN | **NPRL3** | 0.999 |
+| KPTN | **SZT2** | 0.999 |
+| KPTN | **DEPDC5** | 0.999 |
+| MIOS | **SZT2** | 0.847 |
+| MIOS | **RRAGC** | 0.998 |
+| MIOS | **NPRL3** | 0.999 |
+| MIOS | **SEC13** | 0.999 |
+| MIOS | **SEH1L** | 0.999 |
+| MIOS | **DEPDC5** | 0.999 |
+| RRAGC | **SZT2** | 0.711 |
+| RRAGC | **SEC13** | 0.766 |
+| RRAGC | **SEH1L** | 0.843 |
+| RRAGC | **NPRL3** | 0.999 |
+| RRAGC | **DEPDC5** | 0.999 |
+| SEC13 | **SZT2** | 0.799 |
+| SEC13 | **NPRL3** | 0.99 |
+| SEC13 | **DEPDC5** | 0.993 |
+| SEC13 | **SEH1L** | 0.999 |
+| SEH1L | **SZT2** | 0.84 |
+| SEH1L | **DEPDC5** | 0.994 |
+| SEH1L | **NPRL3** | 0.996 |
+| SZT2 | **NPRL3** | 0.998 |
+| SZT2 | **DEPDC5** | 0.999 |
+| NPRL3 | **DEPDC5** | 0.999 |
+

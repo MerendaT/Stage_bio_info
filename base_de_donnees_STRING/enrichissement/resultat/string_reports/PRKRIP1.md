@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PRKRIP1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PRKRIP1
+Identifiant STRING officiel : `9606.ENSP00000419270`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AQR | **FAM32A** | 0.801 |
+| AQR | **CACTIN** | 0.809 |
+| AQR | **SDE2** | 0.83 |
+| AQR | **PRKRIP1** | 0.938 |
+| AQR | **SLU7** | 0.96 |
+| AQR | **SNRPB2** | 0.996 |
+| AQR | **SYF2** | 0.996 |
+| AQR | **SNRPE** | 0.997 |
+| AQR | **SNRPF** | 0.997 |
+| AQR | **SNRPG** | 0.997 |
+| AQR | **PPIL1** | 0.998 |
+| AQR | **CDC40** | 0.999 |
+| AQR | **PRPF8** | 0.999 |
+| AQR | **CRNKL1** | 0.999 |
+| AQR | **SNRPA1** | 0.999 |
+| SYF2 | **CACTIN** | 0.961 |
+| SYF2 | **PRKRIP1** | 0.963 |
+| SYF2 | **SDE2** | 0.963 |
+| SYF2 | **FAM32A** | 0.977 |
+| SYF2 | **SNRPB2** | 0.99 |
+| SYF2 | **SNRPF** | 0.992 |
+| SYF2 | **SNRPG** | 0.993 |
+| SYF2 | **SLU7** | 0.995 |
+| SYF2 | **SNRPE** | 0.995 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **PPIL1** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SNRPB2 | **CACTIN** | 0.804 |
+| SNRPB2 | **FAM32A** | 0.805 |
+| SNRPB2 | **SDE2** | 0.814 |
+| SNRPB2 | **PRKRIP1** | 0.897 |
+| SNRPB2 | **SLU7** | 0.922 |
+| SNRPB2 | **PPIL1** | 0.987 |
+| SNRPB2 | **CDC40** | 0.997 |
+| SNRPB2 | **PRPF8** | 0.997 |
+| SNRPB2 | **CRNKL1** | 0.997 |
+| SNRPB2 | **SNRPE** | 0.999 |
+| SNRPB2 | **SNRPF** | 0.999 |
+| SNRPB2 | **SNRPG** | 0.999 |
+| SNRPB2 | **SNRPA1** | 0.999 |
+| SNRPA1 | **CACTIN** | 0.81 |
+| SNRPA1 | **FAM32A** | 0.811 |
+| SNRPA1 | **SDE2** | 0.859 |
+| SNRPA1 | **SLU7** | 0.937 |
+| SNRPA1 | **PRKRIP1** | 0.946 |
+| SNRPA1 | **PPIL1** | 0.997 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **SNRPE** | 0.999 |
+| SNRPA1 | **PRPF8** | 0.999 |
+| SNRPA1 | **CRNKL1** | 0.999 |
+| SNRPA1 | **SNRPG** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| FAM32A | **SNRPE** | 0.801 |
+| FAM32A | **SNRPG** | 0.802 |
+| FAM32A | **SNRPF** | 0.811 |
+| FAM32A | **CRNKL1** | 0.858 |
+| FAM32A | **PRPF8** | 0.9 |
+| FAM32A | **SDE2** | 0.911 |
+| FAM32A | **CACTIN** | 0.918 |
+| FAM32A | **PRKRIP1** | 0.93 |
+| FAM32A | **PPIL1** | 0.958 |
+| FAM32A | **CDC40** | 0.972 |
+| FAM32A | **SLU7** | 0.992 |
+| SNRPF | **SDE2** | 0.814 |
+| SNRPF | **CACTIN** | 0.843 |
+| SNRPF | **PRKRIP1** | 0.909 |
+| SNRPF | **SLU7** | 0.932 |
+| SNRPF | **PPIL1** | 0.994 |
+| SNRPF | **SNRPE** | 0.999 |
+| SNRPF | **CDC40** | 0.999 |
+| SNRPF | **SNRPG** | 0.999 |
+| SNRPF | **CRNKL1** | 0.999 |
+| SNRPF | **PRPF8** | 0.999 |
+| SDE2 | **SNRPG** | 0.814 |
+| SDE2 | **SNRPE** | 0.814 |
+| SDE2 | **PRPF8** | 0.815 |
+| SDE2 | **CRNKL1** | 0.896 |
+| SDE2 | **CACTIN** | 0.915 |
+| SDE2 | **PRKRIP1** | 0.915 |
+| SDE2 | **PPIL1** | 0.958 |
+| SDE2 | **SLU7** | 0.979 |
+| SDE2 | **CDC40** | 0.98 |
+| SLU7 | **SNRPG** | 0.902 |
+| SLU7 | **SNRPE** | 0.925 |
+| SLU7 | **PPIL1** | 0.969 |
+| SLU7 | **CACTIN** | 0.975 |
+| SLU7 | **PRKRIP1** | 0.983 |
+| SLU7 | **CRNKL1** | 0.997 |
+| SLU7 | **PRPF8** | 0.999 |
+| SLU7 | **CDC40** | 0.999 |
+| CDC40 | **CACTIN** | 0.968 |
+| CDC40 | **PRKRIP1** | 0.987 |
+| CDC40 | **SNRPE** | 0.999 |
+| CDC40 | **PPIL1** | 0.999 |
+| CDC40 | **SNRPG** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| PPIL1 | **PRKRIP1** | 0.958 |
+| PPIL1 | **CACTIN** | 0.958 |
+| PPIL1 | **SNRPE** | 0.991 |
+| PPIL1 | **SNRPG** | 0.994 |
+| PPIL1 | **CRNKL1** | 0.995 |
+| PPIL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **PRKRIP1** | 0.899 |
+| CRNKL1 | **CACTIN** | 0.944 |
+| CRNKL1 | **SNRPE** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **SNRPG** | 0.999 |
+| SNRPG | **CACTIN** | 0.802 |
+| SNRPG | **PRKRIP1** | 0.951 |
+| SNRPG | **SNRPE** | 0.999 |
+| SNRPG | **PRPF8** | 0.999 |
+| SNRPE | **CACTIN** | 0.806 |
+| SNRPE | **PRKRIP1** | 0.959 |
+| SNRPE | **PRPF8** | 0.999 |
+| CACTIN | **PRPF8** | 0.932 |
+| CACTIN | **PRKRIP1** | 0.948 |
+| PRKRIP1 | **PRPF8** | 0.9 |
+

@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PIK3R3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PIK3R3
+Identifiant STRING officiel : `9606.ENSP00000262741`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PIK3R2 | **PTK2** | 0.934 |
+| PIK3R2 | **IGF1R** | 0.964 |
+| PIK3R2 | **AKT3** | 0.967 |
+| PIK3R2 | **PIK3R5** | 0.98 |
+| PIK3R2 | **IRS2** | 0.981 |
+| PIK3R2 | **ERBB2** | 0.985 |
+| PIK3R2 | **IRS4** | 0.986 |
+| PIK3R2 | **IRS1** | 0.99 |
+| PIK3R2 | **EGFR** | 0.993 |
+| PIK3R2 | **PIK3R3** | 0.999 |
+| PIK3R2 | **PIK3R1** | 0.999 |
+| PIK3R2 | **PIK3CB** | 0.999 |
+| PIK3R2 | **PIK3CD** | 0.999 |
+| PIK3R2 | **PIK3CA** | 0.999 |
+| PIK3R2 | **PIK3CG** | 0.999 |
+| PIK3R3 | **PTK2** | 0.971 |
+| PIK3R3 | **IRS2** | 0.972 |
+| PIK3R3 | **AKT3** | 0.973 |
+| PIK3R3 | **ERBB2** | 0.975 |
+| PIK3R3 | **IRS4** | 0.975 |
+| PIK3R3 | **PIK3R5** | 0.981 |
+| PIK3R3 | **IGF1R** | 0.99 |
+| PIK3R3 | **EGFR** | 0.99 |
+| PIK3R3 | **IRS1** | 0.997 |
+| PIK3R3 | **PIK3R1** | 0.997 |
+| PIK3R3 | **PIK3CA** | 0.999 |
+| PIK3R3 | **PIK3CG** | 0.999 |
+| PIK3R3 | **PIK3CD** | 0.999 |
+| PIK3R3 | **PIK3CB** | 0.999 |
+| PIK3CA | **PTK2** | 0.97 |
+| PIK3CA | **IRS4** | 0.972 |
+| PIK3CA | **IGF1R** | 0.978 |
+| PIK3CA | **AKT3** | 0.984 |
+| PIK3CA | **IRS2** | 0.984 |
+| PIK3CA | **ERBB2** | 0.992 |
+| PIK3CA | **PIK3CG** | 0.997 |
+| PIK3CA | **PIK3CD** | 0.998 |
+| PIK3CA | **PIK3CB** | 0.998 |
+| PIK3CA | **PIK3R5** | 0.999 |
+| PIK3CA | **IRS1** | 0.999 |
+| PIK3CA | **EGFR** | 0.999 |
+| PIK3CA | **PIK3R1** | 0.999 |
+| ERBB2 | **PIK3CG** | 0.704 |
+| ERBB2 | **IRS1** | 0.909 |
+| ERBB2 | **PIK3CD** | 0.941 |
+| ERBB2 | **PIK3CB** | 0.972 |
+| ERBB2 | **PTK2** | 0.99 |
+| ERBB2 | **IGF1R** | 0.993 |
+| ERBB2 | **PIK3R1** | 0.995 |
+| ERBB2 | **EGFR** | 0.999 |
+| EGFR | **IRS4** | 0.407 |
+| EGFR | **PIK3CG** | 0.748 |
+| EGFR | **IRS2** | 0.749 |
+| EGFR | **IRS1** | 0.939 |
+| EGFR | **PIK3CD** | 0.942 |
+| EGFR | **IGF1R** | 0.989 |
+| EGFR | **PIK3CB** | 0.993 |
+| EGFR | **PIK3R1** | 0.998 |
+| EGFR | **PTK2** | 0.999 |
+| IRS1 | **PTK2** | 0.509 |
+| IRS1 | **AKT3** | 0.541 |
+| IRS1 | **PIK3R5** | 0.924 |
+| IRS1 | **PIK3CD** | 0.943 |
+| IRS1 | **PIK3CG** | 0.948 |
+| IRS1 | **IRS4** | 0.973 |
+| IRS1 | **PIK3CB** | 0.991 |
+| IRS1 | **IRS2** | 0.997 |
+| IRS1 | **PIK3R1** | 0.999 |
+| IRS1 | **IGF1R** | 0.999 |
+| PTK2 | **IRS2** | 0.509 |
+| PTK2 | **PIK3R5** | 0.902 |
+| PTK2 | **PIK3CD** | 0.924 |
+| PTK2 | **PIK3CG** | 0.928 |
+| PTK2 | **PIK3CB** | 0.93 |
+| PTK2 | **IGF1R** | 0.978 |
+| PTK2 | **PIK3R1** | 0.988 |
+| IRS4 | **PIK3R5** | 0.918 |
+| IRS4 | **PIK3CD** | 0.919 |
+| IRS4 | **PIK3CG** | 0.944 |
+| IRS4 | **PIK3CB** | 0.965 |
+| IRS4 | **IGF1R** | 0.968 |
+| IRS4 | **IRS2** | 0.983 |
+| IRS4 | **PIK3R1** | 0.989 |
+| IRS2 | **AKT3** | 0.479 |
+| IRS2 | **PIK3R5** | 0.917 |
+| IRS2 | **PIK3CD** | 0.932 |
+| IRS2 | **PIK3CG** | 0.938 |
+| IRS2 | **PIK3CB** | 0.947 |
+| IRS2 | **PIK3R1** | 0.998 |
+| IRS2 | **IGF1R** | 0.998 |
+| PIK3CD | **IGF1R** | 0.95 |
+| PIK3CD | **AKT3** | 0.95 |
+| PIK3CD | **PIK3CG** | 0.994 |
+| PIK3CD | **PIK3CB** | 0.998 |
+| PIK3CD | **PIK3R5** | 0.999 |
+| PIK3CD | **PIK3R1** | 0.999 |
+| PIK3R5 | **AKT3** | 0.941 |
+| PIK3R5 | **PIK3R1** | 0.966 |
+| PIK3R5 | **PIK3CB** | 0.999 |
+| PIK3R5 | **PIK3CG** | 0.999 |
+| PIK3CG | **IGF1R** | 0.542 |
+| PIK3CG | **AKT3** | 0.973 |
+| PIK3CG | **PIK3CB** | 0.997 |
+| PIK3CG | **PIK3R1** | 0.999 |
+| PIK3R1 | **AKT3** | 0.977 |
+| PIK3R1 | **IGF1R** | 0.994 |
+| PIK3R1 | **PIK3CB** | 0.999 |
+| IGF1R | **PIK3CB** | 0.971 |
+| AKT3 | **PIK3CB** | 0.964 |
+

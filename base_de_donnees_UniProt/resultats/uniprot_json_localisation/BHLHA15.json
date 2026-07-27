@@ -1,0 +1,271 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q7RTS1",
+      "uniProtkbId": "BHA15_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "BHLHA15"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9QYC3"
+                }
+              ],
+              "value": "Plays a role in controlling the transcriptional activity of MYOD1, ensuring that expanding myoblast populations remain undifferentiated. Repression may occur through muscle-specific E-box occupancy by homodimers. May also negatively regulate bHLH-mediated transcription through an N-terminal repressor domain. Serves as a key regulator of acinar cell function, stability, and identity. Also required for normal organelle localization in exocrine cells and for mitochondrial calcium ion transport. May function as a unique regulator of gene expression in several different embryonic and postnatal cell lineages. Binds to the E-box consensus sequence 5'-CANNTG-3' (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription activator activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070888",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:E-box binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046983",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein dimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061564",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:axon development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042149",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to glucose starvation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030968",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010832",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of myotube differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007423",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sensory organ development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013F6EA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : H2AZ1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : H2AZ1
+Identifiant STRING officiel : `9606.ENSP00000296417`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ACTR6 | **H2BC21** | 0.458 |
+| ACTR6 | **H4C6** | 0.492 |
+| ACTR6 | **KAT5** | 0.609 |
+| ACTR6 | **ANP32E** | 0.723 |
+| ACTR6 | **YEATS4** | 0.886 |
+| ACTR6 | **VPS72** | 0.888 |
+| ACTR6 | **EP400** | 0.93 |
+| ACTR6 | **H2AZ1** | 0.956 |
+| ACTR6 | **DMAP1** | 0.962 |
+| ACTR6 | **ZNHIT1** | 0.998 |
+| ACTR6 | **RUVBL2** | 0.998 |
+| ACTR6 | **SRCAP** | 0.999 |
+| ACTR6 | **RUVBL1** | 0.999 |
+| H4C6 | **ZNHIT1** | 0.438 |
+| H4C6 | **ANP32E** | 0.623 |
+| H4C6 | **VPS72** | 0.656 |
+| H4C6 | **SRCAP** | 0.716 |
+| H4C6 | **YEATS4** | 0.819 |
+| H4C6 | **DMAP1** | 0.835 |
+| H4C6 | **EP400** | 0.929 |
+| H4C6 | **RUVBL2** | 0.972 |
+| H4C6 | **RUVBL1** | 0.974 |
+| H4C6 | **KAT5** | 0.993 |
+| H4C6 | **H2BC11** | 0.994 |
+| H4C6 | **H2AZ1** | 0.995 |
+| H4C6 | **H3C13** | 0.999 |
+| H4C6 | **H2BC21** | 0.999 |
+| YEATS4 | **ANP32E** | 0.478 |
+| YEATS4 | **H2BC21** | 0.644 |
+| YEATS4 | **H3C13** | 0.819 |
+| YEATS4 | **ZNHIT1** | 0.951 |
+| YEATS4 | **H2AZ1** | 0.976 |
+| YEATS4 | **SRCAP** | 0.989 |
+| YEATS4 | **VPS72** | 0.998 |
+| YEATS4 | **RUVBL2** | 0.998 |
+| YEATS4 | **KAT5** | 0.999 |
+| YEATS4 | **DMAP1** | 0.999 |
+| YEATS4 | **RUVBL1** | 0.999 |
+| YEATS4 | **EP400** | 0.999 |
+| SRCAP | **H3C13** | 0.429 |
+| SRCAP | **H2BC21** | 0.685 |
+| SRCAP | **ANP32E** | 0.876 |
+| SRCAP | **EP400** | 0.903 |
+| SRCAP | **KAT5** | 0.984 |
+| SRCAP | **DMAP1** | 0.992 |
+| SRCAP | **ZNHIT1** | 0.995 |
+| SRCAP | **VPS72** | 0.997 |
+| SRCAP | **H2AZ1** | 0.998 |
+| SRCAP | **RUVBL2** | 0.999 |
+| SRCAP | **RUVBL1** | 0.999 |
+| H2AZ1 | **RUVBL2** | 0.956 |
+| H2AZ1 | **DMAP1** | 0.959 |
+| H2AZ1 | **ZNHIT1** | 0.976 |
+| H2AZ1 | **H3C13** | 0.977 |
+| H2AZ1 | **H2BC11** | 0.983 |
+| H2AZ1 | **RUVBL1** | 0.984 |
+| H2AZ1 | **KAT5** | 0.986 |
+| H2AZ1 | **EP400** | 0.991 |
+| H2AZ1 | **ANP32E** | 0.996 |
+| H2AZ1 | **VPS72** | 0.998 |
+| H2AZ1 | **H2BC21** | 0.999 |
+| ZNHIT1 | **KAT5** | 0.68 |
+| ZNHIT1 | **ANP32E** | 0.713 |
+| ZNHIT1 | **DMAP1** | 0.95 |
+| ZNHIT1 | **EP400** | 0.959 |
+| ZNHIT1 | **VPS72** | 0.993 |
+| ZNHIT1 | **RUVBL2** | 0.997 |
+| ZNHIT1 | **RUVBL1** | 0.998 |
+| RUVBL1 | **H3C13** | 0.568 |
+| RUVBL1 | **H2BC21** | 0.824 |
+| RUVBL1 | **H2BC11** | 0.948 |
+| RUVBL1 | **ANP32E** | 0.949 |
+| RUVBL1 | **VPS72** | 0.999 |
+| RUVBL1 | **KAT5** | 0.999 |
+| RUVBL1 | **DMAP1** | 0.999 |
+| RUVBL1 | **RUVBL2** | 0.999 |
+| RUVBL1 | **EP400** | 0.999 |
+| H3C13 | **EP400** | 0.463 |
+| H3C13 | **DMAP1** | 0.499 |
+| H3C13 | **RUVBL2** | 0.66 |
+| H3C13 | **KAT5** | 0.915 |
+| H3C13 | **H2BC11** | 0.986 |
+| H3C13 | **H2BC21** | 0.999 |
+| KAT5 | **H2BC11** | 0.634 |
+| KAT5 | **H2BC21** | 0.803 |
+| KAT5 | **ANP32E** | 0.984 |
+| KAT5 | **VPS72** | 0.996 |
+| KAT5 | **EP400** | 0.999 |
+| KAT5 | **DMAP1** | 0.999 |
+| KAT5 | **RUVBL2** | 0.999 |
+| VPS72 | **H2BC21** | 0.718 |
+| VPS72 | **ANP32E** | 0.912 |
+| VPS72 | **H2BC11** | 0.915 |
+| VPS72 | **EP400** | 0.988 |
+| VPS72 | **RUVBL2** | 0.998 |
+| VPS72 | **DMAP1** | 0.999 |
+| H2BC21 | **DMAP1** | 0.492 |
+| H2BC21 | **RUVBL2** | 0.583 |
+| H2BC21 | **EP400** | 0.648 |
+| H2BC21 | **ANP32E** | 0.66 |
+| H2BC21 | **H2BC11** | 0.938 |
+| DMAP1 | **ANP32E** | 0.904 |
+| DMAP1 | **RUVBL2** | 0.999 |
+| DMAP1 | **EP400** | 0.999 |
+| EP400 | **ANP32E** | 0.992 |
+| EP400 | **RUVBL2** | 0.999 |
+| ANP32E | **RUVBL2** | 0.939 |
+| ANP32E | **H2BC11** | 0.947 |
+| RUVBL2 | **H2BC11** | 0.863 |
+

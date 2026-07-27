@@ -1,0 +1,306 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9UDR5",
+      "uniProtkbId": "AASS_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:17366"
+              }
+            ],
+            "value": "AASS"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10775527"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "463877"
+                }
+              ],
+              "value": "Bifunctional enzyme that catalyzes the first two steps in lysine degradation"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "463877"
+                  }
+                ],
+                "value": "Mitochondrion",
+                "id": "SL-0173"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005759",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HTP:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0006056",
+              "source": "PubMed",
+              "id": "34800366"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042393",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:histone binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0047131",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10775527"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004754",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:saccharopine dehydrogenase (NAD+, L-lysine-forming) activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0047130",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:saccharopine dehydrogenase (NADP+, L-lysine-forming) activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10775527"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004753",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:saccharopine dehydrogenase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003714",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription corepressor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019878",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:L-lysine biosynthetic process via aminoadipic acid"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033512",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:L-lysine catabolic process to acetyl-CoA via L-saccharopine"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-UniPathway"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006554",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:lysine catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10775527"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004A105"
+      }
+    }
+  ]
+}

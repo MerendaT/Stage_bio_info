@@ -1,0 +1,527 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q93063",
+      "uniProtkbId": "EXT2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:3513"
+              }
+            ],
+            "value": "EXT2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19344451"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22660413"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36402845"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36593275"
+                }
+              ],
+              "value": "Glycosyltransferase forming with EXT1 the heterodimeric heparan sulfate polymerase which catalyzes the elongation of the heparan sulfate glycan backbone (PubMed:22660413, PubMed:36402845, PubMed:36593275). Glycan backbone extension consists in the alternating transfer of (1->4)-beta-D-GlcA and (1->4)-alpha-D-GlcNAc residues from their respective UDP-sugar donors. Both EXT1 and EXT2 are required for the full activity of the polymerase since EXT1 bears the N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase activity within the complex while EXT2 carries the glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase activity (PubMed:36402845, PubMed:36593275). Heparan sulfate proteoglycans are ubiquitous components of the extracellular matrix and play an important role in tissue homeostasis and signaling (PubMed:19344451, PubMed:22660413)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10679296"
+                  }
+                ],
+                "value": "The active heparan sulfate polymerase complex composed of EXT1 and EXT2 is localized to the Golgi apparatus. If both proteins are individually detected in the endoplasmic reticulum, the formation of the complex promotes their transport to the Golgi"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10679296"
+                  }
+                ],
+                "value": "Golgi apparatus membrane",
+                "id": "SL-0134"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "35137078"
+                  }
+                ],
+                "value": "Golgi apparatus, cis-Golgi network membrane",
+                "id": "SL-0068"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10679296"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "O77783"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:1902494",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:catalytic complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10679296"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36593275"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10679296"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19199708"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10679296"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19946888"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043541",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:UDP-N-acetylglucosamine transferase complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36593275"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glucuronosyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016757",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:glycosyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042328",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heparan sulfate N-acetylglucosaminyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046982",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein heterodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006024",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glycosaminoglycan biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:heparan sulfate proteoglycan biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36593275"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001503",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ossification"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "9326317"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000271",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:polysaccharide biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12907669"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000012A3A5"
+      }
+    }
+  ]
+}

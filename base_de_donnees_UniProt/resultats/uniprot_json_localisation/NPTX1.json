@@ -1,0 +1,305 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q15818",
+      "uniProtkbId": "NPTX1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "NPTX1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P47971"
+                }
+              ],
+              "value": "May be involved in mediating uptake of synaptic material during synapse remodeling or in mediating the synaptic clustering of AMPA glutamate receptors at a subset of excitatory synapses"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "34788392"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "34788392"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Cytoplasmic vesicle, secretory vesicle",
+                "id": "SL-0244"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "34788392"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:glutamatergic synapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:SynGO"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27986928"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043083",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:synaptic cleft"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030133",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:transport vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060385",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:axonogenesis involved in innervation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071333",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to glucose stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035865",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to potassium ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007417",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:central nervous system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8884281"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007268",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chemical synaptic transmission"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8884281"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043653",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mitochondrial fragmentation involved in apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006839",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mitochondrial transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0099645",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neurotransmitter receptor localization to postsynaptic specialization membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097107",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:postsynaptic density assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013EB88"
+      }
+    }
+  ]
+}

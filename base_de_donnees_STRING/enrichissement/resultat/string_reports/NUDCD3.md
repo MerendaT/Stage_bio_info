@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NUDCD3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NUDCD3
+Identifiant STRING officiel : `9606.ENSP00000347626`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNX4 | **DYNLRB2** | 0.72 |
+| SNX4 | **DYNLRB1** | 0.722 |
+| SNX4 | **DYNC1I1** | 0.723 |
+| SNX4 | **DYNC2H1** | 0.723 |
+| SNX4 | **TCTEX1D2** | 0.724 |
+| SNX4 | **DYNC1H1** | 0.73 |
+| SNX4 | **DYNLT1** | 0.73 |
+| SNX4 | **NUDCD3** | 0.736 |
+| SNX4 | **DYNLL1** | 0.762 |
+| SNX4 | **WDR34** | 0.9 |
+| SNX4 | **WDR60** | 0.9 |
+| SNX4 | **DYNC2LI1** | 0.902 |
+| SNX4 | **DYNLT3** | 0.904 |
+| SNX4 | **DYNC1LI1** | 0.927 |
+| DYNC1LI1 | **PTGES3** | 0.435 |
+| DYNC1LI1 | **NUDCD3** | 0.787 |
+| DYNC1LI1 | **TCTEX1D2** | 0.801 |
+| DYNC1LI1 | **DYNLRB2** | 0.881 |
+| DYNC1LI1 | **WDR34** | 0.923 |
+| DYNC1LI1 | **WDR60** | 0.926 |
+| DYNC1LI1 | **DYNC2H1** | 0.946 |
+| DYNC1LI1 | **DYNC2LI1** | 0.952 |
+| DYNC1LI1 | **DYNLL1** | 0.986 |
+| DYNC1LI1 | **DYNLT1** | 0.987 |
+| DYNC1LI1 | **DYNLRB1** | 0.987 |
+| DYNC1LI1 | **DYNLT3** | 0.993 |
+| DYNC1LI1 | **DYNC1I1** | 0.999 |
+| DYNC1LI1 | **DYNC1H1** | 0.999 |
+| DYNC1I1 | **PTGES3** | 0.4 |
+| DYNC1I1 | **WDR60** | 0.76 |
+| DYNC1I1 | **TCTEX1D2** | 0.88 |
+| DYNC1I1 | **WDR34** | 0.901 |
+| DYNC1I1 | **NUDCD3** | 0.932 |
+| DYNC1I1 | **DYNC2LI1** | 0.942 |
+| DYNC1I1 | **DYNLRB2** | 0.952 |
+| DYNC1I1 | **DYNC2H1** | 0.961 |
+| DYNC1I1 | **DYNLT1** | 0.981 |
+| DYNC1I1 | **DYNLT3** | 0.982 |
+| DYNC1I1 | **DYNLRB1** | 0.99 |
+| DYNC1I1 | **DYNLL1** | 0.997 |
+| DYNC1I1 | **DYNC1H1** | 0.999 |
+| TCTEX1D2 | **NUDCD3** | 0.806 |
+| TCTEX1D2 | **DYNC1H1** | 0.827 |
+| TCTEX1D2 | **DYNLL1** | 0.928 |
+| TCTEX1D2 | **DYNLT3** | 0.957 |
+| TCTEX1D2 | **DYNC2H1** | 0.964 |
+| TCTEX1D2 | **DYNLRB2** | 0.97 |
+| TCTEX1D2 | **DYNLRB1** | 0.973 |
+| TCTEX1D2 | **DYNLT1** | 0.985 |
+| TCTEX1D2 | **DYNC2LI1** | 0.989 |
+| TCTEX1D2 | **WDR34** | 0.991 |
+| TCTEX1D2 | **WDR60** | 0.992 |
+| NUDCD3 | **DYNLRB2** | 0.771 |
+| NUDCD3 | **DYNC2H1** | 0.791 |
+| NUDCD3 | **DYNLT1** | 0.799 |
+| NUDCD3 | **DYNLL1** | 0.801 |
+| NUDCD3 | **PTGES3** | 0.802 |
+| NUDCD3 | **DYNC2LI1** | 0.807 |
+| NUDCD3 | **DYNLRB1** | 0.811 |
+| NUDCD3 | **WDR34** | 0.814 |
+| NUDCD3 | **WDR60** | 0.815 |
+| NUDCD3 | **DYNLT3** | 0.819 |
+| NUDCD3 | **DYNC1H1** | 0.943 |
+| DYNC1H1 | **PTGES3** | 0.599 |
+| DYNC1H1 | **WDR60** | 0.87 |
+| DYNC1H1 | **WDR34** | 0.876 |
+| DYNC1H1 | **DYNLRB2** | 0.882 |
+| DYNC1H1 | **DYNC2H1** | 0.927 |
+| DYNC1H1 | **DYNLT3** | 0.961 |
+| DYNC1H1 | **DYNC2LI1** | 0.962 |
+| DYNC1H1 | **DYNLT1** | 0.987 |
+| DYNC1H1 | **DYNLL1** | 0.995 |
+| DYNC1H1 | **DYNLRB1** | 0.998 |
+| DYNLRB1 | **DYNLRB2** | 0.821 |
+| DYNLRB1 | **DYNLT3** | 0.965 |
+| DYNLRB1 | **DYNC2H1** | 0.978 |
+| DYNLRB1 | **DYNLT1** | 0.988 |
+| DYNLRB1 | **DYNC2LI1** | 0.99 |
+| DYNLRB1 | **WDR34** | 0.996 |
+| DYNLRB1 | **DYNLL1** | 0.997 |
+| DYNLRB1 | **WDR60** | 0.997 |
+| DYNLT1 | **DYNLT3** | 0.86 |
+| DYNLT1 | **DYNC2H1** | 0.905 |
+| DYNLT1 | **DYNC2LI1** | 0.941 |
+| DYNLT1 | **WDR34** | 0.957 |
+| DYNLT1 | **DYNLRB2** | 0.97 |
+| DYNLT1 | **WDR60** | 0.979 |
+| DYNLT1 | **DYNLL1** | 0.988 |
+| WDR34 | **DYNLRB2** | 0.956 |
+| WDR34 | **DYNLT3** | 0.978 |
+| WDR34 | **DYNC2LI1** | 0.997 |
+| WDR34 | **DYNLL1** | 0.997 |
+| WDR34 | **DYNC2H1** | 0.999 |
+| WDR34 | **WDR60** | 0.999 |
+| DYNLT3 | **DYNC2H1** | 0.891 |
+| DYNLT3 | **DYNC2LI1** | 0.965 |
+| DYNLT3 | **DYNLRB2** | 0.97 |
+| DYNLT3 | **DYNLL1** | 0.976 |
+| DYNLT3 | **WDR60** | 0.978 |
+| DYNLL1 | **PTGES3** | 0.438 |
+| DYNLL1 | **DYNLRB2** | 0.956 |
+| DYNLL1 | **DYNC2LI1** | 0.995 |
+| DYNLL1 | **WDR60** | 0.998 |
+| DYNLL1 | **DYNC2H1** | 0.999 |
+| WDR60 | **DYNLRB2** | 0.956 |
+| WDR60 | **DYNC2LI1** | 0.999 |
+| WDR60 | **DYNC2H1** | 0.999 |
+| DYNLRB2 | **DYNC2LI1** | 0.887 |
+| DYNLRB2 | **DYNC2H1** | 0.891 |
+| DYNC2LI1 | **DYNC2H1** | 0.999 |
+

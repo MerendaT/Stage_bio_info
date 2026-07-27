@@ -1,0 +1,384 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9BVW5",
+      "uniProtkbId": "TIPIN_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:30750"
+              }
+            ],
+            "value": "TIPIN"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17102137"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17116885"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17296725"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23359676"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "35585232"
+                }
+              ],
+              "value": "Plays an important role in the control of DNA replication and the maintenance of replication fork stability (PubMed:17102137, PubMed:23359676, PubMed:35585232). Important for cell survival after DNA damage or replication stress (PubMed:17116885). May be specifically required for the ATR-CHEK1 pathway in the replication checkpoint induced by hydroxyurea or ultraviolet light (PubMed:17296725). Forms a complex with TIMELESS and this complex regulates DNA replication processes under both normal and stress conditions, stabilizes replication forks and influences both CHEK1 phosphorylation and the intra-S phase checkpoint in response to genotoxic stress (PubMed:17102137, PubMed:17116885, PubMed:17296725, PubMed:23359676, PubMed:35585232)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17102137"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17141802"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17116885"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17141802"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31429579"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HGNC-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17102137"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear replication fork"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "36151374"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31429579"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031298",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:replication fork protection complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003677",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044770",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell cycle phase transition"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17102137"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051301",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000076",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA replication checkpoint signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:HGNC-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17102137"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031573",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mitotic intra-S DNA damage checkpoint signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17102137"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:HGNC-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "17102137"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033262",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of nuclear cell cycle DNA replication"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:HGNC-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17102137"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043111",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:replication fork arrest"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031297",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:replication fork processing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "36151374"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013D21A"
+      }
+    }
+  ]
+}
