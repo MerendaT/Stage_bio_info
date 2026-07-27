@@ -1,0 +1,236 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9H173",
+      "uniProtkbId": "SIL1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SIL1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12356756"
+                }
+              ],
+              "value": "Required for protein translocation and folding in the endoplasmic reticulum (ER). Functions as a nucleotide exchange factor for the ER lumenal chaperone HSPA5"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12356756"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16282978"
+                  }
+                ],
+                "value": "Endoplasmic reticulum lumen",
+                "id": "SL-0096"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12356756"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "16502470"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000774",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:adenyl-nucleotide exchange factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12356756"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "31258504"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051082",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:unfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "11101517"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006613",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cotranslational protein targeting to membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular protein transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "11101517"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006457",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein folding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "11101517"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003ED21"
+      }
+    }
+  ]
+}

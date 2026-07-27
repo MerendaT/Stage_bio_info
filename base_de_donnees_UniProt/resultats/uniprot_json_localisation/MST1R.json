@@ -1,0 +1,427 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q04912",
+      "uniProtkbId": "RON_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "MST1R"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18836480"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7939629"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9764835"
+                }
+              ],
+              "value": "Receptor tyrosine kinase that transduces signals from the extracellular matrix into the cytoplasm by binding to MST1 ligand. Regulates many physiological processes including cell survival, migration and differentiation. Ligand binding at the cell surface induces autophosphorylation of RON on its intracellular domain that provides docking sites for downstream signaling molecules. Following activation by ligand, interacts with the PI3-kinase subunit PIK3R1, PLCG1 or the adapter GAB1. Recruitment of these downstream effectors by RON leads to the activation of several signaling cascades including the RAS-ERK, PI3 kinase-AKT, or PLCgamma-PKC. RON signaling activates the wound healing response by promoting epithelial cell migration, proliferation as well as survival at the wound site. Also plays a role in the innate immune response by regulating the migration and phagocytic activity of macrophages. Alternatively, RON can also promote signals such as cell migration and proliferation in response to growth factors other than MST1 ligand"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19581412"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043235",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:receptor complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001725",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:stress fiber"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005773",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:vacuole"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019899",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:enzyme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005011",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:macrophage colony-stimulating factor receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9045873"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004714",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane receptor protein tyrosine kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016477",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007169",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell surface receptor protein tyrosine kinase signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006952",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:defense response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9045873"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:innate immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007399",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:nervous system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006909",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:phagocytosis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10871856"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043406",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of MAP kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to virus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12676986"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "7939629"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007338",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:single fertilization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9045873"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000159688A"
+      }
+    }
+  ]
+}

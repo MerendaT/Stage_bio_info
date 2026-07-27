@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : IMP3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IMP3
+Identifiant STRING officiel : `9606.ENSP00000326981`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **RPS11** | 0.986 |
+| UTP18 | **RPS7** | 0.988 |
+| UTP18 | **RPS6** | 0.99 |
+| UTP18 | **RPS23** | 0.993 |
+| UTP18 | **FCF1** | 0.995 |
+| UTP18 | **IMP3** | 0.997 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **IMP4** | 0.998 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **NGDN** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **UTP11** | 0.999 |
+| UTP18 | **UTP3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| KRR1 | **RPS11** | 0.99 |
+| KRR1 | **RPS23** | 0.993 |
+| KRR1 | **RPS6** | 0.997 |
+| KRR1 | **RPS7** | 0.997 |
+| KRR1 | **IMP4** | 0.998 |
+| KRR1 | **UTP11** | 0.999 |
+| KRR1 | **UTP3** | 0.999 |
+| KRR1 | **RRP9** | 0.999 |
+| KRR1 | **FCF1** | 0.999 |
+| KRR1 | **MPHOSPH10** | 0.999 |
+| KRR1 | **UTP6** | 0.999 |
+| KRR1 | **NGDN** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **IMP3** | 0.999 |
+| RRP9 | **RPS11** | 0.982 |
+| RRP9 | **RPS7** | 0.985 |
+| RRP9 | **RPS6** | 0.988 |
+| RRP9 | **RPS23** | 0.992 |
+| RRP9 | **UTP11** | 0.996 |
+| RRP9 | **FCF1** | 0.997 |
+| RRP9 | **IMP3** | 0.998 |
+| RRP9 | **NGDN** | 0.998 |
+| RRP9 | **UTP3** | 0.998 |
+| RRP9 | **UTP6** | 0.999 |
+| RRP9 | **WDR46** | 0.999 |
+| RRP9 | **MPHOSPH10** | 0.999 |
+| RRP9 | **IMP4** | 0.999 |
+| MPHOSPH10 | **RPS11** | 0.982 |
+| MPHOSPH10 | **RPS23** | 0.992 |
+| MPHOSPH10 | **RPS7** | 0.995 |
+| MPHOSPH10 | **RPS6** | 0.996 |
+| MPHOSPH10 | **FCF1** | 0.996 |
+| MPHOSPH10 | **NGDN** | 0.998 |
+| MPHOSPH10 | **UTP11** | 0.998 |
+| MPHOSPH10 | **WDR46** | 0.999 |
+| MPHOSPH10 | **IMP3** | 0.999 |
+| MPHOSPH10 | **UTP6** | 0.999 |
+| MPHOSPH10 | **IMP4** | 0.999 |
+| MPHOSPH10 | **UTP3** | 0.999 |
+| UTP3 | **RPS11** | 0.983 |
+| UTP3 | **RPS23** | 0.993 |
+| UTP3 | **RPS7** | 0.995 |
+| UTP3 | **RPS6** | 0.997 |
+| UTP3 | **IMP3** | 0.999 |
+| UTP3 | **NGDN** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **UTP6** | 0.999 |
+| UTP3 | **IMP4** | 0.999 |
+| UTP3 | **FCF1** | 0.999 |
+| UTP3 | **UTP11** | 0.999 |
+| IMP4 | **RPS11** | 0.982 |
+| IMP4 | **RPS7** | 0.985 |
+| IMP4 | **RPS6** | 0.987 |
+| IMP4 | **FCF1** | 0.992 |
+| IMP4 | **RPS23** | 0.992 |
+| IMP4 | **UTP11** | 0.998 |
+| IMP4 | **WDR46** | 0.998 |
+| IMP4 | **NGDN** | 0.998 |
+| IMP4 | **IMP3** | 0.999 |
+| IMP4 | **UTP6** | 0.999 |
+| UTP6 | **RPS11** | 0.983 |
+| UTP6 | **RPS6** | 0.987 |
+| UTP6 | **RPS7** | 0.988 |
+| UTP6 | **RPS23** | 0.992 |
+| UTP6 | **FCF1** | 0.995 |
+| UTP6 | **IMP3** | 0.998 |
+| UTP6 | **UTP11** | 0.998 |
+| UTP6 | **WDR46** | 0.999 |
+| UTP6 | **NGDN** | 0.999 |
+| RPS11 | **NGDN** | 0.971 |
+| RPS11 | **WDR46** | 0.981 |
+| RPS11 | **FCF1** | 0.981 |
+| RPS11 | **UTP11** | 0.981 |
+| RPS11 | **IMP3** | 0.998 |
+| RPS11 | **RPS7** | 0.999 |
+| RPS11 | **RPS6** | 0.999 |
+| RPS11 | **RPS23** | 0.999 |
+| RPS23 | **NGDN** | 0.972 |
+| RPS23 | **WDR46** | 0.992 |
+| RPS23 | **FCF1** | 0.992 |
+| RPS23 | **UTP11** | 0.993 |
+| RPS23 | **IMP3** | 0.998 |
+| RPS23 | **RPS6** | 0.999 |
+| RPS23 | **RPS7** | 0.999 |
+| IMP3 | **RPS7** | 0.998 |
+| IMP3 | **RPS6** | 0.998 |
+| IMP3 | **WDR46** | 0.998 |
+| IMP3 | **NGDN** | 0.998 |
+| IMP3 | **UTP11** | 0.998 |
+| IMP3 | **FCF1** | 0.998 |
+| FCF1 | **RPS6** | 0.994 |
+| FCF1 | **RPS7** | 0.994 |
+| FCF1 | **NGDN** | 0.997 |
+| FCF1 | **WDR46** | 0.999 |
+| FCF1 | **UTP11** | 0.999 |
+| UTP11 | **RPS7** | 0.993 |
+| UTP11 | **RPS6** | 0.994 |
+| UTP11 | **WDR46** | 0.999 |
+| UTP11 | **NGDN** | 0.999 |
+| WDR46 | **RPS7** | 0.993 |
+| WDR46 | **RPS6** | 0.994 |
+| WDR46 | **NGDN** | 0.999 |
+| RPS6 | **NGDN** | 0.991 |
+| RPS6 | **RPS7** | 0.999 |
+| NGDN | **RPS7** | 0.988 |
+

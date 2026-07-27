@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : BRF2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BRF2
+Identifiant STRING officiel : `9606.ENSP00000220659`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BRF2 | **POLR3K** | 0.816 |
+| BRF2 | **GTF3C5** | 0.819 |
+| BRF2 | **POLR3H** | 0.828 |
+| BRF2 | **POLR2K** | 0.835 |
+| BRF2 | **POLR3E** | 0.842 |
+| BRF2 | **POLR3C** | 0.848 |
+| BRF2 | **CRCP** | 0.851 |
+| BRF2 | **POLR1C** | 0.863 |
+| BRF2 | **POLR3D** | 0.876 |
+| BRF2 | **POLR3B** | 0.91 |
+| BRF2 | **POLR3A** | 0.923 |
+| BRF2 | **POLR3F** | 0.966 |
+| BRF2 | **GTF3C3** | 0.968 |
+| BRF2 | **TBP** | 0.999 |
+| BRF2 | **BDP1** | 0.999 |
+| POLR3B | **GTF3C5** | 0.586 |
+| POLR3B | **GTF3C3** | 0.736 |
+| POLR3B | **TBP** | 0.815 |
+| POLR3B | **BDP1** | 0.969 |
+| POLR3B | **POLR2K** | 0.999 |
+| POLR3B | **CRCP** | 0.999 |
+| POLR3B | **POLR1C** | 0.999 |
+| POLR3B | **POLR3H** | 0.999 |
+| POLR3B | **POLR3E** | 0.999 |
+| POLR3B | **POLR3D** | 0.999 |
+| POLR3B | **POLR3C** | 0.999 |
+| POLR3B | **POLR3F** | 0.999 |
+| POLR3B | **POLR3A** | 0.999 |
+| POLR3B | **POLR3K** | 0.999 |
+| TBP | **GTF3C5** | 0.772 |
+| TBP | **POLR3E** | 0.773 |
+| TBP | **POLR3K** | 0.796 |
+| TBP | **GTF3C3** | 0.803 |
+| TBP | **CRCP** | 0.804 |
+| TBP | **POLR3H** | 0.811 |
+| TBP | **POLR1C** | 0.858 |
+| TBP | **POLR3D** | 0.875 |
+| TBP | **POLR3C** | 0.883 |
+| TBP | **POLR3F** | 0.902 |
+| TBP | **POLR3A** | 0.913 |
+| TBP | **POLR2K** | 0.971 |
+| TBP | **BDP1** | 0.999 |
+| GTF3C3 | **POLR1C** | 0.593 |
+| GTF3C3 | **POLR3H** | 0.654 |
+| GTF3C3 | **CRCP** | 0.655 |
+| GTF3C3 | **POLR3K** | 0.683 |
+| GTF3C3 | **POLR2K** | 0.684 |
+| GTF3C3 | **POLR3E** | 0.713 |
+| GTF3C3 | **POLR3F** | 0.719 |
+| GTF3C3 | **POLR3A** | 0.837 |
+| GTF3C3 | **POLR3C** | 0.856 |
+| GTF3C3 | **BDP1** | 0.94 |
+| GTF3C3 | **POLR3D** | 0.989 |
+| GTF3C3 | **GTF3C5** | 0.999 |
+| POLR3K | **GTF3C5** | 0.698 |
+| POLR3K | **BDP1** | 0.853 |
+| POLR3K | **POLR3H** | 0.995 |
+| POLR3K | **POLR2K** | 0.997 |
+| POLR3K | **POLR3C** | 0.998 |
+| POLR3K | **CRCP** | 0.998 |
+| POLR3K | **POLR3F** | 0.999 |
+| POLR3K | **POLR3A** | 0.999 |
+| POLR3K | **POLR1C** | 0.999 |
+| POLR3K | **POLR3E** | 0.999 |
+| POLR3K | **POLR3D** | 0.999 |
+| POLR3E | **GTF3C5** | 0.679 |
+| POLR3E | **BDP1** | 0.983 |
+| POLR3E | **POLR2K** | 0.994 |
+| POLR3E | **POLR3D** | 0.999 |
+| POLR3E | **POLR1C** | 0.999 |
+| POLR3E | **POLR3H** | 0.999 |
+| POLR3E | **CRCP** | 0.999 |
+| POLR3E | **POLR3A** | 0.999 |
+| POLR3E | **POLR3F** | 0.999 |
+| POLR3E | **POLR3C** | 0.999 |
+| POLR3C | **GTF3C5** | 0.811 |
+| POLR3C | **BDP1** | 0.972 |
+| POLR3C | **POLR2K** | 0.984 |
+| POLR3C | **CRCP** | 0.999 |
+| POLR3C | **POLR3H** | 0.999 |
+| POLR3C | **POLR1C** | 0.999 |
+| POLR3C | **POLR3D** | 0.999 |
+| POLR3C | **POLR3F** | 0.999 |
+| POLR3C | **POLR3A** | 0.999 |
+| POLR2K | **GTF3C5** | 0.634 |
+| POLR2K | **BDP1** | 0.858 |
+| POLR2K | **POLR3F** | 0.982 |
+| POLR2K | **CRCP** | 0.987 |
+| POLR2K | **POLR3D** | 0.988 |
+| POLR2K | **POLR3A** | 0.997 |
+| POLR2K | **POLR3H** | 0.998 |
+| POLR2K | **POLR1C** | 0.999 |
+| POLR3H | **GTF3C5** | 0.621 |
+| POLR3H | **BDP1** | 0.922 |
+| POLR3H | **POLR3F** | 0.999 |
+| POLR3H | **POLR3A** | 0.999 |
+| POLR3H | **POLR1C** | 0.999 |
+| POLR3H | **CRCP** | 0.999 |
+| POLR3H | **POLR3D** | 0.999 |
+| BDP1 | **GTF3C5** | 0.871 |
+| BDP1 | **POLR1C** | 0.918 |
+| BDP1 | **CRCP** | 0.95 |
+| BDP1 | **POLR3D** | 0.957 |
+| BDP1 | **POLR3F** | 0.985 |
+| BDP1 | **POLR3A** | 0.994 |
+| GTF3C5 | **POLR1C** | 0.588 |
+| GTF3C5 | **CRCP** | 0.632 |
+| GTF3C5 | **POLR3F** | 0.746 |
+| GTF3C5 | **POLR3D** | 0.781 |
+| GTF3C5 | **POLR3A** | 0.783 |
+| POLR3A | **POLR3F** | 0.999 |
+| POLR3A | **POLR3D** | 0.999 |
+| POLR3A | **CRCP** | 0.999 |
+| POLR3A | **POLR1C** | 0.999 |
+| POLR3F | **CRCP** | 0.999 |
+| POLR3F | **POLR1C** | 0.999 |
+| POLR3F | **POLR3D** | 0.999 |
+| CRCP | **POLR1C** | 0.999 |
+| CRCP | **POLR3D** | 0.999 |
+| POLR3D | **POLR1C** | 0.999 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : WDR46
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : WDR46
+Identifiant STRING officiel : `9606.ENSP00000363746`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **UTP20** | 0.997 |
+| UTP18 | **DCAF13** | 0.998 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **NAT10** | 0.998 |
+| UTP18 | **UTP15** | 0.999 |
+| UTP18 | **WDR75** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **RRP7A** | 0.999 |
+| UTP18 | **UTP3** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| UTP18 | **NOL6** | 0.999 |
+| KRR1 | **NAT10** | 0.997 |
+| KRR1 | **NOL6** | 0.998 |
+| KRR1 | **UTP15** | 0.998 |
+| KRR1 | **WDR75** | 0.998 |
+| KRR1 | **UTP20** | 0.999 |
+| KRR1 | **RRP7A** | 0.999 |
+| KRR1 | **UTP3** | 0.999 |
+| KRR1 | **RRP9** | 0.999 |
+| KRR1 | **WDR3** | 0.999 |
+| KRR1 | **MPHOSPH10** | 0.999 |
+| KRR1 | **DCAF13** | 0.999 |
+| KRR1 | **UTP6** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| BYSL | **WDR75** | 0.998 |
+| BYSL | **UTP20** | 0.998 |
+| BYSL | **RRP7A** | 0.998 |
+| BYSL | **MPHOSPH10** | 0.998 |
+| BYSL | **UTP15** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **DCAF13** | 0.999 |
+| BYSL | **WDR46** | 0.999 |
+| BYSL | **UTP3** | 0.999 |
+| BYSL | **RRP9** | 0.999 |
+| BYSL | **WDR3** | 0.999 |
+| BYSL | **NAT10** | 0.999 |
+| BYSL | **NOL6** | 0.999 |
+| RRP9 | **UTP3** | 0.998 |
+| RRP9 | **RRP7A** | 0.998 |
+| RRP9 | **UTP20** | 0.998 |
+| RRP9 | **NAT10** | 0.998 |
+| RRP9 | **WDR3** | 0.998 |
+| RRP9 | **UTP6** | 0.999 |
+| RRP9 | **DCAF13** | 0.999 |
+| RRP9 | **WDR75** | 0.999 |
+| RRP9 | **UTP15** | 0.999 |
+| RRP9 | **WDR46** | 0.999 |
+| RRP9 | **NOL6** | 0.999 |
+| RRP9 | **MPHOSPH10** | 0.999 |
+| MPHOSPH10 | **NAT10** | 0.996 |
+| MPHOSPH10 | **RRP7A** | 0.996 |
+| MPHOSPH10 | **UTP20** | 0.997 |
+| MPHOSPH10 | **DCAF13** | 0.998 |
+| MPHOSPH10 | **WDR46** | 0.999 |
+| MPHOSPH10 | **UTP15** | 0.999 |
+| MPHOSPH10 | **WDR75** | 0.999 |
+| MPHOSPH10 | **UTP6** | 0.999 |
+| MPHOSPH10 | **WDR3** | 0.999 |
+| MPHOSPH10 | **NOL6** | 0.999 |
+| MPHOSPH10 | **UTP3** | 0.999 |
+| UTP3 | **NAT10** | 0.995 |
+| UTP3 | **UTP15** | 0.996 |
+| UTP3 | **RRP7A** | 0.997 |
+| UTP3 | **DCAF13** | 0.998 |
+| UTP3 | **WDR75** | 0.998 |
+| UTP3 | **UTP20** | 0.998 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **UTP6** | 0.999 |
+| UTP3 | **NOL6** | 0.999 |
+| UTP3 | **WDR3** | 0.999 |
+| NAT10 | **DCAF13** | 0.993 |
+| NAT10 | **UTP15** | 0.995 |
+| NAT10 | **WDR75** | 0.997 |
+| NAT10 | **RRP7A** | 0.997 |
+| NAT10 | **UTP6** | 0.998 |
+| NAT10 | **WDR3** | 0.998 |
+| NAT10 | **WDR46** | 0.999 |
+| NAT10 | **NOL6** | 0.999 |
+| NAT10 | **UTP20** | 0.999 |
+| UTP20 | **RRP7A** | 0.996 |
+| UTP20 | **UTP15** | 0.998 |
+| UTP20 | **UTP6** | 0.998 |
+| UTP20 | **DCAF13** | 0.998 |
+| UTP20 | **WDR46** | 0.999 |
+| UTP20 | **WDR75** | 0.999 |
+| UTP20 | **WDR3** | 0.999 |
+| UTP20 | **NOL6** | 0.999 |
+| UTP6 | **DCAF13** | 0.998 |
+| UTP6 | **RRP7A** | 0.998 |
+| UTP6 | **WDR46** | 0.999 |
+| UTP6 | **WDR75** | 0.999 |
+| UTP6 | **UTP15** | 0.999 |
+| UTP6 | **WDR3** | 0.999 |
+| UTP6 | **NOL6** | 0.999 |
+| UTP15 | **RRP7A** | 0.994 |
+| UTP15 | **DCAF13** | 0.997 |
+| UTP15 | **NOL6** | 0.998 |
+| UTP15 | **WDR3** | 0.999 |
+| UTP15 | **WDR75** | 0.999 |
+| UTP15 | **WDR46** | 0.999 |
+| DCAF13 | **RRP7A** | 0.991 |
+| DCAF13 | **NOL6** | 0.995 |
+| DCAF13 | **WDR75** | 0.998 |
+| DCAF13 | **WDR3** | 0.999 |
+| DCAF13 | **WDR46** | 0.999 |
+| NOL6 | **WDR46** | 0.999 |
+| NOL6 | **WDR75** | 0.999 |
+| NOL6 | **WDR3** | 0.999 |
+| NOL6 | **RRP7A** | 0.999 |
+| WDR3 | **RRP7A** | 0.997 |
+| WDR3 | **WDR46** | 0.999 |
+| WDR3 | **WDR75** | 0.999 |
+| WDR75 | **RRP7A** | 0.998 |
+| WDR75 | **WDR46** | 0.999 |
+| RRP7A | **WDR46** | 0.999 |
+

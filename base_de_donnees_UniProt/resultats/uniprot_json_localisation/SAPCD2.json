@@ -1,0 +1,345 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q86UD0",
+      "uniProtkbId": "SAPC2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:28055"
+              }
+            ],
+            "value": "SAPCD2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9D818"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23576022"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23704824"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26766442"
+                }
+              ],
+              "value": "Plays a role in planar mitotic spindle orientation in retinal progenitor cells (RPCs) and promotes the production of symmetric terminal divisions (By similarity). Negatively regulates the mitotic apical cortex localization of GPSM2 (PubMed:26766442). Involved also in positive regulation of cell proliferation and tumor cell growth (PubMed:23576022, PubMed:23704824)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9D818"
+                  }
+                ],
+                "value": "Localized at the apical cortical region during the M phase. In horizontally retinal progenitor dividing cells, localized at the pole cortical region from prophase to telophase cells. In vertically retinal progenitor dividing cells, not detected at the pole cortical region at any stage of mitosis"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17525738"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17525738"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26766442"
+                  }
+                ],
+                "value": "Cytoplasm, cell cortex",
+                "id": "SL-0138"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9D818"
+                  }
+                ],
+                "value": "Apical cell membrane",
+                "id": "SL-0015"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "26766442"
+                  }
+                ],
+                "value": "Cell junction, tight junction",
+                "id": "SL-0265"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0045179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical cortex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26766442"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043296",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical junction complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "26766442"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016324",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005923",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:bicellular tight junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005730",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleolus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000132",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:establishment of mitotic spindle orientation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904777",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of protein localization to cell cortex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26766442"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23576022"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23704824"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090175",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of establishment of planar polarity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098725",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:symmetric cell division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00005A8C06"
+      }
+    }
+  ]
+}

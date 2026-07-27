@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PRP4K
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PRP4K
+Identifiant STRING officiel : `9606.ENSP00000337194`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PNN | **PRPF6** | 0.413 |
+| PNN | **PRPF4** | 0.438 |
+| PNN | **SART1** | 0.445 |
+| PNN | **USP39** | 0.459 |
+| PNN | **PRPF31** | 0.465 |
+| PNN | **TCERG1** | 0.467 |
+| PNN | **PRPF8** | 0.467 |
+| PNN | **SF3B1** | 0.575 |
+| PNN | **RBM25** | 0.812 |
+| PNN | **PRPF4B** | 0.951 |
+| RBM25 | **SNRNP200** | 0.419 |
+| RBM25 | **PRPF8** | 0.459 |
+| RBM25 | **EFTUD2** | 0.504 |
+| RBM25 | **PRPF31** | 0.63 |
+| RBM25 | **DDX23** | 0.845 |
+| RBM25 | **SF3B1** | 0.927 |
+| RBM25 | **SNRPF** | 0.938 |
+| RBM25 | **PRPF4B** | 0.95 |
+| RBM25 | **TCERG1** | 0.953 |
+| RBM25 | **SART1** | 0.994 |
+| SNRNP40 | **SF3B1** | 0.888 |
+| SNRNP40 | **PRPF4B** | 0.92 |
+| SNRNP40 | **PRPF31** | 0.944 |
+| SNRNP40 | **TCERG1** | 0.973 |
+| SNRNP40 | **SART1** | 0.983 |
+| SNRNP40 | **USP39** | 0.985 |
+| SNRNP40 | **PRPF4** | 0.986 |
+| SNRNP40 | **DDX23** | 0.997 |
+| SNRNP40 | **SNRPF** | 0.998 |
+| SNRNP40 | **EFTUD2** | 0.999 |
+| SNRNP40 | **PRPF8** | 0.999 |
+| SNRNP40 | **PRPF6** | 0.999 |
+| SNRNP40 | **SNRNP200** | 0.999 |
+| PRPF6 | **TCERG1** | 0.824 |
+| PRPF6 | **PRPF4B** | 0.973 |
+| PRPF6 | **USP39** | 0.986 |
+| PRPF6 | **SNRNP200** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **PRPF4** | 0.999 |
+| PRPF6 | **PRPF31** | 0.999 |
+| PRPF6 | **SART1** | 0.999 |
+| PRPF6 | **PRPF8** | 0.999 |
+| PRPF6 | **EFTUD2** | 0.999 |
+| PRPF6 | **DDX23** | 0.999 |
+| PRPF6 | **SF3B1** | 0.999 |
+| SNRPF | **TCERG1** | 0.847 |
+| SNRPF | **PRPF4B** | 0.912 |
+| SNRPF | **USP39** | 0.985 |
+| SNRPF | **DDX23** | 0.997 |
+| SNRPF | **SART1** | 0.999 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **PRPF31** | 0.999 |
+| SNRPF | **PRPF4** | 0.999 |
+| SNRPF | **SF3B1** | 0.999 |
+| SNRPF | **EFTUD2** | 0.999 |
+| SNRPF | **PRPF8** | 0.999 |
+| TCERG1 | **PRPF4B** | 0.927 |
+| TCERG1 | **EFTUD2** | 0.974 |
+| TCERG1 | **SNRNP200** | 0.976 |
+| TCERG1 | **PRPF8** | 0.98 |
+| TCERG1 | **SF3B1** | 0.991 |
+| SART1 | **PRPF4B** | 0.948 |
+| SART1 | **USP39** | 0.986 |
+| SART1 | **DDX23** | 0.996 |
+| SART1 | **SF3B1** | 0.999 |
+| SART1 | **EFTUD2** | 0.999 |
+| SART1 | **PRPF8** | 0.999 |
+| SART1 | **PRPF4** | 0.999 |
+| SART1 | **PRPF31** | 0.999 |
+| SART1 | **SNRNP200** | 0.999 |
+| DDX23 | **PRPF4B** | 0.937 |
+| DDX23 | **SF3B1** | 0.956 |
+| DDX23 | **USP39** | 0.996 |
+| DDX23 | **PRPF4** | 0.996 |
+| DDX23 | **PRPF31** | 0.997 |
+| DDX23 | **PRPF8** | 0.999 |
+| DDX23 | **EFTUD2** | 0.999 |
+| DDX23 | **SNRNP200** | 0.999 |
+| USP39 | **SF3B1** | 0.91 |
+| USP39 | **PRPF4B** | 0.93 |
+| USP39 | **SNRNP200** | 0.965 |
+| USP39 | **PRPF4** | 0.983 |
+| USP39 | **PRPF8** | 0.994 |
+| USP39 | **EFTUD2** | 0.995 |
+| USP39 | **PRPF31** | 0.995 |
+| SNRNP200 | **PRPF4B** | 0.94 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **SF3B1** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| SNRNP200 | **PRPF4** | 0.999 |
+| SNRNP200 | **PRPF31** | 0.999 |
+| PRPF31 | **PRPF4B** | 0.965 |
+| PRPF31 | **SF3B1** | 0.997 |
+| PRPF31 | **PRPF4** | 0.999 |
+| PRPF31 | **EFTUD2** | 0.999 |
+| PRPF31 | **PRPF8** | 0.999 |
+| SF3B1 | **PRPF4B** | 0.93 |
+| SF3B1 | **PRPF4** | 0.996 |
+| SF3B1 | **PRPF8** | 0.999 |
+| SF3B1 | **EFTUD2** | 0.999 |
+| PRPF4B | **EFTUD2** | 0.956 |
+| PRPF4B | **PRPF8** | 0.957 |
+| PRPF4B | **PRPF4** | 0.959 |
+| PRPF4 | **EFTUD2** | 0.999 |
+| PRPF4 | **PRPF8** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+

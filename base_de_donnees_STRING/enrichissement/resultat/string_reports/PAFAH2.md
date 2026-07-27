@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PAFAH2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PAFAH2
+Identifiant STRING officiel : `9606.ENSP00000363400`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CHPT1 | **PLA2G2F** | 0.65 |
+| CHPT1 | **PLA2G4C** | 0.661 |
+| CHPT1 | **PLA2G6** | 0.69 |
+| CHPT1 | **PLA2G12B** | 0.698 |
+| CHPT1 | **PLA2G4D** | 0.801 |
+| CHPT1 | **PLA2G10** | 0.805 |
+| CHPT1 | **PAFAH1B2** | 0.9 |
+| CHPT1 | **PAFAH1B3** | 0.9 |
+| CHPT1 | **CEPT1** | 0.905 |
+| CHPT1 | **PAFAH1B1** | 0.911 |
+| CHPT1 | **PAFAH2** | 0.913 |
+| CHPT1 | **PLA2G7** | 0.929 |
+| CHPT1 | **LPCAT4** | 0.933 |
+| CHPT1 | **LPCAT1** | 0.958 |
+| CHPT1 | **LPCAT2** | 0.962 |
+| LPCAT2 | **PLA2G4D** | 0.668 |
+| LPCAT2 | **PLA2G12B** | 0.692 |
+| LPCAT2 | **PLA2G4C** | 0.692 |
+| LPCAT2 | **PLA2G2F** | 0.7 |
+| LPCAT2 | **PLA2G10** | 0.71 |
+| LPCAT2 | **PLA2G6** | 0.762 |
+| LPCAT2 | **PAFAH1B1** | 0.9 |
+| LPCAT2 | **PAFAH1B2** | 0.909 |
+| LPCAT2 | **LPCAT1** | 0.91 |
+| LPCAT2 | **PAFAH1B3** | 0.919 |
+| LPCAT2 | **PAFAH2** | 0.932 |
+| LPCAT2 | **LPCAT4** | 0.939 |
+| LPCAT2 | **CEPT1** | 0.952 |
+| LPCAT2 | **PLA2G7** | 0.97 |
+| PLA2G7 | **PLA2G2F** | 0.72 |
+| PLA2G7 | **PLA2G12B** | 0.756 |
+| PLA2G7 | **PLA2G4D** | 0.758 |
+| PLA2G7 | **PLA2G4C** | 0.803 |
+| PLA2G7 | **PLA2G6** | 0.831 |
+| PLA2G7 | **PLA2G10** | 0.877 |
+| PLA2G7 | **PAFAH1B1** | 0.906 |
+| PLA2G7 | **LPCAT4** | 0.908 |
+| PLA2G7 | **CEPT1** | 0.91 |
+| PLA2G7 | **PAFAH2** | 0.91 |
+| PLA2G7 | **PAFAH1B3** | 0.924 |
+| PLA2G7 | **PAFAH1B2** | 0.929 |
+| PLA2G7 | **LPCAT1** | 0.952 |
+| LPCAT1 | **PLA2G4D** | 0.688 |
+| LPCAT1 | **PLA2G12B** | 0.724 |
+| LPCAT1 | **PLA2G2F** | 0.725 |
+| LPCAT1 | **PLA2G6** | 0.728 |
+| LPCAT1 | **PLA2G4C** | 0.729 |
+| LPCAT1 | **PLA2G10** | 0.742 |
+| LPCAT1 | **PAFAH1B1** | 0.901 |
+| LPCAT1 | **PAFAH1B2** | 0.91 |
+| LPCAT1 | **PAFAH2** | 0.919 |
+| LPCAT1 | **LPCAT4** | 0.922 |
+| LPCAT1 | **PAFAH1B3** | 0.931 |
+| LPCAT1 | **CEPT1** | 0.942 |
+| PLA2G4D | **PLA2G6** | 0.656 |
+| PLA2G4D | **LPCAT4** | 0.661 |
+| PLA2G4D | **PAFAH1B3** | 0.674 |
+| PLA2G4D | **PAFAH1B1** | 0.677 |
+| PLA2G4D | **CEPT1** | 0.692 |
+| PLA2G4D | **PLA2G2F** | 0.692 |
+| PLA2G4D | **PAFAH1B2** | 0.706 |
+| PLA2G4D | **PAFAH2** | 0.751 |
+| LPCAT4 | **PLA2G12B** | 0.65 |
+| LPCAT4 | **PLA2G2F** | 0.669 |
+| LPCAT4 | **PLA2G4C** | 0.696 |
+| LPCAT4 | **PLA2G10** | 0.735 |
+| LPCAT4 | **PLA2G6** | 0.753 |
+| LPCAT4 | **PAFAH1B1** | 0.9 |
+| LPCAT4 | **PAFAH1B2** | 0.902 |
+| LPCAT4 | **PAFAH1B3** | 0.903 |
+| LPCAT4 | **PAFAH2** | 0.909 |
+| LPCAT4 | **CEPT1** | 0.929 |
+| PLA2G6 | **PLA2G12B** | 0.406 |
+| PLA2G6 | **PLA2G2F** | 0.503 |
+| PLA2G6 | **PLA2G4C** | 0.548 |
+| PLA2G6 | **PAFAH1B1** | 0.67 |
+| PLA2G6 | **CEPT1** | 0.673 |
+| PLA2G6 | **PAFAH1B3** | 0.683 |
+| PLA2G6 | **PLA2G10** | 0.685 |
+| PLA2G6 | **PAFAH1B2** | 0.689 |
+| PLA2G6 | **PAFAH2** | 0.766 |
+| PLA2G12B | **PLA2G4C** | 0.486 |
+| PLA2G12B | **PLA2G2F** | 0.632 |
+| PLA2G12B | **CEPT1** | 0.654 |
+| PLA2G12B | **PAFAH1B3** | 0.664 |
+| PLA2G12B | **PAFAH1B1** | 0.686 |
+| PLA2G12B | **PAFAH1B2** | 0.723 |
+| PLA2G12B | **PAFAH2** | 0.74 |
+| PLA2G12B | **PLA2G10** | 0.917 |
+| PAFAH2 | **PLA2G10** | 0.735 |
+| PAFAH2 | **PLA2G4C** | 0.735 |
+| PAFAH2 | **PLA2G2F** | 0.74 |
+| PAFAH2 | **CEPT1** | 0.923 |
+| PAFAH2 | **PAFAH1B3** | 0.94 |
+| PAFAH2 | **PAFAH1B2** | 0.944 |
+| PAFAH2 | **PAFAH1B1** | 0.983 |
+| PLA2G2F | **PLA2G4C** | 0.451 |
+| PLA2G2F | **PLA2G10** | 0.587 |
+| PLA2G2F | **CEPT1** | 0.65 |
+| PLA2G2F | **PAFAH1B3** | 0.672 |
+| PLA2G2F | **PAFAH1B1** | 0.692 |
+| PLA2G2F | **PAFAH1B2** | 0.733 |
+| PAFAH1B1 | **PLA2G10** | 0.671 |
+| PAFAH1B1 | **PLA2G4C** | 0.686 |
+| PAFAH1B1 | **CEPT1** | 0.901 |
+| PAFAH1B1 | **PAFAH1B3** | 0.998 |
+| PAFAH1B1 | **PAFAH1B2** | 0.999 |
+| PLA2G10 | **PLA2G4C** | 0.449 |
+| PLA2G10 | **CEPT1** | 0.674 |
+| PLA2G10 | **PAFAH1B3** | 0.685 |
+| PLA2G10 | **PAFAH1B2** | 0.716 |
+| PAFAH1B2 | **PLA2G4C** | 0.717 |
+| PAFAH1B2 | **CEPT1** | 0.9 |
+| PAFAH1B2 | **PAFAH1B3** | 0.998 |
+| CEPT1 | **PLA2G4C** | 0.685 |
+| CEPT1 | **PAFAH1B3** | 0.901 |
+| PAFAH1B3 | **PLA2G4C** | 0.671 |
+

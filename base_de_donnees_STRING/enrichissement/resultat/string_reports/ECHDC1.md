@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ECHDC1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ECHDC1
+Identifiant STRING officiel : `9606.ENSP00000436585`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EHHADH | **MCEE** | 0.461 |
+| EHHADH | **DBT** | 0.837 |
+| EHHADH | **ACSS3** | 0.894 |
+| EHHADH | **PCCA** | 0.895 |
+| EHHADH | **ACSS1** | 0.906 |
+| EHHADH | **ACSS2** | 0.913 |
+| EHHADH | **PCCB** | 0.914 |
+| EHHADH | **ECHDC1** | 0.923 |
+| EHHADH | **ALDH6A1** | 0.953 |
+| EHHADH | **ACADS** | 0.984 |
+| EHHADH | **ACOX3** | 0.993 |
+| EHHADH | **ACAA2** | 0.995 |
+| EHHADH | **ACAA1** | 0.998 |
+| EHHADH | **ACOX1** | 0.998 |
+| EHHADH | **HADHB** | 0.999 |
+| ACADS | **MCEE** | 0.5 |
+| ACADS | **ACOX3** | 0.925 |
+| ACADS | **ACSS3** | 0.941 |
+| ACADS | **DBT** | 0.942 |
+| ACADS | **ALDH6A1** | 0.948 |
+| ACADS | **ACSS2** | 0.95 |
+| ACADS | **ACSS1** | 0.95 |
+| ACADS | **ACOX1** | 0.951 |
+| ACADS | **PCCA** | 0.957 |
+| ACADS | **PCCB** | 0.962 |
+| ACADS | **ECHDC1** | 0.982 |
+| ACADS | **ACAA2** | 0.982 |
+| ACADS | **HADHB** | 0.985 |
+| ACADS | **ACAA1** | 0.992 |
+| MCEE | **ACAA1** | 0.41 |
+| MCEE | **ACAA2** | 0.413 |
+| MCEE | **HADHB** | 0.445 |
+| MCEE | **DBT** | 0.482 |
+| MCEE | **ECHDC1** | 0.956 |
+| MCEE | **PCCA** | 0.977 |
+| MCEE | **PCCB** | 0.987 |
+| ACSS2 | **ACSS1** | 0.909 |
+| ACSS2 | **ACAA1** | 0.918 |
+| ACSS2 | **ACSS3** | 0.921 |
+| ACSS2 | **ALDH6A1** | 0.925 |
+| ACSS2 | **PCCA** | 0.925 |
+| ACSS2 | **DBT** | 0.928 |
+| ACSS2 | **PCCB** | 0.929 |
+| ACSS2 | **HADHB** | 0.932 |
+| ACSS2 | **ACAA2** | 0.933 |
+| ACSS2 | **ECHDC1** | 0.942 |
+| ACSS2 | **ACOX3** | 0.955 |
+| ACSS2 | **ACOX1** | 0.959 |
+| ACAA2 | **DBT** | 0.865 |
+| ACAA2 | **ACSS3** | 0.927 |
+| ACAA2 | **ACAA1** | 0.935 |
+| ACAA2 | **ACSS1** | 0.937 |
+| ACAA2 | **PCCA** | 0.955 |
+| ACAA2 | **ALDH6A1** | 0.957 |
+| ACAA2 | **ECHDC1** | 0.957 |
+| ACAA2 | **HADHB** | 0.961 |
+| ACAA2 | **PCCB** | 0.962 |
+| ACAA2 | **ACOX3** | 0.986 |
+| ACAA2 | **ACOX1** | 0.989 |
+| ACOX1 | **DBT** | 0.937 |
+| ACOX1 | **ACOX3** | 0.938 |
+| ACOX1 | **PCCA** | 0.942 |
+| ACOX1 | **ALDH6A1** | 0.943 |
+| ACOX1 | **ACSS3** | 0.948 |
+| ACOX1 | **PCCB** | 0.952 |
+| ACOX1 | **ACSS1** | 0.956 |
+| ACOX1 | **ECHDC1** | 0.966 |
+| ACOX1 | **HADHB** | 0.996 |
+| ACOX1 | **ACAA1** | 0.998 |
+| ACSS1 | **ACAA1** | 0.911 |
+| ACSS1 | **ACSS3** | 0.921 |
+| ACSS1 | **DBT** | 0.929 |
+| ACSS1 | **HADHB** | 0.931 |
+| ACSS1 | **PCCA** | 0.932 |
+| ACSS1 | **PCCB** | 0.935 |
+| ACSS1 | **ECHDC1** | 0.942 |
+| ACSS1 | **ALDH6A1** | 0.945 |
+| ACSS1 | **ACOX3** | 0.954 |
+| HADHB | **DBT** | 0.843 |
+| HADHB | **ACSS3** | 0.911 |
+| HADHB | **ECHDC1** | 0.939 |
+| HADHB | **ALDH6A1** | 0.947 |
+| HADHB | **ACAA1** | 0.952 |
+| HADHB | **PCCA** | 0.953 |
+| HADHB | **PCCB** | 0.966 |
+| HADHB | **ACOX3** | 0.99 |
+| ACAA1 | **DBT** | 0.848 |
+| ACAA1 | **ACSS3** | 0.897 |
+| ACAA1 | **PCCA** | 0.948 |
+| ACAA1 | **ALDH6A1** | 0.952 |
+| ACAA1 | **ECHDC1** | 0.954 |
+| ACAA1 | **PCCB** | 0.955 |
+| ACAA1 | **ACOX3** | 0.995 |
+| ACOX3 | **ALDH6A1** | 0.924 |
+| ACOX3 | **DBT** | 0.934 |
+| ACOX3 | **PCCA** | 0.936 |
+| ACOX3 | **ACSS3** | 0.936 |
+| ACOX3 | **PCCB** | 0.946 |
+| ACOX3 | **ECHDC1** | 0.954 |
+| DBT | **ECHDC1** | 0.923 |
+| DBT | **ACSS3** | 0.929 |
+| DBT | **ALDH6A1** | 0.956 |
+| DBT | **PCCA** | 0.961 |
+| DBT | **PCCB** | 0.972 |
+| PCCA | **ACSS3** | 0.942 |
+| PCCA | **ECHDC1** | 0.945 |
+| PCCA | **ALDH6A1** | 0.96 |
+| PCCA | **PCCB** | 0.999 |
+| PCCB | **ACSS3** | 0.942 |
+| PCCB | **ECHDC1** | 0.948 |
+| PCCB | **ALDH6A1** | 0.967 |
+| ECHDC1 | **ALDH6A1** | 0.942 |
+| ECHDC1 | **ACSS3** | 0.946 |
+| ACSS3 | **ALDH6A1** | 0.931 |
+

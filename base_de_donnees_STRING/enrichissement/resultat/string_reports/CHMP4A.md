@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CHMP4A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHMP4A
+Identifiant STRING officiel : `9606.ENSP00000476412`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VPS4B | **PTPN23** | 0.617 |
+| VPS4B | **STAM** | 0.68 |
+| VPS4B | **UBAP1** | 0.691 |
+| VPS4B | **CHMP7** | 0.774 |
+| VPS4B | **RNF103-CHMP3** | 0.956 |
+| VPS4B | **TSG101** | 0.959 |
+| VPS4B | **CHMP4A** | 0.975 |
+| VPS4B | **CHMP3** | 0.978 |
+| VPS4B | **PDCD6IP** | 0.987 |
+| VPS4B | **VPS4A** | 0.988 |
+| VPS4B | **CHMP6** | 0.995 |
+| VPS4B | **CHMP1B** | 0.996 |
+| VPS4B | **CHMP2B** | 0.998 |
+| VPS4B | **CHMP2A** | 0.998 |
+| VPS4B | **CHMP1A** | 0.999 |
+| TSG101 | **CHMP1A** | 0.862 |
+| TSG101 | **RNF103-CHMP3** | 0.887 |
+| TSG101 | **PTPN23** | 0.916 |
+| TSG101 | **CHMP7** | 0.946 |
+| TSG101 | **CHMP2B** | 0.953 |
+| TSG101 | **CHMP1B** | 0.962 |
+| TSG101 | **VPS4A** | 0.965 |
+| TSG101 | **CHMP2A** | 0.988 |
+| TSG101 | **CHMP3** | 0.988 |
+| TSG101 | **CHMP4A** | 0.991 |
+| TSG101 | **CHMP6** | 0.996 |
+| TSG101 | **STAM** | 0.996 |
+| TSG101 | **UBAP1** | 0.999 |
+| TSG101 | **PDCD6IP** | 0.999 |
+| VPS4A | **STAM** | 0.51 |
+| VPS4A | **PTPN23** | 0.646 |
+| VPS4A | **UBAP1** | 0.698 |
+| VPS4A | **CHMP7** | 0.812 |
+| VPS4A | **RNF103-CHMP3** | 0.962 |
+| VPS4A | **PDCD6IP** | 0.963 |
+| VPS4A | **CHMP4A** | 0.986 |
+| VPS4A | **CHMP2B** | 0.986 |
+| VPS4A | **CHMP3** | 0.989 |
+| VPS4A | **CHMP2A** | 0.998 |
+| VPS4A | **CHMP1B** | 0.999 |
+| VPS4A | **CHMP1A** | 0.999 |
+| VPS4A | **CHMP6** | 0.999 |
+| CHMP2B | **PDCD6IP** | 0.654 |
+| CHMP2B | **RNF103-CHMP3** | 0.906 |
+| CHMP2B | **UBAP1** | 0.939 |
+| CHMP2B | **STAM** | 0.949 |
+| CHMP2B | **CHMP7** | 0.973 |
+| CHMP2B | **CHMP6** | 0.978 |
+| CHMP2B | **CHMP2A** | 0.987 |
+| CHMP2B | **CHMP4A** | 0.991 |
+| CHMP2B | **CHMP1B** | 0.994 |
+| CHMP2B | **CHMP3** | 0.996 |
+| CHMP2B | **CHMP1A** | 0.996 |
+| CHMP3 | **PTPN23** | 0.558 |
+| CHMP3 | **PDCD6IP** | 0.853 |
+| CHMP3 | **RNF103-CHMP3** | 0.942 |
+| CHMP3 | **UBAP1** | 0.949 |
+| CHMP3 | **STAM** | 0.962 |
+| CHMP3 | **CHMP7** | 0.989 |
+| CHMP3 | **CHMP1A** | 0.998 |
+| CHMP3 | **CHMP4A** | 0.999 |
+| CHMP3 | **CHMP6** | 0.999 |
+| CHMP3 | **CHMP2A** | 0.999 |
+| CHMP3 | **CHMP1B** | 0.999 |
+| PTPN23 | **CHMP1B** | 0.451 |
+| PTPN23 | **CHMP1A** | 0.478 |
+| PTPN23 | **CHMP2A** | 0.501 |
+| PTPN23 | **RNF103-CHMP3** | 0.534 |
+| PTPN23 | **PDCD6IP** | 0.55 |
+| PTPN23 | **CHMP6** | 0.589 |
+| PTPN23 | **STAM** | 0.724 |
+| PTPN23 | **CHMP4A** | 0.984 |
+| PTPN23 | **UBAP1** | 0.996 |
+| CHMP6 | **PDCD6IP** | 0.9 |
+| CHMP6 | **UBAP1** | 0.956 |
+| CHMP6 | **STAM** | 0.964 |
+| CHMP6 | **CHMP7** | 0.969 |
+| CHMP6 | **CHMP1B** | 0.99 |
+| CHMP6 | **CHMP1A** | 0.993 |
+| CHMP6 | **CHMP4A** | 0.998 |
+| CHMP6 | **CHMP2A** | 0.999 |
+| CHMP6 | **RNF103-CHMP3** | 0.999 |
+| STAM | **RNF103-CHMP3** | 0.63 |
+| STAM | **PDCD6IP** | 0.687 |
+| STAM | **CHMP1A** | 0.816 |
+| STAM | **CHMP7** | 0.915 |
+| STAM | **CHMP1B** | 0.934 |
+| STAM | **UBAP1** | 0.944 |
+| STAM | **CHMP2A** | 0.957 |
+| STAM | **CHMP4A** | 0.973 |
+| CHMP7 | **PDCD6IP** | 0.669 |
+| CHMP7 | **RNF103-CHMP3** | 0.894 |
+| CHMP7 | **UBAP1** | 0.941 |
+| CHMP7 | **CHMP1A** | 0.945 |
+| CHMP7 | **CHMP1B** | 0.983 |
+| CHMP7 | **CHMP4A** | 0.984 |
+| CHMP7 | **CHMP2A** | 0.99 |
+| CHMP1A | **PDCD6IP** | 0.709 |
+| CHMP1A | **UBAP1** | 0.816 |
+| CHMP1A | **CHMP4A** | 0.983 |
+| CHMP1A | **CHMP1B** | 0.991 |
+| CHMP1A | **RNF103-CHMP3** | 0.997 |
+| CHMP1A | **CHMP2A** | 0.999 |
+| PDCD6IP | **CHMP1B** | 0.517 |
+| PDCD6IP | **UBAP1** | 0.662 |
+| PDCD6IP | **RNF103-CHMP3** | 0.714 |
+| PDCD6IP | **CHMP2A** | 0.911 |
+| PDCD6IP | **CHMP4A** | 0.999 |
+| CHMP1B | **UBAP1** | 0.938 |
+| CHMP1B | **CHMP4A** | 0.971 |
+| CHMP1B | **RNF103-CHMP3** | 0.995 |
+| CHMP1B | **CHMP2A** | 0.997 |
+| CHMP2A | **UBAP1** | 0.942 |
+| CHMP2A | **RNF103-CHMP3** | 0.998 |
+| CHMP2A | **CHMP4A** | 0.999 |
+| RNF103-CHMP3 | **UBAP1** | 0.482 |
+| RNF103-CHMP3 | **CHMP4A** | 0.999 |
+| CHMP4A | **UBAP1** | 0.971 |
+

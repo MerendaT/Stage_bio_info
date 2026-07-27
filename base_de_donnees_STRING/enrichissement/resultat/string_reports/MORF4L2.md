@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MORF4L2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MORF4L2
+Identifiant STRING officiel : `9606.ENSP00000394417`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| YEATS4 | **MORF4L2** | 0.992 |
+| YEATS4 | **EPC2** | 0.993 |
+| YEATS4 | **ACTL6A** | 0.994 |
+| YEATS4 | **TRRAP** | 0.997 |
+| YEATS4 | **VPS72** | 0.998 |
+| YEATS4 | **EPC1** | 0.998 |
+| YEATS4 | **MRGBP** | 0.998 |
+| YEATS4 | **BRD8** | 0.998 |
+| YEATS4 | **ING3** | 0.998 |
+| YEATS4 | **KAT5** | 0.999 |
+| YEATS4 | **DMAP1** | 0.999 |
+| YEATS4 | **MORF4L1** | 0.999 |
+| YEATS4 | **MEAF6** | 0.999 |
+| YEATS4 | **EP400** | 0.999 |
+| BRD8 | **PHF12** | 0.511 |
+| BRD8 | **EPC1** | 0.957 |
+| BRD8 | **EPC2** | 0.983 |
+| BRD8 | **VPS72** | 0.987 |
+| BRD8 | **MORF4L2** | 0.991 |
+| BRD8 | **ACTL6A** | 0.993 |
+| BRD8 | **MRGBP** | 0.994 |
+| BRD8 | **ING3** | 0.997 |
+| BRD8 | **MEAF6** | 0.998 |
+| BRD8 | **TRRAP** | 0.998 |
+| BRD8 | **KAT5** | 0.998 |
+| BRD8 | **MORF4L1** | 0.998 |
+| BRD8 | **EP400** | 0.999 |
+| BRD8 | **DMAP1** | 0.999 |
+| EPC2 | **EPC1** | 0.809 |
+| EPC2 | **VPS72** | 0.926 |
+| EPC2 | **EP400** | 0.966 |
+| EPC2 | **MORF4L2** | 0.978 |
+| EPC2 | **ACTL6A** | 0.983 |
+| EPC2 | **KAT5** | 0.987 |
+| EPC2 | **MORF4L1** | 0.991 |
+| EPC2 | **MRGBP** | 0.991 |
+| EPC2 | **ING3** | 0.993 |
+| EPC2 | **TRRAP** | 0.997 |
+| EPC2 | **DMAP1** | 0.997 |
+| EPC2 | **MEAF6** | 0.998 |
+| EPC1 | **VPS72** | 0.944 |
+| EPC1 | **EP400** | 0.976 |
+| EPC1 | **MORF4L2** | 0.985 |
+| EPC1 | **ACTL6A** | 0.99 |
+| EPC1 | **MRGBP** | 0.995 |
+| EPC1 | **ING3** | 0.996 |
+| EPC1 | **KAT5** | 0.997 |
+| EPC1 | **MORF4L1** | 0.997 |
+| EPC1 | **TRRAP** | 0.998 |
+| EPC1 | **DMAP1** | 0.999 |
+| EPC1 | **MEAF6** | 0.999 |
+| ING3 | **VPS72** | 0.964 |
+| ING3 | **MORF4L2** | 0.983 |
+| ING3 | **EP400** | 0.989 |
+| ING3 | **MRGBP** | 0.993 |
+| ING3 | **ACTL6A** | 0.993 |
+| ING3 | **MEAF6** | 0.998 |
+| ING3 | **DMAP1** | 0.998 |
+| ING3 | **TRRAP** | 0.998 |
+| ING3 | **KAT5** | 0.999 |
+| ING3 | **MORF4L1** | 0.999 |
+| PHF12 | **EP400** | 0.521 |
+| PHF12 | **MRGBP** | 0.574 |
+| PHF12 | **MORF4L2** | 0.981 |
+| PHF12 | **MORF4L1** | 0.999 |
+| MORF4L1 | **MORF4L2** | 0.987 |
+| MORF4L1 | **VPS72** | 0.991 |
+| MORF4L1 | **ACTL6A** | 0.995 |
+| MORF4L1 | **EP400** | 0.997 |
+| MORF4L1 | **DMAP1** | 0.998 |
+| MORF4L1 | **TRRAP** | 0.998 |
+| MORF4L1 | **MEAF6** | 0.999 |
+| MORF4L1 | **KAT5** | 0.999 |
+| MORF4L1 | **MRGBP** | 0.999 |
+| KAT5 | **VPS72** | 0.996 |
+| KAT5 | **MRGBP** | 0.997 |
+| KAT5 | **ACTL6A** | 0.997 |
+| KAT5 | **MORF4L2** | 0.997 |
+| KAT5 | **EP400** | 0.999 |
+| KAT5 | **MEAF6** | 0.999 |
+| KAT5 | **DMAP1** | 0.999 |
+| KAT5 | **TRRAP** | 0.999 |
+| VPS72 | **ACTL6A** | 0.975 |
+| VPS72 | **MORF4L2** | 0.978 |
+| VPS72 | **MEAF6** | 0.981 |
+| VPS72 | **EP400** | 0.988 |
+| VPS72 | **MRGBP** | 0.991 |
+| VPS72 | **TRRAP** | 0.996 |
+| VPS72 | **DMAP1** | 0.999 |
+| TRRAP | **MORF4L2** | 0.997 |
+| TRRAP | **DMAP1** | 0.999 |
+| TRRAP | **ACTL6A** | 0.999 |
+| TRRAP | **MRGBP** | 0.999 |
+| TRRAP | **MEAF6** | 0.999 |
+| TRRAP | **EP400** | 0.999 |
+| MRGBP | **ACTL6A** | 0.985 |
+| MRGBP | **EP400** | 0.988 |
+| MRGBP | **MEAF6** | 0.997 |
+| MRGBP | **MORF4L2** | 0.999 |
+| MRGBP | **DMAP1** | 0.999 |
+| DMAP1 | **MORF4L2** | 0.986 |
+| DMAP1 | **ACTL6A** | 0.999 |
+| DMAP1 | **MEAF6** | 0.999 |
+| DMAP1 | **EP400** | 0.999 |
+| MEAF6 | **MORF4L2** | 0.986 |
+| MEAF6 | **EP400** | 0.994 |
+| MEAF6 | **ACTL6A** | 0.995 |
+| EP400 | **MORF4L2** | 0.978 |
+| EP400 | **ACTL6A** | 0.999 |
+| MORF4L2 | **ACTL6A** | 0.976 |
+

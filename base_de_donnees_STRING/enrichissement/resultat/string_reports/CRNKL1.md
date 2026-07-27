@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CRNKL1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CRNKL1
+Identifiant STRING officiel : `9606.ENSP00000366557`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AQR | **SYF2** | 0.996 |
+| AQR | **SNRPD2** | 0.996 |
+| AQR | **CWC22** | 0.996 |
+| AQR | **SNRPD3** | 0.997 |
+| AQR | **SNRPF** | 0.997 |
+| AQR | **SNRPD1** | 0.997 |
+| AQR | **DHX8** | 0.998 |
+| AQR | **BUD31** | 0.998 |
+| AQR | **XAB2** | 0.999 |
+| AQR | **RBM22** | 0.999 |
+| AQR | **CDC5L** | 0.999 |
+| AQR | **PRPF19** | 0.999 |
+| AQR | **CDC40** | 0.999 |
+| AQR | **CRNKL1** | 0.999 |
+| AQR | **SNRPA1** | 0.999 |
+| RBM22 | **DHX8** | 0.996 |
+| RBM22 | **SNRPD3** | 0.997 |
+| RBM22 | **SNRPD2** | 0.997 |
+| RBM22 | **SNRPD1** | 0.997 |
+| RBM22 | **CWC22** | 0.998 |
+| RBM22 | **SNRPF** | 0.999 |
+| RBM22 | **SYF2** | 0.999 |
+| RBM22 | **BUD31** | 0.999 |
+| RBM22 | **XAB2** | 0.999 |
+| RBM22 | **CDC5L** | 0.999 |
+| RBM22 | **SNRPA1** | 0.999 |
+| RBM22 | **CRNKL1** | 0.999 |
+| RBM22 | **PRPF19** | 0.999 |
+| RBM22 | **CDC40** | 0.999 |
+| SNRPD3 | **CWC22** | 0.99 |
+| SNRPD3 | **SYF2** | 0.991 |
+| SNRPD3 | **DHX8** | 0.992 |
+| SNRPD3 | **XAB2** | 0.998 |
+| SNRPD3 | **CRNKL1** | 0.999 |
+| SNRPD3 | **SNRPA1** | 0.999 |
+| SNRPD3 | **CDC40** | 0.999 |
+| SNRPD3 | **PRPF19** | 0.999 |
+| SNRPD3 | **SNRPD1** | 0.999 |
+| SNRPD3 | **SNRPD2** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **BUD31** | 0.999 |
+| SNRPD3 | **CDC5L** | 0.999 |
+| PRPF19 | **DHX8** | 0.998 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **XAB2** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BUD31** | 0.999 |
+| PRPF19 | **SNRPF** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **SNRPD1** | 0.999 |
+| PRPF19 | **SNRPD2** | 0.999 |
+| PRPF19 | **CRNKL1** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **CWC22** | 0.999 |
+| SYF2 | **SNRPD1** | 0.991 |
+| SYF2 | **SNRPD2** | 0.991 |
+| SYF2 | **SNRPF** | 0.992 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **DHX8** | 0.997 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **XAB2** | 0.999 |
+| SYF2 | **BUD31** | 0.999 |
+| SNRPA1 | **DHX8** | 0.995 |
+| SNRPA1 | **CWC22** | 0.998 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **BUD31** | 0.999 |
+| SNRPA1 | **XAB2** | 0.999 |
+| SNRPA1 | **CDC5L** | 0.999 |
+| SNRPA1 | **CRNKL1** | 0.999 |
+| SNRPA1 | **SNRPD1** | 0.999 |
+| SNRPA1 | **SNRPD2** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| DHX8 | **SNRPF** | 0.99 |
+| DHX8 | **SNRPD2** | 0.993 |
+| DHX8 | **SNRPD1** | 0.993 |
+| DHX8 | **CWC22** | 0.996 |
+| DHX8 | **BUD31** | 0.997 |
+| DHX8 | **XAB2** | 0.998 |
+| DHX8 | **CDC5L** | 0.999 |
+| DHX8 | **CRNKL1** | 0.999 |
+| DHX8 | **CDC40** | 0.999 |
+| SNRPF | **CWC22** | 0.99 |
+| SNRPF | **XAB2** | 0.998 |
+| SNRPF | **CDC5L** | 0.999 |
+| SNRPF | **BUD31** | 0.999 |
+| SNRPF | **CDC40** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **SNRPD1** | 0.999 |
+| SNRPF | **CRNKL1** | 0.999 |
+| SNRPD1 | **CWC22** | 0.992 |
+| SNRPD1 | **CDC5L** | 0.999 |
+| SNRPD1 | **XAB2** | 0.999 |
+| SNRPD1 | **BUD31** | 0.999 |
+| SNRPD1 | **CDC40** | 0.999 |
+| SNRPD1 | **SNRPD2** | 0.999 |
+| SNRPD1 | **CRNKL1** | 0.999 |
+| SNRPD2 | **CWC22** | 0.993 |
+| SNRPD2 | **XAB2** | 0.998 |
+| SNRPD2 | **BUD31** | 0.999 |
+| SNRPD2 | **CDC5L** | 0.999 |
+| SNRPD2 | **CRNKL1** | 0.999 |
+| SNRPD2 | **CDC40** | 0.999 |
+| XAB2 | **CDC5L** | 0.999 |
+| XAB2 | **BUD31** | 0.999 |
+| XAB2 | **CDC40** | 0.999 |
+| XAB2 | **CWC22** | 0.999 |
+| XAB2 | **CRNKL1** | 0.999 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| CRNKL1 | **BUD31** | 0.999 |
+| CRNKL1 | **CWC22** | 0.999 |
+| BUD31 | **CWC22** | 0.999 |
+

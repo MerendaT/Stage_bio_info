@@ -1,0 +1,8 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LRP4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+Aucune interaction valide trouvée dans STRING pour LRP4 (TaxID: 9606).

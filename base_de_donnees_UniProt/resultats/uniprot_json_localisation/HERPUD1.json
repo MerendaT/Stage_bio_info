@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q15011",
+      "uniProtkbId": "HERP1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "HERPUD1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16289116"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18307982"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28827405"
+                }
+              ],
+              "value": "Component of the endoplasmic reticulum quality control (ERQC) system also called ER-associated degradation (ERAD) involved in ubiquitin-dependent degradation of misfolded endoplasmic reticulum proteins (PubMed:16289116, PubMed:28827405). Could enhance presenilin-mediated amyloid-beta protein 40 generation. Binds to ubiquilins and this interaction is required for efficient degradation of CD3D via the ERAD pathway (PubMed:18307982)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10922362"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10922362"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15102845"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19788048"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22045699"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10922362"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044322",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum quality control compartment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000836",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Hrd1p ubiquitin ligase complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28827405"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990037",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Lewy body core"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19788048"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19946888"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044325",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane transporter binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "22045699"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990756",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin-like ligase-substrate adaptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032469",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum calcium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15102845"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22045699"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030968",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036503",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ERAD pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "28827405"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902236",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15102845"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2001243",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of intrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "22045699"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904294",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of ERAD pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22045699"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000060",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22045699"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045047",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein targeting to ER"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904292",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of ERAD pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "19788048"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to unfolded protein"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "10708769"
+            },
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "10922362"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030970",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retrograde protein transport, ER to cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25660456"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000000B03"
+      }
+    }
+  ]
+}

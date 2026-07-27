@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UQCR10
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UQCR10
+Identifiant STRING officiel : `9606.ENSP00000332887`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UQCRC1 | **NDUFA11** | 0.969 |
+| UQCRC1 | **NDUFS6** | 0.99 |
+| UQCRC1 | **NDUFA8** | 0.992 |
+| UQCRC1 | **NDUFA2** | 0.992 |
+| UQCRC1 | **NDUFA9** | 0.998 |
+| UQCRC1 | **UQCR10** | 0.999 |
+| UQCRC1 | **UQCRH** | 0.999 |
+| UQCRC1 | **UQCRFS1** | 0.999 |
+| UQCRC1 | **COX5B** | 0.999 |
+| UQCRC1 | **UQCRC2** | 0.999 |
+| UQCRC1 | **CYC1** | 0.999 |
+| UQCRC1 | **NDUFA12** | 0.999 |
+| UQCRC1 | **UQCRQ** | 0.999 |
+| UQCRC1 | **MT-CYB** | 0.999 |
+| UQCRC1 | **COX5A** | 0.999 |
+| NDUFA2 | **MT-CYB** | 0.925 |
+| NDUFA2 | **COX5A** | 0.972 |
+| NDUFA2 | **UQCRC2** | 0.974 |
+| NDUFA2 | **COX5B** | 0.994 |
+| NDUFA2 | **CYC1** | 0.994 |
+| NDUFA2 | **UQCRH** | 0.996 |
+| NDUFA2 | **UQCRFS1** | 0.998 |
+| NDUFA2 | **UQCRQ** | 0.998 |
+| NDUFA2 | **UQCR10** | 0.999 |
+| NDUFA2 | **NDUFA8** | 0.999 |
+| NDUFA2 | **NDUFA11** | 0.999 |
+| NDUFA2 | **NDUFA9** | 0.999 |
+| NDUFA2 | **NDUFS6** | 0.999 |
+| NDUFA2 | **NDUFA12** | 0.999 |
+| COX5B | **NDUFA9** | 0.987 |
+| COX5B | **NDUFA12** | 0.989 |
+| COX5B | **NDUFA8** | 0.992 |
+| COX5B | **MT-CYB** | 0.992 |
+| COX5B | **NDUFA11** | 0.993 |
+| COX5B | **NDUFS6** | 0.995 |
+| COX5B | **UQCRH** | 0.998 |
+| COX5B | **UQCR10** | 0.999 |
+| COX5B | **UQCRFS1** | 0.999 |
+| COX5B | **UQCRC2** | 0.999 |
+| COX5B | **CYC1** | 0.999 |
+| COX5B | **UQCRQ** | 0.999 |
+| COX5B | **COX5A** | 0.999 |
+| NDUFA9 | **UQCRH** | 0.971 |
+| NDUFA9 | **MT-CYB** | 0.981 |
+| NDUFA9 | **UQCRQ** | 0.985 |
+| NDUFA9 | **COX5A** | 0.991 |
+| NDUFA9 | **UQCRC2** | 0.997 |
+| NDUFA9 | **CYC1** | 0.998 |
+| NDUFA9 | **UQCR10** | 0.999 |
+| NDUFA9 | **NDUFA8** | 0.999 |
+| NDUFA9 | **NDUFA11** | 0.999 |
+| NDUFA9 | **UQCRFS1** | 0.999 |
+| NDUFA9 | **NDUFA12** | 0.999 |
+| NDUFA9 | **NDUFS6** | 0.999 |
+| UQCRC2 | **NDUFA11** | 0.914 |
+| UQCRC2 | **NDUFS6** | 0.964 |
+| UQCRC2 | **NDUFA12** | 0.983 |
+| UQCRC2 | **NDUFA8** | 0.988 |
+| UQCRC2 | **UQCRFS1** | 0.999 |
+| UQCRC2 | **CYC1** | 0.999 |
+| UQCRC2 | **UQCR10** | 0.999 |
+| UQCRC2 | **UQCRH** | 0.999 |
+| UQCRC2 | **UQCRQ** | 0.999 |
+| UQCRC2 | **MT-CYB** | 0.999 |
+| UQCRC2 | **COX5A** | 0.999 |
+| NDUFS6 | **MT-CYB** | 0.947 |
+| NDUFS6 | **COX5A** | 0.987 |
+| NDUFS6 | **UQCRH** | 0.995 |
+| NDUFS6 | **UQCRQ** | 0.997 |
+| NDUFS6 | **CYC1** | 0.998 |
+| NDUFS6 | **NDUFA12** | 0.999 |
+| NDUFS6 | **NDUFA8** | 0.999 |
+| NDUFS6 | **UQCR10** | 0.999 |
+| NDUFS6 | **NDUFA11** | 0.999 |
+| NDUFS6 | **UQCRFS1** | 0.999 |
+| UQCRFS1 | **NDUFA8** | 0.997 |
+| UQCRFS1 | **MT-CYB** | 0.999 |
+| UQCRFS1 | **COX5A** | 0.999 |
+| UQCRFS1 | **UQCRQ** | 0.999 |
+| UQCRFS1 | **NDUFA12** | 0.999 |
+| UQCRFS1 | **NDUFA11** | 0.999 |
+| UQCRFS1 | **CYC1** | 0.999 |
+| UQCRFS1 | **UQCRH** | 0.999 |
+| UQCRFS1 | **UQCR10** | 0.999 |
+| UQCRH | **NDUFA11** | 0.964 |
+| UQCRH | **COX5A** | 0.995 |
+| UQCRH | **NDUFA8** | 0.996 |
+| UQCRH | **NDUFA12** | 0.997 |
+| UQCRH | **MT-CYB** | 0.998 |
+| UQCRH | **CYC1** | 0.999 |
+| UQCRH | **UQCR10** | 0.999 |
+| UQCRH | **UQCRQ** | 0.999 |
+| CYC1 | **NDUFA11** | 0.96 |
+| CYC1 | **NDUFA8** | 0.998 |
+| CYC1 | **NDUFA12** | 0.998 |
+| CYC1 | **UQCR10** | 0.999 |
+| CYC1 | **UQCRQ** | 0.999 |
+| CYC1 | **COX5A** | 0.999 |
+| CYC1 | **MT-CYB** | 0.999 |
+| COX5A | **NDUFA11** | 0.921 |
+| COX5A | **MT-CYB** | 0.988 |
+| COX5A | **NDUFA8** | 0.989 |
+| COX5A | **NDUFA12** | 0.997 |
+| COX5A | **UQCR10** | 0.999 |
+| COX5A | **UQCRQ** | 0.999 |
+| NDUFA12 | **MT-CYB** | 0.918 |
+| NDUFA12 | **UQCRQ** | 0.996 |
+| NDUFA12 | **NDUFA11** | 0.999 |
+| NDUFA12 | **NDUFA8** | 0.999 |
+| NDUFA12 | **UQCR10** | 0.999 |
+| UQCR10 | **NDUFA8** | 0.999 |
+| UQCR10 | **NDUFA11** | 0.999 |
+| UQCR10 | **MT-CYB** | 0.999 |
+| UQCR10 | **UQCRQ** | 0.999 |
+| MT-CYB | **NDUFA11** | 0.93 |
+| MT-CYB | **NDUFA8** | 0.932 |
+| MT-CYB | **UQCRQ** | 0.999 |
+| NDUFA8 | **UQCRQ** | 0.995 |
+| NDUFA8 | **NDUFA11** | 0.999 |
+| UQCRQ | **NDUFA11** | 0.997 |
+

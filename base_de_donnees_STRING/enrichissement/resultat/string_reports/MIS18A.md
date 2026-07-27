@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MIS18A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MIS18A
+Identifiant STRING officiel : `9606.ENSP00000290130`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| OIP5 | **RBBP4** | 0.588 |
+| OIP5 | **RBBP7** | 0.663 |
+| OIP5 | **CENPT** | 0.687 |
+| OIP5 | **CENPQ** | 0.691 |
+| OIP5 | **CENPK** | 0.734 |
+| OIP5 | **CENPI** | 0.76 |
+| OIP5 | **CENPW** | 0.805 |
+| OIP5 | **CENPH** | 0.811 |
+| OIP5 | **CENPN** | 0.819 |
+| OIP5 | **CENPC** | 0.905 |
+| OIP5 | **HJURP** | 0.957 |
+| OIP5 | **CENPA** | 0.981 |
+| OIP5 | **MIS18A** | 0.999 |
+| OIP5 | **MIS18BP1** | 0.999 |
+| DNMT3A | **RBBP7** | 0.633 |
+| DNMT3A | **RBBP4** | 0.654 |
+| DNMT3A | **CENPC** | 0.659 |
+| DNMT3A | **MIS18A** | 0.816 |
+| CENPC | **RBBP4** | 0.634 |
+| CENPC | **RBBP7** | 0.667 |
+| CENPC | **HJURP** | 0.852 |
+| CENPC | **MIS18A** | 0.895 |
+| CENPC | **MIS18BP1** | 0.912 |
+| CENPC | **CENPQ** | 0.995 |
+| CENPC | **CENPW** | 0.997 |
+| CENPC | **CENPI** | 0.998 |
+| CENPC | **CENPK** | 0.998 |
+| CENPC | **CENPN** | 0.999 |
+| CENPC | **CENPT** | 0.999 |
+| CENPC | **CENPA** | 0.999 |
+| CENPC | **CENPH** | 0.999 |
+| CENPH | **RBBP4** | 0.604 |
+| CENPH | **RBBP7** | 0.629 |
+| CENPH | **MIS18BP1** | 0.809 |
+| CENPH | **MIS18A** | 0.843 |
+| CENPH | **HJURP** | 0.886 |
+| CENPH | **CENPW** | 0.997 |
+| CENPH | **CENPQ** | 0.999 |
+| CENPH | **CENPK** | 0.999 |
+| CENPH | **CENPT** | 0.999 |
+| CENPH | **CENPI** | 0.999 |
+| CENPH | **CENPN** | 0.999 |
+| CENPH | **CENPA** | 0.999 |
+| MIS18A | **CENPT** | 0.811 |
+| MIS18A | **CENPN** | 0.823 |
+| MIS18A | **RBBP4** | 0.836 |
+| MIS18A | **CENPQ** | 0.844 |
+| MIS18A | **CENPK** | 0.846 |
+| MIS18A | **CENPW** | 0.848 |
+| MIS18A | **CENPI** | 0.854 |
+| MIS18A | **RBBP7** | 0.874 |
+| MIS18A | **CENPA** | 0.956 |
+| MIS18A | **HJURP** | 0.964 |
+| MIS18A | **MIS18BP1** | 0.999 |
+| MIS18BP1 | **CENPQ** | 0.711 |
+| MIS18BP1 | **CENPW** | 0.728 |
+| MIS18BP1 | **CENPK** | 0.741 |
+| MIS18BP1 | **CENPT** | 0.793 |
+| MIS18BP1 | **RBBP4** | 0.824 |
+| MIS18BP1 | **CENPN** | 0.844 |
+| MIS18BP1 | **RBBP7** | 0.872 |
+| MIS18BP1 | **CENPA** | 0.881 |
+| MIS18BP1 | **CENPI** | 0.909 |
+| MIS18BP1 | **HJURP** | 0.941 |
+| CENPA | **RBBP7** | 0.882 |
+| CENPA | **RBBP4** | 0.914 |
+| CENPA | **CENPQ** | 0.991 |
+| CENPA | **CENPW** | 0.991 |
+| CENPA | **CENPT** | 0.997 |
+| CENPA | **CENPK** | 0.997 |
+| CENPA | **CENPN** | 0.999 |
+| CENPA | **CENPI** | 0.999 |
+| CENPA | **HJURP** | 0.999 |
+| CENPQ | **RBBP4** | 0.514 |
+| CENPQ | **RBBP7** | 0.558 |
+| CENPQ | **HJURP** | 0.666 |
+| CENPQ | **CENPW** | 0.994 |
+| CENPQ | **CENPT** | 0.998 |
+| CENPQ | **CENPK** | 0.999 |
+| CENPQ | **CENPN** | 0.999 |
+| CENPQ | **CENPI** | 0.999 |
+| CENPW | **RBBP4** | 0.619 |
+| CENPW | **RBBP7** | 0.63 |
+| CENPW | **HJURP** | 0.83 |
+| CENPW | **CENPI** | 0.996 |
+| CENPW | **CENPK** | 0.996 |
+| CENPW | **CENPT** | 0.999 |
+| CENPW | **CENPN** | 0.999 |
+| CENPI | **RBBP4** | 0.675 |
+| CENPI | **RBBP7** | 0.748 |
+| CENPI | **HJURP** | 0.865 |
+| CENPI | **CENPT** | 0.999 |
+| CENPI | **CENPN** | 0.999 |
+| CENPI | **CENPK** | 0.999 |
+| RBBP4 | **CENPK** | 0.55 |
+| RBBP4 | **CENPN** | 0.568 |
+| RBBP4 | **CENPT** | 0.644 |
+| RBBP4 | **HJURP** | 0.975 |
+| RBBP4 | **RBBP7** | 0.999 |
+| RBBP7 | **CENPK** | 0.548 |
+| RBBP7 | **CENPN** | 0.599 |
+| RBBP7 | **CENPT** | 0.639 |
+| RBBP7 | **HJURP** | 0.917 |
+| CENPN | **HJURP** | 0.886 |
+| CENPN | **CENPT** | 0.999 |
+| CENPN | **CENPK** | 0.999 |
+| CENPK | **HJURP** | 0.864 |
+| CENPK | **CENPT** | 0.998 |
+| HJURP | **CENPT** | 0.851 |
+

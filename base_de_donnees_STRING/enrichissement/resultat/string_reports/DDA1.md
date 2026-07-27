@@ -1,0 +1,123 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : DDA1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDA1
+Identifiant STRING officiel : `9606.ENSP00000352928`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBX1 | **DCAF17** | 0.911 |
+| RBX1 | **DCAF8** | 0.948 |
+| RBX1 | **DCAF15** | 0.957 |
+| RBX1 | **DDA1** | 0.962 |
+| RBX1 | **AMBRA1** | 0.965 |
+| RBX1 | **DCAF11** | 0.978 |
+| RBX1 | **COP1** | 0.987 |
+| RBX1 | **DTL** | 0.995 |
+| RBX1 | **CUL4A** | 0.999 |
+| RBX1 | **DCAF1** | 0.999 |
+| RBX1 | **DET1** | 0.999 |
+| RBX1 | **CUL4B** | 0.999 |
+| RBX1 | **DDB1** | 0.999 |
+| RBX1 | **DDB2** | 0.999 |
+| RBM39 | **CUL4B** | 0.462 |
+| RBM39 | **CUL4A** | 0.51 |
+| RBM39 | **DDA1** | 0.968 |
+| RBM39 | **DDB1** | 0.977 |
+| RBM39 | **DCAF15** | 0.999 |
+| DCAF15 | **COP1** | 0.9 |
+| DCAF15 | **DET1** | 0.9 |
+| DCAF15 | **DCAF17** | 0.902 |
+| DCAF15 | **AMBRA1** | 0.906 |
+| DCAF15 | **DDB2** | 0.917 |
+| DCAF15 | **DTL** | 0.925 |
+| DCAF15 | **DCAF11** | 0.93 |
+| DCAF15 | **DCAF1** | 0.944 |
+| DCAF15 | **DCAF8** | 0.952 |
+| DCAF15 | **CUL4B** | 0.978 |
+| DCAF15 | **CUL4A** | 0.987 |
+| DCAF15 | **DDA1** | 0.998 |
+| DCAF15 | **DDB1** | 0.999 |
+| DDB2 | **DCAF17** | 0.9 |
+| DDB2 | **AMBRA1** | 0.906 |
+| DDB2 | **DCAF8** | 0.932 |
+| DDB2 | **DCAF11** | 0.932 |
+| DDB2 | **COP1** | 0.951 |
+| DDB2 | **DCAF1** | 0.967 |
+| DDB2 | **DDA1** | 0.971 |
+| DDB2 | **DTL** | 0.98 |
+| DDB2 | **DET1** | 0.982 |
+| DDB2 | **CUL4B** | 0.998 |
+| DDB2 | **CUL4A** | 0.999 |
+| DDB2 | **DDB1** | 0.999 |
+| DDB1 | **DCAF17** | 0.958 |
+| DDB1 | **AMBRA1** | 0.994 |
+| DDB1 | **COP1** | 0.995 |
+| DDB1 | **DCAF1** | 0.999 |
+| DDB1 | **CUL4A** | 0.999 |
+| DDB1 | **DDA1** | 0.999 |
+| DDB1 | **DCAF11** | 0.999 |
+| DDB1 | **CUL4B** | 0.999 |
+| DDB1 | **DCAF8** | 0.999 |
+| DDB1 | **DTL** | 0.999 |
+| DDB1 | **DET1** | 0.999 |
+| DDA1 | **DTL** | 0.951 |
+| DDA1 | **DCAF8** | 0.953 |
+| DDA1 | **DCAF17** | 0.957 |
+| DDA1 | **COP1** | 0.96 |
+| DDA1 | **DCAF11** | 0.967 |
+| DDA1 | **AMBRA1** | 0.987 |
+| DDA1 | **DCAF1** | 0.995 |
+| DDA1 | **CUL4B** | 0.996 |
+| DDA1 | **CUL4A** | 0.999 |
+| DDA1 | **DET1** | 0.999 |
+| DTL | **DCAF17** | 0.901 |
+| DTL | **AMBRA1** | 0.904 |
+| DTL | **DCAF8** | 0.908 |
+| DTL | **COP1** | 0.913 |
+| DTL | **DCAF11** | 0.915 |
+| DTL | **DET1** | 0.928 |
+| DTL | **DCAF1** | 0.996 |
+| DTL | **CUL4A** | 0.999 |
+| DTL | **CUL4B** | 0.999 |
+| COP1 | **DCAF17** | 0.9 |
+| COP1 | **DCAF8** | 0.902 |
+| COP1 | **AMBRA1** | 0.907 |
+| COP1 | **DCAF11** | 0.919 |
+| COP1 | **DCAF1** | 0.919 |
+| COP1 | **CUL4B** | 0.966 |
+| COP1 | **CUL4A** | 0.993 |
+| COP1 | **DET1** | 0.997 |
+| DCAF8 | **DET1** | 0.905 |
+| DCAF8 | **DCAF17** | 0.914 |
+| DCAF8 | **AMBRA1** | 0.927 |
+| DCAF8 | **DCAF1** | 0.933 |
+| DCAF8 | **DCAF11** | 0.951 |
+| DCAF8 | **CUL4A** | 0.99 |
+| DCAF8 | **CUL4B** | 0.992 |
+| DCAF17 | **DCAF11** | 0.902 |
+| DCAF17 | **DET1** | 0.906 |
+| DCAF17 | **AMBRA1** | 0.918 |
+| DCAF17 | **DCAF1** | 0.933 |
+| DCAF17 | **CUL4A** | 0.946 |
+| DCAF17 | **CUL4B** | 0.971 |
+| CUL4A | **AMBRA1** | 0.992 |
+| CUL4A | **DCAF1** | 0.999 |
+| CUL4A | **DCAF11** | 0.999 |
+| CUL4A | **CUL4B** | 0.999 |
+| CUL4A | **DET1** | 0.999 |
+| CUL4B | **AMBRA1** | 0.992 |
+| CUL4B | **DCAF11** | 0.996 |
+| CUL4B | **DET1** | 0.998 |
+| CUL4B | **DCAF1** | 0.999 |
+| DCAF1 | **DET1** | 0.928 |
+| DCAF1 | **DCAF11** | 0.946 |
+| DCAF1 | **AMBRA1** | 0.947 |
+| DCAF11 | **DET1** | 0.9 |
+| DCAF11 | **AMBRA1** | 0.905 |
+| AMBRA1 | **DET1** | 0.9 |
+

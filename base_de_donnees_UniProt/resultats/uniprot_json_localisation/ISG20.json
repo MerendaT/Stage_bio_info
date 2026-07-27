@@ -1,0 +1,577 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q96AZ6",
+      "uniProtkbId": "ISG20_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "ISG20"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9JL16"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11401564"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12594219"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16033969"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16514659"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21036379"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31600344"
+                }
+              ],
+              "value": "Interferon-induced antiviral exoribonuclease that acts mainly on single-stranded RNA (PubMed:11401564, PubMed:12594219, PubMed:16033969). Exhibits antiviral activity against RNA viruses including hepatitis C virus (HCV), hepatitis A virus (HAV) and yellow fever virus (YFV) (PubMed:16514659, PubMed:21036379). Inhibition of several viruses such as chikungunya virus (CHIKV) does not involve the degradation of viral RNAs, but rather the inhibition of translation of viral proteins (By similarity). Exerts a translational control over a large panel of non-self RNA substrates while sparing endogenous transcripts. This activity correlates with the protein's ability to localize in cytoplasmic processing bodies (PubMed:31600344). May also act as master regulator of over hundred interferon stimulated genes leading to viral genome translation inhibition (By similarity). May play additional roles in the maturation of snRNAs and rRNAs, and in ribosome biogenesis (PubMed:16514659)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16514659"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16514659"
+                  }
+                ],
+                "value": "Nucleus, nucleolus",
+                "id": "SL-0188"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31600344"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16514659"
+                  }
+                ],
+                "value": "Nucleus, Cajal body",
+                "id": "SL-0031"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "31600344"
+                  }
+                ],
+                "value": "Cytoplasm, P-body",
+                "id": "SL-0230"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0015030",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Cajal body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16514659"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16514659"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21036379"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005730",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleolus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16514659"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21036379"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000932",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:P-body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016605",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:PML body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9235947"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000175",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:3'-5'-RNA exonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11401564"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004527",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:exonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21036379"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008859",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:exoribonuclease II activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-EC"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metal ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008310",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:single-stranded DNA 3'-5' DNA exonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11401564"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030619",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:U1 snRNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16514659"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030620",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:U2 snRNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16514659"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:U3 snoRNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16514659"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051607",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:defense response to virus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21036379"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006308",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11401564"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:innate immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045071",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of viral genome replication"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21036379"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to virus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12594219"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006401",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:RNA catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11401564"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006396",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:RNA processing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006364",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:rRNA processing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006FE4D"
+      }
+    }
+  ]
+}

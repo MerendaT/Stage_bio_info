@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LIG4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LIG4
+Identifiant STRING officiel : `9606.ENSP00000484288`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ERCC1 | **PAXX** | 0.926 |
+| ERCC1 | **DCLRE1C** | 0.943 |
+| ERCC1 | **NHEJ1** | 0.943 |
+| ERCC1 | **POLD1** | 0.953 |
+| ERCC1 | **PRKDC** | 0.958 |
+| ERCC1 | **XRCC4** | 0.962 |
+| ERCC1 | **LIG4** | 0.966 |
+| ERCC1 | **XRCC6** | 0.972 |
+| ERCC1 | **MSH6** | 0.974 |
+| ERCC1 | **ATM** | 0.975 |
+| ERCC1 | **XRCC5** | 0.982 |
+| ERCC1 | **MSH2** | 0.992 |
+| ERCC1 | **ERCC5** | 0.997 |
+| ERCC1 | **RAD23B** | 0.998 |
+| ERCC1 | **ERCC4** | 0.999 |
+| MSH2 | **PAXX** | 0.918 |
+| MSH2 | **NHEJ1** | 0.932 |
+| MSH2 | **DCLRE1C** | 0.944 |
+| MSH2 | **RAD23B** | 0.946 |
+| MSH2 | **XRCC4** | 0.953 |
+| MSH2 | **PRKDC** | 0.957 |
+| MSH2 | **ERCC5** | 0.962 |
+| MSH2 | **LIG4** | 0.964 |
+| MSH2 | **XRCC5** | 0.973 |
+| MSH2 | **XRCC6** | 0.979 |
+| MSH2 | **ERCC4** | 0.989 |
+| MSH2 | **POLD1** | 0.994 |
+| MSH2 | **MSH6** | 0.999 |
+| MSH2 | **ATM** | 0.999 |
+| MSH6 | **PAXX** | 0.916 |
+| MSH6 | **NHEJ1** | 0.931 |
+| MSH6 | **DCLRE1C** | 0.935 |
+| MSH6 | **XRCC4** | 0.946 |
+| MSH6 | **RAD23B** | 0.955 |
+| MSH6 | **ERCC5** | 0.963 |
+| MSH6 | **LIG4** | 0.965 |
+| MSH6 | **ERCC4** | 0.966 |
+| MSH6 | **PRKDC** | 0.967 |
+| MSH6 | **XRCC5** | 0.972 |
+| MSH6 | **XRCC6** | 0.992 |
+| MSH6 | **POLD1** | 0.995 |
+| MSH6 | **ATM** | 0.999 |
+| ATM | **RAD23B** | 0.941 |
+| ATM | **PAXX** | 0.946 |
+| ATM | **DCLRE1C** | 0.956 |
+| ATM | **POLD1** | 0.96 |
+| ATM | **ERCC4** | 0.965 |
+| ATM | **PRKDC** | 0.971 |
+| ATM | **ERCC5** | 0.975 |
+| ATM | **XRCC4** | 0.98 |
+| ATM | **NHEJ1** | 0.982 |
+| ATM | **LIG4** | 0.987 |
+| ATM | **XRCC6** | 0.997 |
+| ATM | **XRCC5** | 0.998 |
+| ERCC4 | **PAXX** | 0.906 |
+| ERCC4 | **NHEJ1** | 0.923 |
+| ERCC4 | **PRKDC** | 0.935 |
+| ERCC4 | **DCLRE1C** | 0.937 |
+| ERCC4 | **XRCC4** | 0.945 |
+| ERCC4 | **POLD1** | 0.962 |
+| ERCC4 | **LIG4** | 0.965 |
+| ERCC4 | **XRCC6** | 0.972 |
+| ERCC4 | **XRCC5** | 0.976 |
+| ERCC4 | **RAD23B** | 0.99 |
+| ERCC4 | **ERCC5** | 0.998 |
+| PRKDC | **RAD23B** | 0.936 |
+| PRKDC | **ERCC5** | 0.94 |
+| PRKDC | **POLD1** | 0.947 |
+| PRKDC | **PAXX** | 0.996 |
+| PRKDC | **XRCC5** | 0.999 |
+| PRKDC | **XRCC6** | 0.999 |
+| PRKDC | **DCLRE1C** | 0.999 |
+| PRKDC | **NHEJ1** | 0.999 |
+| PRKDC | **XRCC4** | 0.999 |
+| PRKDC | **LIG4** | 0.999 |
+| NHEJ1 | **POLD1** | 0.924 |
+| NHEJ1 | **ERCC5** | 0.929 |
+| NHEJ1 | **RAD23B** | 0.933 |
+| NHEJ1 | **DCLRE1C** | 0.992 |
+| NHEJ1 | **XRCC6** | 0.999 |
+| NHEJ1 | **XRCC5** | 0.999 |
+| NHEJ1 | **XRCC4** | 0.999 |
+| NHEJ1 | **LIG4** | 0.999 |
+| NHEJ1 | **PAXX** | 0.999 |
+| RAD23B | **PAXX** | 0.907 |
+| RAD23B | **DCLRE1C** | 0.919 |
+| RAD23B | **POLD1** | 0.925 |
+| RAD23B | **XRCC4** | 0.942 |
+| RAD23B | **XRCC6** | 0.946 |
+| RAD23B | **XRCC5** | 0.947 |
+| RAD23B | **LIG4** | 0.952 |
+| RAD23B | **ERCC5** | 0.981 |
+| XRCC6 | **POLD1** | 0.962 |
+| XRCC6 | **ERCC5** | 0.963 |
+| XRCC6 | **DCLRE1C** | 0.997 |
+| XRCC6 | **PAXX** | 0.998 |
+| XRCC6 | **LIG4** | 0.999 |
+| XRCC6 | **XRCC4** | 0.999 |
+| XRCC6 | **XRCC5** | 0.999 |
+| PAXX | **POLD1** | 0.905 |
+| PAXX | **ERCC5** | 0.907 |
+| PAXX | **DCLRE1C** | 0.928 |
+| PAXX | **LIG4** | 0.988 |
+| PAXX | **XRCC5** | 0.997 |
+| PAXX | **XRCC4** | 0.999 |
+| DCLRE1C | **POLD1** | 0.923 |
+| DCLRE1C | **ERCC5** | 0.944 |
+| DCLRE1C | **XRCC4** | 0.983 |
+| DCLRE1C | **LIG4** | 0.997 |
+| DCLRE1C | **XRCC5** | 0.998 |
+| XRCC5 | **POLD1** | 0.963 |
+| XRCC5 | **ERCC5** | 0.966 |
+| XRCC5 | **LIG4** | 0.999 |
+| XRCC5 | **XRCC4** | 0.999 |
+| XRCC4 | **POLD1** | 0.932 |
+| XRCC4 | **ERCC5** | 0.946 |
+| XRCC4 | **LIG4** | 0.999 |
+| POLD1 | **LIG4** | 0.951 |
+| POLD1 | **ERCC5** | 0.966 |
+| LIG4 | **ERCC5** | 0.962 |
+

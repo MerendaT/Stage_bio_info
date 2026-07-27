@@ -1,0 +1,326 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q96GR4",
+      "uniProtkbId": "ZDH12_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "36586411"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:19159"
+              }
+            ],
+            "value": "ZDHHC12"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q8VC90"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "36586411"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "39225180"
+                }
+              ],
+              "value": "Palmitoyltransferase that catalyzes the addition of palmitate onto various protein substrates (PubMed:36586411). Has a palmitoyltransferase activity toward gephyrin/GPHN, regulating its clustering at synapses and its function in gamma-aminobutyric acid receptor clustering (By similarity). Thereby, indirectly regulates GABAergic synaptic transmission (By similarity). Negatively regulates NLRP3-driven inflammation. Catalyzes NLRP3 palmitoylation, leading to its degradation via the chaperone-mediated autophagy (CMA) process (PubMed:36586411, PubMed:39225180)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q8VC90"
+                  }
+                ],
+                "value": "Golgi apparatus membrane",
+                "id": "SL-0134"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16647879"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0043197",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:dendritic spine"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25025157"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16647879"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16647879"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProt"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016409",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:palmitoyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23034182"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019706",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-cysteine S-palmitoyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36586411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097116",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:gephyrin clustering involved in postsynaptic density assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25025157"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900226",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of NLRP3 inflammasome complex assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "36586411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0018230",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peptidyl-L-cysteine S-palmitoylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032230",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of synaptic transmission, GABAergic"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein targeting to membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013E086"
+      }
+    }
+  ]
+}

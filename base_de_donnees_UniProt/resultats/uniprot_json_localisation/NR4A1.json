@@ -1,0 +1,799 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P22736",
+      "uniProtkbId": "NR4A1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "NR4A1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P12813"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P22829"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15466594"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18690216"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22983157"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8121493"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9315652"
+                }
+              ],
+              "value": "Orphan nuclear receptor. Binds the NGFI-B response element (NBRE) 5'-AAAGGTCA-3' (PubMed:18690216, PubMed:8121493, PubMed:9315652). Binds 9-cis-retinoic acid outside of its ligand-binding (NR LBD) domain (PubMed:18690216). Participates in energy homeostasis by sequestrating the kinase STK11 in the nucleus, thereby attenuating cytoplasmic AMPK activation (PubMed:22983157). Regulates the inflammatory response in macrophages by regulating metabolic adaptations during inflammation, including repressing the transcription of genes involved in the citric acid cycle (TCA) (By similarity). Inhibits NF-kappa-B signaling by binding to low-affinity NF-kappa-B binding sites, such as at the IL2 promoter (PubMed:15466594). May act concomitantly with NR4A2 in regulating the expression of delayed-early genes during liver regeneration (By similarity). Plays a role in the vascular response to injury (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P12813"
+                }
+              ],
+              "value": "In the cytosol, upon its detection of both bacterial lipopolysaccharide (LPS) and NBRE-containing mitochondrial DNA released by GSDMD pores during pyroptosis, it promotes non-canonical NLRP3 inflammasome activation by stimulating association of NLRP3 and NEK7"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17761950"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22427340"
+                  }
+                ],
+                "value": "Nuclear export to the cytosol is XPO1-mediated and positively regulated by IFI27 (PubMed:22427340). Translocation to the mitochondrion upon interaction with RXRA and upon the presence of 9-cis retinoic acid (PubMed:17761950)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15509776"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17761950"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "18690216"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20438716"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22427340"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22983157"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "8121493"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15509776"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20438716"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22427340"
+                  }
+                ],
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17761950"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "18690216"
+                  }
+                ],
+                "value": "Mitochondrion",
+                "id": "SL-0173"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001650",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:fibrillar center"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18690216"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031965",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016607",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear speck"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18690216"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8121493"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005667",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:transcription regulator complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003677",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription activator activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18690216"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8121493"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9315652"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001530",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:lipopolysaccharide binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035259",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nuclear glucocorticoid receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004879",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nuclear receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "2626032"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046982",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein heterodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002042",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell migration involved in sprouting angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18059339"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071376",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to corticotropin-releasing hormone stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044344",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to fibroblast growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18059339"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035924",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to vascular endothelial growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18059339"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032497",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:detection of lipopolysaccharide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035767",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endothelial cell chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18059339"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045444",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fat cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006954",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045786",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0160075",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:non-canonical inflammasome complex assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001938",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of endothelial cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18059339"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18690216"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9315652"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061469",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of type B pancreatic cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "2626032"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013047C"
+      }
+    }
+  ]
+}

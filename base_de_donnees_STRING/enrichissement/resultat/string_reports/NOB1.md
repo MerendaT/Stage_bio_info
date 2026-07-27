@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NOB1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NOB1
+Identifiant STRING officiel : `9606.ENSP00000268802`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BYSL | **RIOK1** | 0.955 |
+| BYSL | **RPSA** | 0.977 |
+| BYSL | **RPS17** | 0.98 |
+| BYSL | **RPS28** | 0.991 |
+| BYSL | **RPS3A** | 0.992 |
+| BYSL | **RPS13** | 0.993 |
+| BYSL | **RPS5** | 0.995 |
+| BYSL | **RPS15** | 0.996 |
+| BYSL | **RPS14** | 0.996 |
+| BYSL | **RPS2** | 0.998 |
+| BYSL | **PNO1** | 0.999 |
+| BYSL | **TSR1** | 0.999 |
+| BYSL | **RIOK2** | 0.999 |
+| BYSL | **NOB1** | 0.999 |
+| BYSL | **LTV1** | 0.999 |
+| PNO1 | **RPS17** | 0.882 |
+| PNO1 | **RPSA** | 0.907 |
+| PNO1 | **RPS15** | 0.924 |
+| PNO1 | **RPS13** | 0.942 |
+| PNO1 | **RPS5** | 0.971 |
+| PNO1 | **RPS28** | 0.979 |
+| PNO1 | **RPS3A** | 0.98 |
+| PNO1 | **RIOK1** | 0.98 |
+| PNO1 | **RPS2** | 0.98 |
+| PNO1 | **RPS14** | 0.994 |
+| PNO1 | **RIOK2** | 0.996 |
+| PNO1 | **TSR1** | 0.998 |
+| PNO1 | **LTV1** | 0.998 |
+| PNO1 | **NOB1** | 0.999 |
+| NOB1 | **RPS28** | 0.989 |
+| NOB1 | **RPS15** | 0.99 |
+| NOB1 | **RPS2** | 0.99 |
+| NOB1 | **RPS13** | 0.992 |
+| NOB1 | **RPSA** | 0.993 |
+| NOB1 | **RPS3A** | 0.994 |
+| NOB1 | **RPS17** | 0.994 |
+| NOB1 | **RPS14** | 0.995 |
+| NOB1 | **RPS5** | 0.996 |
+| NOB1 | **RIOK1** | 0.997 |
+| NOB1 | **TSR1** | 0.999 |
+| NOB1 | **LTV1** | 0.999 |
+| NOB1 | **RIOK2** | 0.999 |
+| RIOK2 | **RPS28** | 0.929 |
+| RIOK2 | **RPSA** | 0.968 |
+| RIOK2 | **RPS17** | 0.975 |
+| RIOK2 | **RPS3A** | 0.976 |
+| RIOK2 | **RIOK1** | 0.985 |
+| RIOK2 | **RPS13** | 0.993 |
+| RIOK2 | **RPS14** | 0.994 |
+| RIOK2 | **RPS15** | 0.997 |
+| RIOK2 | **RPS5** | 0.997 |
+| RIOK2 | **TSR1** | 0.999 |
+| RIOK2 | **LTV1** | 0.999 |
+| RIOK2 | **RPS2** | 0.999 |
+| TSR1 | **RPS28** | 0.913 |
+| TSR1 | **RPS17** | 0.922 |
+| TSR1 | **RIOK1** | 0.943 |
+| TSR1 | **RPS5** | 0.949 |
+| TSR1 | **RPS3A** | 0.95 |
+| TSR1 | **RPSA** | 0.963 |
+| TSR1 | **RPS13** | 0.967 |
+| TSR1 | **RPS2** | 0.992 |
+| TSR1 | **RPS14** | 0.993 |
+| TSR1 | **RPS15** | 0.993 |
+| TSR1 | **LTV1** | 0.999 |
+| RPS2 | **RIOK1** | 0.989 |
+| RPS2 | **LTV1** | 0.999 |
+| RPS2 | **RPS13** | 0.999 |
+| RPS2 | **RPS3A** | 0.999 |
+| RPS2 | **RPS14** | 0.999 |
+| RPS2 | **RPSA** | 0.999 |
+| RPS2 | **RPS15** | 0.999 |
+| RPS2 | **RPS28** | 0.999 |
+| RPS2 | **RPS5** | 0.999 |
+| RPS2 | **RPS17** | 0.999 |
+| RPS3A | **RIOK1** | 0.866 |
+| RPS3A | **LTV1** | 0.981 |
+| RPS3A | **RPSA** | 0.999 |
+| RPS3A | **RPS28** | 0.999 |
+| RPS3A | **RPS5** | 0.999 |
+| RPS3A | **RPS17** | 0.999 |
+| RPS3A | **RPS15** | 0.999 |
+| RPS3A | **RPS14** | 0.999 |
+| RPS3A | **RPS13** | 0.999 |
+| LTV1 | **RPS28** | 0.924 |
+| LTV1 | **RPS17** | 0.975 |
+| LTV1 | **RPSA** | 0.983 |
+| LTV1 | **RPS5** | 0.993 |
+| LTV1 | **RPS13** | 0.993 |
+| LTV1 | **RPS14** | 0.996 |
+| LTV1 | **RPS15** | 0.997 |
+| LTV1 | **RIOK1** | 0.999 |
+| RIOK1 | **RPS13** | 0.824 |
+| RIOK1 | **RPS17** | 0.836 |
+| RIOK1 | **RPSA** | 0.842 |
+| RIOK1 | **RPS28** | 0.905 |
+| RIOK1 | **RPS5** | 0.931 |
+| RIOK1 | **RPS15** | 0.937 |
+| RIOK1 | **RPS14** | 0.986 |
+| RPS14 | **RPSA** | 0.999 |
+| RPS14 | **RPS15** | 0.999 |
+| RPS14 | **RPS17** | 0.999 |
+| RPS14 | **RPS28** | 0.999 |
+| RPS14 | **RPS5** | 0.999 |
+| RPS14 | **RPS13** | 0.999 |
+| RPSA | **RPS13** | 0.999 |
+| RPSA | **RPS15** | 0.999 |
+| RPSA | **RPS28** | 0.999 |
+| RPSA | **RPS5** | 0.999 |
+| RPSA | **RPS17** | 0.999 |
+| RPS13 | **RPS15** | 0.999 |
+| RPS13 | **RPS17** | 0.999 |
+| RPS13 | **RPS5** | 0.999 |
+| RPS13 | **RPS28** | 0.999 |
+| RPS15 | **RPS5** | 0.999 |
+| RPS15 | **RPS28** | 0.999 |
+| RPS15 | **RPS17** | 0.999 |
+| RPS28 | **RPS5** | 0.999 |
+| RPS28 | **RPS17** | 0.999 |
+| RPS5 | **RPS17** | 0.999 |
+

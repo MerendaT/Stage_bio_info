@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SUGP1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SUGP1
+Identifiant STRING officiel : `9606.ENSP00000247001`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DDX5 | **U2AF2** | 0.604 |
+| DDX5 | **RBM10** | 0.608 |
+| DDX5 | **SRSF1** | 0.764 |
+| DDX5 | **SUGP1** | 0.82 |
+| DDX5 | **HTATSF1** | 0.849 |
+| DDX5 | **SRRT** | 0.855 |
+| DDX5 | **DHX15** | 0.868 |
+| DDX5 | **RBM5** | 0.873 |
+| DDX5 | **PRPF40A** | 0.877 |
+| DDX5 | **RBM25** | 0.888 |
+| DDX5 | **SF1** | 0.906 |
+| DDX5 | **SRRM2** | 0.912 |
+| DDX5 | **RBM39** | 0.971 |
+| DDX5 | **DHX9** | 0.996 |
+| SUGP1 | **SRSF1** | 0.82 |
+| SUGP1 | **SRRT** | 0.82 |
+| SUGP1 | **HTATSF1** | 0.829 |
+| SUGP1 | **DHX9** | 0.831 |
+| SUGP1 | **PRPF40A** | 0.836 |
+| SUGP1 | **SRRM2** | 0.857 |
+| SUGP1 | **RBM39** | 0.868 |
+| SUGP1 | **RBM5** | 0.868 |
+| SUGP1 | **RBM25** | 0.869 |
+| SUGP1 | **SF1** | 0.907 |
+| SUGP1 | **RBM10** | 0.996 |
+| SUGP1 | **RBM17** | 0.996 |
+| SUGP1 | **U2AF2** | 0.997 |
+| SUGP1 | **DHX15** | 0.999 |
+| RBM39 | **RBM10** | 0.58 |
+| RBM39 | **DHX15** | 0.586 |
+| RBM39 | **RBM17** | 0.738 |
+| RBM39 | **SRSF1** | 0.83 |
+| RBM39 | **HTATSF1** | 0.836 |
+| RBM39 | **DHX9** | 0.909 |
+| RBM39 | **SRRM2** | 0.926 |
+| RBM39 | **SRRT** | 0.936 |
+| RBM39 | **SF1** | 0.952 |
+| RBM39 | **RBM5** | 0.955 |
+| RBM39 | **PRPF40A** | 0.962 |
+| RBM39 | **RBM25** | 0.985 |
+| RBM39 | **U2AF2** | 0.993 |
+| SRSF1 | **RBM17** | 0.499 |
+| SRSF1 | **RBM5** | 0.523 |
+| SRSF1 | **SRRT** | 0.634 |
+| SRSF1 | **SRRM2** | 0.671 |
+| SRSF1 | **RBM10** | 0.685 |
+| SRSF1 | **RBM25** | 0.718 |
+| SRSF1 | **DHX15** | 0.763 |
+| SRSF1 | **SF1** | 0.813 |
+| SRSF1 | **DHX9** | 0.895 |
+| SRSF1 | **U2AF2** | 0.998 |
+| RBM25 | **RBM17** | 0.466 |
+| RBM25 | **RBM10** | 0.705 |
+| RBM25 | **HTATSF1** | 0.84 |
+| RBM25 | **DHX9** | 0.848 |
+| RBM25 | **SRRT** | 0.897 |
+| RBM25 | **SF1** | 0.938 |
+| RBM25 | **RBM5** | 0.959 |
+| RBM25 | **U2AF2** | 0.983 |
+| RBM25 | **SRRM2** | 0.993 |
+| RBM25 | **PRPF40A** | 0.998 |
+| SRRM2 | **DHX15** | 0.52 |
+| SRRM2 | **U2AF2** | 0.615 |
+| SRRM2 | **RBM5** | 0.869 |
+| SRRM2 | **HTATSF1** | 0.889 |
+| SRRM2 | **SRRT** | 0.907 |
+| SRRM2 | **DHX9** | 0.914 |
+| SRRM2 | **PRPF40A** | 0.918 |
+| SRRM2 | **SF1** | 0.942 |
+| U2AF2 | **HTATSF1** | 0.657 |
+| U2AF2 | **DHX9** | 0.704 |
+| U2AF2 | **SRRT** | 0.758 |
+| U2AF2 | **DHX15** | 0.793 |
+| U2AF2 | **RBM17** | 0.843 |
+| U2AF2 | **PRPF40A** | 0.878 |
+| U2AF2 | **RBM5** | 0.896 |
+| U2AF2 | **RBM10** | 0.997 |
+| U2AF2 | **SF1** | 0.999 |
+| RBM10 | **SRRT** | 0.566 |
+| RBM10 | **RBM17** | 0.664 |
+| RBM10 | **SF1** | 0.702 |
+| RBM10 | **DHX15** | 0.996 |
+| DHX15 | **SRRT** | 0.533 |
+| DHX15 | **PRPF40A** | 0.591 |
+| DHX15 | **DHX9** | 0.715 |
+| DHX15 | **SF1** | 0.851 |
+| DHX15 | **RBM5** | 0.973 |
+| DHX15 | **RBM17** | 0.999 |
+| RBM5 | **SF1** | 0.753 |
+| RBM5 | **HTATSF1** | 0.825 |
+| RBM5 | **SRRT** | 0.836 |
+| RBM5 | **PRPF40A** | 0.87 |
+| RBM5 | **RBM17** | 0.884 |
+| RBM5 | **DHX9** | 0.895 |
+| DHX9 | **HTATSF1** | 0.863 |
+| DHX9 | **SF1** | 0.872 |
+| DHX9 | **PRPF40A** | 0.918 |
+| DHX9 | **SRRT** | 0.92 |
+| SF1 | **HTATSF1** | 0.867 |
+| SF1 | **SRRT** | 0.927 |
+| SF1 | **RBM17** | 0.955 |
+| SF1 | **PRPF40A** | 0.981 |
+| PRPF40A | **RBM17** | 0.465 |
+| PRPF40A | **HTATSF1** | 0.878 |
+| PRPF40A | **SRRT** | 0.879 |
+| RBM17 | **SRRT** | 0.464 |
+| RBM17 | **HTATSF1** | 0.475 |
+| HTATSF1 | **SRRT** | 0.834 |
+

@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SEPTIN2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SEPTIN2
+Identifiant STRING officiel : `9606.ENSP00000479861`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ANLN | **SEPTIN5** | 0.414 |
+| ANLN | **SEPTIN4** | 0.505 |
+| ANLN | **SEPTIN1** | 0.508 |
+| ANLN | **SEPTIN14** | 0.536 |
+| ANLN | **SEPTIN11** | 0.599 |
+| ANLN | **SEPTIN10** | 0.618 |
+| ANLN | **SEPTIN9** | 0.641 |
+| ANLN | **SEPTIN8** | 0.67 |
+| ANLN | **SEPTIN7** | 0.81 |
+| ANLN | **SEPTIN6** | 0.816 |
+| ANLN | **SEPTIN2** | 0.821 |
+| SEPTIN12 | **SEPTIN14** | 0.639 |
+| SEPTIN12 | **SQSTM1** | 0.9 |
+| SEPTIN12 | **SEPTIN8** | 0.935 |
+| SEPTIN12 | **SEPTIN10** | 0.937 |
+| SEPTIN12 | **SEPTIN9** | 0.939 |
+| SEPTIN12 | **SEPTIN3** | 0.953 |
+| SEPTIN12 | **SEPTIN1** | 0.957 |
+| SEPTIN12 | **SEPTIN11** | 0.986 |
+| SEPTIN12 | **SEPTIN5** | 0.988 |
+| SEPTIN12 | **SEPTIN6** | 0.989 |
+| SEPTIN12 | **SEPTIN2** | 0.991 |
+| SEPTIN12 | **SEPTIN7** | 0.992 |
+| SEPTIN12 | **SEPTIN4** | 0.997 |
+| SEPTIN1 | **SEPTIN14** | 0.825 |
+| SEPTIN1 | **SEPTIN2** | 0.928 |
+| SEPTIN1 | **SEPTIN7** | 0.933 |
+| SEPTIN1 | **SEPTIN3** | 0.962 |
+| SEPTIN1 | **SEPTIN8** | 0.962 |
+| SEPTIN1 | **SEPTIN9** | 0.963 |
+| SEPTIN1 | **SEPTIN5** | 0.964 |
+| SEPTIN1 | **SEPTIN6** | 0.975 |
+| SEPTIN1 | **SEPTIN10** | 0.977 |
+| SEPTIN1 | **SEPTIN11** | 0.98 |
+| SEPTIN1 | **SEPTIN4** | 0.986 |
+| CDC42EP4 | **SEPTIN14** | 0.823 |
+| CDC42EP4 | **SEPTIN2** | 0.852 |
+| CDC42EP4 | **SEPTIN10** | 0.871 |
+| CDC42EP4 | **SEPTIN5** | 0.878 |
+| CDC42EP4 | **SEPTIN9** | 0.882 |
+| CDC42EP4 | **SEPTIN4** | 0.883 |
+| CDC42EP4 | **SEPTIN11** | 0.885 |
+| CDC42EP4 | **SEPTIN3** | 0.887 |
+| CDC42EP4 | **SEPTIN8** | 0.895 |
+| CDC42EP4 | **SEPTIN6** | 0.896 |
+| CDC42EP4 | **SEPTIN7** | 0.902 |
+| SEPTIN6 | **SQSTM1** | 0.904 |
+| SEPTIN6 | **SEPTIN14** | 0.924 |
+| SEPTIN6 | **SEPTIN10** | 0.957 |
+| SEPTIN6 | **SEPTIN8** | 0.96 |
+| SEPTIN6 | **SEPTIN3** | 0.977 |
+| SEPTIN6 | **SEPTIN11** | 0.996 |
+| SEPTIN6 | **SEPTIN5** | 0.996 |
+| SEPTIN6 | **SEPTIN2** | 0.999 |
+| SEPTIN6 | **SEPTIN7** | 0.999 |
+| SEPTIN6 | **SEPTIN4** | 0.999 |
+| SEPTIN6 | **SEPTIN9** | 0.999 |
+| SEPTIN10 | **SEPTIN14** | 0.935 |
+| SEPTIN10 | **SEPTIN3** | 0.94 |
+| SEPTIN10 | **SEPTIN9** | 0.963 |
+| SEPTIN10 | **SEPTIN8** | 0.963 |
+| SEPTIN10 | **SEPTIN2** | 0.975 |
+| SEPTIN10 | **SEPTIN5** | 0.975 |
+| SEPTIN10 | **SEPTIN7** | 0.979 |
+| SEPTIN10 | **SEPTIN11** | 0.979 |
+| SEPTIN10 | **SEPTIN4** | 0.979 |
+| SEPTIN4 | **SEPTIN14** | 0.917 |
+| SEPTIN4 | **SEPTIN8** | 0.981 |
+| SEPTIN4 | **SEPTIN5** | 0.986 |
+| SEPTIN4 | **SEPTIN9** | 0.991 |
+| SEPTIN4 | **SEPTIN2** | 0.993 |
+| SEPTIN4 | **SEPTIN3** | 0.995 |
+| SEPTIN4 | **SEPTIN7** | 0.998 |
+| SEPTIN4 | **SEPTIN11** | 0.998 |
+| SEPTIN8 | **SEPTIN9** | 0.866 |
+| SEPTIN8 | **SEPTIN14** | 0.885 |
+| SEPTIN8 | **SQSTM1** | 0.9 |
+| SEPTIN8 | **SEPTIN3** | 0.953 |
+| SEPTIN8 | **SEPTIN11** | 0.953 |
+| SEPTIN8 | **SEPTIN7** | 0.989 |
+| SEPTIN8 | **SEPTIN5** | 0.99 |
+| SEPTIN8 | **SEPTIN2** | 0.997 |
+| SEPTIN14 | **SEPTIN11** | 0.862 |
+| SEPTIN14 | **SEPTIN5** | 0.905 |
+| SEPTIN14 | **SEPTIN2** | 0.921 |
+| SEPTIN14 | **SEPTIN9** | 0.928 |
+| SEPTIN14 | **SEPTIN3** | 0.937 |
+| SEPTIN14 | **SEPTIN7** | 0.955 |
+| SQSTM1 | **SEPTIN7** | 0.488 |
+| SQSTM1 | **SEPTIN3** | 0.9 |
+| SQSTM1 | **SEPTIN11** | 0.902 |
+| SQSTM1 | **SEPTIN2** | 0.903 |
+| SQSTM1 | **SEPTIN9** | 0.909 |
+| SEPTIN9 | **SEPTIN5** | 0.942 |
+| SEPTIN9 | **SEPTIN3** | 0.962 |
+| SEPTIN9 | **SEPTIN11** | 0.996 |
+| SEPTIN9 | **SEPTIN2** | 0.997 |
+| SEPTIN9 | **SEPTIN7** | 0.999 |
+| SEPTIN5 | **SEPTIN2** | 0.973 |
+| SEPTIN5 | **SEPTIN3** | 0.989 |
+| SEPTIN5 | **SEPTIN7** | 0.993 |
+| SEPTIN5 | **SEPTIN11** | 0.997 |
+| SEPTIN7 | **SEPTIN3** | 0.988 |
+| SEPTIN7 | **SEPTIN2** | 0.999 |
+| SEPTIN7 | **SEPTIN11** | 0.999 |
+| SEPTIN11 | **SEPTIN3** | 0.978 |
+| SEPTIN11 | **SEPTIN2** | 0.999 |
+| SEPTIN2 | **SEPTIN3** | 0.98 |
+

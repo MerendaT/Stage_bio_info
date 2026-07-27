@@ -1,0 +1,249 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P61587",
+      "uniProtkbId": "RND3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "RND3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Binds GTP but lacks intrinsic GTPase activity and is resistant to Rho-specific GTPase-activating proteins"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Golgi apparatus membrane",
+                "id": "SL-0134"
+              },
+              "topology": {
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005925",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:focal adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21423176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005525",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:GTP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003924",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:GTPase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030036",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:actin cytoskeleton organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9531558"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007015",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:actin filament organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007155",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9531558"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032956",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of actin cytoskeleton organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007264",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:small GTPase-mediated signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000003FE9"
+      }
+    }
+  ]
+}

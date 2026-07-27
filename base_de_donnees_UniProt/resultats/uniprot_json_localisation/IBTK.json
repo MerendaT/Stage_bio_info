@@ -1,0 +1,225 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9P2D0",
+      "uniProtkbId": "IBTK_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "IBTK"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11577348"
+                }
+              ],
+              "value": "Acts as an inhibitor of BTK tyrosine kinase activity, thereby playing a role in B-cell development. Down-regulates BTK kinase activity, leading to interference with BTK-mediated calcium mobilization and NF-kappa-B-driven transcription"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "Translocates to the plasma membrane upon IgM stimulation"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 2",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11577348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11577348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030292",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein tyrosine kinase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11577348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001933",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of protein phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11577348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051209",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:release of sequestered calcium ion into cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11577348"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000041929F"
+      }
+    }
+  ]
+}

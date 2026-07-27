@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ASPM
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ASPM
+Identifiant STRING officiel : `9606.ENSP00000356379`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLGAP5 | **STIL** | 0.517 |
+| DLGAP5 | **KIF15** | 0.937 |
+| DLGAP5 | **NCAPG** | 0.948 |
+| DLGAP5 | **KIF23** | 0.951 |
+| DLGAP5 | **CENPE** | 0.957 |
+| DLGAP5 | **NUF2** | 0.964 |
+| DLGAP5 | **KIF20A** | 0.97 |
+| DLGAP5 | **CENPF** | 0.976 |
+| DLGAP5 | **TOP2A** | 0.978 |
+| DLGAP5 | **CDC20** | 0.981 |
+| DLGAP5 | **BUB1B** | 0.981 |
+| DLGAP5 | **BUB1** | 0.986 |
+| DLGAP5 | **ASPM** | 0.994 |
+| DLGAP5 | **KIF11** | 0.997 |
+| NCAPG | **STIL** | 0.708 |
+| NCAPG | **KIF15** | 0.919 |
+| NCAPG | **CENPE** | 0.92 |
+| NCAPG | **CENPF** | 0.924 |
+| NCAPG | **NUF2** | 0.93 |
+| NCAPG | **CDC20** | 0.949 |
+| NCAPG | **KIF23** | 0.949 |
+| NCAPG | **BUB1B** | 0.952 |
+| NCAPG | **KIF20A** | 0.958 |
+| NCAPG | **TOP2A** | 0.967 |
+| NCAPG | **ASPM** | 0.972 |
+| NCAPG | **KIF11** | 0.975 |
+| NCAPG | **BUB1** | 0.976 |
+| KIF23 | **STIL** | 0.549 |
+| KIF23 | **CDC20** | 0.797 |
+| KIF23 | **KIF15** | 0.893 |
+| KIF23 | **NUF2** | 0.912 |
+| KIF23 | **BUB1B** | 0.926 |
+| KIF23 | **TOP2A** | 0.927 |
+| KIF23 | **CENPF** | 0.93 |
+| KIF23 | **KIF20A** | 0.958 |
+| KIF23 | **BUB1** | 0.958 |
+| KIF23 | **CENPE** | 0.969 |
+| KIF23 | **ASPM** | 0.987 |
+| KIF23 | **KIF11** | 0.994 |
+| KIF11 | **STIL** | 0.858 |
+| KIF11 | **CENPF** | 0.972 |
+| KIF11 | **NUF2** | 0.975 |
+| KIF11 | **TOP2A** | 0.975 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **KIF15** | 0.983 |
+| KIF11 | **BUB1** | 0.985 |
+| KIF11 | **CDC20** | 0.987 |
+| KIF11 | **CENPE** | 0.988 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **BUB1B** | 0.994 |
+| CENPE | **MCPH1** | 0.406 |
+| CENPE | **STIL** | 0.611 |
+| CENPE | **TOP2A** | 0.926 |
+| CENPE | **KIF15** | 0.932 |
+| CENPE | **KIF20A** | 0.967 |
+| CENPE | **ASPM** | 0.981 |
+| CENPE | **CDC20** | 0.989 |
+| CENPE | **BUB1** | 0.991 |
+| CENPE | **NUF2** | 0.996 |
+| CENPE | **BUB1B** | 0.999 |
+| CENPE | **CENPF** | 0.999 |
+| NUF2 | **STIL** | 0.606 |
+| NUF2 | **KIF15** | 0.936 |
+| NUF2 | **TOP2A** | 0.936 |
+| NUF2 | **CENPF** | 0.952 |
+| NUF2 | **KIF20A** | 0.955 |
+| NUF2 | **CDC20** | 0.962 |
+| NUF2 | **BUB1B** | 0.98 |
+| NUF2 | **ASPM** | 0.98 |
+| NUF2 | **BUB1** | 0.994 |
+| BUB1B | **STIL** | 0.635 |
+| BUB1B | **KIF15** | 0.923 |
+| BUB1B | **ASPM** | 0.974 |
+| BUB1B | **KIF20A** | 0.977 |
+| BUB1B | **TOP2A** | 0.98 |
+| BUB1B | **BUB1** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **CENPF** | 0.999 |
+| BUB1 | **STIL** | 0.557 |
+| BUB1 | **KIF15** | 0.923 |
+| BUB1 | **KIF20A** | 0.959 |
+| BUB1 | **ASPM** | 0.976 |
+| BUB1 | **TOP2A** | 0.982 |
+| BUB1 | **CENPF** | 0.987 |
+| BUB1 | **CDC20** | 0.999 |
+| KIF15 | **STIL** | 0.552 |
+| KIF15 | **CDC20** | 0.836 |
+| KIF15 | **KIF20A** | 0.942 |
+| KIF15 | **TOP2A** | 0.955 |
+| KIF15 | **CENPF** | 0.959 |
+| KIF15 | **ASPM** | 0.971 |
+| MCPH1 | **CENPF** | 0.456 |
+| MCPH1 | **STIL** | 0.932 |
+| MCPH1 | **ASPM** | 0.988 |
+| CENPF | **STIL** | 0.708 |
+| CENPF | **KIF20A** | 0.96 |
+| CENPF | **TOP2A** | 0.974 |
+| CENPF | **ASPM** | 0.987 |
+| CENPF | **CDC20** | 0.99 |
+| ASPM | **CDC20** | 0.972 |
+| ASPM | **STIL** | 0.972 |
+| ASPM | **KIF20A** | 0.975 |
+| ASPM | **TOP2A** | 0.996 |
+| STIL | **TOP2A** | 0.476 |
+| STIL | **KIF20A** | 0.528 |
+| STIL | **CDC20** | 0.574 |
+| CDC20 | **TOP2A** | 0.98 |
+| CDC20 | **KIF20A** | 0.981 |
+| KIF20A | **TOP2A** | 0.974 |
+

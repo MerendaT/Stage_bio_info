@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SNF8
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SNF8
+Identifiant STRING officiel : `9606.ENSP00000421380`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CHMP4B | **MVB12B** | 0.915 |
+| CHMP4B | **STAM** | 0.924 |
+| CHMP4B | **VPS37A** | 0.931 |
+| CHMP4B | **VPS37C** | 0.932 |
+| CHMP4B | **VPS28** | 0.943 |
+| CHMP4B | **CHMP4A** | 0.946 |
+| CHMP4B | **HGS** | 0.954 |
+| CHMP4B | **VPS36** | 0.961 |
+| CHMP4B | **SNF8** | 0.967 |
+| CHMP4B | **TSG101** | 0.968 |
+| CHMP4B | **VPS25** | 0.974 |
+| CHMP4B | **CHMP6** | 0.995 |
+| CHMP4B | **CHMP2A** | 0.996 |
+| CHMP4B | **CHMP3** | 0.998 |
+| TSG101 | **SNF8** | 0.984 |
+| TSG101 | **CHMP2A** | 0.988 |
+| TSG101 | **CHMP3** | 0.988 |
+| TSG101 | **CHMP4A** | 0.991 |
+| TSG101 | **VPS25** | 0.994 |
+| TSG101 | **CHMP6** | 0.996 |
+| TSG101 | **STAM** | 0.996 |
+| TSG101 | **VPS36** | 0.997 |
+| TSG101 | **VPS28** | 0.999 |
+| TSG101 | **MVB12B** | 0.999 |
+| TSG101 | **VPS37C** | 0.999 |
+| TSG101 | **HGS** | 0.999 |
+| TSG101 | **VPS37A** | 0.999 |
+| VPS25 | **ELL** | 0.926 |
+| VPS25 | **MVB12B** | 0.954 |
+| VPS25 | **VPS37C** | 0.956 |
+| VPS25 | **STAM** | 0.965 |
+| VPS25 | **CHMP4A** | 0.968 |
+| VPS25 | **VPS37A** | 0.979 |
+| VPS25 | **HGS** | 0.984 |
+| VPS25 | **CHMP3** | 0.993 |
+| VPS25 | **CHMP2A** | 0.996 |
+| VPS25 | **VPS28** | 0.998 |
+| VPS25 | **VPS36** | 0.999 |
+| VPS25 | **SNF8** | 0.999 |
+| VPS25 | **CHMP6** | 0.999 |
+| ELL | **CHMP6** | 0.464 |
+| ELL | **VPS36** | 0.947 |
+| ELL | **SNF8** | 0.971 |
+| CHMP3 | **VPS37C** | 0.94 |
+| CHMP3 | **MVB12B** | 0.946 |
+| CHMP3 | **STAM** | 0.962 |
+| CHMP3 | **VPS37A** | 0.962 |
+| CHMP3 | **HGS** | 0.976 |
+| CHMP3 | **SNF8** | 0.979 |
+| CHMP3 | **VPS28** | 0.986 |
+| CHMP3 | **VPS36** | 0.99 |
+| CHMP3 | **CHMP4A** | 0.999 |
+| CHMP3 | **CHMP6** | 0.999 |
+| CHMP3 | **CHMP2A** | 0.999 |
+| VPS37C | **STAM** | 0.919 |
+| VPS37C | **VPS37A** | 0.924 |
+| VPS37C | **CHMP4A** | 0.933 |
+| VPS37C | **HGS** | 0.949 |
+| VPS37C | **CHMP6** | 0.951 |
+| VPS37C | **CHMP2A** | 0.957 |
+| VPS37C | **SNF8** | 0.968 |
+| VPS37C | **VPS36** | 0.972 |
+| VPS37C | **MVB12B** | 0.978 |
+| VPS37C | **VPS28** | 0.999 |
+| CHMP6 | **MVB12B** | 0.951 |
+| CHMP6 | **VPS37A** | 0.956 |
+| CHMP6 | **STAM** | 0.964 |
+| CHMP6 | **HGS** | 0.978 |
+| CHMP6 | **VPS28** | 0.998 |
+| CHMP6 | **CHMP4A** | 0.998 |
+| CHMP6 | **CHMP2A** | 0.999 |
+| CHMP6 | **SNF8** | 0.999 |
+| CHMP6 | **VPS36** | 0.999 |
+| VPS37A | **HGS** | 0.928 |
+| VPS37A | **STAM** | 0.941 |
+| VPS37A | **SNF8** | 0.953 |
+| VPS37A | **CHMP4A** | 0.956 |
+| VPS37A | **VPS36** | 0.977 |
+| VPS37A | **CHMP2A** | 0.978 |
+| VPS37A | **MVB12B** | 0.992 |
+| VPS37A | **VPS28** | 0.999 |
+| HGS | **MVB12B** | 0.918 |
+| HGS | **CHMP4A** | 0.955 |
+| HGS | **SNF8** | 0.966 |
+| HGS | **CHMP2A** | 0.971 |
+| HGS | **VPS28** | 0.981 |
+| HGS | **VPS36** | 0.987 |
+| HGS | **STAM** | 0.999 |
+| MVB12B | **CHMP4A** | 0.929 |
+| MVB12B | **STAM** | 0.931 |
+| MVB12B | **CHMP2A** | 0.945 |
+| MVB12B | **SNF8** | 0.954 |
+| MVB12B | **VPS36** | 0.957 |
+| MVB12B | **VPS28** | 0.999 |
+| VPS28 | **CHMP4A** | 0.964 |
+| VPS28 | **STAM** | 0.965 |
+| VPS28 | **CHMP2A** | 0.985 |
+| VPS28 | **SNF8** | 0.992 |
+| VPS28 | **VPS36** | 0.999 |
+| STAM | **SNF8** | 0.954 |
+| STAM | **CHMP2A** | 0.957 |
+| STAM | **CHMP4A** | 0.973 |
+| STAM | **VPS36** | 0.974 |
+| VPS36 | **CHMP4A** | 0.959 |
+| VPS36 | **CHMP2A** | 0.99 |
+| VPS36 | **SNF8** | 0.999 |
+| SNF8 | **CHMP4A** | 0.956 |
+| SNF8 | **CHMP2A** | 0.98 |
+| CHMP2A | **CHMP4A** | 0.999 |
+

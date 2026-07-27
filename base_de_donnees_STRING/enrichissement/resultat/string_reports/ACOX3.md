@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ACOX3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ACOX3
+Identifiant STRING officiel : `9606.ENSP00000348775`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EHHADH | **CPT2** | 0.679 |
+| EHHADH | **ACSS1** | 0.906 |
+| EHHADH | **ACSS2** | 0.913 |
+| EHHADH | **ECHDC1** | 0.923 |
+| EHHADH | **HADHA** | 0.944 |
+| EHHADH | **SCP2** | 0.952 |
+| EHHADH | **ACADL** | 0.977 |
+| EHHADH | **ACAT1** | 0.978 |
+| EHHADH | **ACAT2** | 0.98 |
+| EHHADH | **ECHS1** | 0.98 |
+| EHHADH | **HSD17B4** | 0.988 |
+| EHHADH | **ACOX3** | 0.993 |
+| EHHADH | **ACAA2** | 0.995 |
+| EHHADH | **ACAA1** | 0.998 |
+| EHHADH | **HADHB** | 0.999 |
+| ACADL | **HSD17B4** | 0.553 |
+| ACADL | **ACSS2** | 0.585 |
+| ACADL | **ECHDC1** | 0.591 |
+| ACADL | **ACAT2** | 0.622 |
+| ACADL | **ACAT1** | 0.671 |
+| ACADL | **SCP2** | 0.705 |
+| ACADL | **ACSS1** | 0.723 |
+| ACADL | **ACOX3** | 0.961 |
+| ACADL | **ECHS1** | 0.976 |
+| ACADL | **ACAA2** | 0.979 |
+| ACADL | **ACAA1** | 0.979 |
+| ACADL | **CPT2** | 0.982 |
+| ACADL | **HADHA** | 0.992 |
+| ACADL | **HADHB** | 0.994 |
+| ACSS2 | **SCP2** | 0.459 |
+| ACSS2 | **HADHA** | 0.484 |
+| ACSS2 | **HSD17B4** | 0.486 |
+| ACSS2 | **CPT2** | 0.531 |
+| ACSS2 | **ECHS1** | 0.6 |
+| ACSS2 | **ACSS1** | 0.909 |
+| ACSS2 | **ACAA1** | 0.918 |
+| ACSS2 | **HADHB** | 0.932 |
+| ACSS2 | **ACAA2** | 0.933 |
+| ACSS2 | **ECHDC1** | 0.942 |
+| ACSS2 | **ACOX3** | 0.955 |
+| ACSS2 | **ACAT2** | 0.959 |
+| ACSS2 | **ACAT1** | 0.96 |
+| ACAT1 | **CPT2** | 0.493 |
+| ACAT1 | **HSD17B4** | 0.598 |
+| ACAT1 | **ECHDC1** | 0.712 |
+| ACAT1 | **SCP2** | 0.724 |
+| ACAT1 | **ECHS1** | 0.85 |
+| ACAT1 | **HADHB** | 0.944 |
+| ACAT1 | **ACAA1** | 0.946 |
+| ACAT1 | **ACAT2** | 0.95 |
+| ACAT1 | **ACOX3** | 0.962 |
+| ACAT1 | **ACAA2** | 0.963 |
+| ACAT1 | **ACSS1** | 0.964 |
+| ACAT1 | **HADHA** | 0.994 |
+| ACAA2 | **HSD17B4** | 0.664 |
+| ACAA2 | **SCP2** | 0.742 |
+| ACAA2 | **CPT2** | 0.822 |
+| ACAA2 | **ACAT2** | 0.922 |
+| ACAA2 | **ACAA1** | 0.935 |
+| ACAA2 | **ACSS1** | 0.937 |
+| ACAA2 | **ECHDC1** | 0.957 |
+| ACAA2 | **HADHB** | 0.961 |
+| ACAA2 | **ECHS1** | 0.975 |
+| ACAA2 | **ACOX3** | 0.986 |
+| ACAA2 | **HADHA** | 0.998 |
+| ACSS1 | **SCP2** | 0.42 |
+| ACSS1 | **HSD17B4** | 0.457 |
+| ACSS1 | **HADHA** | 0.52 |
+| ACSS1 | **CPT2** | 0.562 |
+| ACSS1 | **ECHS1** | 0.582 |
+| ACSS1 | **ACAA1** | 0.911 |
+| ACSS1 | **HADHB** | 0.931 |
+| ACSS1 | **ECHDC1** | 0.942 |
+| ACSS1 | **ACOX3** | 0.954 |
+| ACSS1 | **ACAT2** | 0.954 |
+| HADHB | **SCP2** | 0.793 |
+| HADHB | **CPT2** | 0.808 |
+| HADHB | **HSD17B4** | 0.93 |
+| HADHB | **ACAT2** | 0.93 |
+| HADHB | **ECHDC1** | 0.939 |
+| HADHB | **ACAA1** | 0.952 |
+| HADHB | **ACOX3** | 0.99 |
+| HADHB | **ECHS1** | 0.994 |
+| HADHB | **HADHA** | 0.999 |
+| ACAA1 | **CPT2** | 0.748 |
+| ACAA1 | **ACAT2** | 0.923 |
+| ACAA1 | **ECHDC1** | 0.954 |
+| ACAA1 | **ECHS1** | 0.977 |
+| ACAA1 | **SCP2** | 0.982 |
+| ACAA1 | **ACOX3** | 0.995 |
+| ACAA1 | **HADHA** | 0.997 |
+| ACAA1 | **HSD17B4** | 0.999 |
+| ACOX3 | **ECHDC1** | 0.954 |
+| ACOX3 | **ACAT2** | 0.957 |
+| ACOX3 | **CPT2** | 0.961 |
+| ACOX3 | **HADHA** | 0.969 |
+| ACOX3 | **SCP2** | 0.978 |
+| ACOX3 | **HSD17B4** | 0.989 |
+| ACOX3 | **ECHS1** | 0.99 |
+| ACAT2 | **CPT2** | 0.495 |
+| ACAT2 | **HSD17B4** | 0.517 |
+| ACAT2 | **SCP2** | 0.672 |
+| ACAT2 | **ECHDC1** | 0.741 |
+| ACAT2 | **ECHS1** | 0.831 |
+| ACAT2 | **HADHA** | 0.974 |
+| ECHS1 | **CPT2** | 0.689 |
+| ECHS1 | **SCP2** | 0.898 |
+| ECHS1 | **HSD17B4** | 0.923 |
+| ECHS1 | **HADHA** | 0.977 |
+| CPT2 | **SCP2** | 0.632 |
+| CPT2 | **HADHA** | 0.841 |
+| CPT2 | **HSD17B4** | 0.89 |
+| SCP2 | **ECHDC1** | 0.809 |
+| SCP2 | **HADHA** | 0.85 |
+| SCP2 | **HSD17B4** | 0.986 |
+| HADHA | **ECHDC1** | 0.643 |
+| HADHA | **HSD17B4** | 0.729 |
+| HSD17B4 | **ECHDC1** | 0.46 |
+

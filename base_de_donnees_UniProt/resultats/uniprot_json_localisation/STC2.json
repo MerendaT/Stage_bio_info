@@ -1,0 +1,341 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O76061",
+      "uniProtkbId": "STC2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "STC2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Has an anti-hypocalcemic action on calcium and phosphate homeostasis"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22503972"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "16502470"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perinuclear region of cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22503972"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019899",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:enzyme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22503972"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0020037",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22503972"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hormone activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15486227"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071456",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046697",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:decidualization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007566",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:embryo implantation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006874",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular calcium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of gene expression"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9753616"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046885",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of hormone biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9753616"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043434",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to peptide hormone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033280",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to vitamin D"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001360B8"
+      }
+    }
+  ]
+}

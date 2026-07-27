@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : HMGN4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HMGN4
+Identifiant STRING officiel : `9606.ENSP00000366798`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL35 | **HMGN4** | 0.939 |
+| RPL35 | **RPS15** | 0.999 |
+| RPL35 | **RPL23A** | 0.999 |
+| RPL35 | **RPL8** | 0.999 |
+| RPL35 | **RPL6** | 0.999 |
+| RPL35 | **RPL11** | 0.999 |
+| RPL35 | **RPS24** | 0.999 |
+| RPL35 | **RPL34** | 0.999 |
+| RPL35 | **RPS18** | 0.999 |
+| RPL35 | **RPL5** | 0.999 |
+| RPL35 | **RPL23** | 0.999 |
+| RPL35 | **RPS19** | 0.999 |
+| RPL35 | **RPS3** | 0.999 |
+| RPL35 | **FAU** | 0.999 |
+| RPL35 | **RPS11** | 0.999 |
+| RPL8 | **HMGN4** | 0.943 |
+| RPL8 | **RPS15** | 0.999 |
+| RPL8 | **RPL23A** | 0.999 |
+| RPL8 | **RPL6** | 0.999 |
+| RPL8 | **RPL11** | 0.999 |
+| RPL8 | **RPS24** | 0.999 |
+| RPL8 | **RPL5** | 0.999 |
+| RPL8 | **RPS18** | 0.999 |
+| RPL8 | **RPL34** | 0.999 |
+| RPL8 | **RPL23** | 0.999 |
+| RPL8 | **RPS19** | 0.999 |
+| RPL8 | **RPS3** | 0.999 |
+| RPL8 | **FAU** | 0.999 |
+| RPL8 | **RPS11** | 0.999 |
+| RPS11 | **HMGN4** | 0.938 |
+| RPS11 | **RPL6** | 0.999 |
+| RPS11 | **RPS24** | 0.999 |
+| RPS11 | **RPL11** | 0.999 |
+| RPS11 | **RPS18** | 0.999 |
+| RPS11 | **RPL34** | 0.999 |
+| RPS11 | **RPL5** | 0.999 |
+| RPS11 | **RPL23** | 0.999 |
+| RPS11 | **RPS19** | 0.999 |
+| RPS11 | **RPS15** | 0.999 |
+| RPS11 | **RPL23A** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS11 | **FAU** | 0.999 |
+| RPS3 | **HMGN4** | 0.938 |
+| RPS3 | **RPS15** | 0.999 |
+| RPS3 | **RPL23A** | 0.999 |
+| RPS3 | **RPL34** | 0.999 |
+| RPS3 | **RPS18** | 0.999 |
+| RPS3 | **RPL5** | 0.999 |
+| RPS3 | **RPS19** | 0.999 |
+| RPS3 | **RPL23** | 0.999 |
+| RPS3 | **RPL6** | 0.999 |
+| RPS3 | **RPS24** | 0.999 |
+| RPS3 | **RPL11** | 0.999 |
+| RPS3 | **FAU** | 0.999 |
+| RPL5 | **HMGN4** | 0.938 |
+| RPL5 | **FAU** | 0.999 |
+| RPL5 | **RPS19** | 0.999 |
+| RPL5 | **RPL23** | 0.999 |
+| RPL5 | **RPL34** | 0.999 |
+| RPL5 | **RPS18** | 0.999 |
+| RPL5 | **RPL11** | 0.999 |
+| RPL5 | **RPS24** | 0.999 |
+| RPL5 | **RPL6** | 0.999 |
+| RPL5 | **RPL23A** | 0.999 |
+| RPL5 | **RPS15** | 0.999 |
+| HMGN4 | **RPL34** | 0.929 |
+| HMGN4 | **RPL6** | 0.931 |
+| HMGN4 | **RPL23A** | 0.932 |
+| HMGN4 | **RPS19** | 0.933 |
+| HMGN4 | **RPS24** | 0.935 |
+| HMGN4 | **RPS18** | 0.939 |
+| HMGN4 | **RPL23** | 0.939 |
+| HMGN4 | **RPS15** | 0.945 |
+| HMGN4 | **RPL11** | 0.949 |
+| HMGN4 | **FAU** | 0.987 |
+| RPL34 | **FAU** | 0.999 |
+| RPL34 | **RPL23** | 0.999 |
+| RPL34 | **RPS19** | 0.999 |
+| RPL34 | **RPS18** | 0.999 |
+| RPL34 | **RPS24** | 0.999 |
+| RPL34 | **RPL11** | 0.999 |
+| RPL34 | **RPL6** | 0.999 |
+| RPL34 | **RPL23A** | 0.999 |
+| RPL34 | **RPS15** | 0.999 |
+| RPL23A | **RPS15** | 0.999 |
+| RPL23A | **RPS24** | 0.999 |
+| RPL23A | **RPL11** | 0.999 |
+| RPL23A | **RPL6** | 0.999 |
+| RPL23A | **RPS19** | 0.999 |
+| RPL23A | **RPL23** | 0.999 |
+| RPL23A | **RPS18** | 0.999 |
+| RPL23A | **FAU** | 0.999 |
+| RPS18 | **RPS15** | 0.999 |
+| RPS18 | **RPL6** | 0.999 |
+| RPS18 | **RPL11** | 0.999 |
+| RPS18 | **RPS24** | 0.999 |
+| RPS18 | **RPL23** | 0.999 |
+| RPS18 | **RPS19** | 0.999 |
+| RPS18 | **FAU** | 0.999 |
+| RPL6 | **FAU** | 0.999 |
+| RPL6 | **RPS15** | 0.999 |
+| RPL6 | **RPL23** | 0.999 |
+| RPL6 | **RPS19** | 0.999 |
+| RPL6 | **RPL11** | 0.999 |
+| RPL6 | **RPS24** | 0.999 |
+| RPS24 | **RPS15** | 0.999 |
+| RPS24 | **RPS19** | 0.999 |
+| RPS24 | **RPL23** | 0.999 |
+| RPS24 | **RPL11** | 0.999 |
+| RPS24 | **FAU** | 0.999 |
+| RPL23 | **RPL11** | 0.999 |
+| RPL23 | **RPS19** | 0.999 |
+| RPL23 | **RPS15** | 0.999 |
+| RPL23 | **FAU** | 0.999 |
+| FAU | **RPS15** | 0.999 |
+| FAU | **RPS19** | 0.999 |
+| FAU | **RPL11** | 0.999 |
+| RPS15 | **RPS19** | 0.999 |
+| RPS15 | **RPL11** | 0.999 |
+| RPS19 | **RPL11** | 0.999 |
+

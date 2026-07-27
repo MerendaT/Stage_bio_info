@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : JPH1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : JPH1
+Identifiant STRING officiel : `9606.ENSP00000344488`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| JPH3 | **STAC3** | 0.452 |
+| JPH3 | **STIM1** | 0.496 |
+| JPH3 | **CALML3** | 0.532 |
+| JPH3 | **CALM3** | 0.577 |
+| JPH3 | **JPH2** | 0.591 |
+| JPH3 | **JPH1** | 0.598 |
+| JPH3 | **CASQ1** | 0.618 |
+| JPH3 | **RYR2** | 0.693 |
+| JPH3 | **ASPH** | 0.718 |
+| JPH3 | **JPH4** | 0.719 |
+| JPH3 | **SYPL2** | 0.73 |
+| JPH3 | **RYR1** | 0.743 |
+| JPH3 | **CACNA1D** | 0.778 |
+| JPH3 | **CACNA1S** | 0.836 |
+| JPH3 | **TRDN** | 0.885 |
+| CACNA1D | **JPH2** | 0.531 |
+| CACNA1D | **STIM1** | 0.667 |
+| CACNA1D | **JPH1** | 0.676 |
+| CACNA1D | **JPH4** | 0.763 |
+| CACNA1D | **STAC3** | 0.81 |
+| CACNA1D | **RYR1** | 0.865 |
+| CACNA1D | **RYR2** | 0.944 |
+| CACNA1D | **CACNA1S** | 0.975 |
+| CACNA1D | **CALML3** | 0.99 |
+| CACNA1D | **CALM3** | 0.99 |
+| CALM3 | **CASQ1** | 0.421 |
+| CALM3 | **JPH4** | 0.593 |
+| CALM3 | **JPH1** | 0.597 |
+| CALM3 | **JPH2** | 0.64 |
+| CALM3 | **STIM1** | 0.794 |
+| CALM3 | **ASPH** | 0.811 |
+| CALM3 | **TRDN** | 0.952 |
+| CALM3 | **CACNA1S** | 0.99 |
+| CALM3 | **CALML3** | 0.996 |
+| CALM3 | **RYR1** | 0.999 |
+| CALM3 | **RYR2** | 0.999 |
+| CALML3 | **CASQ1** | 0.405 |
+| CALML3 | **JPH4** | 0.554 |
+| CALML3 | **JPH1** | 0.575 |
+| CALML3 | **JPH2** | 0.609 |
+| CALML3 | **STIM1** | 0.691 |
+| CALML3 | **ASPH** | 0.754 |
+| CALML3 | **CACNA1S** | 0.902 |
+| CALML3 | **TRDN** | 0.918 |
+| CALML3 | **RYR2** | 0.999 |
+| CALML3 | **RYR1** | 0.999 |
+| STAC3 | **JPH4** | 0.498 |
+| STAC3 | **JPH2** | 0.569 |
+| STAC3 | **JPH1** | 0.594 |
+| STAC3 | **ASPH** | 0.641 |
+| STAC3 | **CASQ1** | 0.679 |
+| STAC3 | **TRDN** | 0.694 |
+| STAC3 | **RYR1** | 0.961 |
+| STAC3 | **CACNA1S** | 0.973 |
+| TRDN | **STIM1** | 0.594 |
+| TRDN | **SYPL2** | 0.699 |
+| TRDN | **CACNA1S** | 0.771 |
+| TRDN | **JPH4** | 0.884 |
+| TRDN | **JPH1** | 0.936 |
+| TRDN | **JPH2** | 0.945 |
+| TRDN | **RYR1** | 0.997 |
+| TRDN | **CASQ1** | 0.998 |
+| TRDN | **RYR2** | 0.999 |
+| TRDN | **ASPH** | 0.999 |
+| JPH1 | **JPH2** | 0.585 |
+| JPH1 | **RYR2** | 0.599 |
+| JPH1 | **JPH4** | 0.639 |
+| JPH1 | **STIM1** | 0.665 |
+| JPH1 | **CASQ1** | 0.744 |
+| JPH1 | **SYPL2** | 0.791 |
+| JPH1 | **CACNA1S** | 0.792 |
+| JPH1 | **ASPH** | 0.83 |
+| JPH1 | **RYR1** | 0.948 |
+| RYR1 | **SYPL2** | 0.634 |
+| RYR1 | **STIM1** | 0.76 |
+| RYR1 | **JPH4** | 0.778 |
+| RYR1 | **JPH2** | 0.825 |
+| RYR1 | **ASPH** | 0.953 |
+| RYR1 | **RYR2** | 0.972 |
+| RYR1 | **CASQ1** | 0.979 |
+| RYR1 | **CACNA1S** | 0.997 |
+| CACNA1S | **SYPL2** | 0.456 |
+| CACNA1S | **STIM1** | 0.462 |
+| CACNA1S | **ASPH** | 0.536 |
+| CACNA1S | **CASQ1** | 0.584 |
+| CACNA1S | **JPH2** | 0.771 |
+| CACNA1S | **RYR2** | 0.801 |
+| CACNA1S | **JPH4** | 0.859 |
+| RYR2 | **STIM1** | 0.506 |
+| RYR2 | **JPH4** | 0.697 |
+| RYR2 | **JPH2** | 0.768 |
+| RYR2 | **CASQ1** | 0.967 |
+| RYR2 | **ASPH** | 0.998 |
+| CASQ1 | **STIM1** | 0.515 |
+| CASQ1 | **JPH4** | 0.642 |
+| CASQ1 | **SYPL2** | 0.683 |
+| CASQ1 | **JPH2** | 0.71 |
+| CASQ1 | **ASPH** | 0.998 |
+| SYPL2 | **STIM1** | 0.401 |
+| SYPL2 | **ASPH** | 0.643 |
+| SYPL2 | **JPH4** | 0.752 |
+| SYPL2 | **JPH2** | 0.768 |
+| JPH2 | **STIM1** | 0.529 |
+| JPH2 | **JPH4** | 0.634 |
+| JPH2 | **ASPH** | 0.76 |
+| ASPH | **STIM1** | 0.671 |
+| ASPH | **JPH4** | 0.786 |
+| JPH4 | **STIM1** | 0.726 |
+

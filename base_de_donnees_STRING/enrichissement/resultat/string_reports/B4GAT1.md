@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : B4GAT1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : B4GAT1
+Identifiant STRING officiel : `9606.ENSP00000309096`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| FKTN | **DPM1** | 0.715 |
+| FKTN | **DOLK** | 0.733 |
+| FKTN | **LARGE2** | 0.768 |
+| FKTN | **B4GAT1** | 0.81 |
+| FKTN | **B3GALNT2** | 0.846 |
+| FKTN | **POMGNT2** | 0.86 |
+| FKTN | **LARGE1** | 0.928 |
+| FKTN | **RXYLT1** | 0.936 |
+| FKTN | **DAG1** | 0.977 |
+| FKTN | **CRPPA** | 0.978 |
+| FKTN | **POMK** | 0.984 |
+| FKTN | **POMT1** | 0.986 |
+| FKTN | **POMT2** | 0.986 |
+| FKTN | **POMGNT1** | 0.99 |
+| FKTN | **FKRP** | 0.998 |
+| RXYLT1 | **LARGE2** | 0.694 |
+| RXYLT1 | **DAG1** | 0.72 |
+| RXYLT1 | **DPM1** | 0.745 |
+| RXYLT1 | **DOLK** | 0.773 |
+| RXYLT1 | **LARGE1** | 0.801 |
+| RXYLT1 | **CRPPA** | 0.801 |
+| RXYLT1 | **POMT2** | 0.862 |
+| RXYLT1 | **POMT1** | 0.862 |
+| RXYLT1 | **POMK** | 0.876 |
+| RXYLT1 | **B3GALNT2** | 0.878 |
+| RXYLT1 | **POMGNT2** | 0.893 |
+| RXYLT1 | **POMGNT1** | 0.905 |
+| RXYLT1 | **B4GAT1** | 0.985 |
+| RXYLT1 | **FKRP** | 0.991 |
+| POMT2 | **LARGE2** | 0.741 |
+| POMT2 | **B4GAT1** | 0.755 |
+| POMT2 | **CRPPA** | 0.758 |
+| POMT2 | **DPM1** | 0.76 |
+| POMT2 | **DOLK** | 0.796 |
+| POMT2 | **POMK** | 0.847 |
+| POMT2 | **B3GALNT2** | 0.851 |
+| POMT2 | **LARGE1** | 0.855 |
+| POMT2 | **POMGNT2** | 0.986 |
+| POMT2 | **FKRP** | 0.987 |
+| POMT2 | **DAG1** | 0.992 |
+| POMT2 | **POMT1** | 0.997 |
+| POMT2 | **POMGNT1** | 0.998 |
+| B4GAT1 | **DPM1** | 0.623 |
+| B4GAT1 | **DOLK** | 0.642 |
+| B4GAT1 | **DAG1** | 0.72 |
+| B4GAT1 | **POMGNT1** | 0.729 |
+| B4GAT1 | **CRPPA** | 0.746 |
+| B4GAT1 | **FKRP** | 0.802 |
+| B4GAT1 | **B3GALNT2** | 0.841 |
+| B4GAT1 | **POMT1** | 0.842 |
+| B4GAT1 | **POMGNT2** | 0.852 |
+| B4GAT1 | **POMK** | 0.865 |
+| B4GAT1 | **LARGE1** | 0.953 |
+| B4GAT1 | **LARGE2** | 0.957 |
+| FKRP | **DPM1** | 0.689 |
+| FKRP | **DOLK** | 0.718 |
+| FKRP | **LARGE2** | 0.734 |
+| FKRP | **CRPPA** | 0.776 |
+| FKRP | **B3GALNT2** | 0.829 |
+| FKRP | **POMK** | 0.846 |
+| FKRP | **POMGNT2** | 0.862 |
+| FKRP | **LARGE1** | 0.864 |
+| FKRP | **DAG1** | 0.978 |
+| FKRP | **POMT1** | 0.986 |
+| FKRP | **POMGNT1** | 0.986 |
+| POMK | **LARGE2** | 0.654 |
+| POMK | **CRPPA** | 0.706 |
+| POMK | **LARGE1** | 0.724 |
+| POMK | **DOLK** | 0.726 |
+| POMK | **DPM1** | 0.736 |
+| POMK | **POMT1** | 0.855 |
+| POMK | **POMGNT1** | 0.89 |
+| POMK | **POMGNT2** | 0.892 |
+| POMK | **DAG1** | 0.921 |
+| POMK | **B3GALNT2** | 0.987 |
+| POMGNT2 | **LARGE2** | 0.627 |
+| POMGNT2 | **LARGE1** | 0.711 |
+| POMGNT2 | **CRPPA** | 0.744 |
+| POMGNT2 | **DPM1** | 0.764 |
+| POMGNT2 | **DOLK** | 0.793 |
+| POMGNT2 | **POMGNT1** | 0.985 |
+| POMGNT2 | **DAG1** | 0.985 |
+| POMGNT2 | **POMT1** | 0.987 |
+| POMGNT2 | **B3GALNT2** | 0.989 |
+| LARGE1 | **DPM1** | 0.486 |
+| LARGE1 | **DOLK** | 0.507 |
+| LARGE1 | **CRPPA** | 0.67 |
+| LARGE1 | **B3GALNT2** | 0.722 |
+| LARGE1 | **POMT1** | 0.875 |
+| LARGE1 | **DAG1** | 0.897 |
+| LARGE1 | **LARGE2** | 0.904 |
+| LARGE1 | **POMGNT1** | 0.914 |
+| B3GALNT2 | **LARGE2** | 0.649 |
+| B3GALNT2 | **CRPPA** | 0.681 |
+| B3GALNT2 | **DPM1** | 0.742 |
+| B3GALNT2 | **DOLK** | 0.752 |
+| B3GALNT2 | **POMGNT1** | 0.834 |
+| B3GALNT2 | **POMT1** | 0.854 |
+| B3GALNT2 | **DAG1** | 0.927 |
+| DPM1 | **DAG1** | 0.541 |
+| DPM1 | **POMGNT1** | 0.716 |
+| DPM1 | **POMT1** | 0.752 |
+| DPM1 | **DOLK** | 0.817 |
+| POMGNT1 | **CRPPA** | 0.695 |
+| POMGNT1 | **DOLK** | 0.728 |
+| POMGNT1 | **LARGE2** | 0.739 |
+| POMGNT1 | **DAG1** | 0.992 |
+| POMGNT1 | **POMT1** | 0.998 |
+| POMT1 | **LARGE2** | 0.746 |
+| POMT1 | **CRPPA** | 0.763 |
+| POMT1 | **DOLK** | 0.785 |
+| POMT1 | **DAG1** | 0.994 |
+| DOLK | **LARGE2** | 0.408 |
+| DOLK | **CRPPA** | 0.551 |
+| DOLK | **DAG1** | 0.625 |
+| LARGE2 | **CRPPA** | 0.521 |
+| LARGE2 | **DAG1** | 0.912 |
+| CRPPA | **DAG1** | 0.7 |
+

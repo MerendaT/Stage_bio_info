@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TAB2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TAB2
+Identifiant STRING officiel : `9606.ENSP00000356426`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TNFRSF1A | **IRAK1** | 0.612 |
+| TNFRSF1A | **TAB3** | 0.711 |
+| TNFRSF1A | **UBC** | 0.734 |
+| TNFRSF1A | **TLR3** | 0.752 |
+| TNFRSF1A | **TAB1** | 0.835 |
+| TNFRSF1A | **TRAF6** | 0.996 |
+| TNFRSF1A | **TAB2** | 0.998 |
+| TNFRSF1A | **IKBKB** | 0.999 |
+| TNFRSF1A | **TNF** | 0.999 |
+| TNFRSF1A | **CHUK** | 0.999 |
+| TNFRSF1A | **RIPK1** | 0.999 |
+| TNFRSF1A | **TRAF2** | 0.999 |
+| TNFRSF1A | **IKBKG** | 0.999 |
+| TNFRSF1A | **MAP3K7** | 0.999 |
+| TAB1 | **UBC** | 0.631 |
+| TAB1 | **TRAF2** | 0.975 |
+| TAB1 | **RIPK1** | 0.983 |
+| TAB1 | **TLR3** | 0.985 |
+| TAB1 | **IRAK1** | 0.993 |
+| TAB1 | **CHUK** | 0.993 |
+| TAB1 | **IKBKB** | 0.994 |
+| TAB1 | **TNF** | 0.998 |
+| TAB1 | **TAB3** | 0.999 |
+| TAB1 | **MAP3K7** | 0.999 |
+| TAB1 | **IKBKG** | 0.999 |
+| TAB1 | **TAB2** | 0.999 |
+| TAB1 | **TRAF6** | 0.999 |
+| TRAF2 | **UBC** | 0.814 |
+| TRAF2 | **IRAK1** | 0.939 |
+| TRAF2 | **TAB3** | 0.957 |
+| TRAF2 | **MAP3K7** | 0.988 |
+| TRAF2 | **IKBKB** | 0.994 |
+| TRAF2 | **TAB2** | 0.994 |
+| TRAF2 | **CHUK** | 0.995 |
+| TRAF2 | **TRAF6** | 0.995 |
+| TRAF2 | **TNF** | 0.999 |
+| TRAF2 | **RIPK1** | 0.999 |
+| TRAF2 | **IKBKG** | 0.999 |
+| RIPK1 | **UBC** | 0.837 |
+| RIPK1 | **TAB3** | 0.987 |
+| RIPK1 | **IKBKB** | 0.987 |
+| RIPK1 | **MAP3K7** | 0.996 |
+| RIPK1 | **TLR3** | 0.998 |
+| RIPK1 | **CHUK** | 0.998 |
+| RIPK1 | **TRAF6** | 0.998 |
+| RIPK1 | **IKBKG** | 0.999 |
+| RIPK1 | **TAB2** | 0.999 |
+| RIPK1 | **TNF** | 0.999 |
+| NCOR1 | **CHUK** | 0.404 |
+| NCOR1 | **UBC** | 0.65 |
+| NCOR1 | **TAB2** | 0.999 |
+| TLR3 | **UBC** | 0.559 |
+| TLR3 | **IKBKB** | 0.808 |
+| TLR3 | **IKBKG** | 0.849 |
+| TLR3 | **CHUK** | 0.88 |
+| TLR3 | **TNF** | 0.882 |
+| TLR3 | **IRAK1** | 0.917 |
+| TLR3 | **TAB3** | 0.923 |
+| TLR3 | **MAP3K7** | 0.992 |
+| TLR3 | **TAB2** | 0.993 |
+| TLR3 | **TRAF6** | 0.999 |
+| TAB2 | **CHUK** | 0.991 |
+| TAB2 | **IKBKB** | 0.992 |
+| TAB2 | **MAP3K7** | 0.999 |
+| TAB2 | **IKBKG** | 0.999 |
+| TAB2 | **UBC** | 0.999 |
+| TAB2 | **TAB3** | 0.999 |
+| TAB2 | **IRAK1** | 0.999 |
+| TAB2 | **TNF** | 0.999 |
+| TAB2 | **TRAF6** | 0.999 |
+| MAP3K7 | **UBC** | 0.7 |
+| MAP3K7 | **IRAK1** | 0.987 |
+| MAP3K7 | **CHUK** | 0.994 |
+| MAP3K7 | **IKBKB** | 0.996 |
+| MAP3K7 | **IKBKG** | 0.999 |
+| MAP3K7 | **TAB3** | 0.999 |
+| MAP3K7 | **TRAF6** | 0.999 |
+| MAP3K7 | **TNF** | 0.999 |
+| IRAK1 | **UBC** | 0.573 |
+| IRAK1 | **TNF** | 0.899 |
+| IRAK1 | **IKBKB** | 0.903 |
+| IRAK1 | **TAB3** | 0.961 |
+| IRAK1 | **TRAF6** | 0.999 |
+| IRAK1 | **CHUK** | 0.999 |
+| IRAK1 | **IKBKG** | 0.999 |
+| CHUK | **UBC** | 0.652 |
+| CHUK | **TAB3** | 0.973 |
+| CHUK | **TNF** | 0.999 |
+| CHUK | **IKBKB** | 0.999 |
+| CHUK | **TRAF6** | 0.999 |
+| CHUK | **IKBKG** | 0.999 |
+| TAB3 | **TNF** | 0.917 |
+| TAB3 | **UBC** | 0.92 |
+| TAB3 | **IKBKB** | 0.986 |
+| TAB3 | **TRAF6** | 0.999 |
+| TAB3 | **IKBKG** | 0.999 |
+| TNF | **TRAF6** | 0.998 |
+| TNF | **UBC** | 0.998 |
+| TNF | **IKBKB** | 0.999 |
+| TNF | **IKBKG** | 0.999 |
+| IKBKB | **UBC** | 0.651 |
+| IKBKB | **TRAF6** | 0.999 |
+| IKBKB | **IKBKG** | 0.999 |
+| TRAF6 | **UBC** | 0.976 |
+| TRAF6 | **IKBKG** | 0.999 |
+| UBC | **IKBKG** | 0.999 |
+

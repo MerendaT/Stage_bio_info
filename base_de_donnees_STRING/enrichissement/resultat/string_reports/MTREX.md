@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MTREX
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MTREX
+Identifiant STRING officiel : `9606.ENSP00000230640`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EXOSC5 | **TENT4A** | 0.517 |
+| EXOSC5 | **TENT4B** | 0.529 |
+| EXOSC5 | **ZCCHC7** | 0.668 |
+| EXOSC5 | **ZCCHC8** | 0.857 |
+| EXOSC5 | **RBM7** | 0.885 |
+| EXOSC5 | **MPHOSPH6** | 0.999 |
+| EXOSC5 | **C1D** | 0.999 |
+| EXOSC5 | **EXOSC9** | 0.999 |
+| EXOSC5 | **EXOSC10** | 0.999 |
+| EXOSC5 | **EXOSC3** | 0.999 |
+| EXOSC5 | **EXOSC2** | 0.999 |
+| EXOSC5 | **EXOSC7** | 0.999 |
+| EXOSC5 | **EXOSC4** | 0.999 |
+| EXOSC5 | **MTREX** | 0.999 |
+| MTREX | **MPHOSPH6** | 0.997 |
+| MTREX | **EXOSC3** | 0.998 |
+| MTREX | **TENT4B** | 0.998 |
+| MTREX | **EXOSC7** | 0.998 |
+| MTREX | **EXOSC4** | 0.998 |
+| MTREX | **C1D** | 0.999 |
+| MTREX | **TENT4A** | 0.999 |
+| MTREX | **EXOSC10** | 0.999 |
+| MTREX | **EXOSC9** | 0.999 |
+| MTREX | **ZCCHC8** | 0.999 |
+| MTREX | **EXOSC2** | 0.999 |
+| MTREX | **ZCCHC7** | 0.999 |
+| MTREX | **NOP53** | 0.999 |
+| MTREX | **RBM7** | 0.999 |
+| NOP53 | **EXOSC4** | 0.412 |
+| NOP53 | **EXOSC9** | 0.447 |
+| NOP53 | **ZCCHC8** | 0.504 |
+| NOP53 | **ZCCHC7** | 0.593 |
+| NOP53 | **C1D** | 0.658 |
+| NOP53 | **EXOSC10** | 0.705 |
+| MPHOSPH6 | **ZCCHC8** | 0.701 |
+| MPHOSPH6 | **RBM7** | 0.744 |
+| MPHOSPH6 | **C1D** | 0.996 |
+| MPHOSPH6 | **EXOSC10** | 0.998 |
+| MPHOSPH6 | **EXOSC9** | 0.998 |
+| MPHOSPH6 | **EXOSC2** | 0.998 |
+| MPHOSPH6 | **EXOSC4** | 0.999 |
+| MPHOSPH6 | **EXOSC7** | 0.999 |
+| MPHOSPH6 | **EXOSC3** | 0.999 |
+| EXOSC7 | **TENT4B** | 0.448 |
+| EXOSC7 | **TENT4A** | 0.493 |
+| EXOSC7 | **ZCCHC7** | 0.603 |
+| EXOSC7 | **RBM7** | 0.905 |
+| EXOSC7 | **ZCCHC8** | 0.906 |
+| EXOSC7 | **C1D** | 0.998 |
+| EXOSC7 | **EXOSC4** | 0.999 |
+| EXOSC7 | **EXOSC10** | 0.999 |
+| EXOSC7 | **EXOSC9** | 0.999 |
+| EXOSC7 | **EXOSC3** | 0.999 |
+| EXOSC7 | **EXOSC2** | 0.999 |
+| EXOSC4 | **TENT4A** | 0.534 |
+| EXOSC4 | **TENT4B** | 0.543 |
+| EXOSC4 | **ZCCHC7** | 0.7 |
+| EXOSC4 | **ZCCHC8** | 0.799 |
+| EXOSC4 | **RBM7** | 0.835 |
+| EXOSC4 | **C1D** | 0.997 |
+| EXOSC4 | **EXOSC3** | 0.999 |
+| EXOSC4 | **EXOSC2** | 0.999 |
+| EXOSC4 | **EXOSC10** | 0.999 |
+| EXOSC4 | **EXOSC9** | 0.999 |
+| EXOSC3 | **TENT4A** | 0.552 |
+| EXOSC3 | **TENT4B** | 0.6 |
+| EXOSC3 | **ZCCHC7** | 0.683 |
+| EXOSC3 | **ZCCHC8** | 0.944 |
+| EXOSC3 | **RBM7** | 0.967 |
+| EXOSC3 | **EXOSC9** | 0.999 |
+| EXOSC3 | **EXOSC10** | 0.999 |
+| EXOSC3 | **C1D** | 0.999 |
+| EXOSC3 | **EXOSC2** | 0.999 |
+| C1D | **TENT4B** | 0.515 |
+| C1D | **TENT4A** | 0.553 |
+| C1D | **ZCCHC7** | 0.776 |
+| C1D | **ZCCHC8** | 0.856 |
+| C1D | **RBM7** | 0.904 |
+| C1D | **EXOSC10** | 0.999 |
+| C1D | **EXOSC9** | 0.999 |
+| C1D | **EXOSC2** | 0.999 |
+| EXOSC2 | **TENT4B** | 0.415 |
+| EXOSC2 | **ZCCHC7** | 0.517 |
+| EXOSC2 | **ZCCHC8** | 0.831 |
+| EXOSC2 | **RBM7** | 0.89 |
+| EXOSC2 | **EXOSC9** | 0.999 |
+| EXOSC2 | **EXOSC10** | 0.999 |
+| RBM7 | **TENT4A** | 0.616 |
+| RBM7 | **TENT4B** | 0.662 |
+| RBM7 | **EXOSC9** | 0.821 |
+| RBM7 | **ZCCHC7** | 0.864 |
+| RBM7 | **EXOSC10** | 0.912 |
+| RBM7 | **ZCCHC8** | 0.999 |
+| EXOSC10 | **ZCCHC8** | 0.824 |
+| EXOSC10 | **TENT4B** | 0.872 |
+| EXOSC10 | **TENT4A** | 0.875 |
+| EXOSC10 | **ZCCHC7** | 0.902 |
+| EXOSC10 | **EXOSC9** | 0.999 |
+| EXOSC9 | **TENT4B** | 0.484 |
+| EXOSC9 | **TENT4A** | 0.499 |
+| EXOSC9 | **ZCCHC8** | 0.672 |
+| EXOSC9 | **ZCCHC7** | 0.707 |
+| TENT4B | **TENT4A** | 0.729 |
+| TENT4B | **ZCCHC8** | 0.966 |
+| TENT4B | **ZCCHC7** | 0.999 |
+| ZCCHC8 | **TENT4A** | 0.82 |
+| ZCCHC8 | **ZCCHC7** | 0.903 |
+| ZCCHC7 | **TENT4A** | 0.999 |
+

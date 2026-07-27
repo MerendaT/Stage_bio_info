@@ -1,0 +1,241 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q8IXH6",
+      "uniProtkbId": "T53I2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "TP53INP2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18030323"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19056683"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22470510"
+                }
+              ],
+              "value": "Dual regulator of transcription and autophagy. Positively regulates autophagy and is required for autophagosome formation and processing. May act as a scaffold protein that recruits MAP1LC3A, GABARAP and GABARAPL2 and brings them to the autophagosome membrane by interacting with VMP1 where, in cooperation with the BECN1-PI3-kinase class III complex, they trigger autophagosome development. Acts as a transcriptional activator of THRA"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "Shuttles between the nucleus and the cytoplasm, depending on cellular stress conditions, and re-localizes to autophagosomes on autophagy activation"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            },
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "value": "Nucleus, PML body",
+                "id": "SL-0465"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasmic vesicle, autophagosome",
+                "id": "SL-0023"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005776",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:autophagosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19056683"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22470510"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasmic vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22470510"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19056683"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22470510"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016605",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:PML body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000045",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:autophagosome assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19056683"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22470510"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000074230"
+      }
+    }
+  ]
+}

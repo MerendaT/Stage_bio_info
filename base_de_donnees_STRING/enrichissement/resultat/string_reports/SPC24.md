@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SPC24
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SPC24
+Identifiant STRING officiel : `9606.ENSP00000465075`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NDC80 | **CENPT** | 0.772 |
+| NDC80 | **CDCA3** | 0.822 |
+| NDC80 | **PMF1** | 0.877 |
+| NDC80 | **BIRC5** | 0.885 |
+| NDC80 | **CDC20** | 0.962 |
+| NDC80 | **NSL1** | 0.965 |
+| NDC80 | **SKA1** | 0.979 |
+| NDC80 | **DSN1** | 0.987 |
+| NDC80 | **MIS12** | 0.991 |
+| NDC80 | **ZWINT** | 0.991 |
+| NDC80 | **KNL1** | 0.995 |
+| NDC80 | **BUB1** | 0.998 |
+| NDC80 | **SPC24** | 0.999 |
+| NDC80 | **NUF2** | 0.999 |
+| NDC80 | **SPC25** | 0.999 |
+| NUF2 | **CENPT** | 0.773 |
+| NUF2 | **CDCA3** | 0.844 |
+| NUF2 | **SKA1** | 0.939 |
+| NUF2 | **BIRC5** | 0.949 |
+| NUF2 | **PMF1** | 0.954 |
+| NUF2 | **CDC20** | 0.962 |
+| NUF2 | **NSL1** | 0.976 |
+| NUF2 | **MIS12** | 0.986 |
+| NUF2 | **ZWINT** | 0.991 |
+| NUF2 | **DSN1** | 0.991 |
+| NUF2 | **KNL1** | 0.992 |
+| NUF2 | **BUB1** | 0.994 |
+| NUF2 | **SPC25** | 0.999 |
+| NUF2 | **SPC24** | 0.999 |
+| SPC25 | **SKA1** | 0.692 |
+| SPC25 | **CDCA3** | 0.73 |
+| SPC25 | **CDC20** | 0.802 |
+| SPC25 | **BIRC5** | 0.847 |
+| SPC25 | **PMF1** | 0.896 |
+| SPC25 | **CENPT** | 0.951 |
+| SPC25 | **NSL1** | 0.952 |
+| SPC25 | **KNL1** | 0.958 |
+| SPC25 | **DSN1** | 0.963 |
+| SPC25 | **BUB1** | 0.967 |
+| SPC25 | **MIS12** | 0.971 |
+| SPC25 | **ZWINT** | 0.984 |
+| SPC25 | **SPC24** | 0.999 |
+| SKA1 | **CENPT** | 0.474 |
+| SKA1 | **MIS12** | 0.506 |
+| SKA1 | **DSN1** | 0.594 |
+| SKA1 | **ZWINT** | 0.621 |
+| SKA1 | **BIRC5** | 0.752 |
+| SKA1 | **KNL1** | 0.768 |
+| SKA1 | **CDCA3** | 0.772 |
+| SKA1 | **BUB1** | 0.82 |
+| SKA1 | **SPC24** | 0.869 |
+| SKA1 | **CDC20** | 0.933 |
+| BIRC5 | **KNL1** | 0.514 |
+| BIRC5 | **DSN1** | 0.571 |
+| BIRC5 | **ZWINT** | 0.917 |
+| BIRC5 | **SPC24** | 0.924 |
+| BIRC5 | **CDCA3** | 0.96 |
+| BIRC5 | **BUB1** | 0.979 |
+| BIRC5 | **CDC20** | 0.995 |
+| BUB1 | **CENPT** | 0.632 |
+| BUB1 | **PMF1** | 0.833 |
+| BUB1 | **CDCA3** | 0.87 |
+| BUB1 | **NSL1** | 0.884 |
+| BUB1 | **MIS12** | 0.918 |
+| BUB1 | **SPC24** | 0.926 |
+| BUB1 | **DSN1** | 0.944 |
+| BUB1 | **ZWINT** | 0.991 |
+| BUB1 | **CDC20** | 0.999 |
+| BUB1 | **KNL1** | 0.999 |
+| KNL1 | **CENPT** | 0.883 |
+| KNL1 | **CDC20** | 0.95 |
+| KNL1 | **PMF1** | 0.98 |
+| KNL1 | **SPC24** | 0.992 |
+| KNL1 | **DSN1** | 0.996 |
+| KNL1 | **MIS12** | 0.998 |
+| KNL1 | **NSL1** | 0.999 |
+| KNL1 | **ZWINT** | 0.999 |
+| NSL1 | **CDC20** | 0.571 |
+| NSL1 | **SPC24** | 0.977 |
+| NSL1 | **ZWINT** | 0.997 |
+| NSL1 | **MIS12** | 0.999 |
+| NSL1 | **DSN1** | 0.999 |
+| NSL1 | **PMF1** | 0.999 |
+| PMF1 | **CDC20** | 0.573 |
+| PMF1 | **CENPT** | 0.661 |
+| PMF1 | **SPC24** | 0.972 |
+| PMF1 | **ZWINT** | 0.994 |
+| PMF1 | **DSN1** | 0.999 |
+| PMF1 | **MIS12** | 0.999 |
+| CDC20 | **CENPT** | 0.689 |
+| CDC20 | **MIS12** | 0.703 |
+| CDC20 | **DSN1** | 0.731 |
+| CDC20 | **SPC24** | 0.9 |
+| CDC20 | **ZWINT** | 0.968 |
+| CDC20 | **CDCA3** | 0.981 |
+| ZWINT | **CDCA3** | 0.548 |
+| ZWINT | **CENPT** | 0.561 |
+| ZWINT | **SPC24** | 0.985 |
+| ZWINT | **MIS12** | 0.989 |
+| ZWINT | **DSN1** | 0.998 |
+| MIS12 | **CENPT** | 0.744 |
+| MIS12 | **SPC24** | 0.993 |
+| MIS12 | **DSN1** | 0.999 |
+| DSN1 | **CENPT** | 0.826 |
+| DSN1 | **SPC24** | 0.993 |
+| CDCA3 | **SPC24** | 0.825 |
+| CENPT | **SPC24** | 0.99 |
+

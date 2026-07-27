@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MDN1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MDN1
+Identifiant STRING officiel : `9606.ENSP00000358400`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RSL24D1 | **TEX10** | 0.661 |
+| RSL24D1 | **MDN1** | 0.837 |
+| RSL24D1 | **WDR18** | 0.888 |
+| RSL24D1 | **NLE1** | 0.957 |
+| RSL24D1 | **SDAD1** | 0.964 |
+| RSL24D1 | **PA2G4** | 0.986 |
+| RSL24D1 | **BOP1** | 0.989 |
+| RSL24D1 | **WDR74** | 0.993 |
+| RSL24D1 | **FTSJ3** | 0.995 |
+| RSL24D1 | **ZNF593** | 0.998 |
+| RSL24D1 | **WDR12** | 0.998 |
+| RSL24D1 | **MRTO4** | 0.999 |
+| RSL24D1 | **NSA2** | 0.999 |
+| RSL24D1 | **GNL2** | 0.999 |
+| RSL24D1 | **GTPBP4** | 0.999 |
+| WDR12 | **ZNF593** | 0.507 |
+| WDR12 | **TEX10** | 0.829 |
+| WDR12 | **NLE1** | 0.859 |
+| WDR12 | **SDAD1** | 0.871 |
+| WDR12 | **PA2G4** | 0.905 |
+| WDR12 | **WDR18** | 0.966 |
+| WDR12 | **GNL2** | 0.969 |
+| WDR12 | **MDN1** | 0.994 |
+| WDR12 | **FTSJ3** | 0.996 |
+| WDR12 | **GTPBP4** | 0.997 |
+| WDR12 | **NSA2** | 0.997 |
+| WDR12 | **MRTO4** | 0.997 |
+| WDR12 | **WDR74** | 0.998 |
+| WDR12 | **BOP1** | 0.999 |
+| PA2G4 | **MDN1** | 0.828 |
+| PA2G4 | **TEX10** | 0.887 |
+| PA2G4 | **WDR74** | 0.889 |
+| PA2G4 | **FTSJ3** | 0.893 |
+| PA2G4 | **BOP1** | 0.929 |
+| PA2G4 | **ZNF593** | 0.965 |
+| PA2G4 | **NLE1** | 0.978 |
+| PA2G4 | **SDAD1** | 0.981 |
+| PA2G4 | **NSA2** | 0.986 |
+| PA2G4 | **WDR18** | 0.986 |
+| PA2G4 | **MRTO4** | 0.988 |
+| PA2G4 | **GNL2** | 0.993 |
+| PA2G4 | **GTPBP4** | 0.996 |
+| SDAD1 | **WDR74** | 0.728 |
+| SDAD1 | **BOP1** | 0.779 |
+| SDAD1 | **MDN1** | 0.866 |
+| SDAD1 | **TEX10** | 0.882 |
+| SDAD1 | **FTSJ3** | 0.895 |
+| SDAD1 | **ZNF593** | 0.97 |
+| SDAD1 | **WDR18** | 0.976 |
+| SDAD1 | **MRTO4** | 0.978 |
+| SDAD1 | **NSA2** | 0.984 |
+| SDAD1 | **NLE1** | 0.987 |
+| SDAD1 | **GNL2** | 0.992 |
+| SDAD1 | **GTPBP4** | 0.997 |
+| GTPBP4 | **MDN1** | 0.886 |
+| GTPBP4 | **TEX10** | 0.927 |
+| GTPBP4 | **WDR18** | 0.947 |
+| GTPBP4 | **NLE1** | 0.983 |
+| GTPBP4 | **WDR74** | 0.994 |
+| GTPBP4 | **ZNF593** | 0.995 |
+| GTPBP4 | **FTSJ3** | 0.995 |
+| GTPBP4 | **BOP1** | 0.996 |
+| GTPBP4 | **MRTO4** | 0.999 |
+| GTPBP4 | **NSA2** | 0.999 |
+| GTPBP4 | **GNL2** | 0.999 |
+| MDN1 | **FTSJ3** | 0.817 |
+| MDN1 | **ZNF593** | 0.824 |
+| MDN1 | **BOP1** | 0.841 |
+| MDN1 | **WDR74** | 0.895 |
+| MDN1 | **TEX10** | 0.919 |
+| MDN1 | **MRTO4** | 0.92 |
+| MDN1 | **WDR18** | 0.933 |
+| MDN1 | **NSA2** | 0.934 |
+| MDN1 | **GNL2** | 0.962 |
+| MDN1 | **NLE1** | 0.982 |
+| GNL2 | **BOP1** | 0.966 |
+| GNL2 | **TEX10** | 0.969 |
+| GNL2 | **FTSJ3** | 0.975 |
+| GNL2 | **WDR74** | 0.976 |
+| GNL2 | **NLE1** | 0.987 |
+| GNL2 | **WDR18** | 0.992 |
+| GNL2 | **MRTO4** | 0.995 |
+| GNL2 | **ZNF593** | 0.997 |
+| GNL2 | **NSA2** | 0.999 |
+| ZNF593 | **FTSJ3** | 0.446 |
+| ZNF593 | **WDR74** | 0.574 |
+| ZNF593 | **BOP1** | 0.688 |
+| ZNF593 | **TEX10** | 0.904 |
+| ZNF593 | **WDR18** | 0.946 |
+| ZNF593 | **NLE1** | 0.963 |
+| ZNF593 | **NSA2** | 0.965 |
+| ZNF593 | **MRTO4** | 0.993 |
+| TEX10 | **WDR74** | 0.401 |
+| TEX10 | **NSA2** | 0.63 |
+| TEX10 | **MRTO4** | 0.648 |
+| TEX10 | **BOP1** | 0.714 |
+| TEX10 | **NLE1** | 0.901 |
+| TEX10 | **WDR18** | 0.999 |
+| MRTO4 | **WDR18** | 0.906 |
+| MRTO4 | **NLE1** | 0.973 |
+| MRTO4 | **FTSJ3** | 0.996 |
+| MRTO4 | **WDR74** | 0.997 |
+| MRTO4 | **BOP1** | 0.997 |
+| MRTO4 | **NSA2** | 0.999 |
+| FTSJ3 | **NLE1** | 0.669 |
+| FTSJ3 | **WDR18** | 0.879 |
+| FTSJ3 | **WDR74** | 0.997 |
+| FTSJ3 | **NSA2** | 0.997 |
+| FTSJ3 | **BOP1** | 0.998 |
+| NLE1 | **WDR74** | 0.74 |
+| NLE1 | **BOP1** | 0.906 |
+| NLE1 | **WDR18** | 0.986 |
+| NLE1 | **NSA2** | 0.992 |
+| WDR74 | **WDR18** | 0.919 |
+| WDR74 | **NSA2** | 0.997 |
+| WDR74 | **BOP1** | 0.999 |
+| BOP1 | **WDR18** | 0.967 |
+| BOP1 | **NSA2** | 0.995 |
+| WDR18 | **NSA2** | 0.878 |
+

@@ -1,0 +1,84 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : EEF1AKMT2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EEF1AKMT2
+Identifiant STRING officiel : `9606.ENSP00000357829`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| METTL25 | **VCPKMT** | 0.413 |
+| METTL25 | **METTL21A** | 0.463 |
+| METTL25 | **NTMT1** | 0.478 |
+| METTL25 | **CSKMT** | 0.489 |
+| METTL25 | **METTL21C** | 0.58 |
+| METTL25 | **EEF1AKNMT** | 0.683 |
+| METTL25 | **METTL8** | 0.785 |
+| METTL25 | **EEF1AKMT2** | 0.8 |
+| METTL21C | **METTL8** | 0.401 |
+| METTL21C | **CSKMT** | 0.425 |
+| METTL21C | **METTL21A** | 0.465 |
+| METTL21C | **EEF1AKMT1** | 0.526 |
+| METTL21C | **METTL18** | 0.603 |
+| METTL21C | **EEF2KMT** | 0.641 |
+| METTL21C | **ETFBKMT** | 0.648 |
+| METTL21C | **EEF1AKNMT** | 0.689 |
+| METTL21C | **EEF1AKMT2** | 0.779 |
+| METTL21A | **VCPKMT** | 0.432 |
+| METTL21A | **EEF1AKMT4** | 0.499 |
+| METTL21A | **CSKMT** | 0.5 |
+| METTL21A | **EEF1AKNMT** | 0.536 |
+| METTL21A | **NTMT1** | 0.569 |
+| METTL21A | **EEF1AKMT1** | 0.673 |
+| METTL21A | **EEF2KMT** | 0.69 |
+| METTL21A | **ETFBKMT** | 0.716 |
+| METTL21A | **METTL18** | 0.743 |
+| METTL21A | **EEF1AKMT2** | 0.761 |
+| EEF1AKMT3 | **EEF1AKNMT** | 0.501 |
+| EEF1AKMT3 | **EEF1AKMT4** | 0.513 |
+| EEF1AKMT3 | **CSKMT** | 0.538 |
+| EEF1AKMT3 | **METTL18** | 0.6 |
+| EEF1AKMT3 | **ETFBKMT** | 0.646 |
+| EEF1AKMT3 | **EEF1AKMT2** | 0.663 |
+| EEF1AKMT3 | **EEF1AKMT1** | 0.685 |
+| METTL18 | **METTL8** | 0.448 |
+| METTL18 | **CSKMT** | 0.463 |
+| METTL18 | **EEF1AKNMT** | 0.498 |
+| METTL18 | **NTMT1** | 0.525 |
+| METTL18 | **EEF1AKMT1** | 0.593 |
+| METTL18 | **EEF1AKMT2** | 0.611 |
+| METTL18 | **EEF2KMT** | 0.623 |
+| METTL18 | **ETFBKMT** | 0.695 |
+| METTL18 | **VCPKMT** | 0.73 |
+| EEF1AKMT4 | **VCPKMT** | 0.561 |
+| EEF1AKMT4 | **EEF1AKMT2** | 0.734 |
+| EEF1A1 | **EEF1AKMT2** | 0.887 |
+| EEF1A1 | **EEF1AKMT1** | 0.966 |
+| ETFBKMT | **CSKMT** | 0.609 |
+| ETFBKMT | **EEF1AKMT1** | 0.622 |
+| ETFBKMT | **EEF2KMT** | 0.668 |
+| ETFBKMT | **VCPKMT** | 0.696 |
+| ETFBKMT | **EEF1AKMT2** | 0.748 |
+| EEF1AKNMT | **EEF2KMT** | 0.446 |
+| EEF1AKNMT | **VCPKMT** | 0.462 |
+| EEF1AKNMT | **EEF1AKMT1** | 0.492 |
+| EEF1AKNMT | **METTL8** | 0.557 |
+| EEF1AKNMT | **NTMT1** | 0.592 |
+| EEF1AKNMT | **EEF1AKMT2** | 0.817 |
+| EEF1AKMT2 | **METTL8** | 0.604 |
+| EEF1AKMT2 | **NTMT1** | 0.62 |
+| EEF1AKMT2 | **CSKMT** | 0.717 |
+| EEF1AKMT2 | **VCPKMT** | 0.749 |
+| EEF1AKMT2 | **EEF1AKMT1** | 0.786 |
+| EEF1AKMT2 | **EEF2KMT** | 0.806 |
+| EEF1AKMT1 | **CSKMT** | 0.406 |
+| EEF1AKMT1 | **VCPKMT** | 0.627 |
+| EEF1AKMT1 | **EEF2KMT** | 0.642 |
+| VCPKMT | **NTMT1** | 0.469 |
+| VCPKMT | **CSKMT** | 0.531 |
+| VCPKMT | **EEF2KMT** | 0.714 |
+| EEF2KMT | **CSKMT** | 0.4 |
+

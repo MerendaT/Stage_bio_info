@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RBM34
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RBM34
+Identifiant STRING officiel : `9606.ENSP00000386226`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBM28 | **WDR74** | 0.8 |
+| RBM28 | **DDX52** | 0.824 |
+| RBM28 | **DDX54** | 0.899 |
+| RBM28 | **FTSJ3** | 0.927 |
+| RBM28 | **DDX56** | 0.931 |
+| RBM28 | **MAK16** | 0.941 |
+| RBM28 | **BRIX1** | 0.948 |
+| RBM28 | **DDX24** | 0.959 |
+| RBM28 | **RPF2** | 0.969 |
+| RBM28 | **EBNA1BP2** | 0.972 |
+| RBM28 | **NOC2L** | 0.973 |
+| RBM28 | **RBM34** | 0.975 |
+| RBM28 | **CEBPZ** | 0.984 |
+| RBM28 | **DDX27** | 0.986 |
+| RBM28 | **NIFK** | 0.988 |
+| CEBPZ | **DDX54** | 0.768 |
+| CEBPZ | **DDX52** | 0.877 |
+| CEBPZ | **MAK16** | 0.878 |
+| CEBPZ | **DDX27** | 0.91 |
+| CEBPZ | **DDX24** | 0.924 |
+| CEBPZ | **FTSJ3** | 0.929 |
+| CEBPZ | **WDR74** | 0.935 |
+| CEBPZ | **NIFK** | 0.951 |
+| CEBPZ | **BRIX1** | 0.954 |
+| CEBPZ | **RBM34** | 0.959 |
+| CEBPZ | **EBNA1BP2** | 0.968 |
+| CEBPZ | **RPF2** | 0.975 |
+| CEBPZ | **DDX56** | 0.979 |
+| CEBPZ | **NOC2L** | 0.999 |
+| DDX56 | **MAK16** | 0.684 |
+| DDX56 | **NIFK** | 0.861 |
+| DDX56 | **DDX54** | 0.892 |
+| DDX56 | **DDX52** | 0.905 |
+| DDX56 | **DDX27** | 0.929 |
+| DDX56 | **BRIX1** | 0.946 |
+| DDX56 | **RBM34** | 0.947 |
+| DDX56 | **DDX24** | 0.954 |
+| DDX56 | **FTSJ3** | 0.961 |
+| DDX56 | **EBNA1BP2** | 0.971 |
+| DDX56 | **NOC2L** | 0.971 |
+| DDX56 | **WDR74** | 0.975 |
+| DDX56 | **RPF2** | 0.987 |
+| NIFK | **DDX52** | 0.759 |
+| NIFK | **DDX24** | 0.892 |
+| NIFK | **RBM34** | 0.915 |
+| NIFK | **DDX54** | 0.948 |
+| NIFK | **DDX27** | 0.979 |
+| NIFK | **WDR74** | 0.987 |
+| NIFK | **FTSJ3** | 0.997 |
+| NIFK | **NOC2L** | 0.998 |
+| NIFK | **MAK16** | 0.998 |
+| NIFK | **RPF2** | 0.999 |
+| NIFK | **BRIX1** | 0.999 |
+| NIFK | **EBNA1BP2** | 0.999 |
+| NOC2L | **DDX52** | 0.784 |
+| NOC2L | **RBM34** | 0.9 |
+| NOC2L | **DDX24** | 0.931 |
+| NOC2L | **DDX54** | 0.941 |
+| NOC2L | **DDX27** | 0.955 |
+| NOC2L | **WDR74** | 0.98 |
+| NOC2L | **MAK16** | 0.99 |
+| NOC2L | **BRIX1** | 0.996 |
+| NOC2L | **RPF2** | 0.996 |
+| NOC2L | **EBNA1BP2** | 0.998 |
+| NOC2L | **FTSJ3** | 0.998 |
+| DDX54 | **BRIX1** | 0.622 |
+| DDX54 | **MAK16** | 0.641 |
+| DDX54 | **EBNA1BP2** | 0.82 |
+| DDX54 | **WDR74** | 0.873 |
+| DDX54 | **DDX52** | 0.873 |
+| DDX54 | **DDX27** | 0.889 |
+| DDX54 | **RPF2** | 0.904 |
+| DDX54 | **RBM34** | 0.92 |
+| DDX54 | **DDX24** | 0.941 |
+| DDX54 | **FTSJ3** | 0.952 |
+| BRIX1 | **DDX27** | 0.609 |
+| BRIX1 | **DDX52** | 0.824 |
+| BRIX1 | **DDX24** | 0.872 |
+| BRIX1 | **RBM34** | 0.956 |
+| BRIX1 | **FTSJ3** | 0.97 |
+| BRIX1 | **WDR74** | 0.99 |
+| BRIX1 | **RPF2** | 0.993 |
+| BRIX1 | **MAK16** | 0.997 |
+| BRIX1 | **EBNA1BP2** | 0.999 |
+| MAK16 | **DDX24** | 0.805 |
+| MAK16 | **DDX52** | 0.837 |
+| MAK16 | **DDX27** | 0.903 |
+| MAK16 | **RBM34** | 0.916 |
+| MAK16 | **RPF2** | 0.98 |
+| MAK16 | **WDR74** | 0.997 |
+| MAK16 | **FTSJ3** | 0.997 |
+| MAK16 | **EBNA1BP2** | 0.999 |
+| RBM34 | **DDX52** | 0.907 |
+| RBM34 | **DDX24** | 0.921 |
+| RBM34 | **WDR74** | 0.924 |
+| RBM34 | **EBNA1BP2** | 0.929 |
+| RBM34 | **DDX27** | 0.958 |
+| RBM34 | **RPF2** | 0.968 |
+| RBM34 | **FTSJ3** | 0.976 |
+| FTSJ3 | **DDX24** | 0.894 |
+| FTSJ3 | **DDX52** | 0.941 |
+| FTSJ3 | **RPF2** | 0.981 |
+| FTSJ3 | **DDX27** | 0.985 |
+| FTSJ3 | **WDR74** | 0.997 |
+| FTSJ3 | **EBNA1BP2** | 0.999 |
+| RPF2 | **DDX24** | 0.851 |
+| RPF2 | **DDX52** | 0.862 |
+| RPF2 | **DDX27** | 0.949 |
+| RPF2 | **WDR74** | 0.979 |
+| RPF2 | **EBNA1BP2** | 0.999 |
+| EBNA1BP2 | **DDX52** | 0.878 |
+| EBNA1BP2 | **DDX24** | 0.909 |
+| EBNA1BP2 | **DDX27** | 0.919 |
+| EBNA1BP2 | **WDR74** | 0.998 |
+| WDR74 | **DDX52** | 0.867 |
+| WDR74 | **DDX27** | 0.876 |
+| WDR74 | **DDX24** | 0.945 |
+| DDX52 | **DDX27** | 0.855 |
+| DDX52 | **DDX24** | 0.919 |
+| DDX24 | **DDX27** | 0.834 |
+

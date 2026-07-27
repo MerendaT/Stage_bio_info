@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SRSF8
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRSF8
+Identifiant STRING officiel : `9606.ENSP00000480140`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SRSF9 | **LUC7L2** | 0.423 |
+| SRSF9 | **SREK1** | 0.489 |
+| SRSF9 | **SRPK2** | 0.75 |
+| SRSF9 | **TRA2A** | 0.752 |
+| SRSF9 | **HNRNPA2B1** | 0.809 |
+| SRSF9 | **SRSF8** | 0.862 |
+| SRSF9 | **SRSF11** | 0.962 |
+| SRSF9 | **SRSF6** | 0.963 |
+| SRSF9 | **SRSF3** | 0.968 |
+| SRSF9 | **SRPK1** | 0.977 |
+| SRSF9 | **SRSF1** | 0.984 |
+| SRSF9 | **SRSF7** | 0.99 |
+| SRSF9 | **TRA2B** | 0.995 |
+| SRSF6 | **CLK3** | 0.508 |
+| SRSF6 | **SRSF8** | 0.753 |
+| SRSF6 | **SREK1** | 0.794 |
+| SRSF6 | **LUC7L2** | 0.836 |
+| SRSF6 | **HNRNPA2B1** | 0.875 |
+| SRSF6 | **SRPK2** | 0.904 |
+| SRSF6 | **TRA2A** | 0.937 |
+| SRSF6 | **SRSF11** | 0.952 |
+| SRSF6 | **SRSF7** | 0.978 |
+| SRSF6 | **SRSF1** | 0.987 |
+| SRSF6 | **TRA2B** | 0.987 |
+| SRSF6 | **SRPK1** | 0.988 |
+| SRSF6 | **SRSF3** | 0.991 |
+| SRSF1 | **LUC7L2** | 0.697 |
+| SRSF1 | **SRSF8** | 0.732 |
+| SRSF1 | **CLK3** | 0.782 |
+| SRSF1 | **SREK1** | 0.803 |
+| SRSF1 | **TRA2A** | 0.934 |
+| SRSF1 | **SRSF11** | 0.942 |
+| SRSF1 | **HNRNPA2B1** | 0.972 |
+| SRSF1 | **SRPK2** | 0.973 |
+| SRSF1 | **SRSF3** | 0.994 |
+| SRSF1 | **SRSF7** | 0.997 |
+| SRSF1 | **TRA2B** | 0.997 |
+| SRSF1 | **SRPK1** | 0.999 |
+| TRA2A | **SREK1** | 0.44 |
+| TRA2A | **SRPK2** | 0.638 |
+| TRA2A | **CLK2** | 0.703 |
+| TRA2A | **HNRNPA2B1** | 0.743 |
+| TRA2A | **LUC7L2** | 0.789 |
+| TRA2A | **SRSF11** | 0.809 |
+| TRA2A | **SRSF8** | 0.818 |
+| TRA2A | **CLK3** | 0.837 |
+| TRA2A | **TRA2B** | 0.876 |
+| TRA2A | **SRSF3** | 0.896 |
+| TRA2A | **SRSF7** | 0.897 |
+| SRSF7 | **SREK1** | 0.507 |
+| SRSF7 | **CLK3** | 0.575 |
+| SRSF7 | **SRPK2** | 0.661 |
+| SRSF7 | **SRSF8** | 0.774 |
+| SRSF7 | **LUC7L2** | 0.874 |
+| SRSF7 | **HNRNPA2B1** | 0.947 |
+| SRSF7 | **SRSF11** | 0.962 |
+| SRSF7 | **SRPK1** | 0.965 |
+| SRSF7 | **TRA2B** | 0.995 |
+| SRSF7 | **SRSF3** | 0.997 |
+| SREK1 | **HNRNPA2B1** | 0.502 |
+| SREK1 | **LUC7L2** | 0.547 |
+| SREK1 | **TRA2B** | 0.584 |
+| SREK1 | **SRPK2** | 0.634 |
+| SREK1 | **SRPK1** | 0.709 |
+| SREK1 | **SRSF8** | 0.749 |
+| SREK1 | **SRSF11** | 0.933 |
+| SREK1 | **SRSF3** | 0.934 |
+| HNRNPA2B1 | **SRPK1** | 0.421 |
+| HNRNPA2B1 | **LUC7L2** | 0.432 |
+| HNRNPA2B1 | **SRSF11** | 0.713 |
+| HNRNPA2B1 | **SRSF8** | 0.78 |
+| HNRNPA2B1 | **TRA2B** | 0.953 |
+| HNRNPA2B1 | **SRSF3** | 0.976 |
+| LUC7L2 | **SRSF3** | 0.438 |
+| LUC7L2 | **SRSF11** | 0.557 |
+| LUC7L2 | **CLK3** | 0.678 |
+| LUC7L2 | **CLK2** | 0.72 |
+| LUC7L2 | **SRPK2** | 0.741 |
+| LUC7L2 | **SRSF8** | 0.753 |
+| LUC7L2 | **TRA2B** | 0.774 |
+| LUC7L2 | **SRPK1** | 0.789 |
+| CLK2 | **SRSF11** | 0.519 |
+| CLK2 | **SRPK2** | 0.579 |
+| CLK2 | **TRA2B** | 0.587 |
+| CLK2 | **SRSF8** | 0.729 |
+| CLK2 | **CLK3** | 0.846 |
+| SRSF11 | **SRPK1** | 0.525 |
+| SRSF11 | **CLK3** | 0.544 |
+| SRSF11 | **SRPK2** | 0.586 |
+| SRSF11 | **SRSF8** | 0.772 |
+| SRSF11 | **TRA2B** | 0.925 |
+| SRSF11 | **SRSF3** | 0.954 |
+| SRSF3 | **CLK3** | 0.634 |
+| SRSF3 | **SRPK2** | 0.787 |
+| SRSF3 | **SRSF8** | 0.823 |
+| SRSF3 | **SRPK1** | 0.975 |
+| SRSF3 | **TRA2B** | 0.998 |
+| SRPK1 | **CLK3** | 0.493 |
+| SRPK1 | **TRA2B** | 0.789 |
+| SRPK1 | **SRPK2** | 0.887 |
+| SRPK1 | **SRSF8** | 0.933 |
+| SRPK2 | **TRA2B** | 0.73 |
+| SRPK2 | **CLK3** | 0.736 |
+| SRPK2 | **SRSF8** | 0.799 |
+| CLK3 | **SRSF8** | 0.831 |
+| CLK3 | **TRA2B** | 0.855 |
+| TRA2B | **SRSF8** | 0.759 |
+

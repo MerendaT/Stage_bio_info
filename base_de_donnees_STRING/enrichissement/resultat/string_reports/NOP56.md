@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NOP56
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NOP56
+Identifiant STRING officiel : `9606.ENSP00000370589`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| FBL | **BMS1** | 0.991 |
+| FBL | **NAT10** | 0.993 |
+| FBL | **UTP18** | 0.994 |
+| FBL | **KRR1** | 0.994 |
+| FBL | **WDR3** | 0.995 |
+| FBL | **UTP4** | 0.996 |
+| FBL | **HEATR1** | 0.996 |
+| FBL | **UTP15** | 0.996 |
+| FBL | **WDR46** | 0.996 |
+| FBL | **MPHOSPH10** | 0.998 |
+| FBL | **SNU13** | 0.999 |
+| FBL | **RRP9** | 0.999 |
+| FBL | **DKC1** | 0.999 |
+| FBL | **NOP56** | 0.999 |
+| FBL | **NOP58** | 0.999 |
+| UTP18 | **DKC1** | 0.521 |
+| UTP18 | **SNU13** | 0.997 |
+| UTP18 | **NOP58** | 0.998 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **NAT10** | 0.998 |
+| UTP18 | **HEATR1** | 0.999 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **UTP15** | 0.999 |
+| UTP18 | **NOP56** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BMS1** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| KRR1 | **DKC1** | 0.967 |
+| KRR1 | **SNU13** | 0.995 |
+| KRR1 | **NAT10** | 0.997 |
+| KRR1 | **HEATR1** | 0.998 |
+| KRR1 | **UTP15** | 0.998 |
+| KRR1 | **BMS1** | 0.999 |
+| KRR1 | **RRP9** | 0.999 |
+| KRR1 | **WDR3** | 0.999 |
+| KRR1 | **MPHOSPH10** | 0.999 |
+| KRR1 | **UTP4** | 0.999 |
+| KRR1 | **NOP56** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **NOP58** | 0.999 |
+| RRP9 | **DKC1** | 0.89 |
+| RRP9 | **BMS1** | 0.998 |
+| RRP9 | **NAT10** | 0.998 |
+| RRP9 | **WDR3** | 0.998 |
+| RRP9 | **NOP56** | 0.999 |
+| RRP9 | **UTP15** | 0.999 |
+| RRP9 | **HEATR1** | 0.999 |
+| RRP9 | **UTP4** | 0.999 |
+| RRP9 | **NOP58** | 0.999 |
+| RRP9 | **WDR46** | 0.999 |
+| RRP9 | **SNU13** | 0.999 |
+| RRP9 | **MPHOSPH10** | 0.999 |
+| MPHOSPH10 | **DKC1** | 0.879 |
+| MPHOSPH10 | **NAT10** | 0.996 |
+| MPHOSPH10 | **SNU13** | 0.998 |
+| MPHOSPH10 | **WDR46** | 0.999 |
+| MPHOSPH10 | **NOP58** | 0.999 |
+| MPHOSPH10 | **HEATR1** | 0.999 |
+| MPHOSPH10 | **UTP4** | 0.999 |
+| MPHOSPH10 | **UTP15** | 0.999 |
+| MPHOSPH10 | **NOP56** | 0.999 |
+| MPHOSPH10 | **WDR3** | 0.999 |
+| MPHOSPH10 | **BMS1** | 0.999 |
+| NAT10 | **DKC1** | 0.992 |
+| NAT10 | **SNU13** | 0.992 |
+| NAT10 | **UTP15** | 0.995 |
+| NAT10 | **WDR3** | 0.998 |
+| NAT10 | **WDR46** | 0.999 |
+| NAT10 | **NOP58** | 0.999 |
+| NAT10 | **HEATR1** | 0.999 |
+| NAT10 | **UTP4** | 0.999 |
+| NAT10 | **NOP56** | 0.999 |
+| NAT10 | **BMS1** | 0.999 |
+| NOP58 | **WDR46** | 0.998 |
+| NOP58 | **HEATR1** | 0.999 |
+| NOP58 | **UTP4** | 0.999 |
+| NOP58 | **DKC1** | 0.999 |
+| NOP58 | **UTP15** | 0.999 |
+| NOP58 | **NOP56** | 0.999 |
+| NOP58 | **BMS1** | 0.999 |
+| NOP58 | **SNU13** | 0.999 |
+| NOP58 | **WDR3** | 0.999 |
+| UTP15 | **DKC1** | 0.566 |
+| UTP15 | **BMS1** | 0.999 |
+| UTP15 | **SNU13** | 0.999 |
+| UTP15 | **WDR3** | 0.999 |
+| UTP15 | **UTP4** | 0.999 |
+| UTP15 | **HEATR1** | 0.999 |
+| UTP15 | **NOP56** | 0.999 |
+| UTP15 | **WDR46** | 0.999 |
+| WDR3 | **DKC1** | 0.67 |
+| WDR3 | **SNU13** | 0.994 |
+| WDR3 | **BMS1** | 0.999 |
+| WDR3 | **WDR46** | 0.999 |
+| WDR3 | **HEATR1** | 0.999 |
+| WDR3 | **UTP4** | 0.999 |
+| WDR3 | **NOP56** | 0.999 |
+| UTP4 | **DKC1** | 0.691 |
+| UTP4 | **SNU13** | 0.998 |
+| UTP4 | **NOP56** | 0.999 |
+| UTP4 | **HEATR1** | 0.999 |
+| UTP4 | **WDR46** | 0.999 |
+| UTP4 | **BMS1** | 0.999 |
+| HEATR1 | **DKC1** | 0.756 |
+| HEATR1 | **SNU13** | 0.997 |
+| HEATR1 | **BMS1** | 0.999 |
+| HEATR1 | **NOP56** | 0.999 |
+| HEATR1 | **WDR46** | 0.999 |
+| DKC1 | **BMS1** | 0.71 |
+| DKC1 | **WDR46** | 0.737 |
+| DKC1 | **SNU13** | 0.996 |
+| DKC1 | **NOP56** | 0.999 |
+| BMS1 | **SNU13** | 0.995 |
+| BMS1 | **NOP56** | 0.999 |
+| BMS1 | **WDR46** | 0.999 |
+| WDR46 | **SNU13** | 0.993 |
+| WDR46 | **NOP56** | 0.999 |
+| NOP56 | **SNU13** | 0.999 |
+

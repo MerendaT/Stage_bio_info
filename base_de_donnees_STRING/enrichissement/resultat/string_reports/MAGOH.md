@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MAGOH
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MAGOH
+Identifiant STRING officiel : `9606.ENSP00000360525`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SRSF1 | **UPF2** | 0.429 |
+| SRSF1 | **UPF3B** | 0.633 |
+| SRSF1 | **CASC3** | 0.692 |
+| SRSF1 | **MAGOHB** | 0.87 |
+| SRSF1 | **UPF1** | 0.896 |
+| SRSF1 | **DDX39B** | 0.914 |
+| SRSF1 | **RNPS1** | 0.955 |
+| SRSF1 | **ALYREF** | 0.984 |
+| SRSF1 | **SRSF3** | 0.994 |
+| SRSF1 | **RBM8A** | 0.998 |
+| SRSF1 | **MAGOH** | 0.999 |
+| SRSF1 | **EIF4A3** | 0.999 |
+| CASC3 | **SRSF3** | 0.601 |
+| CASC3 | **DDX39B** | 0.743 |
+| CASC3 | **ALYREF** | 0.748 |
+| CASC3 | **RNPS1** | 0.929 |
+| CASC3 | **PYM1** | 0.951 |
+| CASC3 | **CWC22** | 0.992 |
+| CASC3 | **UPF2** | 0.994 |
+| CASC3 | **UPF3A** | 0.999 |
+| CASC3 | **EIF4A3** | 0.999 |
+| CASC3 | **RBM8A** | 0.999 |
+| CASC3 | **UPF3B** | 0.999 |
+| CASC3 | **UPF1** | 0.999 |
+| CASC3 | **MAGOH** | 0.999 |
+| CASC3 | **MAGOHB** | 0.999 |
+| UPF3B | **SRSF3** | 0.576 |
+| UPF3B | **CWC22** | 0.906 |
+| UPF3B | **DDX39B** | 0.921 |
+| UPF3B | **UPF3A** | 0.966 |
+| UPF3B | **PYM1** | 0.981 |
+| UPF3B | **ALYREF** | 0.981 |
+| UPF3B | **MAGOHB** | 0.996 |
+| UPF3B | **RNPS1** | 0.999 |
+| UPF3B | **UPF1** | 0.999 |
+| UPF3B | **UPF2** | 0.999 |
+| UPF3B | **EIF4A3** | 0.999 |
+| UPF3B | **RBM8A** | 0.999 |
+| UPF3B | **MAGOH** | 0.999 |
+| MAGOHB | **SRSF3** | 0.818 |
+| MAGOHB | **UPF2** | 0.946 |
+| MAGOHB | **UPF1** | 0.959 |
+| MAGOHB | **DDX39B** | 0.979 |
+| MAGOHB | **ALYREF** | 0.981 |
+| MAGOHB | **RNPS1** | 0.983 |
+| MAGOHB | **CWC22** | 0.993 |
+| MAGOHB | **MAGOH** | 0.995 |
+| MAGOHB | **UPF3A** | 0.996 |
+| MAGOHB | **RBM8A** | 0.999 |
+| MAGOHB | **EIF4A3** | 0.999 |
+| MAGOHB | **PYM1** | 0.999 |
+| UPF2 | **CWC22** | 0.549 |
+| UPF2 | **DDX39B** | 0.639 |
+| UPF2 | **ALYREF** | 0.792 |
+| UPF2 | **PYM1** | 0.951 |
+| UPF2 | **MAGOH** | 0.981 |
+| UPF2 | **EIF4A3** | 0.991 |
+| UPF2 | **UPF3A** | 0.999 |
+| UPF2 | **RBM8A** | 0.999 |
+| UPF2 | **RNPS1** | 0.999 |
+| UPF2 | **UPF1** | 0.999 |
+| MAGOH | **CWC22** | 0.971 |
+| MAGOH | **DDX39B** | 0.983 |
+| MAGOH | **RNPS1** | 0.989 |
+| MAGOH | **ALYREF** | 0.992 |
+| MAGOH | **UPF1** | 0.994 |
+| MAGOH | **SRSF3** | 0.998 |
+| MAGOH | **RBM8A** | 0.999 |
+| MAGOH | **EIF4A3** | 0.999 |
+| MAGOH | **UPF3A** | 0.999 |
+| MAGOH | **PYM1** | 0.999 |
+| SRSF3 | **UPF1** | 0.551 |
+| SRSF3 | **RNPS1** | 0.781 |
+| SRSF3 | **DDX39B** | 0.908 |
+| SRSF3 | **ALYREF** | 0.95 |
+| SRSF3 | **EIF4A3** | 0.998 |
+| SRSF3 | **RBM8A** | 0.998 |
+| UPF3A | **CWC22** | 0.537 |
+| UPF3A | **PYM1** | 0.839 |
+| UPF3A | **ALYREF** | 0.998 |
+| UPF3A | **RBM8A** | 0.999 |
+| UPF3A | **EIF4A3** | 0.999 |
+| UPF3A | **UPF1** | 0.999 |
+| UPF3A | **RNPS1** | 0.999 |
+| PYM1 | **UPF1** | 0.953 |
+| PYM1 | **EIF4A3** | 0.982 |
+| PYM1 | **RBM8A** | 0.999 |
+| CWC22 | **RNPS1** | 0.548 |
+| CWC22 | **DDX39B** | 0.887 |
+| CWC22 | **ALYREF** | 0.895 |
+| CWC22 | **RBM8A** | 0.99 |
+| CWC22 | **EIF4A3** | 0.999 |
+| DDX39B | **UPF1** | 0.599 |
+| DDX39B | **RNPS1** | 0.954 |
+| DDX39B | **RBM8A** | 0.998 |
+| DDX39B | **ALYREF** | 0.999 |
+| DDX39B | **EIF4A3** | 0.999 |
+| ALYREF | **RBM8A** | 0.984 |
+| ALYREF | **RNPS1** | 0.995 |
+| ALYREF | **UPF1** | 0.998 |
+| ALYREF | **EIF4A3** | 0.999 |
+| RNPS1 | **UPF1** | 0.999 |
+| RNPS1 | **RBM8A** | 0.999 |
+| RNPS1 | **EIF4A3** | 0.999 |
+| RBM8A | **UPF1** | 0.999 |
+| RBM8A | **EIF4A3** | 0.999 |
+| UPF1 | **EIF4A3** | 0.999 |
+

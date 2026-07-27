@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NDUFAF3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NDUFAF3
+Identifiant STRING officiel : `9606.ENSP00000323076`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NDUFS7 | **ECSIT** | 0.922 |
+| NDUFS7 | **NDUFAF1** | 0.996 |
+| NDUFS7 | **TIMMDC1** | 0.997 |
+| NDUFS7 | **ACAD9** | 0.998 |
+| NDUFS7 | **MT-ND6** | 0.998 |
+| NDUFS7 | **NDUFA13** | 0.999 |
+| NDUFS7 | **NDUFAF5** | 0.999 |
+| NDUFS7 | **NDUFA8** | 0.999 |
+| NDUFS7 | **NDUFS2** | 0.999 |
+| NDUFS7 | **NDUFS5** | 0.999 |
+| NDUFS7 | **NDUFB10** | 0.999 |
+| NDUFS7 | **NDUFAF4** | 0.999 |
+| NDUFS7 | **NDUFS8** | 0.999 |
+| NDUFS7 | **NDUFAF3** | 0.999 |
+| NDUFS7 | **NDUFS3** | 0.999 |
+| NDUFAF1 | **MT-ND6** | 0.899 |
+| NDUFAF1 | **NDUFAF5** | 0.905 |
+| NDUFAF1 | **NDUFB10** | 0.985 |
+| NDUFAF1 | **NDUFS8** | 0.986 |
+| NDUFAF1 | **NDUFAF4** | 0.988 |
+| NDUFAF1 | **NDUFS2** | 0.989 |
+| NDUFAF1 | **NDUFA8** | 0.995 |
+| NDUFAF1 | **NDUFA13** | 0.999 |
+| NDUFAF1 | **ACAD9** | 0.999 |
+| NDUFAF1 | **ECSIT** | 0.999 |
+| NDUFAF1 | **NDUFAF3** | 0.999 |
+| NDUFAF1 | **NDUFS3** | 0.999 |
+| NDUFAF1 | **NDUFS5** | 0.999 |
+| NDUFAF1 | **TIMMDC1** | 0.999 |
+| NDUFS3 | **TIMMDC1** | 0.882 |
+| NDUFS3 | **NDUFAF5** | 0.96 |
+| NDUFS3 | **NDUFAF4** | 0.995 |
+| NDUFS3 | **ECSIT** | 0.998 |
+| NDUFS3 | **ACAD9** | 0.998 |
+| NDUFS3 | **NDUFAF3** | 0.999 |
+| NDUFS3 | **NDUFS8** | 0.999 |
+| NDUFS3 | **NDUFA8** | 0.999 |
+| NDUFS3 | **NDUFS5** | 0.999 |
+| NDUFS3 | **NDUFS2** | 0.999 |
+| NDUFS3 | **NDUFB10** | 0.999 |
+| NDUFS3 | **NDUFA13** | 0.999 |
+| NDUFS3 | **MT-ND6** | 0.999 |
+| NDUFB10 | **NDUFAF5** | 0.622 |
+| NDUFB10 | **ACAD9** | 0.669 |
+| NDUFB10 | **ECSIT** | 0.674 |
+| NDUFB10 | **NDUFAF4** | 0.921 |
+| NDUFB10 | **MT-ND6** | 0.988 |
+| NDUFB10 | **TIMMDC1** | 0.998 |
+| NDUFB10 | **NDUFS2** | 0.999 |
+| NDUFB10 | **NDUFS5** | 0.999 |
+| NDUFB10 | **NDUFA8** | 0.999 |
+| NDUFB10 | **NDUFS8** | 0.999 |
+| NDUFB10 | **NDUFAF3** | 0.999 |
+| NDUFB10 | **NDUFA13** | 0.999 |
+| ECSIT | **MT-ND6** | 0.623 |
+| ECSIT | **NDUFAF5** | 0.775 |
+| ECSIT | **NDUFA8** | 0.938 |
+| ECSIT | **NDUFS8** | 0.939 |
+| ECSIT | **NDUFAF4** | 0.948 |
+| ECSIT | **NDUFS5** | 0.994 |
+| ECSIT | **NDUFA13** | 0.998 |
+| ECSIT | **NDUFAF3** | 0.998 |
+| ECSIT | **NDUFS2** | 0.998 |
+| ECSIT | **ACAD9** | 0.999 |
+| ECSIT | **TIMMDC1** | 0.999 |
+| ACAD9 | **NDUFA8** | 0.717 |
+| ACAD9 | **NDUFS8** | 0.827 |
+| ACAD9 | **NDUFAF5** | 0.867 |
+| ACAD9 | **NDUFAF4** | 0.935 |
+| ACAD9 | **NDUFS5** | 0.995 |
+| ACAD9 | **MT-ND6** | 0.997 |
+| ACAD9 | **NDUFA13** | 0.997 |
+| ACAD9 | **NDUFAF3** | 0.998 |
+| ACAD9 | **NDUFS2** | 0.998 |
+| ACAD9 | **TIMMDC1** | 0.999 |
+| NDUFS8 | **NDUFAF5** | 0.929 |
+| NDUFS8 | **NDUFAF4** | 0.988 |
+| NDUFS8 | **MT-ND6** | 0.997 |
+| NDUFS8 | **TIMMDC1** | 0.998 |
+| NDUFS8 | **NDUFA8** | 0.999 |
+| NDUFS8 | **NDUFS2** | 0.999 |
+| NDUFS8 | **NDUFS5** | 0.999 |
+| NDUFS8 | **NDUFAF3** | 0.999 |
+| NDUFS8 | **NDUFA13** | 0.999 |
+| NDUFAF3 | **NDUFS5** | 0.995 |
+| NDUFAF3 | **NDUFA8** | 0.999 |
+| NDUFAF3 | **NDUFS2** | 0.999 |
+| NDUFAF3 | **TIMMDC1** | 0.999 |
+| NDUFAF3 | **NDUFAF4** | 0.999 |
+| NDUFAF3 | **NDUFAF5** | 0.999 |
+| NDUFAF3 | **MT-ND6** | 0.999 |
+| NDUFAF3 | **NDUFA13** | 0.999 |
+| MT-ND6 | **TIMMDC1** | 0.594 |
+| MT-ND6 | **NDUFAF5** | 0.837 |
+| MT-ND6 | **NDUFAF4** | 0.92 |
+| MT-ND6 | **NDUFA8** | 0.992 |
+| MT-ND6 | **NDUFA13** | 0.993 |
+| MT-ND6 | **NDUFS2** | 0.995 |
+| MT-ND6 | **NDUFS5** | 0.999 |
+| NDUFS2 | **NDUFAF5** | 0.924 |
+| NDUFS2 | **NDUFAF4** | 0.991 |
+| NDUFS2 | **TIMMDC1** | 0.998 |
+| NDUFS2 | **NDUFA13** | 0.999 |
+| NDUFS2 | **NDUFA8** | 0.999 |
+| NDUFS2 | **NDUFS5** | 0.999 |
+| NDUFAF4 | **NDUFA8** | 0.937 |
+| NDUFAF4 | **NDUFAF5** | 0.953 |
+| NDUFAF4 | **NDUFS5** | 0.995 |
+| NDUFAF4 | **TIMMDC1** | 0.999 |
+| NDUFAF4 | **NDUFA13** | 0.999 |
+| NDUFS5 | **NDUFAF5** | 0.401 |
+| NDUFS5 | **TIMMDC1** | 0.996 |
+| NDUFS5 | **NDUFA13** | 0.999 |
+| NDUFS5 | **NDUFA8** | 0.999 |
+| NDUFA8 | **NDUFAF5** | 0.695 |
+| NDUFA8 | **TIMMDC1** | 0.999 |
+| NDUFA8 | **NDUFA13** | 0.999 |
+| NDUFAF5 | **NDUFA13** | 0.755 |
+| NDUFAF5 | **TIMMDC1** | 0.82 |
+| TIMMDC1 | **NDUFA13** | 0.999 |
+

@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MBIP
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MBIP
+Identifiant STRING officiel : `9606.ENSP00000399718`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KAT2A | **MAP3K7** | 0.807 |
+| KAT2A | **POLE3** | 0.869 |
+| KAT2A | **POLE4** | 0.911 |
+| KAT2A | **DR1** | 0.964 |
+| KAT2A | **KAT2B** | 0.969 |
+| KAT2A | **ZZZ3** | 0.97 |
+| KAT2A | **MBIP** | 0.974 |
+| KAT2A | **YEATS2** | 0.974 |
+| KAT2A | **KAT14** | 0.99 |
+| KAT2A | **SUPT20H** | 0.994 |
+| KAT2A | **TADA2A** | 0.999 |
+| KAT2A | **SGF29** | 0.999 |
+| KAT2A | **WDR5** | 0.999 |
+| KAT2A | **TADA3** | 0.999 |
+| KAT2B | **MAP3K7** | 0.752 |
+| KAT2B | **POLE4** | 0.839 |
+| KAT2B | **POLE3** | 0.861 |
+| KAT2B | **ZZZ3** | 0.94 |
+| KAT2B | **DR1** | 0.966 |
+| KAT2B | **YEATS2** | 0.971 |
+| KAT2B | **MBIP** | 0.974 |
+| KAT2B | **KAT14** | 0.986 |
+| KAT2B | **SUPT20H** | 0.988 |
+| KAT2B | **WDR5** | 0.993 |
+| KAT2B | **TADA3** | 0.999 |
+| KAT2B | **TADA2A** | 0.999 |
+| KAT2B | **SGF29** | 0.999 |
+| YEATS2 | **MAP3K7** | 0.86 |
+| YEATS2 | **SUPT20H** | 0.874 |
+| YEATS2 | **POLE3** | 0.932 |
+| YEATS2 | **POLE4** | 0.938 |
+| YEATS2 | **ZZZ3** | 0.975 |
+| YEATS2 | **TADA2A** | 0.983 |
+| YEATS2 | **WDR5** | 0.991 |
+| YEATS2 | **DR1** | 0.991 |
+| YEATS2 | **TADA3** | 0.993 |
+| YEATS2 | **KAT14** | 0.994 |
+| YEATS2 | **MBIP** | 0.994 |
+| YEATS2 | **SGF29** | 0.995 |
+| TADA3 | **MAP3K7** | 0.797 |
+| TADA3 | **POLE4** | 0.845 |
+| TADA3 | **POLE3** | 0.874 |
+| TADA3 | **WDR5** | 0.972 |
+| TADA3 | **DR1** | 0.981 |
+| TADA3 | **MBIP** | 0.982 |
+| TADA3 | **KAT14** | 0.99 |
+| TADA3 | **ZZZ3** | 0.99 |
+| TADA3 | **TADA2A** | 0.999 |
+| TADA3 | **SGF29** | 0.999 |
+| TADA3 | **SUPT20H** | 0.999 |
+| SGF29 | **MAP3K7** | 0.857 |
+| SGF29 | **POLE4** | 0.882 |
+| SGF29 | **POLE3** | 0.905 |
+| SGF29 | **DR1** | 0.979 |
+| SGF29 | **WDR5** | 0.982 |
+| SGF29 | **MBIP** | 0.985 |
+| SGF29 | **TADA2A** | 0.999 |
+| SGF29 | **KAT14** | 0.999 |
+| SGF29 | **ZZZ3** | 0.999 |
+| SGF29 | **SUPT20H** | 0.999 |
+| WDR5 | **SUPT20H** | 0.767 |
+| WDR5 | **MAP3K7** | 0.767 |
+| WDR5 | **POLE4** | 0.846 |
+| WDR5 | **POLE3** | 0.865 |
+| WDR5 | **ZZZ3** | 0.974 |
+| WDR5 | **KAT14** | 0.977 |
+| WDR5 | **TADA2A** | 0.982 |
+| WDR5 | **MBIP** | 0.989 |
+| WDR5 | **DR1** | 0.989 |
+| MAP3K7 | **KAT14** | 0.755 |
+| MAP3K7 | **ZZZ3** | 0.789 |
+| MAP3K7 | **TADA2A** | 0.816 |
+| MAP3K7 | **POLE3** | 0.822 |
+| MAP3K7 | **SUPT20H** | 0.841 |
+| MAP3K7 | **MBIP** | 0.848 |
+| MAP3K7 | **DR1** | 0.862 |
+| MAP3K7 | **POLE4** | 0.866 |
+| DR1 | **SUPT20H** | 0.839 |
+| DR1 | **POLE4** | 0.873 |
+| DR1 | **ZZZ3** | 0.967 |
+| DR1 | **KAT14** | 0.977 |
+| DR1 | **POLE3** | 0.98 |
+| DR1 | **TADA2A** | 0.984 |
+| DR1 | **MBIP** | 0.994 |
+| ZZZ3 | **POLE4** | 0.777 |
+| ZZZ3 | **POLE3** | 0.829 |
+| ZZZ3 | **SUPT20H** | 0.888 |
+| ZZZ3 | **TADA2A** | 0.987 |
+| ZZZ3 | **MBIP** | 0.991 |
+| ZZZ3 | **KAT14** | 0.996 |
+| POLE3 | **SUPT20H** | 0.741 |
+| POLE3 | **KAT14** | 0.872 |
+| POLE3 | **MBIP** | 0.904 |
+| POLE3 | **TADA2A** | 0.914 |
+| POLE3 | **POLE4** | 0.999 |
+| KAT14 | **POLE4** | 0.864 |
+| KAT14 | **SUPT20H** | 0.882 |
+| KAT14 | **TADA2A** | 0.978 |
+| KAT14 | **MBIP** | 0.98 |
+| MBIP | **SUPT20H** | 0.827 |
+| MBIP | **MAP3K12** | 0.919 |
+| MBIP | **POLE4** | 0.94 |
+| MBIP | **TADA2A** | 0.988 |
+| SUPT20H | **POLE4** | 0.742 |
+| SUPT20H | **TADA2A** | 0.994 |
+| POLE4 | **TADA2A** | 0.909 |
+

@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : VPS18
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : VPS18
+Identifiant STRING officiel : `9606.ENSP00000220509`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VPS18 | **STX17** | 0.912 |
+| VPS18 | **STX7** | 0.917 |
+| VPS18 | **VTI1B** | 0.941 |
+| VPS18 | **CCZ1** | 0.944 |
+| VPS18 | **CCZ1B** | 0.944 |
+| VPS18 | **VTI1A** | 0.969 |
+| VPS18 | **VPS45** | 0.97 |
+| VPS18 | **VPS33B** | 0.995 |
+| VPS18 | **VPS11** | 0.999 |
+| VPS18 | **VPS41** | 0.999 |
+| VPS18 | **VPS39** | 0.999 |
+| VPS18 | **VPS16** | 0.999 |
+| VPS18 | **VPS33A** | 0.999 |
+| VPS18 | **TGFBRAP1** | 0.999 |
+| VPS18 | **VPS8** | 0.999 |
+| STX17 | **CCZ1B** | 0.403 |
+| STX17 | **VPS45** | 0.454 |
+| STX17 | **VPS8** | 0.471 |
+| STX17 | **TGFBRAP1** | 0.486 |
+| STX17 | **VPS33B** | 0.656 |
+| STX17 | **VTI1A** | 0.878 |
+| STX17 | **STX7** | 0.888 |
+| STX17 | **VPS11** | 0.889 |
+| STX17 | **VTI1B** | 0.929 |
+| STX17 | **VPS33A** | 0.935 |
+| STX17 | **VPS16** | 0.952 |
+| STX17 | **VPS41** | 0.997 |
+| STX17 | **VPS39** | 0.999 |
+| VPS33A | **CCZ1** | 0.863 |
+| VPS33A | **CCZ1B** | 0.867 |
+| VPS33A | **VTI1B** | 0.873 |
+| VPS33A | **VTI1A** | 0.916 |
+| VPS33A | **VPS33B** | 0.939 |
+| VPS33A | **VPS45** | 0.948 |
+| VPS33A | **STX7** | 0.961 |
+| VPS33A | **VPS8** | 0.991 |
+| VPS33A | **TGFBRAP1** | 0.996 |
+| VPS33A | **VPS16** | 0.999 |
+| VPS33A | **VPS41** | 0.999 |
+| VPS33A | **VPS11** | 0.999 |
+| VPS33A | **VPS39** | 0.999 |
+| VPS41 | **STX7** | 0.843 |
+| VPS41 | **VPS8** | 0.898 |
+| VPS41 | **CCZ1B** | 0.928 |
+| VPS41 | **CCZ1** | 0.929 |
+| VPS41 | **VPS45** | 0.935 |
+| VPS41 | **VTI1B** | 0.94 |
+| VPS41 | **VTI1A** | 0.969 |
+| VPS41 | **VPS33B** | 0.995 |
+| VPS41 | **TGFBRAP1** | 0.996 |
+| VPS41 | **VPS39** | 0.999 |
+| VPS41 | **VPS11** | 0.999 |
+| VPS41 | **VPS16** | 0.999 |
+| CCZ1B | **VTI1A** | 0.413 |
+| CCZ1B | **STX7** | 0.437 |
+| CCZ1B | **VPS45** | 0.553 |
+| CCZ1B | **VTI1B** | 0.584 |
+| CCZ1B | **VPS8** | 0.72 |
+| CCZ1B | **TGFBRAP1** | 0.815 |
+| CCZ1B | **VPS33B** | 0.834 |
+| CCZ1B | **VPS11** | 0.944 |
+| CCZ1B | **VPS16** | 0.951 |
+| CCZ1B | **VPS39** | 0.957 |
+| CCZ1B | **CCZ1** | 0.968 |
+| CCZ1 | **STX7** | 0.44 |
+| CCZ1 | **VPS45** | 0.556 |
+| CCZ1 | **VTI1B** | 0.612 |
+| CCZ1 | **VPS8** | 0.721 |
+| CCZ1 | **TGFBRAP1** | 0.824 |
+| CCZ1 | **VPS33B** | 0.829 |
+| CCZ1 | **VPS11** | 0.945 |
+| CCZ1 | **VPS16** | 0.951 |
+| CCZ1 | **VPS39** | 0.957 |
+| VPS33B | **VTI1B** | 0.823 |
+| VPS33B | **VTI1A** | 0.896 |
+| VPS33B | **VPS45** | 0.902 |
+| VPS33B | **STX7** | 0.951 |
+| VPS33B | **VPS8** | 0.97 |
+| VPS33B | **TGFBRAP1** | 0.973 |
+| VPS33B | **VPS39** | 0.994 |
+| VPS33B | **VPS16** | 0.995 |
+| VPS33B | **VPS11** | 0.996 |
+| VPS39 | **VTI1B** | 0.831 |
+| VPS39 | **STX7** | 0.904 |
+| VPS39 | **VPS45** | 0.958 |
+| VPS39 | **VTI1A** | 0.972 |
+| VPS39 | **VPS8** | 0.985 |
+| VPS39 | **TGFBRAP1** | 0.987 |
+| VPS39 | **VPS16** | 0.999 |
+| VPS39 | **VPS11** | 0.999 |
+| STX7 | **TGFBRAP1** | 0.521 |
+| STX7 | **VPS8** | 0.615 |
+| STX7 | **VPS45** | 0.781 |
+| STX7 | **VPS11** | 0.917 |
+| STX7 | **VPS16** | 0.927 |
+| STX7 | **VTI1A** | 0.996 |
+| STX7 | **VTI1B** | 0.999 |
+| VPS16 | **VTI1B** | 0.941 |
+| VPS16 | **VTI1A** | 0.969 |
+| VPS16 | **VPS45** | 0.975 |
+| VPS16 | **TGFBRAP1** | 0.999 |
+| VPS16 | **VPS8** | 0.999 |
+| VPS16 | **VPS11** | 0.999 |
+| VTI1A | **TGFBRAP1** | 0.653 |
+| VTI1A | **VPS45** | 0.946 |
+| VTI1A | **VTI1B** | 0.973 |
+| VTI1A | **VPS11** | 0.973 |
+| TGFBRAP1 | **VTI1B** | 0.72 |
+| TGFBRAP1 | **VPS45** | 0.791 |
+| TGFBRAP1 | **VPS11** | 0.999 |
+| TGFBRAP1 | **VPS8** | 0.999 |
+| VTI1B | **VPS8** | 0.489 |
+| VTI1B | **VPS11** | 0.936 |
+| VTI1B | **VPS45** | 0.952 |
+| VPS11 | **VPS45** | 0.93 |
+| VPS11 | **VPS8** | 0.999 |
+| VPS8 | **VPS45** | 0.81 |
+

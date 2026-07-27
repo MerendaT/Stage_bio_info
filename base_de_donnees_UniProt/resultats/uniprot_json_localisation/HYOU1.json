@@ -1,0 +1,418 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9Y4L1",
+      "uniProtkbId": "HYOU1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "HYOU1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9JKR6"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10037731"
+                }
+              ],
+              "value": "Has a pivotal role in cytoprotective cellular mechanisms triggered by oxygen deprivation. Promotes HSPA5/BiP-mediated ATP nucleotide exchange and thereby activates the unfolded protein response (UPR) pathway in the presence of endoplasmic reticulum stress (By similarity). May play a role as a molecular chaperone and participate in protein folding"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Endoplasmic reticulum lumen",
+                "id": "SL-0096"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0071682",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endocytic vesicle lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18094145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034663",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum chaperone complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19199708"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005925",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:focal adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21423176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19946888"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18094145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005790",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:smooth endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000774",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:adenyl-nucleotide exchange factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016887",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP hydrolysis activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051087",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-folding chaperone binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "10837345"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051082",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:unfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:FlyBase"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071456",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10837345"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006888",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum to Golgi vesicle-mediated transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10837345"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903382",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903298",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10037731"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "9020069"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002931",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to ischemia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000130F72"
+      }
+    }
+  ]
+}

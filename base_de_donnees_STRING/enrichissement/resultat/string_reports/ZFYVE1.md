@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ZFYVE1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ZFYVE1
+Identifiant STRING officiel : `9606.ENSP00000450742`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RB1CC1 | **ZFYVE1** | 0.709 |
+| RB1CC1 | **WIPI1** | 0.873 |
+| RB1CC1 | **AMBRA1** | 0.876 |
+| RB1CC1 | **WIPI2** | 0.93 |
+| RB1CC1 | **ATG5** | 0.97 |
+| RB1CC1 | **GABARAP** | 0.97 |
+| RB1CC1 | **PIK3R4** | 0.986 |
+| RB1CC1 | **ATG12** | 0.989 |
+| RB1CC1 | **PIK3C3** | 0.989 |
+| RB1CC1 | **BECN1** | 0.999 |
+| RB1CC1 | **ULK1** | 0.999 |
+| RB1CC1 | **ATG14** | 0.999 |
+| RB1CC1 | **CALCOCO2** | 0.999 |
+| RB1CC1 | **ATG13** | 0.999 |
+| ZPR1 | **ZFYVE1** | 0.766 |
+| ATG14 | **CALCOCO2** | 0.685 |
+| ATG14 | **ZFYVE1** | 0.852 |
+| ATG14 | **WIPI1** | 0.889 |
+| ATG14 | **WIPI2** | 0.935 |
+| ATG14 | **ATG12** | 0.945 |
+| ATG14 | **ATG5** | 0.96 |
+| ATG14 | **ATG13** | 0.989 |
+| ATG14 | **GABARAP** | 0.993 |
+| ATG14 | **AMBRA1** | 0.998 |
+| ATG14 | **PIK3R4** | 0.999 |
+| ATG14 | **ULK1** | 0.999 |
+| ATG14 | **PIK3C3** | 0.999 |
+| ATG14 | **BECN1** | 0.999 |
+| PIK3C3 | **CALCOCO2** | 0.617 |
+| PIK3C3 | **ZFYVE1** | 0.865 |
+| PIK3C3 | **WIPI1** | 0.902 |
+| PIK3C3 | **ATG12** | 0.969 |
+| PIK3C3 | **WIPI2** | 0.971 |
+| PIK3C3 | **ATG5** | 0.972 |
+| PIK3C3 | **ATG13** | 0.985 |
+| PIK3C3 | **GABARAP** | 0.991 |
+| PIK3C3 | **BECN1** | 0.999 |
+| PIK3C3 | **ULK1** | 0.999 |
+| PIK3C3 | **AMBRA1** | 0.999 |
+| PIK3C3 | **PIK3R4** | 0.999 |
+| WIPI1 | **CALCOCO2** | 0.76 |
+| WIPI1 | **PIK3R4** | 0.815 |
+| WIPI1 | **GABARAP** | 0.819 |
+| WIPI1 | **AMBRA1** | 0.827 |
+| WIPI1 | **ZFYVE1** | 0.855 |
+| WIPI1 | **ATG13** | 0.885 |
+| WIPI1 | **ATG5** | 0.906 |
+| WIPI1 | **BECN1** | 0.926 |
+| WIPI1 | **ATG12** | 0.96 |
+| WIPI1 | **ULK1** | 0.974 |
+| WIPI1 | **WIPI2** | 0.976 |
+| WIPI2 | **AMBRA1** | 0.613 |
+| WIPI2 | **CALCOCO2** | 0.753 |
+| WIPI2 | **ATG13** | 0.854 |
+| WIPI2 | **ZFYVE1** | 0.874 |
+| WIPI2 | **PIK3R4** | 0.892 |
+| WIPI2 | **GABARAP** | 0.893 |
+| WIPI2 | **BECN1** | 0.939 |
+| WIPI2 | **ULK1** | 0.944 |
+| WIPI2 | **ATG5** | 0.997 |
+| WIPI2 | **ATG12** | 0.998 |
+| GABARAP | **ZFYVE1** | 0.745 |
+| GABARAP | **AMBRA1** | 0.82 |
+| GABARAP | **PIK3R4** | 0.867 |
+| GABARAP | **ATG13** | 0.968 |
+| GABARAP | **BECN1** | 0.991 |
+| GABARAP | **CALCOCO2** | 0.994 |
+| GABARAP | **ATG5** | 0.994 |
+| GABARAP | **ULK1** | 0.996 |
+| GABARAP | **ATG12** | 0.997 |
+| ULK1 | **ZFYVE1** | 0.792 |
+| ULK1 | **CALCOCO2** | 0.821 |
+| ULK1 | **AMBRA1** | 0.969 |
+| ULK1 | **ATG12** | 0.996 |
+| ULK1 | **ATG5** | 0.997 |
+| ULK1 | **PIK3R4** | 0.997 |
+| ULK1 | **BECN1** | 0.999 |
+| ULK1 | **ATG13** | 0.999 |
+| PIK3R4 | **CALCOCO2** | 0.552 |
+| PIK3R4 | **ZFYVE1** | 0.754 |
+| PIK3R4 | **ATG12** | 0.925 |
+| PIK3R4 | **ATG5** | 0.944 |
+| PIK3R4 | **ATG13** | 0.957 |
+| PIK3R4 | **AMBRA1** | 0.998 |
+| PIK3R4 | **BECN1** | 0.999 |
+| BECN1 | **CALCOCO2** | 0.662 |
+| BECN1 | **ZFYVE1** | 0.804 |
+| BECN1 | **ATG5** | 0.986 |
+| BECN1 | **ATG13** | 0.986 |
+| BECN1 | **ATG12** | 0.991 |
+| BECN1 | **AMBRA1** | 0.999 |
+| ATG5 | **AMBRA1** | 0.77 |
+| ATG5 | **CALCOCO2** | 0.777 |
+| ATG5 | **ZFYVE1** | 0.797 |
+| ATG5 | **ATG13** | 0.945 |
+| ATG5 | **ATG12** | 0.999 |
+| CALCOCO2 | **AMBRA1** | 0.619 |
+| CALCOCO2 | **ATG12** | 0.656 |
+| CALCOCO2 | **ZFYVE1** | 0.78 |
+| CALCOCO2 | **ATG13** | 0.782 |
+| ATG12 | **ZFYVE1** | 0.784 |
+| ATG12 | **AMBRA1** | 0.785 |
+| ATG12 | **ATG13** | 0.911 |
+| AMBRA1 | **ZFYVE1** | 0.729 |
+| AMBRA1 | **ATG13** | 0.938 |
+| ATG13 | **ZFYVE1** | 0.71 |
+

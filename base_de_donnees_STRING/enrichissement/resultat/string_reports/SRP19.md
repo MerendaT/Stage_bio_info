@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SRP19
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRP19
+Identifiant STRING officiel : `9606.ENSP00000424870`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL19 | **SRPRB** | 0.818 |
+| RPL19 | **SRPRA** | 0.86 |
+| RPL19 | **SRP72** | 0.879 |
+| RPL19 | **SRP9** | 0.903 |
+| RPL19 | **SRP68** | 0.904 |
+| RPL19 | **SRP19** | 0.915 |
+| RPL19 | **SRP14** | 0.917 |
+| RPL19 | **SRP54** | 0.939 |
+| RPL19 | **RPL26L1** | 0.997 |
+| RPL19 | **RPL23A** | 0.999 |
+| RPL19 | **RPL4** | 0.999 |
+| RPL19 | **RPL36** | 0.999 |
+| RPL19 | **RPL7A** | 0.999 |
+| RPL19 | **RPL29** | 0.999 |
+| RPL19 | **RPL13A** | 0.999 |
+| SRP14 | **RPL26L1** | 0.867 |
+| SRP14 | **RPL29** | 0.878 |
+| SRP14 | **RPL7A** | 0.887 |
+| SRP14 | **RPL36** | 0.887 |
+| SRP14 | **RPL4** | 0.921 |
+| SRP14 | **RPL13A** | 0.926 |
+| SRP14 | **SRPRA** | 0.933 |
+| SRP14 | **SRPRB** | 0.943 |
+| SRP14 | **RPL23A** | 0.955 |
+| SRP14 | **SRP19** | 0.999 |
+| SRP14 | **SRP68** | 0.999 |
+| SRP14 | **SRP72** | 0.999 |
+| SRP14 | **SRP54** | 0.999 |
+| SRP14 | **SRP9** | 0.999 |
+| RPL29 | **SRPRA** | 0.817 |
+| RPL29 | **SRPRB** | 0.821 |
+| RPL29 | **SRP54** | 0.884 |
+| RPL29 | **SRP9** | 0.885 |
+| RPL29 | **SRP68** | 0.885 |
+| RPL29 | **SRP72** | 0.886 |
+| RPL29 | **SRP19** | 0.906 |
+| RPL29 | **RPL26L1** | 0.996 |
+| RPL29 | **RPL36** | 0.999 |
+| RPL29 | **RPL7A** | 0.999 |
+| RPL29 | **RPL23A** | 0.999 |
+| RPL29 | **RPL4** | 0.999 |
+| RPL29 | **RPL13A** | 0.999 |
+| SRP9 | **RPL26L1** | 0.884 |
+| SRP9 | **RPL4** | 0.902 |
+| SRP9 | **RPL13A** | 0.903 |
+| SRP9 | **RPL36** | 0.906 |
+| SRP9 | **RPL7A** | 0.912 |
+| SRP9 | **RPL23A** | 0.931 |
+| SRP9 | **SRPRB** | 0.974 |
+| SRP9 | **SRPRA** | 0.976 |
+| SRP9 | **SRP68** | 0.999 |
+| SRP9 | **SRP19** | 0.999 |
+| SRP9 | **SRP54** | 0.999 |
+| SRP9 | **SRP72** | 0.999 |
+| RPL4 | **SRPRB** | 0.865 |
+| RPL4 | **SRP72** | 0.896 |
+| RPL4 | **SRP19** | 0.907 |
+| RPL4 | **SRP68** | 0.916 |
+| RPL4 | **SRPRA** | 0.94 |
+| RPL4 | **SRP54** | 0.98 |
+| RPL4 | **RPL26L1** | 0.998 |
+| RPL4 | **RPL13A** | 0.999 |
+| RPL4 | **RPL36** | 0.999 |
+| RPL4 | **RPL7A** | 0.999 |
+| RPL4 | **RPL23A** | 0.999 |
+| SRP68 | **RPL26L1** | 0.918 |
+| SRP68 | **RPL13A** | 0.921 |
+| SRP68 | **RPL7A** | 0.923 |
+| SRP68 | **RPL36** | 0.924 |
+| SRP68 | **RPL23A** | 0.953 |
+| SRP68 | **SRPRA** | 0.98 |
+| SRP68 | **SRPRB** | 0.982 |
+| SRP68 | **SRP54** | 0.999 |
+| SRP68 | **SRP72** | 0.999 |
+| SRP68 | **SRP19** | 0.999 |
+| SRPRA | **RPL26L1** | 0.571 |
+| SRPRA | **RPL36** | 0.818 |
+| SRPRA | **RPL7A** | 0.824 |
+| SRPRA | **RPL13A** | 0.924 |
+| SRPRA | **SRP19** | 0.975 |
+| SRPRA | **SRP72** | 0.987 |
+| SRPRA | **RPL23A** | 0.988 |
+| SRPRA | **SRPRB** | 0.999 |
+| SRPRA | **SRP54** | 0.999 |
+| RPL7A | **SRPRB** | 0.827 |
+| RPL7A | **SRP72** | 0.887 |
+| RPL7A | **SRP54** | 0.898 |
+| RPL7A | **SRP19** | 0.907 |
+| RPL7A | **RPL26L1** | 0.997 |
+| RPL7A | **RPL13A** | 0.999 |
+| RPL7A | **RPL36** | 0.999 |
+| RPL7A | **RPL23A** | 0.999 |
+| RPL13A | **SRPRB** | 0.829 |
+| RPL13A | **SRP72** | 0.904 |
+| RPL13A | **SRP19** | 0.912 |
+| RPL13A | **SRP54** | 0.974 |
+| RPL13A | **RPL26L1** | 0.996 |
+| RPL13A | **RPL36** | 0.999 |
+| RPL13A | **RPL23A** | 0.999 |
+| RPL23A | **SRPRB** | 0.849 |
+| RPL23A | **SRP72** | 0.914 |
+| RPL23A | **SRP19** | 0.95 |
+| RPL23A | **RPL26L1** | 0.997 |
+| RPL23A | **RPL36** | 0.999 |
+| RPL23A | **SRP54** | 0.999 |
+| SRPRB | **RPL36** | 0.844 |
+| SRPRB | **SRP19** | 0.968 |
+| SRPRB | **SRP72** | 0.977 |
+| SRPRB | **SRP54** | 0.988 |
+| SRP19 | **RPL36** | 0.909 |
+| SRP19 | **RPL26L1** | 0.914 |
+| SRP19 | **SRP54** | 0.999 |
+| SRP19 | **SRP72** | 0.999 |
+| RPL26L1 | **SRP54** | 0.964 |
+| RPL26L1 | **RPL36** | 0.998 |
+| SRP54 | **RPL36** | 0.885 |
+| SRP54 | **SRP72** | 0.999 |
+| RPL36 | **SRP72** | 0.907 |
+

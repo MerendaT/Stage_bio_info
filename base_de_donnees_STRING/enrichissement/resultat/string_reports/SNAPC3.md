@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SNAPC3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SNAPC3
+Identifiant STRING officiel : `9606.ENSP00000370200`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNAPC1 | **POLR2F** | 0.504 |
+| SNAPC1 | **POLR2H** | 0.504 |
+| SNAPC1 | **POLR2E** | 0.515 |
+| SNAPC1 | **GTF2F2** | 0.546 |
+| SNAPC1 | **POLR2K** | 0.575 |
+| SNAPC1 | **POLR2L** | 0.58 |
+| SNAPC1 | **POLR1C** | 0.649 |
+| SNAPC1 | **GTF2A1** | 0.896 |
+| SNAPC1 | **GTF2A2** | 0.903 |
+| SNAPC1 | **GTF2B** | 0.962 |
+| SNAPC1 | **TBP** | 0.987 |
+| SNAPC1 | **SNAPC2** | 0.999 |
+| SNAPC1 | **SNAPC5** | 0.999 |
+| SNAPC1 | **SNAPC3** | 0.999 |
+| SNAPC1 | **SNAPC4** | 0.999 |
+| SNAPC2 | **GTF2A1** | 0.499 |
+| SNAPC2 | **POLR2H** | 0.504 |
+| SNAPC2 | **POLR2F** | 0.509 |
+| SNAPC2 | **POLR2E** | 0.524 |
+| SNAPC2 | **GTF2F2** | 0.526 |
+| SNAPC2 | **POLR2L** | 0.531 |
+| SNAPC2 | **GTF2A2** | 0.534 |
+| SNAPC2 | **POLR2K** | 0.584 |
+| SNAPC2 | **POLR1C** | 0.608 |
+| SNAPC2 | **GTF2B** | 0.608 |
+| SNAPC2 | **TBP** | 0.922 |
+| SNAPC2 | **SNAPC5** | 0.997 |
+| SNAPC2 | **SNAPC4** | 0.999 |
+| SNAPC2 | **SNAPC3** | 0.999 |
+| TBP | **POLR1C** | 0.858 |
+| TBP | **SNAPC5** | 0.956 |
+| TBP | **POLR2F** | 0.967 |
+| TBP | **POLR2K** | 0.971 |
+| TBP | **POLR2L** | 0.971 |
+| TBP | **SNAPC4** | 0.972 |
+| TBP | **POLR2H** | 0.975 |
+| TBP | **SNAPC3** | 0.982 |
+| TBP | **POLR2E** | 0.993 |
+| TBP | **GTF2A1** | 0.999 |
+| TBP | **GTF2F2** | 0.999 |
+| TBP | **GTF2A2** | 0.999 |
+| TBP | **GTF2B** | 0.999 |
+| SNAPC4 | **POLR2E** | 0.51 |
+| SNAPC4 | **GTF2F2** | 0.518 |
+| SNAPC4 | **POLR2H** | 0.532 |
+| SNAPC4 | **POLR2F** | 0.538 |
+| SNAPC4 | **POLR2L** | 0.569 |
+| SNAPC4 | **POLR2K** | 0.572 |
+| SNAPC4 | **POLR1C** | 0.648 |
+| SNAPC4 | **GTF2B** | 0.913 |
+| SNAPC4 | **GTF2A1** | 0.948 |
+| SNAPC4 | **GTF2A2** | 0.95 |
+| SNAPC4 | **SNAPC5** | 0.999 |
+| SNAPC4 | **SNAPC3** | 0.999 |
+| SNAPC5 | **POLR2F** | 0.504 |
+| SNAPC5 | **POLR2E** | 0.519 |
+| SNAPC5 | **POLR2L** | 0.529 |
+| SNAPC5 | **GTF2F2** | 0.538 |
+| SNAPC5 | **POLR2H** | 0.55 |
+| SNAPC5 | **POLR2K** | 0.615 |
+| SNAPC5 | **POLR1C** | 0.633 |
+| SNAPC5 | **GTF2A1** | 0.895 |
+| SNAPC5 | **GTF2A2** | 0.906 |
+| SNAPC5 | **GTF2B** | 0.959 |
+| SNAPC5 | **SNAPC3** | 0.999 |
+| POLR2L | **SNAPC3** | 0.798 |
+| POLR2L | **GTF2A1** | 0.952 |
+| POLR2L | **GTF2A2** | 0.964 |
+| POLR2L | **GTF2B** | 0.986 |
+| POLR2L | **GTF2F2** | 0.989 |
+| POLR2L | **POLR1C** | 0.999 |
+| POLR2L | **POLR2K** | 0.999 |
+| POLR2L | **POLR2E** | 0.999 |
+| POLR2L | **POLR2F** | 0.999 |
+| POLR2L | **POLR2H** | 0.999 |
+| GTF2F2 | **SNAPC3** | 0.77 |
+| GTF2F2 | **POLR1C** | 0.878 |
+| GTF2F2 | **GTF2A1** | 0.981 |
+| GTF2F2 | **POLR2K** | 0.989 |
+| GTF2F2 | **GTF2A2** | 0.992 |
+| GTF2F2 | **POLR2F** | 0.993 |
+| GTF2F2 | **POLR2H** | 0.995 |
+| GTF2F2 | **POLR2E** | 0.999 |
+| GTF2F2 | **GTF2B** | 0.999 |
+| POLR2K | **SNAPC3** | 0.82 |
+| POLR2K | **GTF2A1** | 0.945 |
+| POLR2K | **GTF2A2** | 0.968 |
+| POLR2K | **GTF2B** | 0.997 |
+| POLR2K | **POLR2E** | 0.999 |
+| POLR2K | **POLR1C** | 0.999 |
+| POLR2K | **POLR2F** | 0.999 |
+| POLR2K | **POLR2H** | 0.999 |
+| GTF2B | **POLR1C** | 0.847 |
+| GTF2B | **SNAPC3** | 0.929 |
+| GTF2B | **POLR2F** | 0.996 |
+| GTF2B | **POLR2H** | 0.996 |
+| GTF2B | **GTF2A1** | 0.999 |
+| GTF2B | **POLR2E** | 0.999 |
+| GTF2B | **GTF2A2** | 0.999 |
+| SNAPC3 | **POLR2E** | 0.766 |
+| SNAPC3 | **POLR2F** | 0.768 |
+| SNAPC3 | **POLR1C** | 0.772 |
+| SNAPC3 | **POLR2H** | 0.807 |
+| SNAPC3 | **GTF2A1** | 0.907 |
+| SNAPC3 | **GTF2A2** | 0.953 |
+| GTF2A2 | **POLR1C** | 0.489 |
+| GTF2A2 | **POLR2F** | 0.965 |
+| GTF2A2 | **POLR2E** | 0.971 |
+| GTF2A2 | **POLR2H** | 0.975 |
+| GTF2A2 | **GTF2A1** | 0.999 |
+| POLR2F | **GTF2A1** | 0.946 |
+| POLR2F | **POLR2H** | 0.999 |
+| POLR2F | **POLR2E** | 0.999 |
+| POLR2F | **POLR1C** | 0.999 |
+| POLR2H | **GTF2A1** | 0.946 |
+| POLR2H | **POLR2E** | 0.999 |
+| POLR2H | **POLR1C** | 0.999 |
+| GTF2A1 | **POLR2E** | 0.957 |
+| POLR2E | **POLR1C** | 0.999 |
+

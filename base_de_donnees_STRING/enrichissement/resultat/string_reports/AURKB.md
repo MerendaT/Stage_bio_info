@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : AURKB
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : AURKB
+Identifiant STRING officiel : `9606.ENSP00000313950`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ESPL1 | **CCNB2** | 0.794 |
+| ESPL1 | **CCNA2** | 0.855 |
+| ESPL1 | **CENPA** | 0.89 |
+| ESPL1 | **KIF20A** | 0.896 |
+| ESPL1 | **CENPE** | 0.905 |
+| ESPL1 | **BIRC5** | 0.917 |
+| ESPL1 | **NDC80** | 0.925 |
+| ESPL1 | **KIF2C** | 0.939 |
+| ESPL1 | **INCENP** | 0.944 |
+| ESPL1 | **CDCA8** | 0.972 |
+| ESPL1 | **AURKB** | 0.985 |
+| ESPL1 | **CDC20** | 0.988 |
+| ESPL1 | **BUB1B** | 0.989 |
+| ESPL1 | **BUB1** | 0.99 |
+| ESPL1 | **CDK1** | 0.995 |
+| NDC80 | **CCNB2** | 0.875 |
+| NDC80 | **BIRC5** | 0.885 |
+| NDC80 | **CCNA2** | 0.893 |
+| NDC80 | **KIF20A** | 0.896 |
+| NDC80 | **INCENP** | 0.902 |
+| NDC80 | **CDCA8** | 0.907 |
+| NDC80 | **CENPA** | 0.917 |
+| NDC80 | **KIF2C** | 0.934 |
+| NDC80 | **CDK1** | 0.957 |
+| NDC80 | **CDC20** | 0.962 |
+| NDC80 | **CENPE** | 0.979 |
+| NDC80 | **AURKB** | 0.979 |
+| NDC80 | **BUB1B** | 0.992 |
+| NDC80 | **BUB1** | 0.998 |
+| CENPE | **INCENP** | 0.811 |
+| CENPE | **CCNA2** | 0.917 |
+| CENPE | **CCNB2** | 0.942 |
+| CENPE | **CDCA8** | 0.956 |
+| CENPE | **BIRC5** | 0.963 |
+| CENPE | **KIF20A** | 0.967 |
+| CENPE | **CDK1** | 0.973 |
+| CENPE | **AURKB** | 0.975 |
+| CENPE | **KIF2C** | 0.988 |
+| CENPE | **CDC20** | 0.989 |
+| CENPE | **BUB1** | 0.991 |
+| CENPE | **CENPA** | 0.993 |
+| CENPE | **BUB1B** | 0.999 |
+| BUB1B | **INCENP** | 0.912 |
+| BUB1B | **KIF20A** | 0.977 |
+| BUB1B | **CENPA** | 0.985 |
+| BUB1B | **BIRC5** | 0.987 |
+| BUB1B | **KIF2C** | 0.991 |
+| BUB1B | **CCNB2** | 0.993 |
+| BUB1B | **CCNA2** | 0.994 |
+| BUB1B | **CDCA8** | 0.994 |
+| BUB1B | **AURKB** | 0.999 |
+| BUB1B | **BUB1** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **CDK1** | 0.999 |
+| CCNB2 | **INCENP** | 0.684 |
+| CCNB2 | **KIF20A** | 0.938 |
+| CCNB2 | **CCNA2** | 0.965 |
+| CCNB2 | **KIF2C** | 0.971 |
+| CCNB2 | **CDCA8** | 0.974 |
+| CCNB2 | **CENPA** | 0.975 |
+| CCNB2 | **AURKB** | 0.99 |
+| CCNB2 | **BIRC5** | 0.993 |
+| CCNB2 | **BUB1** | 0.998 |
+| CCNB2 | **CDK1** | 0.999 |
+| CCNB2 | **CDC20** | 0.999 |
+| BIRC5 | **CENPA** | 0.955 |
+| BIRC5 | **CCNA2** | 0.956 |
+| BIRC5 | **KIF2C** | 0.972 |
+| BIRC5 | **KIF20A** | 0.973 |
+| BIRC5 | **BUB1** | 0.979 |
+| BIRC5 | **CDC20** | 0.995 |
+| BIRC5 | **CDK1** | 0.997 |
+| BIRC5 | **AURKB** | 0.999 |
+| BIRC5 | **INCENP** | 0.999 |
+| BIRC5 | **CDCA8** | 0.999 |
+| BUB1 | **INCENP** | 0.864 |
+| BUB1 | **KIF20A** | 0.959 |
+| BUB1 | **CENPA** | 0.969 |
+| BUB1 | **CDCA8** | 0.971 |
+| BUB1 | **CCNA2** | 0.981 |
+| BUB1 | **KIF2C** | 0.994 |
+| BUB1 | **AURKB** | 0.997 |
+| BUB1 | **CDK1** | 0.998 |
+| BUB1 | **CDC20** | 0.999 |
+| AURKB | **KIF20A** | 0.99 |
+| AURKB | **CCNA2** | 0.991 |
+| AURKB | **KIF2C** | 0.996 |
+| AURKB | **CDK1** | 0.997 |
+| AURKB | **CENPA** | 0.997 |
+| AURKB | **CDC20** | 0.998 |
+| AURKB | **INCENP** | 0.999 |
+| AURKB | **CDCA8** | 0.999 |
+| CENPA | **INCENP** | 0.865 |
+| CENPA | **KIF20A** | 0.913 |
+| CENPA | **CDCA8** | 0.971 |
+| CENPA | **KIF2C** | 0.986 |
+| CENPA | **CDC20** | 0.986 |
+| CENPA | **CDK1** | 0.989 |
+| CENPA | **CCNA2** | 0.99 |
+| KIF2C | **INCENP** | 0.899 |
+| KIF2C | **CCNA2** | 0.949 |
+| KIF2C | **CDK1** | 0.972 |
+| KIF2C | **KIF20A** | 0.973 |
+| KIF2C | **CDCA8** | 0.977 |
+| KIF2C | **CDC20** | 0.995 |
+| CDC20 | **INCENP** | 0.964 |
+| CDC20 | **KIF20A** | 0.981 |
+| CDC20 | **CDCA8** | 0.992 |
+| CDC20 | **CCNA2** | 0.999 |
+| CDC20 | **CDK1** | 0.999 |
+| CDCA8 | **CCNA2** | 0.952 |
+| CDCA8 | **KIF20A** | 0.98 |
+| CDCA8 | **CDK1** | 0.99 |
+| CDCA8 | **INCENP** | 0.999 |
+| INCENP | **CCNA2** | 0.628 |
+| INCENP | **CDK1** | 0.947 |
+| INCENP | **KIF20A** | 0.995 |
+| KIF20A | **CDK1** | 0.958 |
+| KIF20A | **CCNA2** | 0.974 |
+| CDK1 | **CCNA2** | 0.999 |
+

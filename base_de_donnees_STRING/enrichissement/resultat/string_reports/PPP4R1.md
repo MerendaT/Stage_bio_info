@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PPP4R1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PPP4R1
+Identifiant STRING officiel : `9606.ENSP00000383402`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PPP2CB | **CCDC6** | 0.623 |
+| PPP2CB | **PPP4R3A** | 0.697 |
+| PPP2CB | **PPP2R3A** | 0.865 |
+| PPP2CB | **PPP4C** | 0.885 |
+| PPP2CB | **PPP3CA** | 0.908 |
+| PPP2CB | **PPP3CB** | 0.915 |
+| PPP2CB | **PTPA** | 0.917 |
+| PPP2CB | **PPP4R2** | 0.945 |
+| PPP2CB | **PPP4R1** | 0.964 |
+| PPP2CB | **PPP2CA** | 0.986 |
+| PPP2CB | **PPP2R5A** | 0.992 |
+| PPP2CB | **PPP2R5C** | 0.995 |
+| PPP2CB | **PPP2R1A** | 0.999 |
+| PPP2CB | **PPP2R2A** | 0.999 |
+| PPP2CB | **PPP2R1B** | 0.999 |
+| PPP2R5A | **PPP4R3A** | 0.573 |
+| PPP2R5A | **PPP4C** | 0.793 |
+| PPP2R5A | **PPP4R1** | 0.863 |
+| PPP2R5A | **PTPA** | 0.864 |
+| PPP2R5A | **PPP4R2** | 0.918 |
+| PPP2R5A | **PPP2R3A** | 0.928 |
+| PPP2R5A | **PPP3CA** | 0.938 |
+| PPP2R5A | **PPP3CB** | 0.941 |
+| PPP2R5A | **PPP2R5C** | 0.969 |
+| PPP2R5A | **PPP2R2A** | 0.993 |
+| PPP2R5A | **PPP2CA** | 0.999 |
+| PPP2R5A | **PPP2R1B** | 0.999 |
+| PPP2R5A | **PPP2R1A** | 0.999 |
+| CCDC6 | **PPP4R2** | 0.559 |
+| CCDC6 | **PPP4R3A** | 0.581 |
+| CCDC6 | **PPP2CA** | 0.651 |
+| CCDC6 | **PPP2R1A** | 0.731 |
+| CCDC6 | **PPP4R1** | 0.843 |
+| CCDC6 | **PPP4C** | 0.917 |
+| PPP2R3A | **PPP4R3A** | 0.593 |
+| PPP2R3A | **PPP4C** | 0.748 |
+| PPP2R3A | **PPP3CB** | 0.758 |
+| PPP2R3A | **PPP3CA** | 0.769 |
+| PPP2R3A | **PPP4R2** | 0.795 |
+| PPP2R3A | **PPP4R1** | 0.806 |
+| PPP2R3A | **PTPA** | 0.919 |
+| PPP2R3A | **PPP2R1B** | 0.939 |
+| PPP2R3A | **PPP2R2A** | 0.951 |
+| PPP2R3A | **PPP2R5C** | 0.955 |
+| PPP2R3A | **PPP2R1A** | 0.993 |
+| PPP2R3A | **PPP2CA** | 0.996 |
+| PPP4C | **PPP3CB** | 0.551 |
+| PPP4C | **PPP3CA** | 0.556 |
+| PPP4C | **PPP2CA** | 0.848 |
+| PPP4C | **PPP2R5C** | 0.874 |
+| PPP4C | **PPP2R2A** | 0.892 |
+| PPP4C | **PPP2R1B** | 0.97 |
+| PPP4C | **PTPA** | 0.974 |
+| PPP4C | **PPP2R1A** | 0.984 |
+| PPP4C | **PPP4R3A** | 0.999 |
+| PPP4C | **PPP4R2** | 0.999 |
+| PPP4C | **PPP4R1** | 0.999 |
+| PPP2R1B | **PPP4R3A** | 0.575 |
+| PPP2R1B | **PPP4R2** | 0.664 |
+| PPP2R1B | **PPP3CB** | 0.71 |
+| PPP2R1B | **PPP3CA** | 0.738 |
+| PPP2R1B | **PTPA** | 0.889 |
+| PPP2R1B | **PPP4R1** | 0.895 |
+| PPP2R1B | **PPP2R5C** | 0.998 |
+| PPP2R1B | **PPP2R1A** | 0.999 |
+| PPP2R1B | **PPP2R2A** | 0.999 |
+| PPP2R1B | **PPP2CA** | 0.999 |
+| PPP2R1A | **PPP4R3A** | 0.628 |
+| PPP2R1A | **PPP4R1** | 0.832 |
+| PPP2R1A | **PPP3CB** | 0.936 |
+| PPP2R1A | **PPP4R2** | 0.936 |
+| PPP2R1A | **PPP3CA** | 0.943 |
+| PPP2R1A | **PTPA** | 0.998 |
+| PPP2R1A | **PPP2CA** | 0.999 |
+| PPP2R1A | **PPP2R5C** | 0.999 |
+| PPP2R1A | **PPP2R2A** | 0.999 |
+| PPP2R2A | **PPP4R3A** | 0.713 |
+| PPP2R2A | **PTPA** | 0.873 |
+| PPP2R2A | **PPP4R1** | 0.898 |
+| PPP2R2A | **PPP3CB** | 0.95 |
+| PPP2R2A | **PPP4R2** | 0.95 |
+| PPP2R2A | **PPP3CA** | 0.96 |
+| PPP2R2A | **PPP2R5C** | 0.995 |
+| PPP2R2A | **PPP2CA** | 0.999 |
+| PPP4R2 | **PPP2R5C** | 0.918 |
+| PPP4R2 | **PPP3CB** | 0.939 |
+| PPP4R2 | **PPP3CA** | 0.939 |
+| PPP4R2 | **PPP2CA** | 0.96 |
+| PPP4R2 | **PTPA** | 0.972 |
+| PPP4R2 | **PPP4R1** | 0.992 |
+| PPP4R2 | **PPP4R3A** | 0.999 |
+| PTPA | **PPP3CB** | 0.823 |
+| PTPA | **PPP3CA** | 0.844 |
+| PTPA | **PPP4R1** | 0.88 |
+| PTPA | **PPP2R5C** | 0.922 |
+| PTPA | **PPP4R3A** | 0.941 |
+| PTPA | **PPP2CA** | 0.999 |
+| PPP3CB | **PPP4R3A** | 0.7 |
+| PPP3CB | **PPP4R1** | 0.814 |
+| PPP3CB | **PPP2CA** | 0.911 |
+| PPP3CB | **PPP2R5C** | 0.939 |
+| PPP3CB | **PPP3CA** | 0.994 |
+| PPP3CA | **PPP4R3A** | 0.709 |
+| PPP3CA | **PPP4R1** | 0.826 |
+| PPP3CA | **PPP2CA** | 0.937 |
+| PPP3CA | **PPP2R5C** | 0.943 |
+| PPP4R1 | **PPP2R5C** | 0.866 |
+| PPP4R1 | **PPP4R3A** | 0.899 |
+| PPP4R1 | **PPP2CA** | 0.965 |
+| PPP2R5C | **PPP4R3A** | 0.574 |
+| PPP2R5C | **PPP2CA** | 0.999 |
+| PPP2CA | **PPP4R3A** | 0.749 |
+

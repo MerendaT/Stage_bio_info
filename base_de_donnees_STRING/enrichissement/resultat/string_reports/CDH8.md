@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CDH8
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CDH8
+Identifiant STRING officiel : `9606.ENSP00000462701`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDH17 | **CDH13** | 0.657 |
+| CDH17 | **CDH9** | 0.662 |
+| CDH17 | **CDH20** | 0.668 |
+| CDH17 | **CDH7** | 0.675 |
+| CDH17 | **CDH19** | 0.681 |
+| CDH17 | **CDH12** | 0.683 |
+| CDH17 | **CDH4** | 0.691 |
+| CDH17 | **CDH8** | 0.691 |
+| CDH17 | **CDH1** | 0.702 |
+| CDH17 | **CDH3** | 0.705 |
+| CDH17 | **JUP** | 0.801 |
+| CDH17 | **CTNNA2** | 0.927 |
+| CDH17 | **CTNNA1** | 0.983 |
+| CDH17 | **CTNND1** | 0.999 |
+| CDH17 | **CTNNB1** | 0.999 |
+| CDH9 | **CDH3** | 0.569 |
+| CDH9 | **CDH1** | 0.573 |
+| CDH9 | **JUP** | 0.589 |
+| CDH9 | **CDH4** | 0.593 |
+| CDH9 | **CTNNA2** | 0.667 |
+| CDH9 | **CTNND1** | 0.668 |
+| CDH9 | **CDH7** | 0.725 |
+| CDH9 | **CDH8** | 0.726 |
+| CDH9 | **CDH20** | 0.729 |
+| CDH9 | **CDH19** | 0.732 |
+| CDH9 | **CDH13** | 0.751 |
+| CDH9 | **CTNNA1** | 0.752 |
+| CDH9 | **CDH12** | 0.797 |
+| CDH9 | **CTNNB1** | 0.828 |
+| CDH1 | **CDH20** | 0.553 |
+| CDH1 | **CDH19** | 0.558 |
+| CDH1 | **CDH7** | 0.564 |
+| CDH1 | **CDH4** | 0.568 |
+| CDH1 | **CDH13** | 0.583 |
+| CDH1 | **CDH8** | 0.747 |
+| CDH1 | **CDH12** | 0.749 |
+| CDH1 | **CDH3** | 0.967 |
+| CDH1 | **CTNNA2** | 0.969 |
+| CDH1 | **CTNNB1** | 0.999 |
+| CDH1 | **CTNNA1** | 0.999 |
+| CDH1 | **JUP** | 0.999 |
+| CDH1 | **CTNND1** | 0.999 |
+| CDH19 | **CDH7** | 0.575 |
+| CDH19 | **JUP** | 0.597 |
+| CDH19 | **CDH20** | 0.601 |
+| CDH19 | **CDH13** | 0.609 |
+| CDH19 | **CTNND1** | 0.625 |
+| CDH19 | **CTNNA1** | 0.633 |
+| CDH19 | **CTNNA2** | 0.679 |
+| CDH19 | **CDH3** | 0.74 |
+| CDH19 | **CDH12** | 0.744 |
+| CDH19 | **CDH8** | 0.748 |
+| CDH19 | **CTNNB1** | 0.767 |
+| CDH19 | **CDH4** | 0.769 |
+| CDH20 | **CTNNA1** | 0.585 |
+| CDH20 | **JUP** | 0.589 |
+| CDH20 | **CDH7** | 0.592 |
+| CDH20 | **CDH13** | 0.595 |
+| CDH20 | **CTNND1** | 0.642 |
+| CDH20 | **CTNNA2** | 0.684 |
+| CDH20 | **CDH12** | 0.734 |
+| CDH20 | **CDH3** | 0.737 |
+| CDH20 | **CDH8** | 0.762 |
+| CDH20 | **CTNNB1** | 0.767 |
+| CDH20 | **CDH4** | 0.784 |
+| CDH3 | **CDH4** | 0.582 |
+| CDH3 | **CDH12** | 0.606 |
+| CDH3 | **CTNNA2** | 0.627 |
+| CDH3 | **CDH8** | 0.633 |
+| CDH3 | **CDH13** | 0.728 |
+| CDH3 | **CDH7** | 0.735 |
+| CDH3 | **JUP** | 0.847 |
+| CDH3 | **CTNNA1** | 0.93 |
+| CDH3 | **CTNND1** | 0.975 |
+| CDH3 | **CTNNB1** | 0.995 |
+| CDH13 | **CDH4** | 0.596 |
+| CDH13 | **CDH7** | 0.616 |
+| CDH13 | **JUP** | 0.648 |
+| CDH13 | **CTNND1** | 0.721 |
+| CDH13 | **CDH12** | 0.746 |
+| CDH13 | **CTNNA2** | 0.755 |
+| CDH13 | **CDH8** | 0.757 |
+| CDH13 | **CTNNA1** | 0.777 |
+| CDH13 | **CTNNB1** | 0.858 |
+| CTNNA1 | **CDH7** | 0.668 |
+| CTNNA1 | **CDH4** | 0.817 |
+| CTNNA1 | **CDH12** | 0.837 |
+| CTNNA1 | **CDH8** | 0.863 |
+| CTNNA1 | **CTNNA2** | 0.979 |
+| CTNNA1 | **JUP** | 0.991 |
+| CTNNA1 | **CTNND1** | 0.998 |
+| CTNNA1 | **CTNNB1** | 0.999 |
+| CDH12 | **CDH4** | 0.578 |
+| CDH12 | **JUP** | 0.589 |
+| CDH12 | **CTNND1** | 0.659 |
+| CDH12 | **CDH7** | 0.749 |
+| CDH12 | **CTNNA2** | 0.802 |
+| CDH12 | **CTNNB1** | 0.889 |
+| CDH12 | **CDH8** | 0.893 |
+| JUP | **CDH7** | 0.748 |
+| JUP | **CDH4** | 0.776 |
+| JUP | **CDH8** | 0.799 |
+| JUP | **CTNND1** | 0.901 |
+| JUP | **CTNNA2** | 0.921 |
+| JUP | **CTNNB1** | 0.978 |
+| CDH7 | **CTNNA2** | 0.738 |
+| CDH7 | **CTNND1** | 0.748 |
+| CDH7 | **CDH8** | 0.758 |
+| CDH7 | **CDH4** | 0.762 |
+| CDH7 | **CTNNB1** | 0.896 |
+| CTNND1 | **CTNNA2** | 0.829 |
+| CTNND1 | **CDH8** | 0.929 |
+| CTNND1 | **CDH4** | 0.942 |
+| CTNND1 | **CTNNB1** | 0.999 |
+| CTNNA2 | **CDH4** | 0.749 |
+| CTNNA2 | **CDH8** | 0.922 |
+| CTNNA2 | **CTNNB1** | 0.998 |
+| CDH8 | **CDH4** | 0.76 |
+| CDH8 | **CTNNB1** | 0.955 |
+| CDH4 | **CTNNB1** | 0.807 |
+

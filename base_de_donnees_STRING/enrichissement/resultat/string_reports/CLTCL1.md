@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CLTCL1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CLTCL1
+Identifiant STRING officiel : `9606.ENSP00000441158`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CLTA | **SNAP91** | 0.657 |
+| CLTA | **EPS15** | 0.835 |
+| CLTA | **CLINT1** | 0.854 |
+| CLTA | **GAK** | 0.859 |
+| CLTA | **EPN3** | 0.883 |
+| CLTA | **DNAJC6** | 0.899 |
+| CLTA | **EPN2** | 0.918 |
+| CLTA | **EHD2** | 0.925 |
+| CLTA | **AP2A2** | 0.946 |
+| CLTA | **AP2S1** | 0.961 |
+| CLTA | **AP2B1** | 0.965 |
+| CLTA | **AP2A1** | 0.983 |
+| CLTA | **CLTB** | 0.985 |
+| CLTA | **CLTC** | 0.999 |
+| CLTA | **CLTCL1** | 0.999 |
+| EHD2 | **EPS15** | 0.415 |
+| EHD2 | **EPN3** | 0.466 |
+| EHD2 | **AP2S1** | 0.901 |
+| EHD2 | **AP2A2** | 0.904 |
+| EHD2 | **AP2B1** | 0.907 |
+| EHD2 | **AP2A1** | 0.911 |
+| EHD2 | **CLTB** | 0.92 |
+| EHD2 | **CLTCL1** | 0.933 |
+| EHD2 | **CLTC** | 0.945 |
+| EPN3 | **AP2S1** | 0.659 |
+| EPN3 | **DNAJC6** | 0.693 |
+| EPN3 | **AP2A2** | 0.704 |
+| EPN3 | **CLINT1** | 0.711 |
+| EPN3 | **GAK** | 0.766 |
+| EPN3 | **AP2A1** | 0.917 |
+| EPN3 | **AP2B1** | 0.918 |
+| EPN3 | **CLTB** | 0.923 |
+| EPN3 | **EPN2** | 0.953 |
+| EPN3 | **CLTCL1** | 0.981 |
+| EPN3 | **SNAP91** | 0.981 |
+| EPN3 | **CLTC** | 0.981 |
+| EPN3 | **EPS15** | 0.999 |
+| CLTB | **SNAP91** | 0.693 |
+| CLTB | **DNAJC6** | 0.732 |
+| CLTB | **GAK** | 0.816 |
+| CLTB | **EPS15** | 0.921 |
+| CLTB | **CLINT1** | 0.935 |
+| CLTB | **EPN2** | 0.937 |
+| CLTB | **AP2S1** | 0.96 |
+| CLTB | **AP2A2** | 0.968 |
+| CLTB | **AP2B1** | 0.979 |
+| CLTB | **AP2A1** | 0.992 |
+| CLTB | **CLTCL1** | 0.999 |
+| CLTB | **CLTC** | 0.999 |
+| GAK | **AP2A2** | 0.467 |
+| GAK | **SNAP91** | 0.601 |
+| GAK | **AP2B1** | 0.61 |
+| GAK | **CLINT1** | 0.675 |
+| GAK | **DNAJC6** | 0.678 |
+| GAK | **EPS15** | 0.696 |
+| GAK | **EPN2** | 0.773 |
+| GAK | **AP2A1** | 0.795 |
+| GAK | **CLTCL1** | 0.996 |
+| GAK | **CLTC** | 0.998 |
+| EPN2 | **DNAJC6** | 0.697 |
+| EPN2 | **AP2S1** | 0.697 |
+| EPN2 | **CLINT1** | 0.714 |
+| EPN2 | **AP2A2** | 0.733 |
+| EPN2 | **AP2A1** | 0.931 |
+| EPN2 | **AP2B1** | 0.933 |
+| EPN2 | **CLTCL1** | 0.984 |
+| EPN2 | **CLTC** | 0.988 |
+| EPN2 | **SNAP91** | 0.99 |
+| EPN2 | **EPS15** | 0.999 |
+| AP2A2 | **CLINT1** | 0.767 |
+| AP2A2 | **SNAP91** | 0.825 |
+| AP2A2 | **CLTCL1** | 0.93 |
+| AP2A2 | **AP2A1** | 0.955 |
+| AP2A2 | **EPS15** | 0.958 |
+| AP2A2 | **CLTC** | 0.976 |
+| AP2A2 | **AP2B1** | 0.999 |
+| AP2A2 | **AP2S1** | 0.999 |
+| AP2A1 | **DNAJC6** | 0.454 |
+| AP2A1 | **SNAP91** | 0.756 |
+| AP2A1 | **CLINT1** | 0.941 |
+| AP2A1 | **CLTCL1** | 0.98 |
+| AP2A1 | **CLTC** | 0.989 |
+| AP2A1 | **EPS15** | 0.991 |
+| AP2A1 | **AP2S1** | 0.999 |
+| AP2A1 | **AP2B1** | 0.999 |
+| DNAJC6 | **AP2B1** | 0.426 |
+| DNAJC6 | **EPS15** | 0.583 |
+| DNAJC6 | **SNAP91** | 0.719 |
+| DNAJC6 | **CLINT1** | 0.839 |
+| DNAJC6 | **CLTCL1** | 0.996 |
+| DNAJC6 | **CLTC** | 0.998 |
+| EPS15 | **CLINT1** | 0.871 |
+| EPS15 | **CLTCL1** | 0.939 |
+| EPS15 | **AP2S1** | 0.952 |
+| EPS15 | **SNAP91** | 0.955 |
+| EPS15 | **AP2B1** | 0.973 |
+| EPS15 | **CLTC** | 0.974 |
+| SNAP91 | **AP2S1** | 0.65 |
+| SNAP91 | **CLINT1** | 0.72 |
+| SNAP91 | **AP2B1** | 0.763 |
+| SNAP91 | **CLTCL1** | 0.939 |
+| SNAP91 | **CLTC** | 0.948 |
+| CLINT1 | **AP2S1** | 0.652 |
+| CLINT1 | **AP2B1** | 0.867 |
+| CLINT1 | **CLTCL1** | 0.948 |
+| CLINT1 | **CLTC** | 0.972 |
+| CLTCL1 | **CLTC** | 0.937 |
+| CLTCL1 | **AP2S1** | 0.955 |
+| CLTCL1 | **AP2B1** | 0.992 |
+| AP2S1 | **CLTC** | 0.958 |
+| AP2S1 | **AP2B1** | 0.999 |
+| CLTC | **AP2B1** | 0.997 |
+

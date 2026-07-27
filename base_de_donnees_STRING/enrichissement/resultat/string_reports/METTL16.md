@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : METTL16
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : METTL16
+Identifiant STRING officiel : `9606.ENSP00000263092`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| YTHDC2 | **METTL5** | 0.55 |
+| YTHDC2 | **ZCCHC4** | 0.611 |
+| YTHDC2 | **YTHDC1** | 0.657 |
+| YTHDC2 | **CBLL1** | 0.781 |
+| YTHDC2 | **METTL16** | 0.811 |
+| YTHDC2 | **RBM15B** | 0.838 |
+| YTHDC2 | **YTHDF1** | 0.84 |
+| YTHDC2 | **RBM15** | 0.899 |
+| YTHDC2 | **VIRMA** | 0.912 |
+| YTHDC2 | **ALKBH5** | 0.921 |
+| YTHDC2 | **WTAP** | 0.922 |
+| YTHDC2 | **METTL14** | 0.931 |
+| YTHDC2 | **ZC3H13** | 0.932 |
+| YTHDC2 | **METTL3** | 0.946 |
+| ZC3H13 | **YTHDF1** | 0.892 |
+| ZC3H13 | **ALKBH5** | 0.894 |
+| ZC3H13 | **METTL5** | 0.924 |
+| ZC3H13 | **ZCCHC4** | 0.946 |
+| ZC3H13 | **YTHDC1** | 0.948 |
+| ZC3H13 | **METTL16** | 0.997 |
+| ZC3H13 | **RBM15** | 0.999 |
+| ZC3H13 | **CBLL1** | 0.999 |
+| ZC3H13 | **WTAP** | 0.999 |
+| ZC3H13 | **VIRMA** | 0.999 |
+| ZC3H13 | **METTL3** | 0.999 |
+| ZC3H13 | **METTL14** | 0.999 |
+| ZC3H13 | **RBM15B** | 0.999 |
+| METTL5 | **YTHDF1** | 0.523 |
+| METTL5 | **YTHDC1** | 0.561 |
+| METTL5 | **ALKBH5** | 0.588 |
+| METTL5 | **RBM15B** | 0.595 |
+| METTL5 | **CBLL1** | 0.672 |
+| METTL5 | **METTL14** | 0.721 |
+| METTL5 | **RBM15** | 0.784 |
+| METTL5 | **WTAP** | 0.815 |
+| METTL5 | **METTL3** | 0.824 |
+| METTL5 | **VIRMA** | 0.895 |
+| METTL5 | **METTL16** | 0.951 |
+| METTL5 | **ZCCHC4** | 0.969 |
+| METTL16 | **YTHDF1** | 0.812 |
+| METTL16 | **YTHDC1** | 0.824 |
+| METTL16 | **MEPCE** | 0.828 |
+| METTL16 | **ALKBH5** | 0.844 |
+| METTL16 | **CBLL1** | 0.926 |
+| METTL16 | **ZCCHC4** | 0.954 |
+| METTL16 | **RBM15B** | 0.966 |
+| METTL16 | **METTL3** | 0.99 |
+| METTL16 | **RBM15** | 0.996 |
+| METTL16 | **METTL14** | 0.996 |
+| METTL16 | **WTAP** | 0.997 |
+| METTL16 | **VIRMA** | 0.997 |
+| VIRMA | **ZCCHC4** | 0.873 |
+| VIRMA | **ALKBH5** | 0.894 |
+| VIRMA | **YTHDF1** | 0.898 |
+| VIRMA | **YTHDC1** | 0.911 |
+| VIRMA | **METTL3** | 0.999 |
+| VIRMA | **RBM15B** | 0.999 |
+| VIRMA | **METTL14** | 0.999 |
+| VIRMA | **WTAP** | 0.999 |
+| VIRMA | **CBLL1** | 0.999 |
+| VIRMA | **RBM15** | 0.999 |
+| METTL3 | **ZCCHC4** | 0.821 |
+| METTL3 | **ALKBH5** | 0.922 |
+| METTL3 | **YTHDF1** | 0.951 |
+| METTL3 | **YTHDC1** | 0.953 |
+| METTL3 | **METTL14** | 0.999 |
+| METTL3 | **RBM15B** | 0.999 |
+| METTL3 | **RBM15** | 0.999 |
+| METTL3 | **CBLL1** | 0.999 |
+| METTL3 | **WTAP** | 0.999 |
+| ZCCHC4 | **YTHDC1** | 0.592 |
+| ZCCHC4 | **YTHDF1** | 0.593 |
+| ZCCHC4 | **RBM15B** | 0.62 |
+| ZCCHC4 | **CBLL1** | 0.637 |
+| ZCCHC4 | **ALKBH5** | 0.637 |
+| ZCCHC4 | **RBM15** | 0.825 |
+| ZCCHC4 | **WTAP** | 0.861 |
+| ZCCHC4 | **METTL14** | 0.917 |
+| MEPCE | **YTHDF1** | 0.424 |
+| WTAP | **YTHDC1** | 0.933 |
+| WTAP | **ALKBH5** | 0.939 |
+| WTAP | **YTHDF1** | 0.943 |
+| WTAP | **RBM15B** | 0.999 |
+| WTAP | **METTL14** | 0.999 |
+| WTAP | **CBLL1** | 0.999 |
+| WTAP | **RBM15** | 0.999 |
+| RBM15 | **ALKBH5** | 0.889 |
+| RBM15 | **YTHDF1** | 0.889 |
+| RBM15 | **YTHDC1** | 0.897 |
+| RBM15 | **CBLL1** | 0.999 |
+| RBM15 | **RBM15B** | 0.999 |
+| RBM15 | **METTL14** | 0.999 |
+| YTHDF1 | **CBLL1** | 0.745 |
+| YTHDF1 | **RBM15B** | 0.843 |
+| YTHDF1 | **YTHDC1** | 0.919 |
+| YTHDF1 | **ALKBH5** | 0.957 |
+| YTHDF1 | **METTL14** | 0.963 |
+| METTL14 | **YTHDC1** | 0.953 |
+| METTL14 | **ALKBH5** | 0.956 |
+| METTL14 | **CBLL1** | 0.999 |
+| METTL14 | **RBM15B** | 0.999 |
+| ALKBH5 | **CBLL1** | 0.763 |
+| ALKBH5 | **RBM15B** | 0.828 |
+| ALKBH5 | **YTHDC1** | 0.92 |
+| CBLL1 | **YTHDC1** | 0.776 |
+| CBLL1 | **RBM15B** | 0.998 |
+| RBM15B | **YTHDC1** | 0.841 |
+

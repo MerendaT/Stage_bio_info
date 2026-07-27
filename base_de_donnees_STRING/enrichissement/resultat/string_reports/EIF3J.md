@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : EIF3J
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EIF3J
+Identifiant STRING officiel : `9606.ENSP00000261868`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EIF3D | **ABCE1** | 0.94 |
+| EIF3D | **EIF1** | 0.989 |
+| EIF3D | **EIF5** | 0.997 |
+| EIF3D | **EIF3B** | 0.999 |
+| EIF3D | **EIF3L** | 0.999 |
+| EIF3D | **EIF3A** | 0.999 |
+| EIF3D | **EIF3K** | 0.999 |
+| EIF3D | **EIF3F** | 0.999 |
+| EIF3D | **EIF3E** | 0.999 |
+| EIF3D | **EIF3M** | 0.999 |
+| EIF3D | **EIF3H** | 0.999 |
+| EIF3D | **EIF3G** | 0.999 |
+| EIF3D | **EIF3I** | 0.999 |
+| EIF3D | **EIF3C** | 0.999 |
+| EIF3D | **EIF3J** | 0.999 |
+| EIF5 | **EIF3M** | 0.88 |
+| EIF5 | **EIF3L** | 0.889 |
+| EIF5 | **EIF3K** | 0.916 |
+| EIF5 | **EIF3H** | 0.97 |
+| EIF5 | **EIF3F** | 0.973 |
+| EIF5 | **ABCE1** | 0.986 |
+| EIF5 | **EIF3E** | 0.992 |
+| EIF5 | **EIF3C** | 0.998 |
+| EIF5 | **EIF3J** | 0.998 |
+| EIF5 | **EIF3A** | 0.998 |
+| EIF5 | **EIF3I** | 0.999 |
+| EIF5 | **EIF1** | 0.999 |
+| EIF5 | **EIF3G** | 0.999 |
+| EIF5 | **EIF3B** | 0.999 |
+| EIF3E | **ABCE1** | 0.956 |
+| EIF3E | **EIF1** | 0.991 |
+| EIF3E | **EIF3C** | 0.999 |
+| EIF3E | **EIF3J** | 0.999 |
+| EIF3E | **EIF3I** | 0.999 |
+| EIF3E | **EIF3F** | 0.999 |
+| EIF3E | **EIF3H** | 0.999 |
+| EIF3E | **EIF3M** | 0.999 |
+| EIF3E | **EIF3G** | 0.999 |
+| EIF3E | **EIF3K** | 0.999 |
+| EIF3E | **EIF3A** | 0.999 |
+| EIF3E | **EIF3L** | 0.999 |
+| EIF3E | **EIF3B** | 0.999 |
+| EIF3K | **ABCE1** | 0.875 |
+| EIF3K | **EIF1** | 0.973 |
+| EIF3K | **EIF3G** | 0.999 |
+| EIF3K | **EIF3H** | 0.999 |
+| EIF3K | **EIF3M** | 0.999 |
+| EIF3K | **EIF3F** | 0.999 |
+| EIF3K | **EIF3J** | 0.999 |
+| EIF3K | **EIF3C** | 0.999 |
+| EIF3K | **EIF3I** | 0.999 |
+| EIF3K | **EIF3B** | 0.999 |
+| EIF3K | **EIF3A** | 0.999 |
+| EIF3K | **EIF3L** | 0.999 |
+| EIF3G | **ABCE1** | 0.939 |
+| EIF3G | **EIF1** | 0.998 |
+| EIF3G | **EIF3B** | 0.999 |
+| EIF3G | **EIF3A** | 0.999 |
+| EIF3G | **EIF3L** | 0.999 |
+| EIF3G | **EIF3F** | 0.999 |
+| EIF3G | **EIF3M** | 0.999 |
+| EIF3G | **EIF3H** | 0.999 |
+| EIF3G | **EIF3C** | 0.999 |
+| EIF3G | **EIF3J** | 0.999 |
+| EIF3G | **EIF3I** | 0.999 |
+| EIF3J | **ABCE1** | 0.996 |
+| EIF3J | **EIF1** | 0.996 |
+| EIF3J | **EIF3L** | 0.997 |
+| EIF3J | **EIF3F** | 0.998 |
+| EIF3J | **EIF3H** | 0.998 |
+| EIF3J | **EIF3M** | 0.998 |
+| EIF3J | **EIF3I** | 0.999 |
+| EIF3J | **EIF3C** | 0.999 |
+| EIF3J | **EIF3A** | 0.999 |
+| EIF3J | **EIF3B** | 0.999 |
+| ABCE1 | **EIF3F** | 0.918 |
+| ABCE1 | **EIF3L** | 0.926 |
+| ABCE1 | **EIF3H** | 0.936 |
+| ABCE1 | **EIF3M** | 0.971 |
+| ABCE1 | **EIF3I** | 0.982 |
+| ABCE1 | **EIF1** | 0.983 |
+| ABCE1 | **EIF3C** | 0.988 |
+| ABCE1 | **EIF3A** | 0.995 |
+| ABCE1 | **EIF3B** | 0.995 |
+| EIF3C | **EIF3A** | 0.999 |
+| EIF3C | **EIF3L** | 0.999 |
+| EIF3C | **EIF3B** | 0.999 |
+| EIF3C | **EIF3I** | 0.999 |
+| EIF3C | **EIF3F** | 0.999 |
+| EIF3C | **EIF1** | 0.999 |
+| EIF3C | **EIF3H** | 0.999 |
+| EIF3C | **EIF3M** | 0.999 |
+| EIF3B | **EIF1** | 0.998 |
+| EIF3B | **EIF3L** | 0.999 |
+| EIF3B | **EIF3A** | 0.999 |
+| EIF3B | **EIF3F** | 0.999 |
+| EIF3B | **EIF3M** | 0.999 |
+| EIF3B | **EIF3H** | 0.999 |
+| EIF3B | **EIF3I** | 0.999 |
+| EIF3A | **EIF1** | 0.995 |
+| EIF3A | **EIF3L** | 0.999 |
+| EIF3A | **EIF3I** | 0.999 |
+| EIF3A | **EIF3F** | 0.999 |
+| EIF3A | **EIF3M** | 0.999 |
+| EIF3A | **EIF3H** | 0.999 |
+| EIF3I | **EIF1** | 0.997 |
+| EIF3I | **EIF3F** | 0.999 |
+| EIF3I | **EIF3H** | 0.999 |
+| EIF3I | **EIF3M** | 0.999 |
+| EIF3I | **EIF3L** | 0.999 |
+| EIF1 | **EIF3M** | 0.954 |
+| EIF1 | **EIF3L** | 0.964 |
+| EIF1 | **EIF3H** | 0.975 |
+| EIF1 | **EIF3F** | 0.978 |
+| EIF3H | **EIF3L** | 0.999 |
+| EIF3H | **EIF3F** | 0.999 |
+| EIF3H | **EIF3M** | 0.999 |
+| EIF3F | **EIF3M** | 0.999 |
+| EIF3F | **EIF3L** | 0.999 |
+| EIF3M | **EIF3L** | 0.999 |
+

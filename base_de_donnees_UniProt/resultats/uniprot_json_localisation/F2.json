@@ -1,0 +1,912 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P00734",
+      "uniProtkbId": "THRB_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "F2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2019570"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21976677"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2856554"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30568593"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9780208"
+                }
+              ],
+              "value": "Thrombin, which cleaves bonds after Arg and Lys, converts fibrinogen to fibrin and activates factors V, VII, VIII, XIII, and, in complex with thrombomodulin, protein C. Functions in blood homeostasis, inflammation and wound healing. Activates coagulation factor XI (F11); activation is promoted by the contact with negatively charged surfaces (PubMed:2019570, PubMed:21976677). Triggers the production of pro-inflammatory cytokines, such as MCP-1/CCL2 and IL8/CXCL8, in endothelial cells (PubMed:30568593, PubMed:9780208)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted, extracellular space",
+                "id": "SL-0112"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0072562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:blood microparticle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22516433"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031012",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005796",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008083",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:growth factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "8626514"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008201",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heparin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001530",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:lipopolysaccharide binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048018",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor ligand activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10761923"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004252",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:serine-type endopeptidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12855810"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12855810"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070053",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:thrombospondin receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2435757"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006953",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:acute-phase response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061844",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:antimicrobial humoral immune response mediated by antimicrobial peptide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "7592664"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007166",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell surface receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1672265"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051838",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cytolysis by host of symbiont cells"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042730",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fibrinolysis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12855810"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048712",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of astrocyte differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1691280"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030195",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10761923"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900016",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cytokine production involved in inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051918",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of fibrinolysis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17379830"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010544",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of platelet activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17379830"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045861",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of proteolysis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1695900"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070945",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neutrophil-mediated killing of gram-negative bacterium"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20421939"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030168",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:platelet activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9038223"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030194",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9038223"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032967",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of collagen biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9639571"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900738",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phospholipase C-activating G protein-coupled receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20164183"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900182",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein localization to nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11309392"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000379",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of reactive oxygen species metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17275676"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046427",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of receptor signaling pathway via JAK-STAT"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "10692450"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051281",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of release of sequestered calcium ion into cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1672265"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19052258"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:proteolysis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "7507931"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030193",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of blood coagulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "12855810"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051480",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cytosolic calcium ion concentration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19052258"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009611",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to wounding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9639571"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070493",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:thrombin-activated receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11309392"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7559487"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000136ECD"
+      }
+    }
+  ]
+}

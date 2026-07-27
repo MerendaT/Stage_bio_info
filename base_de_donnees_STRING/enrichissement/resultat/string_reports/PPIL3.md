@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PPIL3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PPIL3
+Identifiant STRING officiel : `9606.ENSP00000286175`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DDX5 | **CCDC12** | 0.804 |
+| DDX5 | **RNF113A** | 0.809 |
+| DDX5 | **SYF2** | 0.813 |
+| DDX5 | **CDC40** | 0.821 |
+| DDX5 | **PPIL3** | 0.825 |
+| DDX5 | **PPIL2** | 0.827 |
+| DDX5 | **CWC27** | 0.829 |
+| DDX5 | **PPIL1** | 0.83 |
+| DDX5 | **CWC22** | 0.844 |
+| DDX5 | **SLU7** | 0.855 |
+| DDX5 | **SRRM1** | 0.885 |
+| DDX5 | **SRRM2** | 0.912 |
+| DDX5 | **DDX39B** | 0.915 |
+| DDX5 | **ALYREF** | 0.929 |
+| DDX5 | **EIF4A3** | 0.934 |
+| SYF2 | **RNF113A** | 0.773 |
+| SYF2 | **ALYREF** | 0.807 |
+| SYF2 | **EIF4A3** | 0.811 |
+| SYF2 | **CWC27** | 0.824 |
+| SYF2 | **DDX39B** | 0.834 |
+| SYF2 | **SRRM1** | 0.845 |
+| SYF2 | **PPIL3** | 0.875 |
+| SYF2 | **CCDC12** | 0.94 |
+| SYF2 | **SLU7** | 0.995 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **SRRM2** | 0.997 |
+| SYF2 | **PPIL1** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| PPIL3 | **SRRM2** | 0.823 |
+| PPIL3 | **PPIL2** | 0.824 |
+| PPIL3 | **ALYREF** | 0.824 |
+| PPIL3 | **SRRM1** | 0.832 |
+| PPIL3 | **CWC22** | 0.836 |
+| PPIL3 | **DDX39B** | 0.84 |
+| PPIL3 | **EIF4A3** | 0.841 |
+| PPIL3 | **CCDC12** | 0.841 |
+| PPIL3 | **RNF113A** | 0.847 |
+| PPIL3 | **CWC27** | 0.85 |
+| PPIL3 | **CDC40** | 0.872 |
+| PPIL3 | **PPIL1** | 0.914 |
+| PPIL3 | **SLU7** | 0.977 |
+| CCDC12 | **CWC22** | 0.801 |
+| CCDC12 | **ALYREF** | 0.808 |
+| CCDC12 | **CWC27** | 0.814 |
+| CCDC12 | **SRRM2** | 0.815 |
+| CCDC12 | **SLU7** | 0.816 |
+| CCDC12 | **EIF4A3** | 0.816 |
+| CCDC12 | **DDX39B** | 0.841 |
+| CCDC12 | **PPIL2** | 0.841 |
+| CCDC12 | **RNF113A** | 0.848 |
+| CCDC12 | **SRRM1** | 0.852 |
+| CCDC12 | **PPIL1** | 0.903 |
+| CCDC12 | **CDC40** | 0.997 |
+| SLU7 | **RNF113A** | 0.68 |
+| SLU7 | **CWC27** | 0.712 |
+| SLU7 | **ALYREF** | 0.812 |
+| SLU7 | **DDX39B** | 0.858 |
+| SLU7 | **SRRM1** | 0.882 |
+| SLU7 | **EIF4A3** | 0.939 |
+| SLU7 | **PPIL1** | 0.969 |
+| SLU7 | **SRRM2** | 0.986 |
+| SLU7 | **CWC22** | 0.999 |
+| SLU7 | **CDC40** | 0.999 |
+| SRRM2 | **ALYREF** | 0.872 |
+| SRRM2 | **DDX39B** | 0.872 |
+| SRRM2 | **PPIL2** | 0.963 |
+| SRRM2 | **EIF4A3** | 0.965 |
+| SRRM2 | **PPIL1** | 0.983 |
+| SRRM2 | **CWC27** | 0.992 |
+| SRRM2 | **RNF113A** | 0.995 |
+| SRRM2 | **CDC40** | 0.998 |
+| SRRM2 | **CWC22** | 0.999 |
+| SRRM2 | **SRRM1** | 0.999 |
+| SRRM1 | **RNF113A** | 0.814 |
+| SRRM1 | **CWC27** | 0.833 |
+| SRRM1 | **EIF4A3** | 0.949 |
+| SRRM1 | **PPIL2** | 0.961 |
+| SRRM1 | **DDX39B** | 0.962 |
+| SRRM1 | **PPIL1** | 0.963 |
+| SRRM1 | **CDC40** | 0.967 |
+| SRRM1 | **CWC22** | 0.968 |
+| SRRM1 | **ALYREF** | 0.993 |
+| CDC40 | **ALYREF** | 0.825 |
+| CDC40 | **DDX39B** | 0.891 |
+| CDC40 | **PPIL2** | 0.977 |
+| CDC40 | **EIF4A3** | 0.984 |
+| CDC40 | **RNF113A** | 0.987 |
+| CDC40 | **CWC27** | 0.988 |
+| CDC40 | **PPIL1** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| RNF113A | **DDX39B** | 0.805 |
+| RNF113A | **ALYREF** | 0.806 |
+| RNF113A | **EIF4A3** | 0.824 |
+| RNF113A | **PPIL1** | 0.971 |
+| RNF113A | **PPIL2** | 0.974 |
+| RNF113A | **CWC27** | 0.999 |
+| RNF113A | **CWC22** | 0.999 |
+| PPIL1 | **PPIL2** | 0.822 |
+| PPIL1 | **ALYREF** | 0.834 |
+| PPIL1 | **DDX39B** | 0.844 |
+| PPIL1 | **CWC27** | 0.963 |
+| PPIL1 | **EIF4A3** | 0.969 |
+| PPIL1 | **CWC22** | 0.982 |
+| CWC27 | **ALYREF** | 0.814 |
+| CWC27 | **DDX39B** | 0.828 |
+| CWC27 | **PPIL2** | 0.971 |
+| CWC27 | **EIF4A3** | 0.979 |
+| CWC27 | **CWC22** | 0.999 |
+| CWC22 | **DDX39B** | 0.887 |
+| CWC22 | **ALYREF** | 0.895 |
+| CWC22 | **PPIL2** | 0.964 |
+| CWC22 | **EIF4A3** | 0.999 |
+| DDX39B | **PPIL2** | 0.826 |
+| DDX39B | **ALYREF** | 0.999 |
+| DDX39B | **EIF4A3** | 0.999 |
+| ALYREF | **PPIL2** | 0.812 |
+| ALYREF | **EIF4A3** | 0.999 |
+| PPIL2 | **EIF4A3** | 0.826 |
+

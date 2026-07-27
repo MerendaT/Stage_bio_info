@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CHD4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHD4
+Identifiant STRING officiel : `9606.ENSP00000440542`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| H3-3B | **GATAD2B** | 0.599 |
+| H3-3B | **MTA3** | 0.62 |
+| H3-3B | **MBD3** | 0.621 |
+| H3-3B | **GATAD2A** | 0.762 |
+| H3-3B | **MTA1** | 0.788 |
+| H3-3B | **MTA2** | 0.805 |
+| H3-3B | **CHD3** | 0.847 |
+| H3-3B | **H3C12** | 0.916 |
+| H3-3B | **HDAC2** | 0.936 |
+| H3-3B | **RBBP7** | 0.953 |
+| H3-3B | **H3C13** | 0.954 |
+| H3-3B | **RBBP4** | 0.981 |
+| H3-3B | **HDAC1** | 0.986 |
+| H3-3B | **EZH2** | 0.99 |
+| H3-3B | **CHD4** | 0.994 |
+| MTA2 | **H3C13** | 0.804 |
+| MTA2 | **EZH2** | 0.816 |
+| MTA2 | **H3C12** | 0.825 |
+| MTA2 | **MTA3** | 0.966 |
+| MTA2 | **MBD3** | 0.996 |
+| MTA2 | **MTA1** | 0.998 |
+| MTA2 | **GATAD2B** | 0.998 |
+| MTA2 | **HDAC2** | 0.999 |
+| MTA2 | **GATAD2A** | 0.999 |
+| MTA2 | **HDAC1** | 0.999 |
+| MTA2 | **RBBP7** | 0.999 |
+| MTA2 | **RBBP4** | 0.999 |
+| MTA2 | **CHD3** | 0.999 |
+| MTA2 | **CHD4** | 0.999 |
+| EZH2 | **MBD3** | 0.638 |
+| EZH2 | **GATAD2B** | 0.643 |
+| EZH2 | **GATAD2A** | 0.664 |
+| EZH2 | **MTA3** | 0.676 |
+| EZH2 | **MTA1** | 0.688 |
+| EZH2 | **CHD3** | 0.829 |
+| EZH2 | **H3C12** | 0.985 |
+| EZH2 | **CHD4** | 0.993 |
+| EZH2 | **H3C13** | 0.998 |
+| EZH2 | **RBBP7** | 0.999 |
+| EZH2 | **RBBP4** | 0.999 |
+| EZH2 | **HDAC1** | 0.999 |
+| EZH2 | **HDAC2** | 0.999 |
+| H3C13 | **GATAD2B** | 0.594 |
+| H3C13 | **MTA3** | 0.62 |
+| H3C13 | **MBD3** | 0.622 |
+| H3C13 | **GATAD2A** | 0.759 |
+| H3C13 | **MTA1** | 0.787 |
+| H3C13 | **CHD3** | 0.844 |
+| H3C13 | **HDAC2** | 0.937 |
+| H3C13 | **RBBP4** | 0.956 |
+| H3C13 | **RBBP7** | 0.975 |
+| H3C13 | **HDAC1** | 0.984 |
+| H3C13 | **H3C12** | 0.988 |
+| H3C13 | **CHD4** | 0.995 |
+| MTA1 | **H3C12** | 0.814 |
+| MTA1 | **MBD3** | 0.993 |
+| MTA1 | **MTA3** | 0.993 |
+| MTA1 | **GATAD2B** | 0.997 |
+| MTA1 | **HDAC1** | 0.999 |
+| MTA1 | **CHD3** | 0.999 |
+| MTA1 | **CHD4** | 0.999 |
+| MTA1 | **RBBP7** | 0.999 |
+| MTA1 | **RBBP4** | 0.999 |
+| MTA1 | **HDAC2** | 0.999 |
+| MTA1 | **GATAD2A** | 0.999 |
+| H3C12 | **MTA3** | 0.665 |
+| H3C12 | **MBD3** | 0.672 |
+| H3C12 | **GATAD2B** | 0.679 |
+| H3C12 | **GATAD2A** | 0.783 |
+| H3C12 | **CHD3** | 0.852 |
+| H3C12 | **HDAC2** | 0.936 |
+| H3C12 | **HDAC1** | 0.986 |
+| H3C12 | **RBBP7** | 0.989 |
+| H3C12 | **CHD4** | 0.994 |
+| H3C12 | **RBBP4** | 0.995 |
+| GATAD2B | **MBD3** | 0.978 |
+| GATAD2B | **GATAD2A** | 0.989 |
+| GATAD2B | **MTA3** | 0.993 |
+| GATAD2B | **CHD3** | 0.996 |
+| GATAD2B | **CHD4** | 0.998 |
+| GATAD2B | **HDAC2** | 0.998 |
+| GATAD2B | **RBBP7** | 0.999 |
+| GATAD2B | **RBBP4** | 0.999 |
+| GATAD2B | **HDAC1** | 0.999 |
+| RBBP4 | **MBD3** | 0.992 |
+| RBBP4 | **MTA3** | 0.998 |
+| RBBP4 | **RBBP7** | 0.999 |
+| RBBP4 | **CHD3** | 0.999 |
+| RBBP4 | **CHD4** | 0.999 |
+| RBBP4 | **HDAC1** | 0.999 |
+| RBBP4 | **GATAD2A** | 0.999 |
+| RBBP4 | **HDAC2** | 0.999 |
+| HDAC1 | **MBD3** | 0.996 |
+| HDAC1 | **RBBP7** | 0.999 |
+| HDAC1 | **CHD4** | 0.999 |
+| HDAC1 | **CHD3** | 0.999 |
+| HDAC1 | **MTA3** | 0.999 |
+| HDAC1 | **GATAD2A** | 0.999 |
+| HDAC1 | **HDAC2** | 0.999 |
+| RBBP7 | **MBD3** | 0.995 |
+| RBBP7 | **GATAD2A** | 0.999 |
+| RBBP7 | **MTA3** | 0.999 |
+| RBBP7 | **HDAC2** | 0.999 |
+| RBBP7 | **CHD4** | 0.999 |
+| RBBP7 | **CHD3** | 0.999 |
+| CHD3 | **MBD3** | 0.982 |
+| CHD3 | **MTA3** | 0.998 |
+| CHD3 | **HDAC2** | 0.999 |
+| CHD3 | **GATAD2A** | 0.999 |
+| CHD3 | **CHD4** | 0.999 |
+| GATAD2A | **MBD3** | 0.987 |
+| GATAD2A | **MTA3** | 0.995 |
+| GATAD2A | **HDAC2** | 0.999 |
+| GATAD2A | **CHD4** | 0.999 |
+| MTA3 | **MBD3** | 0.989 |
+| MTA3 | **CHD4** | 0.998 |
+| MTA3 | **HDAC2** | 0.998 |
+| MBD3 | **HDAC2** | 0.987 |
+| MBD3 | **CHD4** | 0.994 |
+| HDAC2 | **CHD4** | 0.999 |
+

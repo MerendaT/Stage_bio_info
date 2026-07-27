@@ -1,0 +1,639 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O95718",
+      "uniProtkbId": "ERR2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:3473"
+              }
+            ],
+            "value": "ESRRB"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q61539"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17920186"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19755138"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23836911"
+                }
+              ],
+              "value": "Transcription factor that binds a canonical ESRRB recognition (ERRE) sequence 5'TCAAGGTCA-3' localized on promoter and enhancer of targets genes regulating their expression or their transcription activity (PubMed:17920186, PubMed:19755138). Plays a role, in a LIF-independent manner, in maintainance of self-renewal and pluripotency of embryonic and trophoblast stem cells through different signaling pathways including FGF signaling pathway and Wnt signaling pathways. Involved in morula development (2-16 cells embryos) by acting as a regulator at the 8-cell stage (By similarity). Upon FGF signaling pathway activation, interacts with KDM1A by directly binding to enhancer site of ELF5 and EOMES and activating their transcription leading to self-renewal of trophoblast stem cells. Also regulates expression of multiple rod-specific genes and is required for survival of this cell type (By similarity). Plays a role as transcription factor activator of GATA6, NR0B1, POU5F1 and PERM1 (PubMed:23836911). Plays a role as transcription factor repressor of NFE2L2 transcriptional activity and ESR1 transcriptional activity (PubMed:17920186, PubMed:19755138). During mitosis remains bound to a subset of interphase target genes, including pluripotency regulators, through the canonical ESRRB recognition (ERRE) sequence, leading to their transcriptional activation in early G1 phase. Can coassemble on structured DNA elements with other transcription factors like SOX2, POU5F1, KDM1A and NCOA3 to trigger ESRRB-dependent gene activation. This mechanism, in the case of SOX2 corecruitment prevents the embryonic stem cells (ESCs) to epiblast stem cells (EpiSC) transition through positive regulation of NR0B1 that inhibits the EpiSC transcriptional program. Also plays a role inner ear development by controlling expression of ion channels and transporters and in early placentation (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 3"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19755138"
+                }
+              ],
+              "value": "Transcription factor that binds a canonical ESRRB recognition (ERRE) sequence 5'TCAAGGTCA-3' localized on promoter and enhancer of targets genes regulating their expression or their transcription activity. Positively regulates ESR1 transcriptional activity upon E2 stimulation"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 1"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "18775884"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q61539"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q61539"
+                  }
+                ],
+                "value": "Chromosome",
+                "id": "SL-0468"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000793",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:condensed chromosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000987",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription activator activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034056",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:estrogen response element binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004879",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nuclear receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003707",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nuclear steroid receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000993",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II complex binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II-specific DNA-binding transcription factor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043565",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12654265"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005496",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:steroid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043697",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell dedifferentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008283",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048839",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:inner ear development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140001",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:morula formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of stem cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045494",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:photoreceptor cell maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902459",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of stem cell population maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006355",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23836911"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000035",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of stem cell division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035019",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:somatic stem cell population maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017145",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:stem cell division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019827",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:stem cell population maintenance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25522312"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00004C9AFD"
+      }
+    }
+  ]
+}

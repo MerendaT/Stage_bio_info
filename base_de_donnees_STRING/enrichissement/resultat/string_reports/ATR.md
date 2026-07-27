@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ATR
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ATR
+Identifiant STRING officiel : `9606.ENSP00000343741`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPA1 | **CHEK2** | 0.612 |
+| RPA1 | **CDC7** | 0.634 |
+| RPA1 | **CHEK1** | 0.857 |
+| RPA1 | **HUS1** | 0.864 |
+| RPA1 | **TP53BP1** | 0.873 |
+| RPA1 | **TOPBP1** | 0.889 |
+| RPA1 | **ATM** | 0.928 |
+| RPA1 | **RAD17** | 0.95 |
+| RPA1 | **BRCA1** | 0.96 |
+| RPA1 | **ATR** | 0.983 |
+| RPA1 | **RAD9A** | 0.985 |
+| RPA1 | **TP53** | 0.999 |
+| RPA1 | **ATRIP** | 0.999 |
+| RPA1 | **FANCM** | 0.999 |
+| HUS1 | **FANCM** | 0.602 |
+| HUS1 | **TP53** | 0.712 |
+| HUS1 | **CHEK2** | 0.758 |
+| HUS1 | **TP53BP1** | 0.856 |
+| HUS1 | **BRCA1** | 0.87 |
+| HUS1 | **ATM** | 0.928 |
+| HUS1 | **CHEK1** | 0.96 |
+| HUS1 | **ATRIP** | 0.974 |
+| HUS1 | **ATR** | 0.992 |
+| HUS1 | **TOPBP1** | 0.996 |
+| HUS1 | **RAD9A** | 0.999 |
+| HUS1 | **RAD17** | 0.999 |
+| TOPBP1 | **TELO2** | 0.45 |
+| TOPBP1 | **FANCM** | 0.708 |
+| TOPBP1 | **CHEK2** | 0.827 |
+| TOPBP1 | **CDC7** | 0.878 |
+| TOPBP1 | **TP53** | 0.949 |
+| TOPBP1 | **ATM** | 0.954 |
+| TOPBP1 | **RAD17** | 0.977 |
+| TOPBP1 | **CHEK1** | 0.989 |
+| TOPBP1 | **ATR** | 0.996 |
+| TOPBP1 | **ATRIP** | 0.999 |
+| TOPBP1 | **RAD9A** | 0.999 |
+| TOPBP1 | **TP53BP1** | 0.999 |
+| TOPBP1 | **BRCA1** | 0.999 |
+| TELO2 | **ATRIP** | 0.588 |
+| TELO2 | **CHEK1** | 0.72 |
+| TELO2 | **ATM** | 0.961 |
+| TELO2 | **ATR** | 0.989 |
+| TELO2 | **FANCM** | 0.998 |
+| FANCM | **TP53** | 0.441 |
+| FANCM | **RAD9A** | 0.581 |
+| FANCM | **RAD17** | 0.648 |
+| FANCM | **TP53BP1** | 0.663 |
+| FANCM | **ATM** | 0.745 |
+| FANCM | **CHEK2** | 0.814 |
+| FANCM | **CHEK1** | 0.87 |
+| FANCM | **BRCA1** | 0.916 |
+| FANCM | **ATRIP** | 0.955 |
+| FANCM | **ATR** | 0.978 |
+| TP53 | **CDC7** | 0.418 |
+| TP53 | **RAD17** | 0.807 |
+| TP53 | **RAD9A** | 0.813 |
+| TP53 | **ATRIP** | 0.84 |
+| TP53 | **ATR** | 0.996 |
+| TP53 | **CHEK1** | 0.997 |
+| TP53 | **ATM** | 0.999 |
+| TP53 | **CHEK2** | 0.999 |
+| TP53 | **BRCA1** | 0.999 |
+| TP53 | **TP53BP1** | 0.999 |
+| ATM | **CDC7** | 0.491 |
+| ATM | **RAD9A** | 0.961 |
+| ATM | **RAD17** | 0.983 |
+| ATM | **CHEK1** | 0.998 |
+| ATM | **ATRIP** | 0.998 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **CHEK2** | 0.999 |
+| ATM | **ATR** | 0.999 |
+| ATM | **TP53BP1** | 0.999 |
+| RAD9A | **CDC7** | 0.496 |
+| RAD9A | **BRCA1** | 0.895 |
+| RAD9A | **TP53BP1** | 0.905 |
+| RAD9A | **CHEK1** | 0.963 |
+| RAD9A | **CHEK2** | 0.981 |
+| RAD9A | **ATRIP** | 0.992 |
+| RAD9A | **ATR** | 0.994 |
+| RAD9A | **RAD17** | 0.999 |
+| ATRIP | **CDC7** | 0.785 |
+| ATRIP | **TP53BP1** | 0.791 |
+| ATRIP | **CHEK2** | 0.824 |
+| ATRIP | **BRCA1** | 0.972 |
+| ATRIP | **RAD17** | 0.98 |
+| ATRIP | **CHEK1** | 0.981 |
+| ATRIP | **ATR** | 0.999 |
+| ATR | **TP53BP1** | 0.975 |
+| ATR | **RAD17** | 0.988 |
+| ATR | **CDC7** | 0.992 |
+| ATR | **BRCA1** | 0.996 |
+| ATR | **CHEK2** | 0.998 |
+| ATR | **CHEK1** | 0.999 |
+| TP53BP1 | **CDC7** | 0.407 |
+| TP53BP1 | **RAD17** | 0.926 |
+| TP53BP1 | **CHEK1** | 0.992 |
+| TP53BP1 | **CHEK2** | 0.996 |
+| TP53BP1 | **BRCA1** | 0.999 |
+| CHEK2 | **RAD17** | 0.889 |
+| CHEK2 | **CHEK1** | 0.971 |
+| CHEK2 | **CDC7** | 0.988 |
+| CHEK2 | **BRCA1** | 0.999 |
+| CHEK1 | **CDC7** | 0.911 |
+| CHEK1 | **RAD17** | 0.982 |
+| CHEK1 | **BRCA1** | 0.996 |
+| CDC7 | **RAD17** | 0.527 |
+| CDC7 | **BRCA1** | 0.54 |
+| BRCA1 | **RAD17** | 0.887 |
+

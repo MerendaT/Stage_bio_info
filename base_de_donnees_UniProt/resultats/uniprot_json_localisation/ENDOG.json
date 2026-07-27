@@ -1,0 +1,501 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q14249",
+      "uniProtkbId": "NUCG_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "ENDOG"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "O08600"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25355512"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "29719607"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "33473107"
+                }
+              ],
+              "value": "Endonuclease that preferentially catalyzes the cleavage of double-stranded 5-hydroxymethylcytosine (5hmC)-modified DNA (PubMed:25355512). The 5hmC-modified nucleotide does not increase the binding affinity, but instead increases the efficiency of cutting and specifies the site of cleavage for the modified DNAs (By similarity). Shows significantly higher affinity for four-stranded Holliday junction over duplex and single-stranded DNAs (By similarity). Promotes conservative recombination when the DNA is 5hmC-modified (PubMed:25355512). Promotes autophagy through the suppression of mTOR by its phosphorylation-mediated interaction with YWHAG and its endonuclease activity-mediated DNA damage response (PubMed:33473107). GSK3-beta mediated phosphorylation of ENDOG enhances its interaction with YWHAG, leading to the release of TSC2 and PIK3C3 from YWHAG resulting in mTOR pathway suppression and autophagy initiation (PubMed:33473107). Promotes cleavage of mtDNA in response to oxidative and nitrosative stress, in turn inducing compensatory mtDNA replication (PubMed:29719607)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "33473107"
+                  }
+                ],
+                "value": "Mitochondrion",
+                "id": "SL-0173"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005743",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial inner membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "33473107"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043204",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perikaryon"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perinuclear region of cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004520",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA endonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25355512"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "29719607"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "33473107"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000287",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:magnesium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003676",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nucleic acid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004521",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA endonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000014",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:single-stranded DNA endodeoxyribonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006309",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:apoptotic DNA fragmentation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071277",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to calcium ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071333",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to glucose stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071456",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034599",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to oxidative stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006974",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA damage response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "33473107"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006310",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA recombination"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "18309324"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032043",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mitochondrial DNA catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "29719607"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032007",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of TOR signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "33473107"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902512",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of apoptotic DNA fragmentation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of autophagy"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "33473107"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1901300",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of hydrogen peroxide-mediated programmed cell death"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090297",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of mitochondrial DNA replication"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "29719607"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032355",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to estradiol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to mechanical stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013E66E"
+      }
+    }
+  ]
+}

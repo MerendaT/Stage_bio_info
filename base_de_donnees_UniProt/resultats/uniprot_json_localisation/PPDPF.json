@@ -1,0 +1,71 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9H3Y8",
+      "uniProtkbId": "PPDPF_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "PPDPF"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "Probable regulator of exocrine pancreas development"
+            }
+          ],
+          "commentType": "FUNCTION"
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HTP:FlyBase"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0006056",
+              "source": "PubMed",
+              "id": "34800366"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003BBD7"
+      }
+    }
+  ]
+}

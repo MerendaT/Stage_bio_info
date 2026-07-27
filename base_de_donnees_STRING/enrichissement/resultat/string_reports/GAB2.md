@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : GAB2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : GAB2
+Identifiant STRING officiel : `9606.ENSP00000354952`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SOS2 | **PIK3R1** | 0.421 |
+| SOS2 | **FYN** | 0.482 |
+| SOS2 | **SYK** | 0.539 |
+| SOS2 | **LYN** | 0.564 |
+| SOS2 | **SOS1** | 0.966 |
+| SOS2 | **GAB1** | 0.978 |
+| SOS2 | **GAB2** | 0.991 |
+| SOS2 | **PTPN11** | 0.994 |
+| SOS2 | **EGFR** | 0.998 |
+| SOS2 | **SHC1** | 0.999 |
+| SOS2 | **GRB2** | 0.999 |
+| PIK3R2 | **TRAF6** | 0.59 |
+| PIK3R2 | **SOS1** | 0.613 |
+| PIK3R2 | **SHC1** | 0.731 |
+| PIK3R2 | **GRB2** | 0.789 |
+| PIK3R2 | **PLCG2** | 0.91 |
+| PIK3R2 | **GAB1** | 0.926 |
+| PIK3R2 | **LYN** | 0.93 |
+| PIK3R2 | **FYN** | 0.955 |
+| PIK3R2 | **PTPN11** | 0.96 |
+| PIK3R2 | **SYK** | 0.964 |
+| PIK3R2 | **GAB2** | 0.973 |
+| PIK3R2 | **EGFR** | 0.993 |
+| PIK3R2 | **PIK3R1** | 0.999 |
+| PIK3R2 | **PIK3CB** | 0.999 |
+| GAB1 | **LYN** | 0.652 |
+| GAB1 | **PIK3CB** | 0.922 |
+| GAB1 | **GAB2** | 0.953 |
+| GAB1 | **SOS1** | 0.991 |
+| GAB1 | **PIK3R1** | 0.991 |
+| GAB1 | **SHC1** | 0.995 |
+| GAB1 | **GRB2** | 0.999 |
+| GAB1 | **EGFR** | 0.999 |
+| GAB1 | **PTPN11** | 0.999 |
+| EGFR | **SYK** | 0.484 |
+| EGFR | **LYN** | 0.859 |
+| EGFR | **TRAF6** | 0.86 |
+| EGFR | **FYN** | 0.873 |
+| EGFR | **GAB2** | 0.984 |
+| EGFR | **PLCG2** | 0.993 |
+| EGFR | **PIK3CB** | 0.993 |
+| EGFR | **PIK3R1** | 0.998 |
+| EGFR | **PTPN11** | 0.999 |
+| EGFR | **SHC1** | 0.999 |
+| EGFR | **SOS1** | 0.999 |
+| EGFR | **GRB2** | 0.999 |
+| FYN | **SOS1** | 0.85 |
+| FYN | **PLCG2** | 0.936 |
+| FYN | **TRAF6** | 0.948 |
+| FYN | **PIK3CB** | 0.951 |
+| FYN | **GAB2** | 0.975 |
+| FYN | **GRB2** | 0.98 |
+| FYN | **SYK** | 0.983 |
+| FYN | **PIK3R1** | 0.988 |
+| FYN | **PTPN11** | 0.988 |
+| FYN | **SHC1** | 0.995 |
+| FYN | **LYN** | 0.996 |
+| GAB2 | **TRAF6** | 0.948 |
+| GAB2 | **PLCG2** | 0.954 |
+| GAB2 | **PIK3CB** | 0.966 |
+| GAB2 | **SYK** | 0.975 |
+| GAB2 | **LYN** | 0.977 |
+| GAB2 | **SOS1** | 0.991 |
+| GAB2 | **PIK3R1** | 0.996 |
+| GAB2 | **SHC1** | 0.997 |
+| GAB2 | **PTPN11** | 0.999 |
+| GAB2 | **GRB2** | 0.999 |
+| SYK | **SOS1** | 0.751 |
+| SYK | **TRAF6** | 0.936 |
+| SYK | **PIK3CB** | 0.938 |
+| SYK | **SHC1** | 0.957 |
+| SYK | **PTPN11** | 0.963 |
+| SYK | **PIK3R1** | 0.98 |
+| SYK | **GRB2** | 0.986 |
+| SYK | **LYN** | 0.999 |
+| SYK | **PLCG2** | 0.999 |
+| GRB2 | **PIK3CB** | 0.775 |
+| GRB2 | **PLCG2** | 0.852 |
+| GRB2 | **LYN** | 0.866 |
+| GRB2 | **PIK3R1** | 0.998 |
+| GRB2 | **PTPN11** | 0.999 |
+| GRB2 | **SOS1** | 0.999 |
+| GRB2 | **SHC1** | 0.999 |
+| SOS1 | **PLCG2** | 0.564 |
+| SOS1 | **PIK3CB** | 0.707 |
+| SOS1 | **LYN** | 0.739 |
+| SOS1 | **PIK3R1** | 0.927 |
+| SOS1 | **SHC1** | 0.999 |
+| SOS1 | **PTPN11** | 0.999 |
+| SHC1 | **PIK3CB** | 0.631 |
+| SHC1 | **PLCG2** | 0.93 |
+| SHC1 | **PIK3R1** | 0.971 |
+| SHC1 | **LYN** | 0.991 |
+| SHC1 | **PTPN11** | 0.997 |
+| PIK3R1 | **TRAF6** | 0.651 |
+| PIK3R1 | **LYN** | 0.964 |
+| PIK3R1 | **PLCG2** | 0.979 |
+| PIK3R1 | **PTPN11** | 0.996 |
+| PIK3R1 | **PIK3CB** | 0.999 |
+| LYN | **TRAF6** | 0.623 |
+| LYN | **PTPN11** | 0.807 |
+| LYN | **PIK3CB** | 0.957 |
+| LYN | **PLCG2** | 0.961 |
+| TRAF6 | **PIK3CB** | 0.575 |
+| TRAF6 | **PTPN11** | 0.948 |
+| PLCG2 | **PTPN11** | 0.934 |
+| PLCG2 | **PIK3CB** | 0.938 |
+| PTPN11 | **PIK3CB** | 0.934 |
+

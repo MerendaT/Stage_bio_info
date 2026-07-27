@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PSMD5
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PSMD5
+Identifiant STRING officiel : `9606.ENSP00000210313`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PSMC4 | **PSMD1** | 0.999 |
+| PSMC4 | **PSMD14** | 0.999 |
+| PSMC4 | **PSMC1** | 0.999 |
+| PSMC4 | **PSMD8** | 0.999 |
+| PSMC4 | **PSMD12** | 0.999 |
+| PSMC4 | **PSMD13** | 0.999 |
+| PSMC4 | **PSMD5** | 0.999 |
+| PSMC4 | **PSMD7** | 0.999 |
+| PSMC4 | **PSMD2** | 0.999 |
+| PSMC4 | **PSMD6** | 0.999 |
+| PSMC4 | **ADRM1** | 0.999 |
+| PSMC4 | **PSMC5** | 0.999 |
+| PSMC4 | **PSMC2** | 0.999 |
+| PSMC4 | **PSMD4** | 0.999 |
+| PSMC4 | **PSMD3** | 0.999 |
+| PSMD5 | **ADRM1** | 0.999 |
+| PSMD5 | **PSMD6** | 0.999 |
+| PSMD5 | **PSMD4** | 0.999 |
+| PSMD5 | **PSMC2** | 0.999 |
+| PSMD5 | **PSMD3** | 0.999 |
+| PSMD5 | **PSMC5** | 0.999 |
+| PSMD5 | **PSMD8** | 0.999 |
+| PSMD5 | **PSMD1** | 0.999 |
+| PSMD5 | **PSMC1** | 0.999 |
+| PSMD5 | **PSMD14** | 0.999 |
+| PSMD5 | **PSMD2** | 0.999 |
+| PSMD5 | **PSMD12** | 0.999 |
+| PSMD5 | **PSMD13** | 0.999 |
+| PSMD5 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMC1** | 0.999 |
+| PSMD8 | **PSMD14** | 0.999 |
+| PSMD8 | **PSMD1** | 0.999 |
+| PSMD8 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMD13** | 0.999 |
+| PSMD8 | **PSMD12** | 0.999 |
+| PSMD8 | **PSMD2** | 0.999 |
+| PSMD8 | **PSMD6** | 0.999 |
+| PSMD8 | **ADRM1** | 0.999 |
+| PSMD8 | **PSMC5** | 0.999 |
+| PSMD8 | **PSMD3** | 0.999 |
+| PSMD8 | **PSMD4** | 0.999 |
+| PSMD8 | **PSMC2** | 0.999 |
+| PSMD7 | **ADRM1** | 0.999 |
+| PSMD7 | **PSMD6** | 0.999 |
+| PSMD7 | **PSMD4** | 0.999 |
+| PSMD7 | **PSMC2** | 0.999 |
+| PSMD7 | **PSMD3** | 0.999 |
+| PSMD7 | **PSMC5** | 0.999 |
+| PSMD7 | **PSMD1** | 0.999 |
+| PSMD7 | **PSMC1** | 0.999 |
+| PSMD7 | **PSMD14** | 0.999 |
+| PSMD7 | **PSMD2** | 0.999 |
+| PSMD7 | **PSMD12** | 0.999 |
+| PSMD7 | **PSMD13** | 0.999 |
+| PSMC1 | **PSMD1** | 0.999 |
+| PSMC1 | **PSMD14** | 0.999 |
+| PSMC1 | **PSMD12** | 0.999 |
+| PSMC1 | **PSMD13** | 0.999 |
+| PSMC1 | **PSMD2** | 0.999 |
+| PSMC1 | **PSMD6** | 0.999 |
+| PSMC1 | **ADRM1** | 0.999 |
+| PSMC1 | **PSMC5** | 0.999 |
+| PSMC1 | **PSMD4** | 0.999 |
+| PSMC1 | **PSMC2** | 0.999 |
+| PSMC1 | **PSMD3** | 0.999 |
+| PSMD3 | **ADRM1** | 0.999 |
+| PSMD3 | **PSMD6** | 0.999 |
+| PSMD3 | **PSMD4** | 0.999 |
+| PSMD3 | **PSMC2** | 0.999 |
+| PSMD3 | **PSMC5** | 0.999 |
+| PSMD3 | **PSMD1** | 0.999 |
+| PSMD3 | **PSMD14** | 0.999 |
+| PSMD3 | **PSMD2** | 0.999 |
+| PSMD3 | **PSMD12** | 0.999 |
+| PSMD3 | **PSMD13** | 0.999 |
+| PSMD1 | **ADRM1** | 0.999 |
+| PSMD1 | **PSMD6** | 0.999 |
+| PSMD1 | **PSMC2** | 0.999 |
+| PSMD1 | **PSMD4** | 0.999 |
+| PSMD1 | **PSMC5** | 0.999 |
+| PSMD1 | **PSMD14** | 0.999 |
+| PSMD1 | **PSMD2** | 0.999 |
+| PSMD1 | **PSMD12** | 0.999 |
+| PSMD1 | **PSMD13** | 0.999 |
+| PSMD2 | **PSMD12** | 0.999 |
+| PSMD2 | **PSMD13** | 0.999 |
+| PSMD2 | **PSMD14** | 0.999 |
+| PSMD2 | **PSMD4** | 0.999 |
+| PSMD2 | **PSMC2** | 0.999 |
+| PSMD2 | **PSMC5** | 0.999 |
+| PSMD2 | **ADRM1** | 0.999 |
+| PSMD2 | **PSMD6** | 0.999 |
+| PSMC5 | **ADRM1** | 0.998 |
+| PSMC5 | **PSMD4** | 0.999 |
+| PSMC5 | **PSMC2** | 0.999 |
+| PSMC5 | **PSMD6** | 0.999 |
+| PSMC5 | **PSMD13** | 0.999 |
+| PSMC5 | **PSMD12** | 0.999 |
+| PSMC5 | **PSMD14** | 0.999 |
+| PSMD12 | **ADRM1** | 0.999 |
+| PSMD12 | **PSMD6** | 0.999 |
+| PSMD12 | **PSMC2** | 0.999 |
+| PSMD12 | **PSMD4** | 0.999 |
+| PSMD12 | **PSMD14** | 0.999 |
+| PSMD12 | **PSMD13** | 0.999 |
+| PSMD4 | **PSMD13** | 0.999 |
+| PSMD4 | **PSMD14** | 0.999 |
+| PSMD4 | **PSMC2** | 0.999 |
+| PSMD4 | **PSMD6** | 0.999 |
+| PSMD4 | **ADRM1** | 0.999 |
+| PSMD14 | **PSMC2** | 0.999 |
+| PSMD14 | **ADRM1** | 0.999 |
+| PSMD14 | **PSMD6** | 0.999 |
+| PSMD14 | **PSMD13** | 0.999 |
+| PSMC2 | **PSMD13** | 0.999 |
+| PSMC2 | **PSMD6** | 0.999 |
+| PSMC2 | **ADRM1** | 0.999 |
+| PSMD13 | **PSMD6** | 0.999 |
+| PSMD13 | **ADRM1** | 0.999 |
+| PSMD6 | **ADRM1** | 0.999 |
+

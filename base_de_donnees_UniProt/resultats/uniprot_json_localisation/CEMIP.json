@@ -1,0 +1,512 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q8WUJ3",
+      "uniProtkbId": "CEMIP_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:29213"
+              }
+            ],
+            "value": "CEMIP"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23509262"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23990668"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "24269685"
+                }
+              ],
+              "value": "Mediates depolymerization of hyaluronic acid (HA) via the cell membrane-associated clathrin-coated pit endocytic pathway. Binds to hyaluronic acid. Hydrolyzes high molecular weight hyaluronic acid to produce an intermediate-sized product, a process that may occur through rapid vesicle endocytosis and recycling without intracytoplasmic accumulation or digestion in lysosomes. Involved in hyaluronan catabolism in the dermis of the skin and arthritic synovium. Positively regulates epithelial-mesenchymal transition (EMT), and hence tumor cell growth, invasion and cancer dissemination. In collaboration with HSPA5/BIP, promotes cancer cell migration in a calcium and PKC-dependent manner. May be involved in hearing"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "Retained in the endoplasmic reticulum (ER) in a HSPA5/BIP-dependent manner. Colocalized with clathrin heavy chain/CLTC in clathrin-coated vesicles. Strongly detected in the cytoplasm of breast carcinoma cells, whereas poorly detected in adjacent normal epithelial cells, stromal cells, or benign breast tissues. Localized in the nucleus and cytoplasm of colon adenocarcinomas"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            },
+            {
+              "location": {
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              }
+            },
+            {
+              "location": {
+                "value": "Membrane, clathrin-coated pit",
+                "id": "SL-0069"
+              }
+            },
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0045334",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:clathrin-coated endocytic vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23509262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005905",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:clathrin-coated pit"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030665",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:clathrin-coated vesicle membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16157444"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23509262"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001650",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:fibrillar center"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031965",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23509262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030246",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:carbohydrate binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032050",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:clathrin heavy chain binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23509262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046923",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ER retention sequence binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005540",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hyaluronic acid binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23509262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004415",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hyalurononglucosaminidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23509262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030214",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hyaluronan catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23509262"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030335",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010800",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of peptidyl-threonine phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein kinase C activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090314",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein targeting to membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051281",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of release of sequestered calcium ion into cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23990668"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007605",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sensory perception of sound"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "14577002"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001D7799"
+      }
+    }
+  ]
+}

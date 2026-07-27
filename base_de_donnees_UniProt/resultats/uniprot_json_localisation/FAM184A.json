@@ -1,0 +1,145 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q8NB25",
+      "uniProtkbId": "F184A_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:20991"
+              }
+            ],
+            "value": "FAM184A"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "33957083"
+                  }
+                ],
+                "value": "Localizes to cytoplasmic foci in both interphase and mitotic cells"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "33957083"
+                  }
+                ],
+                "value": "Cytoplasm, P-body",
+                "id": "SL-0230"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriolar satellite",
+                "id": "SL-0485"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0034451",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:centriolar satellite"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "33957083"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036064",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:ciliary basal body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22664934"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000932",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:P-body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "33957083"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000470B36"
+      }
+    }
+  ]
+}

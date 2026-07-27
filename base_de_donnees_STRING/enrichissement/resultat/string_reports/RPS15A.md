@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RPS15A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RPS15A
+Identifiant STRING officiel : `9606.ENSP00000318646`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL18A | **RPS15A** | 0.999 |
+| RPL18A | **RPS23** | 0.999 |
+| RPL18A | **RPL38** | 0.999 |
+| RPL18A | **RPS3A** | 0.999 |
+| RPL18A | **RPS27A** | 0.999 |
+| RPL18A | **RPS3** | 0.999 |
+| RPL18A | **RPS11** | 0.999 |
+| RPL18A | **RPS26** | 0.999 |
+| RPL18A | **RPL21** | 0.999 |
+| RPL18A | **RPS2** | 0.999 |
+| RPL18A | **RPS21** | 0.999 |
+| RPL18A | **RPL27A** | 0.999 |
+| RPL18A | **RPL15** | 0.999 |
+| RPL18A | **RPL19** | 0.999 |
+| RPL18A | **RPS12** | 0.999 |
+| RPL19 | **RPS2** | 0.999 |
+| RPL19 | **RPL15** | 0.999 |
+| RPL19 | **RPS12** | 0.999 |
+| RPL19 | **RPS21** | 0.999 |
+| RPL19 | **RPL27A** | 0.999 |
+| RPL19 | **RPS27A** | 0.999 |
+| RPL19 | **RPS3A** | 0.999 |
+| RPL19 | **RPS3** | 0.999 |
+| RPL19 | **RPS15A** | 0.999 |
+| RPL19 | **RPL38** | 0.999 |
+| RPL19 | **RPS23** | 0.999 |
+| RPL19 | **RPS26** | 0.999 |
+| RPL19 | **RPL21** | 0.999 |
+| RPL19 | **RPS11** | 0.999 |
+| RPS12 | **RPS11** | 0.999 |
+| RPS12 | **RPS26** | 0.999 |
+| RPS12 | **RPL21** | 0.999 |
+| RPS12 | **RPS15A** | 0.999 |
+| RPS12 | **RPS23** | 0.999 |
+| RPS12 | **RPL38** | 0.999 |
+| RPS12 | **RPS3** | 0.999 |
+| RPS12 | **RPS3A** | 0.999 |
+| RPS12 | **RPS27A** | 0.999 |
+| RPS12 | **RPS21** | 0.999 |
+| RPS12 | **RPL27A** | 0.999 |
+| RPS12 | **RPL15** | 0.999 |
+| RPS12 | **RPS2** | 0.999 |
+| RPS11 | **RPL27A** | 0.999 |
+| RPS11 | **RPS21** | 0.999 |
+| RPS11 | **RPL15** | 0.999 |
+| RPS11 | **RPS2** | 0.999 |
+| RPS11 | **RPL21** | 0.999 |
+| RPS11 | **RPS26** | 0.999 |
+| RPS11 | **RPS23** | 0.999 |
+| RPS11 | **RPL38** | 0.999 |
+| RPS11 | **RPS15A** | 0.999 |
+| RPS11 | **RPS3A** | 0.999 |
+| RPS11 | **RPS27A** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS27A | **RPS21** | 0.999 |
+| RPS27A | **RPL27A** | 0.999 |
+| RPS27A | **RPL15** | 0.999 |
+| RPS27A | **RPS2** | 0.999 |
+| RPS27A | **RPS26** | 0.999 |
+| RPS27A | **RPL21** | 0.999 |
+| RPS27A | **RPS15A** | 0.999 |
+| RPS27A | **RPS23** | 0.999 |
+| RPS27A | **RPL38** | 0.999 |
+| RPS27A | **RPS3** | 0.999 |
+| RPS27A | **RPS3A** | 0.999 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPL15** | 0.999 |
+| RPS3 | **RPL27A** | 0.999 |
+| RPS3 | **RPS21** | 0.999 |
+| RPS3 | **RPS3A** | 0.999 |
+| RPS3 | **RPS23** | 0.999 |
+| RPS3 | **RPL38** | 0.999 |
+| RPS3 | **RPS15A** | 0.999 |
+| RPS3 | **RPL21** | 0.999 |
+| RPS3 | **RPS26** | 0.999 |
+| RPS23 | **RPL15** | 0.999 |
+| RPS23 | **RPS21** | 0.999 |
+| RPS23 | **RPL27A** | 0.999 |
+| RPS23 | **RPS2** | 0.999 |
+| RPS23 | **RPS26** | 0.999 |
+| RPS23 | **RPL21** | 0.999 |
+| RPS23 | **RPS3A** | 0.999 |
+| RPS23 | **RPS15A** | 0.999 |
+| RPS23 | **RPL38** | 0.999 |
+| RPL15 | **RPS21** | 0.999 |
+| RPL15 | **RPL27A** | 0.999 |
+| RPL15 | **RPS2** | 0.999 |
+| RPL15 | **RPS26** | 0.999 |
+| RPL15 | **RPL21** | 0.999 |
+| RPL15 | **RPS15A** | 0.999 |
+| RPL15 | **RPL38** | 0.999 |
+| RPL15 | **RPS3A** | 0.999 |
+| RPL38 | **RPS21** | 0.999 |
+| RPL38 | **RPL27A** | 0.999 |
+| RPL38 | **RPS2** | 0.999 |
+| RPL38 | **RPS26** | 0.999 |
+| RPL38 | **RPL21** | 0.999 |
+| RPL38 | **RPS15A** | 0.999 |
+| RPL38 | **RPS3A** | 0.999 |
+| RPS15A | **RPS3A** | 0.999 |
+| RPS15A | **RPS26** | 0.999 |
+| RPS15A | **RPL21** | 0.999 |
+| RPS15A | **RPS2** | 0.999 |
+| RPS15A | **RPS21** | 0.999 |
+| RPS15A | **RPL27A** | 0.999 |
+| RPS2 | **RPL21** | 0.999 |
+| RPS2 | **RPS26** | 0.999 |
+| RPS2 | **RPS3A** | 0.999 |
+| RPS2 | **RPL27A** | 0.999 |
+| RPS2 | **RPS21** | 0.999 |
+| RPS21 | **RPS3A** | 0.999 |
+| RPS21 | **RPS26** | 0.999 |
+| RPS21 | **RPL21** | 0.999 |
+| RPS21 | **RPL27A** | 0.999 |
+| RPL27A | **RPS26** | 0.999 |
+| RPL27A | **RPL21** | 0.999 |
+| RPL27A | **RPS3A** | 0.999 |
+| RPL21 | **RPS3A** | 0.999 |
+| RPL21 | **RPS26** | 0.999 |
+| RPS3A | **RPS26** | 0.999 |
+

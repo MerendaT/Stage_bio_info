@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : KMT2C
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KMT2C
+Identifiant STRING officiel : `9606.ENSP00000262189`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| H4C6 | **KMT2B** | 0.49 |
+| H4C6 | **SETD1B** | 0.501 |
+| H4C6 | **PAGR1** | 0.63 |
+| H4C6 | **NCOA6** | 0.672 |
+| H4C6 | **SETD1A** | 0.746 |
+| H4C6 | **PAXIP1** | 0.752 |
+| H4C6 | **KDM6A** | 0.827 |
+| H4C6 | **KMT2D** | 0.915 |
+| H4C6 | **DPY30** | 0.946 |
+| H4C6 | **WDR5** | 0.973 |
+| H4C6 | **KMT2C** | 0.977 |
+| H4C6 | **ASH2L** | 0.982 |
+| H4C6 | **KMT2A** | 0.982 |
+| H4C6 | **RBBP5** | 0.988 |
+| H4C6 | **H3C13** | 0.999 |
+| KMT2C | **KMT2A** | 0.947 |
+| KMT2C | **SETD1B** | 0.976 |
+| KMT2C | **KMT2B** | 0.977 |
+| KMT2C | **H3C13** | 0.982 |
+| KMT2C | **SETD1A** | 0.988 |
+| KMT2C | **PAGR1** | 0.995 |
+| KMT2C | **KMT2D** | 0.998 |
+| KMT2C | **DPY30** | 0.999 |
+| KMT2C | **RBBP5** | 0.999 |
+| KMT2C | **ASH2L** | 0.999 |
+| KMT2C | **WDR5** | 0.999 |
+| KMT2C | **PAXIP1** | 0.999 |
+| KMT2C | **NCOA6** | 0.999 |
+| KMT2C | **KDM6A** | 0.999 |
+| SETD1A | **PAGR1** | 0.746 |
+| SETD1A | **NCOA6** | 0.762 |
+| SETD1A | **KMT2D** | 0.79 |
+| SETD1A | **KMT2B** | 0.821 |
+| SETD1A | **PAXIP1** | 0.908 |
+| SETD1A | **KDM6A** | 0.927 |
+| SETD1A | **KMT2A** | 0.933 |
+| SETD1A | **H3C13** | 0.957 |
+| SETD1A | **SETD1B** | 0.998 |
+| SETD1A | **WDR5** | 0.999 |
+| SETD1A | **RBBP5** | 0.999 |
+| SETD1A | **ASH2L** | 0.999 |
+| SETD1A | **DPY30** | 0.999 |
+| RBBP5 | **KMT2B** | 0.978 |
+| RBBP5 | **H3C13** | 0.993 |
+| RBBP5 | **PAGR1** | 0.994 |
+| RBBP5 | **KMT2D** | 0.997 |
+| RBBP5 | **NCOA6** | 0.998 |
+| RBBP5 | **DPY30** | 0.999 |
+| RBBP5 | **ASH2L** | 0.999 |
+| RBBP5 | **WDR5** | 0.999 |
+| RBBP5 | **SETD1B** | 0.999 |
+| RBBP5 | **PAXIP1** | 0.999 |
+| RBBP5 | **KMT2A** | 0.999 |
+| RBBP5 | **KDM6A** | 0.999 |
+| KMT2D | **H3C13** | 0.827 |
+| KMT2D | **SETD1B** | 0.896 |
+| KMT2D | **KMT2B** | 0.949 |
+| KMT2D | **NCOA6** | 0.966 |
+| KMT2D | **DPY30** | 0.983 |
+| KMT2D | **PAGR1** | 0.985 |
+| KMT2D | **PAXIP1** | 0.996 |
+| KMT2D | **KMT2A** | 0.997 |
+| KMT2D | **ASH2L** | 0.998 |
+| KMT2D | **WDR5** | 0.999 |
+| KMT2D | **KDM6A** | 0.999 |
+| PAGR1 | **H3C13** | 0.692 |
+| PAGR1 | **NCOA6** | 0.987 |
+| PAGR1 | **ASH2L** | 0.994 |
+| PAGR1 | **WDR5** | 0.996 |
+| PAGR1 | **DPY30** | 0.996 |
+| PAGR1 | **KDM6A** | 0.997 |
+| PAGR1 | **PAXIP1** | 0.999 |
+| H3C13 | **KMT2B** | 0.738 |
+| H3C13 | **NCOA6** | 0.827 |
+| H3C13 | **PAXIP1** | 0.848 |
+| H3C13 | **SETD1B** | 0.921 |
+| H3C13 | **KDM6A** | 0.956 |
+| H3C13 | **DPY30** | 0.976 |
+| H3C13 | **KMT2A** | 0.98 |
+| H3C13 | **ASH2L** | 0.982 |
+| H3C13 | **WDR5** | 0.999 |
+| ASH2L | **KMT2B** | 0.977 |
+| ASH2L | **NCOA6** | 0.998 |
+| ASH2L | **KDM6A** | 0.998 |
+| ASH2L | **KMT2A** | 0.999 |
+| ASH2L | **WDR5** | 0.999 |
+| ASH2L | **PAXIP1** | 0.999 |
+| ASH2L | **SETD1B** | 0.999 |
+| ASH2L | **DPY30** | 0.999 |
+| DPY30 | **KMT2B** | 0.912 |
+| DPY30 | **NCOA6** | 0.985 |
+| DPY30 | **KDM6A** | 0.993 |
+| DPY30 | **KMT2A** | 0.995 |
+| DPY30 | **PAXIP1** | 0.996 |
+| DPY30 | **SETD1B** | 0.999 |
+| DPY30 | **WDR5** | 0.999 |
+| WDR5 | **KMT2B** | 0.998 |
+| WDR5 | **NCOA6** | 0.998 |
+| WDR5 | **SETD1B** | 0.999 |
+| WDR5 | **PAXIP1** | 0.999 |
+| WDR5 | **KMT2A** | 0.999 |
+| WDR5 | **KDM6A** | 0.999 |
+| NCOA6 | **KMT2A** | 0.614 |
+| NCOA6 | **SETD1B** | 0.675 |
+| NCOA6 | **KMT2B** | 0.842 |
+| NCOA6 | **KDM6A** | 0.999 |
+| NCOA6 | **PAXIP1** | 0.999 |
+| KDM6A | **KMT2B** | 0.715 |
+| KDM6A | **SETD1B** | 0.773 |
+| KDM6A | **KMT2A** | 0.869 |
+| KDM6A | **PAXIP1** | 0.999 |
+| PAXIP1 | **KMT2A** | 0.592 |
+| PAXIP1 | **SETD1B** | 0.687 |
+| PAXIP1 | **KMT2B** | 0.818 |
+| KMT2B | **SETD1B** | 0.95 |
+| KMT2B | **KMT2A** | 0.973 |
+| KMT2A | **SETD1B** | 0.852 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : NOC4L
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NOC4L
+Identifiant STRING officiel : `9606.ENSP00000328854`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **UTP20** | 0.997 |
+| UTP18 | **DCAF13** | 0.998 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **IMP4** | 0.998 |
+| UTP18 | **NOL10** | 0.998 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **UTP15** | 0.999 |
+| UTP18 | **WDR75** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **NOC4L** | 0.999 |
+| UTP18 | **UTP3** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| UTP18 | **WDR43** | 0.999 |
+| KRR1 | **IMP4** | 0.998 |
+| KRR1 | **WDR43** | 0.998 |
+| KRR1 | **UTP15** | 0.998 |
+| KRR1 | **WDR75** | 0.998 |
+| KRR1 | **UTP20** | 0.999 |
+| KRR1 | **UTP3** | 0.999 |
+| KRR1 | **RRP9** | 0.999 |
+| KRR1 | **WDR3** | 0.999 |
+| KRR1 | **NOL10** | 0.999 |
+| KRR1 | **UTP4** | 0.999 |
+| KRR1 | **DCAF13** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| KRR1 | **NOC4L** | 0.999 |
+| BYSL | **WDR75** | 0.998 |
+| BYSL | **UTP20** | 0.998 |
+| BYSL | **WDR43** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP15** | 0.999 |
+| BYSL | **DCAF13** | 0.999 |
+| BYSL | **WDR46** | 0.999 |
+| BYSL | **NOC4L** | 0.999 |
+| BYSL | **UTP3** | 0.999 |
+| BYSL | **RRP9** | 0.999 |
+| BYSL | **WDR3** | 0.999 |
+| BYSL | **IMP4** | 0.999 |
+| BYSL | **NOL10** | 0.999 |
+| RRP9 | **NOL10** | 0.996 |
+| RRP9 | **UTP3** | 0.998 |
+| RRP9 | **UTP20** | 0.998 |
+| RRP9 | **WDR3** | 0.998 |
+| RRP9 | **DCAF13** | 0.999 |
+| RRP9 | **WDR75** | 0.999 |
+| RRP9 | **UTP15** | 0.999 |
+| RRP9 | **UTP4** | 0.999 |
+| RRP9 | **NOC4L** | 0.999 |
+| RRP9 | **WDR46** | 0.999 |
+| RRP9 | **WDR43** | 0.999 |
+| RRP9 | **IMP4** | 0.999 |
+| UTP3 | **UTP15** | 0.996 |
+| UTP3 | **DCAF13** | 0.998 |
+| UTP3 | **WDR75** | 0.998 |
+| UTP3 | **NOL10** | 0.998 |
+| UTP3 | **WDR43** | 0.998 |
+| UTP3 | **UTP20** | 0.998 |
+| UTP3 | **NOC4L** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **UTP4** | 0.999 |
+| UTP3 | **IMP4** | 0.999 |
+| UTP3 | **WDR3** | 0.999 |
+| IMP4 | **UTP15** | 0.994 |
+| IMP4 | **WDR75** | 0.997 |
+| IMP4 | **WDR3** | 0.998 |
+| IMP4 | **NOL10** | 0.998 |
+| IMP4 | **WDR43** | 0.998 |
+| IMP4 | **UTP20** | 0.998 |
+| IMP4 | **WDR46** | 0.998 |
+| IMP4 | **DCAF13** | 0.998 |
+| IMP4 | **NOC4L** | 0.999 |
+| IMP4 | **UTP4** | 0.999 |
+| UTP20 | **NOL10** | 0.996 |
+| UTP20 | **UTP15** | 0.998 |
+| UTP20 | **DCAF13** | 0.998 |
+| UTP20 | **WDR43** | 0.998 |
+| UTP20 | **WDR46** | 0.999 |
+| UTP20 | **NOC4L** | 0.999 |
+| UTP20 | **UTP4** | 0.999 |
+| UTP20 | **WDR75** | 0.999 |
+| UTP20 | **WDR3** | 0.999 |
+| UTP15 | **NOL10** | 0.996 |
+| UTP15 | **DCAF13** | 0.997 |
+| UTP15 | **WDR3** | 0.999 |
+| UTP15 | **WDR43** | 0.999 |
+| UTP15 | **UTP4** | 0.999 |
+| UTP15 | **WDR75** | 0.999 |
+| UTP15 | **WDR46** | 0.999 |
+| UTP15 | **NOC4L** | 0.999 |
+| DCAF13 | **NOL10** | 0.997 |
+| DCAF13 | **WDR75** | 0.998 |
+| DCAF13 | **WDR43** | 0.999 |
+| DCAF13 | **WDR3** | 0.999 |
+| DCAF13 | **UTP4** | 0.999 |
+| DCAF13 | **NOC4L** | 0.999 |
+| DCAF13 | **WDR46** | 0.999 |
+| WDR3 | **NOL10** | 0.998 |
+| WDR3 | **WDR43** | 0.999 |
+| WDR3 | **WDR46** | 0.999 |
+| WDR3 | **NOC4L** | 0.999 |
+| WDR3 | **WDR75** | 0.999 |
+| WDR3 | **UTP4** | 0.999 |
+| WDR75 | **NOL10** | 0.997 |
+| WDR75 | **WDR43** | 0.999 |
+| WDR75 | **UTP4** | 0.999 |
+| WDR75 | **WDR46** | 0.999 |
+| WDR75 | **NOC4L** | 0.999 |
+| UTP4 | **NOC4L** | 0.999 |
+| UTP4 | **WDR46** | 0.999 |
+| UTP4 | **NOL10** | 0.999 |
+| UTP4 | **WDR43** | 0.999 |
+| NOC4L | **WDR43** | 0.999 |
+| NOC4L | **NOL10** | 0.999 |
+| NOC4L | **WDR46** | 0.999 |
+| WDR46 | **NOL10** | 0.999 |
+| WDR46 | **WDR43** | 0.999 |
+| NOL10 | **WDR43** | 0.997 |
+

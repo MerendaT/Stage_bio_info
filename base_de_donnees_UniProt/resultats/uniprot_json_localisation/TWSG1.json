@@ -1,0 +1,248 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9GZX9",
+      "uniProtkbId": "TWSG1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "TWSG1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "May be involved in dorsoventral axis formation. Seems to antagonize BMP signaling by forming ternary complexes with CHRD and BMPs, thereby preventing BMPs from binding to their receptors. In addition to the anti-BMP function, also has pro-BMP activity, partly mediated by cleavage and degradation of CHRD, which releases BMPs from ternary complexes. May be an important modulator of BMP-regulated cartilage development and chondrocyte differentiation. May play a role in thymocyte development (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005813",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:centrosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008201",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heparin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050431",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transforming growth factor beta binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17164348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000515",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of CD4-positive, alpha-beta T cell activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17164348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of CD4-positive, alpha-beta T cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17164348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001818",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cytokine production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17164348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060391",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of SMAD protein signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17164348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17164348"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030510",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of BMP signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000071AF6"
+      }
+    }
+  ]
+}

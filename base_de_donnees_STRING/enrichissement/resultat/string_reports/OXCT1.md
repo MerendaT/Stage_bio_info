@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : OXCT1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : OXCT1
+Identifiant STRING officiel : `9606.ENSP00000196371`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| OXCT1 | **SDHA** | 0.874 |
+| OXCT1 | **ACAA1** | 0.942 |
+| OXCT1 | **HADHB** | 0.944 |
+| OXCT1 | **EHHADH** | 0.951 |
+| OXCT1 | **HMGCS1** | 0.956 |
+| OXCT1 | **AACS** | 0.958 |
+| OXCT1 | **ACAA2** | 0.959 |
+| OXCT1 | **OXCT2** | 0.961 |
+| OXCT1 | **HMGCLL1** | 0.964 |
+| OXCT1 | **BDH2** | 0.964 |
+| OXCT1 | **HMGCS2** | 0.968 |
+| OXCT1 | **ACAT2** | 0.972 |
+| OXCT1 | **HMGCL** | 0.979 |
+| OXCT1 | **BDH1** | 0.984 |
+| OXCT1 | **ACAT1** | 0.986 |
+| EHHADH | **BDH1** | 0.471 |
+| EHHADH | **BDH2** | 0.484 |
+| EHHADH | **HMGCLL1** | 0.559 |
+| EHHADH | **HMGCL** | 0.695 |
+| EHHADH | **OXCT2** | 0.94 |
+| EHHADH | **AACS** | 0.945 |
+| EHHADH | **HMGCS1** | 0.959 |
+| EHHADH | **HMGCS2** | 0.972 |
+| EHHADH | **ACAT1** | 0.978 |
+| EHHADH | **ACAT2** | 0.98 |
+| EHHADH | **ACAA2** | 0.995 |
+| EHHADH | **ACAA1** | 0.998 |
+| EHHADH | **HADHB** | 0.999 |
+| SDHA | **AACS** | 0.431 |
+| SDHA | **HMGCLL1** | 0.481 |
+| SDHA | **HMGCL** | 0.523 |
+| SDHA | **ACAT2** | 0.618 |
+| SDHA | **ACAA1** | 0.712 |
+| SDHA | **ACAA2** | 0.753 |
+| SDHA | **ACAT1** | 0.762 |
+| SDHA | **HADHB** | 0.785 |
+| SDHA | **OXCT2** | 0.828 |
+| ACAT1 | **BDH2** | 0.498 |
+| ACAT1 | **BDH1** | 0.746 |
+| ACAT1 | **HADHB** | 0.944 |
+| ACAT1 | **ACAA1** | 0.946 |
+| ACAT1 | **ACAT2** | 0.95 |
+| ACAT1 | **HMGCLL1** | 0.955 |
+| ACAT1 | **AACS** | 0.962 |
+| ACAT1 | **ACAA2** | 0.963 |
+| ACAT1 | **HMGCL** | 0.972 |
+| ACAT1 | **OXCT2** | 0.983 |
+| ACAT1 | **HMGCS1** | 0.997 |
+| ACAT1 | **HMGCS2** | 0.997 |
+| ACAA2 | **BDH2** | 0.529 |
+| ACAA2 | **AACS** | 0.561 |
+| ACAA2 | **BDH1** | 0.583 |
+| ACAA2 | **ACAT2** | 0.922 |
+| ACAA2 | **ACAA1** | 0.935 |
+| ACAA2 | **HMGCLL1** | 0.937 |
+| ACAA2 | **OXCT2** | 0.941 |
+| ACAA2 | **HADHB** | 0.961 |
+| ACAA2 | **HMGCL** | 0.966 |
+| ACAA2 | **HMGCS1** | 0.995 |
+| ACAA2 | **HMGCS2** | 0.996 |
+| BDH2 | **HADHB** | 0.455 |
+| BDH2 | **HMGCS1** | 0.482 |
+| BDH2 | **HMGCS2** | 0.566 |
+| BDH2 | **ACAA1** | 0.772 |
+| BDH2 | **AACS** | 0.939 |
+| BDH2 | **HMGCLL1** | 0.94 |
+| BDH2 | **OXCT2** | 0.951 |
+| BDH2 | **HMGCL** | 0.962 |
+| BDH2 | **BDH1** | 0.972 |
+| HMGCS1 | **BDH1** | 0.539 |
+| HMGCS1 | **HMGCS2** | 0.917 |
+| HMGCS1 | **OXCT2** | 0.946 |
+| HMGCS1 | **AACS** | 0.959 |
+| HMGCS1 | **HMGCLL1** | 0.979 |
+| HMGCS1 | **HMGCL** | 0.987 |
+| HMGCS1 | **ACAA1** | 0.989 |
+| HMGCS1 | **HADHB** | 0.993 |
+| HMGCS1 | **ACAT2** | 0.998 |
+| AACS | **HADHB** | 0.519 |
+| AACS | **ACAA1** | 0.564 |
+| AACS | **BDH1** | 0.936 |
+| AACS | **OXCT2** | 0.942 |
+| AACS | **HMGCLL1** | 0.943 |
+| AACS | **HMGCS2** | 0.944 |
+| AACS | **ACAT2** | 0.958 |
+| AACS | **HMGCL** | 0.962 |
+| HADHB | **BDH1** | 0.475 |
+| HADHB | **ACAT2** | 0.93 |
+| HADHB | **OXCT2** | 0.932 |
+| HADHB | **HMGCLL1** | 0.948 |
+| HADHB | **ACAA1** | 0.952 |
+| HADHB | **HMGCL** | 0.97 |
+| HADHB | **HMGCS2** | 0.994 |
+| ACAA1 | **ACAT2** | 0.923 |
+| ACAA1 | **OXCT2** | 0.926 |
+| ACAA1 | **HMGCLL1** | 0.947 |
+| ACAA1 | **HMGCL** | 0.965 |
+| ACAA1 | **HMGCS2** | 0.99 |
+| ACAT2 | **HMGCLL1** | 0.949 |
+| ACAT2 | **HMGCL** | 0.95 |
+| ACAT2 | **OXCT2** | 0.971 |
+| ACAT2 | **HMGCS2** | 0.993 |
+| HMGCS2 | **BDH1** | 0.744 |
+| HMGCS2 | **OXCT2** | 0.954 |
+| HMGCS2 | **HMGCLL1** | 0.98 |
+| HMGCS2 | **HMGCL** | 0.99 |
+| OXCT2 | **BDH1** | 0.958 |
+| OXCT2 | **HMGCLL1** | 0.968 |
+| OXCT2 | **HMGCL** | 0.972 |
+| HMGCL | **HMGCLL1** | 0.936 |
+| HMGCL | **BDH1** | 0.976 |
+| BDH1 | **HMGCLL1** | 0.946 |
+

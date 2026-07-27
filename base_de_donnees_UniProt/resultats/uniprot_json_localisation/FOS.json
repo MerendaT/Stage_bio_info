@@ -1,0 +1,1113 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P01100",
+      "uniProtkbId": "FOS_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "FOS"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16055710"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17160021"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22105363"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "7588633"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9732876"
+                }
+              ],
+              "value": "Nuclear phosphoprotein which forms a tight but non-covalently linked complex with the JUN/AP-1 transcription factor. In the heterodimer, FOS and JUN/AP-1 basic regions each seems to interact with symmetrical DNA half sites. On TGF-beta activation, forms a multimeric SMAD3/SMAD4/JUN/FOS complex at the AP1/SMAD-binding site to regulate TGF-beta-mediated signaling. Has a critical function in regulating the development of cells destined to form and maintain the skeleton. It is thought to have an important role in signal transduction, cell proliferation and differentiation. In growing cells, activates phospholipid synthesis, possibly by activating CDS1 and PI4K2A. This activity requires Tyr-dephosphorylation and association with the endoplasmic reticulum"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "In quiescent cells, present in very small amounts in the cytosol. Following induction of cell growth, first localizes to the endoplasmic reticulum and only later to the nucleus. Localization at the endoplasmic reticulum requires dephosphorylation at Tyr-10 and Tyr-30"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016363",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22387553"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24184327"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032993",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:protein-DNA complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10704222"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:transcription factor AP-1 complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10508860"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription activator activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30670568"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9732876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "23661758"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "25609649"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990841",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:promoter-specific chromatin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044877",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-containing complex binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070412",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:R-SMAD binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "9732876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30670568"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000979",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II core promoter sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10704222"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II-specific DNA-binding transcription factor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "10508860"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription cis-regulatory region binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9732876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001221",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription coregulator binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "10523647"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071364",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to epidermal growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071456",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071374",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to parathyroid hormone stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to phorbol 13-acetate 12-myristate"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990646",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to prolactin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034614",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to reactive oxygen species"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17217916"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071356",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to tumor necrosis factor"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034224",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to zinc ion starvation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0021987",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cerebral cortex development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001661",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:conditioned taste aversion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007565",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:female pregnancy"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006954",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9443941"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140467",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:integrated stress response signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "28566324"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072375",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:medium-term memory"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903131",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mononuclear cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051450",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:myoblast proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003407",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neural retina development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030182",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9732876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902895",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of miRNA transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30670568"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:CAFA"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10508860"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8628277"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0014823",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051591",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to cAMP"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051412",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to corticosterone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to ethanol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904321",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to forskolin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009629",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to gravity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035902",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to immobilization stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032868",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to insulin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009416",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to light stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032496",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to lipopolysaccharide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to mechanical stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032570",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to progesterone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009636",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to toxic substance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to xenobiotic stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0014856",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:skeletal muscle cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060395",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:SMAD protein signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9732876"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006366",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10918580"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9732876"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000000D8F5"
+      }
+    }
+  ]
+}

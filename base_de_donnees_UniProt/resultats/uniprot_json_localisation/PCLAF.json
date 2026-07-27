@@ -1,0 +1,370 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q15004",
+      "uniProtkbId": "PAF15_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:28961"
+              }
+            ],
+            "value": "PCLAF"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21673012"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23000965"
+                }
+              ],
+              "value": "PCNA-binding protein that acts as a regulator of DNA repair during DNA replication. Following DNA damage, the interaction with PCNA is disrupted, facilitating the interaction between monoubiquitinated PCNA and the translesion DNA synthesis DNA polymerase eta (POLH) at stalled replisomes, facilitating the bypass of replication-fork-blocking lesions. Also acts as a regulator of centrosome number"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "Following DNA damage, localizes to DNA damage sites (PubMed:21628590). Colocalizes with centrosomes in perinuclear region (PubMed:21673012)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11313979"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16288740"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21673012"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23000965"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "21673012"
+                  }
+                ],
+                "value": "Cytoplasm, perinuclear region",
+                "id": "SL-0198"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005813",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:centrosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21628590"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21673012"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23000965"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perinuclear region of cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21673012"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003682",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:chromatin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23000965"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060090",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:molecular adaptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:DisProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25762514"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007098",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:centrosome cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21673012"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006974",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA damage response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21628590"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23000965"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006281",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA repair"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006260",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA replication"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23000965"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051726",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21628590"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009411",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to UV"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23000965"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019985",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:translesion synthesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "23000965"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000003ABC6"
+      }
+    }
+  ]
+}

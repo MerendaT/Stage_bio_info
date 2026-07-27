@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DBF4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DBF4
+Identifiant STRING officiel : `9606.ENSP00000265728`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDC6 | **TICRR** | 0.812 |
+| CDC6 | **DBF4** | 0.956 |
+| CDC6 | **CDC7** | 0.977 |
+| CDC6 | **CDC45** | 0.994 |
+| CDC6 | **MCM10** | 0.998 |
+| CDC6 | **MCM5** | 0.999 |
+| CDC6 | **MCM4** | 0.999 |
+| CDC6 | **ORC4** | 0.999 |
+| CDC6 | **MCM7** | 0.999 |
+| CDC6 | **ORC6** | 0.999 |
+| CDC6 | **MCM3** | 0.999 |
+| CDC6 | **MCM6** | 0.999 |
+| CDC6 | **MCM2** | 0.999 |
+| CDC6 | **CDT1** | 0.999 |
+| CDC6 | **ORC2** | 0.999 |
+| MCM5 | **TICRR** | 0.658 |
+| MCM5 | **ORC6** | 0.975 |
+| MCM5 | **ORC4** | 0.976 |
+| MCM5 | **DBF4** | 0.991 |
+| MCM5 | **MCM10** | 0.997 |
+| MCM5 | **MCM4** | 0.999 |
+| MCM5 | **MCM7** | 0.999 |
+| MCM5 | **CDC7** | 0.999 |
+| MCM5 | **CDT1** | 0.999 |
+| MCM5 | **ORC2** | 0.999 |
+| MCM5 | **MCM6** | 0.999 |
+| MCM5 | **MCM2** | 0.999 |
+| MCM5 | **MCM3** | 0.999 |
+| MCM5 | **CDC45** | 0.999 |
+| ORC6 | **TICRR** | 0.569 |
+| ORC6 | **MCM10** | 0.907 |
+| ORC6 | **MCM3** | 0.919 |
+| ORC6 | **MCM2** | 0.949 |
+| ORC6 | **MCM6** | 0.961 |
+| ORC6 | **CDC7** | 0.961 |
+| ORC6 | **CDC45** | 0.982 |
+| ORC6 | **MCM4** | 0.987 |
+| ORC6 | **CDT1** | 0.997 |
+| ORC6 | **DBF4** | 0.998 |
+| ORC6 | **ORC2** | 0.999 |
+| ORC6 | **ORC4** | 0.999 |
+| ORC6 | **MCM7** | 0.999 |
+| ORC2 | **CDC7** | 0.861 |
+| ORC2 | **CDC45** | 0.982 |
+| ORC2 | **MCM6** | 0.986 |
+| ORC2 | **MCM4** | 0.988 |
+| ORC2 | **MCM10** | 0.995 |
+| ORC2 | **MCM7** | 0.997 |
+| ORC2 | **DBF4** | 0.998 |
+| ORC2 | **MCM3** | 0.998 |
+| ORC2 | **MCM2** | 0.999 |
+| ORC2 | **CDT1** | 0.999 |
+| ORC2 | **ORC4** | 0.999 |
+| MCM4 | **TICRR** | 0.939 |
+| MCM4 | **ORC4** | 0.995 |
+| MCM4 | **MCM10** | 0.999 |
+| MCM4 | **DBF4** | 0.999 |
+| MCM4 | **MCM2** | 0.999 |
+| MCM4 | **MCM6** | 0.999 |
+| MCM4 | **CDT1** | 0.999 |
+| MCM4 | **CDC45** | 0.999 |
+| MCM4 | **MCM3** | 0.999 |
+| MCM4 | **CDC7** | 0.999 |
+| MCM4 | **MCM7** | 0.999 |
+| MCM6 | **TICRR** | 0.659 |
+| MCM6 | **DBF4** | 0.993 |
+| MCM6 | **ORC4** | 0.997 |
+| MCM6 | **MCM10** | 0.999 |
+| MCM6 | **CDC7** | 0.999 |
+| MCM6 | **MCM7** | 0.999 |
+| MCM6 | **MCM3** | 0.999 |
+| MCM6 | **CDC45** | 0.999 |
+| MCM6 | **CDT1** | 0.999 |
+| MCM6 | **MCM2** | 0.999 |
+| MCM2 | **TICRR** | 0.477 |
+| MCM2 | **DBF4** | 0.996 |
+| MCM2 | **ORC4** | 0.997 |
+| MCM2 | **MCM10** | 0.997 |
+| MCM2 | **CDT1** | 0.999 |
+| MCM2 | **CDC45** | 0.999 |
+| MCM2 | **MCM3** | 0.999 |
+| MCM2 | **MCM7** | 0.999 |
+| MCM2 | **CDC7** | 0.999 |
+| DBF4 | **MCM10** | 0.948 |
+| DBF4 | **CDT1** | 0.956 |
+| DBF4 | **TICRR** | 0.982 |
+| DBF4 | **CDC45** | 0.987 |
+| DBF4 | **MCM7** | 0.997 |
+| DBF4 | **MCM3** | 0.997 |
+| DBF4 | **ORC4** | 0.998 |
+| DBF4 | **CDC7** | 0.999 |
+| TICRR | **MCM7** | 0.603 |
+| TICRR | **MCM3** | 0.724 |
+| TICRR | **CDT1** | 0.817 |
+| TICRR | **CDC7** | 0.926 |
+| TICRR | **MCM10** | 0.972 |
+| TICRR | **CDC45** | 0.988 |
+| CDT1 | **CDC7** | 0.948 |
+| CDT1 | **CDC45** | 0.994 |
+| CDT1 | **MCM10** | 0.997 |
+| CDT1 | **ORC4** | 0.999 |
+| CDT1 | **MCM7** | 0.999 |
+| CDT1 | **MCM3** | 0.999 |
+| MCM7 | **ORC4** | 0.995 |
+| MCM7 | **CDC45** | 0.999 |
+| MCM7 | **MCM3** | 0.999 |
+| MCM7 | **CDC7** | 0.999 |
+| MCM7 | **MCM10** | 0.999 |
+| CDC7 | **ORC4** | 0.825 |
+| CDC7 | **MCM10** | 0.989 |
+| CDC7 | **CDC45** | 0.991 |
+| CDC7 | **MCM3** | 0.999 |
+| CDC45 | **ORC4** | 0.931 |
+| CDC45 | **MCM3** | 0.999 |
+| CDC45 | **MCM10** | 0.999 |
+| MCM10 | **ORC4** | 0.958 |
+| MCM10 | **MCM3** | 0.999 |
+| ORC4 | **MCM3** | 0.994 |
+

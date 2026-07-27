@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CWF19L2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CWF19L2
+Identifiant STRING officiel : `9606.ENSP00000282251`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PRPF19 | **CWF19L2** | 0.995 |
+| PRPF19 | **PPIL1** | 0.997 |
+| PRPF19 | **DHX15** | 0.997 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **XAB2** | 0.999 |
+| PRPF19 | **PPIE** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BUD31** | 0.999 |
+| PRPF19 | **SNW1** | 0.999 |
+| PRPF19 | **EFTUD2** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **PLRG1** | 0.999 |
+| PRPF19 | **CRNKL1** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **PRPF8** | 0.999 |
+| SYF2 | **DHX15** | 0.987 |
+| SYF2 | **CWF19L2** | 0.988 |
+| SYF2 | **PPIE** | 0.997 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **PPIL1** | 0.998 |
+| SYF2 | **PLRG1** | 0.999 |
+| SYF2 | **EFTUD2** | 0.999 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **XAB2** | 0.999 |
+| SYF2 | **SNW1** | 0.999 |
+| SYF2 | **BUD31** | 0.999 |
+| SNRPA1 | **CWF19L2** | 0.986 |
+| SNRPA1 | **PPIE** | 0.992 |
+| SNRPA1 | **PPIL1** | 0.997 |
+| SNRPA1 | **DHX15** | 0.999 |
+| SNRPA1 | **SNW1** | 0.999 |
+| SNRPA1 | **BUD31** | 0.999 |
+| SNRPA1 | **XAB2** | 0.999 |
+| SNRPA1 | **CDC5L** | 0.999 |
+| SNRPA1 | **PRPF8** | 0.999 |
+| SNRPA1 | **CRNKL1** | 0.999 |
+| SNRPA1 | **PLRG1** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| SNRPA1 | **EFTUD2** | 0.999 |
+| CWF19L2 | **SNW1** | 0.958 |
+| CWF19L2 | **PPIE** | 0.958 |
+| CWF19L2 | **CRNKL1** | 0.966 |
+| CWF19L2 | **DHX15** | 0.968 |
+| CWF19L2 | **XAB2** | 0.969 |
+| CWF19L2 | **BUD31** | 0.97 |
+| CWF19L2 | **PLRG1** | 0.973 |
+| CWF19L2 | **PRPF8** | 0.985 |
+| CWF19L2 | **PPIL1** | 0.987 |
+| CWF19L2 | **CDC5L** | 0.992 |
+| CWF19L2 | **EFTUD2** | 0.994 |
+| CWF19L2 | **CDC40** | 0.998 |
+| DHX15 | **PPIE** | 0.855 |
+| DHX15 | **PPIL1** | 0.964 |
+| DHX15 | **PLRG1** | 0.986 |
+| DHX15 | **SNW1** | 0.988 |
+| DHX15 | **CRNKL1** | 0.988 |
+| DHX15 | **XAB2** | 0.993 |
+| DHX15 | **BUD31** | 0.993 |
+| DHX15 | **CDC5L** | 0.996 |
+| DHX15 | **PRPF8** | 0.996 |
+| DHX15 | **EFTUD2** | 0.997 |
+| DHX15 | **CDC40** | 0.999 |
+| XAB2 | **PPIL1** | 0.994 |
+| XAB2 | **CDC5L** | 0.999 |
+| XAB2 | **PPIE** | 0.999 |
+| XAB2 | **BUD31** | 0.999 |
+| XAB2 | **SNW1** | 0.999 |
+| XAB2 | **CDC40** | 0.999 |
+| XAB2 | **EFTUD2** | 0.999 |
+| XAB2 | **PLRG1** | 0.999 |
+| XAB2 | **PRPF8** | 0.999 |
+| XAB2 | **CRNKL1** | 0.999 |
+| CDC40 | **PPIE** | 0.992 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **SNW1** | 0.999 |
+| CDC40 | **PPIL1** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC40 | **EFTUD2** | 0.999 |
+| CDC40 | **PLRG1** | 0.999 |
+| CDC5L | **PPIE** | 0.997 |
+| CDC5L | **PPIL1** | 0.999 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **SNW1** | 0.999 |
+| CDC5L | **EFTUD2** | 0.999 |
+| CDC5L | **PLRG1** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| PPIE | **PRPF8** | 0.988 |
+| PPIE | **PPIL1** | 0.991 |
+| PPIE | **EFTUD2** | 0.992 |
+| PPIE | **PLRG1** | 0.996 |
+| PPIE | **SNW1** | 0.997 |
+| PPIE | **BUD31** | 0.997 |
+| PPIE | **CRNKL1** | 0.998 |
+| PPIL1 | **PLRG1** | 0.992 |
+| PPIL1 | **CRNKL1** | 0.995 |
+| PPIL1 | **BUD31** | 0.998 |
+| PPIL1 | **SNW1** | 0.999 |
+| PPIL1 | **PRPF8** | 0.999 |
+| PPIL1 | **EFTUD2** | 0.999 |
+| CRNKL1 | **SNW1** | 0.999 |
+| CRNKL1 | **BUD31** | 0.999 |
+| CRNKL1 | **PLRG1** | 0.999 |
+| CRNKL1 | **EFTUD2** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| BUD31 | **PRPF8** | 0.999 |
+| BUD31 | **PLRG1** | 0.999 |
+| BUD31 | **EFTUD2** | 0.999 |
+| BUD31 | **SNW1** | 0.999 |
+| EFTUD2 | **SNW1** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| EFTUD2 | **PLRG1** | 0.999 |
+| PLRG1 | **SNW1** | 0.999 |
+| PLRG1 | **PRPF8** | 0.999 |
+| SNW1 | **PRPF8** | 0.999 |
+

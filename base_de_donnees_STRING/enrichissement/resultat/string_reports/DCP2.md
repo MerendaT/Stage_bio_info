@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : DCP2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DCP2
+Identifiant STRING officiel : `9606.ENSP00000373715`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AGO2 | **LSM1** | 0.487 |
+| AGO2 | **LSM14A** | 0.502 |
+| AGO2 | **EDC3** | 0.664 |
+| AGO2 | **PATL1** | 0.728 |
+| AGO2 | **CNOT7** | 0.75 |
+| AGO2 | **XRN1** | 0.831 |
+| AGO2 | **EDC4** | 0.862 |
+| AGO2 | **DCP1A** | 0.885 |
+| AGO2 | **UPF1** | 0.949 |
+| AGO2 | **DCP2** | 0.972 |
+| AGO2 | **EIF4E** | 0.991 |
+| AGO2 | **DDX6** | 0.999 |
+| AGO2 | **TNRC6A** | 0.999 |
+| AGO2 | **AGO1** | 0.999 |
+| XRN1 | **CNOT7** | 0.575 |
+| XRN1 | **AGO1** | 0.807 |
+| XRN1 | **LSM14A** | 0.87 |
+| XRN1 | **EIF4E** | 0.969 |
+| XRN1 | **TNRC6A** | 0.974 |
+| XRN1 | **UPF1** | 0.982 |
+| XRN1 | **DCP1B** | 0.993 |
+| XRN1 | **DDX6** | 0.993 |
+| XRN1 | **EDC4** | 0.995 |
+| XRN1 | **DCP2** | 0.999 |
+| XRN1 | **EDC3** | 0.999 |
+| XRN1 | **DCP1A** | 0.999 |
+| XRN1 | **PATL1** | 0.999 |
+| XRN1 | **LSM1** | 0.999 |
+| DCP1B | **CNOT7** | 0.4 |
+| DCP1B | **TNRC6A** | 0.44 |
+| DCP1B | **LSM1** | 0.774 |
+| DCP1B | **UPF1** | 0.811 |
+| DCP1B | **PATL1** | 0.829 |
+| DCP1B | **LSM14A** | 0.874 |
+| DCP1B | **DCP1A** | 0.991 |
+| DCP1B | **EDC4** | 0.992 |
+| DCP1B | **DDX6** | 0.996 |
+| DCP1B | **EDC3** | 0.998 |
+| DCP1B | **DCP2** | 0.999 |
+| PATL1 | **UPF1** | 0.502 |
+| PATL1 | **EIF4E** | 0.513 |
+| PATL1 | **AGO1** | 0.679 |
+| PATL1 | **TNRC6A** | 0.741 |
+| PATL1 | **LSM14A** | 0.914 |
+| PATL1 | **CNOT7** | 0.998 |
+| PATL1 | **DDX6** | 0.999 |
+| PATL1 | **LSM1** | 0.999 |
+| PATL1 | **EDC4** | 0.999 |
+| PATL1 | **DCP1A** | 0.999 |
+| PATL1 | **EDC3** | 0.999 |
+| PATL1 | **DCP2** | 0.999 |
+| LSM1 | **CNOT7** | 0.402 |
+| LSM1 | **AGO1** | 0.658 |
+| LSM1 | **EIF4E** | 0.715 |
+| LSM1 | **TNRC6A** | 0.738 |
+| LSM1 | **UPF1** | 0.787 |
+| LSM1 | **DCP1A** | 0.907 |
+| LSM1 | **LSM14A** | 0.943 |
+| LSM1 | **EDC4** | 0.945 |
+| LSM1 | **DCP2** | 0.991 |
+| LSM1 | **EDC3** | 0.995 |
+| LSM1 | **DDX6** | 0.998 |
+| EDC4 | **AGO1** | 0.462 |
+| EDC4 | **EIF4E** | 0.686 |
+| EDC4 | **TNRC6A** | 0.776 |
+| EDC4 | **UPF1** | 0.942 |
+| EDC4 | **LSM14A** | 0.975 |
+| EDC4 | **DDX6** | 0.999 |
+| EDC4 | **DCP1A** | 0.999 |
+| EDC4 | **EDC3** | 0.999 |
+| EDC4 | **DCP2** | 0.999 |
+| CNOT7 | **EDC3** | 0.479 |
+| CNOT7 | **AGO1** | 0.482 |
+| CNOT7 | **DCP1A** | 0.651 |
+| CNOT7 | **EIF4E** | 0.746 |
+| CNOT7 | **TNRC6A** | 0.846 |
+| CNOT7 | **DDX6** | 0.963 |
+| CNOT7 | **DCP2** | 0.997 |
+| AGO1 | **LSM14A** | 0.466 |
+| AGO1 | **EDC3** | 0.638 |
+| AGO1 | **DCP1A** | 0.839 |
+| AGO1 | **UPF1** | 0.852 |
+| AGO1 | **DCP2** | 0.972 |
+| AGO1 | **EIF4E** | 0.983 |
+| AGO1 | **DDX6** | 0.998 |
+| AGO1 | **TNRC6A** | 0.999 |
+| DCP2 | **LSM14A** | 0.966 |
+| DCP2 | **TNRC6A** | 0.979 |
+| DCP2 | **UPF1** | 0.98 |
+| DCP2 | **EIF4E** | 0.98 |
+| DCP2 | **DCP1A** | 0.999 |
+| DCP2 | **EDC3** | 0.999 |
+| DCP2 | **DDX6** | 0.999 |
+| TNRC6A | **UPF1** | 0.418 |
+| TNRC6A | **LSM14A** | 0.685 |
+| TNRC6A | **EDC3** | 0.821 |
+| TNRC6A | **EIF4E** | 0.945 |
+| TNRC6A | **DCP1A** | 0.953 |
+| TNRC6A | **DDX6** | 0.998 |
+| EIF4E | **DCP1A** | 0.647 |
+| EIF4E | **EDC3** | 0.739 |
+| EIF4E | **LSM14A** | 0.741 |
+| EIF4E | **UPF1** | 0.879 |
+| EIF4E | **DDX6** | 0.991 |
+| LSM14A | **UPF1** | 0.544 |
+| LSM14A | **DCP1A** | 0.961 |
+| LSM14A | **EDC3** | 0.996 |
+| LSM14A | **DDX6** | 0.999 |
+| UPF1 | **EDC3** | 0.92 |
+| UPF1 | **DDX6** | 0.93 |
+| UPF1 | **DCP1A** | 0.994 |
+| DCP1A | **DDX6** | 0.999 |
+| DCP1A | **EDC3** | 0.999 |
+| DDX6 | **EDC3** | 0.999 |
+

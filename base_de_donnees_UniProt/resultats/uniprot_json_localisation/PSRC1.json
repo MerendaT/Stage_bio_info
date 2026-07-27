@@ -1,0 +1,358 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q6PGN9",
+      "uniProtkbId": "PSRC1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "PSRC1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18411309"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19738423"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26820536"
+                }
+              ],
+              "value": "Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate, and for normal rate of chromosomal segregation during anaphase. Plays a role in the regulation of mitotic spindle dynamics. Increases the rate of turnover of microtubules on metaphase spindles, and contributes to the generation of normal tension across sister kinetochores. Recruits KIF2A and ANKRD53 to the mitotic spindle and spindle poles. May participate in p53/TP53-regulated growth suppression"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "Detected at the mitotic spindle and spindle poles. Diffusely distributed throughout the cell during interphase"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasm, cytoskeleton, spindle",
+                "id": "SL-0251"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasm, cytoskeleton, spindle pole",
+                "id": "SL-0448"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18411309"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015630",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:microtubule cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030496",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:midbody"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005819",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:spindle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000922",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:spindle pole"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008017",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:microtubule binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051301",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001578",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:microtubule bundle formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007080",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mitotic metaphase chromosome alignment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18411309"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030308",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031116",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of microtubule polymerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "12427559"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060236",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of mitotic spindle organization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18411309"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001CE021"
+      }
+    }
+  ]
+}

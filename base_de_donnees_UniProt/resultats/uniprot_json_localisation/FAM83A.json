@@ -1,0 +1,224 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q86UY5",
+      "uniProtkbId": "FA83A_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:28210"
+              }
+            ],
+            "value": "FAM83A"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q8K2P2"
+                }
+              ],
+              "value": "Involved in mitochondrial maintenance during adipogenesis. May be acting by playing a role in the maintenance of normal mitochondrial function"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "22886303"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "32296183"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036312",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:phosphatidylinositol 3-kinase regulatory subunit binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22886303"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22886303"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008283",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22886303"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007173",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:epidermal growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22886303"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of adipose tissue development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050872",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:white fat cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000019275C"
+      }
+    }
+  ]
+}

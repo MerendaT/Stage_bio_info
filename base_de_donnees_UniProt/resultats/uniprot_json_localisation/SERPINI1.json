@@ -1,0 +1,304 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q99574",
+      "uniProtkbId": "NEUS_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SERPINI1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11880376"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19265707"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19285087"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26329378"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9442076"
+                },
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "Serine protease inhibitor that inhibits plasminogen activators and plasmin but not thrombin (PubMed:11880376, PubMed:19265707, PubMed:19285087, PubMed:26329378, PubMed:9442076). May be involved in the formation or reorganization of synaptic connections as well as for synaptic plasticity in the adult nervous system. May protect neurons from cell damage by tissue-type plasminogen activator (Probable)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17040209"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25326458"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "17040209"
+                  }
+                ],
+                "value": "Cytoplasmic vesicle, secretory vesicle lumen",
+                "id": "SL-0347"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17040209"
+                  }
+                ],
+                "value": "Perikaryon",
+                "id": "SL-0197"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0060205",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasmic vesicle lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17040209"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17040209"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043025",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neuronal cell body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17040209"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043204",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perikaryon"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034774",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:secretory granule lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004867",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:serine-type endopeptidase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19285087"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9442076"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007417",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:central nervous system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9070919"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007422",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peripheral nervous system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9070919"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of neuron projection development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000002FBA4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : BCL7B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BCL7B
+Identifiant STRING officiel : `9606.ENSP00000411073`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DPF2 | **BRD9** | 0.935 |
+| DPF2 | **SS18** | 0.966 |
+| DPF2 | **BCL7B** | 0.971 |
+| DPF2 | **BCL7C** | 0.983 |
+| DPF2 | **SMARCD3** | 0.984 |
+| DPF2 | **SMARCD2** | 0.987 |
+| DPF2 | **SMARCA2** | 0.991 |
+| DPF2 | **SMARCC1** | 0.996 |
+| DPF2 | **SMARCE1** | 0.999 |
+| DPF2 | **SMARCA4** | 0.999 |
+| DPF2 | **ARID1A** | 0.999 |
+| DPF2 | **SMARCD1** | 0.999 |
+| DPF2 | **ARID1B** | 0.999 |
+| DPF2 | **SMARCC2** | 0.999 |
+| DPF2 | **SMARCB1** | 0.999 |
+| SMARCC1 | **BCL7B** | 0.97 |
+| SMARCC1 | **SS18** | 0.991 |
+| SMARCC1 | **BCL7C** | 0.994 |
+| SMARCC1 | **BRD9** | 0.998 |
+| SMARCC1 | **SMARCE1** | 0.999 |
+| SMARCC1 | **ARID1A** | 0.999 |
+| SMARCC1 | **SMARCD1** | 0.999 |
+| SMARCC1 | **SMARCD3** | 0.999 |
+| SMARCC1 | **SMARCA4** | 0.999 |
+| SMARCC1 | **ARID1B** | 0.999 |
+| SMARCC1 | **SMARCD2** | 0.999 |
+| SMARCC1 | **SMARCC2** | 0.999 |
+| SMARCC1 | **SMARCA2** | 0.999 |
+| SMARCC1 | **SMARCB1** | 0.999 |
+| SMARCD3 | **BRD9** | 0.971 |
+| SMARCD3 | **BCL7B** | 0.979 |
+| SMARCD3 | **SMARCD2** | 0.984 |
+| SMARCD3 | **SS18** | 0.985 |
+| SMARCD3 | **BCL7C** | 0.991 |
+| SMARCD3 | **SMARCD1** | 0.992 |
+| SMARCD3 | **ARID1B** | 0.993 |
+| SMARCD3 | **SMARCE1** | 0.999 |
+| SMARCD3 | **ARID1A** | 0.999 |
+| SMARCD3 | **SMARCA4** | 0.999 |
+| SMARCD3 | **SMARCC2** | 0.999 |
+| SMARCD3 | **SMARCA2** | 0.999 |
+| SMARCD3 | **SMARCB1** | 0.999 |
+| ARID1A | **BCL7B** | 0.992 |
+| ARID1A | **SS18** | 0.993 |
+| ARID1A | **BCL7C** | 0.995 |
+| ARID1A | **BRD9** | 0.996 |
+| ARID1A | **SMARCD2** | 0.997 |
+| ARID1A | **ARID1B** | 0.999 |
+| ARID1A | **SMARCD1** | 0.999 |
+| ARID1A | **SMARCA4** | 0.999 |
+| ARID1A | **SMARCE1** | 0.999 |
+| ARID1A | **SMARCB1** | 0.999 |
+| ARID1A | **SMARCC2** | 0.999 |
+| ARID1A | **SMARCA2** | 0.999 |
+| SMARCE1 | **BRD9** | 0.985 |
+| SMARCE1 | **BCL7B** | 0.989 |
+| SMARCE1 | **BCL7C** | 0.993 |
+| SMARCE1 | **SMARCC2** | 0.999 |
+| SMARCE1 | **SMARCA2** | 0.999 |
+| SMARCE1 | **SMARCB1** | 0.999 |
+| SMARCE1 | **SMARCD1** | 0.999 |
+| SMARCE1 | **SMARCA4** | 0.999 |
+| SMARCE1 | **SMARCD2** | 0.999 |
+| SMARCE1 | **ARID1B** | 0.999 |
+| SMARCE1 | **SS18** | 0.999 |
+| SMARCB1 | **BRD9** | 0.988 |
+| SMARCB1 | **BCL7B** | 0.989 |
+| SMARCB1 | **BCL7C** | 0.991 |
+| SMARCB1 | **SS18** | 0.995 |
+| SMARCB1 | **SMARCC2** | 0.999 |
+| SMARCB1 | **SMARCA2** | 0.999 |
+| SMARCB1 | **SMARCD1** | 0.999 |
+| SMARCB1 | **SMARCA4** | 0.999 |
+| SMARCB1 | **ARID1B** | 0.999 |
+| SMARCB1 | **SMARCD2** | 0.999 |
+| SMARCA4 | **BCL7B** | 0.993 |
+| SMARCA4 | **BCL7C** | 0.994 |
+| SMARCA4 | **SS18** | 0.996 |
+| SMARCA4 | **BRD9** | 0.998 |
+| SMARCA4 | **SMARCD1** | 0.999 |
+| SMARCA4 | **ARID1B** | 0.999 |
+| SMARCA4 | **SMARCD2** | 0.999 |
+| SMARCA4 | **SMARCC2** | 0.999 |
+| SMARCA4 | **SMARCA2** | 0.999 |
+| BCL7C | **SMARCC2** | 0.99 |
+| BCL7C | **BCL7B** | 0.991 |
+| BCL7C | **SMARCD2** | 0.991 |
+| BCL7C | **ARID1B** | 0.991 |
+| BCL7C | **BRD9** | 0.992 |
+| BCL7C | **SMARCA2** | 0.993 |
+| BCL7C | **SMARCD1** | 0.995 |
+| BCL7C | **SS18** | 0.999 |
+| SMARCA2 | **BCL7B** | 0.985 |
+| SMARCA2 | **BRD9** | 0.996 |
+| SMARCA2 | **SS18** | 0.996 |
+| SMARCA2 | **SMARCC2** | 0.999 |
+| SMARCA2 | **SMARCD1** | 0.999 |
+| SMARCA2 | **ARID1B** | 0.999 |
+| SMARCA2 | **SMARCD2** | 0.999 |
+| SMARCD1 | **SS18** | 0.991 |
+| SMARCD1 | **BCL7B** | 0.994 |
+| SMARCD1 | **SMARCD2** | 0.995 |
+| SMARCD1 | **ARID1B** | 0.998 |
+| SMARCD1 | **BRD9** | 0.998 |
+| SMARCD1 | **SMARCC2** | 0.999 |
+| SMARCD2 | **BRD9** | 0.976 |
+| SMARCD2 | **BCL7B** | 0.984 |
+| SMARCD2 | **SS18** | 0.991 |
+| SMARCD2 | **ARID1B** | 0.995 |
+| SMARCD2 | **SMARCC2** | 0.999 |
+| BCL7B | **BRD9** | 0.971 |
+| BCL7B | **ARID1B** | 0.984 |
+| BCL7B | **SS18** | 0.987 |
+| BCL7B | **SMARCC2** | 0.987 |
+| SS18 | **BRD9** | 0.989 |
+| SS18 | **ARID1B** | 0.989 |
+| SS18 | **SMARCC2** | 0.991 |
+| BRD9 | **ARID1B** | 0.989 |
+| BRD9 | **SMARCC2** | 0.995 |
+| SMARCC2 | **ARID1B** | 0.999 |
+

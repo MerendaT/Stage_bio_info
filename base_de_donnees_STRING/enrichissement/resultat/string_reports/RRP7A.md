@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RRP7A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RRP7A
+Identifiant STRING officiel : `9606.ENSP00000321449`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **HEATR1** | 0.999 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **WDR75** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **TBL3** | 0.999 |
+| UTP18 | **WDR36** | 0.999 |
+| UTP18 | **BMS1** | 0.999 |
+| UTP18 | **RRP7A** | 0.999 |
+| UTP18 | **RCL1** | 0.999 |
+| UTP18 | **NOL6** | 0.999 |
+| UTP18 | **WDR43** | 0.999 |
+| KRR1 | **RCL1** | 0.997 |
+| KRR1 | **WDR43** | 0.998 |
+| KRR1 | **NOL6** | 0.998 |
+| KRR1 | **HEATR1** | 0.998 |
+| KRR1 | **WDR75** | 0.998 |
+| KRR1 | **TBL3** | 0.999 |
+| KRR1 | **WDR36** | 0.999 |
+| KRR1 | **BMS1** | 0.999 |
+| KRR1 | **RRP7A** | 0.999 |
+| KRR1 | **RRP9** | 0.999 |
+| KRR1 | **UTP4** | 0.999 |
+| KRR1 | **UTP6** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| BYSL | **HEATR1** | 0.998 |
+| BYSL | **WDR75** | 0.998 |
+| BYSL | **TBL3** | 0.998 |
+| BYSL | **RRP7A** | 0.998 |
+| BYSL | **WDR43** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **WDR46** | 0.999 |
+| BYSL | **BMS1** | 0.999 |
+| BYSL | **WDR36** | 0.999 |
+| BYSL | **RCL1** | 0.999 |
+| BYSL | **RRP9** | 0.999 |
+| BYSL | **NOL6** | 0.999 |
+| RRP9 | **RCL1** | 0.998 |
+| RRP9 | **RRP7A** | 0.998 |
+| RRP9 | **BMS1** | 0.998 |
+| RRP9 | **UTP6** | 0.999 |
+| RRP9 | **WDR75** | 0.999 |
+| RRP9 | **HEATR1** | 0.999 |
+| RRP9 | **UTP4** | 0.999 |
+| RRP9 | **WDR46** | 0.999 |
+| RRP9 | **TBL3** | 0.999 |
+| RRP9 | **WDR36** | 0.999 |
+| RRP9 | **NOL6** | 0.999 |
+| RRP9 | **WDR43** | 0.999 |
+| UTP6 | **RCL1** | 0.998 |
+| UTP6 | **RRP7A** | 0.998 |
+| UTP6 | **WDR46** | 0.999 |
+| UTP6 | **WDR75** | 0.999 |
+| UTP6 | **UTP4** | 0.999 |
+| UTP6 | **HEATR1** | 0.999 |
+| UTP6 | **NOL6** | 0.999 |
+| UTP6 | **WDR43** | 0.999 |
+| UTP6 | **BMS1** | 0.999 |
+| UTP6 | **WDR36** | 0.999 |
+| UTP6 | **TBL3** | 0.999 |
+| NOL6 | **RCL1** | 0.997 |
+| NOL6 | **WDR46** | 0.999 |
+| NOL6 | **WDR75** | 0.999 |
+| NOL6 | **UTP4** | 0.999 |
+| NOL6 | **HEATR1** | 0.999 |
+| NOL6 | **WDR43** | 0.999 |
+| NOL6 | **RRP7A** | 0.999 |
+| NOL6 | **WDR36** | 0.999 |
+| NOL6 | **TBL3** | 0.999 |
+| NOL6 | **BMS1** | 0.999 |
+| WDR75 | **RCL1** | 0.997 |
+| WDR75 | **RRP7A** | 0.998 |
+| WDR75 | **WDR36** | 0.999 |
+| WDR75 | **TBL3** | 0.999 |
+| WDR75 | **BMS1** | 0.999 |
+| WDR75 | **WDR43** | 0.999 |
+| WDR75 | **UTP4** | 0.999 |
+| WDR75 | **HEATR1** | 0.999 |
+| WDR75 | **WDR46** | 0.999 |
+| RRP7A | **UTP4** | 0.998 |
+| RRP7A | **HEATR1** | 0.998 |
+| RRP7A | **WDR43** | 0.998 |
+| RRP7A | **BMS1** | 0.998 |
+| RRP7A | **WDR36** | 0.998 |
+| RRP7A | **RCL1** | 0.998 |
+| RRP7A | **WDR46** | 0.999 |
+| RRP7A | **TBL3** | 0.999 |
+| UTP4 | **HEATR1** | 0.999 |
+| UTP4 | **WDR46** | 0.999 |
+| UTP4 | **RCL1** | 0.999 |
+| UTP4 | **WDR36** | 0.999 |
+| UTP4 | **TBL3** | 0.999 |
+| UTP4 | **BMS1** | 0.999 |
+| UTP4 | **WDR43** | 0.999 |
+| HEATR1 | **RCL1** | 0.998 |
+| HEATR1 | **WDR36** | 0.999 |
+| HEATR1 | **TBL3** | 0.999 |
+| HEATR1 | **BMS1** | 0.999 |
+| HEATR1 | **WDR43** | 0.999 |
+| HEATR1 | **WDR46** | 0.999 |
+| BMS1 | **WDR46** | 0.999 |
+| BMS1 | **TBL3** | 0.999 |
+| BMS1 | **WDR36** | 0.999 |
+| BMS1 | **RCL1** | 0.999 |
+| BMS1 | **WDR43** | 0.999 |
+| WDR46 | **RCL1** | 0.997 |
+| WDR46 | **WDR36** | 0.999 |
+| WDR46 | **TBL3** | 0.999 |
+| WDR46 | **WDR43** | 0.999 |
+| RCL1 | **TBL3** | 0.997 |
+| RCL1 | **WDR36** | 0.998 |
+| RCL1 | **WDR43** | 0.999 |
+| WDR43 | **WDR36** | 0.999 |
+| WDR43 | **TBL3** | 0.999 |
+| WDR36 | **TBL3** | 0.999 |
+

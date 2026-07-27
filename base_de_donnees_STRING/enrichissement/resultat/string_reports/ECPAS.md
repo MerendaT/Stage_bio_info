@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ECPAS
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ECPAS
+Identifiant STRING officiel : `9606.ENSP00000259335`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PSMC4 | **ECPAS** | 0.877 |
+| PSMC4 | **PSMA7** | 0.998 |
+| PSMC4 | **PSMD1** | 0.999 |
+| PSMC4 | **PSMD14** | 0.999 |
+| PSMC4 | **PSMC6** | 0.999 |
+| PSMC4 | **PSMD8** | 0.999 |
+| PSMC4 | **PSMD12** | 0.999 |
+| PSMC4 | **PSMD7** | 0.999 |
+| PSMC4 | **ADRM1** | 0.999 |
+| PSMC4 | **PSMD11** | 0.999 |
+| PSMC4 | **PSMC5** | 0.999 |
+| PSMC4 | **PSMC3** | 0.999 |
+| PSMC4 | **PSMC2** | 0.999 |
+| PSMC4 | **PSMD4** | 0.999 |
+| PSMC4 | **PSMD3** | 0.999 |
+| PSMD8 | **ECPAS** | 0.936 |
+| PSMD8 | **PSMA7** | 0.997 |
+| PSMD8 | **PSMD14** | 0.999 |
+| PSMD8 | **PSMD1** | 0.999 |
+| PSMD8 | **PSMC6** | 0.999 |
+| PSMD8 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMD12** | 0.999 |
+| PSMD8 | **ADRM1** | 0.999 |
+| PSMD8 | **PSMC3** | 0.999 |
+| PSMD8 | **PSMC5** | 0.999 |
+| PSMD8 | **PSMD11** | 0.999 |
+| PSMD8 | **PSMD3** | 0.999 |
+| PSMD8 | **PSMD4** | 0.999 |
+| PSMD8 | **PSMC2** | 0.999 |
+| PSMD7 | **ECPAS** | 0.932 |
+| PSMD7 | **PSMA7** | 0.997 |
+| PSMD7 | **ADRM1** | 0.999 |
+| PSMD7 | **PSMD4** | 0.999 |
+| PSMD7 | **PSMC2** | 0.999 |
+| PSMD7 | **PSMD3** | 0.999 |
+| PSMD7 | **PSMD11** | 0.999 |
+| PSMD7 | **PSMC3** | 0.999 |
+| PSMD7 | **PSMC5** | 0.999 |
+| PSMD7 | **PSMC6** | 0.999 |
+| PSMD7 | **PSMD1** | 0.999 |
+| PSMD7 | **PSMD14** | 0.999 |
+| PSMD7 | **PSMD12** | 0.999 |
+| ECPAS | **PSMC6** | 0.896 |
+| ECPAS | **ADRM1** | 0.907 |
+| ECPAS | **PSMD1** | 0.909 |
+| ECPAS | **PSMA7** | 0.91 |
+| ECPAS | **PSMC5** | 0.911 |
+| ECPAS | **PSMD3** | 0.912 |
+| ECPAS | **PSMC2** | 0.921 |
+| ECPAS | **PSMD4** | 0.93 |
+| ECPAS | **PSMD11** | 0.937 |
+| ECPAS | **PSMC3** | 0.947 |
+| ECPAS | **PSMD12** | 0.956 |
+| ECPAS | **PSMD14** | 0.976 |
+| PSMD11 | **PSMA7** | 0.997 |
+| PSMD11 | **PSMC6** | 0.999 |
+| PSMD11 | **PSMD14** | 0.999 |
+| PSMD11 | **PSMD1** | 0.999 |
+| PSMD11 | **PSMD12** | 0.999 |
+| PSMD11 | **ADRM1** | 0.999 |
+| PSMD11 | **PSMD3** | 0.999 |
+| PSMD11 | **PSMD4** | 0.999 |
+| PSMD11 | **PSMC2** | 0.999 |
+| PSMD11 | **PSMC3** | 0.999 |
+| PSMD11 | **PSMC5** | 0.999 |
+| PSMD3 | **PSMA7** | 0.995 |
+| PSMD3 | **ADRM1** | 0.999 |
+| PSMD3 | **PSMD4** | 0.999 |
+| PSMD3 | **PSMC2** | 0.999 |
+| PSMD3 | **PSMC3** | 0.999 |
+| PSMD3 | **PSMC5** | 0.999 |
+| PSMD3 | **PSMC6** | 0.999 |
+| PSMD3 | **PSMD1** | 0.999 |
+| PSMD3 | **PSMD14** | 0.999 |
+| PSMD3 | **PSMD12** | 0.999 |
+| PSMD1 | **PSMA7** | 0.998 |
+| PSMD1 | **ADRM1** | 0.999 |
+| PSMD1 | **PSMC2** | 0.999 |
+| PSMD1 | **PSMD4** | 0.999 |
+| PSMD1 | **PSMC5** | 0.999 |
+| PSMD1 | **PSMC3** | 0.999 |
+| PSMD1 | **PSMC6** | 0.999 |
+| PSMD1 | **PSMD14** | 0.999 |
+| PSMD1 | **PSMD12** | 0.999 |
+| PSMC5 | **PSMA7** | 0.996 |
+| PSMC5 | **ADRM1** | 0.998 |
+| PSMC5 | **PSMC3** | 0.999 |
+| PSMC5 | **PSMD4** | 0.999 |
+| PSMC5 | **PSMC2** | 0.999 |
+| PSMC5 | **PSMD12** | 0.999 |
+| PSMC5 | **PSMD14** | 0.999 |
+| PSMC5 | **PSMC6** | 0.999 |
+| PSMD12 | **PSMA7** | 0.997 |
+| PSMD12 | **ADRM1** | 0.999 |
+| PSMD12 | **PSMC2** | 0.999 |
+| PSMD12 | **PSMD4** | 0.999 |
+| PSMD12 | **PSMC3** | 0.999 |
+| PSMD12 | **PSMC6** | 0.999 |
+| PSMD12 | **PSMD14** | 0.999 |
+| PSMD4 | **PSMD14** | 0.999 |
+| PSMD4 | **PSMC6** | 0.999 |
+| PSMD4 | **PSMC3** | 0.999 |
+| PSMD4 | **PSMC2** | 0.999 |
+| PSMD4 | **PSMA7** | 0.999 |
+| PSMD4 | **ADRM1** | 0.999 |
+| PSMA7 | **ADRM1** | 0.937 |
+| PSMA7 | **PSMC3** | 0.997 |
+| PSMA7 | **PSMD14** | 0.998 |
+| PSMA7 | **PSMC6** | 0.999 |
+| PSMA7 | **PSMC2** | 0.999 |
+| PSMD14 | **PSMC2** | 0.999 |
+| PSMD14 | **PSMC3** | 0.999 |
+| PSMD14 | **ADRM1** | 0.999 |
+| PSMD14 | **PSMC6** | 0.999 |
+| PSMC2 | **PSMC6** | 0.999 |
+| PSMC2 | **ADRM1** | 0.999 |
+| PSMC2 | **PSMC3** | 0.999 |
+| ADRM1 | **PSMC3** | 0.998 |
+| ADRM1 | **PSMC6** | 0.999 |
+| PSMC3 | **PSMC6** | 0.999 |
+

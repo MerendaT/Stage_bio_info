@@ -1,0 +1,371 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P78380",
+      "uniProtkbId": "OLR1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "OLR1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11821063"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12354387"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9052782"
+                }
+              ],
+              "value": "Receptor that mediates the recognition, internalization and degradation of oxidatively modified low density lipoprotein (oxLDL) by vascular endothelial cells. OxLDL is a marker of atherosclerosis that induces vascular endothelial cell activation and dysfunction, resulting in pro-inflammatory responses, pro-oxidative conditions and apoptosis. Its association with oxLDL induces the activation of NF-kappa-B through an increased production of intracellular reactive oxygen and a variety of pro-atherogenic cellular responses including a reduction of nitric oxide (NO) release, monocyte adhesion and apoptosis. In addition to binding oxLDL, it acts as a receptor for the HSP70 protein involved in antigen cross-presentation to naive T-cells in dendritic cells, thereby participating in cell-mediated antigen cross-presentation. Also involved in inflammatory process, by acting as a leukocyte-adhesion molecule at the vascular interface in endotoxin-induced inflammation. Also acts as a receptor for advanced glycation end (AGE) products, activated platelets, monocytes, apoptotic cells and both Gram-negative and Gram-positive bacteria"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000305",
+                  "source": "PubMed",
+                  "id": "27302108"
+                }
+              ],
+              "value": "(Microbial infection) May serve as a receptor for adhesin A variant 3 (nadA) of N.meningitidis"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "A secreted form also exists. Localization to membrane rafts requires palmitoylation"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "value": "Lipid-anchor",
+                "id": "SL-9901"
+              }
+            },
+            {
+              "location": {
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "value": "Membrane raft",
+                "id": "SL-0370"
+              }
+            },
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9052782"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045121",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane raft"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043235",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:receptor complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23382219"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035579",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:specific granule membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070821",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:tertiary granule membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030246",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:carbohydrate binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "15939022"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19664054"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005041",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:low-density lipoprotein particle receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008015",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:blood circulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9052782"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002376",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:immune system process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006954",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007159",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:leukocyte cell-cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042157",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:lipoprotein metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:proteolysis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9052782"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004A917"
+      }
+    }
+  ]
+}

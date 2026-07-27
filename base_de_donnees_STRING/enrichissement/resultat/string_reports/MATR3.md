@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : MATR3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MATR3
+Identifiant STRING officiel : `9606.ENSP00000378284`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DDX5 | **RBM14** | 0.532 |
+| DDX5 | **NONO** | 0.696 |
+| DDX5 | **SFPQ** | 0.705 |
+| DDX5 | **TARDBP** | 0.729 |
+| DDX5 | **ILF2** | 0.792 |
+| DDX5 | **HNRNPA2B1** | 0.809 |
+| DDX5 | **HNRNPM** | 0.84 |
+| DDX5 | **FUS** | 0.872 |
+| DDX5 | **MATR3** | 0.894 |
+| DDX5 | **HNRNPC** | 0.925 |
+| DDX5 | **HNRNPA1** | 0.929 |
+| DDX5 | **HNRNPK** | 0.935 |
+| DDX5 | **HNRNPH1** | 0.96 |
+| TARDBP | **PSPC1** | 0.74 |
+| TARDBP | **RBM14** | 0.766 |
+| TARDBP | **ILF2** | 0.795 |
+| TARDBP | **NONO** | 0.847 |
+| TARDBP | **HNRNPM** | 0.901 |
+| TARDBP | **SFPQ** | 0.923 |
+| TARDBP | **HNRNPH1** | 0.947 |
+| TARDBP | **HNRNPK** | 0.949 |
+| TARDBP | **HNRNPC** | 0.981 |
+| TARDBP | **MATR3** | 0.995 |
+| TARDBP | **HNRNPA1** | 0.997 |
+| TARDBP | **HNRNPA2B1** | 0.998 |
+| TARDBP | **FUS** | 0.999 |
+| FUS | **IGF2BP1** | 0.594 |
+| FUS | **RBM14** | 0.814 |
+| FUS | **PSPC1** | 0.863 |
+| FUS | **ILF2** | 0.865 |
+| FUS | **MATR3** | 0.91 |
+| FUS | **HNRNPK** | 0.927 |
+| FUS | **HNRNPH1** | 0.941 |
+| FUS | **HNRNPM** | 0.947 |
+| FUS | **NONO** | 0.956 |
+| FUS | **HNRNPA1** | 0.975 |
+| FUS | **HNRNPC** | 0.976 |
+| FUS | **SFPQ** | 0.985 |
+| FUS | **HNRNPA2B1** | 0.99 |
+| NONO | **ILF2** | 0.656 |
+| NONO | **HNRNPH1** | 0.71 |
+| NONO | **HNRNPK** | 0.749 |
+| NONO | **HNRNPC** | 0.841 |
+| NONO | **HNRNPM** | 0.913 |
+| NONO | **HNRNPA2B1** | 0.913 |
+| NONO | **HNRNPA1** | 0.945 |
+| NONO | **MATR3** | 0.993 |
+| NONO | **RBM14** | 0.998 |
+| NONO | **SFPQ** | 0.999 |
+| NONO | **PSPC1** | 0.999 |
+| IGF2BP1 | **ILF2** | 0.459 |
+| IGF2BP1 | **HNRNPM** | 0.494 |
+| IGF2BP1 | **HNRNPK** | 0.593 |
+| IGF2BP1 | **HNRNPA1** | 0.634 |
+| IGF2BP1 | **HNRNPC** | 0.898 |
+| IGF2BP1 | **MATR3** | 0.91 |
+| IGF2BP1 | **HNRNPA2B1** | 0.938 |
+| RBM14 | **HNRNPC** | 0.758 |
+| RBM14 | **HNRNPA2B1** | 0.78 |
+| RBM14 | **ILF2** | 0.823 |
+| RBM14 | **HNRNPM** | 0.853 |
+| RBM14 | **HNRNPA1** | 0.883 |
+| RBM14 | **HNRNPK** | 0.909 |
+| RBM14 | **HNRNPH1** | 0.914 |
+| RBM14 | **MATR3** | 0.949 |
+| RBM14 | **PSPC1** | 0.991 |
+| RBM14 | **SFPQ** | 0.997 |
+| HNRNPM | **PSPC1** | 0.52 |
+| HNRNPM | **MATR3** | 0.928 |
+| HNRNPM | **SFPQ** | 0.968 |
+| HNRNPM | **ILF2** | 0.972 |
+| HNRNPM | **HNRNPK** | 0.981 |
+| HNRNPM | **HNRNPA2B1** | 0.987 |
+| HNRNPM | **HNRNPC** | 0.99 |
+| HNRNPM | **HNRNPH1** | 0.993 |
+| HNRNPM | **HNRNPA1** | 0.993 |
+| HNRNPA1 | **PSPC1** | 0.416 |
+| HNRNPA1 | **ILF2** | 0.931 |
+| HNRNPA1 | **MATR3** | 0.95 |
+| HNRNPA1 | **SFPQ** | 0.97 |
+| HNRNPA1 | **HNRNPK** | 0.995 |
+| HNRNPA1 | **HNRNPH1** | 0.998 |
+| HNRNPA1 | **HNRNPA2B1** | 0.998 |
+| HNRNPA1 | **HNRNPC** | 0.999 |
+| PSPC1 | **HNRNPK** | 0.474 |
+| PSPC1 | **MATR3** | 0.923 |
+| PSPC1 | **SFPQ** | 0.999 |
+| HNRNPA2B1 | **ILF2** | 0.841 |
+| HNRNPA2B1 | **MATR3** | 0.888 |
+| HNRNPA2B1 | **SFPQ** | 0.939 |
+| HNRNPA2B1 | **HNRNPK** | 0.983 |
+| HNRNPA2B1 | **HNRNPH1** | 0.991 |
+| HNRNPA2B1 | **HNRNPC** | 0.999 |
+| HNRNPH1 | **MATR3** | 0.911 |
+| HNRNPH1 | **SFPQ** | 0.913 |
+| HNRNPH1 | **ILF2** | 0.969 |
+| HNRNPH1 | **HNRNPK** | 0.975 |
+| HNRNPH1 | **HNRNPC** | 0.981 |
+| SFPQ | **ILF2** | 0.677 |
+| SFPQ | **HNRNPK** | 0.913 |
+| SFPQ | **HNRNPC** | 0.926 |
+| SFPQ | **MATR3** | 0.974 |
+| ILF2 | **HNRNPK** | 0.848 |
+| ILF2 | **MATR3** | 0.885 |
+| ILF2 | **HNRNPC** | 0.985 |
+| HNRNPK | **MATR3** | 0.923 |
+| HNRNPK | **HNRNPC** | 0.982 |
+| MATR3 | **HNRNPC** | 0.946 |
+

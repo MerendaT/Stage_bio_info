@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MSL2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MSL2
+Identifiant STRING officiel : `9606.ENSP00000311827`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| YEATS4 | **MSL2** | 0.902 |
+| YEATS4 | **MSL1** | 0.905 |
+| YEATS4 | **MSL3** | 0.926 |
+| YEATS4 | **ACTB** | 0.942 |
+| YEATS4 | **KAT8** | 0.968 |
+| YEATS4 | **MBTD1** | 0.985 |
+| YEATS4 | **ACTL6A** | 0.994 |
+| YEATS4 | **TRRAP** | 0.997 |
+| YEATS4 | **EPC1** | 0.998 |
+| YEATS4 | **ING3** | 0.998 |
+| YEATS4 | **KAT5** | 0.999 |
+| YEATS4 | **MORF4L1** | 0.999 |
+| YEATS4 | **RUVBL1** | 0.999 |
+| YEATS4 | **MEAF6** | 0.999 |
+| YEATS4 | **EP400** | 0.999 |
+| EPC1 | **MSL2** | 0.909 |
+| EPC1 | **MSL1** | 0.91 |
+| EPC1 | **MBTD1** | 0.938 |
+| EPC1 | **ACTB** | 0.947 |
+| EPC1 | **MSL3** | 0.95 |
+| EPC1 | **KAT8** | 0.958 |
+| EPC1 | **EP400** | 0.976 |
+| EPC1 | **RUVBL1** | 0.986 |
+| EPC1 | **ACTL6A** | 0.99 |
+| EPC1 | **ING3** | 0.996 |
+| EPC1 | **KAT5** | 0.997 |
+| EPC1 | **MORF4L1** | 0.997 |
+| EPC1 | **TRRAP** | 0.998 |
+| EPC1 | **MEAF6** | 0.999 |
+| MSL2 | **RUVBL1** | 0.901 |
+| MSL2 | **MEAF6** | 0.902 |
+| MSL2 | **ACTL6A** | 0.902 |
+| MSL2 | **EP400** | 0.905 |
+| MSL2 | **ING3** | 0.905 |
+| MSL2 | **TRRAP** | 0.906 |
+| MSL2 | **MBTD1** | 0.906 |
+| MSL2 | **ACTB** | 0.908 |
+| MSL2 | **MORF4L1** | 0.93 |
+| MSL2 | **KAT5** | 0.951 |
+| MSL2 | **KAT8** | 0.995 |
+| MSL2 | **MSL3** | 0.999 |
+| MSL2 | **MSL1** | 0.999 |
+| MSL3 | **MBTD1** | 0.907 |
+| MSL3 | **ACTB** | 0.912 |
+| MSL3 | **RUVBL1** | 0.919 |
+| MSL3 | **EP400** | 0.924 |
+| MSL3 | **ACTL6A** | 0.931 |
+| MSL3 | **MORF4L1** | 0.939 |
+| MSL3 | **ING3** | 0.94 |
+| MSL3 | **TRRAP** | 0.945 |
+| MSL3 | **MEAF6** | 0.946 |
+| MSL3 | **KAT5** | 0.958 |
+| MSL3 | **KAT8** | 0.997 |
+| MSL3 | **MSL1** | 0.999 |
+| RUVBL1 | **MSL1** | 0.903 |
+| RUVBL1 | **KAT8** | 0.937 |
+| RUVBL1 | **MBTD1** | 0.976 |
+| RUVBL1 | **MEAF6** | 0.982 |
+| RUVBL1 | **MORF4L1** | 0.993 |
+| RUVBL1 | **ACTB** | 0.993 |
+| RUVBL1 | **ING3** | 0.995 |
+| RUVBL1 | **ACTL6A** | 0.999 |
+| RUVBL1 | **TRRAP** | 0.999 |
+| RUVBL1 | **KAT5** | 0.999 |
+| RUVBL1 | **EP400** | 0.999 |
+| ING3 | **MSL1** | 0.906 |
+| ING3 | **ACTB** | 0.93 |
+| ING3 | **KAT8** | 0.947 |
+| ING3 | **MBTD1** | 0.964 |
+| ING3 | **EP400** | 0.989 |
+| ING3 | **ACTL6A** | 0.993 |
+| ING3 | **MEAF6** | 0.998 |
+| ING3 | **TRRAP** | 0.998 |
+| ING3 | **KAT5** | 0.999 |
+| ING3 | **MORF4L1** | 0.999 |
+| MORF4L1 | **MSL1** | 0.934 |
+| MORF4L1 | **ACTB** | 0.942 |
+| MORF4L1 | **KAT8** | 0.967 |
+| MORF4L1 | **MBTD1** | 0.992 |
+| MORF4L1 | **ACTL6A** | 0.995 |
+| MORF4L1 | **EP400** | 0.997 |
+| MORF4L1 | **TRRAP** | 0.998 |
+| MORF4L1 | **MEAF6** | 0.999 |
+| MORF4L1 | **KAT5** | 0.999 |
+| KAT5 | **KAT8** | 0.911 |
+| KAT5 | **MSL1** | 0.956 |
+| KAT5 | **ACTB** | 0.979 |
+| KAT5 | **MBTD1** | 0.994 |
+| KAT5 | **ACTL6A** | 0.997 |
+| KAT5 | **EP400** | 0.999 |
+| KAT5 | **MEAF6** | 0.999 |
+| KAT5 | **TRRAP** | 0.999 |
+| TRRAP | **MSL1** | 0.905 |
+| TRRAP | **MBTD1** | 0.959 |
+| TRRAP | **ACTB** | 0.96 |
+| TRRAP | **KAT8** | 0.967 |
+| TRRAP | **ACTL6A** | 0.999 |
+| TRRAP | **MEAF6** | 0.999 |
+| TRRAP | **EP400** | 0.999 |
+| MEAF6 | **MSL1** | 0.901 |
+| MEAF6 | **ACTB** | 0.931 |
+| MEAF6 | **KAT8** | 0.975 |
+| MEAF6 | **EP400** | 0.994 |
+| MEAF6 | **MBTD1** | 0.995 |
+| MEAF6 | **ACTL6A** | 0.995 |
+| EP400 | **KAT8** | 0.934 |
+| EP400 | **MSL1** | 0.94 |
+| EP400 | **ACTB** | 0.965 |
+| EP400 | **MBTD1** | 0.967 |
+| EP400 | **ACTL6A** | 0.999 |
+| ACTL6A | **MSL1** | 0.91 |
+| ACTL6A | **MBTD1** | 0.935 |
+| ACTL6A | **KAT8** | 0.962 |
+| ACTL6A | **ACTB** | 0.999 |
+| KAT8 | **MBTD1** | 0.912 |
+| KAT8 | **ACTB** | 0.93 |
+| KAT8 | **MSL1** | 0.995 |
+| MSL1 | **ACTB** | 0.91 |
+| MSL1 | **MBTD1** | 0.91 |
+| MBTD1 | **ACTB** | 0.926 |
+

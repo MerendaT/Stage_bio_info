@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PLA2G12A
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PLA2G12A
+Identifiant STRING officiel : `9606.ENSP00000243501`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PLA2G3 | **CHPT1** | 0.687 |
+| PLA2G3 | **LPCAT2** | 0.725 |
+| PLA2G3 | **PLA2G1B** | 0.729 |
+| PLA2G3 | **PLA2G7** | 0.742 |
+| PLA2G3 | **CYP2U1** | 0.744 |
+| PLA2G3 | **CYP2E1** | 0.784 |
+| PLA2G3 | **PLA2G5** | 0.824 |
+| PLA2G3 | **PLAAT3** | 0.83 |
+| PLA2G3 | **PLA2G2E** | 0.843 |
+| PLA2G3 | **PLA2G15** | 0.843 |
+| PLA2G3 | **PLA2G2F** | 0.846 |
+| PLA2G3 | **PLA2G2A** | 0.934 |
+| PLA2G3 | **PLA2G12A** | 0.962 |
+| PLA2G3 | **PLA2G10** | 0.971 |
+| PLA2G3 | **PLA2G2D** | 0.983 |
+| PLA2G15 | **PLA2G7** | 0.618 |
+| PLA2G15 | **PLA2G2F** | 0.712 |
+| PLA2G15 | **LPCAT2** | 0.73 |
+| PLA2G15 | **PLA2G1B** | 0.732 |
+| PLA2G15 | **PLA2G2E** | 0.756 |
+| PLA2G15 | **PLA2G12A** | 0.776 |
+| PLA2G15 | **PLA2G5** | 0.809 |
+| PLA2G15 | **PLA2G10** | 0.814 |
+| PLA2G15 | **PLA2G2D** | 0.823 |
+| PLA2G15 | **PLA2G2A** | 0.845 |
+| PLA2G15 | **PLAAT3** | 0.871 |
+| CHPT1 | **PLA2G2F** | 0.65 |
+| CHPT1 | **PLA2G5** | 0.65 |
+| CHPT1 | **PLA2G2A** | 0.685 |
+| CHPT1 | **PLA2G2D** | 0.7 |
+| CHPT1 | **PLA2G2E** | 0.713 |
+| CHPT1 | **PLA2G1B** | 0.714 |
+| CHPT1 | **PLA2G12A** | 0.759 |
+| CHPT1 | **PLA2G10** | 0.805 |
+| CHPT1 | **PLAAT3** | 0.919 |
+| CHPT1 | **PLA2G7** | 0.929 |
+| CHPT1 | **LPCAT2** | 0.962 |
+| PLA2G12A | **LPCAT2** | 0.725 |
+| PLA2G12A | **CYP2U1** | 0.739 |
+| PLA2G12A | **PLA2G7** | 0.754 |
+| PLA2G12A | **PLA2G1B** | 0.762 |
+| PLA2G12A | **PLAAT3** | 0.78 |
+| PLA2G12A | **PLA2G5** | 0.783 |
+| PLA2G12A | **PLA2G2F** | 0.798 |
+| PLA2G12A | **PLA2G2E** | 0.804 |
+| PLA2G12A | **CYP2E1** | 0.806 |
+| PLA2G12A | **PLA2G2A** | 0.935 |
+| PLA2G12A | **PLA2G2D** | 0.947 |
+| PLA2G12A | **PLA2G10** | 0.976 |
+| LPCAT2 | **PLA2G2E** | 0.689 |
+| LPCAT2 | **PLA2G2F** | 0.7 |
+| LPCAT2 | **PLA2G5** | 0.7 |
+| LPCAT2 | **PLA2G10** | 0.71 |
+| LPCAT2 | **PLA2G1B** | 0.714 |
+| LPCAT2 | **PLA2G2D** | 0.745 |
+| LPCAT2 | **PLA2G2A** | 0.769 |
+| LPCAT2 | **PLAAT3** | 0.917 |
+| LPCAT2 | **PLA2G7** | 0.97 |
+| PLA2G7 | **PLA2G2F** | 0.72 |
+| PLA2G7 | **PLA2G2E** | 0.73 |
+| PLA2G7 | **PLA2G5** | 0.766 |
+| PLA2G7 | **PLAAT3** | 0.802 |
+| PLA2G7 | **PLA2G2D** | 0.811 |
+| PLA2G7 | **PLA2G1B** | 0.846 |
+| PLA2G7 | **PLA2G10** | 0.877 |
+| PLA2G7 | **PLA2G2A** | 0.895 |
+| PLA2G1B | **PLA2G2F** | 0.582 |
+| PLA2G1B | **PLA2G2E** | 0.591 |
+| PLA2G1B | **PLA2G2D** | 0.591 |
+| PLA2G1B | **PLA2G5** | 0.613 |
+| PLA2G1B | **CYP2U1** | 0.655 |
+| PLA2G1B | **PLA2G2A** | 0.709 |
+| PLA2G1B | **PLAAT3** | 0.74 |
+| PLA2G1B | **PLA2G10** | 0.769 |
+| PLA2G1B | **CYP2E1** | 0.79 |
+| PLAAT3 | **CYP2U1** | 0.665 |
+| PLAAT3 | **PLA2G2F** | 0.733 |
+| PLAAT3 | **PLA2G2E** | 0.782 |
+| PLAAT3 | **CYP2E1** | 0.808 |
+| PLAAT3 | **PLA2G5** | 0.811 |
+| PLAAT3 | **PLA2G10** | 0.815 |
+| PLAAT3 | **PLA2G2D** | 0.816 |
+| PLAAT3 | **PLA2G2A** | 0.847 |
+| CYP2U1 | **PLA2G10** | 0.655 |
+| CYP2U1 | **PLA2G2F** | 0.655 |
+| CYP2U1 | **PLA2G2D** | 0.656 |
+| CYP2U1 | **PLA2G2A** | 0.669 |
+| CYP2U1 | **PLA2G5** | 0.673 |
+| CYP2U1 | **PLA2G2E** | 0.694 |
+| CYP2U1 | **CYP2E1** | 0.928 |
+| PLA2G2F | **PLA2G2A** | 0.552 |
+| PLA2G2F | **PLA2G2D** | 0.563 |
+| PLA2G2F | **PLA2G5** | 0.571 |
+| PLA2G2F | **PLA2G10** | 0.587 |
+| PLA2G2F | **PLA2G2E** | 0.589 |
+| PLA2G2F | **CYP2E1** | 0.791 |
+| PLA2G2D | **PLA2G2A** | 0.549 |
+| PLA2G2D | **PLA2G5** | 0.552 |
+| PLA2G2D | **PLA2G10** | 0.605 |
+| PLA2G2D | **PLA2G2E** | 0.641 |
+| PLA2G2D | **CYP2E1** | 0.787 |
+| PLA2G5 | **PLA2G2E** | 0.56 |
+| PLA2G5 | **PLA2G2A** | 0.573 |
+| PLA2G5 | **PLA2G10** | 0.588 |
+| PLA2G5 | **CYP2E1** | 0.655 |
+| PLA2G2E | **PLA2G2A** | 0.566 |
+| PLA2G2E | **PLA2G10** | 0.58 |
+| PLA2G2E | **CYP2E1** | 0.8 |
+| PLA2G2A | **PLA2G10** | 0.725 |
+| PLA2G2A | **CYP2E1** | 0.816 |
+| PLA2G10 | **CYP2E1** | 0.801 |
+

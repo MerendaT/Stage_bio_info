@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UTP14A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UTP14A
+Identifiant STRING officiel : `9606.ENSP00000377944`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **UTP20** | 0.997 |
+| UTP18 | **NOP14** | 0.997 |
+| UTP18 | **DCAF13** | 0.998 |
+| UTP18 | **UTP14A** | 0.998 |
+| UTP18 | **NOP58** | 0.998 |
+| UTP18 | **NOL10** | 0.998 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **NOP56** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **WDR46** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **WDR36** | 0.999 |
+| UTP18 | **BMS1** | 0.999 |
+| UTP18 | **UTP3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| BYSL | **UTP14A** | 0.997 |
+| BYSL | **NOP56** | 0.998 |
+| BYSL | **NOP58** | 0.998 |
+| BYSL | **UTP20** | 0.998 |
+| BYSL | **MPHOSPH10** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **DCAF13** | 0.999 |
+| BYSL | **WDR46** | 0.999 |
+| BYSL | **BMS1** | 0.999 |
+| BYSL | **WDR36** | 0.999 |
+| BYSL | **UTP3** | 0.999 |
+| BYSL | **NOP14** | 0.999 |
+| BYSL | **NOL10** | 0.999 |
+| MPHOSPH10 | **UTP20** | 0.997 |
+| MPHOSPH10 | **DCAF13** | 0.998 |
+| MPHOSPH10 | **NOP14** | 0.998 |
+| MPHOSPH10 | **WDR46** | 0.999 |
+| MPHOSPH10 | **UTP14A** | 0.999 |
+| MPHOSPH10 | **NOP58** | 0.999 |
+| MPHOSPH10 | **UTP4** | 0.999 |
+| MPHOSPH10 | **NOP56** | 0.999 |
+| MPHOSPH10 | **UTP6** | 0.999 |
+| MPHOSPH10 | **NOL10** | 0.999 |
+| MPHOSPH10 | **WDR36** | 0.999 |
+| MPHOSPH10 | **BMS1** | 0.999 |
+| MPHOSPH10 | **UTP3** | 0.999 |
+| UTP3 | **DCAF13** | 0.998 |
+| UTP3 | **NOP56** | 0.998 |
+| UTP3 | **NOL10** | 0.998 |
+| UTP3 | **UTP20** | 0.998 |
+| UTP3 | **UTP14A** | 0.999 |
+| UTP3 | **NOP58** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **UTP6** | 0.999 |
+| UTP3 | **UTP4** | 0.999 |
+| UTP3 | **NOP14** | 0.999 |
+| UTP3 | **WDR36** | 0.999 |
+| UTP3 | **BMS1** | 0.999 |
+| UTP20 | **NOL10** | 0.996 |
+| UTP20 | **NOP56** | 0.997 |
+| UTP20 | **UTP14A** | 0.998 |
+| UTP20 | **UTP6** | 0.998 |
+| UTP20 | **DCAF13** | 0.998 |
+| UTP20 | **WDR46** | 0.999 |
+| UTP20 | **NOP58** | 0.999 |
+| UTP20 | **UTP4** | 0.999 |
+| UTP20 | **NOP14** | 0.999 |
+| UTP20 | **BMS1** | 0.999 |
+| UTP20 | **WDR36** | 0.999 |
+| UTP6 | **NOP14** | 0.997 |
+| UTP6 | **NOP58** | 0.998 |
+| UTP6 | **NOP56** | 0.998 |
+| UTP6 | **DCAF13** | 0.998 |
+| UTP6 | **WDR46** | 0.999 |
+| UTP6 | **UTP14A** | 0.999 |
+| UTP6 | **UTP4** | 0.999 |
+| UTP6 | **NOL10** | 0.999 |
+| UTP6 | **BMS1** | 0.999 |
+| UTP6 | **WDR36** | 0.999 |
+| NOP58 | **DCAF13** | 0.998 |
+| NOP58 | **WDR46** | 0.998 |
+| NOP58 | **UTP14A** | 0.998 |
+| NOP58 | **NOP14** | 0.998 |
+| NOP58 | **UTP4** | 0.999 |
+| NOP58 | **NOP56** | 0.999 |
+| NOP58 | **BMS1** | 0.999 |
+| NOP58 | **WDR36** | 0.999 |
+| NOP58 | **NOL10** | 0.999 |
+| DCAF13 | **NOL10** | 0.997 |
+| DCAF13 | **NOP14** | 0.997 |
+| DCAF13 | **BMS1** | 0.998 |
+| DCAF13 | **NOP56** | 0.998 |
+| DCAF13 | **UTP14A** | 0.998 |
+| DCAF13 | **WDR36** | 0.999 |
+| DCAF13 | **UTP4** | 0.999 |
+| DCAF13 | **WDR46** | 0.999 |
+| UTP4 | **UTP14A** | 0.998 |
+| UTP4 | **NOP14** | 0.998 |
+| UTP4 | **NOP56** | 0.999 |
+| UTP4 | **WDR46** | 0.999 |
+| UTP4 | **WDR36** | 0.999 |
+| UTP4 | **BMS1** | 0.999 |
+| UTP4 | **NOL10** | 0.999 |
+| BMS1 | **UTP14A** | 0.998 |
+| BMS1 | **NOP56** | 0.999 |
+| BMS1 | **WDR46** | 0.999 |
+| BMS1 | **WDR36** | 0.999 |
+| BMS1 | **NOP14** | 0.999 |
+| BMS1 | **NOL10** | 0.999 |
+| WDR46 | **WDR36** | 0.999 |
+| WDR46 | **NOL10** | 0.999 |
+| WDR46 | **NOP14** | 0.999 |
+| WDR46 | **NOP56** | 0.999 |
+| WDR46 | **UTP14A** | 0.999 |
+| NOP56 | **NOP14** | 0.996 |
+| NOP56 | **NOL10** | 0.996 |
+| NOP56 | **UTP14A** | 0.998 |
+| NOP56 | **WDR36** | 0.999 |
+| NOL10 | **NOP14** | 0.996 |
+| NOL10 | **UTP14A** | 0.998 |
+| NOL10 | **WDR36** | 0.999 |
+| UTP14A | **NOP14** | 0.998 |
+| UTP14A | **WDR36** | 0.998 |
+| NOP14 | **WDR36** | 0.997 |
+

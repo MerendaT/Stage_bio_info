@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ARID2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ARID2
+Identifiant STRING officiel : `9606.ENSP00000335044`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SMARCC1 | **DPF3** | 0.991 |
+| SMARCC1 | **BRD7** | 0.994 |
+| SMARCC1 | **ARID2** | 0.996 |
+| SMARCC1 | **PHF10** | 0.997 |
+| SMARCC1 | **BRD9** | 0.998 |
+| SMARCC1 | **SMARCE1** | 0.999 |
+| SMARCC1 | **ARID1A** | 0.999 |
+| SMARCC1 | **ACTL6A** | 0.999 |
+| SMARCC1 | **SMARCD1** | 0.999 |
+| SMARCC1 | **SMARCA4** | 0.999 |
+| SMARCC1 | **ARID1B** | 0.999 |
+| SMARCC1 | **PBRM1** | 0.999 |
+| SMARCC1 | **SMARCC2** | 0.999 |
+| SMARCC1 | **SMARCA2** | 0.999 |
+| SMARCC1 | **SMARCB1** | 0.999 |
+| ARID1A | **BRD7** | 0.972 |
+| ARID1A | **PHF10** | 0.991 |
+| ARID1A | **DPF3** | 0.995 |
+| ARID1A | **BRD9** | 0.996 |
+| ARID1A | **ARID2** | 0.998 |
+| ARID1A | **ARID1B** | 0.999 |
+| ARID1A | **ACTL6A** | 0.999 |
+| ARID1A | **SMARCD1** | 0.999 |
+| ARID1A | **SMARCA4** | 0.999 |
+| ARID1A | **SMARCE1** | 0.999 |
+| ARID1A | **SMARCB1** | 0.999 |
+| ARID1A | **SMARCC2** | 0.999 |
+| ARID1A | **SMARCA2** | 0.999 |
+| ARID1A | **PBRM1** | 0.999 |
+| SMARCE1 | **BRD9** | 0.985 |
+| SMARCE1 | **DPF3** | 0.992 |
+| SMARCE1 | **SMARCC2** | 0.999 |
+| SMARCE1 | **SMARCA2** | 0.999 |
+| SMARCE1 | **ARID2** | 0.999 |
+| SMARCE1 | **BRD7** | 0.999 |
+| SMARCE1 | **SMARCB1** | 0.999 |
+| SMARCE1 | **PHF10** | 0.999 |
+| SMARCE1 | **PBRM1** | 0.999 |
+| SMARCE1 | **SMARCD1** | 0.999 |
+| SMARCE1 | **ACTL6A** | 0.999 |
+| SMARCE1 | **SMARCA4** | 0.999 |
+| SMARCE1 | **ARID1B** | 0.999 |
+| ARID2 | **BRD9** | 0.987 |
+| ARID2 | **DPF3** | 0.991 |
+| ARID2 | **SMARCA2** | 0.994 |
+| ARID2 | **ARID1B** | 0.997 |
+| ARID2 | **ACTL6A** | 0.997 |
+| ARID2 | **PBRM1** | 0.999 |
+| ARID2 | **PHF10** | 0.999 |
+| ARID2 | **BRD7** | 0.999 |
+| ARID2 | **SMARCB1** | 0.999 |
+| ARID2 | **SMARCC2** | 0.999 |
+| ARID2 | **SMARCA4** | 0.999 |
+| ARID2 | **SMARCD1** | 0.999 |
+| SMARCB1 | **BRD9** | 0.988 |
+| SMARCB1 | **DPF3** | 0.99 |
+| SMARCB1 | **BRD7** | 0.998 |
+| SMARCB1 | **PHF10** | 0.999 |
+| SMARCB1 | **PBRM1** | 0.999 |
+| SMARCB1 | **SMARCC2** | 0.999 |
+| SMARCB1 | **SMARCA2** | 0.999 |
+| SMARCB1 | **ACTL6A** | 0.999 |
+| SMARCB1 | **SMARCD1** | 0.999 |
+| SMARCB1 | **SMARCA4** | 0.999 |
+| SMARCB1 | **ARID1B** | 0.999 |
+| PHF10 | **BRD9** | 0.961 |
+| PHF10 | **ARID1B** | 0.969 |
+| PHF10 | **DPF3** | 0.994 |
+| PHF10 | **SMARCA2** | 0.996 |
+| PHF10 | **BRD7** | 0.999 |
+| PHF10 | **SMARCD1** | 0.999 |
+| PHF10 | **ACTL6A** | 0.999 |
+| PHF10 | **SMARCC2** | 0.999 |
+| PHF10 | **SMARCA4** | 0.999 |
+| PHF10 | **PBRM1** | 0.999 |
+| SMARCA4 | **DPF3** | 0.99 |
+| SMARCA4 | **BRD9** | 0.998 |
+| SMARCA4 | **ACTL6A** | 0.999 |
+| SMARCA4 | **SMARCD1** | 0.999 |
+| SMARCA4 | **ARID1B** | 0.999 |
+| SMARCA4 | **PBRM1** | 0.999 |
+| SMARCA4 | **SMARCC2** | 0.999 |
+| SMARCA4 | **SMARCA2** | 0.999 |
+| SMARCA4 | **BRD7** | 0.999 |
+| SMARCA2 | **BRD7** | 0.977 |
+| SMARCA2 | **DPF3** | 0.991 |
+| SMARCA2 | **BRD9** | 0.996 |
+| SMARCA2 | **SMARCC2** | 0.999 |
+| SMARCA2 | **PBRM1** | 0.999 |
+| SMARCA2 | **SMARCD1** | 0.999 |
+| SMARCA2 | **ACTL6A** | 0.999 |
+| SMARCA2 | **ARID1B** | 0.999 |
+| BRD7 | **BRD9** | 0.722 |
+| BRD7 | **ARID1B** | 0.952 |
+| BRD7 | **DPF3** | 0.984 |
+| BRD7 | **SMARCD1** | 0.999 |
+| BRD7 | **ACTL6A** | 0.999 |
+| BRD7 | **PBRM1** | 0.999 |
+| BRD7 | **SMARCC2** | 0.999 |
+| SMARCD1 | **DPF3** | 0.992 |
+| SMARCD1 | **ARID1B** | 0.998 |
+| SMARCD1 | **BRD9** | 0.998 |
+| SMARCD1 | **ACTL6A** | 0.999 |
+| SMARCD1 | **SMARCC2** | 0.999 |
+| SMARCD1 | **PBRM1** | 0.999 |
+| PBRM1 | **BRD9** | 0.968 |
+| PBRM1 | **DPF3** | 0.993 |
+| PBRM1 | **ARID1B** | 0.998 |
+| PBRM1 | **ACTL6A** | 0.999 |
+| PBRM1 | **SMARCC2** | 0.999 |
+| ACTL6A | **DPF3** | 0.991 |
+| ACTL6A | **ARID1B** | 0.995 |
+| ACTL6A | **BRD9** | 0.997 |
+| ACTL6A | **SMARCC2** | 0.999 |
+| BRD9 | **DPF3** | 0.91 |
+| BRD9 | **ARID1B** | 0.989 |
+| BRD9 | **SMARCC2** | 0.995 |
+| SMARCC2 | **DPF3** | 0.99 |
+| SMARCC2 | **ARID1B** | 0.999 |
+| DPF3 | **ARID1B** | 0.995 |
+

@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CXCR4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CXCR4
+Identifiant STRING officiel : `9606.ENSP00000386884`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CX3CL1 | **CD4** | 0.609 |
+| CX3CL1 | **ACKR3** | 0.652 |
+| CX3CL1 | **CCL19** | 0.801 |
+| CX3CL1 | **CCL2** | 0.831 |
+| CX3CL1 | **CXCL8** | 0.845 |
+| CX3CL1 | **CXCL13** | 0.86 |
+| CX3CL1 | **CXCL12** | 0.893 |
+| CX3CL1 | **CCL4** | 0.904 |
+| CX3CL1 | **CCL21** | 0.931 |
+| CX3CL1 | **CXCL1** | 0.939 |
+| CX3CL1 | **CXCL10** | 0.948 |
+| CX3CL1 | **CCL5** | 0.971 |
+| CX3CL1 | **CCR5** | 0.977 |
+| CX3CL1 | **CXCR4** | 0.995 |
+| CD4 | **CXCL1** | 0.735 |
+| CD4 | **CXCL13** | 0.818 |
+| CD4 | **CXCL12** | 0.825 |
+| CD4 | **CCL2** | 0.839 |
+| CD4 | **CXCL10** | 0.839 |
+| CD4 | **CXCL8** | 0.861 |
+| CD4 | **CCL21** | 0.881 |
+| CD4 | **CCL5** | 0.887 |
+| CD4 | **CCL19** | 0.888 |
+| CD4 | **CCL4** | 0.939 |
+| CD4 | **CCR5** | 0.999 |
+| CD4 | **ITIH4** | 0.999 |
+| CD4 | **CXCR4** | 0.999 |
+| CCL2 | **ACKR3** | 0.417 |
+| CCL2 | **ITIH4** | 0.476 |
+| CCL2 | **CCL4** | 0.787 |
+| CCL2 | **CXCL12** | 0.841 |
+| CCL2 | **CCL19** | 0.892 |
+| CCL2 | **CXCL10** | 0.965 |
+| CCL2 | **CXCL1** | 0.98 |
+| CCL2 | **CXCL13** | 0.998 |
+| CCL2 | **CXCR4** | 0.998 |
+| CCL2 | **CCL5** | 0.999 |
+| CCL2 | **CCR5** | 0.999 |
+| CCL2 | **CXCL8** | 0.999 |
+| CCL21 | **CCL4** | 0.574 |
+| CCL21 | **CXCL1** | 0.831 |
+| CCL21 | **CXCL8** | 0.879 |
+| CCL21 | **ACKR3** | 0.904 |
+| CCL21 | **CCR5** | 0.981 |
+| CCL21 | **CXCL13** | 0.991 |
+| CCL21 | **CCL19** | 0.997 |
+| CCL21 | **CXCL12** | 0.999 |
+| CCL21 | **CXCR4** | 0.999 |
+| CCL21 | **CCL5** | 0.999 |
+| CCL21 | **CXCL10** | 0.999 |
+| ITIH4 | **CXCL8** | 0.4 |
+| ITIH4 | **CXCL12** | 0.811 |
+| ITIH4 | **CCL5** | 0.827 |
+| ITIH4 | **CCL4** | 0.836 |
+| ITIH4 | **CXCR4** | 0.999 |
+| ITIH4 | **CCR5** | 0.999 |
+| ACKR3 | **CXCL13** | 0.654 |
+| ACKR3 | **CCL5** | 0.673 |
+| ACKR3 | **CXCL1** | 0.68 |
+| ACKR3 | **CXCL8** | 0.694 |
+| ACKR3 | **CCL19** | 0.699 |
+| ACKR3 | **CCR5** | 0.709 |
+| ACKR3 | **CCL4** | 0.742 |
+| ACKR3 | **CXCL10** | 0.863 |
+| ACKR3 | **CXCR4** | 0.996 |
+| ACKR3 | **CXCL12** | 0.999 |
+| CXCL13 | **CXCL8** | 0.783 |
+| CXCL13 | **CCR5** | 0.917 |
+| CXCL13 | **CXCL1** | 0.933 |
+| CXCL13 | **CCL4** | 0.949 |
+| CXCL13 | **CCL5** | 0.956 |
+| CXCL13 | **CXCL12** | 0.964 |
+| CXCL13 | **CXCL10** | 0.994 |
+| CXCL13 | **CXCR4** | 0.998 |
+| CXCL13 | **CCL19** | 0.998 |
+| CCR5 | **CXCL8** | 0.971 |
+| CCR5 | **CXCL1** | 0.974 |
+| CCR5 | **CCL19** | 0.994 |
+| CCR5 | **CXCR4** | 0.996 |
+| CCR5 | **CXCL12** | 0.998 |
+| CCR5 | **CCL5** | 0.999 |
+| CCR5 | **CCL4** | 0.999 |
+| CCR5 | **CXCL10** | 0.999 |
+| CXCL10 | **CCL19** | 0.935 |
+| CXCL10 | **CCL4** | 0.959 |
+| CXCL10 | **CXCL8** | 0.975 |
+| CXCL10 | **CXCL1** | 0.992 |
+| CXCL10 | **CXCR4** | 0.997 |
+| CXCL10 | **CCL5** | 0.999 |
+| CXCL10 | **CXCL12** | 0.999 |
+| CXCL8 | **CCL19** | 0.925 |
+| CXCL8 | **CXCL12** | 0.951 |
+| CXCL8 | **CXCL1** | 0.957 |
+| CXCL8 | **CCL5** | 0.98 |
+| CXCL8 | **CCL4** | 0.988 |
+| CXCL8 | **CXCR4** | 0.997 |
+| CCL19 | **CCL5** | 0.756 |
+| CCL19 | **CCL4** | 0.782 |
+| CCL19 | **CXCL1** | 0.888 |
+| CCL19 | **CXCL12** | 0.966 |
+| CCL19 | **CXCR4** | 0.998 |
+| CXCL1 | **CCL4** | 0.941 |
+| CXCL1 | **CXCL12** | 0.947 |
+| CXCL1 | **CCL5** | 0.958 |
+| CXCL1 | **CXCR4** | 0.998 |
+| CXCL12 | **CCL4** | 0.948 |
+| CXCL12 | **CXCR4** | 0.999 |
+| CXCL12 | **CCL5** | 0.999 |
+| CXCR4 | **CCL4** | 0.995 |
+| CXCR4 | **CCL5** | 0.998 |
+| CCL5 | **CCL4** | 0.953 |
+

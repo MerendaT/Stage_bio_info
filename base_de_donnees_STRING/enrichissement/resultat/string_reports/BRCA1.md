@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : BRCA1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BRCA1
+Identifiant STRING officiel : `9606.ENSP00000418960`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BRIP1 | **BABAM1** | 0.406 |
+| BRIP1 | **MDC1** | 0.421 |
+| BRIP1 | **TP53** | 0.645 |
+| BRIP1 | **ABRAXAS1** | 0.675 |
+| BRIP1 | **BRCC3** | 0.681 |
+| BRIP1 | **RAD50** | 0.723 |
+| BRIP1 | **ATM** | 0.933 |
+| BRIP1 | **FANCD2** | 0.997 |
+| BRIP1 | **BRCA2** | 0.998 |
+| BRIP1 | **PALB2** | 0.998 |
+| BRIP1 | **MRE11** | 0.998 |
+| BRIP1 | **BRCA1** | 0.999 |
+| BRIP1 | **BARD1** | 0.999 |
+| BRIP1 | **TOPBP1** | 0.999 |
+| TOPBP1 | **PALB2** | 0.504 |
+| TOPBP1 | **BABAM1** | 0.518 |
+| TOPBP1 | **RAD50** | 0.661 |
+| TOPBP1 | **MRE11** | 0.733 |
+| TOPBP1 | **FANCD2** | 0.765 |
+| TOPBP1 | **BRCA2** | 0.845 |
+| TOPBP1 | **TP53** | 0.949 |
+| TOPBP1 | **ATM** | 0.954 |
+| TOPBP1 | **MDC1** | 0.995 |
+| TOPBP1 | **BARD1** | 0.998 |
+| TOPBP1 | **BRCA1** | 0.999 |
+| BARD1 | **FANCD2** | 0.783 |
+| BARD1 | **ATM** | 0.946 |
+| BARD1 | **MDC1** | 0.954 |
+| BARD1 | **TP53** | 0.982 |
+| BARD1 | **PALB2** | 0.987 |
+| BARD1 | **RAD50** | 0.997 |
+| BARD1 | **BABAM1** | 0.998 |
+| BARD1 | **BRCA2** | 0.999 |
+| BARD1 | **MRE11** | 0.999 |
+| BARD1 | **ABRAXAS1** | 0.999 |
+| BARD1 | **BRCA1** | 0.999 |
+| BARD1 | **BABAM2** | 0.999 |
+| BARD1 | **BRCC3** | 0.999 |
+| PALB2 | **BABAM1** | 0.493 |
+| PALB2 | **MDC1** | 0.498 |
+| PALB2 | **BABAM2** | 0.523 |
+| PALB2 | **BRCC3** | 0.629 |
+| PALB2 | **RAD50** | 0.665 |
+| PALB2 | **ABRAXAS1** | 0.701 |
+| PALB2 | **TP53** | 0.738 |
+| PALB2 | **MRE11** | 0.87 |
+| PALB2 | **ATM** | 0.945 |
+| PALB2 | **FANCD2** | 0.991 |
+| PALB2 | **BRCA1** | 0.999 |
+| PALB2 | **BRCA2** | 0.999 |
+| TP53 | **FANCD2** | 0.632 |
+| TP53 | **BABAM2** | 0.67 |
+| TP53 | **BRCC3** | 0.692 |
+| TP53 | **RAD50** | 0.709 |
+| TP53 | **MDC1** | 0.853 |
+| TP53 | **MRE11** | 0.905 |
+| TP53 | **BRCA2** | 0.995 |
+| TP53 | **ATM** | 0.999 |
+| TP53 | **BRCA1** | 0.999 |
+| ATM | **BABAM1** | 0.682 |
+| ATM | **BRCC3** | 0.694 |
+| ATM | **BABAM2** | 0.777 |
+| ATM | **ABRAXAS1** | 0.785 |
+| ATM | **FANCD2** | 0.989 |
+| ATM | **RAD50** | 0.99 |
+| ATM | **BRCA2** | 0.995 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **MDC1** | 0.999 |
+| ATM | **MRE11** | 0.999 |
+| FANCD2 | **RAD50** | 0.42 |
+| FANCD2 | **BABAM2** | 0.516 |
+| FANCD2 | **MRE11** | 0.734 |
+| FANCD2 | **MDC1** | 0.936 |
+| FANCD2 | **BRCA1** | 0.999 |
+| FANCD2 | **BRCA2** | 0.999 |
+| MRE11 | **BRCC3** | 0.585 |
+| MRE11 | **BABAM2** | 0.593 |
+| MRE11 | **BABAM1** | 0.689 |
+| MRE11 | **ABRAXAS1** | 0.843 |
+| MRE11 | **MDC1** | 0.956 |
+| MRE11 | **BRCA2** | 0.967 |
+| MRE11 | **BRCA1** | 0.999 |
+| MRE11 | **RAD50** | 0.999 |
+| BABAM2 | **RAD50** | 0.509 |
+| BABAM2 | **MDC1** | 0.651 |
+| BABAM2 | **BRCA2** | 0.96 |
+| BABAM2 | **BRCC3** | 0.999 |
+| BABAM2 | **BABAM1** | 0.999 |
+| BABAM2 | **BRCA1** | 0.999 |
+| BABAM2 | **ABRAXAS1** | 0.999 |
+| BABAM1 | **RAD50** | 0.532 |
+| BABAM1 | **BRCA2** | 0.713 |
+| BABAM1 | **MDC1** | 0.72 |
+| BABAM1 | **ABRAXAS1** | 0.999 |
+| BABAM1 | **BRCA1** | 0.999 |
+| BABAM1 | **BRCC3** | 0.999 |
+| BRCC3 | **RAD50** | 0.578 |
+| BRCC3 | **MDC1** | 0.872 |
+| BRCC3 | **BRCA2** | 0.984 |
+| BRCC3 | **ABRAXAS1** | 0.999 |
+| BRCC3 | **BRCA1** | 0.999 |
+| MDC1 | **BRCA2** | 0.857 |
+| MDC1 | **ABRAXAS1** | 0.923 |
+| MDC1 | **RAD50** | 0.947 |
+| MDC1 | **BRCA1** | 0.999 |
+| RAD50 | **ABRAXAS1** | 0.513 |
+| RAD50 | **BRCA2** | 0.759 |
+| RAD50 | **BRCA1** | 0.999 |
+| BRCA2 | **ABRAXAS1** | 0.755 |
+| BRCA2 | **BRCA1** | 0.999 |
+| ABRAXAS1 | **BRCA1** | 0.999 |
+

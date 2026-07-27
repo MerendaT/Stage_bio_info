@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MALSU1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MALSU1
+Identifiant STRING officiel : `9606.ENSP00000419370`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPL32 | **MRM3** | 0.832 |
+| MRPL32 | **MTG1** | 0.881 |
+| MRPL32 | **NDUFAB1** | 0.985 |
+| MRPL32 | **MRPL43** | 0.989 |
+| MRPL32 | **MRPL24** | 0.99 |
+| MRPL32 | **MRPL11** | 0.992 |
+| MRPL32 | **MALSU1** | 0.996 |
+| MRPL32 | **MRPL47** | 0.998 |
+| MRPL32 | **MRPL3** | 0.998 |
+| MRPL32 | **MRPL19** | 0.999 |
+| MRPL32 | **MRPL27** | 0.999 |
+| MRPL32 | **MRPL20** | 0.999 |
+| MRPL32 | **MRPL13** | 0.999 |
+| MRPL32 | **MRPL21** | 0.999 |
+| MRPL32 | **MRPL17** | 0.999 |
+| MRPL27 | **MRM3** | 0.839 |
+| MRPL27 | **MTG1** | 0.875 |
+| MRPL27 | **NDUFAB1** | 0.962 |
+| MRPL27 | **MALSU1** | 0.991 |
+| MRPL27 | **MRPL24** | 0.996 |
+| MRPL27 | **MRPL43** | 0.997 |
+| MRPL27 | **MRPL47** | 0.998 |
+| MRPL27 | **MRPL11** | 0.998 |
+| MRPL27 | **MRPL20** | 0.999 |
+| MRPL27 | **MRPL19** | 0.999 |
+| MRPL27 | **MRPL21** | 0.999 |
+| MRPL27 | **MRPL17** | 0.999 |
+| MRPL27 | **MRPL3** | 0.999 |
+| MRPL27 | **MRPL13** | 0.999 |
+| MRPL3 | **MRM3** | 0.977 |
+| MRPL3 | **MTG1** | 0.986 |
+| MRPL3 | **NDUFAB1** | 0.989 |
+| MRPL3 | **MRPL43** | 0.991 |
+| MRPL3 | **MALSU1** | 0.992 |
+| MRPL3 | **MRPL24** | 0.997 |
+| MRPL3 | **MRPL11** | 0.997 |
+| MRPL3 | **MRPL47** | 0.998 |
+| MRPL3 | **MRPL19** | 0.999 |
+| MRPL3 | **MRPL20** | 0.999 |
+| MRPL3 | **MRPL13** | 0.999 |
+| MRPL3 | **MRPL17** | 0.999 |
+| MRPL3 | **MRPL21** | 0.999 |
+| MRPL17 | **MRM3** | 0.978 |
+| MRPL17 | **MTG1** | 0.979 |
+| MRPL17 | **NDUFAB1** | 0.992 |
+| MRPL17 | **MALSU1** | 0.993 |
+| MRPL17 | **MRPL43** | 0.994 |
+| MRPL17 | **MRPL21** | 0.999 |
+| MRPL17 | **MRPL11** | 0.999 |
+| MRPL17 | **MRPL13** | 0.999 |
+| MRPL17 | **MRPL20** | 0.999 |
+| MRPL17 | **MRPL24** | 0.999 |
+| MRPL17 | **MRPL19** | 0.999 |
+| MRPL17 | **MRPL47** | 0.999 |
+| MRM3 | **MRPL19** | 0.841 |
+| MRM3 | **MRPL20** | 0.854 |
+| MRM3 | **MTG1** | 0.956 |
+| MRM3 | **NDUFAB1** | 0.965 |
+| MRM3 | **MRPL43** | 0.972 |
+| MRM3 | **MRPL24** | 0.974 |
+| MRM3 | **MRPL21** | 0.975 |
+| MRM3 | **MRPL11** | 0.979 |
+| MRM3 | **MRPL13** | 0.981 |
+| MRM3 | **MRPL47** | 0.991 |
+| MRM3 | **MALSU1** | 0.997 |
+| MRPL13 | **MTG1** | 0.98 |
+| MRPL13 | **MALSU1** | 0.991 |
+| MRPL13 | **NDUFAB1** | 0.991 |
+| MRPL13 | **MRPL43** | 0.998 |
+| MRPL13 | **MRPL47** | 0.999 |
+| MRPL13 | **MRPL19** | 0.999 |
+| MRPL13 | **MRPL24** | 0.999 |
+| MRPL13 | **MRPL20** | 0.999 |
+| MRPL13 | **MRPL11** | 0.999 |
+| MRPL13 | **MRPL21** | 0.999 |
+| MRPL11 | **MTG1** | 0.985 |
+| MRPL11 | **NDUFAB1** | 0.988 |
+| MRPL11 | **MALSU1** | 0.992 |
+| MRPL11 | **MRPL43** | 0.996 |
+| MRPL11 | **MRPL24** | 0.998 |
+| MRPL11 | **MRPL20** | 0.998 |
+| MRPL11 | **MRPL47** | 0.998 |
+| MRPL11 | **MRPL21** | 0.999 |
+| MRPL11 | **MRPL19** | 0.999 |
+| MTG1 | **MRPL20** | 0.882 |
+| MTG1 | **MRPL19** | 0.884 |
+| MTG1 | **NDUFAB1** | 0.953 |
+| MTG1 | **MRPL43** | 0.98 |
+| MTG1 | **MRPL21** | 0.98 |
+| MTG1 | **MRPL24** | 0.981 |
+| MTG1 | **MRPL47** | 0.988 |
+| MTG1 | **MALSU1** | 0.997 |
+| MRPL43 | **NDUFAB1** | 0.987 |
+| MRPL43 | **MRPL24** | 0.993 |
+| MRPL43 | **MRPL19** | 0.995 |
+| MRPL43 | **MALSU1** | 0.995 |
+| MRPL43 | **MRPL21** | 0.998 |
+| MRPL43 | **MRPL47** | 0.998 |
+| MRPL43 | **MRPL20** | 0.998 |
+| MRPL20 | **NDUFAB1** | 0.985 |
+| MRPL20 | **MALSU1** | 0.994 |
+| MRPL20 | **MRPL24** | 0.995 |
+| MRPL20 | **MRPL47** | 0.999 |
+| MRPL20 | **MRPL19** | 0.999 |
+| MRPL20 | **MRPL21** | 0.999 |
+| MRPL24 | **NDUFAB1** | 0.987 |
+| MRPL24 | **MALSU1** | 0.992 |
+| MRPL24 | **MRPL19** | 0.997 |
+| MRPL24 | **MRPL47** | 0.998 |
+| MRPL24 | **MRPL21** | 0.999 |
+| MRPL21 | **MALSU1** | 0.995 |
+| MRPL21 | **NDUFAB1** | 0.998 |
+| MRPL21 | **MRPL47** | 0.999 |
+| MRPL21 | **MRPL19** | 0.999 |
+| MRPL19 | **NDUFAB1** | 0.967 |
+| MRPL19 | **MALSU1** | 0.997 |
+| MRPL19 | **MRPL47** | 0.999 |
+| MRPL47 | **NDUFAB1** | 0.986 |
+| MRPL47 | **MALSU1** | 0.996 |
+| MALSU1 | **NDUFAB1** | 0.991 |
+

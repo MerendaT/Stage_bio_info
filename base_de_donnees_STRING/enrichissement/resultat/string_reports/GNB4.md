@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : GNB4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : GNB4
+Identifiant STRING officiel : `9606.ENSP00000232564`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GNB4 | **GNAI1** | 0.99 |
+| GNB4 | **GNAS** | 0.992 |
+| GNB4 | **PDCL** | 0.997 |
+| GNB4 | **GNG8** | 0.998 |
+| GNB4 | **GNG3** | 0.998 |
+| GNB4 | **GNG4** | 0.999 |
+| GNB4 | **GNG13** | 0.999 |
+| GNB4 | **GNGT1** | 0.999 |
+| GNB4 | **GNG11** | 0.999 |
+| GNB4 | **GNG5** | 0.999 |
+| GNB4 | **GNG2** | 0.999 |
+| GNB4 | **GNG10** | 0.999 |
+| GNB4 | **GNG7** | 0.999 |
+| GNB4 | **GNGT2** | 0.999 |
+| GNB4 | **GNG12** | 0.999 |
+| GNG13 | **PDCL** | 0.543 |
+| GNG13 | **GNG5** | 0.71 |
+| GNG13 | **GNG8** | 0.756 |
+| GNG13 | **GNG11** | 0.764 |
+| GNG13 | **GNAI1** | 0.822 |
+| GNG13 | **GNG2** | 0.849 |
+| GNG13 | **GNG4** | 0.863 |
+| GNG13 | **GNG10** | 0.88 |
+| GNG13 | **GNG12** | 0.887 |
+| GNG13 | **GNGT1** | 0.888 |
+| GNG13 | **GNGT2** | 0.894 |
+| GNG13 | **GNG7** | 0.946 |
+| GNG13 | **GNG3** | 0.946 |
+| GNG13 | **GNAS** | 0.971 |
+| GNG11 | **GNGT1** | 0.546 |
+| GNG11 | **GNGT2** | 0.581 |
+| GNG11 | **GNG7** | 0.598 |
+| GNG11 | **PDCL** | 0.668 |
+| GNG11 | **GNG8** | 0.7 |
+| GNG11 | **GNG12** | 0.759 |
+| GNG11 | **GNG3** | 0.809 |
+| GNG11 | **GNG5** | 0.836 |
+| GNG11 | **GNG2** | 0.837 |
+| GNG11 | **GNAI1** | 0.848 |
+| GNG11 | **GNAS** | 0.95 |
+| GNG11 | **GNG4** | 0.986 |
+| GNG11 | **GNG10** | 0.991 |
+| GNGT1 | **GNG12** | 0.6 |
+| GNGT1 | **GNGT2** | 0.6 |
+| GNGT1 | **GNG2** | 0.607 |
+| GNGT1 | **GNG8** | 0.657 |
+| GNGT1 | **GNG10** | 0.659 |
+| GNGT1 | **GNG5** | 0.724 |
+| GNGT1 | **GNG3** | 0.751 |
+| GNGT1 | **GNG7** | 0.755 |
+| GNGT1 | **PDCL** | 0.913 |
+| GNGT1 | **GNG4** | 0.93 |
+| GNGT1 | **GNAS** | 0.971 |
+| GNGT1 | **GNAI1** | 0.984 |
+| PDCL | **GNG8** | 0.543 |
+| PDCL | **GNG7** | 0.564 |
+| PDCL | **GNG10** | 0.6 |
+| PDCL | **GNG2** | 0.608 |
+| PDCL | **GNG12** | 0.61 |
+| PDCL | **GNGT2** | 0.611 |
+| PDCL | **GNG3** | 0.666 |
+| PDCL | **GNG4** | 0.668 |
+| PDCL | **GNG5** | 0.684 |
+| GNG3 | **GNG5** | 0.56 |
+| GNG3 | **GNG8** | 0.561 |
+| GNG3 | **GNG10** | 0.573 |
+| GNG3 | **GNG4** | 0.589 |
+| GNG3 | **GNG12** | 0.607 |
+| GNG3 | **GNGT2** | 0.621 |
+| GNG3 | **GNG2** | 0.705 |
+| GNG3 | **GNG7** | 0.711 |
+| GNG3 | **GNAI1** | 0.938 |
+| GNG3 | **GNAS** | 0.967 |
+| GNG8 | **GNG2** | 0.543 |
+| GNG8 | **GNG12** | 0.545 |
+| GNG8 | **GNG4** | 0.546 |
+| GNG8 | **GNG5** | 0.553 |
+| GNG8 | **GNG10** | 0.553 |
+| GNG8 | **GNG7** | 0.558 |
+| GNG8 | **GNGT2** | 0.764 |
+| GNG8 | **GNAI1** | 0.806 |
+| GNG8 | **GNAS** | 0.951 |
+| GNG2 | **GNG4** | 0.553 |
+| GNG2 | **GNG5** | 0.57 |
+| GNG2 | **GNG7** | 0.573 |
+| GNG2 | **GNG10** | 0.575 |
+| GNG2 | **GNG12** | 0.575 |
+| GNG2 | **GNGT2** | 0.622 |
+| GNG2 | **GNAS** | 0.997 |
+| GNG2 | **GNAI1** | 0.998 |
+| GNG5 | **GNG7** | 0.551 |
+| GNG5 | **GNG4** | 0.563 |
+| GNG5 | **GNG12** | 0.661 |
+| GNG5 | **GNG10** | 0.712 |
+| GNG5 | **GNGT2** | 0.734 |
+| GNG5 | **GNAI1** | 0.926 |
+| GNG5 | **GNAS** | 0.978 |
+| GNG12 | **GNG7** | 0.549 |
+| GNG12 | **GNG4** | 0.574 |
+| GNG12 | **GNG10** | 0.726 |
+| GNG12 | **GNGT2** | 0.726 |
+| GNG12 | **GNAI1** | 0.883 |
+| GNG12 | **GNAS** | 0.95 |
+| GNAS | **GNAI1** | 0.728 |
+| GNAS | **GNGT2** | 0.949 |
+| GNAS | **GNG7** | 0.964 |
+| GNAS | **GNG10** | 0.965 |
+| GNAS | **GNG4** | 0.98 |
+| GNG10 | **GNG7** | 0.55 |
+| GNG10 | **GNG4** | 0.579 |
+| GNG10 | **GNGT2** | 0.728 |
+| GNG10 | **GNAI1** | 0.912 |
+| GNG7 | **GNGT2** | 0.616 |
+| GNG7 | **GNG4** | 0.674 |
+| GNG7 | **GNAI1** | 0.973 |
+| GNG4 | **GNGT2** | 0.94 |
+| GNG4 | **GNAI1** | 0.972 |
+| GNGT2 | **GNAI1** | 0.818 |
+

@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DNMT3A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DNMT3A
+Identifiant STRING officiel : `9606.ENSP00000264709`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| H3-3B | **H3-5** | 0.81 |
+| H3-3B | **H3-2** | 0.882 |
+| H3-3B | **H3-4** | 0.909 |
+| H3-3B | **H3C12** | 0.916 |
+| H3-3B | **H3C13** | 0.954 |
+| H3-3B | **DNMT3B** | 0.971 |
+| H3-3B | **SUV39H1** | 0.973 |
+| H3-3B | **MPHOSPH8** | 0.981 |
+| H3-3B | **SETDB1** | 0.982 |
+| H3-3B | **HDAC1** | 0.986 |
+| H3-3B | **DNMT1** | 0.987 |
+| H3-3B | **EZH2** | 0.99 |
+| H3-3B | **EHMT2** | 0.998 |
+| H3-3B | **DNMT3L** | 0.999 |
+| H3-3B | **DNMT3A** | 0.999 |
+| DNMT3A | **EHMT2** | 0.993 |
+| DNMT3A | **MPHOSPH8** | 0.993 |
+| DNMT3A | **SUV39H1** | 0.996 |
+| DNMT3A | **SETDB1** | 0.996 |
+| DNMT3A | **HDAC1** | 0.997 |
+| DNMT3A | **H3-4** | 0.998 |
+| DNMT3A | **H3-2** | 0.998 |
+| DNMT3A | **H3-5** | 0.998 |
+| DNMT3A | **DNMT3B** | 0.998 |
+| DNMT3A | **EZH2** | 0.999 |
+| DNMT3A | **H3C12** | 0.999 |
+| DNMT3A | **H3C13** | 0.999 |
+| DNMT3A | **DNMT1** | 0.999 |
+| DNMT3A | **DNMT3L** | 0.999 |
+| DNMT3L | **SETDB1** | 0.543 |
+| DNMT3L | **SUV39H1** | 0.632 |
+| DNMT3L | **EHMT2** | 0.768 |
+| DNMT3L | **EZH2** | 0.892 |
+| DNMT3L | **DNMT1** | 0.921 |
+| DNMT3L | **HDAC1** | 0.989 |
+| DNMT3L | **H3-5** | 0.998 |
+| DNMT3L | **H3-2** | 0.998 |
+| DNMT3L | **H3-4** | 0.998 |
+| DNMT3L | **DNMT3B** | 0.999 |
+| DNMT3L | **H3C12** | 0.999 |
+| DNMT3L | **H3C13** | 0.999 |
+| SETDB1 | **EZH2** | 0.667 |
+| SETDB1 | **MPHOSPH8** | 0.918 |
+| SETDB1 | **DNMT1** | 0.962 |
+| SETDB1 | **EHMT2** | 0.965 |
+| SETDB1 | **H3-4** | 0.982 |
+| SETDB1 | **H3-2** | 0.982 |
+| SETDB1 | **H3-5** | 0.982 |
+| SETDB1 | **DNMT3B** | 0.985 |
+| SETDB1 | **H3C12** | 0.988 |
+| SETDB1 | **SUV39H1** | 0.988 |
+| SETDB1 | **H3C13** | 0.992 |
+| SETDB1 | **HDAC1** | 0.992 |
+| EZH2 | **MPHOSPH8** | 0.471 |
+| EZH2 | **EHMT2** | 0.953 |
+| EZH2 | **SUV39H1** | 0.957 |
+| EZH2 | **H3-2** | 0.972 |
+| EZH2 | **H3-5** | 0.972 |
+| EZH2 | **H3C12** | 0.985 |
+| EZH2 | **H3-4** | 0.989 |
+| EZH2 | **H3C13** | 0.998 |
+| EZH2 | **DNMT1** | 0.999 |
+| EZH2 | **HDAC1** | 0.999 |
+| EZH2 | **DNMT3B** | 0.999 |
+| DNMT3B | **MPHOSPH8** | 0.525 |
+| DNMT3B | **EHMT2** | 0.933 |
+| DNMT3B | **H3-5** | 0.943 |
+| DNMT3B | **SUV39H1** | 0.99 |
+| DNMT3B | **H3-2** | 0.994 |
+| DNMT3B | **H3-4** | 0.994 |
+| DNMT3B | **H3C13** | 0.996 |
+| DNMT3B | **H3C12** | 0.997 |
+| DNMT3B | **DNMT1** | 0.999 |
+| DNMT3B | **HDAC1** | 0.999 |
+| H3C13 | **H3-5** | 0.871 |
+| H3C13 | **H3-2** | 0.903 |
+| H3C13 | **H3-4** | 0.926 |
+| H3C13 | **SUV39H1** | 0.973 |
+| H3C13 | **MPHOSPH8** | 0.981 |
+| H3C13 | **HDAC1** | 0.984 |
+| H3C13 | **H3C12** | 0.988 |
+| H3C13 | **DNMT1** | 0.998 |
+| H3C13 | **EHMT2** | 0.998 |
+| SUV39H1 | **MPHOSPH8** | 0.619 |
+| SUV39H1 | **H3-4** | 0.93 |
+| SUV39H1 | **H3-5** | 0.931 |
+| SUV39H1 | **H3-2** | 0.937 |
+| SUV39H1 | **H3C12** | 0.973 |
+| SUV39H1 | **EHMT2** | 0.978 |
+| SUV39H1 | **HDAC1** | 0.994 |
+| SUV39H1 | **DNMT1** | 0.998 |
+| H3-5 | **H3-4** | 0.856 |
+| H3-5 | **H3C12** | 0.856 |
+| H3-5 | **H3-2** | 0.871 |
+| H3-5 | **HDAC1** | 0.967 |
+| H3-5 | **DNMT1** | 0.975 |
+| H3-5 | **MPHOSPH8** | 0.981 |
+| H3-5 | **EHMT2** | 0.995 |
+| H3C12 | **H3-4** | 0.927 |
+| H3C12 | **H3-2** | 0.944 |
+| H3C12 | **MPHOSPH8** | 0.986 |
+| H3C12 | **HDAC1** | 0.986 |
+| H3C12 | **DNMT1** | 0.998 |
+| H3C12 | **EHMT2** | 0.998 |
+| DNMT1 | **H3-4** | 0.987 |
+| DNMT1 | **H3-2** | 0.997 |
+| DNMT1 | **EHMT2** | 0.998 |
+| DNMT1 | **HDAC1** | 0.999 |
+| MPHOSPH8 | **HDAC1** | 0.415 |
+| MPHOSPH8 | **EHMT2** | 0.696 |
+| MPHOSPH8 | **H3-4** | 0.98 |
+| MPHOSPH8 | **H3-2** | 0.981 |
+| H3-4 | **H3-2** | 0.865 |
+| H3-4 | **HDAC1** | 0.976 |
+| H3-4 | **EHMT2** | 0.996 |
+| HDAC1 | **H3-2** | 0.969 |
+| HDAC1 | **EHMT2** | 0.999 |
+| EHMT2 | **H3-2** | 0.995 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : TPX2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TPX2
+Identifiant STRING officiel : `9606.ENSP00000300403`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AURKA | **NUSAP1** | 0.843 |
+| AURKA | **MKI67** | 0.85 |
+| AURKA | **KIF4A** | 0.885 |
+| AURKA | **CENPF** | 0.902 |
+| AURKA | **PRC1** | 0.91 |
+| AURKA | **MELK** | 0.913 |
+| AURKA | **KIF20A** | 0.936 |
+| AURKA | **DLGAP5** | 0.966 |
+| AURKA | **HMMR** | 0.97 |
+| AURKA | **BUB1** | 0.971 |
+| AURKA | **KIF11** | 0.972 |
+| AURKA | **KIF2C** | 0.975 |
+| AURKA | **UBE2C** | 0.986 |
+| AURKA | **CDC20** | 0.995 |
+| AURKA | **TPX2** | 0.999 |
+| DLGAP5 | **PRC1** | 0.892 |
+| DLGAP5 | **MKI67** | 0.902 |
+| DLGAP5 | **KIF4A** | 0.962 |
+| DLGAP5 | **NUSAP1** | 0.965 |
+| DLGAP5 | **UBE2C** | 0.968 |
+| DLGAP5 | **KIF20A** | 0.97 |
+| DLGAP5 | **KIF2C** | 0.975 |
+| DLGAP5 | **CENPF** | 0.976 |
+| DLGAP5 | **TPX2** | 0.978 |
+| DLGAP5 | **CDC20** | 0.981 |
+| DLGAP5 | **MELK** | 0.982 |
+| DLGAP5 | **BUB1** | 0.986 |
+| DLGAP5 | **KIF11** | 0.997 |
+| DLGAP5 | **HMMR** | 0.999 |
+| KIF11 | **UBE2C** | 0.916 |
+| KIF11 | **HMMR** | 0.928 |
+| KIF11 | **MKI67** | 0.931 |
+| KIF11 | **MELK** | 0.941 |
+| KIF11 | **KIF4A** | 0.952 |
+| KIF11 | **TPX2** | 0.965 |
+| KIF11 | **KIF2C** | 0.968 |
+| KIF11 | **PRC1** | 0.972 |
+| KIF11 | **CENPF** | 0.972 |
+| KIF11 | **NUSAP1** | 0.974 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **BUB1** | 0.985 |
+| KIF11 | **CDC20** | 0.987 |
+| MELK | **HMMR** | 0.884 |
+| MELK | **PRC1** | 0.893 |
+| MELK | **MKI67** | 0.911 |
+| MELK | **CENPF** | 0.919 |
+| MELK | **KIF20A** | 0.929 |
+| MELK | **NUSAP1** | 0.93 |
+| MELK | **KIF2C** | 0.935 |
+| MELK | **UBE2C** | 0.948 |
+| MELK | **TPX2** | 0.958 |
+| MELK | **KIF4A** | 0.964 |
+| MELK | **CDC20** | 0.964 |
+| MELK | **BUB1** | 0.984 |
+| TPX2 | **CENPF** | 0.954 |
+| TPX2 | **MKI67** | 0.954 |
+| TPX2 | **BUB1** | 0.958 |
+| TPX2 | **CDC20** | 0.961 |
+| TPX2 | **NUSAP1** | 0.964 |
+| TPX2 | **KIF4A** | 0.965 |
+| TPX2 | **UBE2C** | 0.965 |
+| TPX2 | **KIF20A** | 0.972 |
+| TPX2 | **HMMR** | 0.979 |
+| TPX2 | **PRC1** | 0.999 |
+| TPX2 | **KIF2C** | 0.999 |
+| BUB1 | **PRC1** | 0.757 |
+| BUB1 | **HMMR** | 0.909 |
+| BUB1 | **NUSAP1** | 0.937 |
+| BUB1 | **KIF4A** | 0.952 |
+| BUB1 | **UBE2C** | 0.954 |
+| BUB1 | **KIF20A** | 0.959 |
+| BUB1 | **MKI67** | 0.963 |
+| BUB1 | **CENPF** | 0.987 |
+| BUB1 | **KIF2C** | 0.994 |
+| BUB1 | **CDC20** | 0.999 |
+| UBE2C | **PRC1** | 0.827 |
+| UBE2C | **HMMR** | 0.896 |
+| UBE2C | **KIF4A** | 0.905 |
+| UBE2C | **MKI67** | 0.916 |
+| UBE2C | **CENPF** | 0.94 |
+| UBE2C | **KIF2C** | 0.954 |
+| UBE2C | **KIF20A** | 0.961 |
+| UBE2C | **NUSAP1** | 0.964 |
+| UBE2C | **CDC20** | 0.999 |
+| CENPF | **KIF4A** | 0.879 |
+| CENPF | **HMMR** | 0.927 |
+| CENPF | **PRC1** | 0.937 |
+| CENPF | **NUSAP1** | 0.944 |
+| CENPF | **KIF20A** | 0.96 |
+| CENPF | **MKI67** | 0.979 |
+| CENPF | **KIF2C** | 0.985 |
+| CENPF | **CDC20** | 0.99 |
+| MKI67 | **KIF4A** | 0.871 |
+| MKI67 | **PRC1** | 0.873 |
+| MKI67 | **KIF2C** | 0.892 |
+| MKI67 | **HMMR** | 0.896 |
+| MKI67 | **KIF20A** | 0.925 |
+| MKI67 | **CDC20** | 0.934 |
+| MKI67 | **NUSAP1** | 0.943 |
+| KIF2C | **HMMR** | 0.868 |
+| KIF2C | **NUSAP1** | 0.943 |
+| KIF2C | **PRC1** | 0.944 |
+| KIF2C | **KIF4A** | 0.947 |
+| KIF2C | **KIF20A** | 0.973 |
+| KIF2C | **CDC20** | 0.995 |
+| CDC20 | **HMMR** | 0.882 |
+| CDC20 | **KIF4A** | 0.941 |
+| CDC20 | **NUSAP1** | 0.946 |
+| CDC20 | **PRC1** | 0.947 |
+| CDC20 | **KIF20A** | 0.981 |
+| KIF4A | **HMMR** | 0.877 |
+| KIF4A | **NUSAP1** | 0.924 |
+| KIF4A | **KIF20A** | 0.992 |
+| KIF4A | **PRC1** | 0.995 |
+| HMMR | **PRC1** | 0.833 |
+| HMMR | **NUSAP1** | 0.896 |
+| HMMR | **KIF20A** | 0.909 |
+| PRC1 | **NUSAP1** | 0.936 |
+| PRC1 | **KIF20A** | 0.937 |
+| KIF20A | **NUSAP1** | 0.956 |
+

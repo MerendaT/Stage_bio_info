@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CRY1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CRY1
+Identifiant STRING officiel : `9606.ENSP00000008527`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CRY1 | **NR1D2** | 0.967 |
+| CRY1 | **BHLHE40** | 0.969 |
+| CRY1 | **NR1D1** | 0.976 |
+| CRY1 | **BHLHE41** | 0.978 |
+| CRY1 | **CSNK1D** | 0.993 |
+| CRY1 | **TIMELESS** | 0.997 |
+| CRY1 | **PER1** | 0.998 |
+| CRY1 | **NPAS2** | 0.999 |
+| CRY1 | **CRY2** | 0.999 |
+| CRY1 | **CLOCK** | 0.999 |
+| CRY1 | **ARNTL** | 0.999 |
+| CRY1 | **FBXL3** | 0.999 |
+| CRY1 | **CSNK1E** | 0.999 |
+| CRY1 | **PER2** | 0.999 |
+| CRY1 | **PER3** | 0.999 |
+| BHLHE41 | **FBXL3** | 0.414 |
+| BHLHE41 | **CSNK1D** | 0.589 |
+| BHLHE41 | **PER1** | 0.719 |
+| BHLHE41 | **TIMELESS** | 0.744 |
+| BHLHE41 | **CSNK1E** | 0.878 |
+| BHLHE41 | **NR1D2** | 0.92 |
+| BHLHE41 | **NR1D1** | 0.94 |
+| BHLHE41 | **CRY2** | 0.948 |
+| BHLHE41 | **PER3** | 0.96 |
+| BHLHE41 | **CLOCK** | 0.969 |
+| BHLHE41 | **NPAS2** | 0.969 |
+| BHLHE41 | **BHLHE40** | 0.971 |
+| BHLHE41 | **ARNTL** | 0.989 |
+| BHLHE41 | **PER2** | 0.999 |
+| NR1D1 | **FBXL3** | 0.66 |
+| NR1D1 | **CSNK1D** | 0.667 |
+| NR1D1 | **NR1D2** | 0.674 |
+| NR1D1 | **PER1** | 0.762 |
+| NR1D1 | **TIMELESS** | 0.8 |
+| NR1D1 | **CSNK1E** | 0.828 |
+| NR1D1 | **BHLHE40** | 0.929 |
+| NR1D1 | **CRY2** | 0.949 |
+| NR1D1 | **CLOCK** | 0.975 |
+| NR1D1 | **PER3** | 0.978 |
+| NR1D1 | **NPAS2** | 0.985 |
+| NR1D1 | **ARNTL** | 0.989 |
+| NR1D1 | **PER2** | 0.998 |
+| PER2 | **FBXL3** | 0.917 |
+| PER2 | **TIMELESS** | 0.949 |
+| PER2 | **BHLHE40** | 0.955 |
+| PER2 | **NR1D2** | 0.97 |
+| PER2 | **NPAS2** | 0.988 |
+| PER2 | **CLOCK** | 0.991 |
+| PER2 | **CSNK1D** | 0.996 |
+| PER2 | **PER1** | 0.997 |
+| PER2 | **ARNTL** | 0.997 |
+| PER2 | **PER3** | 0.998 |
+| PER2 | **CSNK1E** | 0.999 |
+| PER2 | **CRY2** | 0.999 |
+| BHLHE40 | **FBXL3** | 0.418 |
+| BHLHE40 | **PER1** | 0.642 |
+| BHLHE40 | **CSNK1D** | 0.682 |
+| BHLHE40 | **TIMELESS** | 0.708 |
+| BHLHE40 | **CSNK1E** | 0.865 |
+| BHLHE40 | **CRY2** | 0.882 |
+| BHLHE40 | **NR1D2** | 0.913 |
+| BHLHE40 | **PER3** | 0.93 |
+| BHLHE40 | **CLOCK** | 0.939 |
+| BHLHE40 | **NPAS2** | 0.972 |
+| BHLHE40 | **ARNTL** | 0.985 |
+| NR1D2 | **CSNK1D** | 0.537 |
+| NR1D2 | **FBXL3** | 0.663 |
+| NR1D2 | **PER1** | 0.702 |
+| NR1D2 | **TIMELESS** | 0.751 |
+| NR1D2 | **CSNK1E** | 0.817 |
+| NR1D2 | **CRY2** | 0.901 |
+| NR1D2 | **NPAS2** | 0.947 |
+| NR1D2 | **CLOCK** | 0.95 |
+| NR1D2 | **ARNTL** | 0.959 |
+| NR1D2 | **PER3** | 0.969 |
+| PER1 | **FBXL3** | 0.654 |
+| PER1 | **TIMELESS** | 0.888 |
+| PER1 | **NPAS2** | 0.91 |
+| PER1 | **CLOCK** | 0.913 |
+| PER1 | **CSNK1D** | 0.984 |
+| PER1 | **ARNTL** | 0.985 |
+| PER1 | **CSNK1E** | 0.996 |
+| PER1 | **PER3** | 0.997 |
+| PER1 | **CRY2** | 0.998 |
+| NPAS2 | **FBXL3** | 0.798 |
+| NPAS2 | **TIMELESS** | 0.896 |
+| NPAS2 | **PER3** | 0.911 |
+| NPAS2 | **CSNK1D** | 0.968 |
+| NPAS2 | **CSNK1E** | 0.989 |
+| NPAS2 | **CRY2** | 0.998 |
+| NPAS2 | **CLOCK** | 0.998 |
+| NPAS2 | **ARNTL** | 0.999 |
+| FBXL3 | **TIMELESS** | 0.488 |
+| FBXL3 | **PER3** | 0.665 |
+| FBXL3 | **CSNK1D** | 0.813 |
+| FBXL3 | **CSNK1E** | 0.876 |
+| FBXL3 | **ARNTL** | 0.921 |
+| FBXL3 | **CLOCK** | 0.931 |
+| FBXL3 | **CRY2** | 0.999 |
+| CSNK1E | **TIMELESS** | 0.844 |
+| CSNK1E | **CSNK1D** | 0.989 |
+| CSNK1E | **PER3** | 0.994 |
+| CSNK1E | **CLOCK** | 0.994 |
+| CSNK1E | **ARNTL** | 0.997 |
+| CSNK1E | **CRY2** | 0.997 |
+| CSNK1D | **TIMELESS** | 0.603 |
+| CSNK1D | **CLOCK** | 0.97 |
+| CSNK1D | **ARNTL** | 0.975 |
+| CSNK1D | **CRY2** | 0.984 |
+| CSNK1D | **PER3** | 0.988 |
+| ARNTL | **TIMELESS** | 0.906 |
+| ARNTL | **PER3** | 0.98 |
+| ARNTL | **CLOCK** | 0.999 |
+| ARNTL | **CRY2** | 0.999 |
+| CLOCK | **PER3** | 0.866 |
+| CLOCK | **TIMELESS** | 0.954 |
+| CLOCK | **CRY2** | 0.999 |
+| TIMELESS | **PER3** | 0.957 |
+| TIMELESS | **CRY2** | 0.996 |
+| CRY2 | **PER3** | 0.999 |
+

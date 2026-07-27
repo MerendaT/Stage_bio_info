@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : COA6
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : COA6
+Identifiant STRING officiel : `9606.ENSP00000355574`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| COX6A1 | **SCO1** | 0.456 |
+| COX6A1 | **COA6** | 0.918 |
+| COX6A1 | **UQCRC2** | 0.98 |
+| COX6A1 | **CYC1** | 0.985 |
+| COX6A1 | **UQCRFS1** | 0.986 |
+| COX6A1 | **UQCR10** | 0.995 |
+| COX6A1 | **UQCRQ** | 0.996 |
+| COX6A1 | **UQCRB** | 0.997 |
+| COX6A1 | **COX5B** | 0.999 |
+| COX6A1 | **COX6C** | 0.999 |
+| COX6A1 | **MT-CO2** | 0.999 |
+| COX6A1 | **COX4I1** | 0.999 |
+| COX6A1 | **COX7C** | 0.999 |
+| COX6A1 | **MT-CO3** | 0.999 |
+| COX6A1 | **COX5A** | 0.999 |
+| SCO1 | **COX7C** | 0.434 |
+| SCO1 | **COX6C** | 0.441 |
+| SCO1 | **UQCRC2** | 0.442 |
+| SCO1 | **COX4I1** | 0.513 |
+| SCO1 | **COX5B** | 0.546 |
+| SCO1 | **COX5A** | 0.635 |
+| SCO1 | **CYC1** | 0.673 |
+| SCO1 | **UQCRFS1** | 0.879 |
+| SCO1 | **COA6** | 0.946 |
+| SCO1 | **MT-CO3** | 0.967 |
+| SCO1 | **MT-CO2** | 0.996 |
+| COX5B | **COA6** | 0.947 |
+| COX5B | **COX7C** | 0.999 |
+| COX5B | **UQCR10** | 0.999 |
+| COX5B | **MT-CO3** | 0.999 |
+| COX5B | **UQCRFS1** | 0.999 |
+| COX5B | **UQCRC2** | 0.999 |
+| COX5B | **CYC1** | 0.999 |
+| COX5B | **COX4I1** | 0.999 |
+| COX5B | **MT-CO2** | 0.999 |
+| COX5B | **COX6C** | 0.999 |
+| COX5B | **UQCRB** | 0.999 |
+| COX5B | **UQCRQ** | 0.999 |
+| COX5B | **COX5A** | 0.999 |
+| UQCRC2 | **COA6** | 0.93 |
+| UQCRC2 | **COX6C** | 0.967 |
+| UQCRC2 | **UQCRFS1** | 0.999 |
+| UQCRC2 | **CYC1** | 0.999 |
+| UQCRC2 | **COX4I1** | 0.999 |
+| UQCRC2 | **MT-CO2** | 0.999 |
+| UQCRC2 | **COX7C** | 0.999 |
+| UQCRC2 | **MT-CO3** | 0.999 |
+| UQCRC2 | **UQCR10** | 0.999 |
+| UQCRC2 | **UQCRQ** | 0.999 |
+| UQCRC2 | **COX5A** | 0.999 |
+| UQCRC2 | **UQCRB** | 0.999 |
+| UQCRFS1 | **COA6** | 0.949 |
+| UQCRFS1 | **COX6C** | 0.978 |
+| UQCRFS1 | **COX5A** | 0.999 |
+| UQCRFS1 | **UQCRQ** | 0.999 |
+| UQCRFS1 | **UQCRB** | 0.999 |
+| UQCRFS1 | **MT-CO2** | 0.999 |
+| UQCRFS1 | **CYC1** | 0.999 |
+| UQCRFS1 | **COX4I1** | 0.999 |
+| UQCRFS1 | **MT-CO3** | 0.999 |
+| UQCRFS1 | **UQCR10** | 0.999 |
+| UQCRFS1 | **COX7C** | 0.999 |
+| CYC1 | **COA6** | 0.949 |
+| CYC1 | **COX6C** | 0.962 |
+| CYC1 | **COX7C** | 0.997 |
+| CYC1 | **MT-CO2** | 0.998 |
+| CYC1 | **UQCR10** | 0.999 |
+| CYC1 | **MT-CO3** | 0.999 |
+| CYC1 | **COX4I1** | 0.999 |
+| CYC1 | **UQCRB** | 0.999 |
+| CYC1 | **UQCRQ** | 0.999 |
+| CYC1 | **COX5A** | 0.999 |
+| COX5A | **COA6** | 0.983 |
+| COX5A | **COX6C** | 0.999 |
+| COX5A | **MT-CO2** | 0.999 |
+| COX5A | **COX4I1** | 0.999 |
+| COX5A | **COX7C** | 0.999 |
+| COX5A | **MT-CO3** | 0.999 |
+| COX5A | **UQCR10** | 0.999 |
+| COX5A | **UQCRQ** | 0.999 |
+| COX5A | **UQCRB** | 0.999 |
+| UQCR10 | **COA6** | 0.963 |
+| UQCR10 | **MT-CO2** | 0.986 |
+| UQCR10 | **MT-CO3** | 0.996 |
+| UQCR10 | **COX4I1** | 0.996 |
+| UQCR10 | **COX6C** | 0.997 |
+| UQCR10 | **COX7C** | 0.999 |
+| UQCR10 | **UQCRB** | 0.999 |
+| UQCR10 | **UQCRQ** | 0.999 |
+| MT-CO2 | **COA6** | 0.97 |
+| MT-CO2 | **UQCRQ** | 0.99 |
+| MT-CO2 | **UQCRB** | 0.992 |
+| MT-CO2 | **COX7C** | 0.999 |
+| MT-CO2 | **MT-CO3** | 0.999 |
+| MT-CO2 | **COX6C** | 0.999 |
+| MT-CO2 | **COX4I1** | 0.999 |
+| MT-CO3 | **COA6** | 0.937 |
+| MT-CO3 | **UQCRB** | 0.993 |
+| MT-CO3 | **COX6C** | 0.995 |
+| MT-CO3 | **UQCRQ** | 0.996 |
+| MT-CO3 | **COX7C** | 0.999 |
+| MT-CO3 | **COX4I1** | 0.999 |
+| COA6 | **COX4I1** | 0.924 |
+| COA6 | **COX6C** | 0.931 |
+| COA6 | **UQCRQ** | 0.967 |
+| COA6 | **UQCRB** | 0.974 |
+| COA6 | **COX7C** | 0.985 |
+| UQCRQ | **COX6C** | 0.998 |
+| UQCRQ | **COX4I1** | 0.999 |
+| UQCRQ | **COX7C** | 0.999 |
+| UQCRQ | **UQCRB** | 0.999 |
+| COX7C | **COX4I1** | 0.999 |
+| COX7C | **COX6C** | 0.999 |
+| COX7C | **UQCRB** | 0.999 |
+| COX6C | **UQCRB** | 0.991 |
+| COX6C | **COX4I1** | 0.999 |
+| UQCRB | **COX4I1** | 0.998 |
+

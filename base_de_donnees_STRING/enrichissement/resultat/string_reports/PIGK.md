@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PIGK
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PIGK
+Identifiant STRING officiel : `9606.ENSP00000359848`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PIGB | **PIGS** | 0.584 |
+| PIGB | **PGAP1** | 0.657 |
+| PIGB | **PIGU** | 0.673 |
+| PIGB | **GPAA1** | 0.731 |
+| PIGB | **PIGT** | 0.774 |
+| PIGB | **PIGW** | 0.809 |
+| PIGB | **PIGK** | 0.81 |
+| PIGB | **PIGC** | 0.815 |
+| PIGB | **PIGL** | 0.822 |
+| PIGB | **PIGG** | 0.825 |
+| PIGB | **PIGF** | 0.935 |
+| PIGB | **PIGN** | 0.974 |
+| PIGB | **PIGO** | 0.979 |
+| PIGB | **PIGM** | 0.985 |
+| PIGB | **PIGV** | 0.986 |
+| PIGU | **PIGL** | 0.419 |
+| PIGU | **PIGG** | 0.445 |
+| PIGU | **PIGN** | 0.454 |
+| PIGU | **PIGW** | 0.571 |
+| PIGU | **PIGM** | 0.579 |
+| PIGU | **PIGC** | 0.609 |
+| PIGU | **PIGV** | 0.696 |
+| PIGU | **PIGF** | 0.911 |
+| PIGU | **PGAP1** | 0.94 |
+| PIGU | **PIGO** | 0.961 |
+| PIGU | **PIGS** | 0.999 |
+| PIGU | **GPAA1** | 0.999 |
+| PIGU | **PIGT** | 0.999 |
+| PIGU | **PIGK** | 0.999 |
+| PIGL | **PIGS** | 0.476 |
+| PIGL | **PGAP1** | 0.642 |
+| PIGL | **GPAA1** | 0.744 |
+| PIGL | **PIGN** | 0.772 |
+| PIGL | **PIGK** | 0.811 |
+| PIGL | **PIGT** | 0.813 |
+| PIGL | **PIGG** | 0.816 |
+| PIGL | **PIGV** | 0.876 |
+| PIGL | **PIGO** | 0.876 |
+| PIGL | **PIGM** | 0.896 |
+| PIGL | **PIGC** | 0.983 |
+| PIGL | **PIGW** | 0.991 |
+| PIGT | **PIGN** | 0.733 |
+| PIGT | **PIGC** | 0.736 |
+| PIGT | **PIGG** | 0.751 |
+| PIGT | **PIGW** | 0.808 |
+| PIGT | **PIGM** | 0.816 |
+| PIGT | **PIGV** | 0.852 |
+| PIGT | **PIGF** | 0.932 |
+| PIGT | **PGAP1** | 0.971 |
+| PIGT | **PIGO** | 0.984 |
+| PIGT | **PIGK** | 0.999 |
+| PIGT | **PIGS** | 0.999 |
+| PIGT | **GPAA1** | 0.999 |
+| PIGF | **PIGN** | 0.506 |
+| PIGF | **GPAA1** | 0.916 |
+| PIGF | **PIGS** | 0.921 |
+| PIGF | **PIGG** | 0.936 |
+| PIGF | **PIGO** | 0.937 |
+| PIGF | **PIGK** | 0.942 |
+| PIGS | **PIGG** | 0.467 |
+| PIGS | **PIGW** | 0.473 |
+| PIGS | **PIGM** | 0.517 |
+| PIGS | **PIGV** | 0.568 |
+| PIGS | **PIGC** | 0.605 |
+| PIGS | **PGAP1** | 0.95 |
+| PIGS | **PIGO** | 0.964 |
+| PIGS | **PIGK** | 0.999 |
+| PIGS | **GPAA1** | 0.999 |
+| PGAP1 | **PIGN** | 0.641 |
+| PGAP1 | **PIGV** | 0.651 |
+| PGAP1 | **PIGO** | 0.652 |
+| PGAP1 | **PIGC** | 0.663 |
+| PGAP1 | **PIGM** | 0.693 |
+| PGAP1 | **PIGG** | 0.694 |
+| PGAP1 | **PIGW** | 0.733 |
+| PGAP1 | **GPAA1** | 0.964 |
+| PGAP1 | **PIGK** | 0.975 |
+| GPAA1 | **PIGN** | 0.518 |
+| GPAA1 | **PIGG** | 0.631 |
+| GPAA1 | **PIGW** | 0.71 |
+| GPAA1 | **PIGM** | 0.715 |
+| GPAA1 | **PIGC** | 0.72 |
+| GPAA1 | **PIGV** | 0.754 |
+| GPAA1 | **PIGO** | 0.977 |
+| GPAA1 | **PIGK** | 0.999 |
+| PIGC | **PIGN** | 0.729 |
+| PIGC | **PIGO** | 0.778 |
+| PIGC | **PIGK** | 0.792 |
+| PIGC | **PIGM** | 0.802 |
+| PIGC | **PIGV** | 0.805 |
+| PIGC | **PIGG** | 0.814 |
+| PIGC | **PIGW** | 0.826 |
+| PIGM | **PIGN** | 0.75 |
+| PIGM | **PIGK** | 0.807 |
+| PIGM | **PIGG** | 0.845 |
+| PIGM | **PIGO** | 0.845 |
+| PIGM | **PIGW** | 0.982 |
+| PIGM | **PIGV** | 0.989 |
+| PIGK | **PIGW** | 0.793 |
+| PIGK | **PIGN** | 0.799 |
+| PIGK | **PIGV** | 0.799 |
+| PIGK | **PIGG** | 0.824 |
+| PIGK | **PIGO** | 0.981 |
+| PIGV | **PIGG** | 0.806 |
+| PIGV | **PIGW** | 0.878 |
+| PIGV | **PIGO** | 0.93 |
+| PIGV | **PIGN** | 0.976 |
+| PIGO | **PIGN** | 0.588 |
+| PIGO | **PIGG** | 0.636 |
+| PIGO | **PIGW** | 0.837 |
+| PIGG | **PIGN** | 0.595 |
+| PIGG | **PIGW** | 0.737 |
+| PIGW | **PIGN** | 0.774 |
+

@@ -1,0 +1,595 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P28562",
+      "uniProtkbId": "DUS1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:3064"
+              }
+            ],
+            "value": "DUSP1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P28563"
+                }
+              ],
+              "value": "Dual specificity phosphatase that dephosphorylates MAP kinase MAPK1/ERK2 on both 'Thr-183' and 'Tyr-185', regulating its activity during the meiotic cell cycle"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q91790"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7593328"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7593328"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019838",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:growth factor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017017",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:MAP kinase tyrosine/serine/threonine phosphatase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051019",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:mitogen-activated protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004721",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:phosphoprotein phosphatase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004722",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein serine/threonine phosphatase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004725",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein tyrosine phosphatase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1406996"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008138",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein tyrosine/serine/threonine phosphatase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17498703"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990869",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to chemokine"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22991462"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032870",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hormone stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001706",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoderm formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035556",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007162",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22991462"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008285",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000279",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of DNA biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070373",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of ERK1 and ERK2 cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043409",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of MAPK cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051447",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of meiotic cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090027",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of monocyte chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22991462"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903753",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of p38MAPK cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22991462"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070262",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peptidyl-serine dephosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035970",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peptidyl-threonine dephosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043065",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090266",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of mitotic cell cycle spindle assembly checkpoint"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051592",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to calcium ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051591",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to cAMP"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032355",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to estradiol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051384",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to glucocorticoid"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042542",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to hydrogen peroxide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009416",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to light stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032526",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to retinoic acid"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033574",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to testosterone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000004EED8"
+      }
+    }
+  ]
+}

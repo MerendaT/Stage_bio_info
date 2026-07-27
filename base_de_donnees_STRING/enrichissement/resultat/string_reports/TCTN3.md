@@ -1,0 +1,132 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : TCTN3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TCTN3
+Identifiant STRING officiel : `9606.ENSP00000483364`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| B9D2 | **CPLANE1** | 0.582 |
+| B9D2 | **TMEM237** | 0.854 |
+| B9D2 | **NPHP1** | 0.885 |
+| B9D2 | **TMEM17** | 0.951 |
+| B9D2 | **AHI1** | 0.968 |
+| B9D2 | **CEP290** | 0.97 |
+| B9D2 | **MKS1** | 0.974 |
+| B9D2 | **TCTN3** | 0.98 |
+| B9D2 | **TCTN2** | 0.993 |
+| B9D2 | **TMEM216** | 0.993 |
+| B9D2 | **TMEM67** | 0.994 |
+| B9D2 | **TMEM231** | 0.996 |
+| B9D2 | **CC2D2A** | 0.997 |
+| B9D2 | **TCTN1** | 0.997 |
+| B9D2 | **B9D1** | 0.999 |
+| TMEM231 | **CPLANE1** | 0.722 |
+| TMEM231 | **TCTN3** | 0.88 |
+| TMEM231 | **NPHP1** | 0.89 |
+| TMEM231 | **TMEM237** | 0.925 |
+| TMEM231 | **AHI1** | 0.96 |
+| TMEM231 | **TMEM17** | 0.967 |
+| TMEM231 | **CEP290** | 0.978 |
+| TMEM231 | **MKS1** | 0.982 |
+| TMEM231 | **TMEM216** | 0.987 |
+| TMEM231 | **TCTN2** | 0.991 |
+| TMEM231 | **TMEM67** | 0.993 |
+| TMEM231 | **CC2D2A** | 0.994 |
+| TMEM231 | **TCTN1** | 0.995 |
+| TMEM231 | **B9D1** | 0.998 |
+| B9D1 | **CPLANE1** | 0.647 |
+| B9D1 | **TMEM237** | 0.892 |
+| B9D1 | **NPHP1** | 0.929 |
+| B9D1 | **TMEM17** | 0.966 |
+| B9D1 | **AHI1** | 0.976 |
+| B9D1 | **CEP290** | 0.987 |
+| B9D1 | **TCTN3** | 0.993 |
+| B9D1 | **MKS1** | 0.993 |
+| B9D1 | **TMEM216** | 0.995 |
+| B9D1 | **TMEM67** | 0.997 |
+| B9D1 | **TCTN2** | 0.997 |
+| B9D1 | **CC2D2A** | 0.998 |
+| B9D1 | **TCTN1** | 0.999 |
+| AHI1 | **CPLANE1** | 0.698 |
+| AHI1 | **TMEM237** | 0.748 |
+| AHI1 | **TMEM17** | 0.878 |
+| AHI1 | **TCTN3** | 0.961 |
+| AHI1 | **TCTN2** | 0.963 |
+| AHI1 | **MKS1** | 0.965 |
+| AHI1 | **TCTN1** | 0.979 |
+| AHI1 | **TMEM216** | 0.985 |
+| AHI1 | **CEP290** | 0.988 |
+| AHI1 | **TMEM67** | 0.993 |
+| AHI1 | **NPHP1** | 0.993 |
+| AHI1 | **CC2D2A** | 0.996 |
+| TCTN2 | **CPLANE1** | 0.674 |
+| TCTN2 | **NPHP1** | 0.743 |
+| TCTN2 | **TMEM237** | 0.831 |
+| TCTN2 | **TMEM17** | 0.933 |
+| TCTN2 | **CEP290** | 0.979 |
+| TCTN2 | **TMEM216** | 0.98 |
+| TCTN2 | **MKS1** | 0.988 |
+| TCTN2 | **TCTN3** | 0.992 |
+| TCTN2 | **TMEM67** | 0.995 |
+| TCTN2 | **CC2D2A** | 0.996 |
+| TCTN2 | **TCTN1** | 0.997 |
+| NPHP1 | **CPLANE1** | 0.672 |
+| NPHP1 | **TCTN3** | 0.783 |
+| NPHP1 | **TMEM17** | 0.819 |
+| NPHP1 | **TCTN1** | 0.837 |
+| NPHP1 | **TMEM237** | 0.909 |
+| NPHP1 | **TMEM216** | 0.94 |
+| NPHP1 | **CC2D2A** | 0.952 |
+| NPHP1 | **MKS1** | 0.962 |
+| NPHP1 | **CEP290** | 0.978 |
+| NPHP1 | **TMEM67** | 0.994 |
+| TMEM216 | **CPLANE1** | 0.772 |
+| TMEM216 | **TMEM237** | 0.872 |
+| TMEM216 | **TMEM17** | 0.952 |
+| TMEM216 | **MKS1** | 0.987 |
+| TMEM216 | **TCTN3** | 0.988 |
+| TMEM216 | **CEP290** | 0.99 |
+| TMEM216 | **TCTN1** | 0.995 |
+| TMEM216 | **CC2D2A** | 0.997 |
+| TMEM216 | **TMEM67** | 0.998 |
+| TMEM17 | **TCTN3** | 0.778 |
+| TMEM17 | **TMEM237** | 0.877 |
+| TMEM17 | **CEP290** | 0.905 |
+| TMEM17 | **MKS1** | 0.91 |
+| TMEM17 | **TMEM67** | 0.94 |
+| TMEM17 | **TCTN1** | 0.948 |
+| TMEM17 | **CC2D2A** | 0.956 |
+| MKS1 | **CPLANE1** | 0.608 |
+| MKS1 | **TMEM237** | 0.788 |
+| MKS1 | **TCTN3** | 0.979 |
+| MKS1 | **CEP290** | 0.993 |
+| MKS1 | **CC2D2A** | 0.997 |
+| MKS1 | **TCTN1** | 0.997 |
+| MKS1 | **TMEM67** | 0.997 |
+| TCTN1 | **CPLANE1** | 0.673 |
+| TCTN1 | **TMEM237** | 0.862 |
+| TCTN1 | **CEP290** | 0.984 |
+| TCTN1 | **TMEM67** | 0.994 |
+| TCTN1 | **TCTN3** | 0.996 |
+| TCTN1 | **CC2D2A** | 0.998 |
+| TMEM237 | **CPLANE1** | 0.73 |
+| TMEM237 | **TCTN3** | 0.836 |
+| TMEM237 | **CEP290** | 0.842 |
+| TMEM237 | **CC2D2A** | 0.88 |
+| TMEM237 | **TMEM67** | 0.943 |
+| CPLANE1 | **CEP290** | 0.666 |
+| CPLANE1 | **CC2D2A** | 0.722 |
+| CPLANE1 | **TMEM67** | 0.729 |
+| CPLANE1 | **TCTN3** | 0.772 |
+| TMEM67 | **TCTN3** | 0.984 |
+| TMEM67 | **CEP290** | 0.997 |
+| TMEM67 | **CC2D2A** | 0.998 |
+| CC2D2A | **TCTN3** | 0.993 |
+| CC2D2A | **CEP290** | 0.996 |
+| CEP290 | **TCTN3** | 0.909 |
+

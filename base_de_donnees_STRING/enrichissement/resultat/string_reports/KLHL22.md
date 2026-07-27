@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : KLHL22
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KLHL22
+Identifiant STRING officiel : `9606.ENSP00000331682`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KLHL20 | **KLHL25** | 0.907 |
+| KLHL20 | **KLHL3** | 0.908 |
+| KLHL20 | **LZTR1** | 0.908 |
+| KLHL20 | **KEAP1** | 0.909 |
+| KLHL20 | **KLHL21** | 0.91 |
+| KLHL20 | **KLHL13** | 0.911 |
+| KLHL20 | **KLHL12** | 0.911 |
+| KLHL20 | **KBTBD8** | 0.919 |
+| KLHL20 | **KCTD13** | 0.919 |
+| KLHL20 | **KLHL42** | 0.924 |
+| KLHL20 | **SPOP** | 0.924 |
+| KLHL20 | **KLHL9** | 0.924 |
+| KLHL20 | **KLHL22** | 0.925 |
+| KLHL20 | **RBX1** | 0.986 |
+| KLHL20 | **CUL3** | 0.999 |
+| RBX1 | **LZTR1** | 0.906 |
+| RBX1 | **KCTD13** | 0.91 |
+| RBX1 | **KLHL25** | 0.916 |
+| RBX1 | **KBTBD8** | 0.921 |
+| RBX1 | **KLHL21** | 0.926 |
+| RBX1 | **KLHL12** | 0.938 |
+| RBX1 | **KLHL42** | 0.952 |
+| RBX1 | **KLHL22** | 0.955 |
+| RBX1 | **KLHL3** | 0.968 |
+| RBX1 | **KLHL13** | 0.969 |
+| RBX1 | **KLHL9** | 0.974 |
+| RBX1 | **SPOP** | 0.996 |
+| RBX1 | **CUL3** | 0.999 |
+| RBX1 | **KEAP1** | 0.999 |
+| CUL3 | **KLHL42** | 0.993 |
+| CUL3 | **KLHL21** | 0.994 |
+| CUL3 | **KLHL25** | 0.995 |
+| CUL3 | **KLHL22** | 0.995 |
+| CUL3 | **KCTD13** | 0.996 |
+| CUL3 | **KBTBD8** | 0.997 |
+| CUL3 | **LZTR1** | 0.998 |
+| CUL3 | **KLHL13** | 0.999 |
+| CUL3 | **KEAP1** | 0.999 |
+| CUL3 | **SPOP** | 0.999 |
+| CUL3 | **KLHL3** | 0.999 |
+| CUL3 | **KLHL9** | 0.999 |
+| CUL3 | **KLHL12** | 0.999 |
+| KLHL3 | **KCTD13** | 0.906 |
+| KLHL3 | **KLHL21** | 0.907 |
+| KLHL3 | **KLHL25** | 0.909 |
+| KLHL3 | **KLHL13** | 0.916 |
+| KLHL3 | **KLHL22** | 0.918 |
+| KLHL3 | **KLHL42** | 0.919 |
+| KLHL3 | **SPOP** | 0.921 |
+| KLHL3 | **LZTR1** | 0.921 |
+| KLHL3 | **KLHL9** | 0.921 |
+| KLHL3 | **KBTBD8** | 0.921 |
+| KLHL3 | **KEAP1** | 0.964 |
+| KLHL3 | **KLHL12** | 0.975 |
+| KLHL22 | **KEAP1** | 0.914 |
+| KLHL22 | **KLHL25** | 0.915 |
+| KLHL22 | **KBTBD8** | 0.915 |
+| KLHL22 | **KLHL42** | 0.917 |
+| KLHL22 | **KLHL12** | 0.919 |
+| KLHL22 | **KCTD13** | 0.92 |
+| KLHL22 | **SPOP** | 0.921 |
+| KLHL22 | **KLHL21** | 0.927 |
+| KLHL22 | **LZTR1** | 0.949 |
+| KLHL22 | **KLHL9** | 0.949 |
+| KLHL22 | **KLHL13** | 0.979 |
+| KLHL25 | **KCTD13** | 0.901 |
+| KLHL25 | **LZTR1** | 0.906 |
+| KLHL25 | **SPOP** | 0.907 |
+| KLHL25 | **KLHL12** | 0.908 |
+| KLHL25 | **KEAP1** | 0.911 |
+| KLHL25 | **KLHL13** | 0.925 |
+| KLHL25 | **KLHL9** | 0.925 |
+| KLHL25 | **KLHL42** | 0.925 |
+| KLHL25 | **KLHL21** | 0.935 |
+| KLHL25 | **KBTBD8** | 0.937 |
+| KLHL9 | **LZTR1** | 0.902 |
+| KLHL9 | **SPOP** | 0.909 |
+| KLHL9 | **KCTD13** | 0.912 |
+| KLHL9 | **KLHL12** | 0.922 |
+| KLHL9 | **KEAP1** | 0.922 |
+| KLHL9 | **KBTBD8** | 0.927 |
+| KLHL9 | **KLHL42** | 0.928 |
+| KLHL9 | **KLHL21** | 0.96 |
+| KLHL9 | **KLHL13** | 0.996 |
+| KLHL12 | **KCTD13** | 0.901 |
+| KLHL12 | **LZTR1** | 0.905 |
+| KLHL12 | **KLHL21** | 0.913 |
+| KLHL12 | **KLHL13** | 0.918 |
+| KLHL12 | **SPOP** | 0.919 |
+| KLHL12 | **KLHL42** | 0.925 |
+| KLHL12 | **KBTBD8** | 0.928 |
+| KLHL12 | **KEAP1** | 0.934 |
+| KLHL21 | **KBTBD8** | 0.906 |
+| KLHL21 | **KCTD13** | 0.911 |
+| KLHL21 | **SPOP** | 0.911 |
+| KLHL21 | **LZTR1** | 0.913 |
+| KLHL21 | **KEAP1** | 0.914 |
+| KLHL21 | **KLHL42** | 0.914 |
+| KLHL21 | **KLHL13** | 0.95 |
+| KLHL42 | **KCTD13** | 0.9 |
+| KLHL42 | **LZTR1** | 0.902 |
+| KLHL42 | **KBTBD8** | 0.903 |
+| KLHL42 | **SPOP** | 0.908 |
+| KLHL42 | **KEAP1** | 0.913 |
+| KLHL42 | **KLHL13** | 0.925 |
+| SPOP | **KCTD13** | 0.9 |
+| SPOP | **LZTR1** | 0.909 |
+| SPOP | **KLHL13** | 0.913 |
+| SPOP | **KBTBD8** | 0.913 |
+| SPOP | **KEAP1** | 0.924 |
+| KEAP1 | **KCTD13** | 0.901 |
+| KEAP1 | **LZTR1** | 0.909 |
+| KEAP1 | **KBTBD8** | 0.916 |
+| KEAP1 | **KLHL13** | 0.919 |
+| KBTBD8 | **KCTD13** | 0.901 |
+| KBTBD8 | **LZTR1** | 0.912 |
+| KBTBD8 | **KLHL13** | 0.921 |
+| KLHL13 | **LZTR1** | 0.9 |
+| KLHL13 | **KCTD13** | 0.9 |
+| KCTD13 | **LZTR1** | 0.904 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRPL4
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRPL4
+Identifiant STRING officiel : `9606.ENSP00000306902`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPL27 | **MRPL15** | 0.998 |
+| MRPL27 | **MRPL47** | 0.998 |
+| MRPL27 | **MRPL11** | 0.998 |
+| MRPL27 | **MRPL2** | 0.998 |
+| MRPL27 | **MRPL16** | 0.999 |
+| MRPL27 | **MRPL20** | 0.999 |
+| MRPL27 | **MRPL9** | 0.999 |
+| MRPL27 | **MRPL19** | 0.999 |
+| MRPL27 | **MRPL21** | 0.999 |
+| MRPL27 | **MRPL17** | 0.999 |
+| MRPL27 | **MRPL33** | 0.999 |
+| MRPL27 | **MRPS16** | 0.999 |
+| MRPL27 | **MRPL3** | 0.999 |
+| MRPL27 | **MRPL13** | 0.999 |
+| MRPL27 | **MRPL4** | 0.999 |
+| MRPL15 | **MRPL20** | 0.969 |
+| MRPL15 | **MRPL21** | 0.97 |
+| MRPL15 | **MRPL11** | 0.978 |
+| MRPL15 | **MRPL16** | 0.979 |
+| MRPL15 | **MRPL19** | 0.983 |
+| MRPL15 | **MRPL9** | 0.991 |
+| MRPL15 | **MRPL33** | 0.994 |
+| MRPL15 | **MRPS16** | 0.995 |
+| MRPL15 | **MRPL17** | 0.996 |
+| MRPL15 | **MRPL2** | 0.996 |
+| MRPL15 | **MRPL3** | 0.997 |
+| MRPL15 | **MRPL47** | 0.998 |
+| MRPL15 | **MRPL13** | 0.999 |
+| MRPL15 | **MRPL4** | 0.999 |
+| MRPL3 | **MRPL16** | 0.997 |
+| MRPL3 | **MRPL2** | 0.997 |
+| MRPL3 | **MRPL11** | 0.997 |
+| MRPL3 | **MRPL47** | 0.998 |
+| MRPL3 | **MRPL33** | 0.998 |
+| MRPL3 | **MRPL19** | 0.999 |
+| MRPL3 | **MRPL9** | 0.999 |
+| MRPL3 | **MRPL20** | 0.999 |
+| MRPL3 | **MRPL13** | 0.999 |
+| MRPL3 | **MRPL4** | 0.999 |
+| MRPL3 | **MRPS16** | 0.999 |
+| MRPL3 | **MRPL17** | 0.999 |
+| MRPL3 | **MRPL21** | 0.999 |
+| MRPL17 | **MRPL33** | 0.999 |
+| MRPL17 | **MRPL21** | 0.999 |
+| MRPL17 | **MRPL11** | 0.999 |
+| MRPL17 | **MRPL2** | 0.999 |
+| MRPL17 | **MRPL4** | 0.999 |
+| MRPL17 | **MRPL13** | 0.999 |
+| MRPL17 | **MRPS16** | 0.999 |
+| MRPL17 | **MRPL20** | 0.999 |
+| MRPL17 | **MRPL16** | 0.999 |
+| MRPL17 | **MRPL19** | 0.999 |
+| MRPL17 | **MRPL9** | 0.999 |
+| MRPL17 | **MRPL47** | 0.999 |
+| MRPL33 | **MRPL11** | 0.997 |
+| MRPL33 | **MRPL16** | 0.997 |
+| MRPL33 | **MRPL2** | 0.998 |
+| MRPL33 | **MRPL47** | 0.998 |
+| MRPL33 | **MRPL13** | 0.999 |
+| MRPL33 | **MRPL4** | 0.999 |
+| MRPL33 | **MRPS16** | 0.999 |
+| MRPL33 | **MRPL21** | 0.999 |
+| MRPL33 | **MRPL19** | 0.999 |
+| MRPL33 | **MRPL9** | 0.999 |
+| MRPL33 | **MRPL20** | 0.999 |
+| MRPL16 | **MRPL20** | 0.997 |
+| MRPL16 | **MRPL21** | 0.998 |
+| MRPL16 | **MRPL2** | 0.998 |
+| MRPL16 | **MRPL13** | 0.998 |
+| MRPL16 | **MRPL11** | 0.998 |
+| MRPL16 | **MRPS16** | 0.998 |
+| MRPL16 | **MRPL9** | 0.998 |
+| MRPL16 | **MRPL19** | 0.998 |
+| MRPL16 | **MRPL47** | 0.998 |
+| MRPL16 | **MRPL4** | 0.999 |
+| MRPL13 | **MRPL2** | 0.998 |
+| MRPL13 | **MRPL47** | 0.999 |
+| MRPL13 | **MRPL19** | 0.999 |
+| MRPL13 | **MRPL9** | 0.999 |
+| MRPL13 | **MRPL20** | 0.999 |
+| MRPL13 | **MRPS16** | 0.999 |
+| MRPL13 | **MRPL11** | 0.999 |
+| MRPL13 | **MRPL4** | 0.999 |
+| MRPL13 | **MRPL21** | 0.999 |
+| MRPL4 | **MRPL21** | 0.999 |
+| MRPL4 | **MRPL11** | 0.999 |
+| MRPL4 | **MRPL2** | 0.999 |
+| MRPL4 | **MRPS16** | 0.999 |
+| MRPL4 | **MRPL20** | 0.999 |
+| MRPL4 | **MRPL19** | 0.999 |
+| MRPL4 | **MRPL9** | 0.999 |
+| MRPL4 | **MRPL47** | 0.999 |
+| MRPL11 | **MRPL2** | 0.996 |
+| MRPL11 | **MRPS16** | 0.998 |
+| MRPL11 | **MRPL20** | 0.998 |
+| MRPL11 | **MRPL47** | 0.998 |
+| MRPL11 | **MRPL9** | 0.998 |
+| MRPL11 | **MRPL21** | 0.999 |
+| MRPL11 | **MRPL19** | 0.999 |
+| MRPL20 | **MRPL2** | 0.997 |
+| MRPL20 | **MRPL47** | 0.999 |
+| MRPL20 | **MRPL19** | 0.999 |
+| MRPL20 | **MRPL9** | 0.999 |
+| MRPL20 | **MRPS16** | 0.999 |
+| MRPL20 | **MRPL21** | 0.999 |
+| MRPL21 | **MRPL2** | 0.997 |
+| MRPL21 | **MRPS16** | 0.999 |
+| MRPL21 | **MRPL47** | 0.999 |
+| MRPL21 | **MRPL19** | 0.999 |
+| MRPL21 | **MRPL9** | 0.999 |
+| MRPL9 | **MRPL19** | 0.999 |
+| MRPL9 | **MRPL47** | 0.999 |
+| MRPL9 | **MRPL2** | 0.999 |
+| MRPL9 | **MRPS16** | 0.999 |
+| MRPS16 | **MRPL47** | 0.995 |
+| MRPS16 | **MRPL2** | 0.998 |
+| MRPS16 | **MRPL19** | 0.999 |
+| MRPL2 | **MRPL19** | 0.997 |
+| MRPL2 | **MRPL47** | 0.998 |
+| MRPL19 | **MRPL47** | 0.999 |
+

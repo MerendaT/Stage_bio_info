@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : FCHO2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : FCHO2
+Identifiant STRING officiel : `9606.ENSP00000393776`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DAB2 | **AP2S1** | 0.595 |
+| DAB2 | **NECAP1** | 0.651 |
+| DAB2 | **AP2M1** | 0.723 |
+| DAB2 | **ITSN2** | 0.725 |
+| DAB2 | **EPS15L1** | 0.758 |
+| DAB2 | **ITSN1** | 0.794 |
+| DAB2 | **EPN2** | 0.841 |
+| DAB2 | **FCHO1** | 0.855 |
+| DAB2 | **PICALM** | 0.868 |
+| DAB2 | **EPS15** | 0.87 |
+| DAB2 | **AP2B1** | 0.894 |
+| DAB2 | **FCHO2** | 0.968 |
+| BIN1 | **EPS15L1** | 0.483 |
+| BIN1 | **NECAP1** | 0.621 |
+| BIN1 | **AP2B1** | 0.751 |
+| BIN1 | **FCHO1** | 0.805 |
+| BIN1 | **EPN2** | 0.853 |
+| BIN1 | **EPS15** | 0.856 |
+| BIN1 | **TRIP10** | 0.859 |
+| BIN1 | **FCHO2** | 0.865 |
+| BIN1 | **ITSN2** | 0.866 |
+| BIN1 | **ITSN1** | 0.891 |
+| BIN1 | **PICALM** | 0.892 |
+| BIN1 | **AMPH** | 0.984 |
+| TRIP10 | **EPN2** | 0.404 |
+| TRIP10 | **EPS15L1** | 0.415 |
+| TRIP10 | **EPS15** | 0.739 |
+| TRIP10 | **ITSN1** | 0.752 |
+| TRIP10 | **ITSN2** | 0.86 |
+| TRIP10 | **AMPH** | 0.871 |
+| TRIP10 | **FCHO1** | 0.963 |
+| TRIP10 | **FCHO2** | 0.964 |
+| EPN2 | **AP2S1** | 0.697 |
+| EPN2 | **AP2M1** | 0.717 |
+| EPN2 | **NECAP1** | 0.815 |
+| EPN2 | **AMPH** | 0.886 |
+| EPN2 | **FCHO2** | 0.889 |
+| EPN2 | **AP2B1** | 0.933 |
+| EPN2 | **FCHO1** | 0.935 |
+| EPN2 | **PICALM** | 0.947 |
+| EPN2 | **EPS15L1** | 0.973 |
+| EPN2 | **ITSN2** | 0.979 |
+| EPN2 | **ITSN1** | 0.992 |
+| EPN2 | **EPS15** | 0.999 |
+| ITSN2 | **ITSN1** | 0.664 |
+| ITSN2 | **PICALM** | 0.719 |
+| ITSN2 | **NECAP1** | 0.787 |
+| ITSN2 | **AP2S1** | 0.807 |
+| ITSN2 | **AP2B1** | 0.861 |
+| ITSN2 | **AP2M1** | 0.886 |
+| ITSN2 | **AMPH** | 0.908 |
+| ITSN2 | **FCHO2** | 0.985 |
+| ITSN2 | **EPS15L1** | 0.986 |
+| ITSN2 | **EPS15** | 0.997 |
+| ITSN2 | **FCHO1** | 0.998 |
+| AMPH | **EPS15L1** | 0.53 |
+| AMPH | **AP2M1** | 0.632 |
+| AMPH | **NECAP1** | 0.667 |
+| AMPH | **AP2S1** | 0.817 |
+| AMPH | **FCHO1** | 0.83 |
+| AMPH | **FCHO2** | 0.883 |
+| AMPH | **EPS15** | 0.889 |
+| AMPH | **ITSN1** | 0.929 |
+| AMPH | **AP2B1** | 0.947 |
+| EPS15 | **NECAP1** | 0.854 |
+| EPS15 | **PICALM** | 0.946 |
+| EPS15 | **AP2S1** | 0.952 |
+| EPS15 | **AP2M1** | 0.958 |
+| EPS15 | **AP2B1** | 0.973 |
+| EPS15 | **EPS15L1** | 0.99 |
+| EPS15 | **FCHO2** | 0.996 |
+| EPS15 | **ITSN1** | 0.997 |
+| EPS15 | **FCHO1** | 0.999 |
+| ITSN1 | **NECAP1** | 0.752 |
+| ITSN1 | **PICALM** | 0.763 |
+| ITSN1 | **AP2M1** | 0.927 |
+| ITSN1 | **AP2S1** | 0.93 |
+| ITSN1 | **EPS15L1** | 0.955 |
+| ITSN1 | **FCHO2** | 0.985 |
+| ITSN1 | **AP2B1** | 0.992 |
+| ITSN1 | **FCHO1** | 0.999 |
+| PICALM | **NECAP1** | 0.626 |
+| PICALM | **AP2S1** | 0.777 |
+| PICALM | **EPS15L1** | 0.836 |
+| PICALM | **FCHO1** | 0.84 |
+| PICALM | **FCHO2** | 0.852 |
+| PICALM | **AP2B1** | 0.908 |
+| PICALM | **AP2M1** | 0.935 |
+| EPS15L1 | **NECAP1** | 0.744 |
+| EPS15L1 | **FCHO2** | 0.913 |
+| EPS15L1 | **AP2M1** | 0.918 |
+| EPS15L1 | **AP2B1** | 0.933 |
+| EPS15L1 | **AP2S1** | 0.946 |
+| EPS15L1 | **FCHO1** | 0.959 |
+| FCHO2 | **NECAP1** | 0.851 |
+| FCHO2 | **FCHO1** | 0.857 |
+| FCHO2 | **AP2M1** | 0.916 |
+| FCHO2 | **AP2B1** | 0.931 |
+| FCHO2 | **AP2S1** | 0.935 |
+| AP2M1 | **FCHO1** | 0.798 |
+| AP2M1 | **NECAP1** | 0.995 |
+| AP2M1 | **AP2B1** | 0.999 |
+| AP2M1 | **AP2S1** | 0.999 |
+| AP2S1 | **NECAP1** | 0.678 |
+| AP2S1 | **FCHO1** | 0.693 |
+| AP2S1 | **AP2B1** | 0.999 |
+| FCHO1 | **AP2B1** | 0.794 |
+| FCHO1 | **NECAP1** | 0.891 |
+| AP2B1 | **NECAP1** | 0.849 |
+

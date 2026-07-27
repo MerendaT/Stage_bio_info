@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : KANSL2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KANSL2
+Identifiant STRING officiel : `9606.ENSP00000415436`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HCFC1 | **PHF20L1** | 0.688 |
+| HCFC1 | **MSL1** | 0.728 |
+| HCFC1 | **ING3** | 0.746 |
+| HCFC1 | **MSL2** | 0.752 |
+| HCFC1 | **KAT5** | 0.778 |
+| HCFC1 | **MSL3** | 0.8 |
+| HCFC1 | **TRRAP** | 0.807 |
+| HCFC1 | **KANSL2** | 0.954 |
+| HCFC1 | **KANSL1** | 0.96 |
+| HCFC1 | **KANSL3** | 0.964 |
+| HCFC1 | **PHF20** | 0.97 |
+| HCFC1 | **KAT8** | 0.982 |
+| HCFC1 | **MCRS1** | 0.985 |
+| HCFC1 | **OGT** | 0.999 |
+| HCFC1 | **WDR5** | 0.999 |
+| MSL2 | **PHF20L1** | 0.57 |
+| MSL2 | **OGT** | 0.737 |
+| MSL2 | **WDR5** | 0.783 |
+| MSL2 | **PHF20** | 0.795 |
+| MSL2 | **KANSL3** | 0.818 |
+| MSL2 | **MCRS1** | 0.824 |
+| MSL2 | **KANSL1** | 0.836 |
+| MSL2 | **KANSL2** | 0.84 |
+| MSL2 | **ING3** | 0.905 |
+| MSL2 | **TRRAP** | 0.906 |
+| MSL2 | **KAT5** | 0.951 |
+| MSL2 | **KAT8** | 0.995 |
+| MSL2 | **MSL3** | 0.999 |
+| MSL2 | **MSL1** | 0.999 |
+| MSL3 | **PHF20L1** | 0.588 |
+| MSL3 | **OGT** | 0.77 |
+| MSL3 | **WDR5** | 0.816 |
+| MSL3 | **KANSL3** | 0.841 |
+| MSL3 | **KANSL1** | 0.842 |
+| MSL3 | **PHF20** | 0.859 |
+| MSL3 | **MCRS1** | 0.859 |
+| MSL3 | **KANSL2** | 0.874 |
+| MSL3 | **ING3** | 0.94 |
+| MSL3 | **TRRAP** | 0.945 |
+| MSL3 | **KAT5** | 0.958 |
+| MSL3 | **KAT8** | 0.997 |
+| MSL3 | **MSL1** | 0.999 |
+| ING3 | **PHF20L1** | 0.667 |
+| ING3 | **KANSL1** | 0.722 |
+| ING3 | **KANSL3** | 0.735 |
+| ING3 | **OGT** | 0.768 |
+| ING3 | **KANSL2** | 0.783 |
+| ING3 | **PHF20** | 0.788 |
+| ING3 | **WDR5** | 0.87 |
+| ING3 | **MCRS1** | 0.9 |
+| ING3 | **MSL1** | 0.906 |
+| ING3 | **KAT8** | 0.947 |
+| ING3 | **TRRAP** | 0.998 |
+| ING3 | **KAT5** | 0.999 |
+| KAT5 | **PHF20L1** | 0.571 |
+| KAT5 | **KANSL3** | 0.801 |
+| KAT5 | **KANSL2** | 0.804 |
+| KAT5 | **KANSL1** | 0.817 |
+| KAT5 | **OGT** | 0.837 |
+| KAT5 | **WDR5** | 0.846 |
+| KAT5 | **PHF20** | 0.871 |
+| KAT5 | **KAT8** | 0.911 |
+| KAT5 | **MCRS1** | 0.942 |
+| KAT5 | **MSL1** | 0.956 |
+| KAT5 | **TRRAP** | 0.999 |
+| MCRS1 | **MSL1** | 0.794 |
+| MCRS1 | **PHF20L1** | 0.827 |
+| MCRS1 | **TRRAP** | 0.908 |
+| MCRS1 | **KAT8** | 0.986 |
+| MCRS1 | **OGT** | 0.99 |
+| MCRS1 | **WDR5** | 0.993 |
+| MCRS1 | **KANSL1** | 0.996 |
+| MCRS1 | **PHF20** | 0.998 |
+| MCRS1 | **KANSL3** | 0.999 |
+| MCRS1 | **KANSL2** | 0.999 |
+| WDR5 | **PHF20L1** | 0.69 |
+| WDR5 | **MSL1** | 0.819 |
+| WDR5 | **TRRAP** | 0.881 |
+| WDR5 | **OGT** | 0.981 |
+| WDR5 | **KANSL3** | 0.987 |
+| WDR5 | **PHF20** | 0.993 |
+| WDR5 | **KAT8** | 0.994 |
+| WDR5 | **KANSL1** | 0.999 |
+| WDR5 | **KANSL2** | 0.999 |
+| TRRAP | **PHF20L1** | 0.54 |
+| TRRAP | **KANSL1** | 0.74 |
+| TRRAP | **KANSL3** | 0.743 |
+| TRRAP | **PHF20** | 0.768 |
+| TRRAP | **KANSL2** | 0.77 |
+| TRRAP | **OGT** | 0.81 |
+| TRRAP | **MSL1** | 0.905 |
+| TRRAP | **KAT8** | 0.967 |
+| OGT | **PHF20L1** | 0.614 |
+| OGT | **MSL1** | 0.739 |
+| OGT | **KANSL1** | 0.917 |
+| OGT | **KAT8** | 0.937 |
+| OGT | **PHF20** | 0.958 |
+| OGT | **KANSL2** | 0.978 |
+| OGT | **KANSL3** | 0.991 |
+| PHF20 | **PHF20L1** | 0.747 |
+| PHF20 | **MSL1** | 0.788 |
+| PHF20 | **KAT8** | 0.992 |
+| PHF20 | **KANSL2** | 0.998 |
+| PHF20 | **KANSL3** | 0.998 |
+| PHF20 | **KANSL1** | 0.999 |
+| PHF20L1 | **MSL1** | 0.597 |
+| PHF20L1 | **KANSL2** | 0.847 |
+| PHF20L1 | **KANSL3** | 0.866 |
+| PHF20L1 | **KAT8** | 0.882 |
+| PHF20L1 | **KANSL1** | 0.902 |
+| KANSL1 | **MSL1** | 0.807 |
+| KANSL1 | **KANSL3** | 0.995 |
+| KANSL1 | **KAT8** | 0.996 |
+| KANSL1 | **KANSL2** | 0.999 |
+| KANSL3 | **MSL1** | 0.81 |
+| KANSL3 | **KAT8** | 0.984 |
+| KANSL3 | **KANSL2** | 0.999 |
+| KAT8 | **KANSL2** | 0.967 |
+| KAT8 | **MSL1** | 0.995 |
+| KANSL2 | **MSL1** | 0.821 |
+

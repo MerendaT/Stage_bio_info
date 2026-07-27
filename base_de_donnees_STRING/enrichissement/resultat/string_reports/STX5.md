@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : STX5
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : STX5
+Identifiant STRING officiel : `9606.ENSP00000294179`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BET1 | **VAMP4** | 0.868 |
+| BET1 | **BET1L** | 0.917 |
+| BET1 | **STX6** | 0.945 |
+| BET1 | **NAPA** | 0.962 |
+| BET1 | **VTI1B** | 0.979 |
+| BET1 | **VTI1A** | 0.98 |
+| BET1 | **USO1** | 0.982 |
+| BET1 | **SEC22A** | 0.995 |
+| BET1 | **VAMP8** | 0.997 |
+| BET1 | **YKT6** | 0.998 |
+| BET1 | **STX5** | 0.999 |
+| BET1 | **SCFD1** | 0.999 |
+| BET1 | **SEC22B** | 0.999 |
+| BET1 | **GOSR1** | 0.999 |
+| BET1 | **GOSR2** | 0.999 |
+| YKT6 | **USO1** | 0.881 |
+| YKT6 | **VAMP4** | 0.89 |
+| YKT6 | **SEC22A** | 0.946 |
+| YKT6 | **VAMP8** | 0.947 |
+| YKT6 | **NAPA** | 0.972 |
+| YKT6 | **STX6** | 0.984 |
+| YKT6 | **GOSR2** | 0.995 |
+| YKT6 | **SEC22B** | 0.995 |
+| YKT6 | **SCFD1** | 0.995 |
+| YKT6 | **VTI1A** | 0.998 |
+| YKT6 | **BET1L** | 0.998 |
+| YKT6 | **STX5** | 0.999 |
+| YKT6 | **VTI1B** | 0.999 |
+| YKT6 | **GOSR1** | 0.999 |
+| GOSR1 | **VTI1A** | 0.93 |
+| GOSR1 | **SEC22A** | 0.933 |
+| GOSR1 | **NAPA** | 0.937 |
+| GOSR1 | **VAMP4** | 0.959 |
+| GOSR1 | **VTI1B** | 0.966 |
+| GOSR1 | **STX6** | 0.977 |
+| GOSR1 | **VAMP8** | 0.987 |
+| GOSR1 | **USO1** | 0.991 |
+| GOSR1 | **SEC22B** | 0.998 |
+| GOSR1 | **GOSR2** | 0.999 |
+| GOSR1 | **STX5** | 0.999 |
+| GOSR1 | **BET1L** | 0.999 |
+| GOSR1 | **SCFD1** | 0.999 |
+| VAMP4 | **SEC22A** | 0.449 |
+| VAMP4 | **VAMP8** | 0.714 |
+| VAMP4 | **BET1L** | 0.77 |
+| VAMP4 | **SCFD1** | 0.811 |
+| VAMP4 | **SEC22B** | 0.815 |
+| VAMP4 | **GOSR2** | 0.929 |
+| VAMP4 | **NAPA** | 0.971 |
+| VAMP4 | **VTI1B** | 0.998 |
+| VAMP4 | **STX5** | 0.998 |
+| VAMP4 | **STX6** | 0.999 |
+| VAMP4 | **VTI1A** | 0.999 |
+| STX6 | **BET1L** | 0.731 |
+| STX6 | **SEC22A** | 0.734 |
+| STX6 | **SCFD1** | 0.848 |
+| STX6 | **SEC22B** | 0.963 |
+| STX6 | **GOSR2** | 0.979 |
+| STX6 | **NAPA** | 0.991 |
+| STX6 | **STX5** | 0.995 |
+| STX6 | **VAMP8** | 0.999 |
+| STX6 | **VTI1A** | 0.999 |
+| STX6 | **VTI1B** | 0.999 |
+| NAPA | **BET1L** | 0.71 |
+| NAPA | **USO1** | 0.723 |
+| NAPA | **SEC22A** | 0.725 |
+| NAPA | **GOSR2** | 0.92 |
+| NAPA | **VAMP8** | 0.98 |
+| NAPA | **SCFD1** | 0.984 |
+| NAPA | **SEC22B** | 0.985 |
+| NAPA | **STX5** | 0.989 |
+| NAPA | **VTI1A** | 0.99 |
+| NAPA | **VTI1B** | 0.993 |
+| VAMP8 | **BET1L** | 0.71 |
+| VAMP8 | **GOSR2** | 0.814 |
+| VAMP8 | **SEC22B** | 0.848 |
+| VAMP8 | **STX5** | 0.991 |
+| VAMP8 | **VTI1A** | 0.993 |
+| VAMP8 | **VTI1B** | 0.999 |
+| USO1 | **SEC22A** | 0.783 |
+| USO1 | **SEC22B** | 0.846 |
+| USO1 | **SCFD1** | 0.97 |
+| USO1 | **BET1L** | 0.985 |
+| USO1 | **GOSR2** | 0.994 |
+| USO1 | **STX5** | 0.998 |
+| STX5 | **SEC22A** | 0.991 |
+| STX5 | **VTI1B** | 0.998 |
+| STX5 | **GOSR2** | 0.999 |
+| STX5 | **VTI1A** | 0.999 |
+| STX5 | **SCFD1** | 0.999 |
+| STX5 | **SEC22B** | 0.999 |
+| STX5 | **BET1L** | 0.999 |
+| SEC22A | **SEC22B** | 0.627 |
+| SEC22A | **BET1L** | 0.84 |
+| SEC22A | **VTI1A** | 0.87 |
+| SEC22A | **SCFD1** | 0.916 |
+| SEC22A | **VTI1B** | 0.933 |
+| SEC22A | **GOSR2** | 0.992 |
+| BET1L | **VTI1B** | 0.769 |
+| BET1L | **VTI1A** | 0.77 |
+| BET1L | **SCFD1** | 0.866 |
+| BET1L | **SEC22B** | 0.982 |
+| BET1L | **GOSR2** | 0.997 |
+| VTI1A | **SCFD1** | 0.609 |
+| VTI1A | **GOSR2** | 0.899 |
+| VTI1A | **VTI1B** | 0.973 |
+| VTI1A | **SEC22B** | 0.974 |
+| SCFD1 | **VTI1B** | 0.887 |
+| SCFD1 | **SEC22B** | 0.997 |
+| SCFD1 | **GOSR2** | 0.999 |
+| VTI1B | **GOSR2** | 0.982 |
+| VTI1B | **SEC22B** | 0.984 |
+| GOSR2 | **SEC22B** | 0.999 |
+

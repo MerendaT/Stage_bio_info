@@ -1,0 +1,502 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P52823",
+      "uniProtkbId": "STC1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "STC1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "value": "Stimulates renal phosphate reabsorption, and could therefore prevent hypercalcemia"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0016324",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:apical plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12663264"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12663264"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005179",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:hormone activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "26195635"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060348",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:bone development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16377640"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071320",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to cAMP"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071385",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to glucocorticoid stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071456",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035988",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chondrocyte proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16377640"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046697",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:decidualization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007566",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:embryo implantation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endothelial cell morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14500721"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003421",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:growth plate cartilage axis specification"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16377640"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006874",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular calcium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12663264"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8700837"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051926",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of calcium ion transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8700837"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030336",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17032941"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010596",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endothelial cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14500721"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903403",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of renal phosphate excretion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8700837"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001503",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ossification"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090280",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of calcium ion import"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17032941"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0086004",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cardiac muscle cell contraction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12663264"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044070",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of monoatomic anion transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16377640"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033280",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to vitamin D"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001360B4"
+      }
+    }
+  ]
+}

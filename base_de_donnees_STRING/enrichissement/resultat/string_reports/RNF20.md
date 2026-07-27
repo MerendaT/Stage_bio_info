@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RNF20
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RNF20
+Identifiant STRING officiel : `9606.ENSP00000373772`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PAF1 | **H2BC21** | 0.508 |
+| PAF1 | **UBE2B** | 0.614 |
+| PAF1 | **UBE2A** | 0.62 |
+| PAF1 | **WAC** | 0.633 |
+| PAF1 | **H2BC13** | 0.757 |
+| PAF1 | **H2BC14** | 0.757 |
+| PAF1 | **H2BC17** | 0.759 |
+| PAF1 | **H2BC3** | 0.76 |
+| PAF1 | **RNF40** | 0.932 |
+| PAF1 | **RNF20** | 0.976 |
+| PAF1 | **CDC73** | 0.999 |
+| PAF1 | **CTR9** | 0.999 |
+| PAF1 | **RTF1** | 0.999 |
+| UBE2B | **TP53** | 0.445 |
+| UBE2B | **H2BC21** | 0.524 |
+| UBE2B | **WAC** | 0.658 |
+| UBE2B | **H2BC17** | 0.697 |
+| UBE2B | **H2BC13** | 0.697 |
+| UBE2B | **H2BC14** | 0.697 |
+| UBE2B | **H2BC3** | 0.697 |
+| UBE2B | **CTR9** | 0.731 |
+| UBE2B | **CDC73** | 0.736 |
+| UBE2B | **RTF1** | 0.765 |
+| UBE2B | **UBE2N** | 0.929 |
+| UBE2B | **UBE2A** | 0.975 |
+| UBE2B | **RNF40** | 0.997 |
+| UBE2B | **RNF20** | 0.998 |
+| TP53 | **H2BC14** | 0.4 |
+| TP53 | **H2BC13** | 0.476 |
+| TP53 | **H2BC3** | 0.498 |
+| TP53 | **WAC** | 0.571 |
+| TP53 | **H2BC21** | 0.651 |
+| TP53 | **RNF40** | 0.732 |
+| TP53 | **UBE2N** | 0.811 |
+| TP53 | **UBE2A** | 0.824 |
+| TP53 | **RNF20** | 0.929 |
+| UBE2N | **H2BC3** | 0.607 |
+| UBE2N | **H2BC14** | 0.609 |
+| UBE2N | **H2BC13** | 0.609 |
+| UBE2N | **H2BC17** | 0.614 |
+| UBE2N | **H2BC21** | 0.694 |
+| UBE2N | **UBE2A** | 0.93 |
+| UBE2N | **RNF40** | 0.948 |
+| UBE2N | **RNF20** | 0.952 |
+| RNF40 | **RTF1** | 0.765 |
+| RNF40 | **CTR9** | 0.882 |
+| RNF40 | **H2BC3** | 0.891 |
+| RNF40 | **H2BC14** | 0.891 |
+| RNF40 | **H2BC13** | 0.891 |
+| RNF40 | **H2BC17** | 0.895 |
+| RNF40 | **CDC73** | 0.94 |
+| RNF40 | **H2BC21** | 0.943 |
+| RNF40 | **WAC** | 0.964 |
+| RNF40 | **UBE2A** | 0.998 |
+| RNF40 | **RNF20** | 0.999 |
+| WAC | **CTR9** | 0.578 |
+| WAC | **RTF1** | 0.584 |
+| WAC | **CDC73** | 0.618 |
+| WAC | **H2BC3** | 0.642 |
+| WAC | **H2BC13** | 0.643 |
+| WAC | **H2BC14** | 0.643 |
+| WAC | **H2BC17** | 0.646 |
+| WAC | **UBE2A** | 0.737 |
+| WAC | **RNF20** | 0.968 |
+| CTR9 | **H2BC21** | 0.661 |
+| CTR9 | **H2BC13** | 0.757 |
+| CTR9 | **H2BC14** | 0.757 |
+| CTR9 | **H2BC3** | 0.757 |
+| CTR9 | **H2BC17** | 0.76 |
+| CTR9 | **UBE2A** | 0.764 |
+| CTR9 | **RNF20** | 0.93 |
+| CTR9 | **CDC73** | 0.999 |
+| CTR9 | **RTF1** | 0.999 |
+| CDC73 | **H2BC21** | 0.671 |
+| CDC73 | **UBE2A** | 0.782 |
+| CDC73 | **H2BC13** | 0.814 |
+| CDC73 | **H2BC3** | 0.815 |
+| CDC73 | **H2BC14** | 0.815 |
+| CDC73 | **H2BC17** | 0.826 |
+| CDC73 | **RNF20** | 0.982 |
+| CDC73 | **RTF1** | 0.999 |
+| H2BC21 | **H2BC13** | 0.533 |
+| H2BC21 | **RTF1** | 0.687 |
+| H2BC21 | **UBE2A** | 0.761 |
+| H2BC21 | **H2BC3** | 0.893 |
+| H2BC21 | **H2BC14** | 0.907 |
+| H2BC21 | **H2BC17** | 0.928 |
+| H2BC21 | **RNF20** | 0.976 |
+| UBE2A | **H2BC14** | 0.714 |
+| UBE2A | **H2BC3** | 0.714 |
+| UBE2A | **H2BC13** | 0.714 |
+| UBE2A | **H2BC17** | 0.721 |
+| UBE2A | **RTF1** | 0.785 |
+| UBE2A | **RNF20** | 0.999 |
+| H2BC13 | **H2BC3** | 0.568 |
+| H2BC13 | **H2BC17** | 0.661 |
+| H2BC13 | **H2BC14** | 0.727 |
+| H2BC13 | **RTF1** | 0.79 |
+| H2BC13 | **RNF20** | 0.924 |
+| RNF20 | **H2BC14** | 0.924 |
+| RNF20 | **H2BC17** | 0.926 |
+| RNF20 | **H2BC3** | 0.944 |
+| RNF20 | **RTF1** | 0.953 |
+| RTF1 | **H2BC3** | 0.789 |
+| RTF1 | **H2BC14** | 0.79 |
+| RTF1 | **H2BC17** | 0.793 |
+| H2BC17 | **H2BC14** | 0.971 |
+| H2BC17 | **H2BC3** | 0.979 |
+| H2BC14 | **H2BC3** | 0.972 |
+

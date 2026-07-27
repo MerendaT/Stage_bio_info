@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PPWD1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PPWD1
+Identifiant STRING officiel : `9606.ENSP00000261308`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBM22 | **FRG1** | 0.802 |
+| RBM22 | **WDR70** | 0.818 |
+| RBM22 | **PPIG** | 0.843 |
+| RBM22 | **PPWD1** | 0.882 |
+| RBM22 | **DHX38** | 0.994 |
+| RBM22 | **PPIL1** | 0.997 |
+| RBM22 | **SNRNP200** | 0.998 |
+| RBM22 | **CWC22** | 0.998 |
+| RBM22 | **SYF2** | 0.999 |
+| RBM22 | **XAB2** | 0.999 |
+| RBM22 | **CDC5L** | 0.999 |
+| RBM22 | **PRPF8** | 0.999 |
+| RBM22 | **SNRPA1** | 0.999 |
+| RBM22 | **CRNKL1** | 0.999 |
+| RBM22 | **CDC40** | 0.999 |
+| FRG1 | **DHX38** | 0.802 |
+| FRG1 | **CRNKL1** | 0.803 |
+| FRG1 | **SNRNP200** | 0.804 |
+| FRG1 | **PPIL1** | 0.806 |
+| FRG1 | **CDC40** | 0.819 |
+| FRG1 | **CDC5L** | 0.82 |
+| FRG1 | **XAB2** | 0.823 |
+| FRG1 | **SNRPA1** | 0.828 |
+| FRG1 | **SYF2** | 0.829 |
+| FRG1 | **WDR70** | 0.843 |
+| FRG1 | **PPWD1** | 0.87 |
+| FRG1 | **PRPF8** | 0.906 |
+| FRG1 | **CWC22** | 0.998 |
+| SYF2 | **WDR70** | 0.804 |
+| SYF2 | **PPIG** | 0.969 |
+| SYF2 | **PPWD1** | 0.97 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **SNRNP200** | 0.995 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **DHX38** | 0.998 |
+| SYF2 | **PPIL1** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **XAB2** | 0.999 |
+| SNRPA1 | **WDR70** | 0.807 |
+| SNRPA1 | **PPIG** | 0.84 |
+| SNRPA1 | **PPWD1** | 0.898 |
+| SNRPA1 | **DHX38** | 0.993 |
+| SNRPA1 | **PPIL1** | 0.997 |
+| SNRPA1 | **CWC22** | 0.998 |
+| SNRPA1 | **SNRNP200** | 0.999 |
+| SNRPA1 | **XAB2** | 0.999 |
+| SNRPA1 | **CDC5L** | 0.999 |
+| SNRPA1 | **PRPF8** | 0.999 |
+| SNRPA1 | **CRNKL1** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| PPIG | **CRNKL1** | 0.871 |
+| PPIG | **XAB2** | 0.876 |
+| PPIG | **PRPF8** | 0.877 |
+| PPIG | **CWC22** | 0.895 |
+| PPIG | **SNRNP200** | 0.903 |
+| PPIG | **CDC5L** | 0.907 |
+| PPIG | **PPWD1** | 0.912 |
+| PPIG | **PPIL1** | 0.961 |
+| PPIG | **DHX38** | 0.963 |
+| PPIG | **CDC40** | 0.973 |
+| PPWD1 | **WDR70** | 0.866 |
+| PPWD1 | **XAB2** | 0.875 |
+| PPWD1 | **SNRNP200** | 0.884 |
+| PPWD1 | **CWC22** | 0.891 |
+| PPWD1 | **CDC5L** | 0.897 |
+| PPWD1 | **CRNKL1** | 0.911 |
+| PPWD1 | **PRPF8** | 0.943 |
+| PPWD1 | **DHX38** | 0.964 |
+| PPWD1 | **PPIL1** | 0.968 |
+| PPWD1 | **CDC40** | 0.976 |
+| WDR70 | **SNRNP200** | 0.803 |
+| WDR70 | **PPIL1** | 0.806 |
+| WDR70 | **CDC5L** | 0.826 |
+| WDR70 | **CDC40** | 0.854 |
+| WDR70 | **DHX38** | 0.887 |
+| WDR70 | **XAB2** | 0.888 |
+| WDR70 | **CWC22** | 0.898 |
+| WDR70 | **CRNKL1** | 0.911 |
+| WDR70 | **PRPF8** | 0.92 |
+| DHX38 | **PPIL1** | 0.963 |
+| DHX38 | **CRNKL1** | 0.994 |
+| DHX38 | **XAB2** | 0.996 |
+| DHX38 | **CDC5L** | 0.997 |
+| DHX38 | **CWC22** | 0.998 |
+| DHX38 | **PRPF8** | 0.998 |
+| DHX38 | **CDC40** | 0.999 |
+| DHX38 | **SNRNP200** | 0.999 |
+| SNRNP200 | **PPIL1** | 0.959 |
+| SNRNP200 | **CDC40** | 0.996 |
+| SNRNP200 | **CRNKL1** | 0.997 |
+| SNRNP200 | **XAB2** | 0.997 |
+| SNRNP200 | **CDC5L** | 0.998 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **CWC22** | 0.999 |
+| XAB2 | **PPIL1** | 0.994 |
+| XAB2 | **CDC5L** | 0.999 |
+| XAB2 | **CDC40** | 0.999 |
+| XAB2 | **PRPF8** | 0.999 |
+| XAB2 | **CWC22** | 0.999 |
+| XAB2 | **CRNKL1** | 0.999 |
+| CDC40 | **PPIL1** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC5L | **PPIL1** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CDC5L | **CWC22** | 0.999 |
+| PPIL1 | **CWC22** | 0.982 |
+| PPIL1 | **CRNKL1** | 0.995 |
+| PPIL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| CRNKL1 | **CWC22** | 0.999 |
+| CWC22 | **PRPF8** | 0.999 |
+

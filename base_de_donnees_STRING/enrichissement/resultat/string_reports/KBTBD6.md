@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : KBTBD6
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KBTBD6
+Identifiant STRING officiel : `9606.ENSP00000368799`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KLHL20 | **KLHL8** | 0.907 |
+| KLHL20 | **KLHL3** | 0.908 |
+| KLHL20 | **KBTBD6** | 0.908 |
+| KLHL20 | **KLHL21** | 0.91 |
+| KLHL20 | **KBTBD7** | 0.91 |
+| KLHL20 | **KCTD17** | 0.914 |
+| KLHL20 | **SPOPL** | 0.916 |
+| KLHL20 | **TNFAIP1** | 0.919 |
+| KLHL20 | **KBTBD8** | 0.919 |
+| KLHL20 | **KLHL42** | 0.924 |
+| KLHL20 | **SPOP** | 0.924 |
+| KLHL20 | **KLHL9** | 0.924 |
+| KLHL20 | **KLHL22** | 0.925 |
+| KLHL20 | **RBX1** | 0.986 |
+| KLHL20 | **CUL3** | 0.999 |
+| RBX1 | **KBTBD8** | 0.921 |
+| RBX1 | **KLHL8** | 0.924 |
+| RBX1 | **KLHL21** | 0.926 |
+| RBX1 | **KBTBD6** | 0.94 |
+| RBX1 | **KBTBD7** | 0.941 |
+| RBX1 | **TNFAIP1** | 0.941 |
+| RBX1 | **SPOPL** | 0.947 |
+| RBX1 | **KLHL42** | 0.952 |
+| RBX1 | **KLHL22** | 0.955 |
+| RBX1 | **KLHL3** | 0.968 |
+| RBX1 | **KLHL9** | 0.974 |
+| RBX1 | **KCTD17** | 0.979 |
+| RBX1 | **SPOP** | 0.996 |
+| RBX1 | **CUL3** | 0.999 |
+| TNFAIP1 | **KLHL8** | 0.9 |
+| TNFAIP1 | **KBTBD8** | 0.9 |
+| TNFAIP1 | **KLHL42** | 0.901 |
+| TNFAIP1 | **KLHL3** | 0.902 |
+| TNFAIP1 | **SPOPL** | 0.903 |
+| TNFAIP1 | **KBTBD7** | 0.903 |
+| TNFAIP1 | **SPOP** | 0.905 |
+| TNFAIP1 | **KLHL9** | 0.906 |
+| TNFAIP1 | **KBTBD6** | 0.909 |
+| TNFAIP1 | **KLHL22** | 0.91 |
+| TNFAIP1 | **KLHL21** | 0.913 |
+| TNFAIP1 | **KCTD17** | 0.92 |
+| TNFAIP1 | **CUL3** | 0.993 |
+| CUL3 | **KLHL8** | 0.989 |
+| CUL3 | **KBTBD6** | 0.991 |
+| CUL3 | **KLHL42** | 0.993 |
+| CUL3 | **KLHL21** | 0.994 |
+| CUL3 | **KLHL22** | 0.995 |
+| CUL3 | **KBTBD8** | 0.997 |
+| CUL3 | **KCTD17** | 0.998 |
+| CUL3 | **KBTBD7** | 0.998 |
+| CUL3 | **SPOPL** | 0.999 |
+| CUL3 | **SPOP** | 0.999 |
+| CUL3 | **KLHL3** | 0.999 |
+| CUL3 | **KLHL9** | 0.999 |
+| KLHL8 | **KLHL3** | 0.905 |
+| KLHL8 | **KBTBD8** | 0.906 |
+| KLHL8 | **KLHL21** | 0.907 |
+| KLHL8 | **KCTD17** | 0.909 |
+| KLHL8 | **KBTBD7** | 0.91 |
+| KLHL8 | **KLHL22** | 0.91 |
+| KLHL8 | **KBTBD6** | 0.912 |
+| KLHL8 | **SPOPL** | 0.913 |
+| KLHL8 | **KLHL9** | 0.913 |
+| KLHL8 | **SPOP** | 0.914 |
+| KLHL8 | **KLHL42** | 0.92 |
+| SPOPL | **KLHL42** | 0.903 |
+| SPOPL | **KLHL21** | 0.905 |
+| SPOPL | **KCTD17** | 0.905 |
+| SPOPL | **KLHL9** | 0.906 |
+| SPOPL | **KLHL22** | 0.906 |
+| SPOPL | **KBTBD6** | 0.909 |
+| SPOPL | **KLHL3** | 0.911 |
+| SPOPL | **KBTBD8** | 0.914 |
+| SPOPL | **KBTBD7** | 0.921 |
+| SPOPL | **SPOP** | 0.966 |
+| KLHL3 | **KBTBD7** | 0.901 |
+| KLHL3 | **KBTBD6** | 0.907 |
+| KLHL3 | **KLHL21** | 0.907 |
+| KLHL3 | **KLHL22** | 0.918 |
+| KLHL3 | **KLHL42** | 0.919 |
+| KLHL3 | **SPOP** | 0.921 |
+| KLHL3 | **KLHL9** | 0.921 |
+| KLHL3 | **KBTBD8** | 0.921 |
+| KLHL3 | **KCTD17** | 0.924 |
+| KLHL22 | **KBTBD7** | 0.901 |
+| KLHL22 | **KBTBD6** | 0.907 |
+| KLHL22 | **KCTD17** | 0.909 |
+| KLHL22 | **KBTBD8** | 0.915 |
+| KLHL22 | **KLHL42** | 0.917 |
+| KLHL22 | **SPOP** | 0.921 |
+| KLHL22 | **KLHL21** | 0.927 |
+| KLHL22 | **KLHL9** | 0.949 |
+| KLHL9 | **KCTD17** | 0.908 |
+| KLHL9 | **SPOP** | 0.909 |
+| KLHL9 | **KBTBD7** | 0.912 |
+| KLHL9 | **KBTBD6** | 0.914 |
+| KLHL9 | **KBTBD8** | 0.927 |
+| KLHL9 | **KLHL42** | 0.928 |
+| KLHL9 | **KLHL21** | 0.96 |
+| KLHL21 | **KCTD17** | 0.902 |
+| KLHL21 | **KBTBD7** | 0.905 |
+| KLHL21 | **KBTBD8** | 0.906 |
+| KLHL21 | **KBTBD6** | 0.908 |
+| KLHL21 | **SPOP** | 0.911 |
+| KLHL21 | **KLHL42** | 0.914 |
+| KBTBD7 | **SPOP** | 0.907 |
+| KBTBD7 | **KLHL42** | 0.911 |
+| KBTBD7 | **KCTD17** | 0.914 |
+| KBTBD7 | **KBTBD8** | 0.949 |
+| KBTBD7 | **KBTBD6** | 0.995 |
+| KBTBD6 | **SPOP** | 0.908 |
+| KBTBD6 | **KCTD17** | 0.914 |
+| KBTBD6 | **KLHL42** | 0.915 |
+| KBTBD6 | **KBTBD8** | 0.92 |
+| KLHL42 | **KCTD17** | 0.9 |
+| KLHL42 | **KBTBD8** | 0.903 |
+| KLHL42 | **SPOP** | 0.908 |
+| SPOP | **KBTBD8** | 0.913 |
+| SPOP | **KCTD17** | 0.914 |
+| KCTD17 | **KBTBD8** | 0.906 |
+

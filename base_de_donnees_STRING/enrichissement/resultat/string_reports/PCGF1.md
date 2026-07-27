@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PCGF1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PCGF1
+Identifiant STRING officiel : `9606.ENSP00000233630`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CBX7 | **YAF2** | 0.625 |
+| CBX7 | **RYBP** | 0.806 |
+| CBX7 | **BCOR** | 0.833 |
+| CBX7 | **KDM2B** | 0.841 |
+| CBX7 | **CBX6** | 0.969 |
+| CBX7 | **CBX2** | 0.985 |
+| CBX7 | **PCGF1** | 0.993 |
+| CBX7 | **PHC1** | 0.994 |
+| CBX7 | **CBX8** | 0.995 |
+| CBX7 | **PCGF2** | 0.998 |
+| CBX7 | **RING1** | 0.999 |
+| CBX7 | **RNF2** | 0.999 |
+| CBX7 | **BMI1** | 0.999 |
+| SKP1 | **BMI1** | 0.412 |
+| SKP1 | **CBX8** | 0.424 |
+| SKP1 | **BCOR** | 0.899 |
+| SKP1 | **YAF2** | 0.927 |
+| SKP1 | **RNF2** | 0.932 |
+| SKP1 | **RING1** | 0.937 |
+| SKP1 | **BCORL1** | 0.966 |
+| SKP1 | **RYBP** | 0.981 |
+| SKP1 | **PCGF1** | 0.998 |
+| SKP1 | **KDM2B** | 0.999 |
+| PCGF1 | **PHC1** | 0.988 |
+| PCGF1 | **PCGF2** | 0.988 |
+| PCGF1 | **CBX6** | 0.989 |
+| PCGF1 | **BMI1** | 0.992 |
+| PCGF1 | **CBX8** | 0.993 |
+| PCGF1 | **CBX2** | 0.994 |
+| PCGF1 | **BCORL1** | 0.996 |
+| PCGF1 | **YAF2** | 0.999 |
+| PCGF1 | **RNF2** | 0.999 |
+| PCGF1 | **RING1** | 0.999 |
+| PCGF1 | **BCOR** | 0.999 |
+| PCGF1 | **RYBP** | 0.999 |
+| PCGF1 | **KDM2B** | 0.999 |
+| CBX8 | **BCORL1** | 0.403 |
+| CBX8 | **KDM2B** | 0.863 |
+| CBX8 | **YAF2** | 0.874 |
+| CBX8 | **RYBP** | 0.911 |
+| CBX8 | **BCOR** | 0.971 |
+| CBX8 | **CBX6** | 0.994 |
+| CBX8 | **PHC1** | 0.996 |
+| CBX8 | **CBX2** | 0.998 |
+| CBX8 | **RNF2** | 0.998 |
+| CBX8 | **PCGF2** | 0.998 |
+| CBX8 | **BMI1** | 0.999 |
+| CBX8 | **RING1** | 0.999 |
+| CBX2 | **BCORL1** | 0.49 |
+| CBX2 | **KDM2B** | 0.787 |
+| CBX2 | **BCOR** | 0.942 |
+| CBX2 | **YAF2** | 0.958 |
+| CBX2 | **CBX6** | 0.977 |
+| CBX2 | **RYBP** | 0.981 |
+| CBX2 | **RING1** | 0.999 |
+| CBX2 | **BMI1** | 0.999 |
+| CBX2 | **RNF2** | 0.999 |
+| CBX2 | **PCGF2** | 0.999 |
+| CBX2 | **PHC1** | 0.999 |
+| YAF2 | **CBX6** | 0.858 |
+| YAF2 | **PHC1** | 0.879 |
+| YAF2 | **BCORL1** | 0.908 |
+| YAF2 | **BCOR** | 0.956 |
+| YAF2 | **PCGF2** | 0.978 |
+| YAF2 | **BMI1** | 0.981 |
+| YAF2 | **RYBP** | 0.992 |
+| YAF2 | **KDM2B** | 0.992 |
+| YAF2 | **RING1** | 0.999 |
+| YAF2 | **RNF2** | 0.999 |
+| RNF2 | **BCORL1** | 0.8 |
+| RNF2 | **CBX6** | 0.995 |
+| RNF2 | **BCOR** | 0.995 |
+| RNF2 | **PHC1** | 0.999 |
+| RNF2 | **BMI1** | 0.999 |
+| RNF2 | **RYBP** | 0.999 |
+| RNF2 | **KDM2B** | 0.999 |
+| RNF2 | **RING1** | 0.999 |
+| RNF2 | **PCGF2** | 0.999 |
+| RING1 | **BCORL1** | 0.83 |
+| RING1 | **BCOR** | 0.994 |
+| RING1 | **KDM2B** | 0.996 |
+| RING1 | **CBX6** | 0.997 |
+| RING1 | **BMI1** | 0.999 |
+| RING1 | **PHC1** | 0.999 |
+| RING1 | **PCGF2** | 0.999 |
+| RING1 | **RYBP** | 0.999 |
+| BMI1 | **KDM2B** | 0.827 |
+| BMI1 | **BCOR** | 0.958 |
+| BMI1 | **CBX6** | 0.995 |
+| BMI1 | **RYBP** | 0.996 |
+| BMI1 | **PHC1** | 0.999 |
+| BMI1 | **PCGF2** | 0.999 |
+| KDM2B | **PHC1** | 0.63 |
+| KDM2B | **CBX6** | 0.631 |
+| KDM2B | **PCGF2** | 0.76 |
+| KDM2B | **BCOR** | 0.986 |
+| KDM2B | **BCORL1** | 0.988 |
+| KDM2B | **RYBP** | 0.999 |
+| BCOR | **BCORL1** | 0.693 |
+| BCOR | **PHC1** | 0.956 |
+| BCOR | **PCGF2** | 0.958 |
+| BCOR | **RYBP** | 0.96 |
+| CBX6 | **RYBP** | 0.855 |
+| CBX6 | **PHC1** | 0.989 |
+| CBX6 | **PCGF2** | 0.992 |
+| RYBP | **PHC1** | 0.871 |
+| RYBP | **BCORL1** | 0.92 |
+| RYBP | **PCGF2** | 0.991 |
+| PHC1 | **BCORL1** | 0.435 |
+| PHC1 | **PCGF2** | 0.999 |
+| BCORL1 | **PCGF2** | 0.806 |
+

@@ -1,0 +1,127 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : CHMP4B
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CHMP4B
+Identifiant STRING officiel : `9606.ENSP00000217402`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CHMP4B | **SNF8** | 0.967 |
+| CHMP4B | **CHMP7** | 0.968 |
+| CHMP4B | **TSG101** | 0.968 |
+| CHMP4B | **RNF103-CHMP3** | 0.972 |
+| CHMP4B | **CHMP5** | 0.972 |
+| CHMP4B | **CHMP4C** | 0.973 |
+| CHMP4B | **VPS25** | 0.974 |
+| CHMP4B | **BROX** | 0.984 |
+| CHMP4B | **CHMP2B** | 0.989 |
+| CHMP4B | **CHMP1B** | 0.994 |
+| CHMP4B | **PTPN23** | 0.994 |
+| CHMP4B | **CHMP6** | 0.995 |
+| CHMP4B | **CHMP2A** | 0.996 |
+| CHMP4B | **PDCD6IP** | 0.998 |
+| CHMP4B | **CHMP3** | 0.998 |
+| CHMP5 | **PTPN23** | 0.507 |
+| CHMP5 | **SNF8** | 0.624 |
+| CHMP5 | **PDCD6IP** | 0.806 |
+| CHMP5 | **VPS25** | 0.902 |
+| CHMP5 | **CHMP2B** | 0.904 |
+| CHMP5 | **TSG101** | 0.927 |
+| CHMP5 | **CHMP7** | 0.943 |
+| CHMP5 | **BROX** | 0.974 |
+| CHMP5 | **CHMP4C** | 0.992 |
+| CHMP5 | **RNF103-CHMP3** | 0.993 |
+| CHMP5 | **CHMP1B** | 0.994 |
+| CHMP5 | **CHMP2A** | 0.996 |
+| CHMP5 | **CHMP6** | 0.997 |
+| CHMP5 | **CHMP3** | 0.997 |
+| TSG101 | **BROX** | 0.497 |
+| TSG101 | **RNF103-CHMP3** | 0.887 |
+| TSG101 | **PTPN23** | 0.916 |
+| TSG101 | **CHMP4C** | 0.933 |
+| TSG101 | **CHMP7** | 0.946 |
+| TSG101 | **CHMP2B** | 0.953 |
+| TSG101 | **CHMP1B** | 0.962 |
+| TSG101 | **SNF8** | 0.984 |
+| TSG101 | **CHMP2A** | 0.988 |
+| TSG101 | **CHMP3** | 0.988 |
+| TSG101 | **VPS25** | 0.994 |
+| TSG101 | **CHMP6** | 0.996 |
+| TSG101 | **PDCD6IP** | 0.999 |
+| VPS25 | **BROX** | 0.493 |
+| VPS25 | **PTPN23** | 0.518 |
+| VPS25 | **PDCD6IP** | 0.729 |
+| VPS25 | **RNF103-CHMP3** | 0.93 |
+| VPS25 | **CHMP4C** | 0.957 |
+| VPS25 | **CHMP2B** | 0.961 |
+| VPS25 | **CHMP1B** | 0.972 |
+| VPS25 | **CHMP7** | 0.992 |
+| VPS25 | **CHMP3** | 0.993 |
+| VPS25 | **CHMP2A** | 0.996 |
+| VPS25 | **SNF8** | 0.999 |
+| VPS25 | **CHMP6** | 0.999 |
+| CHMP2B | **PDCD6IP** | 0.654 |
+| CHMP2B | **RNF103-CHMP3** | 0.906 |
+| CHMP2B | **CHMP4C** | 0.931 |
+| CHMP2B | **SNF8** | 0.933 |
+| CHMP2B | **CHMP7** | 0.973 |
+| CHMP2B | **CHMP6** | 0.978 |
+| CHMP2B | **CHMP2A** | 0.987 |
+| CHMP2B | **CHMP1B** | 0.994 |
+| CHMP2B | **CHMP3** | 0.996 |
+| CHMP3 | **BROX** | 0.483 |
+| CHMP3 | **PTPN23** | 0.558 |
+| CHMP3 | **PDCD6IP** | 0.853 |
+| CHMP3 | **RNF103-CHMP3** | 0.942 |
+| CHMP3 | **SNF8** | 0.979 |
+| CHMP3 | **CHMP4C** | 0.982 |
+| CHMP3 | **CHMP7** | 0.989 |
+| CHMP3 | **CHMP6** | 0.999 |
+| CHMP3 | **CHMP2A** | 0.999 |
+| CHMP3 | **CHMP1B** | 0.999 |
+| PTPN23 | **SNF8** | 0.438 |
+| PTPN23 | **CHMP1B** | 0.451 |
+| PTPN23 | **CHMP2A** | 0.501 |
+| PTPN23 | **RNF103-CHMP3** | 0.534 |
+| PTPN23 | **PDCD6IP** | 0.55 |
+| PTPN23 | **CHMP6** | 0.589 |
+| PTPN23 | **CHMP4C** | 0.701 |
+| CHMP4C | **BROX** | 0.736 |
+| CHMP4C | **SNF8** | 0.909 |
+| CHMP4C | **CHMP6** | 0.941 |
+| CHMP4C | **RNF103-CHMP3** | 0.96 |
+| CHMP4C | **CHMP1B** | 0.968 |
+| CHMP4C | **CHMP7** | 0.98 |
+| CHMP4C | **CHMP2A** | 0.99 |
+| CHMP4C | **PDCD6IP** | 0.999 |
+| CHMP6 | **BROX** | 0.617 |
+| CHMP6 | **PDCD6IP** | 0.9 |
+| CHMP6 | **CHMP7** | 0.969 |
+| CHMP6 | **CHMP1B** | 0.99 |
+| CHMP6 | **CHMP2A** | 0.999 |
+| CHMP6 | **RNF103-CHMP3** | 0.999 |
+| CHMP6 | **SNF8** | 0.999 |
+| BROX | **CHMP2A** | 0.407 |
+| BROX | **CHMP7** | 0.424 |
+| BROX | **SNF8** | 0.465 |
+| BROX | **RNF103-CHMP3** | 0.482 |
+| CHMP7 | **PDCD6IP** | 0.669 |
+| CHMP7 | **RNF103-CHMP3** | 0.894 |
+| CHMP7 | **SNF8** | 0.942 |
+| CHMP7 | **CHMP1B** | 0.983 |
+| CHMP7 | **CHMP2A** | 0.99 |
+| PDCD6IP | **SNF8** | 0.499 |
+| PDCD6IP | **CHMP1B** | 0.517 |
+| PDCD6IP | **RNF103-CHMP3** | 0.714 |
+| PDCD6IP | **CHMP2A** | 0.911 |
+| SNF8 | **RNF103-CHMP3** | 0.808 |
+| SNF8 | **CHMP1B** | 0.952 |
+| SNF8 | **CHMP2A** | 0.98 |
+| CHMP1B | **RNF103-CHMP3** | 0.995 |
+| CHMP1B | **CHMP2A** | 0.997 |
+| CHMP2A | **RNF103-CHMP3** | 0.998 |
+

@@ -1,0 +1,125 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : SRPK2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SRPK2
+Identifiant STRING officiel : `9606.ENSP00000377262`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SRSF6 | **PRPF38A** | 0.469 |
+| SRSF6 | **DDX23** | 0.485 |
+| SRSF6 | **LUC7L3** | 0.546 |
+| SRSF6 | **LUC7L** | 0.607 |
+| SRSF6 | **SNRNP70** | 0.656 |
+| SRSF6 | **RBM39** | 0.705 |
+| SRSF6 | **CDC5L** | 0.843 |
+| SRSF6 | **U2AF1** | 0.869 |
+| SRSF6 | **SRPK2** | 0.904 |
+| SRSF6 | **SRSF5** | 0.919 |
+| SRSF6 | **SRSF2** | 0.927 |
+| SRSF6 | **U2AF2** | 0.981 |
+| SRSF6 | **SRSF1** | 0.987 |
+| SRSF6 | **SRPK1** | 0.988 |
+| RBM39 | **DDX46** | 0.512 |
+| RBM39 | **SNRNP70** | 0.592 |
+| RBM39 | **DDX23** | 0.688 |
+| RBM39 | **SRSF2** | 0.712 |
+| RBM39 | **PRPF38A** | 0.811 |
+| RBM39 | **SRPK1** | 0.821 |
+| RBM39 | **SRSF1** | 0.83 |
+| RBM39 | **SRPK2** | 0.877 |
+| RBM39 | **SRSF5** | 0.895 |
+| RBM39 | **LUC7L** | 0.906 |
+| RBM39 | **U2AF1** | 0.945 |
+| RBM39 | **CDC5L** | 0.956 |
+| RBM39 | **LUC7L3** | 0.957 |
+| RBM39 | **U2AF2** | 0.993 |
+| PRPF38A | **LUC7L** | 0.427 |
+| PRPF38A | **DDX46** | 0.439 |
+| PRPF38A | **U2AF2** | 0.461 |
+| PRPF38A | **SRSF2** | 0.466 |
+| PRPF38A | **SRSF5** | 0.475 |
+| PRPF38A | **DDX23** | 0.591 |
+| PRPF38A | **U2AF1** | 0.691 |
+| PRPF38A | **SNRNP70** | 0.713 |
+| PRPF38A | **SRPK2** | 0.858 |
+| PRPF38A | **SRSF1** | 0.866 |
+| PRPF38A | **SRPK1** | 0.873 |
+| PRPF38A | **CDC5L** | 0.935 |
+| SRSF1 | **DDX46** | 0.512 |
+| SRSF1 | **DDX23** | 0.538 |
+| SRSF1 | **LUC7L** | 0.785 |
+| SRSF1 | **LUC7L3** | 0.883 |
+| SRSF1 | **SRSF5** | 0.917 |
+| SRSF1 | **CDC5L** | 0.957 |
+| SRSF1 | **SRPK2** | 0.973 |
+| SRSF1 | **U2AF1** | 0.997 |
+| SRSF1 | **SRSF2** | 0.997 |
+| SRSF1 | **U2AF2** | 0.998 |
+| SRSF1 | **SNRNP70** | 0.998 |
+| SRSF1 | **SRPK1** | 0.999 |
+| U2AF1 | **DDX23** | 0.447 |
+| U2AF1 | **DDX46** | 0.471 |
+| U2AF1 | **LUC7L** | 0.706 |
+| U2AF1 | **CDC5L** | 0.779 |
+| U2AF1 | **SRPK2** | 0.895 |
+| U2AF1 | **SNRNP70** | 0.9 |
+| U2AF1 | **SRPK1** | 0.933 |
+| U2AF1 | **SRSF5** | 0.941 |
+| U2AF1 | **U2AF2** | 0.999 |
+| U2AF1 | **SRSF2** | 0.999 |
+| LUC7L | **CDC5L** | 0.425 |
+| LUC7L | **DDX46** | 0.675 |
+| LUC7L | **DDX23** | 0.743 |
+| LUC7L | **LUC7L3** | 0.803 |
+| LUC7L | **SRPK1** | 0.811 |
+| LUC7L | **SRSF5** | 0.851 |
+| LUC7L | **U2AF2** | 0.889 |
+| LUC7L | **SRPK2** | 0.904 |
+| LUC7L | **SNRNP70** | 0.994 |
+| U2AF2 | **DDX23** | 0.725 |
+| U2AF2 | **LUC7L3** | 0.82 |
+| U2AF2 | **DDX46** | 0.838 |
+| U2AF2 | **SRPK1** | 0.915 |
+| U2AF2 | **SRPK2** | 0.926 |
+| U2AF2 | **SRSF5** | 0.958 |
+| U2AF2 | **SNRNP70** | 0.982 |
+| U2AF2 | **SRSF2** | 0.996 |
+| U2AF2 | **CDC5L** | 0.997 |
+| DDX23 | **DDX46** | 0.522 |
+| DDX23 | **LUC7L3** | 0.811 |
+| DDX23 | **CDC5L** | 0.821 |
+| DDX23 | **SRPK1** | 0.942 |
+| DDX23 | **SNRNP70** | 0.953 |
+| DDX23 | **SRPK2** | 0.962 |
+| CDC5L | **LUC7L3** | 0.432 |
+| CDC5L | **SNRNP70** | 0.7 |
+| CDC5L | **SRSF2** | 0.757 |
+| CDC5L | **SRPK2** | 0.833 |
+| CDC5L | **DDX46** | 0.835 |
+| CDC5L | **SRPK1** | 0.844 |
+| CDC5L | **SRSF5** | 0.846 |
+| SRPK1 | **LUC7L3** | 0.833 |
+| SRPK1 | **SRPK2** | 0.887 |
+| SRPK1 | **SNRNP70** | 0.939 |
+| SRPK1 | **SRSF5** | 0.99 |
+| SRPK1 | **SRSF2** | 0.994 |
+| SRSF2 | **DDX46** | 0.533 |
+| SRSF2 | **LUC7L3** | 0.608 |
+| SRSF2 | **SRSF5** | 0.922 |
+| SRSF2 | **SRPK2** | 0.936 |
+| SRSF2 | **SNRNP70** | 0.987 |
+| LUC7L3 | **DDX46** | 0.795 |
+| LUC7L3 | **SRSF5** | 0.814 |
+| LUC7L3 | **SRPK2** | 0.889 |
+| LUC7L3 | **SNRNP70** | 0.947 |
+| SRPK2 | **DDX46** | 0.868 |
+| SRPK2 | **SRSF5** | 0.901 |
+| SRPK2 | **SNRNP70** | 0.924 |
+| DDX46 | **SNRNP70** | 0.817 |
+| SRSF5 | **SNRNP70** | 0.817 |
+

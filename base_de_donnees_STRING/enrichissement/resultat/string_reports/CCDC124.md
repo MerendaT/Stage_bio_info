@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CCDC124
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CCDC124
+Identifiant STRING officiel : `9606.ENSP00000471455`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RPL35 | **CCDC124** | 0.9 |
+| RPL35 | **RPS7** | 0.999 |
+| RPL35 | **RPS5** | 0.999 |
+| RPL35 | **RPS2** | 0.999 |
+| RPL35 | **RPS15** | 0.999 |
+| RPL35 | **RPL23A** | 0.999 |
+| RPL35 | **RPL8** | 0.999 |
+| RPL35 | **RPL11** | 0.999 |
+| RPL35 | **RPS21** | 0.999 |
+| RPL35 | **RPL5** | 0.999 |
+| RPL35 | **RPS19** | 0.999 |
+| RPL35 | **RACK1** | 0.999 |
+| RPL35 | **RPS3** | 0.999 |
+| RPL35 | **FAU** | 0.999 |
+| RPL35 | **RPS11** | 0.999 |
+| RPL8 | **CCDC124** | 0.91 |
+| RPL8 | **RPS7** | 0.999 |
+| RPL8 | **RPS5** | 0.999 |
+| RPL8 | **RPS2** | 0.999 |
+| RPL8 | **RPS15** | 0.999 |
+| RPL8 | **RPL23A** | 0.999 |
+| RPL8 | **RPL11** | 0.999 |
+| RPL8 | **RPS21** | 0.999 |
+| RPL8 | **RPL5** | 0.999 |
+| RPL8 | **RPS19** | 0.999 |
+| RPL8 | **RACK1** | 0.999 |
+| RPL8 | **RPS3** | 0.999 |
+| RPL8 | **FAU** | 0.999 |
+| RPL8 | **RPS11** | 0.999 |
+| RPS11 | **CCDC124** | 0.901 |
+| RPS11 | **RPL11** | 0.999 |
+| RPS11 | **RPS21** | 0.999 |
+| RPS11 | **RPL5** | 0.999 |
+| RPS11 | **RPS19** | 0.999 |
+| RPS11 | **RACK1** | 0.999 |
+| RPS11 | **RPS7** | 0.999 |
+| RPS11 | **RPS5** | 0.999 |
+| RPS11 | **RPS15** | 0.999 |
+| RPS11 | **RPS2** | 0.999 |
+| RPS11 | **RPL23A** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS11 | **FAU** | 0.999 |
+| RPS3 | **CCDC124** | 0.903 |
+| RPS3 | **RPS2** | 0.999 |
+| RPS3 | **RPS15** | 0.999 |
+| RPS3 | **RPL23A** | 0.999 |
+| RPS3 | **RPS5** | 0.999 |
+| RPS3 | **RPS7** | 0.999 |
+| RPS3 | **RPL5** | 0.999 |
+| RPS3 | **RACK1** | 0.999 |
+| RPS3 | **RPS19** | 0.999 |
+| RPS3 | **RPS21** | 0.999 |
+| RPS3 | **RPL11** | 0.999 |
+| RPS3 | **FAU** | 0.999 |
+| RPS2 | **CCDC124** | 0.901 |
+| RPS2 | **FAU** | 0.999 |
+| RPS2 | **RPL5** | 0.999 |
+| RPS2 | **RACK1** | 0.999 |
+| RPS2 | **RPS19** | 0.999 |
+| RPS2 | **RPS21** | 0.999 |
+| RPS2 | **RPL11** | 0.999 |
+| RPS2 | **RPS15** | 0.999 |
+| RPS2 | **RPL23A** | 0.999 |
+| RPS2 | **RPS5** | 0.999 |
+| RPS2 | **RPS7** | 0.999 |
+| RPS21 | **CCDC124** | 0.905 |
+| RPS21 | **FAU** | 0.999 |
+| RPS21 | **RPS7** | 0.999 |
+| RPS21 | **RPS5** | 0.999 |
+| RPS21 | **RPL23A** | 0.999 |
+| RPS21 | **RPS15** | 0.999 |
+| RPS21 | **RPL11** | 0.999 |
+| RPS21 | **RPS19** | 0.999 |
+| RPS21 | **RACK1** | 0.999 |
+| RPS21 | **RPL5** | 0.999 |
+| RPL5 | **CCDC124** | 0.918 |
+| RPL5 | **FAU** | 0.999 |
+| RPL5 | **RPS19** | 0.999 |
+| RPL5 | **RACK1** | 0.999 |
+| RPL5 | **RPL11** | 0.999 |
+| RPL5 | **RPL23A** | 0.999 |
+| RPL5 | **RPS15** | 0.999 |
+| RPL5 | **RPS7** | 0.999 |
+| RPL5 | **RPS5** | 0.999 |
+| RPL23A | **CCDC124** | 0.917 |
+| RPL23A | **RPS7** | 0.999 |
+| RPL23A | **RPS5** | 0.999 |
+| RPL23A | **RPS15** | 0.999 |
+| RPL23A | **RPL11** | 0.999 |
+| RPL23A | **RPS19** | 0.999 |
+| RPL23A | **RACK1** | 0.999 |
+| RPL23A | **FAU** | 0.999 |
+| RACK1 | **CCDC124** | 0.916 |
+| RACK1 | **FAU** | 0.999 |
+| RACK1 | **RPS7** | 0.999 |
+| RACK1 | **RPS5** | 0.999 |
+| RACK1 | **RPS15** | 0.999 |
+| RACK1 | **RPL11** | 0.999 |
+| RACK1 | **RPS19** | 0.999 |
+| FAU | **CCDC124** | 0.952 |
+| FAU | **RPS15** | 0.999 |
+| FAU | **RPS5** | 0.999 |
+| FAU | **RPS7** | 0.999 |
+| FAU | **RPS19** | 0.999 |
+| FAU | **RPL11** | 0.999 |
+| RPS15 | **CCDC124** | 0.918 |
+| RPS15 | **RPS5** | 0.999 |
+| RPS15 | **RPS7** | 0.999 |
+| RPS15 | **RPS19** | 0.999 |
+| RPS15 | **RPL11** | 0.999 |
+| RPS19 | **CCDC124** | 0.922 |
+| RPS19 | **RPL11** | 0.999 |
+| RPS19 | **RPS7** | 0.999 |
+| RPS19 | **RPS5** | 0.999 |
+| CCDC124 | **RPS7** | 0.908 |
+| CCDC124 | **RPL11** | 0.917 |
+| CCDC124 | **RPS5** | 0.924 |
+| RPS5 | **RPS7** | 0.999 |
+| RPS5 | **RPL11** | 0.999 |
+| RPS7 | **RPL11** | 0.999 |
+

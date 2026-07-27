@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : BBS2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BBS2
+Identifiant STRING officiel : `9606.ENSP00000245157`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BBS9 | **MCHR1** | 0.759 |
+| BBS9 | **SSTR3** | 0.812 |
+| BBS9 | **CEP290** | 0.845 |
+| BBS9 | **MKS1** | 0.875 |
+| BBS9 | **RAB3IP** | 0.928 |
+| BBS9 | **BBS12** | 0.967 |
+| BBS9 | **BBS10** | 0.976 |
+| BBS9 | **LZTFL1** | 0.986 |
+| BBS9 | **BBS1** | 0.999 |
+| BBS9 | **BBS5** | 0.999 |
+| BBS9 | **TTC8** | 0.999 |
+| BBS9 | **BBIP1** | 0.999 |
+| BBS9 | **BBS4** | 0.999 |
+| BBS9 | **BBS7** | 0.999 |
+| BBS9 | **BBS2** | 0.999 |
+| BBS2 | **MKS1** | 0.871 |
+| BBS2 | **CEP290** | 0.874 |
+| BBS2 | **SSTR3** | 0.888 |
+| BBS2 | **MCHR1** | 0.891 |
+| BBS2 | **RAB3IP** | 0.932 |
+| BBS2 | **BBS12** | 0.965 |
+| BBS2 | **LZTFL1** | 0.984 |
+| BBS2 | **BBS10** | 0.987 |
+| BBS2 | **BBS4** | 0.999 |
+| BBS2 | **BBIP1** | 0.999 |
+| BBS2 | **BBS5** | 0.999 |
+| BBS2 | **BBS1** | 0.999 |
+| BBS2 | **BBS7** | 0.999 |
+| BBS2 | **TTC8** | 0.999 |
+| MCHR1 | **RAB3IP** | 0.514 |
+| MCHR1 | **LZTFL1** | 0.567 |
+| MCHR1 | **TTC8** | 0.726 |
+| MCHR1 | **BBIP1** | 0.766 |
+| MCHR1 | **BBS5** | 0.79 |
+| MCHR1 | **SSTR3** | 0.801 |
+| MCHR1 | **BBS7** | 0.828 |
+| MCHR1 | **BBS4** | 0.885 |
+| MCHR1 | **BBS1** | 0.91 |
+| BBS7 | **CEP290** | 0.826 |
+| BBS7 | **MKS1** | 0.827 |
+| BBS7 | **SSTR3** | 0.854 |
+| BBS7 | **RAB3IP** | 0.932 |
+| BBS7 | **LZTFL1** | 0.982 |
+| BBS7 | **BBS10** | 0.994 |
+| BBS7 | **BBS12** | 0.995 |
+| BBS7 | **BBS1** | 0.999 |
+| BBS7 | **TTC8** | 0.999 |
+| BBS7 | **BBS5** | 0.999 |
+| BBS7 | **BBIP1** | 0.999 |
+| BBS7 | **BBS4** | 0.999 |
+| BBS4 | **MKS1** | 0.801 |
+| BBS4 | **SSTR3** | 0.874 |
+| BBS4 | **CEP290** | 0.931 |
+| BBS4 | **BBS12** | 0.964 |
+| BBS4 | **RAB3IP** | 0.967 |
+| BBS4 | **BBS10** | 0.969 |
+| BBS4 | **LZTFL1** | 0.976 |
+| BBS4 | **TTC8** | 0.999 |
+| BBS4 | **BBIP1** | 0.999 |
+| BBS4 | **BBS1** | 0.999 |
+| BBS4 | **BBS5** | 0.999 |
+| BBS5 | **SSTR3** | 0.788 |
+| BBS5 | **MKS1** | 0.825 |
+| BBS5 | **CEP290** | 0.848 |
+| BBS5 | **RAB3IP** | 0.933 |
+| BBS5 | **BBS12** | 0.949 |
+| BBS5 | **LZTFL1** | 0.975 |
+| BBS5 | **BBS10** | 0.98 |
+| BBS5 | **TTC8** | 0.999 |
+| BBS5 | **BBS1** | 0.999 |
+| BBS5 | **BBIP1** | 0.999 |
+| LZTFL1 | **CEP290** | 0.531 |
+| LZTFL1 | **MKS1** | 0.619 |
+| LZTFL1 | **SSTR3** | 0.637 |
+| LZTFL1 | **BBS10** | 0.739 |
+| LZTFL1 | **BBS12** | 0.741 |
+| LZTFL1 | **BBIP1** | 0.821 |
+| LZTFL1 | **TTC8** | 0.97 |
+| LZTFL1 | **BBS1** | 0.972 |
+| BBS1 | **MKS1** | 0.882 |
+| BBS1 | **SSTR3** | 0.917 |
+| BBS1 | **CEP290** | 0.921 |
+| BBS1 | **BBS12** | 0.963 |
+| BBS1 | **BBS10** | 0.982 |
+| BBS1 | **RAB3IP** | 0.998 |
+| BBS1 | **BBIP1** | 0.999 |
+| BBS1 | **TTC8** | 0.999 |
+| MKS1 | **RAB3IP** | 0.636 |
+| MKS1 | **BBIP1** | 0.663 |
+| MKS1 | **TTC8** | 0.814 |
+| MKS1 | **BBS12** | 0.854 |
+| MKS1 | **BBS10** | 0.904 |
+| MKS1 | **CEP290** | 0.993 |
+| BBIP1 | **CEP290** | 0.585 |
+| BBIP1 | **SSTR3** | 0.736 |
+| BBIP1 | **BBS12** | 0.83 |
+| BBIP1 | **BBS10** | 0.892 |
+| BBIP1 | **RAB3IP** | 0.949 |
+| BBIP1 | **TTC8** | 0.997 |
+| BBS12 | **SSTR3** | 0.429 |
+| BBS12 | **CEP290** | 0.807 |
+| BBS12 | **TTC8** | 0.922 |
+| BBS12 | **BBS10** | 0.999 |
+| RAB3IP | **CEP290** | 0.749 |
+| RAB3IP | **TTC8** | 0.89 |
+| CEP290 | **SSTR3** | 0.49 |
+| CEP290 | **TTC8** | 0.733 |
+| CEP290 | **BBS10** | 0.878 |
+| SSTR3 | **BBS10** | 0.414 |
+| SSTR3 | **TTC8** | 0.709 |
+| TTC8 | **BBS10** | 0.919 |
+

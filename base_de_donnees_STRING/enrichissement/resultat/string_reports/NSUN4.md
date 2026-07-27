@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NSUN4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NSUN4
+Identifiant STRING officiel : `9606.ENSP00000419740`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRM2 | **NSUN5** | 0.536 |
+| MRM2 | **GADD45GIP1** | 0.801 |
+| MRM2 | **MRPL33** | 0.803 |
+| MRM2 | **MRPL2** | 0.839 |
+| MRM2 | **MRPL58** | 0.875 |
+| MRM2 | **MRPL13** | 0.878 |
+| MRM2 | **MRPL22** | 0.88 |
+| MRM2 | **MRPL4** | 0.89 |
+| MRM2 | **MRPL12** | 0.89 |
+| MRM2 | **MRPL24** | 0.904 |
+| MRM2 | **MTERF4** | 0.94 |
+| MRM2 | **MALSU1** | 0.948 |
+| MRM2 | **MTG2** | 0.963 |
+| MRM2 | **NSUN4** | 0.965 |
+| MRM2 | **MTG1** | 0.973 |
+| MRPL33 | **MTERF4** | 0.819 |
+| MRPL33 | **MTG1** | 0.827 |
+| MRPL33 | **MTG2** | 0.875 |
+| MRPL33 | **NSUN4** | 0.905 |
+| MRPL33 | **MALSU1** | 0.93 |
+| MRPL33 | **GADD45GIP1** | 0.984 |
+| MRPL33 | **MRPL58** | 0.996 |
+| MRPL33 | **MRPL24** | 0.997 |
+| MRPL33 | **MRPL2** | 0.998 |
+| MRPL33 | **MRPL13** | 0.999 |
+| MRPL33 | **MRPL4** | 0.999 |
+| MRPL33 | **MRPL12** | 0.999 |
+| MRPL33 | **MRPL22** | 0.999 |
+| MRPL58 | **NSUN4** | 0.893 |
+| MRPL58 | **MTG1** | 0.903 |
+| MRPL58 | **MTERF4** | 0.905 |
+| MRPL58 | **MTG2** | 0.909 |
+| MRPL58 | **MALSU1** | 0.97 |
+| MRPL58 | **MRPL22** | 0.974 |
+| MRPL58 | **MRPL24** | 0.981 |
+| MRPL58 | **MRPL2** | 0.988 |
+| MRPL58 | **MRPL13** | 0.991 |
+| MRPL58 | **MRPL4** | 0.994 |
+| MRPL58 | **GADD45GIP1** | 0.994 |
+| MRPL58 | **MRPL12** | 0.999 |
+| MRPL13 | **MTERF4** | 0.832 |
+| MRPL13 | **NSUN4** | 0.874 |
+| MRPL13 | **MTG2** | 0.879 |
+| MRPL13 | **GADD45GIP1** | 0.97 |
+| MRPL13 | **MTG1** | 0.98 |
+| MRPL13 | **MALSU1** | 0.991 |
+| MRPL13 | **MRPL2** | 0.998 |
+| MRPL13 | **MRPL12** | 0.998 |
+| MRPL13 | **MRPL22** | 0.999 |
+| MRPL13 | **MRPL24** | 0.999 |
+| MRPL13 | **MRPL4** | 0.999 |
+| MRPL4 | **MTERF4** | 0.821 |
+| MRPL4 | **MTG2** | 0.874 |
+| MRPL4 | **NSUN4** | 0.875 |
+| MRPL4 | **MTG1** | 0.89 |
+| MRPL4 | **MALSU1** | 0.986 |
+| MRPL4 | **GADD45GIP1** | 0.989 |
+| MRPL4 | **MRPL12** | 0.998 |
+| MRPL4 | **MRPL24** | 0.998 |
+| MRPL4 | **MRPL2** | 0.999 |
+| MRPL4 | **MRPL22** | 0.999 |
+| NSUN5 | **MTG1** | 0.445 |
+| NSUN5 | **MTERF4** | 0.572 |
+| NSUN5 | **NSUN4** | 0.924 |
+| MTG1 | **GADD45GIP1** | 0.838 |
+| MTG1 | **MRPL22** | 0.881 |
+| MTG1 | **MRPL2** | 0.883 |
+| MTG1 | **MRPL12** | 0.899 |
+| MTG1 | **MTERF4** | 0.964 |
+| MTG1 | **NSUN4** | 0.972 |
+| MTG1 | **MTG2** | 0.976 |
+| MTG1 | **MRPL24** | 0.981 |
+| MTG1 | **MALSU1** | 0.997 |
+| GADD45GIP1 | **MTG2** | 0.837 |
+| GADD45GIP1 | **MTERF4** | 0.842 |
+| GADD45GIP1 | **MALSU1** | 0.884 |
+| GADD45GIP1 | **NSUN4** | 0.912 |
+| GADD45GIP1 | **MRPL12** | 0.958 |
+| GADD45GIP1 | **MRPL2** | 0.959 |
+| GADD45GIP1 | **MRPL22** | 0.964 |
+| GADD45GIP1 | **MRPL24** | 0.972 |
+| MRPL12 | **NSUN4** | 0.88 |
+| MRPL12 | **MTG2** | 0.897 |
+| MRPL12 | **MTERF4** | 0.909 |
+| MRPL12 | **MALSU1** | 0.926 |
+| MRPL12 | **MRPL2** | 0.995 |
+| MRPL12 | **MRPL24** | 0.996 |
+| MRPL12 | **MRPL22** | 0.997 |
+| MRPL24 | **NSUN4** | 0.869 |
+| MRPL24 | **MTERF4** | 0.881 |
+| MRPL24 | **MTG2** | 0.894 |
+| MRPL24 | **MALSU1** | 0.992 |
+| MRPL24 | **MRPL22** | 0.993 |
+| MRPL24 | **MRPL2** | 0.997 |
+| MTG2 | **MRPL22** | 0.874 |
+| MTG2 | **MRPL2** | 0.885 |
+| MTG2 | **NSUN4** | 0.943 |
+| MTG2 | **MTERF4** | 0.946 |
+| MTG2 | **MALSU1** | 0.987 |
+| MRPL2 | **NSUN4** | 0.906 |
+| MRPL2 | **MTERF4** | 0.909 |
+| MRPL2 | **MALSU1** | 0.954 |
+| MRPL2 | **MRPL22** | 0.996 |
+| MALSU1 | **MTERF4** | 0.964 |
+| MALSU1 | **NSUN4** | 0.968 |
+| MALSU1 | **MRPL22** | 0.974 |
+| NSUN4 | **MRPL22** | 0.876 |
+| NSUN4 | **MTERF4** | 0.999 |
+| MRPL22 | **MTERF4** | 0.818 |
+

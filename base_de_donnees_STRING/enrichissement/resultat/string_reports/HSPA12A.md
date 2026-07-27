@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : HSPA12A
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HSPA12A
+Identifiant STRING officiel : `9606.ENSP00000489674`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DNAJB1 | **GRPEL2** | 0.545 |
+| DNAJB1 | **HSPA12B** | 0.744 |
+| DNAJB1 | **HSPA12A** | 0.753 |
+| DNAJB1 | **HSPA13** | 0.843 |
+| DNAJB1 | **HSPA14** | 0.876 |
+| DNAJB1 | **HSPA5** | 0.95 |
+| DNAJB1 | **HSPA4L** | 0.952 |
+| DNAJB1 | **HSPA9** | 0.952 |
+| DNAJB1 | **HSPA1L** | 0.969 |
+| DNAJB1 | **HSPA6** | 0.984 |
+| DNAJB1 | **HSPA1A** | 0.989 |
+| DNAJB1 | **HSPA1B** | 0.998 |
+| DNAJB1 | **HSPA8** | 0.999 |
+| DNAJB1 | **HSPA4** | 0.999 |
+| HSPA12B | **GRPEL2** | 0.588 |
+| HSPA12B | **HSPA8** | 0.71 |
+| HSPA12B | **HSPA1L** | 0.753 |
+| HSPA12B | **HSPA6** | 0.757 |
+| HSPA12B | **HSPA5** | 0.766 |
+| HSPA12B | **AKAP12** | 0.774 |
+| HSPA12B | **HSPA4L** | 0.779 |
+| HSPA12B | **HSPA9** | 0.79 |
+| HSPA12B | **HSPA14** | 0.803 |
+| HSPA12B | **HSPA13** | 0.838 |
+| HSPA12B | **HSPA12A** | 0.867 |
+| HSPA12B | **HSPA4** | 0.884 |
+| HSPA12B | **HSPA1B** | 0.898 |
+| HSPA12B | **HSPA1A** | 0.901 |
+| HSPA13 | **HSPA1A** | 0.566 |
+| HSPA13 | **HSPA1B** | 0.566 |
+| HSPA13 | **HSPA1L** | 0.568 |
+| HSPA13 | **HSPA6** | 0.576 |
+| HSPA13 | **GRPEL2** | 0.608 |
+| HSPA13 | **HSPA9** | 0.65 |
+| HSPA13 | **HSPA4L** | 0.665 |
+| HSPA13 | **HSPA5** | 0.678 |
+| HSPA13 | **HSPA8** | 0.723 |
+| HSPA13 | **HSPA14** | 0.746 |
+| HSPA13 | **HSPA4** | 0.758 |
+| HSPA13 | **HSPA12A** | 0.866 |
+| HSPA4L | **HSPA14** | 0.672 |
+| HSPA4L | **HSPA4** | 0.695 |
+| HSPA4L | **GRPEL2** | 0.723 |
+| HSPA4L | **HSPA1A** | 0.743 |
+| HSPA4L | **HSPA1L** | 0.743 |
+| HSPA4L | **HSPA1B** | 0.749 |
+| HSPA4L | **HSPA6** | 0.755 |
+| HSPA4L | **HSPA9** | 0.819 |
+| HSPA4L | **HSPA12A** | 0.824 |
+| HSPA4L | **HSPA5** | 0.913 |
+| HSPA4L | **HSPA8** | 0.95 |
+| HSPA9 | **HSPA14** | 0.678 |
+| HSPA9 | **HSPA1L** | 0.755 |
+| HSPA9 | **HSPA6** | 0.781 |
+| HSPA9 | **HSPA1B** | 0.802 |
+| HSPA9 | **HSPA12A** | 0.805 |
+| HSPA9 | **HSPA1A** | 0.807 |
+| HSPA9 | **HSPA5** | 0.883 |
+| HSPA9 | **HSPA8** | 0.947 |
+| HSPA9 | **HSPA4** | 0.955 |
+| HSPA9 | **GRPEL2** | 0.972 |
+| HSPA4 | **GRPEL2** | 0.658 |
+| HSPA4 | **HSPA14** | 0.807 |
+| HSPA4 | **HSPA1A** | 0.866 |
+| HSPA4 | **HSPA1L** | 0.87 |
+| HSPA4 | **HSPA12A** | 0.884 |
+| HSPA4 | **HSPA5** | 0.915 |
+| HSPA4 | **HSPA6** | 0.925 |
+| HSPA4 | **HSPA1B** | 0.939 |
+| HSPA4 | **HSPA8** | 0.999 |
+| HSPA6 | **HSPA14** | 0.604 |
+| HSPA6 | **GRPEL2** | 0.63 |
+| HSPA6 | **HSPA12A** | 0.771 |
+| HSPA6 | **HSPA1L** | 0.817 |
+| HSPA6 | **HSPA1A** | 0.824 |
+| HSPA6 | **HSPA8** | 0.831 |
+| HSPA6 | **HSPA5** | 0.831 |
+| HSPA6 | **HSPA1B** | 0.959 |
+| HSPA5 | **HSPA14** | 0.639 |
+| HSPA5 | **GRPEL2** | 0.713 |
+| HSPA5 | **HSPA1A** | 0.809 |
+| HSPA5 | **HSPA1L** | 0.847 |
+| HSPA5 | **HSPA12A** | 0.868 |
+| HSPA5 | **HSPA1B** | 0.882 |
+| HSPA5 | **HSPA8** | 0.983 |
+| GRPEL2 | **HSPA1L** | 0.588 |
+| GRPEL2 | **HSPA14** | 0.608 |
+| GRPEL2 | **HSPA1A** | 0.63 |
+| GRPEL2 | **HSPA1B** | 0.634 |
+| GRPEL2 | **HSPA8** | 0.76 |
+| GRPEL2 | **HSPA12A** | 0.798 |
+| HSPA1B | **HSPA14** | 0.578 |
+| HSPA1B | **HSPA1L** | 0.879 |
+| HSPA1B | **HSPA12A** | 0.897 |
+| HSPA1B | **HSPA8** | 0.947 |
+| HSPA1B | **HSPA1A** | 0.994 |
+| HSPA1A | **HSPA14** | 0.577 |
+| HSPA1A | **HSPA1L** | 0.705 |
+| HSPA1A | **HSPA12A** | 0.898 |
+| HSPA1A | **HSPA8** | 0.939 |
+| HSPA1L | **HSPA14** | 0.572 |
+| HSPA1L | **HSPA8** | 0.753 |
+| HSPA1L | **HSPA12A** | 0.77 |
+| HSPA14 | **HSPA8** | 0.592 |
+| HSPA14 | **HSPA12A** | 0.821 |
+| AKAP12 | **HSPA8** | 0.405 |
+| AKAP12 | **HSPA12A** | 0.807 |
+| HSPA8 | **HSPA12A** | 0.825 |
+

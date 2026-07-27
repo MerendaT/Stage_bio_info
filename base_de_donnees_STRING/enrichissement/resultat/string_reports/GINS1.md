@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : GINS1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : GINS1
+Identifiant STRING officiel : `9606.ENSP00000262460`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MCM5 | **TIPIN** | 0.989 |
+| MCM5 | **TIMELESS** | 0.995 |
+| MCM5 | **POLE** | 0.997 |
+| MCM5 | **POLE2** | 0.998 |
+| MCM5 | **MCM4** | 0.999 |
+| MCM5 | **GINS4** | 0.999 |
+| MCM5 | **MCM7** | 0.999 |
+| MCM5 | **GINS1** | 0.999 |
+| MCM5 | **MCM6** | 0.999 |
+| MCM5 | **MCM2** | 0.999 |
+| MCM5 | **MCM3** | 0.999 |
+| MCM5 | **GINS2** | 0.999 |
+| MCM5 | **WDHD1** | 0.999 |
+| MCM5 | **CDC45** | 0.999 |
+| MCM5 | **GINS3** | 0.999 |
+| POLE2 | **TIMELESS** | 0.966 |
+| POLE2 | **TIPIN** | 0.977 |
+| POLE2 | **MCM7** | 0.982 |
+| POLE2 | **GINS3** | 0.989 |
+| POLE2 | **MCM2** | 0.992 |
+| POLE2 | **GINS4** | 0.993 |
+| POLE2 | **MCM6** | 0.995 |
+| POLE2 | **WDHD1** | 0.995 |
+| POLE2 | **GINS2** | 0.996 |
+| POLE2 | **GINS1** | 0.996 |
+| POLE2 | **MCM4** | 0.998 |
+| POLE2 | **MCM3** | 0.999 |
+| POLE2 | **CDC45** | 0.999 |
+| POLE2 | **POLE** | 0.999 |
+| GINS2 | **POLE** | 0.952 |
+| GINS2 | **TIPIN** | 0.976 |
+| GINS2 | **TIMELESS** | 0.977 |
+| GINS2 | **WDHD1** | 0.997 |
+| GINS2 | **MCM2** | 0.998 |
+| GINS2 | **MCM6** | 0.998 |
+| GINS2 | **MCM4** | 0.999 |
+| GINS2 | **GINS4** | 0.999 |
+| GINS2 | **CDC45** | 0.999 |
+| GINS2 | **GINS3** | 0.999 |
+| GINS2 | **MCM3** | 0.999 |
+| GINS2 | **GINS1** | 0.999 |
+| GINS2 | **MCM7** | 0.999 |
+| TIPIN | **POLE** | 0.953 |
+| TIPIN | **MCM6** | 0.993 |
+| TIPIN | **MCM3** | 0.993 |
+| TIPIN | **GINS3** | 0.993 |
+| TIPIN | **GINS1** | 0.996 |
+| TIPIN | **CDC45** | 0.996 |
+| TIPIN | **MCM4** | 0.997 |
+| TIPIN | **MCM2** | 0.998 |
+| TIPIN | **GINS4** | 0.999 |
+| TIPIN | **TIMELESS** | 0.999 |
+| TIPIN | **MCM7** | 0.999 |
+| TIPIN | **WDHD1** | 0.999 |
+| MCM4 | **TIMELESS** | 0.993 |
+| MCM4 | **POLE** | 0.995 |
+| MCM4 | **GINS4** | 0.999 |
+| MCM4 | **MCM2** | 0.999 |
+| MCM4 | **MCM6** | 0.999 |
+| MCM4 | **CDC45** | 0.999 |
+| MCM4 | **GINS3** | 0.999 |
+| MCM4 | **WDHD1** | 0.999 |
+| MCM4 | **MCM3** | 0.999 |
+| MCM4 | **GINS1** | 0.999 |
+| MCM4 | **MCM7** | 0.999 |
+| GINS1 | **TIMELESS** | 0.974 |
+| GINS1 | **POLE** | 0.989 |
+| GINS1 | **WDHD1** | 0.996 |
+| GINS1 | **MCM6** | 0.998 |
+| GINS1 | **GINS3** | 0.999 |
+| GINS1 | **CDC45** | 0.999 |
+| GINS1 | **MCM3** | 0.999 |
+| GINS1 | **MCM2** | 0.999 |
+| GINS1 | **MCM7** | 0.999 |
+| GINS1 | **GINS4** | 0.999 |
+| MCM6 | **POLE** | 0.98 |
+| MCM6 | **TIMELESS** | 0.988 |
+| MCM6 | **WDHD1** | 0.998 |
+| MCM6 | **GINS4** | 0.999 |
+| MCM6 | **MCM7** | 0.999 |
+| MCM6 | **MCM3** | 0.999 |
+| MCM6 | **GINS3** | 0.999 |
+| MCM6 | **CDC45** | 0.999 |
+| MCM6 | **MCM2** | 0.999 |
+| MCM2 | **POLE** | 0.997 |
+| MCM2 | **WDHD1** | 0.998 |
+| MCM2 | **TIMELESS** | 0.998 |
+| MCM2 | **GINS3** | 0.999 |
+| MCM2 | **CDC45** | 0.999 |
+| MCM2 | **MCM3** | 0.999 |
+| MCM2 | **MCM7** | 0.999 |
+| MCM2 | **GINS4** | 0.999 |
+| GINS4 | **TIMELESS** | 0.992 |
+| GINS4 | **POLE** | 0.994 |
+| GINS4 | **WDHD1** | 0.999 |
+| GINS4 | **CDC45** | 0.999 |
+| GINS4 | **GINS3** | 0.999 |
+| GINS4 | **MCM3** | 0.999 |
+| GINS4 | **MCM7** | 0.999 |
+| MCM7 | **POLE** | 0.986 |
+| MCM7 | **WDHD1** | 0.996 |
+| MCM7 | **TIMELESS** | 0.996 |
+| MCM7 | **GINS3** | 0.999 |
+| MCM7 | **CDC45** | 0.999 |
+| MCM7 | **MCM3** | 0.999 |
+| POLE | **GINS3** | 0.978 |
+| POLE | **TIMELESS** | 0.98 |
+| POLE | **WDHD1** | 0.992 |
+| POLE | **CDC45** | 0.995 |
+| POLE | **MCM3** | 0.996 |
+| WDHD1 | **GINS3** | 0.998 |
+| WDHD1 | **CDC45** | 0.999 |
+| WDHD1 | **MCM3** | 0.999 |
+| WDHD1 | **TIMELESS** | 0.999 |
+| GINS3 | **TIMELESS** | 0.991 |
+| GINS3 | **MCM3** | 0.999 |
+| GINS3 | **CDC45** | 0.999 |
+| CDC45 | **TIMELESS** | 0.997 |
+| CDC45 | **MCM3** | 0.999 |
+| TIMELESS | **MCM3** | 0.993 |
+

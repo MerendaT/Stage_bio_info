@@ -1,0 +1,264 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P78383",
+      "uniProtkbId": "S35B1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "35041824"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:20798"
+              }
+            ],
+            "value": "SLC35B1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30154480"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "35041824"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "40399679"
+                }
+              ],
+              "value": "ATP:ADP antiporter that catalyzes the exchange of ATP and ADP across the endoplasmic reticulum (ER) membrane (PubMed:30154480, PubMed:35041824, PubMed:40399679). Imports ATP from the cytosol to the ER lumen and exports ADP in the opposite direction (PubMed:30154480, PubMed:35041824, PubMed:40399679). Regulates ER energy metabolism and protein biogenesis (PubMed:30154480). Appears to be part of a calcium-dependent ER to cytosol low energy response axis, where calcium efflux from ER to the cytosol triggers ATP import into the ER lumen to maintain sufficient ATP supply (PubMed:30154480). Provides ATP to ER chaperone HSPA5 that drives protein folding and trafficking in the ER (PubMed:30154480, PubMed:35041824). Can transport dATP, UTP or UDP in exchange for ATP, but the physiological relevance of this process remains to be established (PubMed:30154480, PubMed:35041824)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30154480"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "35041824"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "40399679"
+                }
+              ],
+              "value": "ATP:ADP antiporter"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 1"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "30154480"
+                }
+              ],
+              "value": "ATP:ADP antiporter"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 2"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "30154480"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "40399679"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30154480"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043231",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:intracellular membrane-bounded organelle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9010752"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP:ADP antiporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30154480"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005459",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:UDP-galactose transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005460",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:UDP-glucose transmembrane transporter activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072334",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:UDP-galactose transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000073E10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : AMPD2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : AMPD2
+Identifiant STRING officiel : `9606.ENSP00000499465`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ATIC | **ADK** | 0.679 |
+| ATIC | **ENTPD1** | 0.919 |
+| ATIC | **AMPD2** | 0.951 |
+| ATIC | **HPRT1** | 0.958 |
+| ATIC | **AMPD1** | 0.968 |
+| ATIC | **ITPA** | 0.974 |
+| ATIC | **GMPR** | 0.975 |
+| ATIC | **IMPDH1** | 0.979 |
+| ATIC | **APRT** | 0.982 |
+| ATIC | **IMPDH2** | 0.991 |
+| ATIC | **ADSS1** | 0.996 |
+| ATIC | **ADSS2** | 0.997 |
+| ATIC | **ADSL** | 0.999 |
+| GMPR | **ADSL** | 0.782 |
+| GMPR | **ENTPD1** | 0.9 |
+| GMPR | **ENPP1** | 0.904 |
+| GMPR | **IMPDH2** | 0.93 |
+| GMPR | **IMPDH1** | 0.93 |
+| GMPR | **ITPA** | 0.934 |
+| GMPR | **HPRT1** | 0.943 |
+| GMPR | **AMPD1** | 0.954 |
+| GMPR | **AMPD2** | 0.956 |
+| GMPR | **APRT** | 0.957 |
+| GMPR | **ADSS1** | 0.961 |
+| GMPR | **ADSS2** | 0.971 |
+| DCK | **IMPDH1** | 0.409 |
+| DCK | **ADK** | 0.582 |
+| DCK | **ENTPD1** | 0.905 |
+| DCK | **ENPP1** | 0.913 |
+| DCK | **ADSL** | 0.936 |
+| DCK | **AMPD1** | 0.948 |
+| DCK | **AMPD2** | 0.95 |
+| DCK | **APRT** | 0.95 |
+| HPRT1 | **ADK** | 0.775 |
+| HPRT1 | **ENPP1** | 0.91 |
+| HPRT1 | **ENTPD1** | 0.912 |
+| HPRT1 | **ADSL** | 0.935 |
+| HPRT1 | **ITPA** | 0.942 |
+| HPRT1 | **IMPDH1** | 0.955 |
+| HPRT1 | **ADSS1** | 0.958 |
+| HPRT1 | **ADSS2** | 0.963 |
+| HPRT1 | **AMPD1** | 0.963 |
+| HPRT1 | **AMPD2** | 0.964 |
+| HPRT1 | **IMPDH2** | 0.967 |
+| HPRT1 | **APRT** | 0.994 |
+| IMPDH2 | **ADK** | 0.635 |
+| IMPDH2 | **APRT** | 0.78 |
+| IMPDH2 | **ADSL** | 0.879 |
+| IMPDH2 | **ENTPD1** | 0.912 |
+| IMPDH2 | **AMPD1** | 0.966 |
+| IMPDH2 | **AMPD2** | 0.966 |
+| IMPDH2 | **ITPA** | 0.971 |
+| IMPDH2 | **ADSS1** | 0.975 |
+| IMPDH2 | **IMPDH1** | 0.984 |
+| IMPDH2 | **ADSS2** | 0.988 |
+| ADSS1 | **ADK** | 0.646 |
+| ADSS1 | **APRT** | 0.72 |
+| ADSS1 | **ENTPD1** | 0.907 |
+| ADSS1 | **ADSS2** | 0.949 |
+| ADSS1 | **AMPD2** | 0.954 |
+| ADSS1 | **ITPA** | 0.955 |
+| ADSS1 | **AMPD1** | 0.962 |
+| ADSS1 | **IMPDH1** | 0.977 |
+| ADSS1 | **ADSL** | 0.999 |
+| IMPDH1 | **ADK** | 0.519 |
+| IMPDH1 | **APRT** | 0.67 |
+| IMPDH1 | **ADSL** | 0.839 |
+| IMPDH1 | **ENTPD1** | 0.9 |
+| IMPDH1 | **ITPA** | 0.957 |
+| IMPDH1 | **AMPD1** | 0.963 |
+| IMPDH1 | **AMPD2** | 0.968 |
+| IMPDH1 | **ADSS2** | 0.981 |
+| ADSS2 | **ADK** | 0.676 |
+| ADSS2 | **APRT** | 0.787 |
+| ADSS2 | **ENTPD1** | 0.908 |
+| ADSS2 | **ITPA** | 0.963 |
+| ADSS2 | **AMPD1** | 0.992 |
+| ADSS2 | **AMPD2** | 0.992 |
+| ADSS2 | **ADSL** | 0.999 |
+| ENTPD1 | **ADSL** | 0.905 |
+| ENTPD1 | **APRT** | 0.908 |
+| ENTPD1 | **ITPA** | 0.913 |
+| ENTPD1 | **AMPD1** | 0.922 |
+| ENTPD1 | **AMPD2** | 0.932 |
+| ENTPD1 | **ENPP1** | 0.958 |
+| ENTPD1 | **ADK** | 0.959 |
+| APRT | **ENPP1** | 0.908 |
+| APRT | **AMPD1** | 0.985 |
+| APRT | **AMPD2** | 0.986 |
+| APRT | **ITPA** | 0.989 |
+| APRT | **ADSL** | 0.99 |
+| APRT | **ADK** | 0.996 |
+| ITPA | **ADK** | 0.495 |
+| ITPA | **ADSL** | 0.537 |
+| ITPA | **ENPP1** | 0.909 |
+| ITPA | **AMPD2** | 0.934 |
+| ITPA | **AMPD1** | 0.964 |
+| AMPD1 | **ENPP1** | 0.923 |
+| AMPD1 | **AMPD2** | 0.956 |
+| AMPD1 | **ADSL** | 0.973 |
+| AMPD1 | **ADK** | 0.977 |
+| ADK | **ENPP1** | 0.933 |
+| ADK | **ADSL** | 0.977 |
+| ADK | **AMPD2** | 0.98 |
+| ADSL | **ENPP1** | 0.9 |
+| ADSL | **AMPD2** | 0.972 |
+| ENPP1 | **AMPD2** | 0.925 |
+

@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NADSYN1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NADSYN1
+Identifiant STRING officiel : `9606.ENSP00000326424`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SIRT4 | **SIRT1** | 0.624 |
+| SIRT4 | **SIRT7** | 0.638 |
+| SIRT4 | **SIRT5** | 0.746 |
+| SIRT4 | **SIRT6** | 0.764 |
+| SIRT4 | **SIRT2** | 0.8 |
+| SIRT4 | **SIRT3** | 0.891 |
+| SIRT4 | **NADK2** | 0.9 |
+| SIRT4 | **ENPP3** | 0.9 |
+| SIRT4 | **ENPP1** | 0.902 |
+| SIRT4 | **NUDT12** | 0.912 |
+| SIRT4 | **BST1** | 0.927 |
+| SIRT4 | **NADSYN1** | 0.934 |
+| SIRT4 | **NMNAT2** | 0.945 |
+| SIRT4 | **NMNAT1** | 0.949 |
+| SIRT1 | **QPRT** | 0.435 |
+| SIRT1 | **SIRT3** | 0.46 |
+| SIRT1 | **SIRT5** | 0.462 |
+| SIRT1 | **SIRT6** | 0.782 |
+| SIRT1 | **SIRT7** | 0.86 |
+| SIRT1 | **ENPP3** | 0.9 |
+| SIRT1 | **NADK2** | 0.906 |
+| SIRT1 | **ENPP1** | 0.91 |
+| SIRT1 | **NUDT12** | 0.911 |
+| SIRT1 | **BST1** | 0.937 |
+| SIRT1 | **NADSYN1** | 0.946 |
+| SIRT1 | **NMNAT2** | 0.954 |
+| SIRT1 | **SIRT2** | 0.956 |
+| SIRT1 | **NMNAT1** | 0.985 |
+| NUDT12 | **ENPP1** | 0.908 |
+| NUDT12 | **SIRT7** | 0.91 |
+| NUDT12 | **SIRT6** | 0.912 |
+| NUDT12 | **QPRT** | 0.913 |
+| NUDT12 | **ENPP3** | 0.914 |
+| NUDT12 | **SIRT3** | 0.914 |
+| NUDT12 | **BST1** | 0.915 |
+| NUDT12 | **SIRT5** | 0.916 |
+| NUDT12 | **NMNAT2** | 0.921 |
+| NUDT12 | **NADK2** | 0.926 |
+| NUDT12 | **SIRT2** | 0.94 |
+| NUDT12 | **NMNAT1** | 0.94 |
+| NUDT12 | **NADSYN1** | 0.984 |
+| SIRT2 | **SIRT7** | 0.573 |
+| SIRT2 | **SIRT6** | 0.575 |
+| SIRT2 | **SIRT3** | 0.639 |
+| SIRT2 | **SIRT5** | 0.678 |
+| SIRT2 | **NADK2** | 0.9 |
+| SIRT2 | **ENPP3** | 0.901 |
+| SIRT2 | **ENPP1** | 0.903 |
+| SIRT2 | **BST1** | 0.926 |
+| SIRT2 | **NADSYN1** | 0.934 |
+| SIRT2 | **NMNAT2** | 0.942 |
+| SIRT2 | **NMNAT1** | 0.95 |
+| BST1 | **QPRT** | 0.418 |
+| BST1 | **NADSYN1** | 0.915 |
+| BST1 | **NADK2** | 0.915 |
+| BST1 | **ENPP3** | 0.918 |
+| BST1 | **SIRT7** | 0.925 |
+| BST1 | **SIRT5** | 0.927 |
+| BST1 | **SIRT6** | 0.928 |
+| BST1 | **ENPP1** | 0.93 |
+| BST1 | **SIRT3** | 0.934 |
+| BST1 | **NMNAT2** | 0.951 |
+| BST1 | **NMNAT1** | 0.96 |
+| NMNAT2 | **ENPP3** | 0.904 |
+| NMNAT2 | **ENPP1** | 0.912 |
+| NMNAT2 | **NMNAT1** | 0.918 |
+| NMNAT2 | **NADK2** | 0.932 |
+| NMNAT2 | **SIRT5** | 0.941 |
+| NMNAT2 | **SIRT7** | 0.941 |
+| NMNAT2 | **SIRT6** | 0.946 |
+| NMNAT2 | **SIRT3** | 0.983 |
+| NMNAT2 | **NADSYN1** | 0.985 |
+| NMNAT2 | **QPRT** | 0.989 |
+| NADSYN1 | **ENPP3** | 0.911 |
+| NADSYN1 | **ENPP1** | 0.913 |
+| NADSYN1 | **SIRT6** | 0.932 |
+| NADSYN1 | **SIRT7** | 0.934 |
+| NADSYN1 | **SIRT5** | 0.941 |
+| NADSYN1 | **SIRT3** | 0.942 |
+| NADSYN1 | **QPRT** | 0.942 |
+| NADSYN1 | **NADK2** | 0.947 |
+| NADSYN1 | **NMNAT1** | 0.99 |
+| SIRT7 | **SIRT3** | 0.543 |
+| SIRT7 | **SIRT5** | 0.663 |
+| SIRT7 | **ENPP3** | 0.9 |
+| SIRT7 | **NADK2** | 0.9 |
+| SIRT7 | **ENPP1** | 0.9 |
+| SIRT7 | **NMNAT1** | 0.942 |
+| SIRT6 | **SIRT5** | 0.685 |
+| SIRT6 | **SIRT3** | 0.702 |
+| SIRT6 | **ENPP3** | 0.9 |
+| SIRT6 | **NADK2** | 0.9 |
+| SIRT6 | **ENPP1** | 0.9 |
+| SIRT6 | **NMNAT1** | 0.949 |
+| NMNAT1 | **ENPP3** | 0.908 |
+| NMNAT1 | **ENPP1** | 0.912 |
+| NMNAT1 | **SIRT5** | 0.948 |
+| NMNAT1 | **NADK2** | 0.948 |
+| NMNAT1 | **SIRT3** | 0.956 |
+| NMNAT1 | **QPRT** | 0.991 |
+| NADK2 | **ENPP3** | 0.901 |
+| NADK2 | **SIRT5** | 0.908 |
+| NADK2 | **ENPP1** | 0.909 |
+| NADK2 | **SIRT3** | 0.914 |
+| SIRT3 | **QPRT** | 0.426 |
+| SIRT3 | **SIRT5** | 0.814 |
+| SIRT3 | **ENPP3** | 0.9 |
+| SIRT3 | **ENPP1** | 0.9 |
+| QPRT | **ENPP3** | 0.904 |
+| QPRT | **ENPP1** | 0.913 |
+| ENPP3 | **SIRT5** | 0.9 |
+| ENPP3 | **ENPP1** | 0.909 |
+| SIRT5 | **ENPP1** | 0.9 |
+

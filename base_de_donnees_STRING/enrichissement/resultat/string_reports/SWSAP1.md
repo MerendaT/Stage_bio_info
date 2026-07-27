@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SWSAP1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SWSAP1
+Identifiant STRING officiel : `9606.ENSP00000310008`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ERCC1 | **ZSWIM7** | 0.9 |
+| ERCC1 | **SWSAP1** | 0.9 |
+| ERCC1 | **RCOR1** | 0.901 |
+| ERCC1 | **ATP23** | 0.912 |
+| ERCC1 | **PAXX** | 0.926 |
+| ERCC1 | **NHEJ1** | 0.943 |
+| ERCC1 | **PRKDC** | 0.958 |
+| ERCC1 | **XRCC6** | 0.972 |
+| ERCC1 | **MSH6** | 0.974 |
+| ERCC1 | **ATM** | 0.975 |
+| ERCC1 | **ERCC8** | 0.977 |
+| ERCC1 | **MSH2** | 0.992 |
+| ERCC1 | **XPC** | 0.994 |
+| ERCC1 | **RAD23B** | 0.998 |
+| ERCC1 | **ERCC4** | 0.999 |
+| MSH2 | **RCOR1** | 0.904 |
+| MSH2 | **ZSWIM7** | 0.905 |
+| MSH2 | **ATP23** | 0.91 |
+| MSH2 | **SWSAP1** | 0.912 |
+| MSH2 | **PAXX** | 0.918 |
+| MSH2 | **ERCC8** | 0.924 |
+| MSH2 | **NHEJ1** | 0.932 |
+| MSH2 | **XPC** | 0.944 |
+| MSH2 | **RAD23B** | 0.946 |
+| MSH2 | **PRKDC** | 0.957 |
+| MSH2 | **XRCC6** | 0.979 |
+| MSH2 | **ERCC4** | 0.989 |
+| MSH2 | **MSH6** | 0.999 |
+| MSH2 | **ATM** | 0.999 |
+| MSH6 | **ZSWIM7** | 0.9 |
+| MSH6 | **ATP23** | 0.905 |
+| MSH6 | **RCOR1** | 0.908 |
+| MSH6 | **SWSAP1** | 0.912 |
+| MSH6 | **PAXX** | 0.916 |
+| MSH6 | **ERCC8** | 0.921 |
+| MSH6 | **NHEJ1** | 0.931 |
+| MSH6 | **XPC** | 0.933 |
+| MSH6 | **RAD23B** | 0.955 |
+| MSH6 | **ERCC4** | 0.966 |
+| MSH6 | **PRKDC** | 0.967 |
+| MSH6 | **XRCC6** | 0.992 |
+| MSH6 | **ATM** | 0.999 |
+| RCOR1 | **ATP23** | 0.9 |
+| RCOR1 | **SWSAP1** | 0.9 |
+| RCOR1 | **NHEJ1** | 0.9 |
+| RCOR1 | **ERCC8** | 0.9 |
+| RCOR1 | **ZSWIM7** | 0.9 |
+| RCOR1 | **PAXX** | 0.901 |
+| RCOR1 | **XPC** | 0.901 |
+| RCOR1 | **ERCC4** | 0.902 |
+| RCOR1 | **RAD23B** | 0.904 |
+| RCOR1 | **PRKDC** | 0.91 |
+| RCOR1 | **XRCC6** | 0.914 |
+| RCOR1 | **ATM** | 0.914 |
+| ERCC8 | **SWSAP1** | 0.9 |
+| ERCC8 | **ZSWIM7** | 0.9 |
+| ERCC8 | **PAXX** | 0.9 |
+| ERCC8 | **ATP23** | 0.916 |
+| ERCC8 | **NHEJ1** | 0.918 |
+| ERCC8 | **PRKDC** | 0.928 |
+| ERCC8 | **XRCC6** | 0.928 |
+| ERCC8 | **ATM** | 0.935 |
+| ERCC8 | **XPC** | 0.951 |
+| ERCC8 | **RAD23B** | 0.957 |
+| ERCC8 | **ERCC4** | 0.975 |
+| ATM | **ATP23** | 0.903 |
+| ATM | **SWSAP1** | 0.906 |
+| ATM | **ZSWIM7** | 0.912 |
+| ATM | **RAD23B** | 0.941 |
+| ATM | **PAXX** | 0.946 |
+| ATM | **XPC** | 0.962 |
+| ATM | **ERCC4** | 0.965 |
+| ATM | **PRKDC** | 0.971 |
+| ATM | **NHEJ1** | 0.982 |
+| ATM | **XRCC6** | 0.997 |
+| XPC | **SWSAP1** | 0.9 |
+| XPC | **ATP23** | 0.9 |
+| XPC | **ZSWIM7** | 0.9 |
+| XPC | **PAXX** | 0.911 |
+| XPC | **NHEJ1** | 0.918 |
+| XPC | **PRKDC** | 0.923 |
+| XPC | **XRCC6** | 0.979 |
+| XPC | **ERCC4** | 0.983 |
+| XPC | **RAD23B** | 0.999 |
+| ATP23 | **ZSWIM7** | 0.9 |
+| ATP23 | **SWSAP1** | 0.9 |
+| ATP23 | **PAXX** | 0.9 |
+| ATP23 | **NHEJ1** | 0.905 |
+| ATP23 | **RAD23B** | 0.905 |
+| ATP23 | **ERCC4** | 0.909 |
+| ATP23 | **PRKDC** | 0.91 |
+| ATP23 | **XRCC6** | 0.941 |
+| SWSAP1 | **PRKDC** | 0.9 |
+| SWSAP1 | **NHEJ1** | 0.9 |
+| SWSAP1 | **RAD23B** | 0.9 |
+| SWSAP1 | **XRCC6** | 0.902 |
+| SWSAP1 | **PAXX** | 0.902 |
+| SWSAP1 | **ERCC4** | 0.903 |
+| SWSAP1 | **ZSWIM7** | 0.996 |
+| ERCC4 | **ZSWIM7** | 0.9 |
+| ERCC4 | **PAXX** | 0.906 |
+| ERCC4 | **NHEJ1** | 0.923 |
+| ERCC4 | **PRKDC** | 0.935 |
+| ERCC4 | **XRCC6** | 0.972 |
+| ERCC4 | **RAD23B** | 0.99 |
+| PRKDC | **ZSWIM7** | 0.9 |
+| PRKDC | **RAD23B** | 0.936 |
+| PRKDC | **PAXX** | 0.996 |
+| PRKDC | **XRCC6** | 0.999 |
+| PRKDC | **NHEJ1** | 0.999 |
+| NHEJ1 | **ZSWIM7** | 0.9 |
+| NHEJ1 | **RAD23B** | 0.933 |
+| NHEJ1 | **XRCC6** | 0.999 |
+| NHEJ1 | **PAXX** | 0.999 |
+| RAD23B | **ZSWIM7** | 0.9 |
+| RAD23B | **PAXX** | 0.907 |
+| RAD23B | **XRCC6** | 0.946 |
+| XRCC6 | **ZSWIM7** | 0.9 |
+| XRCC6 | **PAXX** | 0.998 |
+| PAXX | **ZSWIM7** | 0.9 |
+

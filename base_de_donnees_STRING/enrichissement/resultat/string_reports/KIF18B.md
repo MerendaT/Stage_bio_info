@@ -1,0 +1,126 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : KIF18B
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KIF18B
+Identifiant STRING officiel : `9606.ENSP00000465992`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| TROAP | **KIF23** | 0.568 |
+| TROAP | **KIF11** | 0.598 |
+| TROAP | **KIF15** | 0.7 |
+| TROAP | **MAPRE1** | 0.721 |
+| TROAP | **BUB1B** | 0.753 |
+| TROAP | **BIRC5** | 0.754 |
+| TROAP | **UBE2C** | 0.778 |
+| TROAP | **KIFC1** | 0.789 |
+| TROAP | **CDCA8** | 0.794 |
+| TROAP | **KIF20A** | 0.831 |
+| TROAP | **KIF2C** | 0.833 |
+| TROAP | **KIF4A** | 0.836 |
+| TROAP | **ESPL1** | 0.846 |
+| TROAP | **KIF18B** | 0.906 |
+| TROAP | **HJURP** | 0.918 |
+| ESPL1 | **MAPRE1** | 0.528 |
+| ESPL1 | **KIF15** | 0.76 |
+| ESPL1 | **KIF23** | 0.769 |
+| ESPL1 | **KIF4A** | 0.777 |
+| ESPL1 | **KIFC1** | 0.812 |
+| ESPL1 | **HJURP** | 0.845 |
+| ESPL1 | **KIF18B** | 0.85 |
+| ESPL1 | **KIF20A** | 0.896 |
+| ESPL1 | **BIRC5** | 0.917 |
+| ESPL1 | **UBE2C** | 0.927 |
+| ESPL1 | **KIF2C** | 0.939 |
+| ESPL1 | **KIF11** | 0.947 |
+| ESPL1 | **CDCA8** | 0.972 |
+| ESPL1 | **BUB1B** | 0.989 |
+| KIF23 | **UBE2C** | 0.834 |
+| KIF23 | **HJURP** | 0.842 |
+| KIF23 | **KIF18B** | 0.859 |
+| KIF23 | **BIRC5** | 0.885 |
+| KIF23 | **KIF15** | 0.893 |
+| KIF23 | **KIFC1** | 0.913 |
+| KIF23 | **KIF2C** | 0.917 |
+| KIF23 | **BUB1B** | 0.926 |
+| KIF23 | **CDCA8** | 0.954 |
+| KIF23 | **KIF4A** | 0.955 |
+| KIF23 | **KIF20A** | 0.958 |
+| KIF23 | **KIF11** | 0.994 |
+| KIF11 | **MAPRE1** | 0.469 |
+| KIF11 | **KIF18B** | 0.871 |
+| KIF11 | **UBE2C** | 0.916 |
+| KIF11 | **HJURP** | 0.93 |
+| KIF11 | **KIF4A** | 0.952 |
+| KIF11 | **BIRC5** | 0.957 |
+| KIF11 | **KIFC1** | 0.963 |
+| KIF11 | **CDCA8** | 0.964 |
+| KIF11 | **KIF2C** | 0.968 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **KIF15** | 0.983 |
+| KIF11 | **BUB1B** | 0.994 |
+| BUB1B | **MAPRE1** | 0.713 |
+| BUB1B | **KIF18B** | 0.838 |
+| BUB1B | **KIFC1** | 0.862 |
+| BUB1B | **HJURP** | 0.897 |
+| BUB1B | **KIF15** | 0.923 |
+| BUB1B | **KIF4A** | 0.968 |
+| BUB1B | **KIF20A** | 0.977 |
+| BUB1B | **BIRC5** | 0.987 |
+| BUB1B | **KIF2C** | 0.991 |
+| BUB1B | **UBE2C** | 0.991 |
+| BUB1B | **CDCA8** | 0.994 |
+| BIRC5 | **KIFC1** | 0.779 |
+| BIRC5 | **KIF18B** | 0.82 |
+| BIRC5 | **KIF15** | 0.835 |
+| BIRC5 | **HJURP** | 0.912 |
+| BIRC5 | **KIF4A** | 0.925 |
+| BIRC5 | **KIF2C** | 0.972 |
+| BIRC5 | **KIF20A** | 0.973 |
+| BIRC5 | **UBE2C** | 0.992 |
+| BIRC5 | **CDCA8** | 0.999 |
+| KIF15 | **UBE2C** | 0.844 |
+| KIF15 | **KIFC1** | 0.866 |
+| KIF15 | **HJURP** | 0.868 |
+| KIF15 | **KIF18B** | 0.88 |
+| KIF15 | **CDCA8** | 0.902 |
+| KIF15 | **KIF4A** | 0.917 |
+| KIF15 | **KIF20A** | 0.942 |
+| KIF15 | **KIF2C** | 0.945 |
+| UBE2C | **KIFC1** | 0.839 |
+| UBE2C | **KIF18B** | 0.843 |
+| UBE2C | **KIF4A** | 0.905 |
+| UBE2C | **HJURP** | 0.924 |
+| UBE2C | **KIF2C** | 0.954 |
+| UBE2C | **KIF20A** | 0.961 |
+| UBE2C | **CDCA8** | 0.966 |
+| KIF2C | **KIFC1** | 0.932 |
+| KIF2C | **HJURP** | 0.938 |
+| KIF2C | **KIF4A** | 0.947 |
+| KIF2C | **MAPRE1** | 0.965 |
+| KIF2C | **KIF20A** | 0.973 |
+| KIF2C | **CDCA8** | 0.977 |
+| KIF2C | **KIF18B** | 0.983 |
+| CDCA8 | **KIF18B** | 0.838 |
+| CDCA8 | **KIFC1** | 0.844 |
+| CDCA8 | **HJURP** | 0.923 |
+| CDCA8 | **KIF4A** | 0.932 |
+| CDCA8 | **KIF20A** | 0.98 |
+| KIF4A | **MAPRE1** | 0.512 |
+| KIF4A | **KIFC1** | 0.776 |
+| KIF4A | **KIF18B** | 0.901 |
+| KIF4A | **HJURP** | 0.918 |
+| KIF4A | **KIF20A** | 0.992 |
+| MAPRE1 | **KIFC1** | 0.511 |
+| MAPRE1 | **KIF18B** | 0.882 |
+| KIF20A | **KIF18B** | 0.888 |
+| KIF20A | **HJURP** | 0.935 |
+| KIF20A | **KIFC1** | 0.941 |
+| KIFC1 | **HJURP** | 0.845 |
+| KIFC1 | **KIF18B** | 0.882 |
+| HJURP | **KIF18B** | 0.864 |
+

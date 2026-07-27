@@ -1,0 +1,1089 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O43889",
+      "uniProtkbId": "CREB3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CREB3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10984507"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15001559"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15845366"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16940180"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17296613"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18587271"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19779205"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9271389"
+                }
+              ],
+              "value": "Endoplasmic reticulum (ER)-bound sequence-specific transcription factor that directly binds DNA and activates transcription (PubMed:10984507, PubMed:15845366, PubMed:16940180, PubMed:19779205, PubMed:9271389). Plays a role in the unfolded protein response (UPR), promoting cell survival versus ER stress-induced apoptotic cell death (PubMed:15845366, PubMed:16940180). Also involved in cell proliferation, migration and differentiation, tumor suppression and inflammatory gene expression. Acts as a positive regulator of LKN-1/CCL15-induced chemotaxis signaling of leukocyte cell migration (PubMed:15001559, PubMed:17296613, PubMed:19779205). Associates with chromatin to the HERPUD1 promoter (PubMed:16940180). Also induces transcriptional activation of chemokine receptors (PubMed:17296613, PubMed:18587271)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17054986"
+                }
+              ],
+              "value": "(Microbial infection) Plays a role in human immunodeficiency virus type 1 (HIV-1) virus protein expression"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10675342"
+                }
+              ],
+              "value": "(Microbial infection) May play a role as a cellular tumor suppressor that is targeted by the hepatitis C virus (HCV) core protein"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 1"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10623756"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15705566"
+                }
+              ],
+              "value": "(Microbial infection) Plays a role in herpes simplex virus-1 (HSV-1) latent infection and reactivation from latency. Represses the VP16-mediated transactivation of immediate early genes of the HSV-1 virus by sequestering host cell factor-1 HCFC1 in the ER membrane of sensory neurons, thereby preventing the initiation of the replicative cascade leading to latent infection"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 1"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19779205"
+                }
+              ],
+              "value": "Functions as a negative transcriptional regulator in ligand-induced transcriptional activation of the glucocorticoid receptor NR3C1 by recruiting and activating histone deacetylases (HDAC1, HDAC2 and HDAC6). Also decreases the acetylation level of histone H4. Does not promote the chemotactic activity of leukocyte cells"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 2"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16940180"
+                }
+              ],
+              "value": "This is the transcriptionally active form that translocates to the nucleus and activates unfolded protein response (UPR) target genes during endoplasmic reticulum (ER) stress response. Binds the cAMP response element (CRE) (consensus: 5'-GTGACGT[AG][AG]-3') and C/EBP sequences present in many promoters to activate transcription of the genes. Binds to the unfolded protein response element (UPRE) consensus sequences sites. Binds DNA to the 5'-CCAC[GA]-3'half of ERSE II (5'-ATTGG-N-CCACG-3')"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Processed cyclic AMP-responsive element-binding protein 3"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10623756"
+                }
+              ],
+              "value": "(Microbial infection) Activates transcription of genes required for reactivation of the latent HSV-1 virus. Its transcriptional activity is inhibited by CREBZF in a HCFC1-dependent manner, by the viral transactivator protein VP16. Binds DNA to the cAMP response element (CRE) (consensus: 5'-GTGACGT[AG][AG]-3') and C/EBP sequences present in many viral promoters"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Processed cyclic AMP-responsive element-binding protein 3"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10675342"
+                }
+              ],
+              "value": "(Microbial infection) Its transcriptional activity is inhibited by CREBZF in a HCFC1-dependent manner, by the viral transactivator HCV core protein"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Processed cyclic AMP-responsive element-binding protein 3"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 1",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10623756"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20546900"
+                  }
+                ],
+                "value": "Colocalizes with HCFC1 in neuronal cell bodies of the trigeminal ganglia (PubMed:10623756). Colocalizes with DCSTAMP in the ER membrane of immature dendritic cell (DC) (PubMed:20546900). Colocalizes with CANX, CCR1, HCFC1 in the ER membrane (PubMed:10623756)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10623756"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12138176"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "18391022"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12138176"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10623756"
+                  }
+                ],
+                "value": "Golgi apparatus",
+                "id": "SL-0132"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 1",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10675342"
+                  }
+                ],
+                "value": "(Microbial infection) Sequestered into the cytoplasm by the HCV core protein"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 2",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19779205"
+                  }
+                ],
+                "value": "Predominantly in the nucleus (PubMed:19779205). Not associated with membranes (PubMed:19779205)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19779205"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19779205"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Processed cyclic AMP-responsive element-binding protein 3",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "10675342"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15705566"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "18391022"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20546900"
+                  }
+                ],
+                "value": "Upon RIP activation the transcriptional active processed cyclic AMP-responsive element-binding protein 3 form translocates into the nucleus. Detected in the nucleus upon dendritic cell maturation and RIP activation. Colocalizes with CREBRF in nuclear foci. Colocalizes with CREBZF in promyelocytic leukemia protein nuclear bodies (PML-NB)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0000785",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:chromatin"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISA:NTNU_SB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16236796"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043025",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neuronal cell body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016604",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nuclear body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20546900"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008140",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cAMP response element binding protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031726",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:CCR1 chemokine receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003682",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:chromatin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003677",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001228",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription activator activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16940180"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:NTNU_SB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16940180"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "21516116"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "23661758"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046983",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein dimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:NTNU_SB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16940180"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000977",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II transcription regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001221",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription coregulator binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "11711630"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006935",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030968",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16940180"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050930",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:induction of positive chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140467",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:integrated stress response signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "28566324"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045786",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902236",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16940180"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051928",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of calcium ion transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030335",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090045",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of deacetylase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045893",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090026",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of monocyte chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17296613"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17296613"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001558",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042127",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019046",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:release from viral latency"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000073728"
+      }
+    }
+  ]
+}

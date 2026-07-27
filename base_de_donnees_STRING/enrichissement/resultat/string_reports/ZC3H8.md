@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ZC3H8
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ZC3H8
+Identifiant STRING officiel : `9606.ENSP00000386488`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PAF1 | **ELL2** | 0.9 |
+| PAF1 | **ICE2** | 0.9 |
+| PAF1 | **ICE1** | 0.9 |
+| PAF1 | **ELL3** | 0.9 |
+| PAF1 | **AFF4** | 0.901 |
+| PAF1 | **NELFE** | 0.904 |
+| PAF1 | **NELFB** | 0.904 |
+| PAF1 | **AFF1** | 0.905 |
+| PAF1 | **ZC3H8** | 0.906 |
+| PAF1 | **ELL** | 0.906 |
+| PAF1 | **TCEA2** | 0.939 |
+| PAF1 | **CDK9** | 0.971 |
+| PAF1 | **CDC73** | 0.999 |
+| PAF1 | **SUPT5H** | 0.999 |
+| PAF1 | **CTR9** | 0.999 |
+| ELL2 | **ZC3H8** | 0.913 |
+| ELL2 | **CDC73** | 0.921 |
+| ELL2 | **NELFB** | 0.924 |
+| ELL2 | **CTR9** | 0.93 |
+| ELL2 | **NELFE** | 0.935 |
+| ELL2 | **TCEA2** | 0.937 |
+| ELL2 | **ICE2** | 0.944 |
+| ELL2 | **ICE1** | 0.946 |
+| ELL2 | **ELL3** | 0.958 |
+| ELL2 | **SUPT5H** | 0.972 |
+| ELL2 | **ELL** | 0.973 |
+| ELL2 | **CDK9** | 0.995 |
+| ELL2 | **AFF1** | 0.999 |
+| ELL2 | **AFF4** | 0.999 |
+| ICE2 | **NELFE** | 0.901 |
+| ICE2 | **NELFB** | 0.904 |
+| ICE2 | **CDC73** | 0.906 |
+| ICE2 | **CTR9** | 0.906 |
+| ICE2 | **SUPT5H** | 0.912 |
+| ICE2 | **TCEA2** | 0.912 |
+| ICE2 | **CDK9** | 0.913 |
+| ICE2 | **AFF1** | 0.923 |
+| ICE2 | **AFF4** | 0.934 |
+| ICE2 | **ELL3** | 0.972 |
+| ICE2 | **ELL** | 0.981 |
+| ICE2 | **ZC3H8** | 0.983 |
+| ICE2 | **ICE1** | 0.998 |
+| ELL | **CDC73** | 0.919 |
+| ELL | **NELFE** | 0.923 |
+| ELL | **CTR9** | 0.93 |
+| ELL | **NELFB** | 0.942 |
+| ELL | **TCEA2** | 0.951 |
+| ELL | **SUPT5H** | 0.958 |
+| ELL | **ZC3H8** | 0.977 |
+| ELL | **ICE1** | 0.979 |
+| ELL | **ELL3** | 0.992 |
+| ELL | **CDK9** | 0.997 |
+| ELL | **AFF1** | 0.999 |
+| ELL | **AFF4** | 0.999 |
+| AFF4 | **NELFB** | 0.919 |
+| AFF4 | **ZC3H8** | 0.922 |
+| AFF4 | **ICE1** | 0.923 |
+| AFF4 | **TCEA2** | 0.924 |
+| AFF4 | **NELFE** | 0.943 |
+| AFF4 | **CTR9** | 0.952 |
+| AFF4 | **SUPT5H** | 0.958 |
+| AFF4 | **CDC73** | 0.96 |
+| AFF4 | **ELL3** | 0.998 |
+| AFF4 | **AFF1** | 0.999 |
+| AFF4 | **CDK9** | 0.999 |
+| ICE1 | **CDC73** | 0.906 |
+| ICE1 | **NELFE** | 0.91 |
+| ICE1 | **CTR9** | 0.91 |
+| ICE1 | **CDK9** | 0.911 |
+| ICE1 | **TCEA2** | 0.912 |
+| ICE1 | **AFF1** | 0.913 |
+| ICE1 | **NELFB** | 0.915 |
+| ICE1 | **SUPT5H** | 0.936 |
+| ICE1 | **ELL3** | 0.986 |
+| ICE1 | **ZC3H8** | 0.987 |
+| ELL3 | **CDC73** | 0.91 |
+| ELL3 | **CTR9** | 0.915 |
+| ELL3 | **ZC3H8** | 0.918 |
+| ELL3 | **NELFE** | 0.92 |
+| ELL3 | **TCEA2** | 0.921 |
+| ELL3 | **NELFB** | 0.928 |
+| ELL3 | **SUPT5H** | 0.943 |
+| ELL3 | **CDK9** | 0.984 |
+| ELL3 | **AFF1** | 0.998 |
+| NELFB | **AFF1** | 0.907 |
+| NELFB | **ZC3H8** | 0.918 |
+| NELFB | **TCEA2** | 0.924 |
+| NELFB | **CDC73** | 0.947 |
+| NELFB | **CTR9** | 0.949 |
+| NELFB | **CDK9** | 0.956 |
+| NELFB | **NELFE** | 0.999 |
+| NELFB | **SUPT5H** | 0.999 |
+| TCEA2 | **ZC3H8** | 0.906 |
+| TCEA2 | **AFF1** | 0.919 |
+| TCEA2 | **NELFE** | 0.928 |
+| TCEA2 | **CDK9** | 0.946 |
+| TCEA2 | **CTR9** | 0.96 |
+| TCEA2 | **CDC73** | 0.969 |
+| TCEA2 | **SUPT5H** | 0.995 |
+| CTR9 | **ZC3H8** | 0.911 |
+| CTR9 | **AFF1** | 0.926 |
+| CTR9 | **NELFE** | 0.939 |
+| CTR9 | **CDK9** | 0.965 |
+| CTR9 | **SUPT5H** | 0.999 |
+| CTR9 | **CDC73** | 0.999 |
+| CDC73 | **ZC3H8** | 0.913 |
+| CDC73 | **AFF1** | 0.92 |
+| CDC73 | **NELFE** | 0.93 |
+| CDC73 | **CDK9** | 0.973 |
+| CDC73 | **SUPT5H** | 0.999 |
+| CDK9 | **ZC3H8** | 0.907 |
+| CDK9 | **NELFE** | 0.972 |
+| CDK9 | **SUPT5H** | 0.995 |
+| CDK9 | **AFF1** | 0.999 |
+| NELFE | **ZC3H8** | 0.913 |
+| NELFE | **AFF1** | 0.923 |
+| NELFE | **SUPT5H** | 0.998 |
+| AFF1 | **ZC3H8** | 0.907 |
+| AFF1 | **SUPT5H** | 0.939 |
+| ZC3H8 | **SUPT5H** | 0.912 |
+

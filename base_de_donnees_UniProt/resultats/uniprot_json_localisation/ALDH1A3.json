@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P47895",
+      "uniProtkbId": "AL1A3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "ALDH1A3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q9JHW9"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "27759097"
+                }
+              ],
+              "value": "Catalyzes the NAD-dependent oxidation of aldehyde substrates, such as all-trans-retinal and all-trans-13,14-dihydroretinal, to their corresponding carboxylic acids, all-trans-retinoate and all-trans-13,14-dihydroretinoate, respectively (By similarity) (PubMed:27759097). High specificity for all-trans-retinal as substrate, can also accept acetaldehyde as substrate in vitro but with lower affinity (PubMed:27759097). Required for the biosynthesis of normal levels of retinoate in the embryonic ocular and nasal regions; a critical lipid in the embryonic development of the eye and the nasal region (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q9JHW9"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585737"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004029",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:aldehyde dehydrogenase (NAD+) activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004030",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:aldehyde dehydrogenase [NAD(P)+] activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585737"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070403",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:NAD+ binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585737"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001758",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:retinal dehydrogenase (NAD+) activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27759097"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070324",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:thyroid hormone binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006081",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:aldehyde metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031076",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:embryonic camera-type eye development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048048",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:embryonic eye morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070384",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:Harderian gland development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043584",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:nose development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051289",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein homotetramerization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27759097"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042574",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retinal metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585737"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002138",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retinoic acid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27759097"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042573",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retinoic acid metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585737"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042572",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retinol metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-UniPathway"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00001AFAF8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : DHX9
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DHX9
+Identifiant STRING officiel : `9606.ENSP00000356520`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AGO2 | **EWSR1** | 0.4 |
+| AGO2 | **ILF2** | 0.452 |
+| AGO2 | **SYNCRIP** | 0.464 |
+| AGO2 | **HNRNPU** | 0.471 |
+| AGO2 | **BRCA1** | 0.513 |
+| AGO2 | **ILF3** | 0.554 |
+| AGO2 | **HNRNPA1** | 0.628 |
+| AGO2 | **IGF2BP1** | 0.677 |
+| AGO2 | **HNRNPC** | 0.727 |
+| AGO2 | **DDX5** | 0.907 |
+| AGO2 | **YBX1** | 0.91 |
+| AGO2 | **DDX6** | 0.999 |
+| AGO2 | **DICER1** | 0.999 |
+| AGO2 | **DHX9** | 0.999 |
+| DDX5 | **DICER1** | 0.669 |
+| DDX5 | **YBX1** | 0.693 |
+| DDX5 | **ILF3** | 0.739 |
+| DDX5 | **HNRNPU** | 0.748 |
+| DDX5 | **SYNCRIP** | 0.754 |
+| DDX5 | **BRCA1** | 0.764 |
+| DDX5 | **ILF2** | 0.792 |
+| DDX5 | **EWSR1** | 0.817 |
+| DDX5 | **HNRNPM** | 0.84 |
+| DDX5 | **HNRNPC** | 0.925 |
+| DDX5 | **HNRNPA1** | 0.929 |
+| DDX5 | **DHX9** | 0.996 |
+| IGF2BP1 | **ILF2** | 0.459 |
+| IGF2BP1 | **HNRNPM** | 0.494 |
+| IGF2BP1 | **DICER1** | 0.522 |
+| IGF2BP1 | **DDX6** | 0.535 |
+| IGF2BP1 | **ILF3** | 0.626 |
+| IGF2BP1 | **HNRNPA1** | 0.634 |
+| IGF2BP1 | **HNRNPC** | 0.898 |
+| IGF2BP1 | **DHX9** | 0.985 |
+| IGF2BP1 | **SYNCRIP** | 0.987 |
+| IGF2BP1 | **HNRNPU** | 0.989 |
+| IGF2BP1 | **YBX1** | 0.993 |
+| HNRNPM | **DICER1** | 0.473 |
+| HNRNPM | **YBX1** | 0.782 |
+| HNRNPM | **SYNCRIP** | 0.876 |
+| HNRNPM | **EWSR1** | 0.901 |
+| HNRNPM | **ILF3** | 0.97 |
+| HNRNPM | **ILF2** | 0.972 |
+| HNRNPM | **DHX9** | 0.974 |
+| HNRNPM | **HNRNPU** | 0.985 |
+| HNRNPM | **HNRNPC** | 0.99 |
+| HNRNPM | **HNRNPA1** | 0.993 |
+| HNRNPA1 | **DDX6** | 0.525 |
+| HNRNPA1 | **DICER1** | 0.661 |
+| HNRNPA1 | **BRCA1** | 0.737 |
+| HNRNPA1 | **ILF2** | 0.931 |
+| HNRNPA1 | **YBX1** | 0.937 |
+| HNRNPA1 | **SYNCRIP** | 0.947 |
+| HNRNPA1 | **EWSR1** | 0.951 |
+| HNRNPA1 | **ILF3** | 0.96 |
+| HNRNPA1 | **DHX9** | 0.964 |
+| HNRNPA1 | **HNRNPU** | 0.992 |
+| HNRNPA1 | **HNRNPC** | 0.999 |
+| ILF2 | **DICER1** | 0.579 |
+| ILF2 | **DDX6** | 0.586 |
+| ILF2 | **EWSR1** | 0.666 |
+| ILF2 | **HNRNPU** | 0.849 |
+| ILF2 | **SYNCRIP** | 0.861 |
+| ILF2 | **YBX1** | 0.905 |
+| ILF2 | **HNRNPC** | 0.985 |
+| ILF2 | **DHX9** | 0.985 |
+| ILF2 | **ILF3** | 0.999 |
+| DHX9 | **DDX6** | 0.967 |
+| DHX9 | **ILF3** | 0.981 |
+| DHX9 | **BRCA1** | 0.983 |
+| DHX9 | **DICER1** | 0.987 |
+| DHX9 | **HNRNPC** | 0.992 |
+| DHX9 | **YBX1** | 0.994 |
+| DHX9 | **SYNCRIP** | 0.995 |
+| DHX9 | **EWSR1** | 0.997 |
+| DHX9 | **HNRNPU** | 0.999 |
+| SYNCRIP | **DDX6** | 0.448 |
+| SYNCRIP | **DICER1** | 0.528 |
+| SYNCRIP | **EWSR1** | 0.582 |
+| SYNCRIP | **ILF3** | 0.914 |
+| SYNCRIP | **HNRNPC** | 0.954 |
+| SYNCRIP | **HNRNPU** | 0.998 |
+| SYNCRIP | **YBX1** | 0.998 |
+| YBX1 | **DICER1** | 0.482 |
+| YBX1 | **ILF3** | 0.826 |
+| YBX1 | **DDX6** | 0.91 |
+| YBX1 | **HNRNPC** | 0.921 |
+| YBX1 | **EWSR1** | 0.943 |
+| YBX1 | **HNRNPU** | 0.998 |
+| EWSR1 | **DICER1** | 0.519 |
+| EWSR1 | **HNRNPU** | 0.656 |
+| EWSR1 | **BRCA1** | 0.662 |
+| EWSR1 | **ILF3** | 0.704 |
+| EWSR1 | **HNRNPC** | 0.836 |
+| ILF3 | **DDX6** | 0.622 |
+| ILF3 | **DICER1** | 0.76 |
+| ILF3 | **HNRNPU** | 0.901 |
+| ILF3 | **HNRNPC** | 0.985 |
+| BRCA1 | **DICER1** | 0.447 |
+| BRCA1 | **DDX6** | 0.456 |
+| BRCA1 | **HNRNPC** | 0.556 |
+| DICER1 | **HNRNPU** | 0.445 |
+| DICER1 | **HNRNPC** | 0.62 |
+| DICER1 | **DDX6** | 0.984 |
+| HNRNPC | **DDX6** | 0.421 |
+| HNRNPC | **HNRNPU** | 0.996 |
+| DDX6 | **HNRNPU** | 0.418 |
+

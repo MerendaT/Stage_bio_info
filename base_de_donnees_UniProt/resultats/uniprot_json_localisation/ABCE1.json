@@ -1,0 +1,519 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P61221",
+      "uniProtkbId": "ABCE1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "ABCE1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11585831"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20122402"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21448132"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "29861391"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9660177"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9847332"
+                }
+              ],
+              "value": "Nucleoside-triphosphatase (NTPase) involved in ribosome recycling by mediating ribosome disassembly (PubMed:20122402, PubMed:21448132). Able to hydrolyze ATP, GTP, UTP and CTP (PubMed:20122402). Splits ribosomes into free 60S subunits and tRNA- and mRNA-bound 40S subunits (PubMed:20122402, PubMed:21448132). Acts either after canonical termination facilitated by release factors (ETF1/eRF1) or after recognition of stalled and vacant ribosomes by mRNA surveillance factors (PELO/Pelota) (PubMed:20122402, PubMed:21448132). Involved in the No-Go Decay (NGD) pathway: recruited to stalled ribosomes by the Pelota-HBS1L complex, and drives the disassembly of stalled ribosomes, followed by degradation of damaged mRNAs as part of the NGD pathway (PubMed:21448132). Also plays a role in quality control of translation of mitochondrial outer membrane-localized mRNA (PubMed:29861391). As part of the PINK1-regulated signaling, ubiquitinated by CNOT4 upon mitochondria damage; this modification generates polyubiquitin signals that recruit autophagy receptors to the mitochondrial outer membrane and initiate mitophagy (PubMed:29861391). RNASEL-specific protein inhibitor which antagonizes the binding of 2-5A (5'-phosphorylated 2',5'-linked oligoadenylates) to RNASEL (PubMed:9660177). Negative regulator of the anti-viral effect of the interferon-regulated 2-5A/RNASEL pathway (PubMed:11585831, PubMed:9660177, PubMed:9847332)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9847332"
+                }
+              ],
+              "value": "(Microbial infection) May act as a chaperone for post-translational events during HIV-1 capsid assembly"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9660177"
+                }
+              ],
+              "value": "(Microbial infection) Plays a role in the down-regulation of the 2-5A/RNASEL pathway during encephalomyocarditis virus (EMCV) and HIV-1 infections"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11585831"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "11585831"
+                  }
+                ],
+                "value": "Mitochondrion",
+                "id": "SL-0173"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585831"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0022626",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosolic ribosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21448132"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19946888"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005759",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrial matrix"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005739",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:mitochondrion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11585831"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051539",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:4 iron, 4 sulfur cluster binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016887",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP hydrolysis activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043273",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:CTPase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060698",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:endoribonuclease inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7539425"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003924",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:GTPase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005506",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:iron ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017111",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ribonucleoside triphosphate phosphatase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043024",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ribosomal small subunit binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060702",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoribonuclease activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "7539425"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006417",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of translation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072344",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:rescue of stalled cytosolic ribosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21448132"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032790",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ribosome disassembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21448132"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006413",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:translational initiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006415",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:translational termination"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20122402"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000001226"
+      }
+    }
+  ]
+}

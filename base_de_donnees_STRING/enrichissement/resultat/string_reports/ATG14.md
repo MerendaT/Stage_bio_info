@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ATG14
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ATG14
+Identifiant STRING officiel : `9606.ENSP00000247178`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RB1CC1 | **SNAP29** | 0.583 |
+| RB1CC1 | **UVRAG** | 0.789 |
+| RB1CC1 | **STX17** | 0.817 |
+| RB1CC1 | **AMBRA1** | 0.876 |
+| RB1CC1 | **GABARAPL2** | 0.953 |
+| RB1CC1 | **BECN2** | 0.954 |
+| RB1CC1 | **GABARAPL1** | 0.967 |
+| RB1CC1 | **GABARAP** | 0.97 |
+| RB1CC1 | **PIK3R4** | 0.986 |
+| RB1CC1 | **PIK3C3** | 0.989 |
+| RB1CC1 | **BECN1** | 0.999 |
+| RB1CC1 | **ULK1** | 0.999 |
+| RB1CC1 | **ATG14** | 0.999 |
+| RB1CC1 | **NRBF2** | 0.999 |
+| RB1CC1 | **ATG101** | 0.999 |
+| GABARAPL2 | **NRBF2** | 0.406 |
+| GABARAPL2 | **SNAP29** | 0.573 |
+| GABARAPL2 | **AMBRA1** | 0.67 |
+| GABARAPL2 | **STX17** | 0.717 |
+| GABARAPL2 | **UVRAG** | 0.819 |
+| GABARAPL2 | **ATG101** | 0.822 |
+| GABARAPL2 | **PIK3R4** | 0.912 |
+| GABARAPL2 | **GABARAPL1** | 0.952 |
+| GABARAPL2 | **BECN2** | 0.953 |
+| GABARAPL2 | **GABARAP** | 0.964 |
+| GABARAPL2 | **PIK3C3** | 0.984 |
+| GABARAPL2 | **BECN1** | 0.992 |
+| GABARAPL2 | **ATG14** | 0.994 |
+| GABARAPL2 | **ULK1** | 0.997 |
+| SNAP29 | **AMBRA1** | 0.416 |
+| SNAP29 | **ULK1** | 0.557 |
+| SNAP29 | **GABARAPL1** | 0.573 |
+| SNAP29 | **GABARAP** | 0.587 |
+| SNAP29 | **BECN1** | 0.588 |
+| SNAP29 | **PIK3R4** | 0.64 |
+| SNAP29 | **ATG101** | 0.647 |
+| SNAP29 | **UVRAG** | 0.653 |
+| SNAP29 | **PIK3C3** | 0.694 |
+| SNAP29 | **STX17** | 0.999 |
+| SNAP29 | **ATG14** | 0.999 |
+| ATG14 | **GABARAP** | 0.993 |
+| ATG14 | **GABARAPL1** | 0.993 |
+| ATG14 | **ATG101** | 0.994 |
+| ATG14 | **AMBRA1** | 0.998 |
+| ATG14 | **BECN2** | 0.999 |
+| ATG14 | **STX17** | 0.999 |
+| ATG14 | **PIK3R4** | 0.999 |
+| ATG14 | **NRBF2** | 0.999 |
+| ATG14 | **ULK1** | 0.999 |
+| ATG14 | **PIK3C3** | 0.999 |
+| ATG14 | **UVRAG** | 0.999 |
+| ATG14 | **BECN1** | 0.999 |
+| STX17 | **NRBF2** | 0.418 |
+| STX17 | **AMBRA1** | 0.59 |
+| STX17 | **ATG101** | 0.674 |
+| STX17 | **BECN1** | 0.705 |
+| STX17 | **GABARAPL1** | 0.708 |
+| STX17 | **PIK3R4** | 0.737 |
+| STX17 | **UVRAG** | 0.77 |
+| STX17 | **PIK3C3** | 0.785 |
+| STX17 | **ULK1** | 0.786 |
+| STX17 | **GABARAP** | 0.967 |
+| PIK3C3 | **GABARAPL1** | 0.984 |
+| PIK3C3 | **ATG101** | 0.989 |
+| PIK3C3 | **GABARAP** | 0.991 |
+| PIK3C3 | **BECN1** | 0.999 |
+| PIK3C3 | **ULK1** | 0.999 |
+| PIK3C3 | **BECN2** | 0.999 |
+| PIK3C3 | **UVRAG** | 0.999 |
+| PIK3C3 | **NRBF2** | 0.999 |
+| PIK3C3 | **AMBRA1** | 0.999 |
+| PIK3C3 | **PIK3R4** | 0.999 |
+| NRBF2 | **GABARAP** | 0.416 |
+| NRBF2 | **GABARAPL1** | 0.419 |
+| NRBF2 | **AMBRA1** | 0.923 |
+| NRBF2 | **BECN2** | 0.934 |
+| NRBF2 | **UVRAG** | 0.943 |
+| NRBF2 | **ATG101** | 0.962 |
+| NRBF2 | **BECN1** | 0.999 |
+| NRBF2 | **ULK1** | 0.999 |
+| NRBF2 | **PIK3R4** | 0.999 |
+| GABARAP | **UVRAG** | 0.783 |
+| GABARAP | **AMBRA1** | 0.82 |
+| GABARAP | **ATG101** | 0.837 |
+| GABARAP | **PIK3R4** | 0.867 |
+| GABARAP | **BECN2** | 0.951 |
+| GABARAP | **GABARAPL1** | 0.983 |
+| GABARAP | **BECN1** | 0.991 |
+| GABARAP | **ULK1** | 0.996 |
+| ULK1 | **UVRAG** | 0.782 |
+| ULK1 | **AMBRA1** | 0.969 |
+| ULK1 | **BECN2** | 0.987 |
+| ULK1 | **GABARAPL1** | 0.991 |
+| ULK1 | **PIK3R4** | 0.997 |
+| ULK1 | **BECN1** | 0.999 |
+| ULK1 | **ATG101** | 0.999 |
+| ATG101 | **GABARAPL1** | 0.826 |
+| ATG101 | **UVRAG** | 0.853 |
+| ATG101 | **AMBRA1** | 0.866 |
+| ATG101 | **BECN2** | 0.947 |
+| ATG101 | **PIK3R4** | 0.985 |
+| ATG101 | **BECN1** | 0.988 |
+| UVRAG | **GABARAPL1** | 0.819 |
+| UVRAG | **BECN2** | 0.974 |
+| UVRAG | **AMBRA1** | 0.996 |
+| UVRAG | **BECN1** | 0.999 |
+| UVRAG | **PIK3R4** | 0.999 |
+| PIK3R4 | **GABARAPL1** | 0.912 |
+| PIK3R4 | **AMBRA1** | 0.998 |
+| PIK3R4 | **BECN1** | 0.999 |
+| PIK3R4 | **BECN2** | 0.999 |
+| BECN1 | **BECN2** | 0.972 |
+| BECN1 | **GABARAPL1** | 0.987 |
+| BECN1 | **AMBRA1** | 0.999 |
+| GABARAPL1 | **AMBRA1** | 0.674 |
+| GABARAPL1 | **BECN2** | 0.953 |
+| AMBRA1 | **BECN2** | 0.685 |
+

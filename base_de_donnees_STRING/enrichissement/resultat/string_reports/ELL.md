@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ELL
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ELL
+Identifiant STRING officiel : `9606.ENSP00000262809`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ELL2 | **ZC3H8** | 0.913 |
+| ELL2 | **ICE2** | 0.944 |
+| ELL2 | **ICE1** | 0.946 |
+| ELL2 | **ELL3** | 0.958 |
+| ELL2 | **ELL** | 0.973 |
+| ELL2 | **EAF2** | 0.977 |
+| ELL2 | **CCNT2** | 0.987 |
+| ELL2 | **CCNT1** | 0.995 |
+| ELL2 | **CDK9** | 0.995 |
+| ELL2 | **AFF1** | 0.999 |
+| ELL2 | **EAF1** | 0.999 |
+| ELL2 | **AFF4** | 0.999 |
+| ELL2 | **MLLT3** | 0.999 |
+| ELL2 | **MLLT1** | 0.999 |
+| MLLT1 | **ZC3H8** | 0.905 |
+| MLLT1 | **ICE1** | 0.906 |
+| MLLT1 | **ICE2** | 0.908 |
+| MLLT1 | **EAF2** | 0.93 |
+| MLLT1 | **CCNT2** | 0.989 |
+| MLLT1 | **EAF1** | 0.99 |
+| MLLT1 | **ELL3** | 0.997 |
+| MLLT1 | **CCNT1** | 0.999 |
+| MLLT1 | **AFF1** | 0.999 |
+| MLLT1 | **CDK9** | 0.999 |
+| MLLT1 | **MLLT3** | 0.999 |
+| MLLT1 | **AFF4** | 0.999 |
+| MLLT1 | **ELL** | 0.999 |
+| ICE2 | **CCNT2** | 0.907 |
+| ICE2 | **MLLT3** | 0.911 |
+| ICE2 | **CCNT1** | 0.912 |
+| ICE2 | **CDK9** | 0.913 |
+| ICE2 | **AFF1** | 0.923 |
+| ICE2 | **AFF4** | 0.934 |
+| ICE2 | **EAF2** | 0.943 |
+| ICE2 | **ELL3** | 0.972 |
+| ICE2 | **EAF1** | 0.974 |
+| ICE2 | **ELL** | 0.981 |
+| ICE2 | **ZC3H8** | 0.983 |
+| ICE2 | **ICE1** | 0.998 |
+| CCNT1 | **ZC3H8** | 0.9 |
+| CCNT1 | **EAF2** | 0.91 |
+| CCNT1 | **ICE1** | 0.911 |
+| CCNT1 | **EAF1** | 0.936 |
+| CCNT1 | **CCNT2** | 0.986 |
+| CCNT1 | **ELL3** | 0.992 |
+| CCNT1 | **MLLT3** | 0.997 |
+| CCNT1 | **ELL** | 0.998 |
+| CCNT1 | **AFF1** | 0.999 |
+| CCNT1 | **AFF4** | 0.999 |
+| CCNT1 | **CDK9** | 0.999 |
+| ELL | **SNF8** | 0.971 |
+| ELL | **CCNT2** | 0.974 |
+| ELL | **ZC3H8** | 0.977 |
+| ELL | **ICE1** | 0.979 |
+| ELL | **ELL3** | 0.992 |
+| ELL | **CDK9** | 0.997 |
+| ELL | **EAF2** | 0.998 |
+| ELL | **EAF1** | 0.999 |
+| ELL | **AFF1** | 0.999 |
+| ELL | **MLLT3** | 0.999 |
+| ELL | **AFF4** | 0.999 |
+| CCNT2 | **ZC3H8** | 0.902 |
+| CCNT2 | **EAF2** | 0.906 |
+| CCNT2 | **ICE1** | 0.906 |
+| CCNT2 | **EAF1** | 0.919 |
+| CCNT2 | **MLLT3** | 0.98 |
+| CCNT2 | **AFF1** | 0.991 |
+| CCNT2 | **ELL3** | 0.991 |
+| CCNT2 | **AFF4** | 0.999 |
+| CCNT2 | **CDK9** | 0.999 |
+| AFF4 | **ZC3H8** | 0.922 |
+| AFF4 | **ICE1** | 0.923 |
+| AFF4 | **EAF2** | 0.987 |
+| AFF4 | **EAF1** | 0.992 |
+| AFF4 | **ELL3** | 0.998 |
+| AFF4 | **AFF1** | 0.999 |
+| AFF4 | **CDK9** | 0.999 |
+| AFF4 | **MLLT3** | 0.999 |
+| EAF2 | **ZC3H8** | 0.9 |
+| EAF2 | **CDK9** | 0.915 |
+| EAF2 | **ICE1** | 0.916 |
+| EAF2 | **AFF1** | 0.919 |
+| EAF2 | **MLLT3** | 0.92 |
+| EAF2 | **EAF1** | 0.982 |
+| EAF2 | **ELL3** | 0.989 |
+| ICE1 | **MLLT3** | 0.907 |
+| ICE1 | **CDK9** | 0.911 |
+| ICE1 | **AFF1** | 0.913 |
+| ICE1 | **EAF1** | 0.982 |
+| ICE1 | **ELL3** | 0.986 |
+| ICE1 | **ZC3H8** | 0.987 |
+| ELL3 | **ZC3H8** | 0.918 |
+| ELL3 | **CDK9** | 0.984 |
+| ELL3 | **EAF1** | 0.992 |
+| ELL3 | **MLLT3** | 0.997 |
+| ELL3 | **AFF1** | 0.998 |
+| CDK9 | **ZC3H8** | 0.907 |
+| CDK9 | **EAF1** | 0.952 |
+| CDK9 | **MLLT3** | 0.996 |
+| CDK9 | **AFF1** | 0.999 |
+| MLLT3 | **ZC3H8** | 0.905 |
+| MLLT3 | **EAF1** | 0.991 |
+| MLLT3 | **AFF1** | 0.999 |
+| AFF1 | **ZC3H8** | 0.907 |
+| AFF1 | **EAF1** | 0.997 |
+| EAF1 | **ZC3H8** | 0.902 |
+

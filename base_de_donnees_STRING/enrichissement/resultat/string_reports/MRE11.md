@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRE11
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRE11
+Identifiant STRING officiel : `9606.ENSP00000325863`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BRIP1 | **XRCC6** | 0.428 |
+| BRIP1 | **XRCC5** | 0.47 |
+| BRIP1 | **FEN1** | 0.606 |
+| BRIP1 | **RAD50** | 0.723 |
+| BRIP1 | **ATR** | 0.775 |
+| BRIP1 | **EXO1** | 0.897 |
+| BRIP1 | **RBBP8** | 0.902 |
+| BRIP1 | **ATM** | 0.933 |
+| BRIP1 | **BLM** | 0.95 |
+| BRIP1 | **RAD51** | 0.951 |
+| BRIP1 | **MRE11** | 0.998 |
+| BRIP1 | **NBN** | 0.998 |
+| BRIP1 | **BRCA1** | 0.999 |
+| BRIP1 | **BARD1** | 0.999 |
+| BARD1 | **FEN1** | 0.496 |
+| BARD1 | **BLM** | 0.718 |
+| BARD1 | **ATR** | 0.725 |
+| BARD1 | **XRCC5** | 0.822 |
+| BARD1 | **EXO1** | 0.858 |
+| BARD1 | **XRCC6** | 0.936 |
+| BARD1 | **ATM** | 0.946 |
+| BARD1 | **RAD50** | 0.997 |
+| BARD1 | **NBN** | 0.998 |
+| BARD1 | **RAD51** | 0.999 |
+| BARD1 | **RBBP8** | 0.999 |
+| BARD1 | **MRE11** | 0.999 |
+| BARD1 | **BRCA1** | 0.999 |
+| NBN | **ENSP00000491596** | 0.609 |
+| NBN | **FEN1** | 0.755 |
+| NBN | **EXO1** | 0.868 |
+| NBN | **XRCC5** | 0.889 |
+| NBN | **XRCC6** | 0.899 |
+| NBN | **RAD51** | 0.925 |
+| NBN | **BLM** | 0.925 |
+| NBN | **ATR** | 0.964 |
+| NBN | **BRCA1** | 0.993 |
+| NBN | **RBBP8** | 0.999 |
+| NBN | **ATM** | 0.999 |
+| NBN | **MRE11** | 0.999 |
+| NBN | **RAD50** | 0.999 |
+| ATM | **FEN1** | 0.753 |
+| ATM | **ENSP00000491596** | 0.759 |
+| ATM | **EXO1** | 0.963 |
+| ATM | **RBBP8** | 0.973 |
+| ATM | **RAD50** | 0.99 |
+| ATM | **BLM** | 0.991 |
+| ATM | **RAD51** | 0.995 |
+| ATM | **XRCC6** | 0.997 |
+| ATM | **XRCC5** | 0.998 |
+| ATM | **BRCA1** | 0.999 |
+| ATM | **MRE11** | 0.999 |
+| ATM | **ATR** | 0.999 |
+| FEN1 | **ENSP00000491596** | 0.636 |
+| FEN1 | **BRCA1** | 0.704 |
+| FEN1 | **ATR** | 0.717 |
+| FEN1 | **RBBP8** | 0.823 |
+| FEN1 | **RAD50** | 0.844 |
+| FEN1 | **XRCC6** | 0.879 |
+| FEN1 | **XRCC5** | 0.88 |
+| FEN1 | **EXO1** | 0.901 |
+| FEN1 | **BLM** | 0.921 |
+| FEN1 | **RAD51** | 0.959 |
+| FEN1 | **MRE11** | 0.984 |
+| MRE11 | **ATR** | 0.968 |
+| MRE11 | **BLM** | 0.969 |
+| MRE11 | **XRCC5** | 0.979 |
+| MRE11 | **RAD51** | 0.984 |
+| MRE11 | **ENSP00000491596** | 0.984 |
+| MRE11 | **EXO1** | 0.985 |
+| MRE11 | **XRCC6** | 0.987 |
+| MRE11 | **RBBP8** | 0.997 |
+| MRE11 | **BRCA1** | 0.999 |
+| MRE11 | **RAD50** | 0.999 |
+| ATR | **ENSP00000491596** | 0.677 |
+| ATR | **XRCC6** | 0.828 |
+| ATR | **XRCC5** | 0.898 |
+| ATR | **RBBP8** | 0.899 |
+| ATR | **RAD50** | 0.905 |
+| ATR | **RAD51** | 0.942 |
+| ATR | **EXO1** | 0.947 |
+| ATR | **BLM** | 0.962 |
+| ATR | **BRCA1** | 0.996 |
+| BLM | **ENSP00000491596** | 0.452 |
+| BLM | **XRCC5** | 0.634 |
+| BLM | **RBBP8** | 0.871 |
+| BLM | **XRCC6** | 0.91 |
+| BLM | **RAD50** | 0.92 |
+| BLM | **BRCA1** | 0.974 |
+| BLM | **RAD51** | 0.998 |
+| BLM | **EXO1** | 0.998 |
+| XRCC6 | **ENSP00000491596** | 0.729 |
+| XRCC6 | **RBBP8** | 0.862 |
+| XRCC6 | **RAD50** | 0.909 |
+| XRCC6 | **RAD51** | 0.93 |
+| XRCC6 | **EXO1** | 0.951 |
+| XRCC6 | **BRCA1** | 0.953 |
+| XRCC6 | **XRCC5** | 0.999 |
+| EXO1 | **ENSP00000491596** | 0.587 |
+| EXO1 | **RAD50** | 0.85 |
+| EXO1 | **XRCC5** | 0.922 |
+| EXO1 | **BRCA1** | 0.981 |
+| EXO1 | **RBBP8** | 0.995 |
+| EXO1 | **RAD51** | 0.997 |
+| RAD50 | **XRCC5** | 0.806 |
+| RAD50 | **RAD51** | 0.858 |
+| RAD50 | **ENSP00000491596** | 0.933 |
+| RAD50 | **BRCA1** | 0.999 |
+| RAD50 | **RBBP8** | 0.999 |
+| XRCC5 | **ENSP00000491596** | 0.42 |
+| XRCC5 | **RAD51** | 0.855 |
+| XRCC5 | **RBBP8** | 0.865 |
+| XRCC5 | **BRCA1** | 0.972 |
+| RBBP8 | **RAD51** | 0.954 |
+| RBBP8 | **BRCA1** | 0.999 |
+| BRCA1 | **RAD51** | 0.999 |
+| ENSP00000491596 | **RAD51** | 0.587 |
+

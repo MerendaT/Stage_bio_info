@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CFAP298
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CFAP298
+Identifiant STRING officiel : `9606.ENSP00000290155`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ZMYND10 | **CFAP300** | 0.628 |
+| ZMYND10 | **CCDC114** | 0.689 |
+| ZMYND10 | **CCDC151** | 0.706 |
+| ZMYND10 | **DNAAF2** | 0.717 |
+| ZMYND10 | **CCDC65** | 0.735 |
+| ZMYND10 | **PIH1D3** | 0.762 |
+| ZMYND10 | **CFAP298** | 0.777 |
+| ZMYND10 | **CCDC103** | 0.805 |
+| ZMYND10 | **SPAG1** | 0.805 |
+| ZMYND10 | **DNAAF4** | 0.807 |
+| ZMYND10 | **DNAI2** | 0.811 |
+| ZMYND10 | **DNAAF1** | 0.844 |
+| ZMYND10 | **DNAAF5** | 0.852 |
+| ZMYND10 | **DNAAF3** | 0.858 |
+| ZMYND10 | **LRRC6** | 0.938 |
+| CFAP298 | **CCDC114** | 0.699 |
+| CFAP298 | **DNAI2** | 0.699 |
+| CFAP298 | **CCDC151** | 0.716 |
+| CFAP298 | **DNAAF2** | 0.72 |
+| CFAP298 | **PIH1D3** | 0.727 |
+| CFAP298 | **CCDC103** | 0.729 |
+| CFAP298 | **CFAP300** | 0.735 |
+| CFAP298 | **CCDC65** | 0.747 |
+| CFAP298 | **SPAG1** | 0.774 |
+| CFAP298 | **LRRC6** | 0.803 |
+| CFAP298 | **DNAAF4** | 0.809 |
+| CFAP298 | **DNAAF3** | 0.812 |
+| CFAP298 | **DNAAF5** | 0.823 |
+| CFAP298 | **DNAAF1** | 0.87 |
+| DNAAF5 | **CCDC151** | 0.663 |
+| DNAAF5 | **CFAP300** | 0.693 |
+| DNAAF5 | **CCDC65** | 0.713 |
+| DNAAF5 | **CCDC114** | 0.741 |
+| DNAAF5 | **DNAAF2** | 0.774 |
+| DNAAF5 | **PIH1D3** | 0.79 |
+| DNAAF5 | **DNAAF4** | 0.799 |
+| DNAAF5 | **CCDC103** | 0.806 |
+| DNAAF5 | **DNAAF1** | 0.812 |
+| DNAAF5 | **SPAG1** | 0.818 |
+| DNAAF5 | **DNAI2** | 0.837 |
+| DNAAF5 | **LRRC6** | 0.844 |
+| DNAAF5 | **DNAAF3** | 0.873 |
+| DNAAF2 | **CFAP300** | 0.582 |
+| DNAAF2 | **CCDC65** | 0.606 |
+| DNAAF2 | **CCDC151** | 0.661 |
+| DNAAF2 | **CCDC114** | 0.673 |
+| DNAAF2 | **CCDC103** | 0.728 |
+| DNAAF2 | **LRRC6** | 0.772 |
+| DNAAF2 | **DNAAF3** | 0.799 |
+| DNAAF2 | **SPAG1** | 0.854 |
+| DNAAF2 | **DNAAF4** | 0.883 |
+| DNAAF2 | **PIH1D3** | 0.91 |
+| DNAAF2 | **DNAAF1** | 0.939 |
+| DNAAF2 | **DNAI2** | 0.97 |
+| CCDC65 | **CFAP300** | 0.444 |
+| CCDC65 | **PIH1D3** | 0.6 |
+| CCDC65 | **SPAG1** | 0.64 |
+| CCDC65 | **CCDC151** | 0.657 |
+| CCDC65 | **DNAAF4** | 0.67 |
+| CCDC65 | **DNAAF3** | 0.689 |
+| CCDC65 | **DNAAF1** | 0.718 |
+| CCDC65 | **LRRC6** | 0.782 |
+| CCDC65 | **CCDC103** | 0.821 |
+| CCDC65 | **CCDC114** | 0.826 |
+| CCDC65 | **DNAI2** | 0.852 |
+| CCDC114 | **PIH1D3** | 0.647 |
+| CCDC114 | **SPAG1** | 0.705 |
+| CCDC114 | **DNAAF4** | 0.721 |
+| CCDC114 | **DNAAF1** | 0.738 |
+| CCDC114 | **LRRC6** | 0.743 |
+| CCDC114 | **DNAAF3** | 0.751 |
+| CCDC114 | **CCDC103** | 0.858 |
+| CCDC114 | **DNAI2** | 0.963 |
+| CCDC114 | **CCDC151** | 0.992 |
+| DNAAF4 | **CFAP300** | 0.618 |
+| DNAAF4 | **CCDC151** | 0.713 |
+| DNAAF4 | **DNAI2** | 0.737 |
+| DNAAF4 | **CCDC103** | 0.776 |
+| DNAAF4 | **LRRC6** | 0.825 |
+| DNAAF4 | **DNAAF1** | 0.861 |
+| DNAAF4 | **DNAAF3** | 0.901 |
+| DNAAF4 | **PIH1D3** | 0.961 |
+| CCDC151 | **PIH1D3** | 0.57 |
+| CCDC151 | **DNAAF1** | 0.67 |
+| CCDC151 | **SPAG1** | 0.674 |
+| CCDC151 | **LRRC6** | 0.718 |
+| CCDC151 | **DNAAF3** | 0.736 |
+| CCDC151 | **CCDC103** | 0.749 |
+| CCDC151 | **DNAI2** | 0.771 |
+| DNAAF1 | **LRRC6** | 0.564 |
+| DNAAF1 | **CFAP300** | 0.616 |
+| DNAAF1 | **SPAG1** | 0.764 |
+| DNAAF1 | **CCDC103** | 0.824 |
+| DNAAF1 | **PIH1D3** | 0.825 |
+| DNAAF1 | **DNAAF3** | 0.886 |
+| DNAAF1 | **DNAI2** | 0.983 |
+| SPAG1 | **CFAP300** | 0.64 |
+| SPAG1 | **CCDC103** | 0.779 |
+| SPAG1 | **DNAI2** | 0.806 |
+| SPAG1 | **LRRC6** | 0.809 |
+| SPAG1 | **DNAAF3** | 0.809 |
+| SPAG1 | **PIH1D3** | 0.866 |
+| CCDC103 | **CFAP300** | 0.606 |
+| CCDC103 | **PIH1D3** | 0.709 |
+| CCDC103 | **LRRC6** | 0.837 |
+| CCDC103 | **DNAAF3** | 0.839 |
+| CCDC103 | **DNAI2** | 0.889 |
+| DNAI2 | **CFAP300** | 0.533 |
+| DNAI2 | **PIH1D3** | 0.792 |
+| DNAI2 | **LRRC6** | 0.803 |
+| DNAI2 | **DNAAF3** | 0.85 |
+| CFAP300 | **LRRC6** | 0.645 |
+| CFAP300 | **DNAAF3** | 0.692 |
+| CFAP300 | **PIH1D3** | 0.705 |
+| DNAAF3 | **PIH1D3** | 0.84 |
+| DNAAF3 | **LRRC6** | 0.856 |
+| PIH1D3 | **LRRC6** | 0.851 |
+

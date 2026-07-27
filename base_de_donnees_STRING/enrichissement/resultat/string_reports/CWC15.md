@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : CWC15
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : CWC15
+Identifiant STRING officiel : `9606.ENSP00000475615`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBM22 | **CTNNBL1** | 0.953 |
+| RBM22 | **BCAS2** | 0.996 |
+| RBM22 | **SNRPB2** | 0.997 |
+| RBM22 | **SNW1** | 0.999 |
+| RBM22 | **SYF2** | 0.999 |
+| RBM22 | **BUD31** | 0.999 |
+| RBM22 | **CDC5L** | 0.999 |
+| RBM22 | **CWC15** | 0.999 |
+| RBM22 | **PRPF8** | 0.999 |
+| RBM22 | **SNRPA1** | 0.999 |
+| RBM22 | **CRNKL1** | 0.999 |
+| RBM22 | **PLRG1** | 0.999 |
+| RBM22 | **PRPF19** | 0.999 |
+| RBM22 | **CDC40** | 0.999 |
+| RBM22 | **EFTUD2** | 0.999 |
+| PRPF19 | **SNRPB2** | 0.997 |
+| PRPF19 | **CDC5L** | 0.999 |
+| PRPF19 | **CWC15** | 0.999 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BUD31** | 0.999 |
+| PRPF19 | **BCAS2** | 0.999 |
+| PRPF19 | **SNW1** | 0.999 |
+| PRPF19 | **CTNNBL1** | 0.999 |
+| PRPF19 | **EFTUD2** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **PLRG1** | 0.999 |
+| PRPF19 | **CRNKL1** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **PRPF8** | 0.999 |
+| SYF2 | **CTNNBL1** | 0.724 |
+| SYF2 | **SNRPB2** | 0.99 |
+| SYF2 | **PRPF8** | 0.998 |
+| SYF2 | **CWC15** | 0.998 |
+| SYF2 | **BCAS2** | 0.998 |
+| SYF2 | **PLRG1** | 0.999 |
+| SYF2 | **EFTUD2** | 0.999 |
+| SYF2 | **CDC40** | 0.999 |
+| SYF2 | **CRNKL1** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| SYF2 | **CDC5L** | 0.999 |
+| SYF2 | **SNW1** | 0.999 |
+| SYF2 | **BUD31** | 0.999 |
+| SNRPB2 | **CTNNBL1** | 0.863 |
+| SNRPB2 | **BCAS2** | 0.991 |
+| SNRPB2 | **BUD31** | 0.997 |
+| SNRPB2 | **SNW1** | 0.997 |
+| SNRPB2 | **CDC40** | 0.997 |
+| SNRPB2 | **PRPF8** | 0.997 |
+| SNRPB2 | **CRNKL1** | 0.997 |
+| SNRPB2 | **CDC5L** | 0.998 |
+| SNRPB2 | **CWC15** | 0.998 |
+| SNRPB2 | **EFTUD2** | 0.998 |
+| SNRPB2 | **PLRG1** | 0.998 |
+| SNRPB2 | **SNRPA1** | 0.999 |
+| SNRPA1 | **CTNNBL1** | 0.901 |
+| SNRPA1 | **BCAS2** | 0.998 |
+| SNRPA1 | **SNW1** | 0.999 |
+| SNRPA1 | **BUD31** | 0.999 |
+| SNRPA1 | **CWC15** | 0.999 |
+| SNRPA1 | **CDC5L** | 0.999 |
+| SNRPA1 | **PRPF8** | 0.999 |
+| SNRPA1 | **CRNKL1** | 0.999 |
+| SNRPA1 | **PLRG1** | 0.999 |
+| SNRPA1 | **CDC40** | 0.999 |
+| SNRPA1 | **EFTUD2** | 0.999 |
+| CTNNBL1 | **PRPF8** | 0.841 |
+| CTNNBL1 | **CDC40** | 0.86 |
+| CTNNBL1 | **EFTUD2** | 0.91 |
+| CTNNBL1 | **SNW1** | 0.959 |
+| CTNNBL1 | **BUD31** | 0.965 |
+| CTNNBL1 | **CRNKL1** | 0.97 |
+| CTNNBL1 | **BCAS2** | 0.995 |
+| CTNNBL1 | **PLRG1** | 0.996 |
+| CTNNBL1 | **CDC5L** | 0.999 |
+| CTNNBL1 | **CWC15** | 0.999 |
+| CDC40 | **BUD31** | 0.999 |
+| CDC40 | **BCAS2** | 0.999 |
+| CDC40 | **SNW1** | 0.999 |
+| CDC40 | **CWC15** | 0.999 |
+| CDC40 | **CDC5L** | 0.999 |
+| CDC40 | **PRPF8** | 0.999 |
+| CDC40 | **CRNKL1** | 0.999 |
+| CDC40 | **EFTUD2** | 0.999 |
+| CDC40 | **PLRG1** | 0.999 |
+| BCAS2 | **CRNKL1** | 0.998 |
+| BCAS2 | **BUD31** | 0.998 |
+| BCAS2 | **PLRG1** | 0.999 |
+| BCAS2 | **EFTUD2** | 0.999 |
+| BCAS2 | **PRPF8** | 0.999 |
+| BCAS2 | **CWC15** | 0.999 |
+| BCAS2 | **CDC5L** | 0.999 |
+| BCAS2 | **SNW1** | 0.999 |
+| CDC5L | **CWC15** | 0.999 |
+| CDC5L | **BUD31** | 0.999 |
+| CDC5L | **SNW1** | 0.999 |
+| CDC5L | **EFTUD2** | 0.999 |
+| CDC5L | **PLRG1** | 0.999 |
+| CDC5L | **CRNKL1** | 0.999 |
+| CDC5L | **PRPF8** | 0.999 |
+| CRNKL1 | **CWC15** | 0.999 |
+| CRNKL1 | **SNW1** | 0.999 |
+| CRNKL1 | **BUD31** | 0.999 |
+| CRNKL1 | **PLRG1** | 0.999 |
+| CRNKL1 | **EFTUD2** | 0.999 |
+| CRNKL1 | **PRPF8** | 0.999 |
+| BUD31 | **PRPF8** | 0.999 |
+| BUD31 | **PLRG1** | 0.999 |
+| BUD31 | **EFTUD2** | 0.999 |
+| BUD31 | **SNW1** | 0.999 |
+| BUD31 | **CWC15** | 0.999 |
+| EFTUD2 | **SNW1** | 0.999 |
+| EFTUD2 | **CWC15** | 0.999 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| EFTUD2 | **PLRG1** | 0.999 |
+| PLRG1 | **SNW1** | 0.999 |
+| PLRG1 | **CWC15** | 0.999 |
+| PLRG1 | **PRPF8** | 0.999 |
+| SNW1 | **PRPF8** | 0.999 |
+| SNW1 | **CWC15** | 0.999 |
+| PRPF8 | **CWC15** | 0.999 |
+

@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ABT1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ABT1
+Identifiant STRING officiel : `9606.ENSP00000274849`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ESF1 | **RRP36** | 0.445 |
+| ESF1 | **DDX49** | 0.811 |
+| ESF1 | **UTP25** | 0.826 |
+| ESF1 | **DHX15** | 0.876 |
+| ESF1 | **WDR3** | 0.877 |
+| ESF1 | **NOP14** | 0.918 |
+| ESF1 | **NGDN** | 0.921 |
+| ESF1 | **BYSL** | 0.93 |
+| ESF1 | **KRR1** | 0.957 |
+| ESF1 | **NOM1** | 0.977 |
+| ESF1 | **DDX18** | 0.977 |
+| ESF1 | **UTP18** | 0.994 |
+| ESF1 | **ABT1** | 0.995 |
+| ESF1 | **UTP6** | 0.995 |
+| ESF1 | **DDX10** | 0.996 |
+| UTP18 | **DDX18** | 0.681 |
+| UTP18 | **DHX15** | 0.849 |
+| UTP18 | **DDX49** | 0.898 |
+| UTP18 | **UTP25** | 0.929 |
+| UTP18 | **NOM1** | 0.969 |
+| UTP18 | **DDX10** | 0.976 |
+| UTP18 | **ABT1** | 0.978 |
+| UTP18 | **RRP36** | 0.987 |
+| UTP18 | **NOP14** | 0.997 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **NGDN** | 0.999 |
+| UTP18 | **KRR1** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| KRR1 | **DHX15** | 0.744 |
+| KRR1 | **DDX10** | 0.827 |
+| KRR1 | **UTP25** | 0.905 |
+| KRR1 | **DDX49** | 0.917 |
+| KRR1 | **NOM1** | 0.985 |
+| KRR1 | **ABT1** | 0.988 |
+| KRR1 | **RRP36** | 0.992 |
+| KRR1 | **DDX18** | 0.992 |
+| KRR1 | **WDR3** | 0.999 |
+| KRR1 | **NOP14** | 0.999 |
+| KRR1 | **UTP6** | 0.999 |
+| KRR1 | **NGDN** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| BYSL | **NOM1** | 0.748 |
+| BYSL | **UTP25** | 0.895 |
+| BYSL | **DDX18** | 0.963 |
+| BYSL | **DHX15** | 0.969 |
+| BYSL | **DDX10** | 0.971 |
+| BYSL | **DDX49** | 0.975 |
+| BYSL | **RRP36** | 0.978 |
+| BYSL | **ABT1** | 0.991 |
+| BYSL | **NGDN** | 0.998 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **NOP14** | 0.999 |
+| BYSL | **WDR3** | 0.999 |
+| RRP36 | **WDR3** | 0.638 |
+| RRP36 | **NGDN** | 0.738 |
+| RRP36 | **DDX49** | 0.778 |
+| RRP36 | **DDX18** | 0.783 |
+| RRP36 | **NOP14** | 0.86 |
+| RRP36 | **NOM1** | 0.98 |
+| RRP36 | **DDX10** | 0.981 |
+| RRP36 | **UTP6** | 0.987 |
+| RRP36 | **UTP25** | 0.992 |
+| RRP36 | **ABT1** | 0.995 |
+| DDX49 | **NOM1** | 0.561 |
+| DDX49 | **DDX18** | 0.564 |
+| DDX49 | **UTP6** | 0.569 |
+| DDX49 | **DDX10** | 0.696 |
+| DDX49 | **WDR3** | 0.732 |
+| DDX49 | **NGDN** | 0.847 |
+| DDX49 | **DHX15** | 0.856 |
+| DDX49 | **NOP14** | 0.921 |
+| DDX49 | **UTP25** | 0.961 |
+| DDX49 | **ABT1** | 0.998 |
+| UTP6 | **DDX10** | 0.736 |
+| UTP6 | **DDX18** | 0.761 |
+| UTP6 | **DHX15** | 0.833 |
+| UTP6 | **UTP25** | 0.927 |
+| UTP6 | **NOM1** | 0.971 |
+| UTP6 | **ABT1** | 0.98 |
+| UTP6 | **NOP14** | 0.997 |
+| UTP6 | **NGDN** | 0.999 |
+| UTP6 | **WDR3** | 0.999 |
+| DDX18 | **NGDN** | 0.539 |
+| DDX18 | **UTP25** | 0.598 |
+| DDX18 | **WDR3** | 0.907 |
+| DDX18 | **NOP14** | 0.914 |
+| DDX18 | **DHX15** | 0.939 |
+| DDX18 | **ABT1** | 0.963 |
+| DDX18 | **DDX10** | 0.994 |
+| ABT1 | **NGDN** | 0.941 |
+| ABT1 | **NOM1** | 0.971 |
+| ABT1 | **WDR3** | 0.973 |
+| ABT1 | **NOP14** | 0.983 |
+| ABT1 | **DHX15** | 0.984 |
+| ABT1 | **UTP25** | 0.989 |
+| ABT1 | **DDX10** | 0.992 |
+| NOM1 | **DHX15** | 0.534 |
+| NOM1 | **UTP25** | 0.747 |
+| NOM1 | **NOP14** | 0.902 |
+| NOM1 | **NGDN** | 0.985 |
+| NOM1 | **WDR3** | 0.986 |
+| NOM1 | **DDX10** | 0.988 |
+| WDR3 | **DDX10** | 0.791 |
+| WDR3 | **UTP25** | 0.896 |
+| WDR3 | **DHX15** | 0.933 |
+| WDR3 | **NOP14** | 0.996 |
+| WDR3 | **NGDN** | 0.997 |
+| DDX10 | **UTP25** | 0.645 |
+| DDX10 | **DHX15** | 0.809 |
+| DDX10 | **NGDN** | 0.902 |
+| DDX10 | **NOP14** | 0.952 |
+| DHX15 | **NGDN** | 0.734 |
+| DHX15 | **UTP25** | 0.781 |
+| DHX15 | **NOP14** | 0.785 |
+| NGDN | **UTP25** | 0.991 |
+| NGDN | **NOP14** | 0.994 |
+| NOP14 | **UTP25** | 0.984 |
+

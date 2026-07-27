@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : EEF1D
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EEF1D
+Identifiant STRING officiel : `9606.ENSP00000410059`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| EEF1A2 | **RPS24** | 0.404 |
+| EEF1A2 | **RPL23** | 0.444 |
+| EEF1A2 | **RPS11** | 0.5 |
+| EEF1A2 | **RPS19** | 0.537 |
+| EEF1A2 | **RPS18** | 0.722 |
+| EEF1A2 | **TPT1** | 0.737 |
+| EEF1A2 | **RPL5** | 0.739 |
+| EEF1A2 | **RPS3** | 0.77 |
+| EEF1A2 | **VARS1** | 0.816 |
+| EEF1A2 | **EEF1D** | 0.96 |
+| EEF1A2 | **EEF1G** | 0.979 |
+| EEF1A2 | **EEF1A1** | 0.994 |
+| EEF1A2 | **EEF1B2** | 0.996 |
+| RPL35 | **VARS1** | 0.463 |
+| RPL35 | **TPT1** | 0.879 |
+| RPL35 | **EEF1G** | 0.937 |
+| RPL35 | **EEF1D** | 0.945 |
+| RPL35 | **EEF1B2** | 0.963 |
+| RPL35 | **EEF1A1** | 0.969 |
+| RPL35 | **RPS24** | 0.999 |
+| RPL35 | **RPS18** | 0.999 |
+| RPL35 | **RPL5** | 0.999 |
+| RPL35 | **RPL23** | 0.999 |
+| RPL35 | **RPS19** | 0.999 |
+| RPL35 | **RPS3** | 0.999 |
+| RPL35 | **RPS11** | 0.999 |
+| RPS11 | **VARS1** | 0.528 |
+| RPS11 | **EEF1D** | 0.951 |
+| RPS11 | **EEF1B2** | 0.952 |
+| RPS11 | **TPT1** | 0.965 |
+| RPS11 | **EEF1G** | 0.972 |
+| RPS11 | **EEF1A1** | 0.992 |
+| RPS11 | **RPS24** | 0.999 |
+| RPS11 | **RPS18** | 0.999 |
+| RPS11 | **RPL5** | 0.999 |
+| RPS11 | **RPL23** | 0.999 |
+| RPS11 | **RPS19** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS3 | **VARS1** | 0.634 |
+| RPS3 | **EEF1D** | 0.931 |
+| RPS3 | **TPT1** | 0.984 |
+| RPS3 | **EEF1B2** | 0.993 |
+| RPS3 | **EEF1G** | 0.996 |
+| RPS3 | **EEF1A1** | 0.997 |
+| RPS3 | **RPS18** | 0.999 |
+| RPS3 | **RPL5** | 0.999 |
+| RPS3 | **RPS19** | 0.999 |
+| RPS3 | **RPL23** | 0.999 |
+| RPS3 | **RPS24** | 0.999 |
+| EEF1G | **KTN1** | 0.855 |
+| EEF1G | **VARS1** | 0.942 |
+| EEF1G | **RPS24** | 0.957 |
+| EEF1G | **RPS19** | 0.967 |
+| EEF1G | **RPS18** | 0.97 |
+| EEF1G | **RPL23** | 0.978 |
+| EEF1G | **TPT1** | 0.993 |
+| EEF1G | **RPL5** | 0.993 |
+| EEF1G | **EEF1D** | 0.999 |
+| EEF1G | **EEF1B2** | 0.999 |
+| EEF1G | **EEF1A1** | 0.999 |
+| EEF1A1 | **KTN1** | 0.46 |
+| EEF1A1 | **TPT1** | 0.95 |
+| EEF1A1 | **VARS1** | 0.953 |
+| EEF1A1 | **RPL23** | 0.962 |
+| EEF1A1 | **RPS24** | 0.97 |
+| EEF1A1 | **RPS19** | 0.981 |
+| EEF1A1 | **RPS18** | 0.986 |
+| EEF1A1 | **RPL5** | 0.995 |
+| EEF1A1 | **EEF1D** | 0.997 |
+| EEF1A1 | **EEF1B2** | 0.999 |
+| RPL5 | **VARS1** | 0.845 |
+| RPL5 | **EEF1D** | 0.936 |
+| RPL5 | **TPT1** | 0.951 |
+| RPL5 | **EEF1B2** | 0.973 |
+| RPL5 | **RPS19** | 0.999 |
+| RPL5 | **RPL23** | 0.999 |
+| RPL5 | **RPS18** | 0.999 |
+| RPL5 | **RPS24** | 0.999 |
+| VARS1 | **RPS19** | 0.419 |
+| VARS1 | **RPL23** | 0.498 |
+| VARS1 | **RPS18** | 0.52 |
+| VARS1 | **EEF1B2** | 0.951 |
+| VARS1 | **EEF1D** | 0.978 |
+| EEF1B2 | **KTN1** | 0.672 |
+| EEF1B2 | **RPS19** | 0.957 |
+| EEF1B2 | **RPS24** | 0.975 |
+| EEF1B2 | **RPS18** | 0.98 |
+| EEF1B2 | **RPL23** | 0.982 |
+| EEF1B2 | **TPT1** | 0.994 |
+| EEF1B2 | **EEF1D** | 0.999 |
+| KTN1 | **EEF1D** | 0.969 |
+| RPS18 | **EEF1D** | 0.945 |
+| RPS18 | **TPT1** | 0.948 |
+| RPS18 | **RPS24** | 0.999 |
+| RPS18 | **RPL23** | 0.999 |
+| RPS18 | **RPS19** | 0.999 |
+| EEF1D | **RPS24** | 0.944 |
+| EEF1D | **TPT1** | 0.95 |
+| EEF1D | **RPL23** | 0.95 |
+| EEF1D | **RPS19** | 0.952 |
+| RPS24 | **TPT1** | 0.971 |
+| RPS24 | **RPS19** | 0.999 |
+| RPS24 | **RPL23** | 0.999 |
+| RPL23 | **TPT1** | 0.968 |
+| RPL23 | **RPS19** | 0.999 |
+| RPS19 | **TPT1** | 0.922 |
+

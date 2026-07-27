@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : DDX51
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDX51
+Identifiant STRING officiel : `9606.ENSP00000380495`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RRP9 | **RBM34** | 0.41 |
+| RRP9 | **DDX51** | 0.651 |
+| RRP9 | **RRP8** | 0.655 |
+| RRP9 | **GTPBP4** | 0.69 |
+| RRP9 | **PPAN** | 0.807 |
+| RRP9 | **WDR12** | 0.916 |
+| RRP9 | **BOP1** | 0.928 |
+| RRP9 | **PDCD11** | 0.995 |
+| RRP9 | **NOL10** | 0.996 |
+| RRP9 | **BMS1** | 0.998 |
+| RRP9 | **NOP56** | 0.999 |
+| RRP9 | **NOP58** | 0.999 |
+| RRP9 | **WDR36** | 0.999 |
+| PPAN | **NOP58** | 0.516 |
+| PPAN | **DDX51** | 0.631 |
+| PPAN | **RRP8** | 0.658 |
+| PPAN | **URB1** | 0.676 |
+| PPAN | **PDCD11** | 0.709 |
+| PPAN | **RBM34** | 0.723 |
+| PPAN | **NOP56** | 0.731 |
+| PPAN | **BMS1** | 0.731 |
+| PPAN | **WDR36** | 0.739 |
+| PPAN | **NOL10** | 0.815 |
+| PPAN | **WDR12** | 0.831 |
+| PPAN | **GTPBP4** | 0.849 |
+| PPAN | **BOP1** | 0.941 |
+| RRP8 | **NOP56** | 0.566 |
+| RRP8 | **BOP1** | 0.591 |
+| RRP8 | **URB1** | 0.613 |
+| RRP8 | **WDR36** | 0.624 |
+| RRP8 | **DDX51** | 0.769 |
+| RRP8 | **RBM34** | 0.781 |
+| RRP8 | **NOL10** | 0.803 |
+| RRP8 | **PDCD11** | 0.803 |
+| RRP8 | **BMS1** | 0.855 |
+| RRP8 | **GTPBP4** | 0.929 |
+| WDR12 | **URB1** | 0.607 |
+| WDR12 | **DDX51** | 0.662 |
+| WDR12 | **NOL10** | 0.717 |
+| WDR12 | **NOP56** | 0.804 |
+| WDR12 | **RBM34** | 0.884 |
+| WDR12 | **BMS1** | 0.887 |
+| WDR12 | **PDCD11** | 0.91 |
+| WDR12 | **WDR36** | 0.948 |
+| WDR12 | **NOP58** | 0.974 |
+| WDR12 | **GTPBP4** | 0.997 |
+| WDR12 | **BOP1** | 0.999 |
+| NOP58 | **NOL8** | 0.467 |
+| NOP58 | **URB1** | 0.671 |
+| NOP58 | **DDX51** | 0.735 |
+| NOP58 | **RBM34** | 0.828 |
+| NOP58 | **GTPBP4** | 0.966 |
+| NOP58 | **BOP1** | 0.991 |
+| NOP58 | **PDCD11** | 0.998 |
+| NOP58 | **NOP56** | 0.999 |
+| NOP58 | **BMS1** | 0.999 |
+| NOP58 | **WDR36** | 0.999 |
+| NOP58 | **NOL10** | 0.999 |
+| GTPBP4 | **URB1** | 0.403 |
+| GTPBP4 | **DDX51** | 0.721 |
+| GTPBP4 | **NOL10** | 0.877 |
+| GTPBP4 | **RBM34** | 0.896 |
+| GTPBP4 | **PDCD11** | 0.928 |
+| GTPBP4 | **NOP56** | 0.941 |
+| GTPBP4 | **BMS1** | 0.943 |
+| GTPBP4 | **WDR36** | 0.947 |
+| GTPBP4 | **BOP1** | 0.996 |
+| PDCD11 | **DDX51** | 0.663 |
+| PDCD11 | **RBM34** | 0.709 |
+| PDCD11 | **BOP1** | 0.97 |
+| PDCD11 | **URB1** | 0.973 |
+| PDCD11 | **NOL10** | 0.997 |
+| PDCD11 | **NOP56** | 0.997 |
+| PDCD11 | **WDR36** | 0.998 |
+| PDCD11 | **BMS1** | 0.999 |
+| BMS1 | **DDX51** | 0.613 |
+| BMS1 | **RBM34** | 0.683 |
+| BMS1 | **URB1** | 0.744 |
+| BMS1 | **BOP1** | 0.94 |
+| BMS1 | **NOP56** | 0.999 |
+| BMS1 | **WDR36** | 0.999 |
+| BMS1 | **NOL10** | 0.999 |
+| NOP56 | **NOL8** | 0.43 |
+| NOP56 | **URB1** | 0.467 |
+| NOP56 | **DDX51** | 0.671 |
+| NOP56 | **RBM34** | 0.705 |
+| NOP56 | **BOP1** | 0.974 |
+| NOP56 | **NOL10** | 0.996 |
+| NOP56 | **WDR36** | 0.999 |
+| NOL10 | **NOL8** | 0.408 |
+| NOL10 | **URB1** | 0.602 |
+| NOL10 | **DDX51** | 0.685 |
+| NOL10 | **RBM34** | 0.748 |
+| NOL10 | **BOP1** | 0.852 |
+| NOL10 | **WDR36** | 0.999 |
+| URB1 | **DDX51** | 0.648 |
+| URB1 | **BOP1** | 0.721 |
+| URB1 | **RBM34** | 0.812 |
+| URB1 | **NOL8** | 0.838 |
+| URB1 | **WDR36** | 0.878 |
+| DDX51 | **WDR36** | 0.655 |
+| DDX51 | **BOP1** | 0.664 |
+| DDX51 | **RBM34** | 0.733 |
+| DDX51 | **NOL8** | 0.789 |
+| RBM34 | **WDR36** | 0.641 |
+| RBM34 | **BOP1** | 0.888 |
+| WDR36 | **BOP1** | 0.951 |
+

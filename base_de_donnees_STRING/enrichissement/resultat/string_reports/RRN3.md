@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : RRN3
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RRN3
+Identifiant STRING officiel : `9606.ENSP00000198767`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RRN3 | **TBP** | 0.971 |
+| RRN3 | **POLR2K** | 0.974 |
+| RRN3 | **UBTF** | 0.974 |
+| RRN3 | **POLR2E** | 0.976 |
+| RRN3 | **POLR2L** | 0.98 |
+| RRN3 | **POLR2F** | 0.993 |
+| RRN3 | **ZNRD1** | 0.994 |
+| RRN3 | **CD3EAP** | 0.996 |
+| RRN3 | **POLI** | 0.997 |
+| RRN3 | **POLR1E** | 0.998 |
+| RRN3 | **POLR1D** | 0.998 |
+| RRN3 | **POLR1C** | 0.999 |
+| RRN3 | **POLR1A** | 0.999 |
+| RRN3 | **POLR1B** | 0.999 |
+| RRN3 | **TWISTNB** | 0.999 |
+| TWISTNB | **TBP** | 0.641 |
+| TWISTNB | **POLI** | 0.658 |
+| TWISTNB | **UBTF** | 0.708 |
+| TWISTNB | **POLR1B** | 0.999 |
+| TWISTNB | **POLR1D** | 0.999 |
+| TWISTNB | **ZNRD1** | 0.999 |
+| TWISTNB | **POLR1C** | 0.999 |
+| TWISTNB | **POLR2L** | 0.999 |
+| TWISTNB | **POLR1E** | 0.999 |
+| TWISTNB | **POLR2E** | 0.999 |
+| TWISTNB | **POLR2K** | 0.999 |
+| TWISTNB | **CD3EAP** | 0.999 |
+| TWISTNB | **POLR2F** | 0.999 |
+| TWISTNB | **POLR1A** | 0.999 |
+| TBP | **POLR1E** | 0.651 |
+| TBP | **ZNRD1** | 0.693 |
+| TBP | **CD3EAP** | 0.718 |
+| TBP | **POLR1A** | 0.751 |
+| TBP | **POLR1B** | 0.808 |
+| TBP | **POLI** | 0.82 |
+| TBP | **POLR1C** | 0.858 |
+| TBP | **POLR1D** | 0.888 |
+| TBP | **UBTF** | 0.945 |
+| TBP | **POLR2F** | 0.967 |
+| TBP | **POLR2K** | 0.971 |
+| TBP | **POLR2L** | 0.971 |
+| TBP | **POLR2E** | 0.993 |
+| POLR1A | **POLI** | 0.809 |
+| POLR1A | **UBTF** | 0.957 |
+| POLR1A | **CD3EAP** | 0.999 |
+| POLR1A | **POLR2F** | 0.999 |
+| POLR1A | **POLR1C** | 0.999 |
+| POLR1A | **POLR2L** | 0.999 |
+| POLR1A | **POLR1E** | 0.999 |
+| POLR1A | **POLR2E** | 0.999 |
+| POLR1A | **POLR2K** | 0.999 |
+| POLR1A | **ZNRD1** | 0.999 |
+| POLR1A | **POLR1B** | 0.999 |
+| POLR1A | **POLR1D** | 0.999 |
+| POLR1D | **UBTF** | 0.645 |
+| POLR1D | **POLI** | 0.822 |
+| POLR1D | **ZNRD1** | 0.999 |
+| POLR1D | **POLR1B** | 0.999 |
+| POLR1D | **CD3EAP** | 0.999 |
+| POLR1D | **POLR2F** | 0.999 |
+| POLR1D | **POLR2L** | 0.999 |
+| POLR1D | **POLR1E** | 0.999 |
+| POLR1D | **POLR1C** | 0.999 |
+| POLR1D | **POLR2K** | 0.999 |
+| POLR1D | **POLR2E** | 0.999 |
+| UBTF | **POLR2K** | 0.559 |
+| UBTF | **POLR2E** | 0.565 |
+| UBTF | **ZNRD1** | 0.571 |
+| UBTF | **POLR2L** | 0.585 |
+| UBTF | **POLR2F** | 0.591 |
+| UBTF | **POLR1C** | 0.633 |
+| UBTF | **POLR1B** | 0.863 |
+| UBTF | **CD3EAP** | 0.934 |
+| UBTF | **POLI** | 0.962 |
+| UBTF | **POLR1E** | 0.971 |
+| POLR2L | **POLI** | 0.616 |
+| POLR2L | **POLR1E** | 0.997 |
+| POLR2L | **POLR1B** | 0.999 |
+| POLR2L | **ZNRD1** | 0.999 |
+| POLR2L | **POLR1C** | 0.999 |
+| POLR2L | **POLR2K** | 0.999 |
+| POLR2L | **POLR2E** | 0.999 |
+| POLR2L | **POLR2F** | 0.999 |
+| POLR2L | **CD3EAP** | 0.999 |
+| ZNRD1 | **POLI** | 0.81 |
+| ZNRD1 | **POLR1B** | 0.999 |
+| ZNRD1 | **CD3EAP** | 0.999 |
+| ZNRD1 | **POLR2F** | 0.999 |
+| ZNRD1 | **POLR1E** | 0.999 |
+| ZNRD1 | **POLR1C** | 0.999 |
+| ZNRD1 | **POLR2K** | 0.999 |
+| ZNRD1 | **POLR2E** | 0.999 |
+| POLR2K | **POLI** | 0.643 |
+| POLR2K | **CD3EAP** | 0.995 |
+| POLR2K | **POLR1E** | 0.996 |
+| POLR2K | **POLR2E** | 0.999 |
+| POLR2K | **POLR1C** | 0.999 |
+| POLR2K | **POLR2F** | 0.999 |
+| POLR2K | **POLR1B** | 0.999 |
+| POLR1E | **POLI** | 0.817 |
+| POLR1E | **POLR1B** | 0.999 |
+| POLR1E | **POLR2F** | 0.999 |
+| POLR1E | **CD3EAP** | 0.999 |
+| POLR1E | **POLR1C** | 0.999 |
+| POLR1E | **POLR2E** | 0.999 |
+| POLR2F | **POLI** | 0.633 |
+| POLR2F | **POLR1B** | 0.999 |
+| POLR2F | **CD3EAP** | 0.999 |
+| POLR2F | **POLR2E** | 0.999 |
+| POLR2F | **POLR1C** | 0.999 |
+| POLR1B | **POLI** | 0.932 |
+| POLR1B | **POLR2E** | 0.999 |
+| POLR1B | **POLR1C** | 0.999 |
+| POLR1B | **CD3EAP** | 0.999 |
+| POLI | **POLR2E** | 0.597 |
+| POLI | **CD3EAP** | 0.698 |
+| POLI | **POLR1C** | 0.756 |
+| CD3EAP | **POLR2E** | 0.999 |
+| CD3EAP | **POLR1C** | 0.999 |
+| POLR2E | **POLR1C** | 0.999 |
+

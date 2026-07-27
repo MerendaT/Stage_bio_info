@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ABI2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ABI2
+Identifiant STRING officiel : `9606.ENSP00000295851`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| WASL | **ABL1** | 0.635 |
+| WASL | **CYFIP1** | 0.689 |
+| WASL | **NCKAP1L** | 0.709 |
+| WASL | **WASF3** | 0.731 |
+| WASL | **CYFIP2** | 0.826 |
+| WASL | **NCKAP1** | 0.835 |
+| WASL | **RAC1** | 0.848 |
+| WASL | **BRK1** | 0.849 |
+| WASL | **WASF2** | 0.916 |
+| WASL | **WASF1** | 0.926 |
+| WASL | **ABI2** | 0.949 |
+| WASL | **RAC2** | 0.957 |
+| WASL | **BAIAP2** | 0.965 |
+| WASL | **ABI1** | 0.98 |
+| RAC2 | **BRK1** | 0.699 |
+| RAC2 | **ABI1** | 0.7 |
+| RAC2 | **RAC1** | 0.823 |
+| RAC2 | **WASF3** | 0.924 |
+| RAC2 | **CYFIP1** | 0.93 |
+| RAC2 | **NCKAP1** | 0.938 |
+| RAC2 | **ABL1** | 0.94 |
+| RAC2 | **WASF1** | 0.941 |
+| RAC2 | **CYFIP2** | 0.945 |
+| RAC2 | **ABI2** | 0.947 |
+| RAC2 | **WASF2** | 0.95 |
+| RAC2 | **NCKAP1L** | 0.953 |
+| RAC2 | **BAIAP2** | 0.953 |
+| PCDH10 | **NCKAP1L** | 0.446 |
+| PCDH10 | **BRK1** | 0.874 |
+| PCDH10 | **NCKAP1** | 0.879 |
+| PCDH10 | **WASF1** | 0.927 |
+| PCDH10 | **CYFIP1** | 0.939 |
+| PCDH10 | **ABI2** | 0.956 |
+| NCKAP1L | **BAIAP2** | 0.513 |
+| NCKAP1L | **ABL1** | 0.538 |
+| NCKAP1L | **RAC1** | 0.607 |
+| NCKAP1L | **NCKAP1** | 0.942 |
+| NCKAP1L | **WASF3** | 0.981 |
+| NCKAP1L | **WASF1** | 0.998 |
+| NCKAP1L | **BRK1** | 0.999 |
+| NCKAP1L | **WASF2** | 0.999 |
+| NCKAP1L | **ABI1** | 0.999 |
+| NCKAP1L | **ABI2** | 0.999 |
+| NCKAP1L | **CYFIP1** | 0.999 |
+| NCKAP1L | **CYFIP2** | 0.999 |
+| ABI2 | **RAC1** | 0.966 |
+| ABI2 | **BAIAP2** | 0.97 |
+| ABI2 | **ABL1** | 0.981 |
+| ABI2 | **WASF3** | 0.995 |
+| ABI2 | **ABI1** | 0.996 |
+| ABI2 | **CYFIP2** | 0.999 |
+| ABI2 | **WASF1** | 0.999 |
+| ABI2 | **CYFIP1** | 0.999 |
+| ABI2 | **WASF2** | 0.999 |
+| ABI2 | **BRK1** | 0.999 |
+| ABI2 | **NCKAP1** | 0.999 |
+| BAIAP2 | **ABL1** | 0.497 |
+| BAIAP2 | **BRK1** | 0.901 |
+| BAIAP2 | **WASF3** | 0.913 |
+| BAIAP2 | **CYFIP2** | 0.941 |
+| BAIAP2 | **CYFIP1** | 0.945 |
+| BAIAP2 | **NCKAP1** | 0.954 |
+| BAIAP2 | **RAC1** | 0.964 |
+| BAIAP2 | **ABI1** | 0.984 |
+| BAIAP2 | **WASF1** | 0.993 |
+| BAIAP2 | **WASF2** | 0.999 |
+| WASF3 | **ABL1** | 0.524 |
+| WASF3 | **RAC1** | 0.615 |
+| WASF3 | **WASF1** | 0.956 |
+| WASF3 | **WASF2** | 0.965 |
+| WASF3 | **CYFIP2** | 0.993 |
+| WASF3 | **BRK1** | 0.994 |
+| WASF3 | **CYFIP1** | 0.996 |
+| WASF3 | **ABI1** | 0.997 |
+| WASF3 | **NCKAP1** | 0.999 |
+| RAC1 | **ABL1** | 0.574 |
+| RAC1 | **ABI1** | 0.774 |
+| RAC1 | **CYFIP2** | 0.871 |
+| RAC1 | **WASF2** | 0.882 |
+| RAC1 | **WASF1** | 0.906 |
+| RAC1 | **BRK1** | 0.964 |
+| RAC1 | **NCKAP1** | 0.99 |
+| RAC1 | **CYFIP1** | 0.993 |
+| NCKAP1 | **ABL1** | 0.828 |
+| NCKAP1 | **CYFIP2** | 0.999 |
+| NCKAP1 | **WASF1** | 0.999 |
+| NCKAP1 | **CYFIP1** | 0.999 |
+| NCKAP1 | **ABI1** | 0.999 |
+| NCKAP1 | **WASF2** | 0.999 |
+| NCKAP1 | **BRK1** | 0.999 |
+| ABL1 | **CYFIP1** | 0.511 |
+| ABL1 | **BRK1** | 0.519 |
+| ABL1 | **CYFIP2** | 0.574 |
+| ABL1 | **WASF1** | 0.768 |
+| ABL1 | **WASF2** | 0.779 |
+| ABL1 | **ABI1** | 0.998 |
+| ABI1 | **WASF2** | 0.999 |
+| ABI1 | **BRK1** | 0.999 |
+| ABI1 | **CYFIP2** | 0.999 |
+| ABI1 | **WASF1** | 0.999 |
+| ABI1 | **CYFIP1** | 0.999 |
+| WASF1 | **WASF2** | 0.99 |
+| WASF1 | **BRK1** | 0.999 |
+| WASF1 | **CYFIP1** | 0.999 |
+| WASF1 | **CYFIP2** | 0.999 |
+| BRK1 | **WASF2** | 0.999 |
+| BRK1 | **CYFIP2** | 0.999 |
+| BRK1 | **CYFIP1** | 0.999 |
+| CYFIP2 | **CYFIP1** | 0.975 |
+| CYFIP2 | **WASF2** | 0.999 |
+| CYFIP1 | **WASF2** | 0.999 |
+

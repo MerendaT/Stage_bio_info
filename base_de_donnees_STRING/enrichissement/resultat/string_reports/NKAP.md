@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : NKAP
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : NKAP
+Identifiant STRING officiel : `9606.ENSP00000360464`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PRPF19 | **PRKRIP1** | 0.807 |
+| PRPF19 | **FAM32A** | 0.827 |
+| PRPF19 | **NKAP** | 0.863 |
+| PRPF19 | **SDE2** | 0.9 |
+| PRPF19 | **U2AF1** | 0.902 |
+| PRPF19 | **SLU7** | 0.994 |
+| PRPF19 | **PPIL1** | 0.997 |
+| PRPF19 | **SRRM2** | 0.997 |
+| PRPF19 | **DHX8** | 0.998 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **BCAS2** | 0.999 |
+| PRPF19 | **CDC40** | 0.999 |
+| PRPF19 | **CWC22** | 0.999 |
+| SYF2 | **U2AF1** | 0.61 |
+| SYF2 | **DDX41** | 0.807 |
+| SYF2 | **NKAP** | 0.959 |
+| SYF2 | **PRKRIP1** | 0.963 |
+| SYF2 | **SDE2** | 0.963 |
+| SYF2 | **FAM32A** | 0.977 |
+| SYF2 | **SLU7** | 0.995 |
+| SYF2 | **CWC22** | 0.995 |
+| SYF2 | **DHX8** | 0.997 |
+| SYF2 | **SRRM2** | 0.997 |
+| SYF2 | **PPIL1** | 0.998 |
+| SYF2 | **BCAS2** | 0.998 |
+| SYF2 | **CDC40** | 0.999 |
+| DHX8 | **DDX41** | 0.565 |
+| DHX8 | **U2AF1** | 0.665 |
+| DHX8 | **PRPF40A** | 0.776 |
+| DHX8 | **SDE2** | 0.844 |
+| DHX8 | **FAM32A** | 0.859 |
+| DHX8 | **PRKRIP1** | 0.88 |
+| DHX8 | **NKAP** | 0.948 |
+| DHX8 | **PPIL1** | 0.985 |
+| DHX8 | **BCAS2** | 0.987 |
+| DHX8 | **SRRM2** | 0.994 |
+| DHX8 | **CWC22** | 0.996 |
+| DHX8 | **CDC40** | 0.999 |
+| DHX8 | **SLU7** | 0.999 |
+| FAM32A | **U2AF1** | 0.499 |
+| FAM32A | **SRRM2** | 0.8 |
+| FAM32A | **BCAS2** | 0.813 |
+| FAM32A | **NKAP** | 0.877 |
+| FAM32A | **SDE2** | 0.911 |
+| FAM32A | **PRKRIP1** | 0.93 |
+| FAM32A | **PPIL1** | 0.958 |
+| FAM32A | **CDC40** | 0.972 |
+| FAM32A | **SLU7** | 0.992 |
+| FAM32A | **CWC22** | 0.998 |
+| SDE2 | **U2AF1** | 0.551 |
+| SDE2 | **CWC22** | 0.814 |
+| SDE2 | **SRRM2** | 0.822 |
+| SDE2 | **BCAS2** | 0.83 |
+| SDE2 | **NKAP** | 0.881 |
+| SDE2 | **PRKRIP1** | 0.915 |
+| SDE2 | **PPIL1** | 0.958 |
+| SDE2 | **SLU7** | 0.979 |
+| SDE2 | **CDC40** | 0.98 |
+| U2AF1 | **SRRM2** | 0.507 |
+| U2AF1 | **PPIL1** | 0.513 |
+| U2AF1 | **PRKRIP1** | 0.514 |
+| U2AF1 | **CWC22** | 0.606 |
+| U2AF1 | **CDC40** | 0.628 |
+| U2AF1 | **BCAS2** | 0.694 |
+| U2AF1 | **SLU7** | 0.755 |
+| U2AF1 | **DDX41** | 0.794 |
+| U2AF1 | **PRPF40A** | 0.814 |
+| U2AF1 | **NKAP** | 0.84 |
+| SLU7 | **PRPF40A** | 0.418 |
+| SLU7 | **DDX41** | 0.821 |
+| SLU7 | **BCAS2** | 0.872 |
+| SLU7 | **PPIL1** | 0.969 |
+| SLU7 | **NKAP** | 0.972 |
+| SLU7 | **PRKRIP1** | 0.983 |
+| SLU7 | **SRRM2** | 0.986 |
+| SLU7 | **CWC22** | 0.999 |
+| SLU7 | **CDC40** | 0.999 |
+| SRRM2 | **DDX41** | 0.699 |
+| SRRM2 | **PRKRIP1** | 0.832 |
+| SRRM2 | **NKAP** | 0.88 |
+| SRRM2 | **PRPF40A** | 0.918 |
+| SRRM2 | **PPIL1** | 0.983 |
+| SRRM2 | **BCAS2** | 0.984 |
+| SRRM2 | **CDC40** | 0.998 |
+| SRRM2 | **CWC22** | 0.999 |
+| DDX41 | **PRPF40A** | 0.431 |
+| DDX41 | **PPIL1** | 0.819 |
+| DDX41 | **NKAP** | 0.847 |
+| DDX41 | **CDC40** | 0.874 |
+| CDC40 | **PRPF40A** | 0.844 |
+| CDC40 | **NKAP** | 0.965 |
+| CDC40 | **PRKRIP1** | 0.987 |
+| CDC40 | **BCAS2** | 0.999 |
+| CDC40 | **PPIL1** | 0.999 |
+| CDC40 | **CWC22** | 0.999 |
+| BCAS2 | **PRKRIP1** | 0.813 |
+| BCAS2 | **NKAP** | 0.843 |
+| BCAS2 | **CWC22** | 0.985 |
+| BCAS2 | **PPIL1** | 0.997 |
+| NKAP | **PRPF40A** | 0.844 |
+| NKAP | **PRKRIP1** | 0.881 |
+| NKAP | **CWC22** | 0.887 |
+| NKAP | **PPIL1** | 0.959 |
+| PPIL1 | **PRKRIP1** | 0.958 |
+| PPIL1 | **CWC22** | 0.982 |
+| PRPF40A | **CWC22** | 0.53 |
+| CWC22 | **PRKRIP1** | 0.873 |
+

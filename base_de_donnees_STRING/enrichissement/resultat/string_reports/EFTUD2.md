@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : EFTUD2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EFTUD2
+Identifiant STRING officiel : `9606.ENSP00000392094`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| AQR | **TXNL4A** | 0.405 |
+| AQR | **PRPF6** | 0.545 |
+| AQR | **SF3B4** | 0.805 |
+| AQR | **MFAP1** | 0.808 |
+| AQR | **SF3A1** | 0.88 |
+| AQR | **SYF2** | 0.996 |
+| AQR | **SNRPD3** | 0.997 |
+| AQR | **SNRPF** | 0.997 |
+| AQR | **SNRPD1** | 0.997 |
+| AQR | **SNRNP40** | 0.997 |
+| AQR | **RBM22** | 0.999 |
+| AQR | **PRPF19** | 0.999 |
+| AQR | **EFTUD2** | 0.999 |
+| AQR | **SNRPA1** | 0.999 |
+| RBM22 | **TXNL4A** | 0.607 |
+| RBM22 | **PRPF6** | 0.7 |
+| RBM22 | **LSM8** | 0.843 |
+| RBM22 | **MFAP1** | 0.858 |
+| RBM22 | **SF3A1** | 0.946 |
+| RBM22 | **SF3B4** | 0.955 |
+| RBM22 | **SNRPD3** | 0.997 |
+| RBM22 | **SNRNP40** | 0.997 |
+| RBM22 | **SNRPD1** | 0.997 |
+| RBM22 | **SNRPF** | 0.999 |
+| RBM22 | **SYF2** | 0.999 |
+| RBM22 | **SNRPA1** | 0.999 |
+| RBM22 | **PRPF19** | 0.999 |
+| RBM22 | **EFTUD2** | 0.999 |
+| SF3A1 | **SYF2** | 0.642 |
+| SF3A1 | **SNRNP40** | 0.94 |
+| SF3A1 | **TXNL4A** | 0.989 |
+| SF3A1 | **LSM8** | 0.991 |
+| SF3A1 | **SNRPD3** | 0.995 |
+| SF3A1 | **SNRPF** | 0.997 |
+| SF3A1 | **PRPF19** | 0.997 |
+| SF3A1 | **PRPF6** | 0.999 |
+| SF3A1 | **MFAP1** | 0.999 |
+| SF3A1 | **SNRPA1** | 0.999 |
+| SF3A1 | **EFTUD2** | 0.999 |
+| SF3A1 | **SF3B4** | 0.999 |
+| SF3A1 | **SNRPD1** | 0.999 |
+| SNRPD3 | **SYF2** | 0.991 |
+| SNRPD3 | **SNRNP40** | 0.993 |
+| SNRPD3 | **SF3B4** | 0.995 |
+| SNRPD3 | **MFAP1** | 0.997 |
+| SNRPD3 | **TXNL4A** | 0.998 |
+| SNRPD3 | **SNRPA1** | 0.999 |
+| SNRPD3 | **LSM8** | 0.999 |
+| SNRPD3 | **EFTUD2** | 0.999 |
+| SNRPD3 | **PRPF19** | 0.999 |
+| SNRPD3 | **SNRPD1** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **PRPF6** | 0.999 |
+| PRPF19 | **LSM8** | 0.553 |
+| PRPF19 | **MFAP1** | 0.587 |
+| PRPF19 | **TXNL4A** | 0.628 |
+| PRPF19 | **PRPF6** | 0.872 |
+| PRPF19 | **SF3B4** | 0.983 |
+| PRPF19 | **SYF2** | 0.999 |
+| PRPF19 | **SNRPF** | 0.999 |
+| PRPF19 | **EFTUD2** | 0.999 |
+| PRPF19 | **SNRPD1** | 0.999 |
+| PRPF19 | **SNRPA1** | 0.999 |
+| PRPF19 | **SNRNP40** | 0.999 |
+| SYF2 | **MFAP1** | 0.725 |
+| SYF2 | **SF3B4** | 0.805 |
+| SYF2 | **SNRNP40** | 0.989 |
+| SYF2 | **SNRPD1** | 0.991 |
+| SYF2 | **SNRPF** | 0.992 |
+| SYF2 | **EFTUD2** | 0.999 |
+| SYF2 | **SNRPA1** | 0.999 |
+| LSM8 | **SNRNP40** | 0.939 |
+| LSM8 | **MFAP1** | 0.982 |
+| LSM8 | **TXNL4A** | 0.994 |
+| LSM8 | **SF3B4** | 0.995 |
+| LSM8 | **SNRPA1** | 0.997 |
+| LSM8 | **EFTUD2** | 0.999 |
+| LSM8 | **SNRPD1** | 0.999 |
+| LSM8 | **PRPF6** | 0.999 |
+| LSM8 | **SNRPF** | 0.999 |
+| SNRPA1 | **TXNL4A** | 0.992 |
+| SNRPA1 | **SNRNP40** | 0.997 |
+| SNRPA1 | **PRPF6** | 0.998 |
+| SNRPA1 | **SNRPF** | 0.999 |
+| SNRPA1 | **MFAP1** | 0.999 |
+| SNRPA1 | **SNRPD1** | 0.999 |
+| SNRPA1 | **SF3B4** | 0.999 |
+| SNRPA1 | **EFTUD2** | 0.999 |
+| SNRNP40 | **SF3B4** | 0.806 |
+| SNRNP40 | **MFAP1** | 0.992 |
+| SNRNP40 | **TXNL4A** | 0.995 |
+| SNRNP40 | **SNRPD1** | 0.996 |
+| SNRNP40 | **SNRPF** | 0.998 |
+| SNRNP40 | **EFTUD2** | 0.999 |
+| SNRNP40 | **PRPF6** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **MFAP1** | 0.999 |
+| PRPF6 | **EFTUD2** | 0.999 |
+| PRPF6 | **TXNL4A** | 0.999 |
+| PRPF6 | **SNRPD1** | 0.999 |
+| PRPF6 | **SF3B4** | 0.999 |
+| SNRPF | **MFAP1** | 0.991 |
+| SNRPF | **SF3B4** | 0.996 |
+| SNRPF | **TXNL4A** | 0.998 |
+| SNRPF | **EFTUD2** | 0.999 |
+| SNRPF | **SNRPD1** | 0.999 |
+| MFAP1 | **TXNL4A** | 0.983 |
+| MFAP1 | **EFTUD2** | 0.999 |
+| MFAP1 | **SNRPD1** | 0.999 |
+| MFAP1 | **SF3B4** | 0.999 |
+| TXNL4A | **SNRPD1** | 0.991 |
+| TXNL4A | **SF3B4** | 0.993 |
+| TXNL4A | **EFTUD2** | 0.999 |
+| SF3B4 | **SNRPD1** | 0.993 |
+| SF3B4 | **EFTUD2** | 0.999 |
+| SNRPD1 | **EFTUD2** | 0.999 |
+

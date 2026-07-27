@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MTG2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MTG2
+Identifiant STRING officiel : `9606.ENSP00000359859`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPL32 | **MRM2** | 0.825 |
+| MRPL32 | **NSUN4** | 0.829 |
+| MRPL32 | **MTERF4** | 0.85 |
+| MRPL32 | **MTG1** | 0.881 |
+| MRPL32 | **MTG2** | 0.915 |
+| MRPL32 | **MRPL11** | 0.992 |
+| MRPL32 | **MRPL58** | 0.993 |
+| MRPL32 | **MALSU1** | 0.996 |
+| MRPL32 | **MRPL3** | 0.998 |
+| MRPL32 | **MRPL9** | 0.999 |
+| MRPL32 | **MRPL19** | 0.999 |
+| MRPL32 | **MRPL27** | 0.999 |
+| MRPL32 | **MRPL20** | 0.999 |
+| MRPL32 | **MRPL21** | 0.999 |
+| MRPL32 | **MRPL17** | 0.999 |
+| MRPL27 | **NSUN4** | 0.812 |
+| MRPL27 | **MTERF4** | 0.821 |
+| MRPL27 | **MRM2** | 0.855 |
+| MRPL27 | **MTG1** | 0.875 |
+| MRPL27 | **MTG2** | 0.935 |
+| MRPL27 | **MALSU1** | 0.991 |
+| MRPL27 | **MRPL11** | 0.998 |
+| MRPL27 | **MRPL20** | 0.999 |
+| MRPL27 | **MRPL9** | 0.999 |
+| MRPL27 | **MRPL19** | 0.999 |
+| MRPL27 | **MRPL58** | 0.999 |
+| MRPL27 | **MRPL21** | 0.999 |
+| MRPL27 | **MRPL17** | 0.999 |
+| MRPL27 | **MRPL3** | 0.999 |
+| MRM2 | **MRPL20** | 0.808 |
+| MRM2 | **MRPL21** | 0.818 |
+| MRM2 | **MRPL17** | 0.82 |
+| MRM2 | **MRPL9** | 0.82 |
+| MRM2 | **MRPL11** | 0.848 |
+| MRM2 | **MRPL19** | 0.855 |
+| MRM2 | **MRPL58** | 0.875 |
+| MRM2 | **MRPL3** | 0.895 |
+| MRM2 | **MTERF4** | 0.94 |
+| MRM2 | **MALSU1** | 0.948 |
+| MRM2 | **MTG2** | 0.963 |
+| MRM2 | **NSUN4** | 0.965 |
+| MRM2 | **MTG1** | 0.973 |
+| MRPL3 | **MTERF4** | 0.829 |
+| MRPL3 | **NSUN4** | 0.868 |
+| MRPL3 | **MTG2** | 0.903 |
+| MRPL3 | **MRPL58** | 0.986 |
+| MRPL3 | **MTG1** | 0.986 |
+| MRPL3 | **MALSU1** | 0.992 |
+| MRPL3 | **MRPL11** | 0.997 |
+| MRPL3 | **MRPL19** | 0.999 |
+| MRPL3 | **MRPL9** | 0.999 |
+| MRPL3 | **MRPL20** | 0.999 |
+| MRPL3 | **MRPL17** | 0.999 |
+| MRPL3 | **MRPL21** | 0.999 |
+| MRPL17 | **NSUN4** | 0.803 |
+| MRPL17 | **MTERF4** | 0.819 |
+| MRPL17 | **MTG2** | 0.92 |
+| MRPL17 | **MTG1** | 0.979 |
+| MRPL17 | **MRPL58** | 0.992 |
+| MRPL17 | **MALSU1** | 0.993 |
+| MRPL17 | **MRPL21** | 0.999 |
+| MRPL17 | **MRPL11** | 0.999 |
+| MRPL17 | **MRPL20** | 0.999 |
+| MRPL17 | **MRPL19** | 0.999 |
+| MRPL17 | **MRPL9** | 0.999 |
+| MRPL58 | **NSUN4** | 0.893 |
+| MRPL58 | **MTG1** | 0.903 |
+| MRPL58 | **MTERF4** | 0.905 |
+| MRPL58 | **MTG2** | 0.909 |
+| MRPL58 | **MRPL11** | 0.97 |
+| MRPL58 | **MALSU1** | 0.97 |
+| MRPL58 | **MRPL20** | 0.994 |
+| MRPL58 | **MRPL9** | 0.994 |
+| MRPL58 | **MRPL19** | 0.998 |
+| MRPL58 | **MRPL21** | 0.999 |
+| MRPL11 | **NSUN4** | 0.844 |
+| MRPL11 | **MTERF4** | 0.85 |
+| MRPL11 | **MTG2** | 0.903 |
+| MRPL11 | **MTG1** | 0.985 |
+| MRPL11 | **MALSU1** | 0.992 |
+| MRPL11 | **MRPL20** | 0.998 |
+| MRPL11 | **MRPL9** | 0.998 |
+| MRPL11 | **MRPL21** | 0.999 |
+| MRPL11 | **MRPL19** | 0.999 |
+| MTG1 | **MRPL9** | 0.831 |
+| MTG1 | **MRPL20** | 0.882 |
+| MTG1 | **MRPL19** | 0.884 |
+| MTG1 | **MTERF4** | 0.964 |
+| MTG1 | **NSUN4** | 0.972 |
+| MTG1 | **MTG2** | 0.976 |
+| MTG1 | **MRPL21** | 0.98 |
+| MTG1 | **MALSU1** | 0.997 |
+| MRPL20 | **NSUN4** | 0.831 |
+| MRPL20 | **MTERF4** | 0.842 |
+| MRPL20 | **MTG2** | 0.94 |
+| MRPL20 | **MALSU1** | 0.994 |
+| MRPL20 | **MRPL19** | 0.999 |
+| MRPL20 | **MRPL9** | 0.999 |
+| MRPL20 | **MRPL21** | 0.999 |
+| MRPL21 | **MTERF4** | 0.824 |
+| MRPL21 | **NSUN4** | 0.841 |
+| MRPL21 | **MTG2** | 0.926 |
+| MRPL21 | **MALSU1** | 0.995 |
+| MRPL21 | **MRPL19** | 0.999 |
+| MRPL21 | **MRPL9** | 0.999 |
+| MRPL9 | **NSUN4** | 0.804 |
+| MRPL9 | **MTERF4** | 0.821 |
+| MRPL9 | **MTG2** | 0.905 |
+| MRPL9 | **MALSU1** | 0.97 |
+| MRPL9 | **MRPL19** | 0.999 |
+| MTG2 | **MRPL19** | 0.913 |
+| MTG2 | **NSUN4** | 0.943 |
+| MTG2 | **MTERF4** | 0.946 |
+| MTG2 | **MALSU1** | 0.987 |
+| MRPL19 | **NSUN4** | 0.829 |
+| MRPL19 | **MTERF4** | 0.839 |
+| MRPL19 | **MALSU1** | 0.997 |
+| MALSU1 | **MTERF4** | 0.964 |
+| MALSU1 | **NSUN4** | 0.968 |
+| NSUN4 | **MTERF4** | 0.999 |
+

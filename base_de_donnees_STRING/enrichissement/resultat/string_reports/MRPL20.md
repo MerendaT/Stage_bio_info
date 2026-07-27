@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MRPL20
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MRPL20
+Identifiant STRING officiel : `9606.ENSP00000341082`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MRPL32 | **RPS3** | 0.996 |
+| MRPL32 | **RPS11** | 0.997 |
+| MRPL32 | **RPL5** | 0.998 |
+| MRPL32 | **MRPL3** | 0.998 |
+| MRPL32 | **MRPL4** | 0.998 |
+| MRPL32 | **MRPL9** | 0.999 |
+| MRPL32 | **MRPL27** | 0.999 |
+| MRPL32 | **MRPL20** | 0.999 |
+| MRPL32 | **TUFM** | 0.999 |
+| MRPL32 | **MRPL13** | 0.999 |
+| MRPL32 | **MRPL12** | 0.999 |
+| MRPL32 | **MRPL21** | 0.999 |
+| MRPL32 | **MRPS9** | 0.999 |
+| MRPL32 | **MRPL17** | 0.999 |
+| MRPL32 | **MRPL33** | 0.999 |
+| MRPL27 | **RPL5** | 0.995 |
+| MRPL27 | **RPS11** | 0.996 |
+| MRPL27 | **RPS3** | 0.997 |
+| MRPL27 | **MRPL20** | 0.999 |
+| MRPL27 | **MRPL9** | 0.999 |
+| MRPL27 | **MRPL12** | 0.999 |
+| MRPL27 | **MRPS9** | 0.999 |
+| MRPL27 | **MRPL21** | 0.999 |
+| MRPL27 | **MRPL17** | 0.999 |
+| MRPL27 | **MRPL33** | 0.999 |
+| MRPL27 | **MRPL3** | 0.999 |
+| MRPL27 | **TUFM** | 0.999 |
+| MRPL27 | **MRPL13** | 0.999 |
+| MRPL27 | **MRPL4** | 0.999 |
+| MRPS9 | **RPS11** | 0.998 |
+| MRPS9 | **MRPL4** | 0.998 |
+| MRPS9 | **MRPL9** | 0.999 |
+| MRPS9 | **MRPL20** | 0.999 |
+| MRPS9 | **RPS3** | 0.999 |
+| MRPS9 | **TUFM** | 0.999 |
+| MRPS9 | **MRPL13** | 0.999 |
+| MRPS9 | **RPL5** | 0.999 |
+| MRPS9 | **MRPL3** | 0.999 |
+| MRPS9 | **MRPL33** | 0.999 |
+| MRPS9 | **MRPL12** | 0.999 |
+| MRPS9 | **MRPL21** | 0.999 |
+| MRPS9 | **MRPL17** | 0.999 |
+| MRPL3 | **RPS11** | 0.971 |
+| MRPL3 | **RPS3** | 0.975 |
+| MRPL3 | **RPL5** | 0.976 |
+| MRPL3 | **TUFM** | 0.997 |
+| MRPL3 | **MRPL12** | 0.997 |
+| MRPL3 | **MRPL33** | 0.998 |
+| MRPL3 | **MRPL9** | 0.999 |
+| MRPL3 | **MRPL20** | 0.999 |
+| MRPL3 | **MRPL13** | 0.999 |
+| MRPL3 | **MRPL4** | 0.999 |
+| MRPL3 | **MRPL17** | 0.999 |
+| MRPL3 | **MRPL21** | 0.999 |
+| RPS11 | **MRPL13** | 0.973 |
+| RPS11 | **MRPL4** | 0.974 |
+| RPS11 | **MRPL33** | 0.997 |
+| RPS11 | **MRPL21** | 0.998 |
+| RPS11 | **TUFM** | 0.999 |
+| RPS11 | **RPL5** | 0.999 |
+| RPS11 | **MRPL17** | 0.999 |
+| RPS11 | **MRPL12** | 0.999 |
+| RPS11 | **MRPL9** | 0.999 |
+| RPS11 | **MRPL20** | 0.999 |
+| RPS11 | **RPS3** | 0.999 |
+| RPS3 | **MRPL4** | 0.971 |
+| RPS3 | **MRPL13** | 0.976 |
+| RPS3 | **MRPL17** | 0.999 |
+| RPS3 | **MRPL21** | 0.999 |
+| RPS3 | **MRPL12** | 0.999 |
+| RPS3 | **MRPL33** | 0.999 |
+| RPS3 | **RPL5** | 0.999 |
+| RPS3 | **TUFM** | 0.999 |
+| RPS3 | **MRPL20** | 0.999 |
+| RPS3 | **MRPL9** | 0.999 |
+| MRPL17 | **MRPL33** | 0.999 |
+| MRPL17 | **MRPL21** | 0.999 |
+| MRPL17 | **MRPL12** | 0.999 |
+| MRPL17 | **TUFM** | 0.999 |
+| MRPL17 | **MRPL4** | 0.999 |
+| MRPL17 | **MRPL13** | 0.999 |
+| MRPL17 | **RPL5** | 0.999 |
+| MRPL17 | **MRPL20** | 0.999 |
+| MRPL17 | **MRPL9** | 0.999 |
+| MRPL33 | **RPL5** | 0.998 |
+| MRPL33 | **TUFM** | 0.999 |
+| MRPL33 | **MRPL13** | 0.999 |
+| MRPL33 | **MRPL4** | 0.999 |
+| MRPL33 | **MRPL21** | 0.999 |
+| MRPL33 | **MRPL12** | 0.999 |
+| MRPL33 | **MRPL9** | 0.999 |
+| MRPL33 | **MRPL20** | 0.999 |
+| MRPL13 | **RPL5** | 0.975 |
+| MRPL13 | **TUFM** | 0.996 |
+| MRPL13 | **MRPL12** | 0.998 |
+| MRPL13 | **MRPL9** | 0.999 |
+| MRPL13 | **MRPL20** | 0.999 |
+| MRPL13 | **MRPL4** | 0.999 |
+| MRPL13 | **MRPL21** | 0.999 |
+| MRPL4 | **RPL5** | 0.971 |
+| MRPL4 | **MRPL12** | 0.998 |
+| MRPL4 | **TUFM** | 0.998 |
+| MRPL4 | **MRPL21** | 0.999 |
+| MRPL4 | **MRPL20** | 0.999 |
+| MRPL4 | **MRPL9** | 0.999 |
+| TUFM | **MRPL9** | 0.999 |
+| TUFM | **MRPL20** | 0.999 |
+| TUFM | **RPL5** | 0.999 |
+| TUFM | **MRPL12** | 0.999 |
+| TUFM | **MRPL21** | 0.999 |
+| MRPL12 | **MRPL20** | 0.999 |
+| MRPL12 | **MRPL9** | 0.999 |
+| MRPL12 | **MRPL21** | 0.999 |
+| MRPL12 | **RPL5** | 0.999 |
+| MRPL20 | **MRPL9** | 0.999 |
+| MRPL20 | **RPL5** | 0.999 |
+| MRPL20 | **MRPL21** | 0.999 |
+| MRPL21 | **RPL5** | 0.999 |
+| MRPL21 | **MRPL9** | 0.999 |
+| MRPL9 | **RPL5** | 0.998 |
+

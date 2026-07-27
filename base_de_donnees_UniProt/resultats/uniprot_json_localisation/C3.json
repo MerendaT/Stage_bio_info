@@ -1,0 +1,1125 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P01024",
+      "uniProtkbId": "CO3_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "2579379"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:1318"
+              }
+            ],
+            "value": "C3"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12878586"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18204047"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28264884"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31507604"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "39814882"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "39914456"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "624565"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "6554279"
+                }
+              ],
+              "value": "Precursor of non-enzymatic components of the classical, alternative, lectin and GZMK complement pathways, which consist in a cascade of proteins that leads to phagocytosis and breakdown of pathogens and signaling that strengthens the adaptive immune system"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12878586"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18204047"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2387864"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28264884"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "31507604"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "3653927"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "3897448"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "624565"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "6554279"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "6903192"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "833545"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8349625"
+                }
+              ],
+              "value": "Non-enzymatic component of C5 convertase (PubMed:28264884, PubMed:31507604, PubMed:3653927, PubMed:3897448). Generated following cleavage by C3 convertase, it covalently attaches to the surface of pathogens, where it acts as an opsonin that marks the surface of antigens for removal (PubMed:28264884, PubMed:31507604, PubMed:3653927, PubMed:3897448, PubMed:833545, PubMed:8349625). Complement C3b binds covalently via its reactive thioester, to cell surface carbohydrates or immune aggregates (PubMed:6903192). Together with complement C4b, it then recruits the serine protease complement C2b to form the C5 convertase, which cleaves and activate C5, the next component of the complement pathways (PubMed:12878586, PubMed:18204047, PubMed:2387864). In the alternative complement pathway, recruits the serine protease CFB to form the C5 convertase that cleaves and activates C5 (PubMed:624565, PubMed:6554279)"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Complement C3b"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "342601"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "37169960"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "37852260"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "5778786"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "6968751"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8702752"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "23383423"
+                }
+              ],
+              "value": "Mediator of local inflammatory process released following cleavage by C3 convertase (PubMed:6968751, PubMed:37169960, PubMed:37852260). Acts by binding to its receptor, C3AR1, activating G protein-coupled receptor signaling, promoting the phosphorylation, ARRB2-mediated internalization and endocytosis of C3AR1 (PubMed:8702752, PubMed:37169960, PubMed:37852260). C3a anaphylatoxin stimulates the activation of immune cells such as mast cells and basophilic leukocytes to release inflammation agents, such as cytokines, chemokines and histamine, which promote inflammation development (PubMed:23383423). Also acts as potent chemoattractant for the migration of macrophages and neutrophils to the inflamed tissues, resulting in neutralization of the inflammatory triggers by multiple ways, such as phagocytosis and generation of reactive oxidants (PubMed:23383423, PubMed:342601, PubMed:5778786)"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "C3a anaphylatoxin"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10432298"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11773063"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12540846"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15833747"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16333141"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19615750"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2909530"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "37852260"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8376604"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9059512"
+                }
+              ],
+              "value": "Adipogenic hormone that stimulates triglyceride synthesis and glucose transport in adipocytes, regulating fat storage and playing a role in postprandial triglyceride clearance (PubMed:10432298, PubMed:15833747, PubMed:16333141, PubMed:19615750, PubMed:2909530, PubMed:8376604, PubMed:9059512). Appears to stimulate triglyceride synthesis via activation of the PLC, MAPK and AKT signaling pathways (PubMed:16333141). Acts by binding to its receptor, C5AR2, activating G protein-coupled receptor signaling, promoting the phosphorylation, ARRB2-mediated internalization and endocytosis of C5AR2 (PubMed:11773063, PubMed:12540846, PubMed:19615750). In contrast to C3a anaphylatoxin peptide, does not show pro-inflammatory activity (PubMed:37852260)"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Acylation stimulating protein"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P01026"
+                }
+              ],
+              "value": "Acts as a chemoattractant for neutrophils in chronic inflammation"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "C3-beta-c"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "7240134"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Complement C3b",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "3653927"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "3897448"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "6903192"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "833545"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "8349625"
+                  }
+                ],
+                "value": "Covalently associated with the surface of pathogens: the internal thioester bond reacts with carbohydrate antigens on the target surface to form amide or ester bonds"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "3653927"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "3897448"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "6903192"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "833545"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "8349625"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "3653927"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "3897448"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "6903192"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "833545"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "8349625"
+                  }
+                ],
+                "value": "Cell surface",
+                "id": "SL-0310"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "C3a anaphylatoxin",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "1238393"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0035578",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:azurophil granule lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072562",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:blood microparticle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "22516433"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009986",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cell surface"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21362503"
+            },
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23533145"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25645918"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032991",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:protein-containing complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034774",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:secretory granule lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031715",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:C5L2 anaphylatoxin chemotactic receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15833747"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004866",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:endopeptidase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048018",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor ligand activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21527715"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:signaling receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9164946"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097242",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:amyloid-beta clearance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042113",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:B cell activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "30107486"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006956",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement activation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19302245"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006957",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement activation, alternative pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006958",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement activation, classical pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0160257",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement activation, GZMK pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "39914456"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002430",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement receptor mediated signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0150062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:complement-mediated synapse pruning"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006631",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fatty acid metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007186",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:G protein-coupled receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9164946"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006955",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "4097977"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006954",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016322",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron remodeling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001970",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of activation of membrane attack complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045766",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000427",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of apoptotic cell clearance"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19302245"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010828",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of D-glucose transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15833747"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9059512"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045745",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of G protein-coupled receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15833747"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010884",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of lipid storage"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9555951"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060100",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phagocytosis, engulfment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001934",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15833747"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048260",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of receptor-mediated endocytosis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010575",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular endothelial growth factor production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16452172"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010866",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of triglyceride biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10432298"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10085065"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0150064",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:vertebrate eye-specific patterning"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ARUK-UCL"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000013EC9B"
+      }
+    }
+  ]
+}

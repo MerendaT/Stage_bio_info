@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DCTN2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DCTN2
+Identifiant STRING officiel : `9606.ENSP00000408910`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DCTN6 | **DYNC1I1** | 0.618 |
+| DCTN6 | **BICD2** | 0.636 |
+| DCTN6 | **CAPZA2** | 0.946 |
+| DCTN6 | **DYNC1I2** | 0.948 |
+| DCTN6 | **CAPZA1** | 0.974 |
+| DCTN6 | **CAPZB** | 0.98 |
+| DCTN6 | **DYNC1H1** | 0.991 |
+| DCTN6 | **ACTR1B** | 0.993 |
+| DCTN6 | **DCTN1** | 0.999 |
+| DCTN6 | **ACTR10** | 0.999 |
+| DCTN6 | **DCTN2** | 0.999 |
+| DCTN6 | **DCTN5** | 0.999 |
+| DCTN6 | **DCTN4** | 0.999 |
+| DCTN6 | **DCTN3** | 0.999 |
+| DCTN6 | **ACTR1A** | 0.999 |
+| ACTR10 | **DYNC1I1** | 0.7 |
+| ACTR10 | **BICD2** | 0.729 |
+| ACTR10 | **DYNC1H1** | 0.95 |
+| ACTR10 | **DYNC1I2** | 0.97 |
+| ACTR10 | **CAPZB** | 0.975 |
+| ACTR10 | **CAPZA2** | 0.98 |
+| ACTR10 | **CAPZA1** | 0.99 |
+| ACTR10 | **ACTR1B** | 0.995 |
+| ACTR10 | **DCTN3** | 0.996 |
+| ACTR10 | **DCTN2** | 0.999 |
+| ACTR10 | **DCTN1** | 0.999 |
+| ACTR10 | **DCTN5** | 0.999 |
+| ACTR10 | **DCTN4** | 0.999 |
+| ACTR10 | **ACTR1A** | 0.999 |
+| DCTN3 | **DYNC1I1** | 0.606 |
+| DCTN3 | **BICD2** | 0.65 |
+| DCTN3 | **CAPZA2** | 0.884 |
+| DCTN3 | **CAPZB** | 0.95 |
+| DCTN3 | **CAPZA1** | 0.952 |
+| DCTN3 | **DYNC1H1** | 0.966 |
+| DCTN3 | **DYNC1I2** | 0.981 |
+| DCTN3 | **ACTR1B** | 0.992 |
+| DCTN3 | **DCTN4** | 0.996 |
+| DCTN3 | **DCTN5** | 0.997 |
+| DCTN3 | **ACTR1A** | 0.998 |
+| DCTN3 | **DCTN2** | 0.999 |
+| DCTN3 | **DCTN1** | 0.999 |
+| CAPZA1 | **DYNC1I1** | 0.591 |
+| CAPZA1 | **BICD2** | 0.637 |
+| CAPZA1 | **ACTR1B** | 0.811 |
+| CAPZA1 | **DYNC1I2** | 0.908 |
+| CAPZA1 | **DYNC1H1** | 0.923 |
+| CAPZA1 | **DCTN5** | 0.985 |
+| CAPZA1 | **DCTN4** | 0.987 |
+| CAPZA1 | **ACTR1A** | 0.992 |
+| CAPZA1 | **DCTN1** | 0.994 |
+| CAPZA1 | **DCTN2** | 0.995 |
+| CAPZA1 | **CAPZA2** | 0.997 |
+| CAPZA1 | **CAPZB** | 0.999 |
+| ACTR1B | **DYNC1I2** | 0.609 |
+| ACTR1B | **CAPZA2** | 0.88 |
+| ACTR1B | **CAPZB** | 0.903 |
+| ACTR1B | **ACTR1A** | 0.992 |
+| ACTR1B | **DCTN5** | 0.993 |
+| ACTR1B | **DCTN1** | 0.997 |
+| ACTR1B | **DCTN2** | 0.998 |
+| ACTR1B | **DCTN4** | 0.998 |
+| DCTN5 | **DYNC1I1** | 0.538 |
+| DCTN5 | **BICD2** | 0.645 |
+| DCTN5 | **DYNC1I2** | 0.914 |
+| DCTN5 | **CAPZB** | 0.966 |
+| DCTN5 | **CAPZA2** | 0.967 |
+| DCTN5 | **DYNC1H1** | 0.991 |
+| DCTN5 | **ACTR1A** | 0.999 |
+| DCTN5 | **DCTN4** | 0.999 |
+| DCTN5 | **DCTN2** | 0.999 |
+| DCTN5 | **DCTN1** | 0.999 |
+| DYNC1I1 | **CAPZB** | 0.544 |
+| DYNC1I1 | **DCTN4** | 0.566 |
+| DYNC1I1 | **CAPZA2** | 0.596 |
+| DYNC1I1 | **ACTR1A** | 0.661 |
+| DYNC1I1 | **DYNC1I2** | 0.983 |
+| DYNC1I1 | **BICD2** | 0.997 |
+| DYNC1I1 | **DCTN2** | 0.998 |
+| DYNC1I1 | **DCTN1** | 0.998 |
+| DYNC1I1 | **DYNC1H1** | 0.999 |
+| DYNC1H1 | **CAPZA2** | 0.619 |
+| DYNC1H1 | **CAPZB** | 0.964 |
+| DYNC1H1 | **DCTN4** | 0.974 |
+| DYNC1H1 | **ACTR1A** | 0.995 |
+| DYNC1H1 | **DCTN2** | 0.998 |
+| DYNC1H1 | **DCTN1** | 0.999 |
+| DYNC1H1 | **DYNC1I2** | 0.999 |
+| DYNC1H1 | **BICD2** | 0.999 |
+| BICD2 | **CAPZA2** | 0.584 |
+| BICD2 | **CAPZB** | 0.638 |
+| BICD2 | **DCTN4** | 0.684 |
+| BICD2 | **DYNC1I2** | 0.712 |
+| BICD2 | **ACTR1A** | 0.777 |
+| BICD2 | **DCTN1** | 0.998 |
+| BICD2 | **DCTN2** | 0.999 |
+| DCTN1 | **CAPZA2** | 0.98 |
+| DCTN1 | **CAPZB** | 0.988 |
+| DCTN1 | **DYNC1I2** | 0.997 |
+| DCTN1 | **DCTN2** | 0.999 |
+| DCTN1 | **ACTR1A** | 0.999 |
+| DCTN1 | **DCTN4** | 0.999 |
+| CAPZA2 | **DYNC1I2** | 0.561 |
+| CAPZA2 | **DCTN4** | 0.96 |
+| CAPZA2 | **ACTR1A** | 0.969 |
+| CAPZA2 | **DCTN2** | 0.988 |
+| CAPZA2 | **CAPZB** | 0.999 |
+| ACTR1A | **DYNC1I2** | 0.982 |
+| ACTR1A | **CAPZB** | 0.99 |
+| ACTR1A | **DCTN4** | 0.999 |
+| ACTR1A | **DCTN2** | 0.999 |
+| DYNC1I2 | **CAPZB** | 0.913 |
+| DYNC1I2 | **DCTN4** | 0.964 |
+| DYNC1I2 | **DCTN2** | 0.996 |
+| CAPZB | **DCTN2** | 0.992 |
+| CAPZB | **DCTN4** | 0.992 |
+| DCTN2 | **DCTN4** | 0.999 |
+

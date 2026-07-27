@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q6U949",
+      "uniProtkbId": "IG2AS_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "IGF2-AS"
+          }
+        }
+      ],
+      "comments": [],
+      "uniProtKBCrossReferences": [],
+      "extraAttributes": {
+        "uniParcId": "UPI000066D8D8"
+      }
+    }
+  ]
+}

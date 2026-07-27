@@ -1,0 +1,168 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9UI42",
+      "uniProtkbId": "CBPA4_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "CPA4"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20385563"
+                }
+              ],
+              "value": "Metalloprotease that cleaves hydrophobic C-terminal residues with a preference for -Phe, -Leu, -Ile, -Met, -Tyr and -Val (PubMed:20385563). May function in peptide hormone and/or neuropeptide catabolism (PubMed:20385563)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20385563"
+                  }
+                ],
+                "value": "Secreted",
+                "id": "SL-0243"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20385563"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004181",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:metallocarboxypeptidase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20385563"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042447",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:hormone catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20385563"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043171",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peptide catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20385563"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:proteolysis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000048F00"
+      }
+    }
+  ]
+}

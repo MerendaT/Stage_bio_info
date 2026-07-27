@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PXMP2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PXMP2
+Identifiant STRING officiel : `9606.ENSP00000321271`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ABCD1 | **PEX11A** | 0.585 |
+| ABCD1 | **ALDH3A2** | 0.6 |
+| ABCD1 | **ATAD1** | 0.601 |
+| ABCD1 | **PXMP4** | 0.702 |
+| ABCD1 | **PXMP2** | 0.723 |
+| ABCD1 | **PEX14** | 0.75 |
+| ABCD1 | **SLC25A17** | 0.763 |
+| ABCD1 | **ACBD5** | 0.771 |
+| ABCD1 | **PEX16** | 0.777 |
+| ABCD1 | **PEX11B** | 0.812 |
+| ABCD1 | **PEX13** | 0.841 |
+| ABCD1 | **PEX3** | 0.907 |
+| ABCD1 | **PEX19** | 0.951 |
+| ABCD1 | **ABCD2** | 0.954 |
+| ABCD1 | **ABCD3** | 0.98 |
+| PEX16 | **ALDH3A2** | 0.596 |
+| PEX16 | **ATAD1** | 0.654 |
+| PEX16 | **ABCD2** | 0.686 |
+| PEX16 | **PXMP4** | 0.751 |
+| PEX16 | **PXMP2** | 0.806 |
+| PEX16 | **SLC25A17** | 0.848 |
+| PEX16 | **PEX11A** | 0.851 |
+| PEX16 | **ACBD5** | 0.864 |
+| PEX16 | **ABCD3** | 0.937 |
+| PEX16 | **PEX11B** | 0.949 |
+| PEX16 | **PEX14** | 0.971 |
+| PEX16 | **PEX13** | 0.977 |
+| PEX16 | **PEX3** | 0.995 |
+| PEX16 | **PEX19** | 0.999 |
+| PEX13 | **ALDH3A2** | 0.577 |
+| PEX13 | **ATAD1** | 0.67 |
+| PEX13 | **PXMP4** | 0.716 |
+| PEX13 | **ABCD2** | 0.754 |
+| PEX13 | **PXMP2** | 0.761 |
+| PEX13 | **ACBD5** | 0.77 |
+| PEX13 | **SLC25A17** | 0.814 |
+| PEX13 | **ABCD3** | 0.876 |
+| PEX13 | **PEX11A** | 0.916 |
+| PEX13 | **PEX11B** | 0.944 |
+| PEX13 | **PEX3** | 0.994 |
+| PEX13 | **PEX19** | 0.999 |
+| PEX13 | **PEX14** | 0.999 |
+| PEX11A | **ABCD2** | 0.485 |
+| PEX11A | **ACBD5** | 0.485 |
+| PEX11A | **SLC25A17** | 0.58 |
+| PEX11A | **PXMP4** | 0.659 |
+| PEX11A | **PXMP2** | 0.664 |
+| PEX11A | **ABCD3** | 0.704 |
+| PEX11A | **PEX14** | 0.859 |
+| PEX11A | **PEX3** | 0.863 |
+| PEX11A | **PEX11B** | 0.913 |
+| PEX11A | **PEX19** | 0.917 |
+| ABCD2 | **ALDH3A2** | 0.57 |
+| ABCD2 | **ATAD1** | 0.601 |
+| ABCD2 | **PEX14** | 0.644 |
+| ABCD2 | **ACBD5** | 0.653 |
+| ABCD2 | **PXMP2** | 0.674 |
+| ABCD2 | **SLC25A17** | 0.687 |
+| ABCD2 | **PEX3** | 0.695 |
+| ABCD2 | **PXMP4** | 0.702 |
+| ABCD2 | **PEX11B** | 0.735 |
+| ABCD2 | **PEX19** | 0.896 |
+| ABCD2 | **ABCD3** | 0.926 |
+| PXMP2 | **ATAD1** | 0.64 |
+| PXMP2 | **PEX14** | 0.661 |
+| PXMP2 | **ABCD3** | 0.727 |
+| PXMP2 | **PEX3** | 0.732 |
+| PXMP2 | **SLC25A17** | 0.745 |
+| PXMP2 | **ALDH3A2** | 0.753 |
+| PXMP2 | **ACBD5** | 0.758 |
+| PXMP2 | **PXMP4** | 0.78 |
+| PXMP2 | **PEX11B** | 0.84 |
+| PXMP2 | **PEX19** | 0.916 |
+| ATAD1 | **ALDH3A2** | 0.618 |
+| ATAD1 | **SLC25A17** | 0.621 |
+| ATAD1 | **PXMP4** | 0.628 |
+| ATAD1 | **ACBD5** | 0.629 |
+| ATAD1 | **ABCD3** | 0.643 |
+| ATAD1 | **PEX11B** | 0.671 |
+| ATAD1 | **PEX3** | 0.726 |
+| ATAD1 | **PEX14** | 0.736 |
+| ATAD1 | **PEX19** | 0.741 |
+| ALDH3A2 | **PEX14** | 0.522 |
+| ALDH3A2 | **ABCD3** | 0.551 |
+| ALDH3A2 | **PEX3** | 0.564 |
+| ALDH3A2 | **PEX11B** | 0.608 |
+| ALDH3A2 | **PEX19** | 0.613 |
+| ALDH3A2 | **PXMP4** | 0.616 |
+| ALDH3A2 | **SLC25A17** | 0.639 |
+| ALDH3A2 | **ACBD5** | 0.712 |
+| PEX14 | **PXMP4** | 0.552 |
+| PEX14 | **SLC25A17** | 0.697 |
+| PEX14 | **ACBD5** | 0.778 |
+| PEX14 | **ABCD3** | 0.891 |
+| PEX14 | **PEX11B** | 0.921 |
+| PEX14 | **PEX3** | 0.984 |
+| PEX14 | **PEX19** | 0.999 |
+| PEX3 | **PXMP4** | 0.643 |
+| PEX3 | **SLC25A17** | 0.801 |
+| PEX3 | **ACBD5** | 0.81 |
+| PEX3 | **ABCD3** | 0.942 |
+| PEX3 | **PEX11B** | 0.949 |
+| PEX3 | **PEX19** | 0.999 |
+| PEX19 | **ACBD5** | 0.751 |
+| PEX19 | **PXMP4** | 0.899 |
+| PEX19 | **SLC25A17** | 0.936 |
+| PEX19 | **ABCD3** | 0.991 |
+| PEX19 | **PEX11B** | 0.996 |
+| PEX11B | **ACBD5** | 0.802 |
+| PEX11B | **SLC25A17** | 0.802 |
+| PEX11B | **PXMP4** | 0.815 |
+| PEX11B | **ABCD3** | 0.867 |
+| ABCD3 | **PXMP4** | 0.717 |
+| ABCD3 | **ACBD5** | 0.771 |
+| ABCD3 | **SLC25A17** | 0.798 |
+| ACBD5 | **SLC25A17** | 0.648 |
+| ACBD5 | **PXMP4** | 0.674 |
+| PXMP4 | **SLC25A17** | 0.756 |
+

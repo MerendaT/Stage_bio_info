@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : KIFC1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : KIFC1
+Identifiant STRING officiel : `9606.ENSP00000393963`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KIF22 | **DLGAP5** | 0.545 |
+| KIF22 | **BUB1** | 0.612 |
+| KIF22 | **SPAG5** | 0.629 |
+| KIF22 | **AURKB** | 0.666 |
+| KIF22 | **KIF18A** | 0.671 |
+| KIF22 | **BUB1B** | 0.709 |
+| KIF22 | **KIF15** | 0.718 |
+| KIF22 | **KIF23** | 0.745 |
+| KIF22 | **KIF18B** | 0.756 |
+| KIF22 | **KIF20A** | 0.835 |
+| KIF22 | **CDC20** | 0.837 |
+| KIF22 | **KIFC1** | 0.881 |
+| KIF22 | **KIF11** | 0.897 |
+| KIF22 | **KIF2C** | 0.916 |
+| DLGAP5 | **KIF18B** | 0.818 |
+| DLGAP5 | **KIFC1** | 0.915 |
+| DLGAP5 | **SPAG5** | 0.928 |
+| DLGAP5 | **KIF15** | 0.937 |
+| DLGAP5 | **KIF18A** | 0.945 |
+| DLGAP5 | **AURKB** | 0.95 |
+| DLGAP5 | **KIF23** | 0.951 |
+| DLGAP5 | **KIF20A** | 0.97 |
+| DLGAP5 | **KIF2C** | 0.975 |
+| DLGAP5 | **CDC20** | 0.981 |
+| DLGAP5 | **BUB1B** | 0.981 |
+| DLGAP5 | **BUB1** | 0.986 |
+| DLGAP5 | **KIF11** | 0.997 |
+| KIF23 | **SPAG5** | 0.686 |
+| KIF23 | **CDC20** | 0.797 |
+| KIF23 | **KIF18B** | 0.859 |
+| KIF23 | **KIF15** | 0.893 |
+| KIF23 | **KIFC1** | 0.913 |
+| KIF23 | **KIF2C** | 0.917 |
+| KIF23 | **KIF18A** | 0.921 |
+| KIF23 | **BUB1B** | 0.926 |
+| KIF23 | **KIF20A** | 0.958 |
+| KIF23 | **BUB1** | 0.958 |
+| KIF23 | **AURKB** | 0.961 |
+| KIF23 | **KIF11** | 0.994 |
+| KIF11 | **KIF18B** | 0.871 |
+| KIF11 | **SPAG5** | 0.954 |
+| KIF11 | **KIFC1** | 0.963 |
+| KIF11 | **AURKB** | 0.964 |
+| KIF11 | **KIF2C** | 0.968 |
+| KIF11 | **KIF18A** | 0.97 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **KIF15** | 0.983 |
+| KIF11 | **BUB1** | 0.985 |
+| KIF11 | **CDC20** | 0.987 |
+| KIF11 | **BUB1B** | 0.994 |
+| KIF18A | **SPAG5** | 0.65 |
+| KIF18A | **KIF18B** | 0.768 |
+| KIF18A | **AURKB** | 0.814 |
+| KIF18A | **BUB1** | 0.865 |
+| KIF18A | **KIFC1** | 0.902 |
+| KIF18A | **BUB1B** | 0.913 |
+| KIF18A | **KIF20A** | 0.922 |
+| KIF18A | **KIF15** | 0.943 |
+| KIF18A | **CDC20** | 0.945 |
+| KIF18A | **KIF2C** | 0.954 |
+| BUB1B | **KIF18B** | 0.838 |
+| BUB1B | **KIFC1** | 0.862 |
+| BUB1B | **KIF15** | 0.923 |
+| BUB1B | **SPAG5** | 0.951 |
+| BUB1B | **KIF20A** | 0.977 |
+| BUB1B | **KIF2C** | 0.991 |
+| BUB1B | **AURKB** | 0.999 |
+| BUB1B | **BUB1** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1 | **KIF18B** | 0.791 |
+| BUB1 | **KIFC1** | 0.916 |
+| BUB1 | **KIF15** | 0.923 |
+| BUB1 | **SPAG5** | 0.934 |
+| BUB1 | **KIF20A** | 0.959 |
+| BUB1 | **KIF2C** | 0.994 |
+| BUB1 | **AURKB** | 0.997 |
+| BUB1 | **CDC20** | 0.999 |
+| AURKB | **KIF18B** | 0.752 |
+| AURKB | **KIF15** | 0.858 |
+| AURKB | **SPAG5** | 0.878 |
+| AURKB | **KIFC1** | 0.906 |
+| AURKB | **KIF20A** | 0.99 |
+| AURKB | **KIF2C** | 0.996 |
+| AURKB | **CDC20** | 0.998 |
+| SPAG5 | **KIF18B** | 0.718 |
+| SPAG5 | **KIF15** | 0.86 |
+| SPAG5 | **KIFC1** | 0.866 |
+| SPAG5 | **CDC20** | 0.923 |
+| SPAG5 | **KIF20A** | 0.925 |
+| SPAG5 | **KIF2C** | 0.926 |
+| KIF15 | **CDC20** | 0.836 |
+| KIF15 | **KIFC1** | 0.866 |
+| KIF15 | **KIF18B** | 0.88 |
+| KIF15 | **KIF20A** | 0.942 |
+| KIF15 | **KIF2C** | 0.945 |
+| KIF2C | **KIFC1** | 0.932 |
+| KIF2C | **KIF20A** | 0.973 |
+| KIF2C | **KIF18B** | 0.983 |
+| KIF2C | **CDC20** | 0.995 |
+| CDC20 | **KIF18B** | 0.792 |
+| CDC20 | **KIFC1** | 0.915 |
+| CDC20 | **KIF20A** | 0.981 |
+| SLC39A7 | **KIFC1** | 0.862 |
+| KIF20A | **KIF18B** | 0.888 |
+| KIF20A | **KIFC1** | 0.941 |
+| KIFC1 | **KIF18B** | 0.882 |
+

@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : POLD4
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : POLD4
+Identifiant STRING officiel : `9606.ENSP00000311368`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| POLE2 | **PCNA** | 0.725 |
+| POLE2 | **POLD4** | 0.73 |
+| POLE2 | **RPA1** | 0.737 |
+| POLE2 | **DTL** | 0.762 |
+| POLE2 | **LIG1** | 0.841 |
+| POLE2 | **EXO1** | 0.866 |
+| POLE2 | **FEN1** | 0.883 |
+| POLE2 | **MAD2L2** | 0.926 |
+| POLE2 | **POLD3** | 0.961 |
+| POLE2 | **REV3L** | 0.973 |
+| POLE2 | **POLD2** | 0.987 |
+| POLE2 | **POLD1** | 0.992 |
+| POLE2 | **POLA1** | 0.996 |
+| POLE2 | **POLE** | 0.999 |
+| MAD2L2 | **LIG1** | 0.445 |
+| MAD2L2 | **FEN1** | 0.532 |
+| MAD2L2 | **RPA1** | 0.647 |
+| MAD2L2 | **POLD4** | 0.658 |
+| MAD2L2 | **EXO1** | 0.71 |
+| MAD2L2 | **PCNA** | 0.715 |
+| MAD2L2 | **POLA1** | 0.968 |
+| MAD2L2 | **POLE** | 0.97 |
+| MAD2L2 | **POLD1** | 0.978 |
+| MAD2L2 | **POLD3** | 0.998 |
+| MAD2L2 | **POLD2** | 0.999 |
+| MAD2L2 | **REV3L** | 0.999 |
+| RPA1 | **DTL** | 0.578 |
+| RPA1 | **SUMO3** | 0.604 |
+| RPA1 | **POLD4** | 0.646 |
+| RPA1 | **REV3L** | 0.706 |
+| RPA1 | **LIG1** | 0.804 |
+| RPA1 | **POLE** | 0.826 |
+| RPA1 | **FEN1** | 0.845 |
+| RPA1 | **EXO1** | 0.922 |
+| RPA1 | **POLD3** | 0.928 |
+| RPA1 | **POLD2** | 0.938 |
+| RPA1 | **POLA1** | 0.979 |
+| RPA1 | **PCNA** | 0.982 |
+| RPA1 | **POLD1** | 0.989 |
+| LIG1 | **DTL** | 0.474 |
+| LIG1 | **REV3L** | 0.521 |
+| LIG1 | **SUMO3** | 0.559 |
+| LIG1 | **POLA1** | 0.761 |
+| LIG1 | **POLD2** | 0.793 |
+| LIG1 | **POLD4** | 0.829 |
+| LIG1 | **POLD3** | 0.857 |
+| LIG1 | **EXO1** | 0.923 |
+| LIG1 | **POLE** | 0.931 |
+| LIG1 | **POLD1** | 0.973 |
+| LIG1 | **FEN1** | 0.999 |
+| LIG1 | **PCNA** | 0.999 |
+| POLD3 | **DTL** | 0.587 |
+| POLD3 | **SUMO3** | 0.664 |
+| POLD3 | **EXO1** | 0.759 |
+| POLD3 | **POLE** | 0.963 |
+| POLD3 | **FEN1** | 0.983 |
+| POLD3 | **POLA1** | 0.985 |
+| POLD3 | **REV3L** | 0.997 |
+| POLD3 | **PCNA** | 0.998 |
+| POLD3 | **POLD2** | 0.999 |
+| POLD3 | **POLD1** | 0.999 |
+| POLD3 | **POLD4** | 0.999 |
+| FEN1 | **DTL** | 0.731 |
+| FEN1 | **REV3L** | 0.774 |
+| FEN1 | **POLA1** | 0.876 |
+| FEN1 | **EXO1** | 0.901 |
+| FEN1 | **POLE** | 0.906 |
+| FEN1 | **POLD4** | 0.934 |
+| FEN1 | **POLD2** | 0.995 |
+| FEN1 | **POLD1** | 0.997 |
+| FEN1 | **PCNA** | 0.999 |
+| POLD4 | **EXO1** | 0.612 |
+| POLD4 | **SUMO3** | 0.673 |
+| POLD4 | **DTL** | 0.731 |
+| POLD4 | **POLA1** | 0.741 |
+| POLD4 | **REV3L** | 0.742 |
+| POLD4 | **POLE** | 0.799 |
+| POLD4 | **PCNA** | 0.99 |
+| POLD4 | **POLD2** | 0.999 |
+| POLD4 | **POLD1** | 0.999 |
+| POLE | **DTL** | 0.783 |
+| POLE | **EXO1** | 0.889 |
+| POLE | **PCNA** | 0.988 |
+| POLE | **REV3L** | 0.989 |
+| POLE | **POLD2** | 0.991 |
+| POLE | **POLA1** | 0.997 |
+| POLE | **POLD1** | 0.999 |
+| REV3L | **EXO1** | 0.809 |
+| REV3L | **PCNA** | 0.937 |
+| REV3L | **POLA1** | 0.946 |
+| REV3L | **POLD1** | 0.984 |
+| REV3L | **POLD2** | 0.999 |
+| EXO1 | **POLA1** | 0.846 |
+| EXO1 | **DTL** | 0.901 |
+| EXO1 | **POLD2** | 0.902 |
+| EXO1 | **POLD1** | 0.95 |
+| EXO1 | **PCNA** | 0.96 |
+| DTL | **POLA1** | 0.417 |
+| DTL | **POLD2** | 0.598 |
+| DTL | **POLD1** | 0.661 |
+| DTL | **PCNA** | 0.995 |
+| POLA1 | **PCNA** | 0.987 |
+| POLA1 | **POLD1** | 0.989 |
+| POLA1 | **POLD2** | 0.993 |
+| PCNA | **SUMO3** | 0.831 |
+| PCNA | **POLD2** | 0.998 |
+| PCNA | **POLD1** | 0.999 |
+| POLD1 | **POLD2** | 0.999 |
+

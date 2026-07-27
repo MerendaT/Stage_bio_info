@@ -1,0 +1,92 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : RSF1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : RSF1
+Identifiant STRING officiel : `9606.ENSP00000311513`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HMGXB4 | **POLE3** | 0.55 |
+| HMGXB4 | **CHRAC1** | 0.567 |
+| HMGXB4 | **RSF1** | 0.744 |
+| HMGXB4 | **BAZ1B** | 0.754 |
+| HMGXB4 | **BAZ1A** | 0.903 |
+| HMGXB4 | **CECR2** | 0.922 |
+| HMGXB4 | **RBBP4** | 0.956 |
+| HMGXB4 | **SMARCA5** | 0.96 |
+| HMGXB4 | **SMARCA1** | 0.969 |
+| HMGXB4 | **BPTF** | 0.97 |
+| HMGXB4 | **C17orf49** | 0.983 |
+| CHRAC1 | **C17orf49** | 0.543 |
+| CHRAC1 | **RBBP4** | 0.608 |
+| CHRAC1 | **BPTF** | 0.659 |
+| CHRAC1 | **CECR2** | 0.669 |
+| CHRAC1 | **BAZ1B** | 0.878 |
+| CHRAC1 | **RSF1** | 0.887 |
+| CHRAC1 | **SMARCA1** | 0.982 |
+| CHRAC1 | **SMARCA5** | 0.997 |
+| CHRAC1 | **BAZ1A** | 0.998 |
+| CHRAC1 | **POLE3** | 0.999 |
+| NIPBL | **SMARCA1** | 0.446 |
+| NIPBL | **SMARCA5** | 0.59 |
+| NIPBL | **RSF1** | 0.72 |
+| NIPBL | **BPTF** | 0.806 |
+| SMARCA5 | **CENPA** | 0.828 |
+| SMARCA5 | **C17orf49** | 0.974 |
+| SMARCA5 | **SMARCA1** | 0.974 |
+| SMARCA5 | **CECR2** | 0.997 |
+| SMARCA5 | **RBBP4** | 0.997 |
+| SMARCA5 | **BPTF** | 0.999 |
+| SMARCA5 | **POLE3** | 0.999 |
+| SMARCA5 | **RSF1** | 0.999 |
+| SMARCA5 | **BAZ1B** | 0.999 |
+| SMARCA5 | **BAZ1A** | 0.999 |
+| BPTF | **POLE3** | 0.639 |
+| BPTF | **BAZ1B** | 0.882 |
+| BPTF | **RSF1** | 0.918 |
+| BPTF | **CECR2** | 0.925 |
+| BPTF | **BAZ1A** | 0.935 |
+| BPTF | **C17orf49** | 0.99 |
+| BPTF | **RBBP4** | 0.996 |
+| BPTF | **SMARCA1** | 0.999 |
+| RSF1 | **C17orf49** | 0.721 |
+| RSF1 | **CENPA** | 0.744 |
+| RSF1 | **RBBP4** | 0.759 |
+| RSF1 | **CECR2** | 0.83 |
+| RSF1 | **POLE3** | 0.846 |
+| RSF1 | **BAZ1A** | 0.907 |
+| RSF1 | **BAZ1B** | 0.95 |
+| RSF1 | **SMARCA1** | 0.968 |
+| RSF1 | **HSP90AB1** | 0.981 |
+| RSF1 | **HSP90AA1** | 0.981 |
+| HSP90AA1 | **RBBP4** | 0.411 |
+| HSP90AA1 | **HSP90AB1** | 0.997 |
+| CENPA | **SMARCA1** | 0.57 |
+| CENPA | **RBBP4** | 0.914 |
+| BAZ1B | **C17orf49** | 0.772 |
+| BAZ1B | **RBBP4** | 0.799 |
+| BAZ1B | **CECR2** | 0.874 |
+| BAZ1B | **POLE3** | 0.918 |
+| BAZ1B | **BAZ1A** | 0.946 |
+| BAZ1B | **SMARCA1** | 0.998 |
+| SMARCA1 | **C17orf49** | 0.974 |
+| SMARCA1 | **POLE3** | 0.994 |
+| SMARCA1 | **RBBP4** | 0.997 |
+| SMARCA1 | **BAZ1A** | 0.999 |
+| SMARCA1 | **CECR2** | 0.999 |
+| HSP90AB1 | **RBBP4** | 0.422 |
+| RBBP4 | **POLE3** | 0.622 |
+| RBBP4 | **CECR2** | 0.914 |
+| RBBP4 | **BAZ1A** | 0.943 |
+| RBBP4 | **C17orf49** | 0.964 |
+| POLE3 | **C17orf49** | 0.54 |
+| POLE3 | **CECR2** | 0.707 |
+| POLE3 | **BAZ1A** | 0.999 |
+| BAZ1A | **C17orf49** | 0.921 |
+| BAZ1A | **CECR2** | 0.941 |
+| CECR2 | **C17orf49** | 0.9 |
+

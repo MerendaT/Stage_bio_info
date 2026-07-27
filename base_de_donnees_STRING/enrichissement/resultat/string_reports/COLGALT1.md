@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : COLGALT1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : COLGALT1
+Identifiant STRING officiel : `9606.ENSP00000252599`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PLOD1 | **COL2A1** | 0.716 |
+| PLOD1 | **COL6A2** | 0.726 |
+| PLOD1 | **COL12A1** | 0.755 |
+| PLOD1 | **COL23A1** | 0.766 |
+| PLOD1 | **COL1A2** | 0.777 |
+| PLOD1 | **COL3A1** | 0.781 |
+| PLOD1 | **COL4A2** | 0.787 |
+| PLOD1 | **COL4A1** | 0.805 |
+| PLOD1 | **COL1A1** | 0.818 |
+| PLOD1 | **COL5A1** | 0.857 |
+| PLOD1 | **COL5A2** | 0.865 |
+| PLOD1 | **COLGALT2** | 0.929 |
+| PLOD1 | **COLGALT1** | 0.965 |
+| PLOD1 | **PLOD3** | 0.965 |
+| PLOD1 | **PLOD2** | 0.977 |
+| PLOD3 | **COL2A1** | 0.612 |
+| PLOD3 | **COL5A1** | 0.663 |
+| PLOD3 | **COL5A2** | 0.669 |
+| PLOD3 | **COL3A1** | 0.672 |
+| PLOD3 | **COL1A2** | 0.681 |
+| PLOD3 | **COL6A2** | 0.682 |
+| PLOD3 | **COL1A1** | 0.71 |
+| PLOD3 | **COL12A1** | 0.759 |
+| PLOD3 | **COL4A2** | 0.802 |
+| PLOD3 | **COL23A1** | 0.821 |
+| PLOD3 | **COL4A1** | 0.874 |
+| PLOD3 | **PLOD2** | 0.948 |
+| PLOD3 | **COLGALT2** | 0.964 |
+| PLOD3 | **COLGALT1** | 0.982 |
+| COL1A1 | **COL23A1** | 0.516 |
+| COL1A1 | **COLGALT2** | 0.648 |
+| COL1A1 | **COL4A2** | 0.698 |
+| COL1A1 | **PLOD2** | 0.826 |
+| COL1A1 | **COL4A1** | 0.827 |
+| COL1A1 | **COLGALT1** | 0.827 |
+| COL1A1 | **COL12A1** | 0.836 |
+| COL1A1 | **COL2A1** | 0.867 |
+| COL1A1 | **COL6A2** | 0.954 |
+| COL1A1 | **COL5A1** | 0.994 |
+| COL1A1 | **COL5A2** | 0.995 |
+| COL1A1 | **COL3A1** | 0.999 |
+| COL1A1 | **COL1A2** | 0.999 |
+| COLGALT1 | **COL12A1** | 0.632 |
+| COLGALT1 | **COL3A1** | 0.646 |
+| COLGALT1 | **COL2A1** | 0.659 |
+| COLGALT1 | **COL4A1** | 0.677 |
+| COLGALT1 | **COL4A2** | 0.682 |
+| COLGALT1 | **COL6A2** | 0.752 |
+| COLGALT1 | **COL1A2** | 0.757 |
+| COLGALT1 | **COL5A2** | 0.767 |
+| COLGALT1 | **COL5A1** | 0.776 |
+| COLGALT1 | **COL23A1** | 0.822 |
+| COLGALT1 | **PLOD2** | 0.945 |
+| COLGALT1 | **COLGALT2** | 0.961 |
+| PLOD2 | **COL6A2** | 0.62 |
+| PLOD2 | **COL2A1** | 0.625 |
+| PLOD2 | **COL4A2** | 0.691 |
+| PLOD2 | **COL3A1** | 0.713 |
+| PLOD2 | **COL5A2** | 0.737 |
+| PLOD2 | **COL5A1** | 0.75 |
+| PLOD2 | **COL12A1** | 0.808 |
+| PLOD2 | **COL1A2** | 0.817 |
+| PLOD2 | **COL4A1** | 0.819 |
+| PLOD2 | **COL23A1** | 0.829 |
+| PLOD2 | **COLGALT2** | 0.957 |
+| COL1A2 | **COL23A1** | 0.537 |
+| COL1A2 | **COLGALT2** | 0.575 |
+| COL1A2 | **COL4A1** | 0.757 |
+| COL1A2 | **COL4A2** | 0.786 |
+| COL1A2 | **COL12A1** | 0.793 |
+| COL1A2 | **COL2A1** | 0.883 |
+| COL1A2 | **COL6A2** | 0.908 |
+| COL1A2 | **COL5A1** | 0.989 |
+| COL1A2 | **COL5A2** | 0.998 |
+| COL1A2 | **COL3A1** | 0.999 |
+| COL6A2 | **COL23A1** | 0.583 |
+| COL6A2 | **COL2A1** | 0.606 |
+| COL6A2 | **COLGALT2** | 0.634 |
+| COL6A2 | **COL12A1** | 0.793 |
+| COL6A2 | **COL4A1** | 0.81 |
+| COL6A2 | **COL4A2** | 0.813 |
+| COL6A2 | **COL5A2** | 0.856 |
+| COL6A2 | **COL5A1** | 0.862 |
+| COL6A2 | **COL3A1** | 0.894 |
+| COL3A1 | **COL23A1** | 0.531 |
+| COL3A1 | **COLGALT2** | 0.569 |
+| COL3A1 | **COL12A1** | 0.73 |
+| COL3A1 | **COL4A2** | 0.817 |
+| COL3A1 | **COL4A1** | 0.856 |
+| COL3A1 | **COL2A1** | 0.864 |
+| COL3A1 | **COL5A1** | 0.983 |
+| COL3A1 | **COL5A2** | 0.998 |
+| COL12A1 | **COL23A1** | 0.473 |
+| COL12A1 | **COL2A1** | 0.525 |
+| COL12A1 | **COL4A1** | 0.649 |
+| COL12A1 | **COLGALT2** | 0.751 |
+| COL12A1 | **COL4A2** | 0.757 |
+| COL12A1 | **COL5A1** | 0.792 |
+| COL12A1 | **COL5A2** | 0.861 |
+| COL4A2 | **COL23A1** | 0.553 |
+| COL4A2 | **COL2A1** | 0.66 |
+| COL4A2 | **COLGALT2** | 0.832 |
+| COL4A2 | **COL5A1** | 0.872 |
+| COL4A2 | **COL5A2** | 0.909 |
+| COL4A2 | **COL4A1** | 0.999 |
+| COLGALT2 | **COL5A1** | 0.536 |
+| COLGALT2 | **COL23A1** | 0.54 |
+| COLGALT2 | **COL5A2** | 0.557 |
+| COLGALT2 | **COL2A1** | 0.798 |
+| COLGALT2 | **COL4A1** | 0.81 |
+| COL5A1 | **COL23A1** | 0.523 |
+| COL5A1 | **COL2A1** | 0.861 |
+| COL5A1 | **COL4A1** | 0.915 |
+| COL5A1 | **COL5A2** | 0.996 |
+| COL5A2 | **COL23A1** | 0.492 |
+| COL5A2 | **COL2A1** | 0.878 |
+| COL5A2 | **COL4A1** | 0.914 |
+| COL4A1 | **COL23A1** | 0.495 |
+| COL4A1 | **COL2A1** | 0.659 |
+| COL2A1 | **COL23A1** | 0.498 |
+

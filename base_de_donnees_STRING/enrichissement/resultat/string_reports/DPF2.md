@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DPF2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DPF2
+Identifiant STRING officiel : `9606.ENSP00000252268`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DPF2 | **BCL7C** | 0.983 |
+| DPF2 | **SMARCD3** | 0.984 |
+| DPF2 | **BCL7A** | 0.984 |
+| DPF2 | **ACTL6A** | 0.986 |
+| DPF2 | **SMARCD2** | 0.987 |
+| DPF2 | **DPF1** | 0.987 |
+| DPF2 | **SMARCA2** | 0.991 |
+| DPF2 | **SMARCC1** | 0.996 |
+| DPF2 | **SMARCE1** | 0.999 |
+| DPF2 | **SMARCA4** | 0.999 |
+| DPF2 | **ARID1A** | 0.999 |
+| DPF2 | **SMARCD1** | 0.999 |
+| DPF2 | **ARID1B** | 0.999 |
+| DPF2 | **SMARCC2** | 0.999 |
+| DPF2 | **SMARCB1** | 0.999 |
+| SMARCC1 | **DPF1** | 0.987 |
+| SMARCC1 | **BCL7A** | 0.993 |
+| SMARCC1 | **BCL7C** | 0.994 |
+| SMARCC1 | **SMARCE1** | 0.999 |
+| SMARCC1 | **ARID1A** | 0.999 |
+| SMARCC1 | **ACTL6A** | 0.999 |
+| SMARCC1 | **SMARCD1** | 0.999 |
+| SMARCC1 | **SMARCD3** | 0.999 |
+| SMARCC1 | **SMARCA4** | 0.999 |
+| SMARCC1 | **ARID1B** | 0.999 |
+| SMARCC1 | **SMARCD2** | 0.999 |
+| SMARCC1 | **SMARCC2** | 0.999 |
+| SMARCC1 | **SMARCA2** | 0.999 |
+| SMARCC1 | **SMARCB1** | 0.999 |
+| SMARCD3 | **DPF1** | 0.982 |
+| SMARCD3 | **SMARCD2** | 0.984 |
+| SMARCD3 | **BCL7A** | 0.989 |
+| SMARCD3 | **BCL7C** | 0.991 |
+| SMARCD3 | **SMARCD1** | 0.992 |
+| SMARCD3 | **ACTL6A** | 0.993 |
+| SMARCD3 | **ARID1B** | 0.993 |
+| SMARCD3 | **SMARCE1** | 0.999 |
+| SMARCD3 | **ARID1A** | 0.999 |
+| SMARCD3 | **SMARCA4** | 0.999 |
+| SMARCD3 | **SMARCC2** | 0.999 |
+| SMARCD3 | **SMARCA2** | 0.999 |
+| SMARCD3 | **SMARCB1** | 0.999 |
+| ARID1A | **BCL7C** | 0.995 |
+| ARID1A | **BCL7A** | 0.996 |
+| ARID1A | **SMARCD2** | 0.997 |
+| ARID1A | **DPF1** | 0.998 |
+| ARID1A | **ARID1B** | 0.999 |
+| ARID1A | **ACTL6A** | 0.999 |
+| ARID1A | **SMARCD1** | 0.999 |
+| ARID1A | **SMARCA4** | 0.999 |
+| ARID1A | **SMARCE1** | 0.999 |
+| ARID1A | **SMARCB1** | 0.999 |
+| ARID1A | **SMARCC2** | 0.999 |
+| ARID1A | **SMARCA2** | 0.999 |
+| SMARCE1 | **DPF1** | 0.993 |
+| SMARCE1 | **BCL7C** | 0.993 |
+| SMARCE1 | **BCL7A** | 0.993 |
+| SMARCE1 | **SMARCC2** | 0.999 |
+| SMARCE1 | **SMARCA2** | 0.999 |
+| SMARCE1 | **SMARCB1** | 0.999 |
+| SMARCE1 | **SMARCD1** | 0.999 |
+| SMARCE1 | **ACTL6A** | 0.999 |
+| SMARCE1 | **SMARCA4** | 0.999 |
+| SMARCE1 | **SMARCD2** | 0.999 |
+| SMARCE1 | **ARID1B** | 0.999 |
+| SMARCB1 | **DPF1** | 0.987 |
+| SMARCB1 | **BCL7C** | 0.991 |
+| SMARCB1 | **BCL7A** | 0.996 |
+| SMARCB1 | **SMARCC2** | 0.999 |
+| SMARCB1 | **SMARCA2** | 0.999 |
+| SMARCB1 | **ACTL6A** | 0.999 |
+| SMARCB1 | **SMARCD1** | 0.999 |
+| SMARCB1 | **SMARCA4** | 0.999 |
+| SMARCB1 | **ARID1B** | 0.999 |
+| SMARCB1 | **SMARCD2** | 0.999 |
+| SMARCA4 | **DPF1** | 0.987 |
+| SMARCA4 | **BCL7C** | 0.994 |
+| SMARCA4 | **BCL7A** | 0.997 |
+| SMARCA4 | **ACTL6A** | 0.999 |
+| SMARCA4 | **SMARCD1** | 0.999 |
+| SMARCA4 | **ARID1B** | 0.999 |
+| SMARCA4 | **SMARCD2** | 0.999 |
+| SMARCA4 | **SMARCC2** | 0.999 |
+| SMARCA4 | **SMARCA2** | 0.999 |
+| DPF1 | **SMARCD2** | 0.924 |
+| DPF1 | **BCL7A** | 0.939 |
+| DPF1 | **BCL7C** | 0.943 |
+| DPF1 | **SMARCA2** | 0.973 |
+| DPF1 | **ACTL6A** | 0.985 |
+| DPF1 | **SMARCD1** | 0.988 |
+| DPF1 | **SMARCC2** | 0.988 |
+| DPF1 | **ARID1B** | 0.991 |
+| BCL7C | **ACTL6A** | 0.987 |
+| BCL7C | **BCL7A** | 0.99 |
+| BCL7C | **SMARCC2** | 0.99 |
+| BCL7C | **SMARCD2** | 0.991 |
+| BCL7C | **ARID1B** | 0.991 |
+| BCL7C | **SMARCA2** | 0.993 |
+| BCL7C | **SMARCD1** | 0.995 |
+| SMARCA2 | **BCL7A** | 0.993 |
+| SMARCA2 | **SMARCC2** | 0.999 |
+| SMARCA2 | **SMARCD1** | 0.999 |
+| SMARCA2 | **ACTL6A** | 0.999 |
+| SMARCA2 | **ARID1B** | 0.999 |
+| SMARCA2 | **SMARCD2** | 0.999 |
+| SMARCD1 | **SMARCD2** | 0.995 |
+| SMARCD1 | **BCL7A** | 0.996 |
+| SMARCD1 | **ARID1B** | 0.998 |
+| SMARCD1 | **ACTL6A** | 0.999 |
+| SMARCD1 | **SMARCC2** | 0.999 |
+| SMARCD2 | **BCL7A** | 0.991 |
+| SMARCD2 | **ARID1B** | 0.995 |
+| SMARCD2 | **ACTL6A** | 0.997 |
+| SMARCD2 | **SMARCC2** | 0.999 |
+| ACTL6A | **BCL7A** | 0.994 |
+| ACTL6A | **ARID1B** | 0.995 |
+| ACTL6A | **SMARCC2** | 0.999 |
+| BCL7A | **ARID1B** | 0.989 |
+| BCL7A | **SMARCC2** | 0.989 |
+| SMARCC2 | **ARID1B** | 0.999 |
+

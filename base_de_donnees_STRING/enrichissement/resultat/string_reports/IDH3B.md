@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : IDH3B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : IDH3B
+Identifiant STRING officiel : `9606.ENSP00000482773`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLD | **GOT2** | 0.471 |
+| DLD | **NDUFV1** | 0.53 |
+| DLD | **ACO1** | 0.625 |
+| DLD | **ACO2** | 0.751 |
+| DLD | **IDH2** | 0.77 |
+| DLD | **IDH1** | 0.777 |
+| DLD | **GLUD2** | 0.863 |
+| DLD | **GLUD1** | 0.886 |
+| DLD | **IDH3G** | 0.889 |
+| DLD | **IDH3B** | 0.89 |
+| DLD | **IDH3A** | 0.905 |
+| DLD | **SUCLG1** | 0.947 |
+| DLD | **OGDHL** | 0.998 |
+| DLD | **DLST** | 0.999 |
+| DLD | **OGDH** | 0.999 |
+| ACO2 | **GLUD2** | 0.466 |
+| ACO2 | **GLUD1** | 0.665 |
+| ACO2 | **GOT2** | 0.753 |
+| ACO2 | **OGDHL** | 0.886 |
+| ACO2 | **DLST** | 0.921 |
+| ACO2 | **SUCLG1** | 0.929 |
+| ACO2 | **ACO1** | 0.943 |
+| ACO2 | **NDUFV1** | 0.944 |
+| ACO2 | **OGDH** | 0.957 |
+| ACO2 | **IDH3G** | 0.994 |
+| ACO2 | **IDH3B** | 0.996 |
+| ACO2 | **IDH2** | 0.998 |
+| ACO2 | **IDH3A** | 0.998 |
+| ACO2 | **IDH1** | 0.998 |
+| IDH3G | **NDUFV1** | 0.619 |
+| IDH3G | **GOT2** | 0.886 |
+| IDH3G | **DLST** | 0.892 |
+| IDH3G | **GLUD1** | 0.897 |
+| IDH3G | **SUCLG1** | 0.9 |
+| IDH3G | **GLUD2** | 0.904 |
+| IDH3G | **ACO1** | 0.975 |
+| IDH3G | **OGDHL** | 0.976 |
+| IDH3G | **OGDH** | 0.983 |
+| IDH3G | **IDH1** | 0.996 |
+| IDH3G | **IDH2** | 0.998 |
+| IDH3G | **IDH3A** | 0.999 |
+| IDH3G | **IDH3B** | 0.999 |
+| GOT2 | **DLST** | 0.476 |
+| GOT2 | **SUCLG1** | 0.601 |
+| GOT2 | **NDUFV1** | 0.636 |
+| GOT2 | **ACO1** | 0.688 |
+| GOT2 | **OGDHL** | 0.884 |
+| GOT2 | **IDH3A** | 0.889 |
+| GOT2 | **IDH3B** | 0.908 |
+| GOT2 | **OGDH** | 0.937 |
+| GOT2 | **IDH1** | 0.952 |
+| GOT2 | **IDH2** | 0.96 |
+| GOT2 | **GLUD2** | 0.967 |
+| GOT2 | **GLUD1** | 0.979 |
+| GLUD1 | **SUCLG1** | 0.417 |
+| GLUD1 | **ACO1** | 0.599 |
+| GLUD1 | **DLST** | 0.613 |
+| GLUD1 | **OGDHL** | 0.898 |
+| GLUD1 | **IDH3B** | 0.9 |
+| GLUD1 | **IDH3A** | 0.91 |
+| GLUD1 | **OGDH** | 0.937 |
+| GLUD1 | **IDH2** | 0.972 |
+| GLUD1 | **IDH1** | 0.973 |
+| GLUD1 | **GLUD2** | 0.984 |
+| IDH3A | **NDUFV1** | 0.722 |
+| IDH3A | **GLUD2** | 0.896 |
+| IDH3A | **SUCLG1** | 0.902 |
+| IDH3A | **DLST** | 0.929 |
+| IDH3A | **ACO1** | 0.98 |
+| IDH3A | **IDH1** | 0.987 |
+| IDH3A | **OGDHL** | 0.991 |
+| IDH3A | **OGDH** | 0.995 |
+| IDH3A | **IDH2** | 0.997 |
+| IDH3A | **IDH3B** | 0.999 |
+| ACO1 | **GLUD2** | 0.408 |
+| ACO1 | **NDUFV1** | 0.539 |
+| ACO1 | **OGDHL** | 0.613 |
+| ACO1 | **DLST** | 0.682 |
+| ACO1 | **OGDH** | 0.784 |
+| ACO1 | **SUCLG1** | 0.902 |
+| ACO1 | **IDH3B** | 0.975 |
+| ACO1 | **IDH2** | 0.998 |
+| ACO1 | **IDH1** | 0.998 |
+| GLUD2 | **DLST** | 0.481 |
+| GLUD2 | **OGDH** | 0.898 |
+| GLUD2 | **IDH3B** | 0.899 |
+| GLUD2 | **OGDHL** | 0.904 |
+| GLUD2 | **IDH2** | 0.959 |
+| GLUD2 | **IDH1** | 0.963 |
+| IDH2 | **NDUFV1** | 0.587 |
+| IDH2 | **DLST** | 0.823 |
+| IDH2 | **SUCLG1** | 0.878 |
+| IDH2 | **IDH1** | 0.961 |
+| IDH2 | **OGDHL** | 0.983 |
+| IDH2 | **OGDH** | 0.991 |
+| IDH2 | **IDH3B** | 0.997 |
+| DLST | **NDUFV1** | 0.752 |
+| DLST | **IDH1** | 0.815 |
+| DLST | **IDH3B** | 0.902 |
+| DLST | **SUCLG1** | 0.995 |
+| DLST | **OGDH** | 0.999 |
+| DLST | **OGDHL** | 0.999 |
+| OGDHL | **NDUFV1** | 0.619 |
+| OGDHL | **OGDH** | 0.975 |
+| OGDHL | **IDH3B** | 0.978 |
+| OGDHL | **IDH1** | 0.981 |
+| OGDHL | **SUCLG1** | 0.986 |
+| SUCLG1 | **NDUFV1** | 0.836 |
+| SUCLG1 | **IDH1** | 0.856 |
+| SUCLG1 | **IDH3B** | 0.931 |
+| SUCLG1 | **OGDH** | 0.997 |
+| OGDH | **NDUFV1** | 0.762 |
+| OGDH | **IDH3B** | 0.984 |
+| OGDH | **IDH1** | 0.99 |
+| IDH1 | **NDUFV1** | 0.537 |
+| IDH1 | **IDH3B** | 0.988 |
+| IDH3B | **NDUFV1** | 0.896 |
+

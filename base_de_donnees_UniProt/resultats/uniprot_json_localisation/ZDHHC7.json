@@ -1,0 +1,527 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q9NXF8",
+      "uniProtkbId": "ZDHC7_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:18459"
+              }
+            ],
+            "value": "ZDHHC7"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q91WU6"
+                },
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q923G5"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19001095"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22031296"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25301068"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "27380321"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28196865"
+                }
+              ],
+              "value": "Golgi-localized palmitoyltransferase that catalyzes the addition of palmitate onto various protein substrates and therefore functions in several unrelated biological processes (PubMed:22031296, PubMed:27380321, PubMed:28196865). Has no stringent fatty acid selectivity and in addition to palmitate can also transfer onto target proteins myristate from tetradecanoyl-CoA and stearate from octadecanoyl-CoA (By similarity). Palmitoylates sex steroid hormone receptors, including ESR1, PGR and AR, thereby regulating their targeting to the plasma membrane and their function in rapid intracellular signaling upon binding of sex hormones (PubMed:22031296). Palmitoylates GNAQ, a heterotrimeric G protein, regulating its dynamic localization at the plasma membrane and is thereby involved in GNAQ-dependent G protein-coupled receptor signaling pathways (PubMed:19001095). Also functions in ligand-induced cell death by regulating the FAS signaling pathway through the palmitoylation and stabilization of the receptor at the plasma membrane (PubMed:25301068). In epithelial cells, palmitoylates SCRIB and regulates its localization to the plasma membrane, regulating indirectly cell polarity and differentiation (PubMed:27380321). Also palmitoylates JAM3 and promotes its expression at tight junctions and regulates its function in cell migration (PubMed:28196865). Palmitoylates the glucose transporter GLUT4/SLC2A4 and controls the insulin-dependent translocation of GLUT4 to the plasma membrane (By similarity). In brain, could also palmitoylate SNAP25 and DLG4/PSD95 (By similarity). Could also palmitoylate DNAJC5 and regulate its localization to the Golgi membrane (By similarity). Could also palmitoylate NCDN (By similarity). May play a role in follicle stimulation hormone (FSH) activation of testicular Sertoli cells (By similarity). Activates pyroptosis by catalyzing palmitoylation of gasdermin-D (GSDMD) (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22031296"
+                  }
+                ],
+                "value": "Golgi apparatus membrane",
+                "id": "SL-0134"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255"
+                  }
+                ],
+                "value": "Multi-pass membrane protein",
+                "id": "SL-9909"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi apparatus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "16647879"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22031296"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000139",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Golgi membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016409",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:palmitoyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23034182"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019705",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-cysteine S-myristoyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:RHEA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019706",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-cysteine S-palmitoyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28196865"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140439",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-cysteine S-stearoyltransferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:RHEA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030521",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:androgen receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22031296"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044381",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:glucose import in response to insulin stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009895",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25301068"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0018230",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peptidyl-L-cysteine S-palmitoylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28196865"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030859",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:polarized epithelial cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27380321"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010828",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of D-glucose transmembrane transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28057756"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050847",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:progesterone receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22031296"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072659",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein localization to plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "22031296"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0018345",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein palmitoylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19001095"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein targeting to membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902044",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of Fas signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25301068"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008277",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of G protein-coupled receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19001095"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0150106",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of protein localization to cell-cell junction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "27380321"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903076",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of protein localization to plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "19001095"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043401",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:steroid hormone receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProt"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "22031296"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00000437C6"
+      }
+    }
+  ]
+}

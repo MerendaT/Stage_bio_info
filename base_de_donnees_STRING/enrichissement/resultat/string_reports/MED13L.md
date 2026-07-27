@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MED13L
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MED13L
+Identifiant STRING officiel : `9606.ENSP00000281928`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MED10 | **MED12L** | 0.902 |
+| MED10 | **CDK19** | 0.981 |
+| MED10 | **MED13L** | 0.988 |
+| MED10 | **CCNC** | 0.99 |
+| MED10 | **MED13** | 0.994 |
+| MED10 | **CDK8** | 0.995 |
+| MED10 | **MED1** | 0.997 |
+| MED10 | **MED23** | 0.998 |
+| MED10 | **MED29** | 0.998 |
+| MED10 | **MED4** | 0.999 |
+| MED10 | **MED19** | 0.999 |
+| MED10 | **MED12** | 0.999 |
+| MED10 | **MED14** | 0.999 |
+| MED10 | **MED7** | 0.999 |
+| MED10 | **MED18** | 0.999 |
+| MED4 | **MED12L** | 0.915 |
+| MED4 | **CDK19** | 0.974 |
+| MED4 | **MED13L** | 0.979 |
+| MED4 | **CCNC** | 0.986 |
+| MED4 | **CDK8** | 0.992 |
+| MED4 | **MED13** | 0.994 |
+| MED4 | **MED19** | 0.998 |
+| MED4 | **MED18** | 0.999 |
+| MED4 | **MED29** | 0.999 |
+| MED4 | **MED7** | 0.999 |
+| MED4 | **MED23** | 0.999 |
+| MED4 | **MED12** | 0.999 |
+| MED4 | **MED1** | 0.999 |
+| MED4 | **MED14** | 0.999 |
+| MED13L | **MED13** | 0.973 |
+| MED13L | **MED18** | 0.975 |
+| MED13L | **MED1** | 0.976 |
+| MED13L | **MED7** | 0.977 |
+| MED13L | **MED23** | 0.978 |
+| MED13L | **MED29** | 0.978 |
+| MED13L | **MED14** | 0.98 |
+| MED13L | **MED19** | 0.986 |
+| MED13L | **CDK19** | 0.997 |
+| MED13L | **CDK8** | 0.997 |
+| MED13L | **MED12L** | 0.998 |
+| MED13L | **MED12** | 0.999 |
+| MED13L | **CCNC** | 0.999 |
+| MED7 | **MED12L** | 0.948 |
+| MED7 | **MED13** | 0.987 |
+| MED7 | **CCNC** | 0.99 |
+| MED7 | **MED12** | 0.991 |
+| MED7 | **CDK19** | 0.993 |
+| MED7 | **MED23** | 0.997 |
+| MED7 | **CDK8** | 0.997 |
+| MED7 | **MED1** | 0.998 |
+| MED7 | **MED29** | 0.998 |
+| MED7 | **MED19** | 0.999 |
+| MED7 | **MED14** | 0.999 |
+| MED7 | **MED18** | 0.999 |
+| MED1 | **MED12L** | 0.966 |
+| MED1 | **CDK8** | 0.998 |
+| MED1 | **MED18** | 0.999 |
+| MED1 | **MED29** | 0.999 |
+| MED1 | **CCNC** | 0.999 |
+| MED1 | **MED14** | 0.999 |
+| MED1 | **MED13** | 0.999 |
+| MED1 | **CDK19** | 0.999 |
+| MED1 | **MED23** | 0.999 |
+| MED1 | **MED12** | 0.999 |
+| MED1 | **MED19** | 0.999 |
+| MED14 | **MED12L** | 0.894 |
+| MED14 | **CDK19** | 0.993 |
+| MED14 | **CCNC** | 0.997 |
+| MED14 | **CDK8** | 0.999 |
+| MED14 | **MED18** | 0.999 |
+| MED14 | **MED29** | 0.999 |
+| MED14 | **MED13** | 0.999 |
+| MED14 | **MED12** | 0.999 |
+| MED14 | **MED19** | 0.999 |
+| MED14 | **MED23** | 0.999 |
+| MED23 | **MED12L** | 0.918 |
+| MED23 | **CDK19** | 0.982 |
+| MED23 | **CCNC** | 0.986 |
+| MED23 | **CDK8** | 0.996 |
+| MED23 | **MED13** | 0.996 |
+| MED23 | **MED29** | 0.997 |
+| MED23 | **MED19** | 0.998 |
+| MED23 | **MED18** | 0.999 |
+| MED23 | **MED12** | 0.999 |
+| CDK19 | **MED29** | 0.978 |
+| CDK19 | **MED18** | 0.983 |
+| CDK19 | **MED19** | 0.99 |
+| CDK19 | **CDK8** | 0.994 |
+| CDK19 | **MED12L** | 0.996 |
+| CDK19 | **MED13** | 0.999 |
+| CDK19 | **MED12** | 0.999 |
+| CDK19 | **CCNC** | 0.999 |
+| MED18 | **MED12L** | 0.952 |
+| MED18 | **CDK8** | 0.998 |
+| MED18 | **CCNC** | 0.999 |
+| MED18 | **MED29** | 0.999 |
+| MED18 | **MED12** | 0.999 |
+| MED18 | **MED19** | 0.999 |
+| MED18 | **MED13** | 0.999 |
+| MED12 | **MED12L** | 0.696 |
+| MED12 | **MED19** | 0.995 |
+| MED12 | **MED13** | 0.999 |
+| MED12 | **CCNC** | 0.999 |
+| MED12 | **CDK8** | 0.999 |
+| MED12 | **MED29** | 0.999 |
+| CDK8 | **MED29** | 0.993 |
+| CDK8 | **MED19** | 0.994 |
+| CDK8 | **MED12L** | 0.995 |
+| CDK8 | **MED13** | 0.999 |
+| CDK8 | **CCNC** | 0.999 |
+| MED13 | **MED12L** | 0.996 |
+| MED13 | **MED29** | 0.996 |
+| MED13 | **MED19** | 0.997 |
+| MED13 | **CCNC** | 0.999 |
+| MED12L | **MED29** | 0.94 |
+| MED12L | **MED19** | 0.976 |
+| MED12L | **CCNC** | 0.999 |
+| CCNC | **MED29** | 0.982 |
+| CCNC | **MED19** | 0.989 |
+| MED29 | **MED19** | 0.999 |
+

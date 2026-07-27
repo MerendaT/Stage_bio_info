@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : EXOSC3
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : EXOSC3
+Identifiant STRING officiel : `9606.ENSP00000323046`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CDK5RAP1 | **EXOSC5** | 0.994 |
+| CDK5RAP1 | **EXOSC3** | 0.995 |
+| EXOSC5 | **EXOSC1** | 0.999 |
+| EXOSC5 | **MPHOSPH6** | 0.999 |
+| EXOSC5 | **C1D** | 0.999 |
+| EXOSC5 | **DIS3** | 0.999 |
+| EXOSC5 | **EXOSC9** | 0.999 |
+| EXOSC5 | **EXOSC10** | 0.999 |
+| EXOSC5 | **EXOSC3** | 0.999 |
+| EXOSC5 | **EXOSC2** | 0.999 |
+| EXOSC5 | **EXOSC7** | 0.999 |
+| EXOSC5 | **EXOSC4** | 0.999 |
+| EXOSC5 | **DIS3L** | 0.999 |
+| EXOSC5 | **EXOSC6** | 0.999 |
+| EXOSC5 | **EXOSC8** | 0.999 |
+| EXOSC5 | **MTREX** | 0.999 |
+| MTREX | **DIS3L** | 0.933 |
+| MTREX | **DIS3** | 0.994 |
+| MTREX | **EXOSC6** | 0.995 |
+| MTREX | **EXOSC1** | 0.996 |
+| MTREX | **EXOSC8** | 0.996 |
+| MTREX | **MPHOSPH6** | 0.997 |
+| MTREX | **EXOSC3** | 0.998 |
+| MTREX | **EXOSC7** | 0.998 |
+| MTREX | **EXOSC4** | 0.998 |
+| MTREX | **C1D** | 0.999 |
+| MTREX | **EXOSC10** | 0.999 |
+| MTREX | **EXOSC9** | 0.999 |
+| MTREX | **EXOSC2** | 0.999 |
+| MPHOSPH6 | **DIS3L** | 0.977 |
+| MPHOSPH6 | **DIS3** | 0.989 |
+| MPHOSPH6 | **C1D** | 0.996 |
+| MPHOSPH6 | **EXOSC10** | 0.998 |
+| MPHOSPH6 | **EXOSC9** | 0.998 |
+| MPHOSPH6 | **EXOSC2** | 0.998 |
+| MPHOSPH6 | **EXOSC4** | 0.999 |
+| MPHOSPH6 | **EXOSC7** | 0.999 |
+| MPHOSPH6 | **EXOSC8** | 0.999 |
+| MPHOSPH6 | **EXOSC6** | 0.999 |
+| MPHOSPH6 | **EXOSC1** | 0.999 |
+| MPHOSPH6 | **EXOSC3** | 0.999 |
+| EXOSC7 | **C1D** | 0.998 |
+| EXOSC7 | **DIS3L** | 0.999 |
+| EXOSC7 | **EXOSC4** | 0.999 |
+| EXOSC7 | **EXOSC8** | 0.999 |
+| EXOSC7 | **EXOSC6** | 0.999 |
+| EXOSC7 | **DIS3** | 0.999 |
+| EXOSC7 | **EXOSC10** | 0.999 |
+| EXOSC7 | **EXOSC9** | 0.999 |
+| EXOSC7 | **EXOSC1** | 0.999 |
+| EXOSC7 | **EXOSC3** | 0.999 |
+| EXOSC7 | **EXOSC2** | 0.999 |
+| EXOSC4 | **C1D** | 0.997 |
+| EXOSC4 | **EXOSC3** | 0.999 |
+| EXOSC4 | **EXOSC2** | 0.999 |
+| EXOSC4 | **EXOSC1** | 0.999 |
+| EXOSC4 | **DIS3** | 0.999 |
+| EXOSC4 | **EXOSC10** | 0.999 |
+| EXOSC4 | **EXOSC9** | 0.999 |
+| EXOSC4 | **EXOSC6** | 0.999 |
+| EXOSC4 | **EXOSC8** | 0.999 |
+| EXOSC4 | **DIS3L** | 0.999 |
+| DIS3L | **DIS3** | 0.947 |
+| DIS3L | **C1D** | 0.996 |
+| DIS3L | **EXOSC6** | 0.999 |
+| DIS3L | **EXOSC8** | 0.999 |
+| DIS3L | **EXOSC1** | 0.999 |
+| DIS3L | **EXOSC9** | 0.999 |
+| DIS3L | **EXOSC10** | 0.999 |
+| DIS3L | **EXOSC3** | 0.999 |
+| DIS3L | **EXOSC2** | 0.999 |
+| EXOSC3 | **EXOSC9** | 0.999 |
+| EXOSC3 | **EXOSC10** | 0.999 |
+| EXOSC3 | **DIS3** | 0.999 |
+| EXOSC3 | **EXOSC1** | 0.999 |
+| EXOSC3 | **C1D** | 0.999 |
+| EXOSC3 | **EXOSC2** | 0.999 |
+| EXOSC3 | **EXOSC8** | 0.999 |
+| EXOSC3 | **EXOSC6** | 0.999 |
+| C1D | **DIS3** | 0.997 |
+| C1D | **EXOSC6** | 0.997 |
+| C1D | **EXOSC10** | 0.999 |
+| C1D | **EXOSC9** | 0.999 |
+| C1D | **EXOSC1** | 0.999 |
+| C1D | **EXOSC2** | 0.999 |
+| C1D | **EXOSC8** | 0.999 |
+| EXOSC1 | **EXOSC2** | 0.999 |
+| EXOSC1 | **EXOSC9** | 0.999 |
+| EXOSC1 | **EXOSC10** | 0.999 |
+| EXOSC1 | **DIS3** | 0.999 |
+| EXOSC1 | **EXOSC6** | 0.999 |
+| EXOSC1 | **EXOSC8** | 0.999 |
+| EXOSC2 | **DIS3** | 0.999 |
+| EXOSC2 | **EXOSC9** | 0.999 |
+| EXOSC2 | **EXOSC10** | 0.999 |
+| EXOSC2 | **EXOSC8** | 0.999 |
+| EXOSC2 | **EXOSC6** | 0.999 |
+| EXOSC10 | **EXOSC6** | 0.999 |
+| EXOSC10 | **EXOSC8** | 0.999 |
+| EXOSC10 | **EXOSC9** | 0.999 |
+| EXOSC10 | **DIS3** | 0.999 |
+| DIS3 | **EXOSC9** | 0.999 |
+| DIS3 | **EXOSC6** | 0.999 |
+| DIS3 | **EXOSC8** | 0.999 |
+| EXOSC9 | **EXOSC6** | 0.999 |
+| EXOSC9 | **EXOSC8** | 0.999 |
+| EXOSC8 | **EXOSC6** | 0.999 |
+

@@ -1,0 +1,2072 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P17861",
+      "uniProtkbId": "XBP1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:12801"
+              }
+            ],
+            "value": "XBP1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "O35426"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11460154"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20348923"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8349596"
+                }
+              ],
+              "value": "Functions as a transcription factor during endoplasmic reticulum (ER) stress by regulating the unfolded protein response (UPR). Required for cardiac myogenesis and hepatogenesis during embryonic development, and the development of secretory tissues such as exocrine pancreas and salivary gland (By similarity). Involved in terminal differentiation of B lymphocytes to plasma cells and production of immunoglobulins (PubMed:11460154). Modulates the cellular response to ER stress in a PIK3R-dependent manner (PubMed:20348923). Binds to the cis-acting X box present in the promoter regions of major histocompatibility complex class II genes (PubMed:8349596). Involved in VEGF-induced endothelial cell (EC) proliferation and retinal blood vessel formation during embryonic development but also for angiogenesis in adult tissues under ischemic conditions. Also functions as a major regulator of the UPR in obesity-induced insulin resistance and type 2 diabetes for the management of obesity and diabetes prevention (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "O35426"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11779464"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16461360"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "1903538"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19394296"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19416856"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21233347"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2196176"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "2321018"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23529610"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25190803"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25239945"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8657566"
+                }
+              ],
+              "value": "Plays a role in the unconventional cytoplasmic splicing processing of its own mRNA triggered by the endoplasmic reticulum (ER) transmembrane endoribonuclease ERN1: upon ER stress, the emerging XBP1 polypeptide chain, as part of a mRNA-ribosome-nascent chain (R-RNC) complex, cotranslationally recruits its own unprocessed mRNA through transient docking to the ER membrane and translational pausing, therefore facilitating efficient IRE1-mediated XBP1 mRNA isoform 2 production (PubMed:19394296, PubMed:21233347). In endothelial cells (EC), associated with KDR, promotes IRE1-mediated XBP1 mRNA isoform 2 productions in a vascular endothelial growth factor (VEGF)-dependent manner, leading to EC proliferation and angiogenesis (PubMed:23529610). Functions as a negative feed-back regulator of the potent transcription factor XBP1 isoform 2 protein levels through proteasome-mediated degradation, thus preventing the constitutive activation of the ER stress response signaling pathway (PubMed:16461360, PubMed:25239945). Inhibits the transactivation activity of XBP1 isoform 2 in myeloma cells (By similarity). Acts as a weak transcriptional factor (PubMed:8657566). Together with HDAC3, contributes to the activation of NFE2L2-mediated HMOX1 transcription factor gene expression in a PI(3)K/mTORC2/Akt-dependent signaling pathway leading to EC survival under disturbed flow/oxidative stress (PubMed:25190803). Binds to the ER stress response element (ERSE) upon ER stress (PubMed:11779464). Binds to the consensus 5'-GATGACGTG[TG]N(3)[AT]T-3' sequence related to cAMP responsive element (CRE)-like sequences (PubMed:8657566). Binds the Tax-responsive element (TRE) present in the long terminal repeat (LTR) of T-cell leukemia virus type 1 (HTLV-I) and to the TPA response elements (TRE) (PubMed:1903538, PubMed:2196176, PubMed:2321018, PubMed:8657566). Associates preferentially to the HDAC3 gene promoter region in a static flow-dependent manner (PubMed:25190803). Binds to the CDH5/VE-cadherin gene promoter region (PubMed:19416856)"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 1"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "O35426"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11779464"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15466483"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19416856"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23184933"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23529610"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25190803"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25239945"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25280941"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "25448679"
+                }
+              ],
+              "value": "Functions as a stress-inducible potent transcriptional activator during endoplasmic reticulum (ER) stress by inducing unfolded protein response (UPR) target genes via binding to the UPR element (UPRE). Up-regulates target genes encoding ER chaperones and ER-associated degradation (ERAD) components to enhance the capacity of productive folding and degradation mechanism, respectively, in order to maintain the homeostasis of the ER under ER stress (PubMed:11779464, PubMed:25239945). Plays a role in the production of immunoglobulins and interleukin-6 in the presence of stimuli required for plasma cell differentiation (By similarity). Induces phospholipid biosynthesis and ER expansion (PubMed:15466483). Contributes to the VEGF-induced endothelial cell (EC) growth and proliferation in a Akt/GSK-dependent and/or -independent signaling pathway, respectively, leading to beta-catenin nuclear translocation and E2F2 gene expression (PubMed:23529610). Promotes umbilical vein EC apoptosis and atherosclerotisis development in a caspase-dependent signaling pathway, and contributes to VEGF-induced EC proliferation and angiogenesis in adult tissues under ischemic conditions (PubMed:19416856, PubMed:23529610). Involved in the regulation of endostatin-induced autophagy in EC through BECN1 transcriptional activation (PubMed:23184933). Plays a role as an oncogene by promoting tumor progression: stimulates zinc finger protein SNAI1 transcription to induce epithelial-to-mesenchymal (EMT) transition, cell migration and invasion of breast cancer cells (PubMed:25280941). Involved in adipocyte differentiation by regulating lipogenic gene expression during lactation. Plays a role in the survival of both dopaminergic neurons of the substantia nigra pars compacta (SNpc), by maintaining protein homeostasis and of myeloma cells. Increases insulin sensitivity in the liver as a response to a high carbohydrate diet, resulting in improved glucose tolerance. Also improves glucose homeostasis in an ER stress- and/or insulin-independent manner through both binding and proteasome-induced degradation of the transcription factor FOXO1, hence resulting in suppression of gluconeogenic genes expression and in a reduction of blood glucose levels. Controls the induction of de novo fatty acid synthesis in hepatocytes by regulating the expression of a subset of lipogenic genes in an ER stress- and UPR-independent manner (By similarity). Associates preferentially to the HDAC3 gene promoter region in a disturbed flow-dependent manner (PubMed:25190803). Binds to the BECN1 gene promoter region (PubMed:23184933). Binds to the CDH5/VE-cadherin gene promoter region (PubMed:19416856). Binds to the ER stress response element (ERSE) upon ER stress (PubMed:11779464). Binds to the 5'-CCACG-3' motif in the PPARG promoter (By similarity). Binds to the HEPN1 gene promoter region and activates transcription (PubMed:25448679)"
+            }
+          ],
+          "commentType": "FUNCTION",
+          "molecule": "Isoform 2"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23529610"
+                  }
+                ],
+                "value": "Colocalizes with ERN1 and KDR in the endoplasmic reticulum in endothelial cells in a vascular endothelial growth factor (VEGF)-dependent manner (PubMed:23529610)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "23529610"
+                  }
+                ],
+                "value": "Endoplasmic reticulum",
+                "id": "SL-0095"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 1",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "O35426"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16461360"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19394296"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25190803"
+                  }
+                ],
+                "value": "Shows no preferential localization to either the nucleus or the cytoplasm (By similarity). Shuttles between the nucleus and the cytoplasm in a CRM1-dependent manner (PubMed:16461360). Localizes predominantly at the endoplasmic reticulum membrane as a membrane-spanning protein; whereas may be only marginally localized on the cytosolic side of the ER membrane as a peripheral membrane (PubMed:19394296, PubMed:25190803)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16461360"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19394296"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16461360"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19394296"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20348923"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25190803"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Single-pass type II membrane protein",
+                "id": "SL-9906"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Endoplasmic reticulum membrane",
+                "id": "SL-0097"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19394296"
+                  }
+                ],
+                "value": "Membrane",
+                "id": "SL-0162"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "source": "PubMed",
+                    "id": "19394296"
+                  }
+                ],
+                "value": "Peripheral membrane protein",
+                "id": "SL-9903"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Isoform 2",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "O35426"
+                  }
+                ],
+                "value": "Localizes predominantly in the nucleus. Colocalizes in the nucleus with SIRT1. Translocates into the nucleus in a PIK3R-, ER stress-induced- and/or insulin-dependent manner (By similarity)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "16461360"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19394296"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20348923"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "20955178"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "O35426"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "X-box-binding protein 1, cytoplasmic form",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Localizes in the cytoplasm and nucleus after HM13/SPP-mediated intramembranaire proteolytic cleavage of isoform 1 (PubMed:25239945)"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "25239945"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23529610"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:LIFEdb"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031490",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:chromatin DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000987",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "2196176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1903538"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:DNA-binding transcription factor activity, RNA polymerase II-specific"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042826",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:histone deacetylase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "12805554"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "20102225"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "23661758"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030331",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:nuclear estrogen receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protease binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046982",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein heterodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "1903538"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000977",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA polymerase II transcription regulatory region sequence-specific DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:sequence-specific double-stranded DNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28473536"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription cis-regulatory region binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031625",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin protein ligase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044389",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin-like protein ligase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060612",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:adipose tissue development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001525",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036500",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ATF6-mediated unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "32046286"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006914",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:autophagy"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071230",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to amino acid stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071498",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to fluid shear stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071332",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to fructose stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042149",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to glucose starvation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071333",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to glucose stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032869",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to insulin stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071353",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to interleukin-4"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071499",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to laminar fluid shear stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071222",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to lipopolysaccharide"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11460154"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031670",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to nutrient"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034599",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to oxidative stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071375",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to peptide hormone stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035924",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to vascular endothelial growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042632",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cholesterol homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030968",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endoplasmic reticulum unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "31387940"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001935",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:endothelial cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036503",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ERAD pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "17765680"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006633",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fatty acid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22013210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055089",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fatty acid homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006955",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22013210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035356",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intracellular triglyceride homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070059",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036498",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:IRE1-mediated unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22013210"
+            },
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22934019"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001889",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:liver development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007517",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:muscle organ development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902236",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19135031"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900102",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of endoplasmic reticulum unfolded protein response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070373",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of ERK1 and ERK2 cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010832",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of myotube differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060392",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of SMAD protein signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030512",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transforming growth factor beta receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048666",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043491",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045766",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25656649"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010508",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of autophagy"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045579",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of B cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11460154"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030335",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25656649"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25656649"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900017",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cytokine production involved in inflammatory response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProt"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000353",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of endothelial cell apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904294",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of ERAD pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045600",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of fat cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2000347",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of hepatocyte proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002639",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of immunoglobulin production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11460154"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032755",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of interleukin-6 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1903489",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of lactation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045348",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of MHC class II biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "1903538"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071073",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phospholipid biosynthetic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1900100",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of plasma cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11460154"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1901985",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein acetylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042307",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein import into nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001934",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045582",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of T cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11460154"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032008",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of TOR signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045944",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8657566"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904754",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular associated smooth muscle cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904707",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular associated smooth muscle cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035470",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular wound healing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "25656649"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031648",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein destabilization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015031",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010506",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of autophagy"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001558",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031647",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of protein stability"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006357",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:ComplexPortal"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "23661758"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22013210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990418",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to insulin-like growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055092",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sterol homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006366",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048010",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:vascular endothelial growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI000006FC05"
+      }
+    }
+  ]
+}

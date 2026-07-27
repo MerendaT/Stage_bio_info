@@ -1,0 +1,1169 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P11362",
+      "uniProtkbId": "FGFR1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "FGFR1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P16092"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "10830168"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11353842"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12181353"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "1379697"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "1379698"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15117958"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "16597617"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17311277"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "17623664"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "18480409"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19224897"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19261810"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19665973"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20133753"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "20139426"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "21765395"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8622701"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8663044"
+                }
+              ],
+              "value": "Tyrosine-protein kinase that acts as a cell-surface receptor for fibroblast growth factors and plays an essential role in the regulation of embryonic development, cell proliferation, differentiation and migration. Required for normal mesoderm patterning and correct axial organization during embryonic development, normal skeletogenesis and normal development of the gonadotropin-releasing hormone (GnRH) neuronal system. Phosphorylates PLCG1, FRS2, GAB1 and SHB. Ligand binding leads to the activation of several signaling cascades. Activation of PLCG1 leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate. Phosphorylation of FRS2 triggers recruitment of GRB2, GAB1, PIK3R1 and SOS1, and mediates activation of RAS, MAPK1/ERK2, MAPK3/ERK1 and the MAP kinase signaling pathway, as well as of the AKT1 signaling pathway. Promotes phosphorylation of SHC1, STAT1 and PTPN11/SHP2. In the nucleus, enhances RPS6KA1 and CREB1 activity and contributes to the regulation of transcription. FGFR1 signaling is down-regulated by IL17RD/SEF, and by FGFR1 ubiquitination, internalization and degradation"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "value": "After ligand binding, both receptor and ligand are rapidly internalized. Can translocate to the nucleus after internalization, or by translocation from the endoplasmic reticulum or Golgi apparatus to the cytosol, and from there to the nucleus"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            },
+            {
+              "location": {
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasm, cytosol",
+                "id": "SL-0091"
+              }
+            },
+            {
+              "location": {
+                "value": "Cytoplasmic vesicle",
+                "id": "SL-0088"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0031410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasmic vesicle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "1652059"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098978",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:glutamatergic synapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "1652059"
+            },
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "1846977"
+            },
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "2159626"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18480409"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098794",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:postsynapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043235",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:receptor complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23382219"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0017134",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:fibroblast growth factor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18480409"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8663044"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005007",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:fibroblast growth factor receptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18480409"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "20133753"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008201",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:heparin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18480409"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042802",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:identical protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:IntAct"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "19696444"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "20133753"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042803",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein homodimerization activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "20133753"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004713",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein tyrosine kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8622701"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090722",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor-receptor interaction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24157794"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042169",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:SH2 domain binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0055074",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:calcium ion homeostasis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016477",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "15863030"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044344",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to fibroblast growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21885851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071529",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cementum mineralization"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043009",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:chordate embryonic development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "15863030"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071344",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:diphosphate metabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006351",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001837",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:epithelial to mesenchymal transition"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26451614"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008543",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fibroblast growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "18480409"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8663044"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035607",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:MAPK cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10748122"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0000122",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of transcription by RNA polymerase II"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001764",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neuron migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "15863030"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0018108",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:peptidyl-tyrosine phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8622701"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048015",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:phosphatidylinositol-mediated signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "12141425"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043536",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of blood vessel endothelial cell migration"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "23263626"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045787",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045597",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8663044"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2001028",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of endothelial cell chemotaxis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21885851"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043406",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of MAP kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8622701"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043410",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of MAPK cascade"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "8622701"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045666",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of neuron differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "8622701"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051897",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "26451614"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010518",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phospholipase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "12141425"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1905564",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of vascular endothelial cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "23263626"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0046777",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein autophosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8622701"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006468",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "1846977"
+            },
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "2159626"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045595",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "12141425"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0099151",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of postsynaptic density assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1904383",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to sodium phosphate"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001501",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:skeletal system development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "7874169"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048705",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:skeletal system morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "15863030"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0021847",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ventricular zone neuroblast division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI00000534B8"
+      }
+    }
+  ]
+}

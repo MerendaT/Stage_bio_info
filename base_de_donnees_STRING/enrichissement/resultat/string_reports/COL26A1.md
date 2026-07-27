@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : COL26A1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : COL26A1
+Identifiant STRING officiel : `9606.ENSP00000318234`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| COL21A1 | **COL4A3** | 0.488 |
+| COL21A1 | **COL18A1** | 0.491 |
+| COL21A1 | **COL20A1** | 0.501 |
+| COL21A1 | **COL4A5** | 0.525 |
+| COL21A1 | **COL17A1** | 0.548 |
+| COL21A1 | **COL4A6** | 0.555 |
+| COL21A1 | **COL11A1** | 0.564 |
+| COL21A1 | **COL28A1** | 0.568 |
+| COL21A1 | **COL23A1** | 0.574 |
+| COL21A1 | **COL1A2** | 0.581 |
+| COL21A1 | **COL3A1** | 0.59 |
+| COL21A1 | **COL25A1** | 0.595 |
+| COL21A1 | **SERPINH1** | 0.641 |
+| COL21A1 | **COL26A1** | 0.727 |
+| COL1A2 | **COL20A1** | 0.517 |
+| COL1A2 | **COL25A1** | 0.532 |
+| COL1A2 | **COL23A1** | 0.537 |
+| COL1A2 | **COL17A1** | 0.543 |
+| COL1A2 | **COL4A3** | 0.547 |
+| COL1A2 | **COL18A1** | 0.575 |
+| COL1A2 | **COL4A6** | 0.576 |
+| COL1A2 | **COL28A1** | 0.586 |
+| COL1A2 | **COL26A1** | 0.675 |
+| COL1A2 | **COL4A5** | 0.789 |
+| COL1A2 | **SERPINH1** | 0.879 |
+| COL1A2 | **COL11A1** | 0.992 |
+| COL1A2 | **COL3A1** | 0.999 |
+| COL3A1 | **COL20A1** | 0.504 |
+| COL3A1 | **COL23A1** | 0.531 |
+| COL3A1 | **COL4A6** | 0.533 |
+| COL3A1 | **COL25A1** | 0.551 |
+| COL3A1 | **COL28A1** | 0.553 |
+| COL3A1 | **COL18A1** | 0.558 |
+| COL3A1 | **COL17A1** | 0.594 |
+| COL3A1 | **COL26A1** | 0.643 |
+| COL3A1 | **COL4A3** | 0.7 |
+| COL3A1 | **COL4A5** | 0.803 |
+| COL3A1 | **SERPINH1** | 0.876 |
+| COL3A1 | **COL11A1** | 0.965 |
+| COL26A1 | **COL28A1** | 0.629 |
+| COL26A1 | **COL4A3** | 0.631 |
+| COL26A1 | **COL11A1** | 0.637 |
+| COL26A1 | **COL20A1** | 0.643 |
+| COL26A1 | **COL4A6** | 0.649 |
+| COL26A1 | **COL4A5** | 0.661 |
+| COL26A1 | **COL18A1** | 0.665 |
+| COL26A1 | **COL17A1** | 0.68 |
+| COL26A1 | **FURIN** | 0.755 |
+| COL26A1 | **COL23A1** | 0.77 |
+| COL26A1 | **COL25A1** | 0.916 |
+| COL26A1 | **SERPINH1** | 0.958 |
+| COL4A5 | **COL20A1** | 0.455 |
+| COL4A5 | **COL23A1** | 0.489 |
+| COL4A5 | **COL28A1** | 0.512 |
+| COL4A5 | **COL25A1** | 0.524 |
+| COL4A5 | **COL17A1** | 0.584 |
+| COL4A5 | **SERPINH1** | 0.653 |
+| COL4A5 | **COL18A1** | 0.657 |
+| COL4A5 | **COL11A1** | 0.71 |
+| COL4A5 | **COL4A3** | 0.903 |
+| COL4A5 | **COL4A6** | 0.982 |
+| COL20A1 | **COL4A3** | 0.465 |
+| COL20A1 | **COL18A1** | 0.467 |
+| COL20A1 | **COL11A1** | 0.487 |
+| COL20A1 | **COL17A1** | 0.523 |
+| COL20A1 | **COL4A6** | 0.542 |
+| COL20A1 | **COL25A1** | 0.577 |
+| COL20A1 | **COL28A1** | 0.585 |
+| COL20A1 | **COL23A1** | 0.611 |
+| COL20A1 | **SERPINH1** | 0.626 |
+| COL18A1 | **COL28A1** | 0.438 |
+| COL18A1 | **COL25A1** | 0.475 |
+| COL18A1 | **COL4A6** | 0.608 |
+| COL18A1 | **SERPINH1** | 0.64 |
+| COL18A1 | **COL11A1** | 0.644 |
+| COL18A1 | **COL17A1** | 0.658 |
+| COL18A1 | **COL4A3** | 0.675 |
+| COL18A1 | **COL23A1** | 0.833 |
+| COL11A1 | **COL17A1** | 0.487 |
+| COL11A1 | **COL25A1** | 0.505 |
+| COL11A1 | **COL23A1** | 0.525 |
+| COL11A1 | **COL4A6** | 0.526 |
+| COL11A1 | **COL28A1** | 0.547 |
+| COL11A1 | **COL4A3** | 0.615 |
+| COL11A1 | **SERPINH1** | 0.673 |
+| COL23A1 | **COL17A1** | 0.496 |
+| COL23A1 | **COL4A3** | 0.506 |
+| COL23A1 | **COL4A6** | 0.535 |
+| COL23A1 | **SERPINH1** | 0.54 |
+| COL23A1 | **COL28A1** | 0.556 |
+| COL23A1 | **COL25A1** | 0.594 |
+| COL23A1 | **FURIN** | 0.892 |
+| COL4A6 | **COL25A1** | 0.56 |
+| COL4A6 | **COL17A1** | 0.571 |
+| COL4A6 | **COL28A1** | 0.585 |
+| COL4A6 | **SERPINH1** | 0.696 |
+| COL4A6 | **COL4A3** | 0.722 |
+| COL4A3 | **COL25A1** | 0.512 |
+| COL4A3 | **COL28A1** | 0.518 |
+| COL4A3 | **COL17A1** | 0.615 |
+| COL4A3 | **SERPINH1** | 0.623 |
+| COL25A1 | **COL17A1** | 0.547 |
+| COL25A1 | **COL28A1** | 0.551 |
+| COL25A1 | **SERPINH1** | 0.563 |
+| COL25A1 | **FURIN** | 0.853 |
+| COL28A1 | **COL17A1** | 0.519 |
+| COL28A1 | **SERPINH1** | 0.605 |
+| SERPINH1 | **COL17A1** | 0.555 |
+

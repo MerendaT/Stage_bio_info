@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : HSPE1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : HSPE1
+Identifiant STRING officiel : `9606.ENSP00000233893`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| HSPE1 | **CCT5** | 0.875 |
+| HSPE1 | **CCT6A** | 0.88 |
+| HSPE1 | **CCT3** | 0.893 |
+| HSPE1 | **CCT4** | 0.893 |
+| HSPE1 | **CCT2** | 0.894 |
+| HSPE1 | **TCP1** | 0.917 |
+| HSPE1 | **HSP90AB1** | 0.928 |
+| HSPE1 | **HSPA4** | 0.93 |
+| HSPE1 | **GRPEL2** | 0.933 |
+| HSPE1 | **HSP90AA1** | 0.942 |
+| HSPE1 | **CLPP** | 0.946 |
+| HSPE1 | **CLPB** | 0.967 |
+| HSPE1 | **HSPA9** | 0.97 |
+| HSPE1 | **GRPEL1** | 0.995 |
+| HSPE1 | **HSPD1** | 0.999 |
+| CLPP | **TCP1** | 0.438 |
+| CLPP | **CCT6A** | 0.438 |
+| CLPP | **CCT4** | 0.444 |
+| CLPP | **CCT2** | 0.473 |
+| CLPP | **CCT3** | 0.479 |
+| CLPP | **CCT5** | 0.487 |
+| CLPP | **HSP90AA1** | 0.553 |
+| CLPP | **HSP90AB1** | 0.57 |
+| CLPP | **GRPEL2** | 0.68 |
+| CLPP | **HSPA4** | 0.694 |
+| CLPP | **HSPA9** | 0.829 |
+| CLPP | **HSPD1** | 0.921 |
+| CLPP | **GRPEL1** | 0.924 |
+| CLPP | **CLPB** | 0.999 |
+| GRPEL1 | **CCT6A** | 0.592 |
+| GRPEL1 | **CCT5** | 0.602 |
+| GRPEL1 | **CCT3** | 0.612 |
+| GRPEL1 | **CCT4** | 0.612 |
+| GRPEL1 | **CCT2** | 0.627 |
+| GRPEL1 | **TCP1** | 0.709 |
+| GRPEL1 | **HSP90AB1** | 0.745 |
+| GRPEL1 | **HSP90AA1** | 0.745 |
+| GRPEL1 | **GRPEL2** | 0.764 |
+| GRPEL1 | **HSPA4** | 0.975 |
+| GRPEL1 | **HSPD1** | 0.982 |
+| GRPEL1 | **CLPB** | 0.993 |
+| GRPEL1 | **HSPA9** | 0.999 |
+| CCT6A | **CLPB** | 0.551 |
+| CCT6A | **GRPEL2** | 0.57 |
+| CCT6A | **HSPA9** | 0.752 |
+| CCT6A | **HSPA4** | 0.761 |
+| CCT6A | **HSP90AA1** | 0.839 |
+| CCT6A | **HSPD1** | 0.871 |
+| CCT6A | **HSP90AB1** | 0.924 |
+| CCT6A | **CCT5** | 0.999 |
+| CCT6A | **CCT4** | 0.999 |
+| CCT6A | **CCT3** | 0.999 |
+| CCT6A | **TCP1** | 0.999 |
+| CCT6A | **CCT2** | 0.999 |
+| CCT5 | **CLPB** | 0.532 |
+| CCT5 | **GRPEL2** | 0.565 |
+| CCT5 | **HSPD1** | 0.588 |
+| CCT5 | **HSPA9** | 0.694 |
+| CCT5 | **HSPA4** | 0.799 |
+| CCT5 | **HSP90AA1** | 0.868 |
+| CCT5 | **HSP90AB1** | 0.959 |
+| CCT5 | **CCT4** | 0.999 |
+| CCT5 | **CCT3** | 0.999 |
+| CCT5 | **TCP1** | 0.999 |
+| CCT5 | **CCT2** | 0.999 |
+| CLPB | **CCT2** | 0.516 |
+| CLPB | **CCT3** | 0.552 |
+| CLPB | **CCT4** | 0.576 |
+| CLPB | **TCP1** | 0.587 |
+| CLPB | **HSPA9** | 0.84 |
+| CLPB | **HSP90AB1** | 0.873 |
+| CLPB | **HSP90AA1** | 0.874 |
+| CLPB | **GRPEL2** | 0.91 |
+| CLPB | **HSPD1** | 0.931 |
+| CLPB | **HSPA4** | 0.941 |
+| CCT3 | **GRPEL2** | 0.587 |
+| CCT3 | **HSPA9** | 0.697 |
+| CCT3 | **HSPD1** | 0.755 |
+| CCT3 | **HSP90AA1** | 0.767 |
+| CCT3 | **HSPA4** | 0.837 |
+| CCT3 | **HSP90AB1** | 0.94 |
+| CCT3 | **CCT2** | 0.999 |
+| CCT3 | **CCT4** | 0.999 |
+| CCT3 | **TCP1** | 0.999 |
+| HSPA9 | **CCT4** | 0.731 |
+| HSPA9 | **CCT2** | 0.768 |
+| HSPA9 | **TCP1** | 0.812 |
+| HSPA9 | **HSP90AB1** | 0.955 |
+| HSPA9 | **HSPA4** | 0.955 |
+| HSPA9 | **HSP90AA1** | 0.958 |
+| HSPA9 | **GRPEL2** | 0.972 |
+| HSPA9 | **HSPD1** | 0.999 |
+| CCT2 | **GRPEL2** | 0.57 |
+| CCT2 | **HSPD1** | 0.668 |
+| CCT2 | **HSPA4** | 0.844 |
+| CCT2 | **HSP90AA1** | 0.876 |
+| CCT2 | **HSP90AB1** | 0.97 |
+| CCT2 | **TCP1** | 0.999 |
+| CCT2 | **CCT4** | 0.999 |
+| HSPA4 | **GRPEL2** | 0.658 |
+| HSPA4 | **CCT4** | 0.849 |
+| HSPA4 | **TCP1** | 0.888 |
+| HSPA4 | **HSPD1** | 0.924 |
+| HSPA4 | **HSP90AB1** | 0.999 |
+| HSPA4 | **HSP90AA1** | 0.999 |
+| TCP1 | **GRPEL2** | 0.564 |
+| TCP1 | **HSP90AA1** | 0.906 |
+| TCP1 | **HSP90AB1** | 0.956 |
+| TCP1 | **HSPD1** | 0.958 |
+| TCP1 | **CCT4** | 0.999 |
+| GRPEL2 | **HSP90AB1** | 0.528 |
+| GRPEL2 | **HSP90AA1** | 0.546 |
+| GRPEL2 | **CCT4** | 0.588 |
+| GRPEL2 | **HSPD1** | 0.85 |
+| HSP90AA1 | **CCT4** | 0.783 |
+| HSP90AA1 | **HSPD1** | 0.963 |
+| HSP90AA1 | **HSP90AB1** | 0.997 |
+| HSPD1 | **CCT4** | 0.623 |
+| HSPD1 | **HSP90AB1** | 0.97 |
+| HSP90AB1 | **CCT4** | 0.946 |
+

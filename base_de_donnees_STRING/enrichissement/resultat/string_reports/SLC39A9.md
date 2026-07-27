@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SLC39A9
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SLC39A9
+Identifiant STRING officiel : `9606.ENSP00000336887`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SLC30A4 | **SLC30A5** | 0.511 |
+| SLC30A4 | **SLC30A7** | 0.515 |
+| SLC30A4 | **SLC30A1** | 0.636 |
+| SLC30A4 | **SLC39A5** | 0.727 |
+| SLC30A4 | **SLC39A8** | 0.729 |
+| SLC30A4 | **SLC39A9** | 0.74 |
+| SLC30A4 | **SLC39A11** | 0.742 |
+| SLC30A4 | **SLC39A14** | 0.749 |
+| SLC30A4 | **SLC39A6** | 0.764 |
+| SLC30A4 | **SLC39A10** | 0.764 |
+| SLC30A4 | **SLC39A7** | 0.765 |
+| SLC30A4 | **SLC39A13** | 0.774 |
+| SLC30A4 | **SLC30A9** | 0.834 |
+| SLC30A4 | **SLC39A1** | 0.872 |
+| SLC30A4 | **SLC30A6** | 0.891 |
+| SLC30A9 | **SLC39A8** | 0.667 |
+| SLC30A9 | **SLC39A5** | 0.698 |
+| SLC30A9 | **SLC39A14** | 0.714 |
+| SLC30A9 | **SLC39A13** | 0.726 |
+| SLC30A9 | **SLC39A1** | 0.74 |
+| SLC30A9 | **SLC39A6** | 0.74 |
+| SLC30A9 | **SLC39A10** | 0.74 |
+| SLC30A9 | **SLC39A7** | 0.804 |
+| SLC30A9 | **SLC39A9** | 0.807 |
+| SLC30A9 | **SLC39A11** | 0.809 |
+| SLC30A9 | **SLC30A1** | 0.829 |
+| SLC30A9 | **SLC30A7** | 0.849 |
+| SLC30A9 | **SLC30A6** | 0.862 |
+| SLC30A9 | **SLC30A5** | 0.868 |
+| SLC39A5 | **SLC39A7** | 0.437 |
+| SLC39A5 | **SLC39A6** | 0.459 |
+| SLC39A5 | **SLC39A13** | 0.463 |
+| SLC39A5 | **SLC30A6** | 0.764 |
+| SLC39A5 | **SLC30A7** | 0.768 |
+| SLC39A5 | **SLC39A1** | 0.772 |
+| SLC39A5 | **SLC39A11** | 0.772 |
+| SLC39A5 | **SLC30A5** | 0.773 |
+| SLC39A5 | **SLC39A9** | 0.774 |
+| SLC39A5 | **SLC30A1** | 0.776 |
+| SLC39A6 | **SLC39A7** | 0.446 |
+| SLC39A6 | **SLC39A13** | 0.522 |
+| SLC39A6 | **SLC39A10** | 0.703 |
+| SLC39A6 | **SLC30A7** | 0.756 |
+| SLC39A6 | **SLC30A6** | 0.775 |
+| SLC39A6 | **SLC39A11** | 0.775 |
+| SLC39A6 | **SLC30A5** | 0.813 |
+| SLC39A6 | **SLC30A1** | 0.816 |
+| SLC39A6 | **SLC39A1** | 0.817 |
+| SLC39A6 | **SLC39A9** | 0.817 |
+| SLC39A9 | **SLC39A8** | 0.759 |
+| SLC39A9 | **SLC30A1** | 0.761 |
+| SLC39A9 | **SLC39A14** | 0.779 |
+| SLC39A9 | **SLC30A6** | 0.814 |
+| SLC39A9 | **SLC39A10** | 0.815 |
+| SLC39A9 | **SLC39A1** | 0.815 |
+| SLC39A9 | **SLC30A5** | 0.827 |
+| SLC39A9 | **SLC39A13** | 0.845 |
+| SLC39A9 | **SLC30A7** | 0.857 |
+| SLC39A9 | **SLC39A7** | 0.857 |
+| SLC39A9 | **SLC39A11** | 0.864 |
+| SLC30A7 | **SLC30A6** | 0.502 |
+| SLC30A7 | **SLC30A1** | 0.516 |
+| SLC30A7 | **SLC39A8** | 0.748 |
+| SLC30A7 | **SLC39A10** | 0.754 |
+| SLC30A7 | **SLC39A14** | 0.775 |
+| SLC30A7 | **SLC39A13** | 0.785 |
+| SLC30A7 | **SLC39A1** | 0.801 |
+| SLC30A7 | **SLC39A11** | 0.807 |
+| SLC30A7 | **SLC39A7** | 0.864 |
+| SLC39A13 | **SLC39A10** | 0.446 |
+| SLC39A13 | **SLC39A14** | 0.454 |
+| SLC39A13 | **SLC39A8** | 0.468 |
+| SLC39A13 | **SLC30A1** | 0.743 |
+| SLC39A13 | **SLC30A6** | 0.77 |
+| SLC39A13 | **SLC39A1** | 0.798 |
+| SLC39A13 | **SLC30A5** | 0.804 |
+| SLC39A13 | **SLC39A11** | 0.805 |
+| SLC30A1 | **SLC30A5** | 0.593 |
+| SLC30A1 | **SLC39A11** | 0.749 |
+| SLC30A1 | **SLC39A8** | 0.77 |
+| SLC30A1 | **SLC39A14** | 0.777 |
+| SLC30A1 | **SLC39A7** | 0.807 |
+| SLC30A1 | **SLC39A10** | 0.82 |
+| SLC30A1 | **SLC39A1** | 0.898 |
+| SLC30A1 | **SLC30A6** | 0.959 |
+| SLC39A1 | **SLC39A8** | 0.754 |
+| SLC39A1 | **SLC30A6** | 0.767 |
+| SLC39A1 | **SLC30A5** | 0.81 |
+| SLC39A1 | **SLC39A10** | 0.814 |
+| SLC39A1 | **SLC39A11** | 0.816 |
+| SLC39A1 | **SLC39A14** | 0.819 |
+| SLC39A1 | **SLC39A7** | 0.848 |
+| SLC39A7 | **SLC39A10** | 0.404 |
+| SLC39A7 | **SLC39A14** | 0.445 |
+| SLC39A7 | **SLC39A8** | 0.446 |
+| SLC39A7 | **SLC39A11** | 0.842 |
+| SLC39A7 | **SLC30A5** | 0.859 |
+| SLC39A7 | **SLC30A6** | 0.877 |
+| SLC30A6 | **SLC39A8** | 0.712 |
+| SLC30A6 | **SLC39A14** | 0.727 |
+| SLC30A6 | **SLC39A10** | 0.759 |
+| SLC30A6 | **SLC39A11** | 0.769 |
+| SLC30A6 | **SLC30A5** | 0.997 |
+| SLC39A14 | **SLC30A5** | 0.75 |
+| SLC39A14 | **SLC39A11** | 0.753 |
+| SLC39A14 | **SLC39A8** | 0.911 |
+| SLC39A8 | **SLC39A11** | 0.723 |
+| SLC39A8 | **SLC30A5** | 0.729 |
+| SLC30A5 | **SLC39A11** | 0.745 |
+| SLC30A5 | **SLC39A10** | 0.779 |
+| SLC39A10 | **SLC39A11** | 0.773 |
+

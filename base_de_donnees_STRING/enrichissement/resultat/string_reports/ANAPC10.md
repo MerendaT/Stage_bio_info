@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ANAPC10
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ANAPC10
+Identifiant STRING officiel : `9606.ENSP00000478501`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCNB1 | **ANAPC11** | 0.797 |
+| CCNB1 | **ANAPC13** | 0.914 |
+| CCNB1 | **CDC26** | 0.925 |
+| CCNB1 | **ANAPC7** | 0.926 |
+| CCNB1 | **ANAPC1** | 0.933 |
+| CCNB1 | **ANAPC2** | 0.935 |
+| CCNB1 | **ANAPC5** | 0.936 |
+| CCNB1 | **CDC23** | 0.974 |
+| CCNB1 | **CDC16** | 0.975 |
+| CCNB1 | **MAD2L1** | 0.988 |
+| CCNB1 | **BUB1B** | 0.998 |
+| CCNB1 | **ANAPC4** | 0.999 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **CDC27** | 0.999 |
+| CCNB1 | **ANAPC10** | 0.999 |
+| ANAPC5 | **MAD2L1** | 0.95 |
+| ANAPC5 | **BUB1B** | 0.998 |
+| ANAPC5 | **ANAPC10** | 0.999 |
+| ANAPC5 | **ANAPC7** | 0.999 |
+| ANAPC5 | **ANAPC1** | 0.999 |
+| ANAPC5 | **CDC27** | 0.999 |
+| ANAPC5 | **ANAPC4** | 0.999 |
+| ANAPC5 | **CDC20** | 0.999 |
+| ANAPC5 | **ANAPC11** | 0.999 |
+| ANAPC5 | **ANAPC13** | 0.999 |
+| ANAPC5 | **CDC16** | 0.999 |
+| ANAPC5 | **CDC26** | 0.999 |
+| ANAPC5 | **ANAPC2** | 0.999 |
+| ANAPC5 | **CDC23** | 0.999 |
+| BUB1B | **ANAPC13** | 0.959 |
+| BUB1B | **ANAPC11** | 0.964 |
+| BUB1B | **CDC26** | 0.992 |
+| BUB1B | **ANAPC2** | 0.999 |
+| BUB1B | **CDC23** | 0.999 |
+| BUB1B | **ANAPC4** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **CDC16** | 0.999 |
+| BUB1B | **MAD2L1** | 0.999 |
+| BUB1B | **ANAPC7** | 0.999 |
+| BUB1B | **ANAPC10** | 0.999 |
+| BUB1B | **ANAPC1** | 0.999 |
+| BUB1B | **CDC27** | 0.999 |
+| MAD2L1 | **ANAPC11** | 0.669 |
+| MAD2L1 | **ANAPC13** | 0.932 |
+| MAD2L1 | **CDC26** | 0.96 |
+| MAD2L1 | **ANAPC2** | 0.969 |
+| MAD2L1 | **ANAPC7** | 0.978 |
+| MAD2L1 | **ANAPC1** | 0.991 |
+| MAD2L1 | **CDC23** | 0.993 |
+| MAD2L1 | **CDC16** | 0.998 |
+| MAD2L1 | **ANAPC4** | 0.999 |
+| MAD2L1 | **CDC20** | 0.999 |
+| MAD2L1 | **ANAPC10** | 0.999 |
+| MAD2L1 | **CDC27** | 0.999 |
+| ANAPC2 | **ANAPC13** | 0.998 |
+| ANAPC2 | **ANAPC11** | 0.999 |
+| ANAPC2 | **CDC16** | 0.999 |
+| ANAPC2 | **CDC20** | 0.999 |
+| ANAPC2 | **ANAPC4** | 0.999 |
+| ANAPC2 | **CDC23** | 0.999 |
+| ANAPC2 | **CDC26** | 0.999 |
+| ANAPC2 | **CDC27** | 0.999 |
+| ANAPC2 | **ANAPC1** | 0.999 |
+| ANAPC2 | **ANAPC10** | 0.999 |
+| ANAPC2 | **ANAPC7** | 0.999 |
+| ANAPC1 | **ANAPC10** | 0.999 |
+| ANAPC1 | **ANAPC7** | 0.999 |
+| ANAPC1 | **CDC27** | 0.999 |
+| ANAPC1 | **CDC26** | 0.999 |
+| ANAPC1 | **CDC23** | 0.999 |
+| ANAPC1 | **CDC20** | 0.999 |
+| ANAPC1 | **ANAPC4** | 0.999 |
+| ANAPC1 | **CDC16** | 0.999 |
+| ANAPC1 | **ANAPC11** | 0.999 |
+| ANAPC1 | **ANAPC13** | 0.999 |
+| CDC16 | **CDC27** | 0.999 |
+| CDC16 | **ANAPC7** | 0.999 |
+| CDC16 | **ANAPC10** | 0.999 |
+| CDC16 | **ANAPC13** | 0.999 |
+| CDC16 | **ANAPC11** | 0.999 |
+| CDC16 | **CDC20** | 0.999 |
+| CDC16 | **ANAPC4** | 0.999 |
+| CDC16 | **CDC23** | 0.999 |
+| CDC16 | **CDC26** | 0.999 |
+| ANAPC11 | **ANAPC7** | 0.985 |
+| ANAPC11 | **ANAPC13** | 0.993 |
+| ANAPC11 | **CDC26** | 0.996 |
+| ANAPC11 | **ANAPC4** | 0.999 |
+| ANAPC11 | **CDC20** | 0.999 |
+| ANAPC11 | **ANAPC10** | 0.999 |
+| ANAPC11 | **CDC23** | 0.999 |
+| ANAPC11 | **CDC27** | 0.999 |
+| CDC20 | **ANAPC13** | 0.996 |
+| CDC20 | **CDC26** | 0.999 |
+| CDC20 | **CDC23** | 0.999 |
+| CDC20 | **ANAPC4** | 0.999 |
+| CDC20 | **ANAPC10** | 0.999 |
+| CDC20 | **ANAPC7** | 0.999 |
+| CDC20 | **CDC27** | 0.999 |
+| CDC26 | **ANAPC7** | 0.998 |
+| CDC26 | **ANAPC4** | 0.999 |
+| CDC26 | **ANAPC13** | 0.999 |
+| CDC26 | **ANAPC10** | 0.999 |
+| CDC26 | **CDC23** | 0.999 |
+| CDC26 | **CDC27** | 0.999 |
+| CDC23 | **ANAPC4** | 0.999 |
+| CDC23 | **ANAPC13** | 0.999 |
+| CDC23 | **ANAPC10** | 0.999 |
+| CDC23 | **ANAPC7** | 0.999 |
+| CDC23 | **CDC27** | 0.999 |
+| ANAPC7 | **ANAPC13** | 0.998 |
+| ANAPC7 | **ANAPC10** | 0.999 |
+| ANAPC7 | **CDC27** | 0.999 |
+| ANAPC7 | **ANAPC4** | 0.999 |
+| ANAPC13 | **ANAPC4** | 0.999 |
+| ANAPC13 | **CDC27** | 0.999 |
+| ANAPC13 | **ANAPC10** | 0.999 |
+| ANAPC4 | **CDC27** | 0.999 |
+| ANAPC4 | **ANAPC10** | 0.999 |
+| CDC27 | **ANAPC10** | 0.999 |
+

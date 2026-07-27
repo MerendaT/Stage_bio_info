@@ -1,0 +1,71 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "A6NCN2",
+      "uniProtkbId": "KR87P_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "KRT87P"
+          }
+        }
+      ],
+      "comments": [],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-ARBA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "23580065"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045095",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:keratin filament"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0001AE6B09"
+      }
+    }
+  ]
+}

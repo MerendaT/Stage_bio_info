@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PPAN
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PPAN
+Identifiant STRING officiel : `9606.ENSP00000253107`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PPAN | **GNL2** | 0.898 |
+| PPAN | **RPF2** | 0.9 |
+| PPAN | **MAK16** | 0.906 |
+| PPAN | **SURF6** | 0.909 |
+| PPAN | **RPF1** | 0.917 |
+| PPAN | **NOC2L** | 0.918 |
+| PPAN | **MRTO4** | 0.919 |
+| PPAN | **RRP1B** | 0.928 |
+| PPAN | **RRS1** | 0.931 |
+| PPAN | **EBNA1BP2** | 0.937 |
+| PPAN | **BOP1** | 0.941 |
+| PPAN | **WDR74** | 0.941 |
+| PPAN | **PES1** | 0.955 |
+| PPAN | **RRP15** | 0.966 |
+| PPAN | **P2RY11** | 0.982 |
+| NOC2L | **P2RY11** | 0.781 |
+| NOC2L | **SURF6** | 0.869 |
+| NOC2L | **RRP15** | 0.929 |
+| NOC2L | **GNL2** | 0.945 |
+| NOC2L | **RRP1B** | 0.968 |
+| NOC2L | **RRS1** | 0.977 |
+| NOC2L | **WDR74** | 0.98 |
+| NOC2L | **MAK16** | 0.99 |
+| NOC2L | **RPF1** | 0.993 |
+| NOC2L | **RPF2** | 0.996 |
+| NOC2L | **EBNA1BP2** | 0.998 |
+| NOC2L | **MRTO4** | 0.998 |
+| NOC2L | **BOP1** | 0.998 |
+| NOC2L | **PES1** | 0.999 |
+| RRS1 | **P2RY11** | 0.693 |
+| RRS1 | **WDR74** | 0.908 |
+| RRS1 | **SURF6** | 0.949 |
+| RRS1 | **RRP15** | 0.955 |
+| RRS1 | **MAK16** | 0.957 |
+| RRS1 | **RPF1** | 0.958 |
+| RRS1 | **BOP1** | 0.962 |
+| RRS1 | **RRP1B** | 0.973 |
+| RRS1 | **PES1** | 0.981 |
+| RRS1 | **GNL2** | 0.99 |
+| RRS1 | **MRTO4** | 0.992 |
+| RRS1 | **EBNA1BP2** | 0.996 |
+| RRS1 | **RPF2** | 0.999 |
+| P2RY11 | **GNL2** | 0.613 |
+| P2RY11 | **RRP1B** | 0.701 |
+| P2RY11 | **MRTO4** | 0.704 |
+| P2RY11 | **MAK16** | 0.746 |
+| P2RY11 | **RPF2** | 0.777 |
+| P2RY11 | **EBNA1BP2** | 0.791 |
+| P2RY11 | **WDR74** | 0.792 |
+| P2RY11 | **PES1** | 0.811 |
+| P2RY11 | **RPF1** | 0.827 |
+| P2RY11 | **SURF6** | 0.837 |
+| P2RY11 | **BOP1** | 0.845 |
+| P2RY11 | **RRP15** | 0.846 |
+| RRP1B | **GNL2** | 0.785 |
+| RRP1B | **SURF6** | 0.909 |
+| RRP1B | **RPF2** | 0.941 |
+| RRP1B | **RRP15** | 0.962 |
+| RRP1B | **MRTO4** | 0.979 |
+| RRP1B | **RPF1** | 0.984 |
+| RRP1B | **PES1** | 0.984 |
+| RRP1B | **MAK16** | 0.985 |
+| RRP1B | **WDR74** | 0.986 |
+| RRP1B | **BOP1** | 0.987 |
+| RRP1B | **EBNA1BP2** | 0.992 |
+| PES1 | **RRP15** | 0.897 |
+| PES1 | **SURF6** | 0.94 |
+| PES1 | **RPF1** | 0.993 |
+| PES1 | **MAK16** | 0.994 |
+| PES1 | **RPF2** | 0.995 |
+| PES1 | **GNL2** | 0.995 |
+| PES1 | **WDR74** | 0.997 |
+| PES1 | **MRTO4** | 0.999 |
+| PES1 | **BOP1** | 0.999 |
+| PES1 | **EBNA1BP2** | 0.999 |
+| MAK16 | **GNL2** | 0.945 |
+| MAK16 | **RRP15** | 0.972 |
+| MAK16 | **SURF6** | 0.974 |
+| MAK16 | **RPF2** | 0.98 |
+| MAK16 | **BOP1** | 0.989 |
+| MAK16 | **MRTO4** | 0.99 |
+| MAK16 | **WDR74** | 0.997 |
+| MAK16 | **RPF1** | 0.998 |
+| MAK16 | **EBNA1BP2** | 0.999 |
+| RRP15 | **GNL2** | 0.883 |
+| RRP15 | **BOP1** | 0.933 |
+| RRP15 | **MRTO4** | 0.958 |
+| RRP15 | **WDR74** | 0.968 |
+| RRP15 | **EBNA1BP2** | 0.977 |
+| RRP15 | **SURF6** | 0.982 |
+| RRP15 | **RPF2** | 0.985 |
+| RRP15 | **RPF1** | 0.989 |
+| RPF1 | **GNL2** | 0.832 |
+| RPF1 | **SURF6** | 0.974 |
+| RPF1 | **RPF2** | 0.984 |
+| RPF1 | **BOP1** | 0.992 |
+| RPF1 | **MRTO4** | 0.994 |
+| RPF1 | **WDR74** | 0.997 |
+| RPF1 | **EBNA1BP2** | 0.997 |
+| SURF6 | **BOP1** | 0.857 |
+| SURF6 | **MRTO4** | 0.874 |
+| SURF6 | **GNL2** | 0.896 |
+| SURF6 | **WDR74** | 0.948 |
+| SURF6 | **RPF2** | 0.956 |
+| SURF6 | **EBNA1BP2** | 0.991 |
+| GNL2 | **BOP1** | 0.966 |
+| GNL2 | **EBNA1BP2** | 0.972 |
+| GNL2 | **WDR74** | 0.976 |
+| GNL2 | **MRTO4** | 0.995 |
+| GNL2 | **RPF2** | 0.999 |
+| MRTO4 | **WDR74** | 0.997 |
+| MRTO4 | **BOP1** | 0.997 |
+| MRTO4 | **EBNA1BP2** | 0.998 |
+| MRTO4 | **RPF2** | 0.999 |
+| RPF2 | **WDR74** | 0.979 |
+| RPF2 | **BOP1** | 0.991 |
+| RPF2 | **EBNA1BP2** | 0.999 |
+| EBNA1BP2 | **BOP1** | 0.996 |
+| EBNA1BP2 | **WDR74** | 0.998 |
+| WDR74 | **BOP1** | 0.999 |
+

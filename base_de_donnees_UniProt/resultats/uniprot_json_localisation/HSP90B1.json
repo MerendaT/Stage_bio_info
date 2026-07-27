@@ -1,0 +1,979 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P14625",
+      "uniProtkbId": "ENPL_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "39509507"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:12028"
+              }
+            ],
+            "value": "HSP90B1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11584270"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "23572575"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "32272059"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "39509507"
+                }
+              ],
+              "value": "ATP-dependent chaperone involved in the processing of proteins in the endoplasmic reticulum, regulating their transport (PubMed:23572575, PubMed:39509507). Together with MESD, acts as a modulator of the Wnt pathway by promoting the folding of LRP6, a coreceptor of the canonical Wnt pathway (PubMed:23572575, PubMed:39509507). When associated with CNPY3, required for proper folding of Toll-like receptors (PubMed:11584270). Promotes folding and trafficking of TLR4 to the cell surface (PubMed:11584270). May participate in the unfolding of cytosolic leaderless cargos (lacking the secretion signal sequence) such as the interleukin 1/IL-1 to facilitate their translocation into the ERGIC (endoplasmic reticulum-Golgi intermediate compartment) and secretion; the translocation process is mediated by the cargo receptor TMED10 (PubMed:32272059)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12643545"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17081065"
+                  }
+                ],
+                "value": "Identified by mass spectrometry in melanosome fractions from stage I to stage IV"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "source": "PubMed",
+                    "id": "12475965"
+                  }
+                ],
+                "value": "Endoplasmic reticulum lumen",
+                "id": "SL-0096"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "P41148"
+                  }
+                ],
+                "value": "Sarcoplasmic reticulum lumen",
+                "id": "SL-0240"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "12643545"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "17081065"
+                  }
+                ],
+                "value": "Melanosome",
+                "id": "SL-0161"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9596688"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071682",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endocytic vesicle lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005783",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "17344063"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034663",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum chaperone complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005788",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10497210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005789",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:endoplasmic reticulum membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10497210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070062",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular exosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19199708"
+            },
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "20458337"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005925",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:focal adhesion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21423176"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042470",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:melanosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "19946888"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030496",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:midbody"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15166316"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005634",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "HDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007005",
+              "source": "PubMed",
+              "id": "21630459"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perinuclear region of cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10497210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032991",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:protein-containing complex"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23349634"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033018",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:sarcoplasmic reticulum lumen"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005790",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:smooth endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005524",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016887",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP hydrolysis activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0140662",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ATP-dependent protein folding chaperone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23572575"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005509",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:calcium ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10497210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050750",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:low-density lipoprotein particle receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15082773"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0044183",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein folding chaperone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11584270"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "39509507"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019903",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein phosphatase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19000834"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004864",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein phosphatase inhibitor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19000834"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003723",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:RNA binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11958450"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051082",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:unfolded protein binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031247",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:actin rod assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19000834"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071318",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to ATP"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "19000834"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0071287",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to manganese ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0036503",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ERAD pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "18264092"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "10497210"
+            },
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "15192333"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034123",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of toll-like receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "11584270"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030177",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23572575"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "39509507"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006457",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein folding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23572575"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034975",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein folding in endoplasmic reticulum"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22013210"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0072659",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein localization to plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "23572575"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0015031",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "15845869"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0034976",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to endoplasmic reticulum stress"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "22934019"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001666",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to hypoxia"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "15620698"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030970",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:retrograde protein transport, ER to cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:ParkinsonsUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "25660456"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051208",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:sequestering of calcium ion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "15192333"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000129FBA"
+      }
+    }
+  ]
+}

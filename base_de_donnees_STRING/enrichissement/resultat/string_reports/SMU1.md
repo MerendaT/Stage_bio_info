@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : SMU1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : SMU1
+Identifiant STRING officiel : `9606.ENSP00000380336`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNRPD3 | **IK** | 0.983 |
+| SNRPD3 | **WBP4** | 0.985 |
+| SNRPD3 | **PRPF38A** | 0.986 |
+| SNRPD3 | **SMU1** | 0.992 |
+| SNRPD3 | **MFAP1** | 0.997 |
+| SNRPD3 | **ZMAT2** | 0.997 |
+| SNRPD3 | **SF3B3** | 0.998 |
+| SNRPD3 | **SART1** | 0.998 |
+| SNRPD3 | **PRPF8** | 0.999 |
+| SNRPD3 | **LSM4** | 0.999 |
+| SNRPD3 | **LSM8** | 0.999 |
+| SNRPD3 | **EFTUD2** | 0.999 |
+| SNRPD3 | **SNRNP200** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **PRPF6** | 0.999 |
+| LSM8 | **IK** | 0.98 |
+| LSM8 | **MFAP1** | 0.982 |
+| LSM8 | **WBP4** | 0.982 |
+| LSM8 | **PRPF38A** | 0.983 |
+| LSM8 | **SF3B3** | 0.991 |
+| LSM8 | **SMU1** | 0.993 |
+| LSM8 | **ZMAT2** | 0.997 |
+| LSM8 | **EFTUD2** | 0.999 |
+| LSM8 | **LSM4** | 0.999 |
+| LSM8 | **PRPF8** | 0.999 |
+| LSM8 | **PRPF6** | 0.999 |
+| LSM8 | **SART1** | 0.999 |
+| LSM8 | **SNRNP200** | 0.999 |
+| LSM8 | **SNRPF** | 0.999 |
+| PRPF38A | **SNRPF** | 0.981 |
+| PRPF38A | **LSM4** | 0.984 |
+| PRPF38A | **SF3B3** | 0.986 |
+| PRPF38A | **IK** | 0.99 |
+| PRPF38A | **SNRNP200** | 0.991 |
+| PRPF38A | **EFTUD2** | 0.991 |
+| PRPF38A | **PRPF6** | 0.994 |
+| PRPF38A | **SART1** | 0.994 |
+| PRPF38A | **WBP4** | 0.994 |
+| PRPF38A | **SMU1** | 0.995 |
+| PRPF38A | **PRPF8** | 0.995 |
+| PRPF38A | **MFAP1** | 0.999 |
+| PRPF38A | **ZMAT2** | 0.999 |
+| PRPF6 | **WBP4** | 0.987 |
+| PRPF6 | **SMU1** | 0.99 |
+| PRPF6 | **IK** | 0.995 |
+| PRPF6 | **ZMAT2** | 0.996 |
+| PRPF6 | **SF3B3** | 0.999 |
+| PRPF6 | **SNRNP200** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **SART1** | 0.999 |
+| PRPF6 | **MFAP1** | 0.999 |
+| PRPF6 | **LSM4** | 0.999 |
+| PRPF6 | **PRPF8** | 0.999 |
+| PRPF6 | **EFTUD2** | 0.999 |
+| SNRPF | **IK** | 0.983 |
+| SNRPF | **WBP4** | 0.986 |
+| SNRPF | **SMU1** | 0.991 |
+| SNRPF | **MFAP1** | 0.991 |
+| SNRPF | **ZMAT2** | 0.994 |
+| SNRPF | **LSM4** | 0.998 |
+| SNRPF | **SART1** | 0.999 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **SF3B3** | 0.999 |
+| SNRPF | **EFTUD2** | 0.999 |
+| SNRPF | **PRPF8** | 0.999 |
+| MFAP1 | **LSM4** | 0.984 |
+| MFAP1 | **IK** | 0.995 |
+| MFAP1 | **WBP4** | 0.995 |
+| MFAP1 | **EFTUD2** | 0.999 |
+| MFAP1 | **PRPF8** | 0.999 |
+| MFAP1 | **ZMAT2** | 0.999 |
+| MFAP1 | **SMU1** | 0.999 |
+| MFAP1 | **SART1** | 0.999 |
+| MFAP1 | **SNRNP200** | 0.999 |
+| MFAP1 | **SF3B3** | 0.999 |
+| ZMAT2 | **IK** | 0.979 |
+| ZMAT2 | **SF3B3** | 0.993 |
+| ZMAT2 | **SMU1** | 0.996 |
+| ZMAT2 | **WBP4** | 0.996 |
+| ZMAT2 | **PRPF8** | 0.996 |
+| ZMAT2 | **EFTUD2** | 0.998 |
+| ZMAT2 | **LSM4** | 0.998 |
+| ZMAT2 | **SART1** | 0.999 |
+| ZMAT2 | **SNRNP200** | 0.999 |
+| SF3B3 | **WBP4** | 0.985 |
+| SF3B3 | **IK** | 0.989 |
+| SF3B3 | **LSM4** | 0.994 |
+| SF3B3 | **SMU1** | 0.994 |
+| SF3B3 | **EFTUD2** | 0.999 |
+| SF3B3 | **PRPF8** | 0.999 |
+| SF3B3 | **SART1** | 0.999 |
+| SF3B3 | **SNRNP200** | 0.999 |
+| SART1 | **IK** | 0.98 |
+| SART1 | **SMU1** | 0.991 |
+| SART1 | **WBP4** | 0.995 |
+| SART1 | **EFTUD2** | 0.999 |
+| SART1 | **PRPF8** | 0.999 |
+| SART1 | **LSM4** | 0.999 |
+| SART1 | **SNRNP200** | 0.999 |
+| SNRNP200 | **IK** | 0.982 |
+| SNRNP200 | **SMU1** | 0.995 |
+| SNRNP200 | **WBP4** | 0.998 |
+| SNRNP200 | **LSM4** | 0.999 |
+| SNRNP200 | **PRPF8** | 0.999 |
+| SNRNP200 | **EFTUD2** | 0.999 |
+| WBP4 | **IK** | 0.981 |
+| WBP4 | **PRPF8** | 0.982 |
+| WBP4 | **EFTUD2** | 0.986 |
+| WBP4 | **LSM4** | 0.989 |
+| WBP4 | **SMU1** | 0.991 |
+| SMU1 | **LSM4** | 0.991 |
+| SMU1 | **EFTUD2** | 0.991 |
+| SMU1 | **PRPF8** | 0.993 |
+| SMU1 | **IK** | 0.999 |
+| EFTUD2 | **IK** | 0.994 |
+| EFTUD2 | **LSM4** | 0.997 |
+| EFTUD2 | **PRPF8** | 0.999 |
+| IK | **LSM4** | 0.985 |
+| IK | **PRPF8** | 0.986 |
+| PRPF8 | **LSM4** | 0.997 |
+

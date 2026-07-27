@@ -1,0 +1,913 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O14944",
+      "uniProtkbId": "EREG_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "EREG"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9419975"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "source": "PubMed",
+                  "id": "24631357"
+                }
+              ],
+              "value": "Ligand of the EGF receptor/EGFR and ERBB4. Stimulates EGFR and ERBB4 tyrosine phosphorylation (PubMed:9419975). Contributes to inflammation, wound healing, tissue repair, and oocyte maturation by regulating angiogenesis and vascular remodeling and by stimulating cell proliferation (PubMed:24631357)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Epiregulin",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9337852"
+                  }
+                ],
+                "value": "Secreted, extracellular space",
+                "id": "SL-0112"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "molecule": "Proepiregulin",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9337852"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "9337852"
+                  }
+                ],
+                "value": "Single-pass type I membrane protein",
+                "id": "SL-9905"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0030669",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:clathrin-coated endocytic vesicle membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005576",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular region"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005615",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:extracellular space"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14581411"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9337852"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9337852"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005154",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:epidermal growth factor receptor binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008083",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:growth factor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048018",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:receptor ligand activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28783046"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9556621"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030297",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transmembrane receptor protein tyrosine kinase activator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28783046"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9556621"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009653",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:anatomical structure morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9337852"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001525",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:angiogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009887",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:animal organ morphogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "9337852"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007267",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell-cell signaling"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14581411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019221",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cytokine-mediated signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9419975"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007173",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:epidermal growth factor receptor signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "28783046"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9556621"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0038134",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ERBB2-EGFR signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9556621"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0038135",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ERBB2-ERBB4 signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9556621"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0038138",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ERBB4-ERBB4 signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9556621"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007143",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:female meiotic nuclear division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030216",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:keratinocyte differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10681561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043616",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:keratinocyte proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10681561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042700",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:luteinizing hormone signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0009299",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:mRNA transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10681561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008285",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045892",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of DNA-templated transcription"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14581411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0050680",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of epithelial cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10681561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051151",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of smooth muscle cell differentiation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14581411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001556",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:oocyte maturation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001550",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ovarian cumulus expansion"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030728",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ovulation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051781",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008284",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cell population proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10681561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0001819",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of cytokine production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10681561"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045740",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of DNA replication"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10681561"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9337852"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048146",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of fibroblast proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "12702554"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045089",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of innate immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0032755",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of interleukin-6 production"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045840",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of mitotic nuclear division"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9990076"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042327",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of phosphorylation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "10681561"
+            },
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "9419975"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045860",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of protein kinase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "14581411"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048661",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:positive regulation of smooth muscle cell proliferation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "PubMed",
+              "id": "9990076"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048160",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:primary follicle stage"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043434",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:response to peptide hormone"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042060",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:wound healing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "12898511"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000047266"
+      }
+    }
+  ]
+}

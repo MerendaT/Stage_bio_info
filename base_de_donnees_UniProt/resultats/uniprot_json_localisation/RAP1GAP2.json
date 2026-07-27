@@ -1,0 +1,223 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "Q684P5",
+      "uniProtkbId": "RPGP2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "RAP1GAP2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "15632203"
+                }
+              ],
+              "value": "GTPase activator for the nuclear Ras-related regulatory protein RAP-1A (KREV-1), converting it to the putatively inactive GDP-bound state"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15632203"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "15632203"
+                  }
+                ],
+                "value": "Cytoplasm, perinuclear region",
+                "id": "SL-0198"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0030424",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:axon"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005813",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:centrosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21399614"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048471",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:perinuclear region of cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-SubCell"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "24284068"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005096",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:GTPase activator activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "EXP:Reactome"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "16076873"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0002250",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:adaptive immune response"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008361",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of cell size"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:GO_Central"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "24284068"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0051056",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of small GTPase mediated signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:InterPro"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000D622A3"
+      }
+    }
+  ]
+}

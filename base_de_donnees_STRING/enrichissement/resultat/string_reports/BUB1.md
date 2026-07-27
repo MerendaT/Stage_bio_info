@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : BUB1
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BUB1
+Identifiant STRING officiel : `9606.ENSP00000302530`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCNB1 | **KNL1** | 0.789 |
+| CCNB1 | **MAD1L1** | 0.865 |
+| CCNB1 | **BUB3** | 0.88 |
+| CCNB1 | **TTK** | 0.936 |
+| CCNB1 | **AURKB** | 0.962 |
+| CCNB1 | **KIF2C** | 0.966 |
+| CCNB1 | **NUF2** | 0.967 |
+| CCNB1 | **NDC80** | 0.981 |
+| CCNB1 | **MAD2L1** | 0.988 |
+| CCNB1 | **BUB1** | 0.992 |
+| CCNB1 | **CCNB2** | 0.998 |
+| CCNB1 | **BUB1B** | 0.998 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **PLK1** | 0.999 |
+| CCNB1 | **CDK1** | 0.999 |
+| NDC80 | **CCNB2** | 0.875 |
+| NDC80 | **BUB3** | 0.899 |
+| NDC80 | **KIF2C** | 0.934 |
+| NDC80 | **PLK1** | 0.951 |
+| NDC80 | **CDK1** | 0.957 |
+| NDC80 | **CDC20** | 0.962 |
+| NDC80 | **MAD2L1** | 0.968 |
+| NDC80 | **AURKB** | 0.979 |
+| NDC80 | **TTK** | 0.992 |
+| NDC80 | **BUB1B** | 0.992 |
+| NDC80 | **KNL1** | 0.995 |
+| NDC80 | **BUB1** | 0.998 |
+| NDC80 | **NUF2** | 0.999 |
+| NUF2 | **BUB3** | 0.864 |
+| NUF2 | **PLK1** | 0.865 |
+| NUF2 | **CCNB2** | 0.932 |
+| NUF2 | **KIF2C** | 0.935 |
+| NUF2 | **AURKB** | 0.95 |
+| NUF2 | **CDK1** | 0.957 |
+| NUF2 | **CDC20** | 0.962 |
+| NUF2 | **BUB1B** | 0.98 |
+| NUF2 | **MAD2L1** | 0.981 |
+| NUF2 | **TTK** | 0.989 |
+| NUF2 | **KNL1** | 0.992 |
+| NUF2 | **BUB1** | 0.994 |
+| BUB1B | **KIF2C** | 0.991 |
+| BUB1B | **TTK** | 0.991 |
+| BUB1B | **MAD1L1** | 0.993 |
+| BUB1B | **CCNB2** | 0.993 |
+| BUB1B | **PLK1** | 0.999 |
+| BUB1B | **AURKB** | 0.999 |
+| BUB1B | **BUB1** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **MAD2L1** | 0.999 |
+| BUB1B | **BUB3** | 0.999 |
+| BUB1B | **KNL1** | 0.999 |
+| BUB1B | **CDK1** | 0.999 |
+| CCNB2 | **MAD1L1** | 0.751 |
+| CCNB2 | **BUB3** | 0.8 |
+| CCNB2 | **KNL1** | 0.829 |
+| CCNB2 | **TTK** | 0.96 |
+| CCNB2 | **MAD2L1** | 0.962 |
+| CCNB2 | **KIF2C** | 0.971 |
+| CCNB2 | **AURKB** | 0.99 |
+| CCNB2 | **PLK1** | 0.995 |
+| CCNB2 | **BUB1** | 0.998 |
+| CCNB2 | **CDK1** | 0.999 |
+| CCNB2 | **CDC20** | 0.999 |
+| MAD2L1 | **KNL1** | 0.815 |
+| MAD2L1 | **KIF2C** | 0.927 |
+| MAD2L1 | **AURKB** | 0.93 |
+| MAD2L1 | **PLK1** | 0.933 |
+| MAD2L1 | **CDK1** | 0.992 |
+| MAD2L1 | **TTK** | 0.995 |
+| MAD2L1 | **BUB1** | 0.999 |
+| MAD2L1 | **CDC20** | 0.999 |
+| MAD2L1 | **MAD1L1** | 0.999 |
+| MAD2L1 | **BUB3** | 0.999 |
+| PLK1 | **TTK** | 0.653 |
+| PLK1 | **KNL1** | 0.84 |
+| PLK1 | **MAD1L1** | 0.844 |
+| PLK1 | **BUB3** | 0.852 |
+| PLK1 | **AURKB** | 0.939 |
+| PLK1 | **CDK1** | 0.993 |
+| PLK1 | **KIF2C** | 0.994 |
+| PLK1 | **BUB1** | 0.996 |
+| PLK1 | **CDC20** | 0.999 |
+| BUB1 | **KIF2C** | 0.994 |
+| BUB1 | **AURKB** | 0.997 |
+| BUB1 | **MAD1L1** | 0.998 |
+| BUB1 | **CDK1** | 0.998 |
+| BUB1 | **TTK** | 0.999 |
+| BUB1 | **CDC20** | 0.999 |
+| BUB1 | **KNL1** | 0.999 |
+| BUB1 | **BUB3** | 0.999 |
+| AURKB | **MAD1L1** | 0.432 |
+| AURKB | **TTK** | 0.784 |
+| AURKB | **KNL1** | 0.916 |
+| AURKB | **BUB3** | 0.943 |
+| AURKB | **KIF2C** | 0.996 |
+| AURKB | **CDK1** | 0.997 |
+| AURKB | **CDC20** | 0.998 |
+| KNL1 | **KIF2C** | 0.717 |
+| KNL1 | **TTK** | 0.774 |
+| KNL1 | **CDK1** | 0.838 |
+| KNL1 | **CDC20** | 0.95 |
+| KNL1 | **BUB3** | 0.996 |
+| BUB3 | **KIF2C** | 0.762 |
+| BUB3 | **TTK** | 0.913 |
+| BUB3 | **CDK1** | 0.924 |
+| BUB3 | **MAD1L1** | 0.98 |
+| BUB3 | **CDC20** | 0.999 |
+| TTK | **CDK1** | 0.905 |
+| TTK | **KIF2C** | 0.955 |
+| TTK | **MAD1L1** | 0.987 |
+| TTK | **CDC20** | 0.99 |
+| KIF2C | **CDK1** | 0.972 |
+| KIF2C | **CDC20** | 0.995 |
+| CDC20 | **MAD1L1** | 0.999 |
+| CDC20 | **CDK1** | 0.999 |
+| CDK1 | **MAD1L1** | 0.715 |
+

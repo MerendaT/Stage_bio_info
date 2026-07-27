@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DDX39B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDX39B
+Identifiant STRING officiel : `9606.ENSP00000416269`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| FYTTD1 | **RBM8A** | 0.642 |
+| FYTTD1 | **THOC3** | 0.827 |
+| FYTTD1 | **THOC6** | 0.833 |
+| FYTTD1 | **MAGOH** | 0.841 |
+| FYTTD1 | **EIF4A3** | 0.852 |
+| FYTTD1 | **THOC7** | 0.887 |
+| FYTTD1 | **THOC2** | 0.909 |
+| FYTTD1 | **THOC1** | 0.925 |
+| FYTTD1 | **ALYREF** | 0.93 |
+| FYTTD1 | **THOC5** | 0.933 |
+| FYTTD1 | **POLDIP3** | 0.952 |
+| FYTTD1 | **CHTOP** | 0.958 |
+| FYTTD1 | **SARNP** | 0.987 |
+| FYTTD1 | **DDX39B** | 0.996 |
+| THOC2 | **U2AF2** | 0.639 |
+| THOC2 | **RBM8A** | 0.671 |
+| THOC2 | **MAGOH** | 0.709 |
+| THOC2 | **EIF4A3** | 0.819 |
+| THOC2 | **POLDIP3** | 0.846 |
+| THOC2 | **SARNP** | 0.984 |
+| THOC2 | **CHTOP** | 0.987 |
+| THOC2 | **THOC6** | 0.999 |
+| THOC2 | **THOC5** | 0.999 |
+| THOC2 | **THOC7** | 0.999 |
+| THOC2 | **THOC1** | 0.999 |
+| THOC2 | **DDX39B** | 0.999 |
+| THOC2 | **THOC3** | 0.999 |
+| THOC2 | **ALYREF** | 0.999 |
+| THOC1 | **MAGOH** | 0.615 |
+| THOC1 | **RBM8A** | 0.638 |
+| THOC1 | **EIF4A3** | 0.791 |
+| THOC1 | **POLDIP3** | 0.902 |
+| THOC1 | **CHTOP** | 0.988 |
+| THOC1 | **SARNP** | 0.995 |
+| THOC1 | **DDX39B** | 0.999 |
+| THOC1 | **THOC7** | 0.999 |
+| THOC1 | **ALYREF** | 0.999 |
+| THOC1 | **THOC3** | 0.999 |
+| THOC1 | **THOC6** | 0.999 |
+| THOC1 | **THOC5** | 0.999 |
+| THOC3 | **RBM8A** | 0.575 |
+| THOC3 | **EIF4A3** | 0.603 |
+| THOC3 | **MAGOH** | 0.611 |
+| THOC3 | **POLDIP3** | 0.786 |
+| THOC3 | **CHTOP** | 0.962 |
+| THOC3 | **SARNP** | 0.984 |
+| THOC3 | **THOC5** | 0.999 |
+| THOC3 | **ALYREF** | 0.999 |
+| THOC3 | **THOC7** | 0.999 |
+| THOC3 | **DDX39B** | 0.999 |
+| THOC3 | **THOC6** | 0.999 |
+| THOC7 | **MAGOH** | 0.613 |
+| THOC7 | **RBM8A** | 0.705 |
+| THOC7 | **EIF4A3** | 0.765 |
+| THOC7 | **POLDIP3** | 0.83 |
+| THOC7 | **CHTOP** | 0.982 |
+| THOC7 | **SARNP** | 0.99 |
+| THOC7 | **ALYREF** | 0.995 |
+| THOC7 | **THOC5** | 0.999 |
+| THOC7 | **THOC6** | 0.999 |
+| THOC7 | **DDX39B** | 0.999 |
+| U2AF2 | **THOC6** | 0.455 |
+| U2AF2 | **THOC5** | 0.465 |
+| U2AF2 | **CHTOP** | 0.586 |
+| U2AF2 | **RBM8A** | 0.637 |
+| U2AF2 | **POLDIP3** | 0.646 |
+| U2AF2 | **SARNP** | 0.707 |
+| U2AF2 | **MAGOH** | 0.743 |
+| U2AF2 | **EIF4A3** | 0.898 |
+| U2AF2 | **ALYREF** | 0.959 |
+| U2AF2 | **DDX39B** | 0.996 |
+| THOC6 | **MAGOH** | 0.558 |
+| THOC6 | **RBM8A** | 0.558 |
+| THOC6 | **EIF4A3** | 0.651 |
+| THOC6 | **POLDIP3** | 0.719 |
+| THOC6 | **CHTOP** | 0.953 |
+| THOC6 | **SARNP** | 0.976 |
+| THOC6 | **ALYREF** | 0.994 |
+| THOC6 | **THOC5** | 0.999 |
+| THOC6 | **DDX39B** | 0.999 |
+| SARNP | **RBM8A** | 0.64 |
+| SARNP | **EIF4A3** | 0.797 |
+| SARNP | **MAGOH** | 0.863 |
+| SARNP | **THOC5** | 0.986 |
+| SARNP | **POLDIP3** | 0.995 |
+| SARNP | **CHTOP** | 0.998 |
+| SARNP | **ALYREF** | 0.999 |
+| SARNP | **DDX39B** | 0.999 |
+| CHTOP | **RBM8A** | 0.731 |
+| CHTOP | **MAGOH** | 0.92 |
+| CHTOP | **EIF4A3** | 0.929 |
+| CHTOP | **POLDIP3** | 0.962 |
+| CHTOP | **ALYREF** | 0.992 |
+| CHTOP | **THOC5** | 0.992 |
+| CHTOP | **DDX39B** | 0.999 |
+| MAGOH | **THOC5** | 0.601 |
+| MAGOH | **POLDIP3** | 0.894 |
+| MAGOH | **DDX39B** | 0.983 |
+| MAGOH | **ALYREF** | 0.992 |
+| MAGOH | **RBM8A** | 0.999 |
+| MAGOH | **EIF4A3** | 0.999 |
+| POLDIP3 | **RBM8A** | 0.825 |
+| POLDIP3 | **THOC5** | 0.853 |
+| POLDIP3 | **ALYREF** | 0.929 |
+| POLDIP3 | **EIF4A3** | 0.977 |
+| POLDIP3 | **DDX39B** | 0.994 |
+| DDX39B | **RBM8A** | 0.998 |
+| DDX39B | **THOC5** | 0.999 |
+| DDX39B | **ALYREF** | 0.999 |
+| DDX39B | **EIF4A3** | 0.999 |
+| THOC5 | **RBM8A** | 0.58 |
+| THOC5 | **EIF4A3** | 0.848 |
+| THOC5 | **ALYREF** | 0.998 |
+| ALYREF | **RBM8A** | 0.984 |
+| ALYREF | **EIF4A3** | 0.999 |
+| RBM8A | **EIF4A3** | 0.999 |
+

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : TXNDC12
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TXNDC12
+Identifiant STRING officiel : `9606.ENSP00000360688`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GSTA3 | **GGT7** | 0.688 |
+| GSTA3 | **GSTM4** | 0.728 |
+| GSTA3 | **GGT6** | 0.74 |
+| GSTA3 | **MGST3** | 0.751 |
+| GSTA3 | **GSTA4** | 0.754 |
+| GSTA3 | **GPX8** | 0.782 |
+| GSTA3 | **GPX6** | 0.788 |
+| GSTA3 | **GPX5** | 0.792 |
+| GSTA3 | **GPX3** | 0.797 |
+| GSTA3 | **GPX2** | 0.797 |
+| GSTA3 | **GPX7** | 0.803 |
+| GSTA3 | **MGST1** | 0.88 |
+| GSTA3 | **TXNDC12** | 0.917 |
+| GSTA3 | **PRDX6** | 0.932 |
+| GSTA3 | **GSR** | 0.933 |
+| GSR | **TXNDC12** | 0.909 |
+| GSR | **GSTM4** | 0.923 |
+| GSR | **GGT6** | 0.924 |
+| GSR | **GGT7** | 0.925 |
+| GSR | **MGST3** | 0.929 |
+| GSR | **MGST1** | 0.936 |
+| GSR | **GSTA4** | 0.939 |
+| GSR | **PRDX6** | 0.964 |
+| GSR | **GPX3** | 0.996 |
+| GSR | **GPX8** | 0.997 |
+| GSR | **GPX6** | 0.997 |
+| GSR | **GPX2** | 0.997 |
+| GSR | **GPX7** | 0.997 |
+| GSR | **GPX5** | 0.998 |
+| GGT7 | **GSTA4** | 0.689 |
+| GGT7 | **GSTM4** | 0.709 |
+| GGT7 | **MGST1** | 0.724 |
+| GGT7 | **GPX6** | 0.736 |
+| GGT7 | **GPX8** | 0.737 |
+| GGT7 | **GPX5** | 0.737 |
+| GGT7 | **GPX3** | 0.737 |
+| GGT7 | **GPX7** | 0.746 |
+| GGT7 | **MGST3** | 0.747 |
+| GGT7 | **GPX2** | 0.764 |
+| GGT7 | **PRDX6** | 0.909 |
+| GGT7 | **TXNDC12** | 0.911 |
+| GGT7 | **GGT6** | 0.946 |
+| PRDX6 | **GGT6** | 0.909 |
+| PRDX6 | **MGST3** | 0.914 |
+| PRDX6 | **TXNDC12** | 0.918 |
+| PRDX6 | **GSTM4** | 0.92 |
+| PRDX6 | **GSTA4** | 0.923 |
+| PRDX6 | **MGST1** | 0.928 |
+| PRDX6 | **GPX6** | 0.966 |
+| PRDX6 | **GPX2** | 0.967 |
+| PRDX6 | **GPX5** | 0.967 |
+| PRDX6 | **GPX3** | 0.967 |
+| PRDX6 | **GPX7** | 0.97 |
+| PRDX6 | **GPX8** | 0.971 |
+| GPX6 | **MGST3** | 0.714 |
+| GPX6 | **GSTM4** | 0.733 |
+| GPX6 | **GGT6** | 0.74 |
+| GPX6 | **MGST1** | 0.764 |
+| GPX6 | **GSTA4** | 0.804 |
+| GPX6 | **GPX5** | 0.902 |
+| GPX6 | **GPX3** | 0.902 |
+| GPX6 | **TXNDC12** | 0.908 |
+| GPX6 | **GPX2** | 0.912 |
+| GPX6 | **GPX7** | 0.921 |
+| GPX6 | **GPX8** | 0.928 |
+| GPX7 | **GSTM4** | 0.729 |
+| GPX7 | **GGT6** | 0.741 |
+| GPX7 | **MGST1** | 0.764 |
+| GPX7 | **MGST3** | 0.766 |
+| GPX7 | **GSTA4** | 0.817 |
+| GPX7 | **TXNDC12** | 0.917 |
+| GPX7 | **GPX8** | 0.917 |
+| GPX7 | **GPX5** | 0.923 |
+| GPX7 | **GPX3** | 0.927 |
+| GPX7 | **GPX2** | 0.935 |
+| MGST3 | **GGT6** | 0.671 |
+| MGST3 | **GPX5** | 0.716 |
+| MGST3 | **GPX3** | 0.733 |
+| MGST3 | **GPX2** | 0.735 |
+| MGST3 | **GPX8** | 0.773 |
+| MGST3 | **GSTA4** | 0.795 |
+| MGST3 | **GSTM4** | 0.862 |
+| MGST3 | **TXNDC12** | 0.913 |
+| MGST3 | **MGST1** | 0.982 |
+| GSTM4 | **GGT6** | 0.685 |
+| GSTM4 | **GPX8** | 0.725 |
+| GSTM4 | **GPX5** | 0.737 |
+| GSTM4 | **GPX2** | 0.755 |
+| GSTM4 | **GPX3** | 0.757 |
+| GSTM4 | **MGST1** | 0.802 |
+| GSTM4 | **GSTA4** | 0.858 |
+| GSTM4 | **TXNDC12** | 0.912 |
+| GSTA4 | **GGT6** | 0.713 |
+| GSTA4 | **GPX5** | 0.804 |
+| GSTA4 | **GPX8** | 0.807 |
+| GSTA4 | **MGST1** | 0.809 |
+| GSTA4 | **GPX2** | 0.821 |
+| GSTA4 | **GPX3** | 0.831 |
+| GSTA4 | **TXNDC12** | 0.91 |
+| TXNDC12 | **MGST1** | 0.908 |
+| TXNDC12 | **GPX2** | 0.908 |
+| TXNDC12 | **GPX5** | 0.91 |
+| TXNDC12 | **GPX8** | 0.911 |
+| TXNDC12 | **GGT6** | 0.912 |
+| TXNDC12 | **GPX3** | 0.912 |
+| GGT6 | **MGST1** | 0.675 |
+| GGT6 | **GPX8** | 0.731 |
+| GGT6 | **GPX5** | 0.731 |
+| GGT6 | **GPX2** | 0.744 |
+| GGT6 | **GPX3** | 0.801 |
+| GPX3 | **MGST1** | 0.788 |
+| GPX3 | **GPX5** | 0.902 |
+| GPX3 | **GPX2** | 0.913 |
+| GPX3 | **GPX8** | 0.929 |
+| GPX2 | **MGST1** | 0.784 |
+| GPX2 | **GPX5** | 0.91 |
+| GPX2 | **GPX8** | 0.93 |
+| MGST1 | **GPX5** | 0.76 |
+| MGST1 | **GPX8** | 0.781 |
+| GPX5 | **GPX8** | 0.927 |
+

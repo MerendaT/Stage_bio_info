@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PWP2
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PWP2
+Identifiant STRING officiel : `9606.ENSP00000291576`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| UTP18 | **UTP20** | 0.997 |
+| UTP18 | **NOP58** | 0.998 |
+| UTP18 | **RRP9** | 0.998 |
+| UTP18 | **HEATR1** | 0.999 |
+| UTP18 | **UTP4** | 0.999 |
+| UTP18 | **WDR75** | 0.999 |
+| UTP18 | **UTP6** | 0.999 |
+| UTP18 | **BYSL** | 0.999 |
+| UTP18 | **TBL3** | 0.999 |
+| UTP18 | **WDR36** | 0.999 |
+| UTP18 | **PWP2** | 0.999 |
+| UTP18 | **WDR3** | 0.999 |
+| UTP18 | **MPHOSPH10** | 0.999 |
+| UTP18 | **NOL6** | 0.999 |
+| UTP18 | **WDR43** | 0.999 |
+| BYSL | **HEATR1** | 0.998 |
+| BYSL | **WDR75** | 0.998 |
+| BYSL | **NOP58** | 0.998 |
+| BYSL | **TBL3** | 0.998 |
+| BYSL | **UTP20** | 0.998 |
+| BYSL | **PWP2** | 0.998 |
+| BYSL | **WDR43** | 0.998 |
+| BYSL | **MPHOSPH10** | 0.998 |
+| BYSL | **UTP4** | 0.999 |
+| BYSL | **UTP6** | 0.999 |
+| BYSL | **WDR36** | 0.999 |
+| BYSL | **RRP9** | 0.999 |
+| BYSL | **WDR3** | 0.999 |
+| BYSL | **NOL6** | 0.999 |
+| RRP9 | **UTP20** | 0.998 |
+| RRP9 | **WDR3** | 0.998 |
+| RRP9 | **UTP6** | 0.999 |
+| RRP9 | **WDR75** | 0.999 |
+| RRP9 | **HEATR1** | 0.999 |
+| RRP9 | **UTP4** | 0.999 |
+| RRP9 | **NOP58** | 0.999 |
+| RRP9 | **PWP2** | 0.999 |
+| RRP9 | **TBL3** | 0.999 |
+| RRP9 | **WDR36** | 0.999 |
+| RRP9 | **NOL6** | 0.999 |
+| RRP9 | **WDR43** | 0.999 |
+| RRP9 | **MPHOSPH10** | 0.999 |
+| MPHOSPH10 | **UTP20** | 0.997 |
+| MPHOSPH10 | **NOP58** | 0.999 |
+| MPHOSPH10 | **HEATR1** | 0.999 |
+| MPHOSPH10 | **UTP4** | 0.999 |
+| MPHOSPH10 | **WDR75** | 0.999 |
+| MPHOSPH10 | **UTP6** | 0.999 |
+| MPHOSPH10 | **WDR3** | 0.999 |
+| MPHOSPH10 | **NOL6** | 0.999 |
+| MPHOSPH10 | **WDR43** | 0.999 |
+| MPHOSPH10 | **TBL3** | 0.999 |
+| MPHOSPH10 | **WDR36** | 0.999 |
+| MPHOSPH10 | **PWP2** | 0.999 |
+| UTP20 | **UTP6** | 0.998 |
+| UTP20 | **WDR43** | 0.998 |
+| UTP20 | **PWP2** | 0.998 |
+| UTP20 | **NOP58** | 0.999 |
+| UTP20 | **UTP4** | 0.999 |
+| UTP20 | **HEATR1** | 0.999 |
+| UTP20 | **WDR75** | 0.999 |
+| UTP20 | **WDR3** | 0.999 |
+| UTP20 | **NOL6** | 0.999 |
+| UTP20 | **WDR36** | 0.999 |
+| UTP20 | **TBL3** | 0.999 |
+| UTP6 | **NOP58** | 0.998 |
+| UTP6 | **WDR75** | 0.999 |
+| UTP6 | **UTP4** | 0.999 |
+| UTP6 | **HEATR1** | 0.999 |
+| UTP6 | **WDR3** | 0.999 |
+| UTP6 | **NOL6** | 0.999 |
+| UTP6 | **WDR43** | 0.999 |
+| UTP6 | **WDR36** | 0.999 |
+| UTP6 | **TBL3** | 0.999 |
+| UTP6 | **PWP2** | 0.999 |
+| NOP58 | **PWP2** | 0.998 |
+| NOP58 | **HEATR1** | 0.999 |
+| NOP58 | **UTP4** | 0.999 |
+| NOP58 | **WDR75** | 0.999 |
+| NOP58 | **TBL3** | 0.999 |
+| NOP58 | **WDR36** | 0.999 |
+| NOP58 | **WDR3** | 0.999 |
+| NOP58 | **WDR43** | 0.999 |
+| NOP58 | **NOL6** | 0.999 |
+| PWP2 | **WDR75** | 0.998 |
+| PWP2 | **HEATR1** | 0.999 |
+| PWP2 | **UTP4** | 0.999 |
+| PWP2 | **TBL3** | 0.999 |
+| PWP2 | **WDR36** | 0.999 |
+| PWP2 | **NOL6** | 0.999 |
+| PWP2 | **WDR43** | 0.999 |
+| PWP2 | **WDR3** | 0.999 |
+| NOL6 | **WDR75** | 0.999 |
+| NOL6 | **UTP4** | 0.999 |
+| NOL6 | **HEATR1** | 0.999 |
+| NOL6 | **WDR43** | 0.999 |
+| NOL6 | **WDR3** | 0.999 |
+| NOL6 | **WDR36** | 0.999 |
+| NOL6 | **TBL3** | 0.999 |
+| WDR3 | **WDR43** | 0.999 |
+| WDR3 | **TBL3** | 0.999 |
+| WDR3 | **WDR36** | 0.999 |
+| WDR3 | **WDR75** | 0.999 |
+| WDR3 | **HEATR1** | 0.999 |
+| WDR3 | **UTP4** | 0.999 |
+| WDR75 | **WDR36** | 0.999 |
+| WDR75 | **TBL3** | 0.999 |
+| WDR75 | **WDR43** | 0.999 |
+| WDR75 | **UTP4** | 0.999 |
+| WDR75 | **HEATR1** | 0.999 |
+| UTP4 | **HEATR1** | 0.999 |
+| UTP4 | **WDR36** | 0.999 |
+| UTP4 | **TBL3** | 0.999 |
+| UTP4 | **WDR43** | 0.999 |
+| HEATR1 | **WDR36** | 0.999 |
+| HEATR1 | **TBL3** | 0.999 |
+| HEATR1 | **WDR43** | 0.999 |
+| WDR43 | **WDR36** | 0.999 |
+| WDR43 | **TBL3** | 0.999 |
+| WDR36 | **TBL3** | 0.999 |
+

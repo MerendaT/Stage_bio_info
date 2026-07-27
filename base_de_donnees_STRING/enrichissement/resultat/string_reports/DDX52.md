@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DDX52
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDX52
+Identifiant STRING officiel : `9606.ENSP00000479504`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| KRR1 | **FTSJ3** | 0.773 |
+| KRR1 | **DDX49** | 0.917 |
+| KRR1 | **DDX47** | 0.959 |
+| KRR1 | **DDX52** | 0.992 |
+| KRR1 | **AATF** | 0.998 |
+| KRR1 | **NOL6** | 0.998 |
+| KRR1 | **PDCD11** | 0.999 |
+| KRR1 | **UTP11** | 0.999 |
+| KRR1 | **UTP20** | 0.999 |
+| KRR1 | **UTP3** | 0.999 |
+| KRR1 | **NOP14** | 0.999 |
+| KRR1 | **DCAF13** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| KRR1 | **BYSL** | 0.999 |
+| KRR1 | **NOC4L** | 0.999 |
+| BYSL | **DDX47** | 0.77 |
+| BYSL | **DDX52** | 0.933 |
+| BYSL | **FTSJ3** | 0.949 |
+| BYSL | **DDX49** | 0.975 |
+| BYSL | **PDCD11** | 0.998 |
+| BYSL | **UTP20** | 0.998 |
+| BYSL | **UTP11** | 0.998 |
+| BYSL | **AATF** | 0.998 |
+| BYSL | **DCAF13** | 0.999 |
+| BYSL | **WDR46** | 0.999 |
+| BYSL | **NOC4L** | 0.999 |
+| BYSL | **UTP3** | 0.999 |
+| BYSL | **NOP14** | 0.999 |
+| BYSL | **NOL6** | 0.999 |
+| DDX49 | **AATF** | 0.784 |
+| DDX49 | **DCAF13** | 0.878 |
+| DDX49 | **UTP20** | 0.885 |
+| DDX49 | **FTSJ3** | 0.896 |
+| DDX49 | **UTP11** | 0.898 |
+| DDX49 | **DDX47** | 0.915 |
+| DDX49 | **NOP14** | 0.921 |
+| DDX49 | **NOC4L** | 0.928 |
+| DDX49 | **PDCD11** | 0.944 |
+| DDX49 | **DDX52** | 0.948 |
+| DDX49 | **WDR46** | 0.962 |
+| DDX49 | **NOL6** | 0.988 |
+| DDX49 | **UTP3** | 0.995 |
+| UTP3 | **FTSJ3** | 0.906 |
+| UTP3 | **PDCD11** | 0.995 |
+| UTP3 | **DDX47** | 0.996 |
+| UTP3 | **DDX52** | 0.997 |
+| UTP3 | **AATF** | 0.997 |
+| UTP3 | **DCAF13** | 0.998 |
+| UTP3 | **UTP20** | 0.998 |
+| UTP3 | **NOC4L** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **NOL6** | 0.999 |
+| UTP3 | **NOP14** | 0.999 |
+| UTP3 | **UTP11** | 0.999 |
+| UTP20 | **FTSJ3** | 0.763 |
+| UTP20 | **DDX47** | 0.899 |
+| UTP20 | **DDX52** | 0.954 |
+| UTP20 | **AATF** | 0.995 |
+| UTP20 | **DCAF13** | 0.998 |
+| UTP20 | **UTP11** | 0.998 |
+| UTP20 | **WDR46** | 0.999 |
+| UTP20 | **NOC4L** | 0.999 |
+| UTP20 | **NOP14** | 0.999 |
+| UTP20 | **NOL6** | 0.999 |
+| UTP20 | **PDCD11** | 0.999 |
+| DCAF13 | **FTSJ3** | 0.907 |
+| DCAF13 | **DDX47** | 0.934 |
+| DCAF13 | **DDX52** | 0.946 |
+| DCAF13 | **PDCD11** | 0.994 |
+| DCAF13 | **NOL6** | 0.995 |
+| DCAF13 | **NOP14** | 0.997 |
+| DCAF13 | **UTP11** | 0.998 |
+| DCAF13 | **AATF** | 0.998 |
+| DCAF13 | **NOC4L** | 0.999 |
+| DCAF13 | **WDR46** | 0.999 |
+| NOL6 | **DDX47** | 0.805 |
+| NOL6 | **FTSJ3** | 0.923 |
+| NOL6 | **DDX52** | 0.992 |
+| NOL6 | **UTP11** | 0.993 |
+| NOL6 | **NOC4L** | 0.998 |
+| NOL6 | **AATF** | 0.998 |
+| NOL6 | **WDR46** | 0.999 |
+| NOL6 | **NOP14** | 0.999 |
+| NOL6 | **PDCD11** | 0.999 |
+| NOC4L | **FTSJ3** | 0.613 |
+| NOC4L | **DDX47** | 0.879 |
+| NOC4L | **DDX52** | 0.939 |
+| NOC4L | **AATF** | 0.994 |
+| NOC4L | **UTP11** | 0.998 |
+| NOC4L | **PDCD11** | 0.998 |
+| NOC4L | **NOP14** | 0.999 |
+| NOC4L | **WDR46** | 0.999 |
+| DDX47 | **UTP11** | 0.853 |
+| DDX47 | **AATF** | 0.868 |
+| DDX47 | **FTSJ3** | 0.921 |
+| DDX47 | **NOP14** | 0.929 |
+| DDX47 | **DDX52** | 0.954 |
+| DDX47 | **PDCD11** | 0.958 |
+| DDX47 | **WDR46** | 0.974 |
+| PDCD11 | **FTSJ3** | 0.975 |
+| PDCD11 | **AATF** | 0.989 |
+| PDCD11 | **UTP11** | 0.993 |
+| PDCD11 | **DDX52** | 0.995 |
+| PDCD11 | **NOP14** | 0.999 |
+| PDCD11 | **WDR46** | 0.999 |
+| UTP11 | **FTSJ3** | 0.76 |
+| UTP11 | **DDX52** | 0.936 |
+| UTP11 | **NOP14** | 0.998 |
+| UTP11 | **AATF** | 0.998 |
+| UTP11 | **WDR46** | 0.999 |
+| WDR46 | **FTSJ3** | 0.952 |
+| WDR46 | **DDX52** | 0.971 |
+| WDR46 | **AATF** | 0.998 |
+| WDR46 | **NOP14** | 0.999 |
+| FTSJ3 | **AATF** | 0.906 |
+| FTSJ3 | **DDX52** | 0.941 |
+| FTSJ3 | **NOP14** | 0.959 |
+| NOP14 | **DDX52** | 0.978 |
+| NOP14 | **AATF** | 0.997 |
+| AATF | **DDX52** | 0.972 |
+

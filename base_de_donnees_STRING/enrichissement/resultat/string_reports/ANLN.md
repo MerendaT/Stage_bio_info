@@ -1,0 +1,122 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ANLN
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ANLN
+Identifiant STRING officiel : `9606.ENSP00000265748`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| DLGAP5 | **DIAPH3** | 0.543 |
+| DLGAP5 | **INCENP** | 0.806 |
+| DLGAP5 | **ECT2** | 0.858 |
+| DLGAP5 | **ANLN** | 0.914 |
+| DLGAP5 | **RACGAP1** | 0.935 |
+| DLGAP5 | **KIF23** | 0.951 |
+| DLGAP5 | **NUF2** | 0.964 |
+| DLGAP5 | **KIF20A** | 0.97 |
+| DLGAP5 | **TPX2** | 0.978 |
+| DLGAP5 | **BUB1** | 0.986 |
+| DLGAP5 | **ASPM** | 0.994 |
+| DLGAP5 | **KIF11** | 0.997 |
+| DLGAP5 | **CEP55** | 0.999 |
+| KIF23 | **DIAPH3** | 0.65 |
+| KIF23 | **RHOA** | 0.714 |
+| KIF23 | **CIT** | 0.902 |
+| KIF23 | **TPX2** | 0.906 |
+| KIF23 | **NUF2** | 0.912 |
+| KIF23 | **KIF20A** | 0.958 |
+| KIF23 | **BUB1** | 0.958 |
+| KIF23 | **CEP55** | 0.975 |
+| KIF23 | **INCENP** | 0.977 |
+| KIF23 | **ASPM** | 0.987 |
+| KIF23 | **ANLN** | 0.989 |
+| KIF23 | **KIF11** | 0.994 |
+| KIF23 | **RACGAP1** | 0.999 |
+| KIF23 | **ECT2** | 0.999 |
+| KIF11 | **DIAPH3** | 0.525 |
+| KIF11 | **CIT** | 0.625 |
+| KIF11 | **ECT2** | 0.891 |
+| KIF11 | **INCENP** | 0.913 |
+| KIF11 | **ANLN** | 0.947 |
+| KIF11 | **TPX2** | 0.965 |
+| KIF11 | **NUF2** | 0.975 |
+| KIF11 | **RACGAP1** | 0.978 |
+| KIF11 | **KIF20A** | 0.98 |
+| KIF11 | **BUB1** | 0.985 |
+| KIF11 | **ASPM** | 0.989 |
+| KIF11 | **CEP55** | 0.997 |
+| ANLN | **INCENP** | 0.885 |
+| ANLN | **NUF2** | 0.897 |
+| ANLN | **CIT** | 0.898 |
+| ANLN | **ASPM** | 0.9 |
+| ANLN | **BUB1** | 0.917 |
+| ANLN | **TPX2** | 0.923 |
+| ANLN | **CEP55** | 0.93 |
+| ANLN | **KIF20A** | 0.949 |
+| ANLN | **DIAPH3** | 0.988 |
+| ANLN | **ECT2** | 0.994 |
+| ANLN | **RACGAP1** | 0.997 |
+| ANLN | **RHOA** | 0.999 |
+| NUF2 | **DIAPH3** | 0.459 |
+| NUF2 | **CIT** | 0.552 |
+| NUF2 | **INCENP** | 0.755 |
+| NUF2 | **RACGAP1** | 0.783 |
+| NUF2 | **ECT2** | 0.818 |
+| NUF2 | **CEP55** | 0.947 |
+| NUF2 | **TPX2** | 0.947 |
+| NUF2 | **KIF20A** | 0.955 |
+| NUF2 | **ASPM** | 0.98 |
+| NUF2 | **BUB1** | 0.994 |
+| TPX2 | **CIT** | 0.47 |
+| TPX2 | **DIAPH3** | 0.474 |
+| TPX2 | **INCENP** | 0.679 |
+| TPX2 | **ECT2** | 0.75 |
+| TPX2 | **RACGAP1** | 0.864 |
+| TPX2 | **CEP55** | 0.944 |
+| TPX2 | **ASPM** | 0.949 |
+| TPX2 | **BUB1** | 0.958 |
+| TPX2 | **KIF20A** | 0.972 |
+| BUB1 | **CIT** | 0.453 |
+| BUB1 | **DIAPH3** | 0.56 |
+| BUB1 | **RACGAP1** | 0.843 |
+| BUB1 | **INCENP** | 0.864 |
+| BUB1 | **CEP55** | 0.928 |
+| BUB1 | **ECT2** | 0.947 |
+| BUB1 | **KIF20A** | 0.959 |
+| BUB1 | **ASPM** | 0.976 |
+| ASPM | **INCENP** | 0.59 |
+| ASPM | **DIAPH3** | 0.766 |
+| ASPM | **RACGAP1** | 0.795 |
+| ASPM | **CIT** | 0.887 |
+| ASPM | **ECT2** | 0.924 |
+| ASPM | **CEP55** | 0.95 |
+| ASPM | **KIF20A** | 0.975 |
+| CEP55 | **CIT** | 0.424 |
+| CEP55 | **DIAPH3** | 0.504 |
+| CEP55 | **INCENP** | 0.506 |
+| CEP55 | **ECT2** | 0.913 |
+| CEP55 | **RACGAP1** | 0.958 |
+| CEP55 | **KIF20A** | 0.962 |
+| CIT | **DIAPH3** | 0.502 |
+| CIT | **ECT2** | 0.552 |
+| CIT | **RACGAP1** | 0.639 |
+| CIT | **INCENP** | 0.691 |
+| CIT | **RHOA** | 0.845 |
+| CIT | **KIF20A** | 0.943 |
+| ECT2 | **DIAPH3** | 0.693 |
+| ECT2 | **INCENP** | 0.743 |
+| ECT2 | **KIF20A** | 0.922 |
+| ECT2 | **RHOA** | 0.966 |
+| ECT2 | **RACGAP1** | 0.999 |
+| INCENP | **RACGAP1** | 0.92 |
+| INCENP | **KIF20A** | 0.995 |
+| KIF20A | **DIAPH3** | 0.587 |
+| KIF20A | **RACGAP1** | 0.997 |
+| DIAPH3 | **RACGAP1** | 0.588 |
+| DIAPH3 | **RHOA** | 0.965 |
+| RHOA | **RACGAP1** | 0.979 |
+

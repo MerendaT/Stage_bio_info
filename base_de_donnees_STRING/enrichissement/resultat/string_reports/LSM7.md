@@ -1,0 +1,130 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : LSM7
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : LSM7
+Identifiant STRING officiel : `9606.ENSP00000252622`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SNRPD3 | **LSM1** | 0.709 |
+| SNRPD3 | **PRPF4** | 0.998 |
+| SNRPD3 | **SART1** | 0.998 |
+| SNRPD3 | **LSM6** | 0.999 |
+| SNRPD3 | **LSM7** | 0.999 |
+| SNRPD3 | **LSM5** | 0.999 |
+| SNRPD3 | **LSM4** | 0.999 |
+| SNRPD3 | **LSM8** | 0.999 |
+| SNRPD3 | **LSM2** | 0.999 |
+| SNRPD3 | **SNRPD2** | 0.999 |
+| SNRPD3 | **SNRNP200** | 0.999 |
+| SNRPD3 | **SNRPF** | 0.999 |
+| SNRPD3 | **LSM3** | 0.999 |
+| SNRPD3 | **SNRPE** | 0.999 |
+| SNRPD3 | **PRPF6** | 0.999 |
+| LSM8 | **LSM1** | 0.985 |
+| LSM8 | **LSM2** | 0.999 |
+| LSM8 | **SNRPD2** | 0.999 |
+| LSM8 | **LSM7** | 0.999 |
+| LSM8 | **LSM6** | 0.999 |
+| LSM8 | **LSM4** | 0.999 |
+| LSM8 | **LSM5** | 0.999 |
+| LSM8 | **PRPF6** | 0.999 |
+| LSM8 | **SNRPE** | 0.999 |
+| LSM8 | **SART1** | 0.999 |
+| LSM8 | **PRPF4** | 0.999 |
+| LSM8 | **SNRNP200** | 0.999 |
+| LSM8 | **SNRPF** | 0.999 |
+| LSM8 | **LSM3** | 0.999 |
+| LSM7 | **PRPF6** | 0.998 |
+| LSM7 | **SART1** | 0.999 |
+| LSM7 | **SNRPE** | 0.999 |
+| LSM7 | **LSM3** | 0.999 |
+| LSM7 | **SNRNP200** | 0.999 |
+| LSM7 | **SNRPF** | 0.999 |
+| LSM7 | **PRPF4** | 0.999 |
+| LSM7 | **SNRPD2** | 0.999 |
+| LSM7 | **LSM2** | 0.999 |
+| LSM7 | **LSM5** | 0.999 |
+| LSM7 | **LSM4** | 0.999 |
+| LSM7 | **LSM1** | 0.999 |
+| LSM7 | **LSM6** | 0.999 |
+| PRPF6 | **LSM3** | 0.997 |
+| PRPF6 | **LSM6** | 0.997 |
+| PRPF6 | **LSM2** | 0.998 |
+| PRPF6 | **SNRNP200** | 0.999 |
+| PRPF6 | **SNRPF** | 0.999 |
+| PRPF6 | **PRPF4** | 0.999 |
+| PRPF6 | **SNRPE** | 0.999 |
+| PRPF6 | **SART1** | 0.999 |
+| PRPF6 | **LSM4** | 0.999 |
+| PRPF6 | **LSM5** | 0.999 |
+| PRPF6 | **SNRPD2** | 0.999 |
+| SNRPF | **LSM1** | 0.845 |
+| SNRPF | **LSM4** | 0.998 |
+| SNRPF | **SNRPE** | 0.999 |
+| SNRPF | **SART1** | 0.999 |
+| SNRPF | **LSM3** | 0.999 |
+| SNRPF | **SNRNP200** | 0.999 |
+| SNRPF | **PRPF4** | 0.999 |
+| SNRPF | **LSM2** | 0.999 |
+| SNRPF | **SNRPD2** | 0.999 |
+| SNRPF | **LSM6** | 0.999 |
+| SNRPF | **LSM5** | 0.999 |
+| LSM6 | **LSM1** | 0.999 |
+| LSM6 | **LSM4** | 0.999 |
+| LSM6 | **LSM5** | 0.999 |
+| LSM6 | **LSM2** | 0.999 |
+| LSM6 | **SNRPD2** | 0.999 |
+| LSM6 | **LSM3** | 0.999 |
+| LSM6 | **SNRNP200** | 0.999 |
+| LSM6 | **PRPF4** | 0.999 |
+| LSM6 | **SNRPE** | 0.999 |
+| LSM6 | **SART1** | 0.999 |
+| LSM3 | **SART1** | 0.998 |
+| LSM3 | **PRPF4** | 0.998 |
+| LSM3 | **SNRNP200** | 0.998 |
+| LSM3 | **SNRPD2** | 0.999 |
+| LSM3 | **LSM2** | 0.999 |
+| LSM3 | **LSM5** | 0.999 |
+| LSM3 | **LSM4** | 0.999 |
+| LSM3 | **LSM1** | 0.999 |
+| LSM3 | **SNRPE** | 0.999 |
+| SART1 | **SNRPD2** | 0.999 |
+| SART1 | **LSM2** | 0.999 |
+| SART1 | **LSM5** | 0.999 |
+| SART1 | **LSM4** | 0.999 |
+| SART1 | **SNRPE** | 0.999 |
+| SART1 | **PRPF4** | 0.999 |
+| SART1 | **SNRNP200** | 0.999 |
+| LSM1 | **PRPF4** | 0.59 |
+| LSM1 | **SNRPE** | 0.885 |
+| LSM1 | **SNRPD2** | 0.96 |
+| LSM1 | **LSM5** | 0.999 |
+| LSM1 | **LSM4** | 0.999 |
+| LSM1 | **LSM2** | 0.999 |
+| SNRNP200 | **LSM4** | 0.999 |
+| SNRNP200 | **LSM5** | 0.999 |
+| SNRNP200 | **LSM2** | 0.999 |
+| SNRNP200 | **SNRPD2** | 0.999 |
+| SNRNP200 | **PRPF4** | 0.999 |
+| SNRNP200 | **SNRPE** | 0.999 |
+| SNRPD2 | **PRPF4** | 0.999 |
+| SNRPD2 | **SNRPE** | 0.999 |
+| SNRPD2 | **LSM5** | 0.999 |
+| SNRPD2 | **LSM4** | 0.999 |
+| SNRPD2 | **LSM2** | 0.999 |
+| PRPF4 | **SNRPE** | 0.999 |
+| PRPF4 | **LSM2** | 0.999 |
+| PRPF4 | **LSM5** | 0.999 |
+| PRPF4 | **LSM4** | 0.999 |
+| LSM2 | **LSM5** | 0.999 |
+| LSM2 | **LSM4** | 0.999 |
+| LSM2 | **SNRPE** | 0.999 |
+| SNRPE | **LSM5** | 0.999 |
+| SNRPE | **LSM4** | 0.999 |
+| LSM5 | **LSM4** | 0.999 |
+

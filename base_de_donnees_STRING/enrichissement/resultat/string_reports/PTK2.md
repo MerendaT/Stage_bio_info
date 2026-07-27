@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : PTK2
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PTK2
+Identifiant STRING officiel : `9606.ENSP00000341189`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| VCL | **PTEN** | 0.442 |
+| VCL | **FYN** | 0.444 |
+| VCL | **EGFR** | 0.587 |
+| VCL | **SHC1** | 0.663 |
+| VCL | **CRK** | 0.764 |
+| VCL | **GRB2** | 0.795 |
+| VCL | **ITGB1** | 0.966 |
+| VCL | **SRC** | 0.997 |
+| VCL | **PTK2** | 0.998 |
+| VCL | **TLN2** | 0.999 |
+| VCL | **TLN1** | 0.999 |
+| VCL | **PXN** | 0.999 |
+| VCL | **BCAR1** | 0.999 |
+| PXN | **SOS1** | 0.577 |
+| PXN | **PTEN** | 0.774 |
+| PXN | **EGFR** | 0.825 |
+| PXN | **SHC1** | 0.883 |
+| PXN | **FYN** | 0.903 |
+| PXN | **PTPN11** | 0.934 |
+| PXN | **GRB2** | 0.964 |
+| PXN | **ITGB1** | 0.987 |
+| PXN | **SRC** | 0.999 |
+| PXN | **PTK2** | 0.999 |
+| PXN | **TLN1** | 0.999 |
+| PXN | **TLN2** | 0.999 |
+| PXN | **BCAR1** | 0.999 |
+| PXN | **CRK** | 0.999 |
+| EGFR | **TLN1** | 0.488 |
+| EGFR | **BCAR1** | 0.825 |
+| EGFR | **FYN** | 0.873 |
+| EGFR | **ITGB1** | 0.966 |
+| EGFR | **PTEN** | 0.969 |
+| EGFR | **CRK** | 0.997 |
+| EGFR | **PTPN11** | 0.999 |
+| EGFR | **SHC1** | 0.999 |
+| EGFR | **SOS1** | 0.999 |
+| EGFR | **GRB2** | 0.999 |
+| EGFR | **SRC** | 0.999 |
+| EGFR | **PTK2** | 0.999 |
+| CRK | **TLN2** | 0.503 |
+| CRK | **PTPN11** | 0.725 |
+| CRK | **TLN1** | 0.741 |
+| CRK | **ITGB1** | 0.746 |
+| CRK | **FYN** | 0.938 |
+| CRK | **SOS1** | 0.952 |
+| CRK | **SHC1** | 0.966 |
+| CRK | **GRB2** | 0.98 |
+| CRK | **PTK2** | 0.997 |
+| CRK | **BCAR1** | 0.999 |
+| CRK | **SRC** | 0.999 |
+| TLN1 | **SOS1** | 0.581 |
+| TLN1 | **SHC1** | 0.684 |
+| TLN1 | **GRB2** | 0.712 |
+| TLN1 | **FYN** | 0.723 |
+| TLN1 | **TLN2** | 0.968 |
+| TLN1 | **BCAR1** | 0.998 |
+| TLN1 | **ITGB1** | 0.999 |
+| TLN1 | **SRC** | 0.999 |
+| TLN1 | **PTK2** | 0.999 |
+| PTK2 | **PTEN** | 0.995 |
+| PTK2 | **SHC1** | 0.995 |
+| PTK2 | **PTPN11** | 0.997 |
+| PTK2 | **ITGB1** | 0.997 |
+| PTK2 | **FYN** | 0.998 |
+| PTK2 | **BCAR1** | 0.999 |
+| PTK2 | **SOS1** | 0.999 |
+| PTK2 | **GRB2** | 0.999 |
+| PTK2 | **SRC** | 0.999 |
+| PTK2 | **TLN2** | 0.999 |
+| FYN | **TLN2** | 0.461 |
+| FYN | **PTEN** | 0.657 |
+| FYN | **SOS1** | 0.85 |
+| FYN | **ITGB1** | 0.923 |
+| FYN | **BCAR1** | 0.974 |
+| FYN | **GRB2** | 0.98 |
+| FYN | **PTPN11** | 0.988 |
+| FYN | **SHC1** | 0.995 |
+| FYN | **SRC** | 0.999 |
+| PTEN | **SOS1** | 0.502 |
+| PTEN | **BCAR1** | 0.546 |
+| PTEN | **SHC1** | 0.569 |
+| PTEN | **ITGB1** | 0.622 |
+| PTEN | **GRB2** | 0.665 |
+| PTEN | **PTPN11** | 0.745 |
+| PTEN | **SRC** | 0.837 |
+| SRC | **SOS1** | 0.962 |
+| SRC | **ITGB1** | 0.986 |
+| SRC | **PTPN11** | 0.998 |
+| SRC | **SHC1** | 0.999 |
+| SRC | **BCAR1** | 0.999 |
+| SRC | **GRB2** | 0.999 |
+| SRC | **TLN2** | 0.999 |
+| GRB2 | **TLN2** | 0.437 |
+| GRB2 | **BCAR1** | 0.982 |
+| GRB2 | **PTPN11** | 0.999 |
+| GRB2 | **SOS1** | 0.999 |
+| GRB2 | **SHC1** | 0.999 |
+| ITGB1 | **PTPN11** | 0.431 |
+| ITGB1 | **SHC1** | 0.757 |
+| ITGB1 | **BCAR1** | 0.914 |
+| ITGB1 | **TLN2** | 0.998 |
+| SOS1 | **SHC1** | 0.999 |
+| SOS1 | **PTPN11** | 0.999 |
+| BCAR1 | **PTPN11** | 0.602 |
+| BCAR1 | **SHC1** | 0.865 |
+| BCAR1 | **TLN2** | 0.996 |
+| SHC1 | **PTPN11** | 0.997 |
+

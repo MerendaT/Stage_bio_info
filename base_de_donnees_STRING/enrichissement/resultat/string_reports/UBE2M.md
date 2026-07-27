@@ -1,0 +1,120 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : UBE2M
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UBE2M
+Identifiant STRING officiel : `9606.ENSP00000253023`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| RBX1 | **UBA1** | 0.713 |
+| RBX1 | **DCUN1D2** | 0.777 |
+| RBX1 | **DCUN1D5** | 0.84 |
+| RBX1 | **NAE1** | 0.873 |
+| RBX1 | **DCUN1D3** | 0.902 |
+| RBX1 | **UBA3** | 0.949 |
+| RBX1 | **COPS5** | 0.983 |
+| RBX1 | **DCUN1D1** | 0.998 |
+| RBX1 | **CAND1** | 0.999 |
+| RBX1 | **CUL4A** | 0.999 |
+| RBX1 | **NEDD8** | 0.999 |
+| RBX1 | **UBE2M** | 0.999 |
+| RBX1 | **CUL3** | 0.999 |
+| RBX1 | **CUL1** | 0.999 |
+| NEDD8 | **UBA5** | 0.677 |
+| NEDD8 | **DCUN1D2** | 0.739 |
+| NEDD8 | **DCUN1D5** | 0.742 |
+| NEDD8 | **DCUN1D3** | 0.748 |
+| NEDD8 | **UBA1** | 0.947 |
+| NEDD8 | **CAND1** | 0.968 |
+| NEDD8 | **CUL3** | 0.994 |
+| NEDD8 | **CUL4A** | 0.995 |
+| NEDD8 | **DCUN1D1** | 0.996 |
+| NEDD8 | **COPS5** | 0.999 |
+| NEDD8 | **CUL1** | 0.999 |
+| NEDD8 | **NAE1** | 0.999 |
+| NEDD8 | **UBE2M** | 0.999 |
+| NEDD8 | **UBA3** | 0.999 |
+| UBE2M | **UBA5** | 0.923 |
+| UBE2M | **COPS5** | 0.942 |
+| UBE2M | **CUL4A** | 0.944 |
+| UBE2M | **DCUN1D5** | 0.945 |
+| UBE2M | **CAND1** | 0.946 |
+| UBE2M | **CUL3** | 0.958 |
+| UBE2M | **DCUN1D2** | 0.959 |
+| UBE2M | **DCUN1D3** | 0.966 |
+| UBE2M | **UBA1** | 0.99 |
+| UBE2M | **NAE1** | 0.999 |
+| UBE2M | **UBA3** | 0.999 |
+| UBE2M | **DCUN1D1** | 0.999 |
+| UBE2M | **CUL1** | 0.999 |
+| DCUN1D5 | **DCUN1D1** | 0.529 |
+| DCUN1D5 | **DCUN1D2** | 0.531 |
+| DCUN1D5 | **DCUN1D3** | 0.558 |
+| DCUN1D5 | **COPS5** | 0.608 |
+| DCUN1D5 | **NAE1** | 0.772 |
+| DCUN1D5 | **UBA3** | 0.808 |
+| DCUN1D5 | **CUL4A** | 0.816 |
+| DCUN1D5 | **CUL1** | 0.832 |
+| DCUN1D5 | **CAND1** | 0.853 |
+| DCUN1D5 | **CUL3** | 0.903 |
+| CUL3 | **UBA1** | 0.702 |
+| CUL3 | **NAE1** | 0.827 |
+| CUL3 | **UBA3** | 0.836 |
+| CUL3 | **DCUN1D3** | 0.912 |
+| CUL3 | **DCUN1D2** | 0.961 |
+| CUL3 | **CUL4A** | 0.968 |
+| CUL3 | **COPS5** | 0.977 |
+| CUL3 | **CUL1** | 0.978 |
+| CUL3 | **DCUN1D1** | 0.987 |
+| CUL3 | **CAND1** | 0.988 |
+| DCUN1D1 | **DCUN1D2** | 0.414 |
+| DCUN1D1 | **DCUN1D3** | 0.519 |
+| DCUN1D1 | **COPS5** | 0.759 |
+| DCUN1D1 | **NAE1** | 0.864 |
+| DCUN1D1 | **UBA3** | 0.893 |
+| DCUN1D1 | **CUL4A** | 0.957 |
+| DCUN1D1 | **CAND1** | 0.969 |
+| DCUN1D1 | **CUL1** | 0.999 |
+| DCUN1D3 | **COPS5** | 0.417 |
+| DCUN1D3 | **DCUN1D2** | 0.517 |
+| DCUN1D3 | **CUL4A** | 0.674 |
+| DCUN1D3 | **NAE1** | 0.708 |
+| DCUN1D3 | **UBA3** | 0.767 |
+| DCUN1D3 | **CAND1** | 0.888 |
+| DCUN1D3 | **CUL1** | 0.962 |
+| CUL1 | **UBA1** | 0.759 |
+| CUL1 | **DCUN1D2** | 0.865 |
+| CUL1 | **NAE1** | 0.923 |
+| CUL1 | **UBA3** | 0.962 |
+| CUL1 | **CUL4A** | 0.991 |
+| CUL1 | **COPS5** | 0.995 |
+| CUL1 | **CAND1** | 0.999 |
+| UBA1 | **CAND1** | 0.478 |
+| UBA1 | **CUL4A** | 0.505 |
+| UBA1 | **COPS5** | 0.578 |
+| UBA1 | **UBA5** | 0.696 |
+| UBA1 | **NAE1** | 0.794 |
+| UBA1 | **UBA3** | 0.851 |
+| UBA5 | **COPS5** | 0.426 |
+| UBA5 | **NAE1** | 0.675 |
+| UBA5 | **UBA3** | 0.903 |
+| COPS5 | **DCUN1D2** | 0.64 |
+| COPS5 | **NAE1** | 0.839 |
+| COPS5 | **CAND1** | 0.871 |
+| COPS5 | **UBA3** | 0.882 |
+| COPS5 | **CUL4A** | 0.985 |
+| NAE1 | **CAND1** | 0.649 |
+| NAE1 | **DCUN1D2** | 0.702 |
+| NAE1 | **CUL4A** | 0.867 |
+| NAE1 | **UBA3** | 0.999 |
+| UBA3 | **CAND1** | 0.644 |
+| UBA3 | **DCUN1D2** | 0.765 |
+| UBA3 | **CUL4A** | 0.853 |
+| CUL4A | **DCUN1D2** | 0.88 |
+| CUL4A | **CAND1** | 0.988 |
+| DCUN1D2 | **CAND1** | 0.752 |
+

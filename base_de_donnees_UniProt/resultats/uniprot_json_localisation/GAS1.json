@@ -1,0 +1,310 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P54826",
+      "uniProtkbId": "GAS1_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "8127893"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "source": "HGNC",
+                "id": "HGNC:4165"
+              }
+            ],
+            "value": "GAS1"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q01721"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "35231446"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8127893"
+                }
+              ],
+              "value": "Coreceptor required for sonic hedgehog (SHH) handoff to its receptor: binds to the dually lipid-modified Sonic hedgehog protein N-product (ShhN) downstream of the CDON-BOC heterodimer and directly transfers ShhN to its patched receptor (PTCH1 or PTCH2), followed by activation of the smoothened signaling pathway (PubMed:35231446). Specifically recognizes and binds palmitate and cholesterol moieties in dually lipid-modified ShhN (PubMed:35231446). Binds 20(S)-hydroxycholesterol (20(S)-OHC) (By similarity). Acts as a growth arrest protein involved in growth suppression by blocking entry to S phase (PubMed:8127893)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "8127893"
+                  }
+                ],
+                "value": "Cell membrane",
+                "id": "SL-0039"
+              },
+              "topology": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q01721"
+                  }
+                ],
+                "value": "Lipid-anchor, GPI-anchor",
+                "id": "SL-9902"
+              },
+              "orientation": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "Q01721"
+                  }
+                ],
+                "value": "Extracellular side",
+                "id": "SL-9911"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0016020",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "NAS:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "8127893"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005886",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:plasma membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8127893"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098552",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:side of membrane"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008142",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:oxysterol binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045165",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell fate commitment"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0035924",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cellular response to vascular endothelial growth factor stimulus"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000270",
+              "source": "PubMed",
+              "id": "15070677"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048589",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:developmental growth"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045930",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of mitotic cell cycle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "8127893"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0010955",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of protein processing"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21357679"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042981",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060628",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of ER to Golgi vesicle-mediated transport"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21357679"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008589",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of smoothened signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000140B67"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : DDX47
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : DDX47
+Identifiant STRING officiel : `9606.ENSP00000350698`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| ESF1 | **BOP1** | 0.422 |
+| ESF1 | **WDR12** | 0.557 |
+| ESF1 | **DHX37** | 0.593 |
+| ESF1 | **PES1** | 0.709 |
+| ESF1 | **FTSJ3** | 0.752 |
+| ESF1 | **DDX49** | 0.811 |
+| ESF1 | **DDX52** | 0.841 |
+| ESF1 | **DCAF13** | 0.853 |
+| ESF1 | **WDR46** | 0.879 |
+| ESF1 | **NOP14** | 0.918 |
+| ESF1 | **NGDN** | 0.921 |
+| ESF1 | **PDCD11** | 0.946 |
+| ESF1 | **KRR1** | 0.957 |
+| ESF1 | **DDX47** | 0.991 |
+| ESF1 | **UTP3** | 0.998 |
+| KRR1 | **FTSJ3** | 0.773 |
+| KRR1 | **BOP1** | 0.818 |
+| KRR1 | **WDR12** | 0.87 |
+| KRR1 | **PES1** | 0.894 |
+| KRR1 | **DDX49** | 0.917 |
+| KRR1 | **DHX37** | 0.943 |
+| KRR1 | **DDX47** | 0.959 |
+| KRR1 | **DDX52** | 0.992 |
+| KRR1 | **PDCD11** | 0.999 |
+| KRR1 | **UTP3** | 0.999 |
+| KRR1 | **NOP14** | 0.999 |
+| KRR1 | **DCAF13** | 0.999 |
+| KRR1 | **NGDN** | 0.999 |
+| KRR1 | **WDR46** | 0.999 |
+| DDX49 | **NGDN** | 0.847 |
+| DDX49 | **DCAF13** | 0.878 |
+| DDX49 | **FTSJ3** | 0.896 |
+| DDX49 | **WDR12** | 0.9 |
+| DDX49 | **BOP1** | 0.907 |
+| DDX49 | **DDX47** | 0.915 |
+| DDX49 | **PES1** | 0.915 |
+| DDX49 | **NOP14** | 0.921 |
+| DDX49 | **PDCD11** | 0.944 |
+| DDX49 | **DDX52** | 0.948 |
+| DDX49 | **WDR46** | 0.962 |
+| DDX49 | **DHX37** | 0.97 |
+| DDX49 | **UTP3** | 0.995 |
+| UTP3 | **WDR12** | 0.756 |
+| UTP3 | **BOP1** | 0.864 |
+| UTP3 | **FTSJ3** | 0.906 |
+| UTP3 | **PES1** | 0.924 |
+| UTP3 | **DHX37** | 0.987 |
+| UTP3 | **PDCD11** | 0.995 |
+| UTP3 | **DDX47** | 0.996 |
+| UTP3 | **DDX52** | 0.997 |
+| UTP3 | **DCAF13** | 0.998 |
+| UTP3 | **NGDN** | 0.999 |
+| UTP3 | **WDR46** | 0.999 |
+| UTP3 | **NOP14** | 0.999 |
+| WDR12 | **DHX37** | 0.67 |
+| WDR12 | **NGDN** | 0.71 |
+| WDR12 | **DCAF13** | 0.898 |
+| WDR12 | **PDCD11** | 0.91 |
+| WDR12 | **WDR46** | 0.921 |
+| WDR12 | **DDX52** | 0.933 |
+| WDR12 | **DDX47** | 0.94 |
+| WDR12 | **NOP14** | 0.944 |
+| WDR12 | **FTSJ3** | 0.996 |
+| WDR12 | **PES1** | 0.999 |
+| WDR12 | **BOP1** | 0.999 |
+| DCAF13 | **PES1** | 0.846 |
+| DCAF13 | **BOP1** | 0.854 |
+| DCAF13 | **FTSJ3** | 0.907 |
+| DCAF13 | **DDX47** | 0.934 |
+| DCAF13 | **DDX52** | 0.946 |
+| DCAF13 | **DHX37** | 0.971 |
+| DCAF13 | **PDCD11** | 0.994 |
+| DCAF13 | **NOP14** | 0.997 |
+| DCAF13 | **NGDN** | 0.998 |
+| DCAF13 | **WDR46** | 0.999 |
+| DHX37 | **FTSJ3** | 0.585 |
+| DHX37 | **NGDN** | 0.649 |
+| DHX37 | **PES1** | 0.714 |
+| DHX37 | **BOP1** | 0.721 |
+| DHX37 | **DDX52** | 0.923 |
+| DHX37 | **DDX47** | 0.939 |
+| DHX37 | **PDCD11** | 0.96 |
+| DHX37 | **NOP14** | 0.975 |
+| DHX37 | **WDR46** | 0.985 |
+| PES1 | **NGDN** | 0.715 |
+| PES1 | **DDX52** | 0.92 |
+| PES1 | **WDR46** | 0.923 |
+| PES1 | **DDX47** | 0.932 |
+| PES1 | **PDCD11** | 0.969 |
+| PES1 | **NOP14** | 0.978 |
+| PES1 | **FTSJ3** | 0.998 |
+| PES1 | **BOP1** | 0.999 |
+| DDX47 | **FTSJ3** | 0.921 |
+| DDX47 | **NOP14** | 0.929 |
+| DDX47 | **DDX52** | 0.954 |
+| DDX47 | **PDCD11** | 0.958 |
+| DDX47 | **BOP1** | 0.973 |
+| DDX47 | **WDR46** | 0.974 |
+| DDX47 | **NGDN** | 0.987 |
+| PDCD11 | **BOP1** | 0.97 |
+| PDCD11 | **FTSJ3** | 0.975 |
+| PDCD11 | **NGDN** | 0.988 |
+| PDCD11 | **DDX52** | 0.995 |
+| PDCD11 | **NOP14** | 0.999 |
+| PDCD11 | **WDR46** | 0.999 |
+| WDR46 | **FTSJ3** | 0.952 |
+| WDR46 | **BOP1** | 0.969 |
+| WDR46 | **DDX52** | 0.971 |
+| WDR46 | **NOP14** | 0.999 |
+| WDR46 | **NGDN** | 0.999 |
+| NGDN | **BOP1** | 0.63 |
+| NGDN | **FTSJ3** | 0.841 |
+| NGDN | **DDX52** | 0.883 |
+| NGDN | **NOP14** | 0.994 |
+| FTSJ3 | **DDX52** | 0.941 |
+| FTSJ3 | **NOP14** | 0.959 |
+| FTSJ3 | **BOP1** | 0.998 |
+| NOP14 | **BOP1** | 0.961 |
+| NOP14 | **DDX52** | 0.978 |
+| BOP1 | **DDX52** | 0.918 |
+

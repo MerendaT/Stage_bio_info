@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : WBP11
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : WBP11
+Identifiant STRING officiel : `9606.ENSP00000261167`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| SF3A2 | **PQBP1** | 0.659 |
+| SF3A2 | **DDX5** | 0.683 |
+| SF3A2 | **UBL5** | 0.806 |
+| SF3A2 | **CTNNBL1** | 0.925 |
+| SF3A2 | **WBP11** | 0.927 |
+| SF3A2 | **SRRM1** | 0.933 |
+| SF3A2 | **TCERG1** | 0.941 |
+| SF3A2 | **CWC15** | 0.971 |
+| SF3A2 | **WBP4** | 0.987 |
+| SF3A2 | **PRPF38A** | 0.988 |
+| SF3A2 | **LSM3** | 0.991 |
+| SF3A2 | **MFAP1** | 0.991 |
+| SF3A2 | **PLRG1** | 0.992 |
+| SF3A2 | **ZMAT2** | 0.995 |
+| SF3A2 | **CDC5L** | 0.998 |
+| DDX5 | **CDC5L** | 0.497 |
+| DDX5 | **WBP4** | 0.807 |
+| DDX5 | **ZMAT2** | 0.81 |
+| DDX5 | **UBL5** | 0.812 |
+| DDX5 | **PQBP1** | 0.812 |
+| DDX5 | **PRPF38A** | 0.826 |
+| DDX5 | **TCERG1** | 0.836 |
+| DDX5 | **MFAP1** | 0.851 |
+| DDX5 | **SRRM1** | 0.885 |
+| DDX5 | **WBP11** | 0.922 |
+| PRPF38A | **PQBP1** | 0.868 |
+| PRPF38A | **CTNNBL1** | 0.902 |
+| PRPF38A | **CWC15** | 0.926 |
+| PRPF38A | **CDC5L** | 0.935 |
+| PRPF38A | **WBP11** | 0.971 |
+| PRPF38A | **SRRM1** | 0.978 |
+| PRPF38A | **LSM3** | 0.981 |
+| PRPF38A | **PLRG1** | 0.989 |
+| PRPF38A | **UBL5** | 0.993 |
+| PRPF38A | **WBP4** | 0.994 |
+| PRPF38A | **TCERG1** | 0.995 |
+| PRPF38A | **MFAP1** | 0.999 |
+| PRPF38A | **ZMAT2** | 0.999 |
+| WBP11 | **LSM3** | 0.905 |
+| WBP11 | **CTNNBL1** | 0.927 |
+| WBP11 | **WBP4** | 0.935 |
+| WBP11 | **CWC15** | 0.963 |
+| WBP11 | **PLRG1** | 0.963 |
+| WBP11 | **ZMAT2** | 0.968 |
+| WBP11 | **TCERG1** | 0.971 |
+| WBP11 | **MFAP1** | 0.972 |
+| WBP11 | **UBL5** | 0.974 |
+| WBP11 | **CDC5L** | 0.974 |
+| WBP11 | **SRRM1** | 0.977 |
+| WBP11 | **PQBP1** | 0.994 |
+| MFAP1 | **CWC15** | 0.836 |
+| MFAP1 | **PQBP1** | 0.873 |
+| MFAP1 | **PLRG1** | 0.874 |
+| MFAP1 | **CTNNBL1** | 0.893 |
+| MFAP1 | **CDC5L** | 0.942 |
+| MFAP1 | **SRRM1** | 0.968 |
+| MFAP1 | **LSM3** | 0.983 |
+| MFAP1 | **UBL5** | 0.993 |
+| MFAP1 | **TCERG1** | 0.995 |
+| MFAP1 | **WBP4** | 0.995 |
+| MFAP1 | **ZMAT2** | 0.999 |
+| ZMAT2 | **PQBP1** | 0.882 |
+| ZMAT2 | **CTNNBL1** | 0.892 |
+| ZMAT2 | **CWC15** | 0.894 |
+| ZMAT2 | **CDC5L** | 0.908 |
+| ZMAT2 | **PLRG1** | 0.908 |
+| ZMAT2 | **SRRM1** | 0.959 |
+| ZMAT2 | **UBL5** | 0.975 |
+| ZMAT2 | **TCERG1** | 0.993 |
+| ZMAT2 | **WBP4** | 0.996 |
+| ZMAT2 | **LSM3** | 0.997 |
+| TCERG1 | **CTNNBL1** | 0.525 |
+| TCERG1 | **LSM3** | 0.811 |
+| TCERG1 | **PQBP1** | 0.831 |
+| TCERG1 | **WBP4** | 0.845 |
+| TCERG1 | **UBL5** | 0.958 |
+| TCERG1 | **PLRG1** | 0.98 |
+| TCERG1 | **CWC15** | 0.981 |
+| TCERG1 | **SRRM1** | 0.984 |
+| TCERG1 | **CDC5L** | 0.985 |
+| LSM3 | **CTNNBL1** | 0.477 |
+| LSM3 | **PQBP1** | 0.515 |
+| LSM3 | **SRRM1** | 0.807 |
+| LSM3 | **PLRG1** | 0.824 |
+| LSM3 | **CDC5L** | 0.825 |
+| LSM3 | **CWC15** | 0.892 |
+| LSM3 | **UBL5** | 0.927 |
+| LSM3 | **WBP4** | 0.98 |
+| SRRM1 | **WBP4** | 0.8 |
+| SRRM1 | **PQBP1** | 0.811 |
+| SRRM1 | **PLRG1** | 0.83 |
+| SRRM1 | **CTNNBL1** | 0.851 |
+| SRRM1 | **CWC15** | 0.907 |
+| SRRM1 | **CDC5L** | 0.945 |
+| SRRM1 | **UBL5** | 0.96 |
+| UBL5 | **CTNNBL1** | 0.882 |
+| UBL5 | **PLRG1** | 0.886 |
+| UBL5 | **PQBP1** | 0.89 |
+| UBL5 | **CDC5L** | 0.891 |
+| UBL5 | **CWC15** | 0.904 |
+| UBL5 | **WBP4** | 0.968 |
+| CTNNBL1 | **WBP4** | 0.411 |
+| CTNNBL1 | **PQBP1** | 0.85 |
+| CTNNBL1 | **PLRG1** | 0.996 |
+| CTNNBL1 | **CDC5L** | 0.999 |
+| CTNNBL1 | **CWC15** | 0.999 |
+| CDC5L | **WBP4** | 0.573 |
+| CDC5L | **PQBP1** | 0.839 |
+| CDC5L | **CWC15** | 0.999 |
+| CDC5L | **PLRG1** | 0.999 |
+| WBP4 | **PLRG1** | 0.433 |
+| WBP4 | **CWC15** | 0.54 |
+| WBP4 | **PQBP1** | 0.913 |
+| PLRG1 | **PQBP1** | 0.807 |
+| PLRG1 | **CWC15** | 0.999 |
+| CWC15 | **PQBP1** | 0.819 |
+

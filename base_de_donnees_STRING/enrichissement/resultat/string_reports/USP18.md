@@ -1,0 +1,129 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : USP18
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : USP18
+Identifiant STRING officiel : `9606.ENSP00000215794`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| USP18 | **RTP4** | 0.917 |
+| USP18 | **UBA7** | 0.921 |
+| USP18 | **OASL** | 0.926 |
+| USP18 | **MX2** | 0.931 |
+| USP18 | **IRF7** | 0.936 |
+| USP18 | **IFI44** | 0.939 |
+| USP18 | **DDX58** | 0.94 |
+| USP18 | **IFIT1** | 0.949 |
+| USP18 | **RSAD2** | 0.954 |
+| USP18 | **HERC5** | 0.956 |
+| USP18 | **STAT2** | 0.957 |
+| USP18 | **MX1** | 0.958 |
+| USP18 | **OAS1** | 0.96 |
+| USP18 | **ISG15** | 0.999 |
+| USP18 | **IFNAR2** | 0.999 |
+| OASL | **IFNAR2** | 0.426 |
+| OASL | **UBA7** | 0.482 |
+| OASL | **RTP4** | 0.799 |
+| OASL | **MX2** | 0.836 |
+| OASL | **STAT2** | 0.864 |
+| OASL | **OAS1** | 0.884 |
+| OASL | **IRF7** | 0.913 |
+| OASL | **HERC5** | 0.947 |
+| OASL | **IFI44** | 0.95 |
+| OASL | **MX1** | 0.955 |
+| OASL | **IFIT1** | 0.968 |
+| OASL | **RSAD2** | 0.977 |
+| OASL | **ISG15** | 0.987 |
+| OASL | **DDX58** | 0.999 |
+| RTP4 | **UBA7** | 0.468 |
+| RTP4 | **STAT2** | 0.618 |
+| RTP4 | **MX2** | 0.71 |
+| RTP4 | **HERC5** | 0.733 |
+| RTP4 | **IFIT1** | 0.791 |
+| RTP4 | **IRF7** | 0.813 |
+| RTP4 | **DDX58** | 0.82 |
+| RTP4 | **MX1** | 0.824 |
+| RTP4 | **OAS1** | 0.874 |
+| RTP4 | **ISG15** | 0.894 |
+| RTP4 | **RSAD2** | 0.927 |
+| RTP4 | **IFI44** | 0.932 |
+| HERC5 | **STAT2** | 0.722 |
+| HERC5 | **IRF7** | 0.75 |
+| HERC5 | **OAS1** | 0.85 |
+| HERC5 | **IFI44** | 0.914 |
+| HERC5 | **RSAD2** | 0.923 |
+| HERC5 | **MX2** | 0.93 |
+| HERC5 | **DDX58** | 0.96 |
+| HERC5 | **MX1** | 0.963 |
+| HERC5 | **IFIT1** | 0.963 |
+| HERC5 | **UBA7** | 0.973 |
+| HERC5 | **ISG15** | 0.998 |
+| STAT2 | **UBA7** | 0.536 |
+| STAT2 | **IFI44** | 0.717 |
+| STAT2 | **MX2** | 0.845 |
+| STAT2 | **RSAD2** | 0.863 |
+| STAT2 | **DDX58** | 0.875 |
+| STAT2 | **OAS1** | 0.88 |
+| STAT2 | **IFIT1** | 0.887 |
+| STAT2 | **MX1** | 0.939 |
+| STAT2 | **ISG15** | 0.96 |
+| STAT2 | **IRF7** | 0.975 |
+| STAT2 | **IFNAR2** | 0.997 |
+| UBA7 | **OAS1** | 0.407 |
+| UBA7 | **IFI44** | 0.411 |
+| UBA7 | **MX2** | 0.453 |
+| UBA7 | **IFIT1** | 0.468 |
+| UBA7 | **RSAD2** | 0.482 |
+| UBA7 | **IRF7** | 0.546 |
+| UBA7 | **MX1** | 0.608 |
+| UBA7 | **DDX58** | 0.758 |
+| UBA7 | **ISG15** | 0.999 |
+| MX2 | **IFNAR2** | 0.451 |
+| MX2 | **IFI44** | 0.872 |
+| MX2 | **IRF7** | 0.88 |
+| MX2 | **OAS1** | 0.918 |
+| MX2 | **IFIT1** | 0.961 |
+| MX2 | **RSAD2** | 0.963 |
+| MX2 | **DDX58** | 0.965 |
+| MX2 | **MX1** | 0.979 |
+| MX2 | **ISG15** | 0.979 |
+| IFNAR2 | **RSAD2** | 0.448 |
+| IFNAR2 | **IFIT1** | 0.567 |
+| IFNAR2 | **MX1** | 0.628 |
+| IFNAR2 | **DDX58** | 0.64 |
+| IFNAR2 | **ISG15** | 0.659 |
+| IFNAR2 | **IRF7** | 0.7 |
+| IFNAR2 | **OAS1** | 0.787 |
+| IFI44 | **DDX58** | 0.913 |
+| IFI44 | **IRF7** | 0.919 |
+| IFI44 | **OAS1** | 0.961 |
+| IFI44 | **ISG15** | 0.964 |
+| IFI44 | **MX1** | 0.967 |
+| IFI44 | **IFIT1** | 0.974 |
+| IFI44 | **RSAD2** | 0.983 |
+| IFIT1 | **IRF7** | 0.96 |
+| IFIT1 | **OAS1** | 0.96 |
+| IFIT1 | **RSAD2** | 0.97 |
+| IFIT1 | **MX1** | 0.989 |
+| IFIT1 | **ISG15** | 0.993 |
+| IFIT1 | **DDX58** | 0.995 |
+| DDX58 | **OAS1** | 0.944 |
+| DDX58 | **RSAD2** | 0.953 |
+| DDX58 | **MX1** | 0.971 |
+| DDX58 | **IRF7** | 0.99 |
+| DDX58 | **ISG15** | 0.999 |
+| RSAD2 | **IRF7** | 0.915 |
+| RSAD2 | **OAS1** | 0.967 |
+| RSAD2 | **ISG15** | 0.978 |
+| RSAD2 | **MX1** | 0.983 |
+| IRF7 | **MX1** | 0.945 |
+| IRF7 | **OAS1** | 0.959 |
+| IRF7 | **ISG15** | 0.973 |
+| MX1 | **OAS1** | 0.985 |
+| MX1 | **ISG15** | 0.994 |
+| OAS1 | **ISG15** | 0.983 |
+

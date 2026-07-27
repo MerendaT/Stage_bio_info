@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PXDN
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PXDN
+Identifiant STRING officiel : `9606.ENSP00000252804`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PXDN | **STAT3** | 0.824 |
+| PXDN | **IL6** | 0.825 |
+| PXDN | **EGF** | 0.831 |
+| PXDN | **BCL2** | 0.844 |
+| PXDN | **MAPK3** | 0.848 |
+| PXDN | **FN1** | 0.853 |
+| PXDN | **CCK** | 0.855 |
+| PXDN | **AKT1** | 0.876 |
+| PXDN | **ANXA5** | 0.888 |
+| PXDN | **CYCS** | 0.889 |
+| PXDN | **CASP3** | 0.918 |
+| PXDN | **GAPDH** | 0.924 |
+| PXDN | **ACTB** | 0.925 |
+| PXDN | **ALB** | 0.938 |
+| PXDN | **PXDNL** | 0.981 |
+| MAPK3 | **CCK** | 0.628 |
+| MAPK3 | **ANXA5** | 0.697 |
+| MAPK3 | **ALB** | 0.697 |
+| MAPK3 | **CYCS** | 0.788 |
+| MAPK3 | **FN1** | 0.829 |
+| MAPK3 | **GAPDH** | 0.832 |
+| MAPK3 | **EGF** | 0.841 |
+| MAPK3 | **ACTB** | 0.844 |
+| MAPK3 | **PXDNL** | 0.847 |
+| MAPK3 | **STAT3** | 0.87 |
+| MAPK3 | **IL6** | 0.905 |
+| MAPK3 | **AKT1** | 0.957 |
+| MAPK3 | **CASP3** | 0.985 |
+| MAPK3 | **BCL2** | 0.985 |
+| STAT3 | **CYCS** | 0.628 |
+| STAT3 | **ALB** | 0.694 |
+| STAT3 | **CCK** | 0.702 |
+| STAT3 | **ANXA5** | 0.73 |
+| STAT3 | **ACTB** | 0.798 |
+| STAT3 | **CASP3** | 0.804 |
+| STAT3 | **GAPDH** | 0.807 |
+| STAT3 | **PXDNL** | 0.824 |
+| STAT3 | **EGF** | 0.907 |
+| STAT3 | **BCL2** | 0.959 |
+| STAT3 | **AKT1** | 0.966 |
+| STAT3 | **IL6** | 0.984 |
+| STAT3 | **FN1** | 0.988 |
+| EGF | **CYCS** | 0.531 |
+| EGF | **ANXA5** | 0.659 |
+| EGF | **BCL2** | 0.684 |
+| EGF | **CCK** | 0.738 |
+| EGF | **ACTB** | 0.778 |
+| EGF | **GAPDH** | 0.783 |
+| EGF | **CASP3** | 0.801 |
+| EGF | **PXDNL** | 0.831 |
+| EGF | **ALB** | 0.889 |
+| EGF | **IL6** | 0.89 |
+| EGF | **AKT1** | 0.933 |
+| EGF | **FN1** | 0.96 |
+| ALB | **CCK** | 0.733 |
+| ALB | **BCL2** | 0.748 |
+| ALB | **ANXA5** | 0.786 |
+| ALB | **AKT1** | 0.795 |
+| ALB | **CASP3** | 0.815 |
+| ALB | **ACTB** | 0.886 |
+| ALB | **GAPDH** | 0.895 |
+| ALB | **IL6** | 0.926 |
+| ALB | **PXDNL** | 0.937 |
+| ALB | **CYCS** | 0.986 |
+| ALB | **FN1** | 0.998 |
+| ANXA5 | **FN1** | 0.597 |
+| ANXA5 | **IL6** | 0.75 |
+| ANXA5 | **AKT1** | 0.821 |
+| ANXA5 | **CYCS** | 0.841 |
+| ANXA5 | **PXDNL** | 0.888 |
+| ANXA5 | **CCK** | 0.891 |
+| ANXA5 | **BCL2** | 0.899 |
+| ANXA5 | **CASP3** | 0.921 |
+| ANXA5 | **GAPDH** | 0.943 |
+| ANXA5 | **ACTB** | 0.95 |
+| CYCS | **FN1** | 0.435 |
+| CYCS | **CCK** | 0.588 |
+| CYCS | **IL6** | 0.776 |
+| CYCS | **AKT1** | 0.812 |
+| CYCS | **ACTB** | 0.871 |
+| CYCS | **GAPDH** | 0.88 |
+| CYCS | **PXDNL** | 0.888 |
+| CYCS | **BCL2** | 0.997 |
+| CYCS | **CASP3** | 0.997 |
+| CASP3 | **FN1** | 0.612 |
+| CASP3 | **CCK** | 0.858 |
+| CASP3 | **IL6** | 0.881 |
+| CASP3 | **GAPDH** | 0.89 |
+| CASP3 | **PXDNL** | 0.918 |
+| CASP3 | **AKT1** | 0.945 |
+| CASP3 | **BCL2** | 0.987 |
+| CASP3 | **ACTB** | 0.989 |
+| FN1 | **CCK** | 0.546 |
+| FN1 | **PXDNL** | 0.732 |
+| FN1 | **BCL2** | 0.785 |
+| FN1 | **AKT1** | 0.846 |
+| FN1 | **ACTB** | 0.886 |
+| FN1 | **IL6** | 0.9 |
+| FN1 | **GAPDH** | 0.945 |
+| PXDNL | **IL6** | 0.821 |
+| PXDNL | **BCL2** | 0.844 |
+| PXDNL | **CCK** | 0.856 |
+| PXDNL | **AKT1** | 0.875 |
+| PXDNL | **GAPDH** | 0.924 |
+| PXDNL | **ACTB** | 0.924 |
+| CCK | **IL6** | 0.719 |
+| CCK | **AKT1** | 0.791 |
+| CCK | **ACTB** | 0.816 |
+| CCK | **BCL2** | 0.833 |
+| CCK | **GAPDH** | 0.881 |
+| GAPDH | **BCL2** | 0.876 |
+| GAPDH | **IL6** | 0.879 |
+| GAPDH | **AKT1** | 0.911 |
+| GAPDH | **ACTB** | 0.975 |
+| BCL2 | **IL6** | 0.868 |
+| BCL2 | **ACTB** | 0.885 |
+| BCL2 | **AKT1** | 0.993 |
+| IL6 | **ACTB** | 0.847 |
+| IL6 | **AKT1** | 0.872 |
+| AKT1 | **ACTB** | 0.923 |
+

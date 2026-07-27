@@ -1,0 +1,131 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : ARID4B
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ARID4B
+Identifiant STRING officiel : `9606.ENSP00000264183`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BRMS1L | **SAP18** | 0.722 |
+| BRMS1L | **SAP130** | 0.766 |
+| BRMS1L | **PHF12** | 0.877 |
+| BRMS1L | **SUDS3** | 0.906 |
+| BRMS1L | **HDAC2** | 0.926 |
+| BRMS1L | **SIN3B** | 0.947 |
+| BRMS1L | **ARID4B** | 0.951 |
+| BRMS1L | **SINHCAF** | 0.954 |
+| BRMS1L | **RBBP7** | 0.956 |
+| BRMS1L | **RBBP4** | 0.957 |
+| BRMS1L | **ING1** | 0.975 |
+| BRMS1L | **ING2** | 0.984 |
+| BRMS1L | **SIN3A** | 0.986 |
+| BRMS1L | **HDAC1** | 0.992 |
+| BRMS1L | **SAP30** | 0.995 |
+| ARID4B | **SINHCAF** | 0.945 |
+| ARID4B | **ING2** | 0.951 |
+| ARID4B | **SAP18** | 0.957 |
+| ARID4B | **SAP130** | 0.969 |
+| ARID4B | **RBBP7** | 0.97 |
+| ARID4B | **ING1** | 0.975 |
+| ARID4B | **PHF12** | 0.981 |
+| ARID4B | **RBBP4** | 0.987 |
+| ARID4B | **HDAC2** | 0.988 |
+| ARID4B | **HDAC1** | 0.99 |
+| ARID4B | **SIN3B** | 0.993 |
+| ARID4B | **SUDS3** | 0.997 |
+| ARID4B | **SAP30** | 0.997 |
+| ARID4B | **SIN3A** | 0.997 |
+| SAP30 | **PHF12** | 0.834 |
+| SAP30 | **SAP130** | 0.973 |
+| SAP30 | **SINHCAF** | 0.974 |
+| SAP30 | **ING1** | 0.986 |
+| SAP30 | **ING2** | 0.992 |
+| SAP30 | **HDAC2** | 0.999 |
+| SAP30 | **SAP18** | 0.999 |
+| SAP30 | **SUDS3** | 0.999 |
+| SAP30 | **SIN3B** | 0.999 |
+| SAP30 | **HDAC1** | 0.999 |
+| SAP30 | **RBBP4** | 0.999 |
+| SAP30 | **RBBP7** | 0.999 |
+| SAP30 | **SIN3A** | 0.999 |
+| ING2 | **ING1** | 0.725 |
+| ING2 | **SAP130** | 0.93 |
+| ING2 | **PHF12** | 0.932 |
+| ING2 | **RBBP4** | 0.943 |
+| ING2 | **SIN3B** | 0.952 |
+| ING2 | **RBBP7** | 0.953 |
+| ING2 | **SUDS3** | 0.972 |
+| ING2 | **HDAC2** | 0.988 |
+| ING2 | **SINHCAF** | 0.988 |
+| ING2 | **HDAC1** | 0.99 |
+| ING2 | **SIN3A** | 0.999 |
+| PHF12 | **SAP130** | 0.656 |
+| PHF12 | **ING1** | 0.776 |
+| PHF12 | **SINHCAF** | 0.908 |
+| PHF12 | **SUDS3** | 0.913 |
+| PHF12 | **RBBP4** | 0.944 |
+| PHF12 | **RBBP7** | 0.972 |
+| PHF12 | **HDAC2** | 0.985 |
+| PHF12 | **HDAC1** | 0.987 |
+| PHF12 | **SIN3B** | 0.996 |
+| PHF12 | **SIN3A** | 0.998 |
+| SINHCAF | **SAP18** | 0.567 |
+| SINHCAF | **SAP130** | 0.922 |
+| SINHCAF | **RBBP7** | 0.925 |
+| SINHCAF | **RBBP4** | 0.935 |
+| SINHCAF | **SIN3B** | 0.938 |
+| SINHCAF | **ING1** | 0.952 |
+| SINHCAF | **SUDS3** | 0.963 |
+| SINHCAF | **HDAC1** | 0.967 |
+| SINHCAF | **HDAC2** | 0.976 |
+| SINHCAF | **SIN3A** | 0.99 |
+| SAP130 | **RBBP4** | 0.704 |
+| SAP130 | **ING1** | 0.789 |
+| SAP130 | **SAP18** | 0.823 |
+| SAP130 | **HDAC2** | 0.85 |
+| SAP130 | **RBBP7** | 0.851 |
+| SAP130 | **HDAC1** | 0.922 |
+| SAP130 | **SIN3A** | 0.924 |
+| SAP130 | **SIN3B** | 0.925 |
+| SAP130 | **SUDS3** | 0.94 |
+| RBBP4 | **ING1** | 0.987 |
+| RBBP4 | **SIN3B** | 0.997 |
+| RBBP4 | **RBBP7** | 0.999 |
+| RBBP4 | **SIN3A** | 0.999 |
+| RBBP4 | **HDAC1** | 0.999 |
+| RBBP4 | **SUDS3** | 0.999 |
+| RBBP4 | **SAP18** | 0.999 |
+| RBBP4 | **HDAC2** | 0.999 |
+| HDAC1 | **ING1** | 0.997 |
+| HDAC1 | **SAP18** | 0.998 |
+| HDAC1 | **RBBP7** | 0.999 |
+| HDAC1 | **SIN3A** | 0.999 |
+| HDAC1 | **SIN3B** | 0.999 |
+| HDAC1 | **SUDS3** | 0.999 |
+| HDAC1 | **HDAC2** | 0.999 |
+| ING1 | **SAP18** | 0.656 |
+| ING1 | **SIN3B** | 0.926 |
+| ING1 | **RBBP7** | 0.972 |
+| ING1 | **HDAC2** | 0.985 |
+| ING1 | **SUDS3** | 0.99 |
+| ING1 | **SIN3A** | 0.995 |
+| SIN3B | **SAP18** | 0.985 |
+| SIN3B | **SIN3A** | 0.993 |
+| SIN3B | **RBBP7** | 0.998 |
+| SIN3B | **SUDS3** | 0.999 |
+| SIN3B | **HDAC2** | 0.999 |
+| RBBP7 | **SAP18** | 0.999 |
+| RBBP7 | **SUDS3** | 0.999 |
+| RBBP7 | **HDAC2** | 0.999 |
+| RBBP7 | **SIN3A** | 0.999 |
+| SIN3A | **SAP18** | 0.996 |
+| SIN3A | **HDAC2** | 0.999 |
+| SIN3A | **SUDS3** | 0.999 |
+| HDAC2 | **SAP18** | 0.997 |
+| HDAC2 | **SUDS3** | 0.999 |
+| SUDS3 | **SAP18** | 0.998 |
+

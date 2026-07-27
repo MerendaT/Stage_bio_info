@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : BCL2L1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : BCL2L1
+Identifiant STRING officiel : `9606.ENSP00000365230`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| BIK | **TP53** | 0.479 |
+| BIK | **BAD** | 0.486 |
+| BIK | **BID** | 0.535 |
+| BIK | **CYCS** | 0.583 |
+| BIK | **BNIP3** | 0.637 |
+| BIK | **BAX** | 0.747 |
+| BIK | **BAK1** | 0.799 |
+| BIK | **BBC3** | 0.811 |
+| BIK | **PMAIP1** | 0.93 |
+| BIK | **HRK** | 0.968 |
+| BIK | **BCL2L11** | 0.968 |
+| BIK | **BCL2L1** | 0.999 |
+| BIK | **BCL2** | 0.999 |
+| HRK | **TP53** | 0.445 |
+| HRK | **BAD** | 0.447 |
+| HRK | **BID** | 0.475 |
+| HRK | **BNIP3** | 0.479 |
+| HRK | **BAK1** | 0.527 |
+| HRK | **BBC3** | 0.636 |
+| HRK | **CYCS** | 0.646 |
+| HRK | **BCL2L11** | 0.805 |
+| HRK | **PMAIP1** | 0.883 |
+| HRK | **BCL2** | 0.997 |
+| HRK | **BCL2L1** | 0.999 |
+| TP53 | **BAD** | 0.477 |
+| TP53 | **BNIP3** | 0.582 |
+| TP53 | **VDAC1** | 0.772 |
+| TP53 | **BID** | 0.856 |
+| TP53 | **BCL2L11** | 0.867 |
+| TP53 | **CYCS** | 0.911 |
+| TP53 | **BECN1** | 0.939 |
+| TP53 | **BBC3** | 0.959 |
+| TP53 | **PMAIP1** | 0.97 |
+| TP53 | **BAX** | 0.994 |
+| TP53 | **BAK1** | 0.997 |
+| TP53 | **BCL2** | 0.999 |
+| TP53 | **BCL2L1** | 0.999 |
+| BAX | **BECN1** | 0.726 |
+| BAX | **BAD** | 0.863 |
+| BAX | **PMAIP1** | 0.903 |
+| BAX | **BBC3** | 0.951 |
+| BAX | **VDAC1** | 0.983 |
+| BAX | **CYCS** | 0.993 |
+| BAX | **BAK1** | 0.996 |
+| BAX | **BCL2L11** | 0.998 |
+| BAX | **BID** | 0.998 |
+| BAX | **BCL2** | 0.999 |
+| BAX | **BCL2L1** | 0.999 |
+| CYCS | **BAD** | 0.51 |
+| CYCS | **BBC3** | 0.62 |
+| CYCS | **BNIP3** | 0.647 |
+| CYCS | **BID** | 0.685 |
+| CYCS | **BECN1** | 0.778 |
+| CYCS | **PMAIP1** | 0.855 |
+| CYCS | **BCL2L11** | 0.899 |
+| CYCS | **BAK1** | 0.975 |
+| CYCS | **VDAC1** | 0.996 |
+| CYCS | **BCL2** | 0.997 |
+| CYCS | **BCL2L1** | 0.998 |
+| BID | **BAD** | 0.832 |
+| BID | **PMAIP1** | 0.958 |
+| BID | **BBC3** | 0.961 |
+| BID | **BCL2L11** | 0.982 |
+| BID | **BCL2** | 0.998 |
+| BID | **BAK1** | 0.999 |
+| BID | **BCL2L1** | 0.999 |
+| PMAIP1 | **BAD** | 0.479 |
+| PMAIP1 | **BNIP3** | 0.577 |
+| PMAIP1 | **BECN1** | 0.684 |
+| PMAIP1 | **BAK1** | 0.823 |
+| PMAIP1 | **BBC3** | 0.987 |
+| PMAIP1 | **BCL2L11** | 0.996 |
+| PMAIP1 | **BCL2L1** | 0.999 |
+| PMAIP1 | **BCL2** | 0.999 |
+| BECN1 | **BAD** | 0.456 |
+| BECN1 | **VDAC1** | 0.588 |
+| BECN1 | **BBC3** | 0.592 |
+| BECN1 | **BAK1** | 0.761 |
+| BECN1 | **BNIP3** | 0.953 |
+| BECN1 | **BCL2L11** | 0.987 |
+| BECN1 | **BCL2L1** | 0.999 |
+| BECN1 | **BCL2** | 0.999 |
+| BNIP3 | **BAK1** | 0.428 |
+| BNIP3 | **BCL2L11** | 0.573 |
+| BNIP3 | **VDAC1** | 0.924 |
+| BNIP3 | **BCL2L1** | 0.998 |
+| BNIP3 | **BCL2** | 0.999 |
+| BAK1 | **BAD** | 0.729 |
+| BAK1 | **VDAC1** | 0.899 |
+| BAK1 | **BBC3** | 0.923 |
+| BAK1 | **BCL2L11** | 0.998 |
+| BAK1 | **BCL2L1** | 0.999 |
+| BAK1 | **BCL2** | 0.999 |
+| BCL2L1 | **VDAC1** | 0.998 |
+| BCL2L1 | **BCL2** | 0.999 |
+| BCL2L1 | **BBC3** | 0.999 |
+| BCL2L1 | **BAD** | 0.999 |
+| BCL2L1 | **BCL2L11** | 0.999 |
+| BCL2L11 | **VDAC1** | 0.889 |
+| BCL2L11 | **BAD** | 0.918 |
+| BCL2L11 | **BBC3** | 0.971 |
+| BCL2L11 | **BCL2** | 0.999 |
+| BAD | **BBC3** | 0.543 |
+| BAD | **BCL2** | 0.999 |
+| VDAC1 | **BCL2** | 0.998 |
+| BCL2 | **BBC3** | 0.999 |
+

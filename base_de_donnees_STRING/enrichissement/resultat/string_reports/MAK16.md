@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : MAK16
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : MAK16
+Identifiant STRING officiel : `9606.ENSP00000353246`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| NIP7 | **WDR74** | 0.978 |
+| NIP7 | **NOC3L** | 0.979 |
+| NIP7 | **MAK16** | 0.993 |
+| NIP7 | **DDX18** | 0.993 |
+| NIP7 | **FTSJ3** | 0.995 |
+| NIP7 | **PES1** | 0.995 |
+| NIP7 | **GTPBP4** | 0.996 |
+| NIP7 | **RSL1D1** | 0.996 |
+| NIP7 | **RSL24D1** | 0.997 |
+| NIP7 | **RPF1** | 0.997 |
+| NIP7 | **NSA2** | 0.997 |
+| NIP7 | **BRIX1** | 0.999 |
+| NIP7 | **WDR12** | 0.999 |
+| NIP7 | **EBNA1BP2** | 0.999 |
+| NIP7 | **NIFK** | 0.999 |
+| RSL24D1 | **NOC3L** | 0.966 |
+| RSL24D1 | **DDX18** | 0.988 |
+| RSL24D1 | **RPF1** | 0.991 |
+| RSL24D1 | **RSL1D1** | 0.992 |
+| RSL24D1 | **EBNA1BP2** | 0.993 |
+| RSL24D1 | **WDR74** | 0.993 |
+| RSL24D1 | **PES1** | 0.995 |
+| RSL24D1 | **BRIX1** | 0.995 |
+| RSL24D1 | **FTSJ3** | 0.995 |
+| RSL24D1 | **MAK16** | 0.997 |
+| RSL24D1 | **NIFK** | 0.997 |
+| RSL24D1 | **WDR12** | 0.998 |
+| RSL24D1 | **NSA2** | 0.999 |
+| RSL24D1 | **GTPBP4** | 0.999 |
+| WDR12 | **NOC3L** | 0.992 |
+| WDR12 | **RPF1** | 0.992 |
+| WDR12 | **FTSJ3** | 0.996 |
+| WDR12 | **GTPBP4** | 0.997 |
+| WDR12 | **DDX18** | 0.997 |
+| WDR12 | **NSA2** | 0.997 |
+| WDR12 | **WDR74** | 0.998 |
+| WDR12 | **BRIX1** | 0.998 |
+| WDR12 | **NIFK** | 0.998 |
+| WDR12 | **EBNA1BP2** | 0.998 |
+| WDR12 | **MAK16** | 0.998 |
+| WDR12 | **RSL1D1** | 0.998 |
+| WDR12 | **PES1** | 0.999 |
+| DDX18 | **NOC3L** | 0.985 |
+| DDX18 | **RPF1** | 0.989 |
+| DDX18 | **EBNA1BP2** | 0.99 |
+| DDX18 | **MAK16** | 0.994 |
+| DDX18 | **NSA2** | 0.994 |
+| DDX18 | **WDR74** | 0.994 |
+| DDX18 | **FTSJ3** | 0.996 |
+| DDX18 | **PES1** | 0.997 |
+| DDX18 | **BRIX1** | 0.997 |
+| DDX18 | **GTPBP4** | 0.997 |
+| DDX18 | **NIFK** | 0.999 |
+| DDX18 | **RSL1D1** | 0.999 |
+| NIFK | **WDR74** | 0.987 |
+| NIFK | **NOC3L** | 0.995 |
+| NIFK | **NSA2** | 0.996 |
+| NIFK | **PES1** | 0.996 |
+| NIFK | **FTSJ3** | 0.997 |
+| NIFK | **GTPBP4** | 0.998 |
+| NIFK | **MAK16** | 0.998 |
+| NIFK | **RPF1** | 0.999 |
+| NIFK | **BRIX1** | 0.999 |
+| NIFK | **RSL1D1** | 0.999 |
+| NIFK | **EBNA1BP2** | 0.999 |
+| BRIX1 | **FTSJ3** | 0.97 |
+| BRIX1 | **NSA2** | 0.987 |
+| BRIX1 | **WDR74** | 0.99 |
+| BRIX1 | **PES1** | 0.993 |
+| BRIX1 | **MAK16** | 0.997 |
+| BRIX1 | **RSL1D1** | 0.997 |
+| BRIX1 | **NOC3L** | 0.997 |
+| BRIX1 | **RPF1** | 0.997 |
+| BRIX1 | **GTPBP4** | 0.998 |
+| BRIX1 | **EBNA1BP2** | 0.999 |
+| PES1 | **NOC3L** | 0.992 |
+| PES1 | **RPF1** | 0.993 |
+| PES1 | **MAK16** | 0.994 |
+| PES1 | **RSL1D1** | 0.996 |
+| PES1 | **WDR74** | 0.997 |
+| PES1 | **FTSJ3** | 0.998 |
+| PES1 | **GTPBP4** | 0.999 |
+| PES1 | **NSA2** | 0.999 |
+| PES1 | **EBNA1BP2** | 0.999 |
+| MAK16 | **RSL1D1** | 0.992 |
+| MAK16 | **NSA2** | 0.993 |
+| MAK16 | **WDR74** | 0.997 |
+| MAK16 | **NOC3L** | 0.997 |
+| MAK16 | **GTPBP4** | 0.997 |
+| MAK16 | **FTSJ3** | 0.997 |
+| MAK16 | **RPF1** | 0.998 |
+| MAK16 | **EBNA1BP2** | 0.999 |
+| GTPBP4 | **RPF1** | 0.984 |
+| GTPBP4 | **WDR74** | 0.994 |
+| GTPBP4 | **NOC3L** | 0.994 |
+| GTPBP4 | **FTSJ3** | 0.995 |
+| GTPBP4 | **RSL1D1** | 0.996 |
+| GTPBP4 | **EBNA1BP2** | 0.997 |
+| GTPBP4 | **NSA2** | 0.999 |
+| RPF1 | **NOC3L** | 0.963 |
+| RPF1 | **NSA2** | 0.991 |
+| RPF1 | **FTSJ3** | 0.991 |
+| RPF1 | **RSL1D1** | 0.993 |
+| RPF1 | **WDR74** | 0.997 |
+| RPF1 | **EBNA1BP2** | 0.997 |
+| NOC3L | **NSA2** | 0.947 |
+| NOC3L | **WDR74** | 0.958 |
+| NOC3L | **FTSJ3** | 0.988 |
+| NOC3L | **RSL1D1** | 0.991 |
+| NOC3L | **EBNA1BP2** | 0.992 |
+| FTSJ3 | **RSL1D1** | 0.99 |
+| FTSJ3 | **WDR74** | 0.997 |
+| FTSJ3 | **NSA2** | 0.997 |
+| FTSJ3 | **EBNA1BP2** | 0.999 |
+| EBNA1BP2 | **NSA2** | 0.997 |
+| EBNA1BP2 | **WDR74** | 0.998 |
+| EBNA1BP2 | **RSL1D1** | 0.998 |
+| WDR74 | **RSL1D1** | 0.983 |
+| WDR74 | **NSA2** | 0.997 |
+| RSL1D1 | **NSA2** | 0.985 |
+

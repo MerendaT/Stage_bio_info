@@ -1,0 +1,508 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "O43255",
+      "uniProtkbId": "SIAH2_HUMAN",
+      "genes": [
+        {
+          "geneName": {
+            "value": "SIAH2"
+          }
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "Q06986"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "11483518"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "12411493"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19224863"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "22878263"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "26392558"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "28546513"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "9334332"
+                }
+              ],
+              "value": "E3 ubiquitin-protein ligase that mediates ubiquitination and subsequent proteasomal degradation of target proteins (PubMed:11483518, PubMed:19224863, PubMed:9334332). E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfers the ubiquitin to targeted substrates (PubMed:11483518, PubMed:19224863, PubMed:9334332). Mediates E3 ubiquitin ligase activity either through direct binding to substrates or by functioning as the essential RING domain subunit of larger E3 complexes (PubMed:11483518, PubMed:19224863, PubMed:9334332). Triggers the ubiquitin-mediated degradation of many substrates, including proteins involved in transcription regulation (GPS2, POU2AF1, PML, NCOR1), a cell surface receptor (DCC), an antiapoptotic protein (BAG1), and a protein involved in synaptic vesicle function in neurons (SYP) (PubMed:11483518, PubMed:19224863, PubMed:9334332). Mediates ubiquitination and proteasomal degradation of DYRK2 in response to hypoxia (PubMed:22878263). It is thereby involved in apoptosis, tumor suppression, cell cycle, transcription and signaling processes (PubMed:11483518, PubMed:19224863, PubMed:22878263, PubMed:9334332). Has some overlapping function with SIAH1 (PubMed:11483518, PubMed:19224863, PubMed:9334332). Triggers the ubiquitin-mediated degradation of TRAF2, whereas SIAH1 does not (PubMed:12411493). Promotes monoubiquitination of SNCA (PubMed:19224863). Regulates cellular clock function via ubiquitination of the circadian transcriptional repressors NR1D1 and NR1D2 leading to their proteasomal degradation (PubMed:26392558). Plays an important role in mediating the rhythmic degradation/clearance of NR1D1 and NR1D2 contributing to their circadian profile of protein abundance (PubMed:26392558). Mediates ubiquitination and degradation of EGLN2 and EGLN3 in response to the unfolded protein response (UPR), leading to their degradation and subsequent stabilization of ATF4 (By similarity). Also part of the Wnt signaling pathway in which it mediates the Wnt-induced ubiquitin-mediated proteasomal degradation of AXIN1"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "note": {
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22878263"
+                  }
+                ],
+                "value": "Predominantly cytoplasmic. Partially nuclear"
+              }
+            ]
+          },
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "19224863"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22878263"
+                  }
+                ],
+                "value": "Cytoplasm",
+                "id": "SL-0086"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "22878263"
+                  }
+                ],
+                "value": "Nucleus",
+                "id": "SL-0191"
+              }
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005829",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytosol"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21586138"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005769",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:early endosome"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043025",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neuronal cell body"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005654",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:nucleoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:HPA"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0003714",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:transcription corepressor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10207103"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031624",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin conjugating enzyme binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061630",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin protein ligase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0004842",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:ubiquitin-protein transferase activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:UniProtKB"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008270",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:zinc ion binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1990000",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:amyloid fibril formation"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:Reactome"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006915",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0060070",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:canonical Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "28546513"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043066",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of apoptotic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21586138"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0090090",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of canonical Wnt signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IGI:MGI"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000316",
+              "source": "PubMed",
+              "id": "12952940"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:2001237",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:negative regulation of extrinsic apoptotic signaling pathway"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "21586138"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0043161",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:proteasome-mediated ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0016567",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:protein ubiquitination"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-UniPathway"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0042752",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of circadian rhythm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26392558"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0031396",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of protein ubiquitination"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0048511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:rhythmic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:UniProtKB-KW"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007264",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:small GTPase-mediated signal transduction"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:ProtInc"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "10207103"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0006511",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:ubiquitin-dependent protein catabolic process"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "26392558"
+            }
+          ]
+        }
+      ],
+      "extraAttributes": {
+        "uniParcId": "UPI0000071280"
+      }
+    }
+  ]
+}

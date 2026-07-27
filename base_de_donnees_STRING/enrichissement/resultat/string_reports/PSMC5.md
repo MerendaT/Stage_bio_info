@@ -1,0 +1,133 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : PSMC5
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : PSMC5
+Identifiant STRING officiel : `9606.ENSP00000310572`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| PSMA4 | **PSMD10** | 0.489 |
+| PSMA4 | **PSMD5** | 0.74 |
+| PSMA4 | **USP14** | 0.996 |
+| PSMA4 | **PSMD3** | 0.998 |
+| PSMA4 | **PSMD8** | 0.999 |
+| PSMA4 | **PSMC1** | 0.999 |
+| PSMA4 | **PSMD1** | 0.999 |
+| PSMA4 | **PSMA5** | 0.999 |
+| PSMA4 | **PSMD2** | 0.999 |
+| PSMA4 | **PSMD7** | 0.999 |
+| PSMA4 | **PSMA6** | 0.999 |
+| PSMA4 | **PSMA2** | 0.999 |
+| PSMA4 | **PSMC4** | 0.999 |
+| PSMA4 | **PSMC5** | 0.999 |
+| PSMA4 | **PSMD11** | 0.999 |
+| PSMC4 | **PSMD1** | 0.999 |
+| PSMC4 | **PSMC1** | 0.999 |
+| PSMC4 | **PSMD8** | 0.999 |
+| PSMC4 | **PSMD5** | 0.999 |
+| PSMC4 | **PSMA6** | 0.999 |
+| PSMC4 | **PSMD7** | 0.999 |
+| PSMC4 | **PSMD10** | 0.999 |
+| PSMC4 | **PSMD2** | 0.999 |
+| PSMC4 | **PSMA5** | 0.999 |
+| PSMC4 | **PSMD11** | 0.999 |
+| PSMC4 | **PSMC5** | 0.999 |
+| PSMC4 | **USP14** | 0.999 |
+| PSMC4 | **PSMA2** | 0.999 |
+| PSMC4 | **PSMD3** | 0.999 |
+| PSMD5 | **PSMA5** | 0.509 |
+| PSMD5 | **PSMA6** | 0.698 |
+| PSMD5 | **PSMA2** | 0.758 |
+| PSMD5 | **USP14** | 0.841 |
+| PSMD5 | **PSMD10** | 0.905 |
+| PSMD5 | **PSMD11** | 0.988 |
+| PSMD5 | **PSMD3** | 0.999 |
+| PSMD5 | **PSMC5** | 0.999 |
+| PSMD5 | **PSMD8** | 0.999 |
+| PSMD5 | **PSMD1** | 0.999 |
+| PSMD5 | **PSMC1** | 0.999 |
+| PSMD5 | **PSMD2** | 0.999 |
+| PSMD5 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMD10** | 0.988 |
+| PSMD8 | **PSMA6** | 0.998 |
+| PSMD8 | **PSMA5** | 0.998 |
+| PSMD8 | **USP14** | 0.998 |
+| PSMD8 | **PSMC1** | 0.999 |
+| PSMD8 | **PSMD1** | 0.999 |
+| PSMD8 | **PSMD7** | 0.999 |
+| PSMD8 | **PSMD2** | 0.999 |
+| PSMD8 | **PSMC5** | 0.999 |
+| PSMD8 | **PSMD11** | 0.999 |
+| PSMD8 | **PSMD3** | 0.999 |
+| PSMD8 | **PSMA2** | 0.999 |
+| PSMD10 | **PSMA5** | 0.525 |
+| PSMD10 | **PSMA6** | 0.548 |
+| PSMD10 | **PSMA2** | 0.671 |
+| PSMD10 | **USP14** | 0.921 |
+| PSMD10 | **PSMD3** | 0.993 |
+| PSMD10 | **PSMD2** | 0.994 |
+| PSMD10 | **PSMD7** | 0.996 |
+| PSMD10 | **PSMC5** | 0.999 |
+| PSMD10 | **PSMD11** | 0.999 |
+| PSMD10 | **PSMD1** | 0.999 |
+| PSMD10 | **PSMC1** | 0.999 |
+| PSMD7 | **PSMA6** | 0.998 |
+| PSMD7 | **PSMD3** | 0.999 |
+| PSMD7 | **PSMA2** | 0.999 |
+| PSMD7 | **USP14** | 0.999 |
+| PSMD7 | **PSMD11** | 0.999 |
+| PSMD7 | **PSMC5** | 0.999 |
+| PSMD7 | **PSMD1** | 0.999 |
+| PSMD7 | **PSMC1** | 0.999 |
+| PSMD7 | **PSMD2** | 0.999 |
+| PSMD7 | **PSMA5** | 0.999 |
+| PSMA2 | **USP14** | 0.997 |
+| PSMA2 | **PSMA6** | 0.999 |
+| PSMA2 | **PSMA5** | 0.999 |
+| PSMA2 | **PSMD2** | 0.999 |
+| PSMA2 | **PSMD1** | 0.999 |
+| PSMA2 | **PSMC1** | 0.999 |
+| PSMA2 | **PSMC5** | 0.999 |
+| PSMA2 | **PSMD11** | 0.999 |
+| PSMA2 | **PSMD3** | 0.999 |
+| PSMC1 | **PSMD1** | 0.999 |
+| PSMC1 | **PSMA6** | 0.999 |
+| PSMC1 | **PSMA5** | 0.999 |
+| PSMC1 | **PSMD2** | 0.999 |
+| PSMC1 | **PSMC5** | 0.999 |
+| PSMC1 | **PSMD11** | 0.999 |
+| PSMC1 | **PSMD3** | 0.999 |
+| PSMC1 | **USP14** | 0.999 |
+| PSMA6 | **USP14** | 0.995 |
+| PSMA6 | **PSMD3** | 0.997 |
+| PSMA6 | **PSMD2** | 0.998 |
+| PSMA6 | **PSMD1** | 0.999 |
+| PSMA6 | **PSMA5** | 0.999 |
+| PSMA6 | **PSMD11** | 0.999 |
+| PSMA6 | **PSMC5** | 0.999 |
+| USP14 | **PSMA5** | 0.989 |
+| USP14 | **PSMD1** | 0.999 |
+| USP14 | **PSMD2** | 0.999 |
+| USP14 | **PSMC5** | 0.999 |
+| USP14 | **PSMD11** | 0.999 |
+| USP14 | **PSMD3** | 0.999 |
+| PSMD11 | **PSMD1** | 0.999 |
+| PSMD11 | **PSMA5** | 0.999 |
+| PSMD11 | **PSMD2** | 0.999 |
+| PSMD11 | **PSMD3** | 0.999 |
+| PSMD11 | **PSMC5** | 0.999 |
+| PSMD3 | **PSMC5** | 0.999 |
+| PSMD3 | **PSMD1** | 0.999 |
+| PSMD3 | **PSMD2** | 0.999 |
+| PSMD3 | **PSMA5** | 0.999 |
+| PSMA5 | **PSMD2** | 0.999 |
+| PSMA5 | **PSMD1** | 0.999 |
+| PSMA5 | **PSMC5** | 0.999 |
+| PSMD1 | **PSMC5** | 0.999 |
+| PSMD1 | **PSMD2** | 0.999 |
+| PSMD2 | **PSMC5** | 0.999 |
+

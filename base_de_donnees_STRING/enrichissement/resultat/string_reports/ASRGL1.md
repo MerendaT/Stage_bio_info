@@ -1,0 +1,121 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : ASRGL1
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : ASRGL1
+Identifiant STRING officiel : `9606.ENSP00000400057`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| GOT2 | **GAD2** | 0.831 |
+| GOT2 | **FTCD** | 0.832 |
+| GOT2 | **GAD1** | 0.837 |
+| GOT2 | **ASPA** | 0.902 |
+| GOT2 | **NAT8L** | 0.919 |
+| GOT2 | **ASRGL1** | 0.924 |
+| GOT2 | **ADSS1** | 0.927 |
+| GOT2 | **CAD** | 0.931 |
+| GOT2 | **ADSS2** | 0.932 |
+| GOT2 | **IL4I1** | 0.934 |
+| GOT2 | **ASS1** | 0.951 |
+| GOT2 | **GOT1L1** | 0.964 |
+| GOT2 | **ASNS** | 0.973 |
+| GOT2 | **GOT1** | 0.982 |
+| ASPA | **FTCD** | 0.818 |
+| ASPA | **GAD1** | 0.822 |
+| ASPA | **GAD2** | 0.822 |
+| ASPA | **ADSS1** | 0.9 |
+| ASPA | **IL4I1** | 0.9 |
+| ASPA | **ADSS2** | 0.9 |
+| ASPA | **CAD** | 0.9 |
+| ASPA | **GOT1L1** | 0.901 |
+| ASPA | **ASRGL1** | 0.905 |
+| ASPA | **ASNS** | 0.908 |
+| ASPA | **GOT1** | 0.915 |
+| ASPA | **ASS1** | 0.916 |
+| ASPA | **NAT8L** | 0.977 |
+| CAD | **FTCD** | 0.816 |
+| CAD | **GAD2** | 0.834 |
+| CAD | **GAD1** | 0.836 |
+| CAD | **IL4I1** | 0.9 |
+| CAD | **NAT8L** | 0.902 |
+| CAD | **ASRGL1** | 0.904 |
+| CAD | **GOT1L1** | 0.909 |
+| CAD | **GOT1** | 0.925 |
+| CAD | **ASNS** | 0.945 |
+| CAD | **ADSS1** | 0.954 |
+| CAD | **ADSS2** | 0.963 |
+| CAD | **ASS1** | 0.994 |
+| GOT1L1 | **FTCD** | 0.801 |
+| GOT1L1 | **GAD1** | 0.819 |
+| GOT1L1 | **GAD2** | 0.819 |
+| GOT1L1 | **IL4I1** | 0.906 |
+| GOT1L1 | **NAT8L** | 0.92 |
+| GOT1L1 | **ASRGL1** | 0.921 |
+| GOT1L1 | **ADSS2** | 0.922 |
+| GOT1L1 | **ADSS1** | 0.922 |
+| GOT1L1 | **ASS1** | 0.928 |
+| GOT1L1 | **GOT1** | 0.938 |
+| GOT1L1 | **ASNS** | 0.949 |
+| ADSS1 | **GAD2** | 0.804 |
+| ADSS1 | **GAD1** | 0.804 |
+| ADSS1 | **FTCD** | 0.814 |
+| ADSS1 | **IL4I1** | 0.9 |
+| ADSS1 | **NAT8L** | 0.9 |
+| ADSS1 | **ASRGL1** | 0.91 |
+| ADSS1 | **GOT1** | 0.923 |
+| ADSS1 | **ASNS** | 0.926 |
+| ADSS1 | **ADSS2** | 0.949 |
+| ADSS1 | **ASS1** | 0.95 |
+| GAD1 | **IL4I1** | 0.813 |
+| GAD1 | **ADSS2** | 0.819 |
+| GAD1 | **FTCD** | 0.824 |
+| GAD1 | **ASRGL1** | 0.829 |
+| GAD1 | **ASS1** | 0.838 |
+| GAD1 | **GOT1** | 0.845 |
+| GAD1 | **NAT8L** | 0.848 |
+| GAD1 | **ASNS** | 0.877 |
+| GAD1 | **GAD2** | 0.968 |
+| ADSS2 | **GAD2** | 0.81 |
+| ADSS2 | **FTCD** | 0.827 |
+| ADSS2 | **NAT8L** | 0.9 |
+| ADSS2 | **IL4I1** | 0.903 |
+| ADSS2 | **ASRGL1** | 0.916 |
+| ADSS2 | **GOT1** | 0.931 |
+| ADSS2 | **ASNS** | 0.937 |
+| ADSS2 | **ASS1** | 0.992 |
+| GOT1 | **FTCD** | 0.802 |
+| GOT1 | **GAD2** | 0.837 |
+| GOT1 | **IL4I1** | 0.908 |
+| GOT1 | **NAT8L** | 0.918 |
+| GOT1 | **ASRGL1** | 0.927 |
+| GOT1 | **ASS1** | 0.95 |
+| GOT1 | **ASNS** | 0.969 |
+| ASS1 | **ASPG** | 0.519 |
+| ASS1 | **GAD2** | 0.826 |
+| ASS1 | **FTCD** | 0.875 |
+| ASS1 | **ASRGL1** | 0.906 |
+| ASS1 | **NAT8L** | 0.912 |
+| ASS1 | **IL4I1** | 0.913 |
+| ASS1 | **ASNS** | 0.976 |
+| GAD2 | **IL4I1** | 0.813 |
+| GAD2 | **FTCD** | 0.82 |
+| GAD2 | **NAT8L** | 0.823 |
+| GAD2 | **ASRGL1** | 0.831 |
+| GAD2 | **ASNS** | 0.86 |
+| ASNS | **ASPG** | 0.794 |
+| ASNS | **FTCD** | 0.827 |
+| ASNS | **IL4I1** | 0.913 |
+| ASNS | **NAT8L** | 0.93 |
+| ASNS | **ASRGL1** | 0.959 |
+| FTCD | **NAT8L** | 0.806 |
+| FTCD | **IL4I1** | 0.821 |
+| FTCD | **ASRGL1** | 0.826 |
+| ASRGL1 | **NAT8L** | 0.9 |
+| ASRGL1 | **IL4I1** | 0.906 |
+| ASRGL1 | **ASPG** | 0.936 |
+| NAT8L | **IL4I1** | 0.901 |
+

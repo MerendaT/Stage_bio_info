@@ -1,0 +1,119 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Protéine cible : TRIOBP
+## Organisme : Homo sapiens (TaxID: 9606)
+
+---
+
+### Réseau d'interactions pour le gène : TRIOBP
+Identifiant STRING officiel : `9606.ENSP00000496394`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| MYH9 | **PJVK** | 0.605 |
+| MYH9 | **MYO15A** | 0.639 |
+| MYH9 | **MYO3A** | 0.649 |
+| MYH9 | **SPTBN1** | 0.671 |
+| MYH9 | **TRIOBP** | 0.694 |
+| MYH9 | **WHRN** | 0.727 |
+| MYH9 | **ESPN** | 0.747 |
+| MYH9 | **GRXCR2** | 0.8 |
+| MYH9 | **FSCN2** | 0.803 |
+| MYH9 | **XIRP2** | 0.838 |
+| MYH9 | **GRXCR1** | 0.848 |
+| MYH9 | **SPTAN1** | 0.848 |
+| MYH9 | **MYO7A** | 0.849 |
+| MYH9 | **TPRN** | 0.868 |
+| PACSIN2 | **TRIOBP** | 0.677 |
+| FSCN2 | **PJVK** | 0.499 |
+| FSCN2 | **SPTAN1** | 0.501 |
+| FSCN2 | **SPTBN1** | 0.552 |
+| FSCN2 | **MYO15A** | 0.583 |
+| FSCN2 | **WHRN** | 0.641 |
+| FSCN2 | **MYO3A** | 0.677 |
+| FSCN2 | **TRIOBP** | 0.711 |
+| FSCN2 | **ESPN** | 0.782 |
+| FSCN2 | **GRXCR2** | 0.802 |
+| FSCN2 | **GRXCR1** | 0.829 |
+| FSCN2 | **TPRN** | 0.859 |
+| FSCN2 | **MYO7A** | 0.873 |
+| FSCN2 | **XIRP2** | 0.885 |
+| SPTBN1 | **GRXCR1** | 0.507 |
+| SPTBN1 | **GRXCR2** | 0.519 |
+| SPTBN1 | **WHRN** | 0.534 |
+| SPTBN1 | **ESPN** | 0.55 |
+| SPTBN1 | **MYO15A** | 0.55 |
+| SPTBN1 | **MYO3A** | 0.556 |
+| SPTBN1 | **TPRN** | 0.564 |
+| SPTBN1 | **MYO7A** | 0.596 |
+| SPTBN1 | **PJVK** | 0.802 |
+| SPTBN1 | **XIRP2** | 0.812 |
+| SPTBN1 | **TRIOBP** | 0.849 |
+| SPTBN1 | **SPTAN1** | 0.999 |
+| WHRN | **SPTAN1** | 0.503 |
+| WHRN | **XIRP2** | 0.593 |
+| WHRN | **GRXCR2** | 0.646 |
+| WHRN | **PJVK** | 0.715 |
+| WHRN | **GRXCR1** | 0.736 |
+| WHRN | **TRIOBP** | 0.77 |
+| WHRN | **MYO3A** | 0.939 |
+| WHRN | **TPRN** | 0.958 |
+| WHRN | **ESPN** | 0.958 |
+| WHRN | **MYO7A** | 0.983 |
+| WHRN | **MYO15A** | 0.999 |
+| GRXCR2 | **SPTAN1** | 0.499 |
+| GRXCR2 | **PJVK** | 0.677 |
+| GRXCR2 | **TRIOBP** | 0.694 |
+| GRXCR2 | **MYO3A** | 0.713 |
+| GRXCR2 | **MYO15A** | 0.725 |
+| GRXCR2 | **ESPN** | 0.755 |
+| GRXCR2 | **XIRP2** | 0.819 |
+| GRXCR2 | **GRXCR1** | 0.84 |
+| GRXCR2 | **MYO7A** | 0.869 |
+| GRXCR2 | **TPRN** | 0.923 |
+| GRXCR1 | **SPTAN1** | 0.499 |
+| GRXCR1 | **TRIOBP** | 0.75 |
+| GRXCR1 | **MYO15A** | 0.753 |
+| GRXCR1 | **MYO3A** | 0.784 |
+| GRXCR1 | **ESPN** | 0.784 |
+| GRXCR1 | **PJVK** | 0.793 |
+| GRXCR1 | **XIRP2** | 0.822 |
+| GRXCR1 | **MYO7A** | 0.895 |
+| GRXCR1 | **TPRN** | 0.928 |
+| MYO7A | **SPTAN1** | 0.546 |
+| MYO7A | **MYO3A** | 0.646 |
+| MYO7A | **MYO15A** | 0.667 |
+| MYO7A | **PJVK** | 0.742 |
+| MYO7A | **TRIOBP** | 0.791 |
+| MYO7A | **XIRP2** | 0.839 |
+| MYO7A | **ESPN** | 0.878 |
+| MYO7A | **TPRN** | 0.895 |
+| XIRP2 | **MYO15A** | 0.581 |
+| XIRP2 | **MYO3A** | 0.611 |
+| XIRP2 | **ESPN** | 0.659 |
+| XIRP2 | **SPTAN1** | 0.806 |
+| XIRP2 | **PJVK** | 0.811 |
+| XIRP2 | **TPRN** | 0.829 |
+| XIRP2 | **TRIOBP** | 0.868 |
+| TPRN | **SPTAN1** | 0.563 |
+| TPRN | **PJVK** | 0.742 |
+| TPRN | **MYO3A** | 0.77 |
+| TPRN | **MYO15A** | 0.788 |
+| TPRN | **ESPN** | 0.797 |
+| TPRN | **TRIOBP** | 0.828 |
+| SPTAN1 | **ESPN** | 0.501 |
+| SPTAN1 | **MYO15A** | 0.507 |
+| SPTAN1 | **MYO3A** | 0.536 |
+| SPTAN1 | **PJVK** | 0.801 |
+| SPTAN1 | **TRIOBP** | 0.854 |
+| MYO15A | **PJVK** | 0.817 |
+| MYO15A | **TRIOBP** | 0.829 |
+| MYO15A | **MYO3A** | 0.905 |
+| MYO15A | **ESPN** | 0.97 |
+| PJVK | **ESPN** | 0.7 |
+| PJVK | **MYO3A** | 0.744 |
+| PJVK | **TRIOBP** | 0.904 |
+| MYO3A | **TRIOBP** | 0.759 |
+| MYO3A | **ESPN** | 0.972 |
+| TRIOBP | **ESPN** | 0.809 |
+

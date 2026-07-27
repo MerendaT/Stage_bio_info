@@ -1,0 +1,124 @@
+# RÉSULTATS DE LA RECHERCHE STRING-DB
+
+## Cible protéique : UBE2C
+## Organisme : Homo sapiens (TaxID : 9606)
+
+---
+
+### Réseau d'interactions pour le gène : UBE2C
+Identifiant STRING officiel : `9606.ENSP00000348838`
+
+| Protéine A (Cible) | Protéine B (Partenaire) | Score de confiance total |
+| :--- | :--- | :--- |
+| CCNB1 | **ANAPC15** | 0.617 |
+| CCNB1 | **ANAPC11** | 0.797 |
+| CCNB1 | **ANAPC2** | 0.935 |
+| CCNB1 | **ANAPC5** | 0.936 |
+| CCNB1 | **CDC23** | 0.974 |
+| CCNB1 | **CDC16** | 0.975 |
+| CCNB1 | **UBE2C** | 0.99 |
+| CCNB1 | **BIRC5** | 0.993 |
+| CCNB1 | **CCNA2** | 0.995 |
+| CCNB1 | **BUB1B** | 0.998 |
+| CCNB1 | **FZR1** | 0.998 |
+| CCNB1 | **ANAPC4** | 0.999 |
+| CCNB1 | **CDC20** | 0.999 |
+| CCNB1 | **CDC27** | 0.999 |
+| CCNB1 | **ANAPC10** | 0.999 |
+| ANAPC5 | **CCNA2** | 0.925 |
+| ANAPC5 | **UBE2C** | 0.99 |
+| ANAPC5 | **BUB1B** | 0.998 |
+| ANAPC5 | **ANAPC15** | 0.999 |
+| ANAPC5 | **FZR1** | 0.999 |
+| ANAPC5 | **ANAPC10** | 0.999 |
+| ANAPC5 | **CDC27** | 0.999 |
+| ANAPC5 | **ANAPC4** | 0.999 |
+| ANAPC5 | **CDC20** | 0.999 |
+| ANAPC5 | **ANAPC11** | 0.999 |
+| ANAPC5 | **CDC16** | 0.999 |
+| ANAPC5 | **ANAPC2** | 0.999 |
+| ANAPC5 | **CDC23** | 0.999 |
+| BUB1B | **ANAPC11** | 0.964 |
+| BUB1B | **ANAPC15** | 0.978 |
+| BUB1B | **FZR1** | 0.981 |
+| BUB1B | **BIRC5** | 0.987 |
+| BUB1B | **UBE2C** | 0.991 |
+| BUB1B | **CCNA2** | 0.994 |
+| BUB1B | **ANAPC2** | 0.999 |
+| BUB1B | **CDC23** | 0.999 |
+| BUB1B | **ANAPC4** | 0.999 |
+| BUB1B | **CDC20** | 0.999 |
+| BUB1B | **CDC16** | 0.999 |
+| BUB1B | **ANAPC10** | 0.999 |
+| BUB1B | **CDC27** | 0.999 |
+| BIRC5 | **FZR1** | 0.474 |
+| BIRC5 | **CCNA2** | 0.956 |
+| BIRC5 | **UBE2C** | 0.992 |
+| BIRC5 | **CDC20** | 0.995 |
+| ANAPC2 | **CCNA2** | 0.914 |
+| ANAPC2 | **ANAPC15** | 0.998 |
+| ANAPC2 | **UBE2C** | 0.998 |
+| ANAPC2 | **ANAPC11** | 0.999 |
+| ANAPC2 | **CDC16** | 0.999 |
+| ANAPC2 | **CDC20** | 0.999 |
+| ANAPC2 | **ANAPC4** | 0.999 |
+| ANAPC2 | **CDC23** | 0.999 |
+| ANAPC2 | **CDC27** | 0.999 |
+| ANAPC2 | **FZR1** | 0.999 |
+| ANAPC2 | **ANAPC10** | 0.999 |
+| CDC16 | **CCNA2** | 0.94 |
+| CDC16 | **UBE2C** | 0.992 |
+| CDC16 | **ANAPC15** | 0.998 |
+| CDC16 | **CDC27** | 0.999 |
+| CDC16 | **ANAPC10** | 0.999 |
+| CDC16 | **FZR1** | 0.999 |
+| CDC16 | **ANAPC11** | 0.999 |
+| CDC16 | **CDC20** | 0.999 |
+| CDC16 | **ANAPC4** | 0.999 |
+| CDC16 | **CDC23** | 0.999 |
+| UBE2C | **FZR1** | 0.991 |
+| UBE2C | **CDC23** | 0.991 |
+| UBE2C | **ANAPC15** | 0.992 |
+| UBE2C | **ANAPC10** | 0.993 |
+| UBE2C | **CDC27** | 0.993 |
+| UBE2C | **ANAPC4** | 0.993 |
+| UBE2C | **CCNA2** | 0.994 |
+| UBE2C | **CDC20** | 0.999 |
+| UBE2C | **ANAPC11** | 0.999 |
+| ANAPC11 | **CCNA2** | 0.76 |
+| ANAPC11 | **FZR1** | 0.949 |
+| ANAPC11 | **ANAPC15** | 0.991 |
+| ANAPC11 | **ANAPC4** | 0.999 |
+| ANAPC11 | **CDC20** | 0.999 |
+| ANAPC11 | **ANAPC10** | 0.999 |
+| ANAPC11 | **CDC23** | 0.999 |
+| ANAPC11 | **CDC27** | 0.999 |
+| CDC20 | **FZR1** | 0.937 |
+| CDC20 | **ANAPC15** | 0.986 |
+| CDC20 | **CDC23** | 0.999 |
+| CDC20 | **ANAPC4** | 0.999 |
+| CDC20 | **ANAPC10** | 0.999 |
+| CDC20 | **CCNA2** | 0.999 |
+| CDC20 | **CDC27** | 0.999 |
+| CDC23 | **CCNA2** | 0.942 |
+| CDC23 | **ANAPC4** | 0.999 |
+| CDC23 | **ANAPC15** | 0.999 |
+| CDC23 | **FZR1** | 0.999 |
+| CDC23 | **ANAPC10** | 0.999 |
+| CDC23 | **CDC27** | 0.999 |
+| FZR1 | **ANAPC15** | 0.976 |
+| FZR1 | **CCNA2** | 0.982 |
+| FZR1 | **ANAPC10** | 0.997 |
+| FZR1 | **CDC27** | 0.999 |
+| FZR1 | **ANAPC4** | 0.999 |
+| ANAPC4 | **ANAPC15** | 0.999 |
+| ANAPC4 | **CDC27** | 0.999 |
+| ANAPC4 | **CCNA2** | 0.999 |
+| ANAPC4 | **ANAPC10** | 0.999 |
+| CDC27 | **CCNA2** | 0.983 |
+| CDC27 | **ANAPC15** | 0.996 |
+| CDC27 | **ANAPC10** | 0.999 |
+| ANAPC15 | **CCNA2** | 0.921 |
+| ANAPC15 | **ANAPC10** | 0.999 |
+| ANAPC10 | **CCNA2** | 0.972 |
+
