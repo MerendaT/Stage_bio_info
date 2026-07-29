@@ -62,8 +62,8 @@ Ce dictionnaire sert ensuite de matrice d'entrée directe pour les analyses fonc
 #### Visualisation globale du pipeline et des interactions
 
 <p>
-<img src="schema-recap-1.png" width="50%">
-
+<img src="schema-recap-1.png" width="70%">
+<img src="schema-enrichissement-1.png" width="70%">
 </p>    
 ---
 
