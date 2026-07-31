@@ -11,14 +11,10 @@ Ce dépôt réunit des outils bio-informatiques développés pour automatiser le
 ### Exécution en ligne de commande :
 
 ### Pour traiter un fichier Excel (.xlsx)
-python uniprot_localisation.py --format 1
-### ou
-python uniprot_localisation.py -f xlsx
+python uniprot_localisation.py --format 1 ou python uniprot_localisation.py -f xlsx
 
 ### Pour traiter un fichier texte (.txt)
-python uniprot_localisation.py --format 2
-### ou
-python uniprot_localisation.py -f txt
+python uniprot_localisation.py --format 2 ou python uniprot_localisation.py -f txt
 
 ### Mode interactif (si aucun argument n'est fourni)
 python uniprot_localisation.py
