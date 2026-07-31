@@ -10,17 +10,17 @@ Ce dépôt réunit des outils bio-informatiques développés pour automatiser le
 * **Localisation :** [code_documente_mixte.py](https://github.com/MerendaT/Stage_bio_info/blob/interaction_LC/base_de_donnees_UniProt/script/code_documente_mixte.py)
 ### Exécution en ligne de commande :
 
-# Pour traiter un fichier Excel (.xlsx)
+### Pour traiter un fichier Excel (.xlsx)
 python uniprot_localisation.py --format 1
-# ou
+### ou
 python uniprot_localisation.py -f xlsx
 
-# Pour traiter un fichier texte (.txt)
+### Pour traiter un fichier texte (.txt)
 python uniprot_localisation.py --format 2
-# ou
+### ou
 python uniprot_localisation.py -f txt
 
-# Mode interactif (si aucun argument n'est fourni)
+### Mode interactif (si aucun argument n'est fourni)
 python uniprot_localisation.py
 
 ---
@@ -32,16 +32,16 @@ python uniprot_localisation.py
 
 ### Exécution en ligne de commande :
 
-# Recherche simple (Organisme humain par défaut - TaxID 9606)
+### Recherche simple (Organisme humain par défaut - TaxID 9606)
 python string_annotation_prot.py --protein SMARCA4
 
-# Recherche sur un autre organisme (ex: Souris - TaxID 10090)
+### Recherche sur un autre organisme (ex: Souris - TaxID 10090)
 python string_annotation_prot.py -p TP53 -t 10090
 
-# Recherche avec filtrage sur une catégorie
+### Recherche avec filtrage sur une catégorie
 python string_annotation_prot.py -p SMARCA4 -f COMPONENT
 
-# Mode interactif via invites d'entrée
+### Mode interactif via invites d'entrée
 python string_annotation_prot.py
 
 ---
@@ -54,17 +54,17 @@ python string_annotation_prot.py
 ### Exécution en ligne de commande :
 
 #### Mode 1 : Extraction des réseaux d'interactions STRING uniquement
-# Pour l'humain (TaxID 9606 par défaut)
+### Pour l'humain (TaxID 9606 par défaut)
 python pipeline_string_gsea.py --mode 1
 
-# Pour un autre organisme (ex: Souris - TaxID 10090)
+### Pour un autre organisme (ex: Souris - TaxID 10090)
 python pipeline_string_gsea.py -m 1 -t 10090
 
 #### Mode 2 : Pipeline complet (STRING + Enrichissement GSEA)
 # Enrichissement GSEA avec les réseaux d'interactions STRING (p-value < 0.05)
 python pipeline_string_gsea.py --mode 2 --db STRING --p-value 0.05
 
-# Enrichissement GSEA sur les bibliothèques officielles de GSEApy (p-value < 0.01)
+### Enrichissement GSEA sur les bibliothèques officielles de GSEApy (p-value < 0.01)
 python pipeline_string_gsea.py -m 2 -d GSEA -p 0.01
 
 #### Menu d'aide
