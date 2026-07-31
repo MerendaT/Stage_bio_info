@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Créé le mardi 20 juillet 2026
+Cree le mardi 20 juillet 2026
 @auteur : merenda teo
 
 Description :
-Ce script permet de lire une liste de gènes/protéines depuis un fichier Excel,
-d'interroger l'API de STRING-DB en parallèle (Multi-threading) pour récupérer 
-leurs réseaux d'interactions protéiques, de sauvegarder ces rapports au format 
-Markdown et JSON, puis d'exécuter une analyse d'enrichissement fonctionnel (GSEA) 
-via la librairie GSEApy avec génération de graphiques (dotplot).
+Ce script permet de lire une liste de genes/proteines depuis un fichier Excel,
+d'interroger l'API de STRING-DB en parallele (Multi-threading) pour recuperer 
+leurs reseaux d'interactions proteiques, de sauvegarder ces rapports au format 
+Markdown et JSON, puis d'executer une analyse d'enrichissement fonctionnel (GSEA) 
+via la librairie GSEApy avec generation de graphiques (dotplot).
 """
 
+import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 from pathlib import Path
@@ -28,20 +29,20 @@ import requests
 # -----------------------------------------------------------------------------
 
 BASE_DIR = Path(
-    "~/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/enrichissement/resultat/"
+    "~/Documents/Stage_bio_info/base_de_donnees_STRING/enrichissement/resultat/"
 ).expanduser()
 OUT_DIR = BASE_DIR / "string_reports"
 SCHEMAS_DIR = BASE_DIR / "schemas_enrichissement_png"
 EXCEL_FILE = Path(
-    "~/Documents/remod_diffchip/Stage_bio_info/base_de_donnees_STRING/enrichissement/donnees/donnees_ms_uniprot.xlsx"
+    "~/Documents/Stage_bio_info/base_de_donnees_STRING/enrichissement/donnees/donnees_ms_uniprot.xlsx"
 ).expanduser()
 
 COLONNE_UNIPROT = "PG,Genes"
 
-# Nombre maximum de threads en parallèle (à ajuster selon la connexion, 5 à 10 est idéal pour STRING API)
+# Nombre maximum de threads en parallele (a ajuster selon la connexion, 5 a 10 est ideal pour STRING API)
 MAX_WORKERS = 8
 
-# Verrou de sécurité pour éviter les conflits d'écriture entre threads
+# Verrou de securite pour eviter les conflits d'ecriture entre threads
 LOCK = threading.Lock()
 
 OUT_DIR.mkdir(exist_ok=True, parents=True)
@@ -62,7 +63,7 @@ def traiter_un_gene(
     dictionnaire_enrichissement: dict,
     genes_excel_cleans: list,
 ):
-    """Traitement individuel d'une protéine exécuté par un Worker (Thread)."""
+    """Traitement individuel d'une proteine execute par un Worker (Thread)."""
     brut = ligne.strip()
 
     if not brut or brut == "nan" or brut == colonne_genes:
@@ -88,7 +89,7 @@ def traiter_un_gene(
     results_blocks = []
     liste_preferred_valides = []
 
-    # --- Étape C.1 : Mapping STRING ---
+    # --- Etape C.1 : Mapping STRING ---
     param_map = {"identifiers": prot_name, "species": tax_id, "limit": 1}
     string_id_valide = None
     try:
@@ -104,7 +105,7 @@ def traiter_un_gene(
         print(f" Impossible de mapper {prot_name} dans STRING.")
         return
 
-    # --- Étape C.2 : Réseau d'interactions ---
+    # --- Etape C.2 : Reseau d'interactions ---
     api_params = {
         "identifiers": string_id_valide,
         "species": tax_id,
@@ -123,7 +124,7 @@ def traiter_un_gene(
     except Exception as error:
         print(f" Erreur réseau pour {prot_name} : {error}")
 
-    # --- Étape C.3 : Mise en forme ---
+    # --- Etape C.3 : Mise en forme ---
     if raw_json:
         print(
             f" -> {len(raw_json)} interaction(s) fonctionnelle(s) pour {prot_name}"
@@ -150,13 +151,13 @@ def traiter_un_gene(
             f"Aucune interaction valide trouvée dans STRING pour {prot_name} (TaxID: {tax_id})."
         )
 
-    # Remplissage sécurisé du dictionnaire
+    # Remplissage securise du dictionnaire
     if liste_preferred_valides:
         partenaires = list(set([g.upper() for g in liste_preferred_valides]))
         with LOCK:
             dictionnaire_enrichissement[gene_clean] = partenaires
 
-    # --- Étape C.4 : Écriture du rapport MD ---
+    # --- Etape C.4 : Ecriture du rapport MD ---
     safe_name = "".join([c if c.isalnum() else "_" for c in prot_name])
     out_txt = out_dir / f"{safe_name}.md"
     try:
@@ -233,7 +234,7 @@ def acquerir_base_string(
             for ligne in liste_raw
         ]
 
-        # Attend la fin de toutes les exécutions
+        # Attend la fin de toutes les executions
         for future in as_completed(futures):
             try:
                 future.result()
@@ -261,7 +262,7 @@ def executer_enrichissement_gsea_DB(
     p_value_cutoff: float = 0.05,
     schemas_dir: Path = SCHEMAS_DIR,
 ) -> dict:
-    """Exécute l'analyse GSEA (via un dictionnaire STRING ou un nom de base GSEApy)."""
+    """Execute l'analyse GSEA (via un dictionnaire STRING ou un nom de base GSEApy)."""
     gsea_results = {}
 
     if not lib or not gene_sets:
@@ -276,7 +277,7 @@ def executer_enrichissement_gsea_DB(
 
     try:
         res_gsea = gp.enrich(
-            gene_list=lib, gene_sets=gene_sets, outdir=None
+            gene_list=gene_sets, gene_sets=lib, outdir=None
         )
 
         if (
@@ -293,13 +294,15 @@ def executer_enrichissement_gsea_DB(
                     orient="index"
                 )
 
-                chemin_png = schemas_dir / "dotplot_enrichissement.png"
+                # Nom unique pour le fichier PNG si lib est une chaine de caracteres
+                safe_lib_name = "".join([c if c.isalnum() else "_" for c in str(lib)])
+                chemin_png = schemas_dir / f"dotplot_enrichissement_{safe_lib_name}.png"
                 dotplot(
                     df_filtered,
                     column="P-value",
                     top_term=10,
                     figsize=(6, 8),
-                    title="Enrichissement GSEA",
+                    title=f"Enrichissement GSEA - {lib}",
                     ofname=str(chemin_png),
                     show_ring=True,
                 )
@@ -313,18 +316,13 @@ def executer_enrichissement_gsea_DB(
             print(" -> Aucun résultat d'enrichissement renvoyé par GSEApy.")
 
     except Exception as e:
-        print(f" -> Erreur lors de l'analyse GSEA : {e}")
+        print(f" -> Erreur lors de l'analyse GSEA ({lib}) : {e}")
 
-    res_output_path = BASE_DIR / "resultats_enrichissement_gsea.json"
-    with open(res_output_path, "w", encoding="utf-8") as f_res:
-        json.dump(gsea_results, f_res, indent=4, ensure_ascii=False)
-
-    print(f"Résultats de l'enrichissement enregistrés dans : {res_output_path}")
     return gsea_results
 
 
 def versions():
-    """Affiche les versions des librairies utilisées dans l'environnement de travail."""
+    """Affiche les versions des librairies utilisees dans l'environnement de travail."""
     print("voici le détail de toutes les versions utilisées : \n")
     print("Pandas : 3.0.3")
     print("requests : 2.34.2")
@@ -337,83 +335,113 @@ def versions():
 
 
 # -----------------------------------------------------------------------------
-# PROGRAMME PRINCIPAL
+# PROGRAMME PRINCIPAL (ARGPARSE)
 # -----------------------------------------------------------------------------
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Pipeline Bio-informatique : STRING-DB & Enrichissement GSEA"
+    )
+
+    parser.add_argument(
+        "-m",
+        "--mode",
+        type=int,
+        choices=[1, 2],
+        default=1,
+        help="1: Acquérir la base STRING uniquement | 2: Base STRING + Enrichissement GSEA (défaut: 1)",
+    )
+    parser.add_argument(
+        "-t",
+        "--tax-id",
+        type=int,
+        default=9606,
+        help="TaxID de l'organisme (ex: 9606 pour l'humain, défaut: 9606)",
+    )
+    parser.add_argument(
+        "-p",
+        "--p-value",
+        type=float,
+        default=0.05,
+        help="Seuil maximal de p-value pour l'enrichissement (défaut: 0.05)",
+    )
+    parser.add_argument(
+        "-d",
+        "--db",
+        type=str,
+        choices=["STRING", "GSEA"],
+        default="STRING",
+        help="Base de données d'enrichissement à utiliser si mode=2 : STRING ou GSEA (défaut: STRING)",
+    )
+
+    args = parser.parse_args()
+
     print("=========================================================")
-    print(" PIPELINE INTERACTIF : STRING-DB & ENRICHISSEMENT GSEA ")
+    print(" PIPELINE CLI : STRING-DB & ENRICHISSEMENT GSEA ")
     print("=========================================================\n")
 
-    print("Que souhaitez-vous faire ?")
-    print(" 1. Acquérir uniquement la base d'interactions STRING")
-    print(" 2. Récupérer la base STRING ET faire l'enrichissement GSEA global")
+    tax_id = args.tax_id
+    choix = str(args.mode)
+    p_val_thresh = args.p_value
+    db_choice = args.db.upper()
 
-    choix = input("\nVotre choix (1 ou 2) : ").strip()
+    string_dict, genes_excel, org_name = acquerir_base_string(
+        excel_file=EXCEL_FILE,
+        colonne_genes=COLONNE_UNIPROT,
+        tax_id=tax_id,
+        out_dir=OUT_DIR,
+        max_workers=MAX_WORKERS,
+    )
 
-    if choix in ["1", "2"]:
-        tax_input = input(
-            "\nTaxID de l'organisme [défaut : 9606 (Humain)] : "
-        ).strip()
-        try:
-            tax_id = int(tax_input) if tax_input else 9606
-        except ValueError:
-            print("ID invalide. Utilisation du TaxID 9606.")
-            tax_id = 9606
+    if choix == "2":
+        if db_choice == "STRING":
+            if string_dict and genes_excel:
+                res_single = executer_enrichissement_gsea_DB(
+                    lib=string_dict,
+                    gene_sets=genes_excel,
+                    p_value_cutoff=p_val_thresh,
+                    schemas_dir=SCHEMAS_DIR,
+                )
+                res_output_path = BASE_DIR / "resultats_enrichissement_gsea.json"
+                with open(res_output_path, "w", encoding="utf-8") as f_res:
+                    json.dump(res_single, f_res, indent=4, ensure_ascii=False)
+                print(f"Résultats de l'enrichissement enregistrés dans : {res_output_path}")
+            else:
+                print("\nImpossible de lancer GSEA : dictionnaire ou liste vide.")
 
-        p_val_thresh = 0.05
-        if choix == "2":
-            p_input = input("Seuil max p-value [défaut : 0.05] : ").strip()
-            try:
-                p_val_thresh = float(p_input) if p_input else 0.05
-            except ValueError:
-                print("p-value invalide. Utilisation de 0.05 par défaut.")
-                p_val_thresh = 0.05
+        elif db_choice == "GSEA":
+            MAX_GSEA_WORKERS = 8
+            lib_choisie = gp.get_library_name(organism=org_name)
 
-        string_dict, genes_excel, org_name = acquerir_base_string(
-            excel_file=EXCEL_FILE,
-            colonne_genes=COLONNE_UNIPROT,
-            tax_id=tax_id,
-            out_dir=OUT_DIR,
-            max_workers=MAX_WORKERS,
-        )
+            tous_resultats = {}
 
-        if choix == "2":
-            DB = input(
-                "Quelle base souhaitez-vous utiliser ? (GSEA ou STRING) [défaut: STRING] : "
-            )
-            DB = DB.upper()
+            with ThreadPoolExecutor(max_workers=MAX_GSEA_WORKERS) as executor:
+                future_to_lib = {
+                    executor.submit(
+                        executer_enrichissement_gsea_DB,
+                        lib,
+                        genes_excel,
+                        p_val_thresh,
+                        SCHEMAS_DIR,
+                    ): lib
+                    for lib in lib_choisie
+                }
 
-            if DB == "STRING":
-                if string_dict and genes_excel:
-                    executer_enrichissement_gsea_DB(
-                        gene_list=genes_excel,
-                        gene_sets=string_dict,
-                        p_value_cutoff=p_val_thresh,
-                        schemas_dir=SCHEMAS_DIR,
-                    )
-                else:
-                    print(
-                        "\nImpossible de lancer GSEA : dictionnaire ou liste vide."
-                    )
+                for future in as_completed(future_to_lib):
+                    lib_name = future_to_lib[future]
+                    try:
+                        res = future.result()
+                        if res:
+                            tous_resultats[lib_name] = res
+                    except Exception as e:
+                        print(f"Erreur d'exécution pour la librairie {lib_name} : {e}")
 
-            elif DB == "GSEA":
-                # prend toutes les librairies
-                
-                # Reglage du nombre de threads pour requeter les banques GSEA Enrichr
-                MAX_GSEA_WORKERS = 8 
-                nb_lib_traitees = 0
-                lib_choisie = gp.get_library_name(organism=org_name)
-                with ThreadPoolExecutor(max_workers=MAX_GSEA_WORKERS) as executor:
-                    # Lancement parallele de l analyse pour chaque librairie
-                    future_to_lib = {
-                        executor.submit(executer_enrichissement_gsea_DB, lib, gene_sets, p_value_cutoff, schemas_dir): lib
-                        for lib in lib_choisie
-                    }
+            res_output_path = BASE_DIR / "resultats_enrichissement_gsea.json"
+            with open(res_output_path, "w", encoding="utf-8") as f_res:
+                json.dump(tous_resultats, f_res, indent=4, ensure_ascii=False)
 
-        print("\n---------------------------------------------------------")
-        print(" TRAITEMENT TERMINÉ avec succès ")
-        print("---------------------------------------------------------")
-        versions()
+            print(f"Tous les résultats de l'enrichissement GSEA ont été enregistrés dans : {res_output_path}")
 
-    else:
-        print("Choix non valide. Fin du programme.")
+    print("\n---------------------------------------------------------")
+    print(" TRAITEMENT TERMINÉ avec succès ")
+    print("---------------------------------------------------------")
+    versions()
